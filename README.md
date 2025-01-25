@@ -1,6 +1,6 @@
-# Goodbooks-10k
+# Bookify
 
-Goodbooks-10k is a web application that provides personalized book recommendations based on user preferences. The application allows users to search for books, view details, and navigate through different sections seamlessly.
+Bookify is a web application that provides personalized book recommendations based on user preferences. The application allows users to search for books, view details, and navigate through different sections seamlessly.
 
 ## Features
 
@@ -22,6 +22,13 @@ Goodbooks-10k is a web application that provides personalized book recommendatio
    ```
    npm install
    ```
+
+## Data Setup
+1. Create directory: `public/data/books`
+2. Download XML files from source
+3. Place XML files in `public/data/books` directory
+4. Files should be named: `1.xml`, `2.xml`, etc.
+
 
 ## Usage
 

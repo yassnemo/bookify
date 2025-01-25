@@ -10,6 +10,10 @@
 /build
 /dist
 
+# Data files
+/public/data/books/*.xml
+/src/data/books/*.xml
+
 # Environment variables
 .env
 .env.local
