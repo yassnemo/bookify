@@ -12,11 +12,11 @@ Bookify is a web application that provides personalized book recommendations bas
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/goodbooks-10k.git
+   git clone https://github.com/yassnemo/bookify.git
    ```
 2. Navigate to the project directory:
    ```
-   cd goodbooks-10k
+   cd bookify
    ```
 3. Install the dependencies:
    ```
