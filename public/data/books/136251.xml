@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>136251</id>
+  <title><![CDATA[Harry Potter and the Deathly Hallows (Harry Potter, #7)]]></title>
+  <isbn><![CDATA[0545010225]]></isbn>
+  <isbn13><![CDATA[9780545010221]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B019PIOJVI]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1474171184m/136251.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474171184s/136251.jpg</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>21</publication_day>
+  <publisher>Arthur A. Levine Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[It's no longer safe for Harry at Hogwarts, so he and his best friends, Ron and Hermione, are on the run. Professor Dumbledore has given them clues about what they need to do to defeat the dark wizard, Lord Voldemort, once and for all, but it's up to them to figure out what these hints and suggestions really mean.<br /><br />Their cross-country odyssey has them searching desperately for the answers, while evading capture or death at every turn. At the same time, their friendship, fortitude, and sense of right and wrong are tested in ways they never could have imagined.<br /><br />The ultimate battle between good and evil that closes out this final chapter of the epic series takes place where Harry's Wizarding life began: at Hogwarts. The satisfying conclusion offers shocking last-minute twists, incredible acts of courage, powerful new forms of magic, and the resolution of many mysteries.<br /><br />Above all, this intense, cathartic book serves as a clear statement of the message at the heart of the Harry Potter series: that choice matters much more than destiny, and that love will always triumph over death.]]></description>
+  <work>
+  <id type="integer">2963218</id>
+  <books_count type="integer">263</books_count>
+  <best_book_id type="integer">136251</best_book_id>
+  <reviews_count type="integer">2322945</reviews_count>
+  <ratings_sum type="integer">8528895</ratings_sum>
+  <ratings_count type="integer">1848947</ratings_count>
+  <text_reviews_count type="integer">51977</text_reviews_count>
+  <original_publication_year type="integer">2007</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">21</original_publication_day>
+  <original_title>Harry Potter and the Deathly Hallows</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1319447|4:384160|3:113714|2:22252|1:9374|total:1848947</rating_dist>
+  <desc_user_id type="integer">4628840</desc_user_id>
+  <default_chaptering_book_id type="integer">818056</default_chaptering_book_id>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.61</average_rating>
+  <num_pages><![CDATA[759]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[First American Edition]]></edition_information>
+  <ratings_count><![CDATA[1747918]]></ratings_count>
+  <text_reviews_count><![CDATA[45023]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows]]></link>
+  <authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.43</average_rating>
+<ratings_count>18039589</ratings_count>
+<text_reviews_count>434729</text_reviews_count>
+</author>
+<author>
+<id>2927</id>
+<name>Mary GrandPré</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1395344820p5/2927.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1395344820p2/2927.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2927.Mary_GrandPr_]]></link>
+<average_rating>4.53</average_rating>
+<ratings_count>9003429</ratings_count>
+<text_reviews_count>155269</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows">Harry Potter and the Deathly Hallows Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0545010225&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="favorites" count="40884"/>
+      <shelf name="fantasy" count="37296"/>
+      <shelf name="young-adult" count="12937"/>
+      <shelf name="fiction" count="10012"/>
+      <shelf name="harry-potter" count="7194"/>
+      <shelf name="books-i-own" count="6321"/>
+      <shelf name="owned" count="4965"/>
+      <shelf name="ya" count="4481"/>
+      <shelf name="favourites" count="4022"/>
+      <shelf name="series" count="4021"/>
+      <shelf name="magic" count="3414"/>
+      <shelf name="childrens" count="2396"/>
+      <shelf name="owned-books" count="1890"/>
+      <shelf name="adventure" count="1859"/>
+      <shelf name="re-read" count="1780"/>
+      <shelf name="children" count="1559"/>
+      <shelf name="j-k-rowling" count="1299"/>
+      <shelf name="all-time-favorites" count="1258"/>
+      <shelf name="sci-fi-fantasy" count="1118"/>
+      <shelf name="children-s" count="1084"/>
+      <shelf name="classics" count="1019"/>
+      <shelf name="childhood" count="1013"/>
+      <shelf name="default" count="990"/>
+      <shelf name="favorite-books" count="950"/>
+      <shelf name="5-stars" count="902"/>
+      <shelf name="i-own" count="849"/>
+      <shelf name="favorite" count="843"/>
+      <shelf name="reread" count="824"/>
+      <shelf name="audiobook" count="813"/>
+      <shelf name="children-s-books" count="804"/>
+      <shelf name="novels" count="778"/>
+      <shelf name="kids" count="747"/>
+      <shelf name="middle-grade" count="737"/>
+      <shelf name="fantasy-sci-fi" count="726"/>
+      <shelf name="paranormal" count="704"/>
+      <shelf name="audiobooks" count="704"/>
+      <shelf name="teen" count="649"/>
+      <shelf name="my-library" count="641"/>
+      <shelf name="read-more-than-once" count="635"/>
+      <shelf name="ya-fantasy" count="631"/>
+      <shelf name="made-me-cry" count="607"/>
+      <shelf name="english" count="582"/>
+      <shelf name="witches" count="557"/>
+      <shelf name="books" count="553"/>
+      <shelf name="urban-fantasy" count="543"/>
+      <shelf name="jk-rowling" count="541"/>
+      <shelf name="my-favorites" count="535"/>
+      <shelf name="british" count="531"/>
+      <shelf name="shelfari-favorites" count="501"/>
+      <shelf name="supernatural" count="475"/>
+      <shelf name="own-it" count="470"/>
+      <shelf name="read-in-2016" count="465"/>
+      <shelf name="ya-fiction" count="465"/>
+      <shelf name="re-reads" count="461"/>
+      <shelf name="library" count="452"/>
+      <shelf name="harry-potter-series" count="450"/>
+      <shelf name="childrens-books" count="445"/>
+      <shelf name="faves" count="440"/>
+      <shelf name="audio" count="438"/>
+      <shelf name="mystery" count="429"/>
+      <shelf name="young-adult-fiction" count="425"/>
+      <shelf name="wizards" count="410"/>
+      <shelf name="novel" count="406"/>
+      <shelf name="scifi-fantasy" count="398"/>
+      <shelf name="favorite-series" count="376"/>
+      <shelf name="favourite" count="369"/>
+      <shelf name="kindle" count="352"/>
+      <shelf name="to-re-read" count="352"/>
+      <shelf name="romance" count="349"/>
+      <shelf name="youth" count="344"/>
+      <shelf name="to-read" count="338"/>
+      <shelf name="read-in-2015" count="338"/>
+      <shelf name="juvenile" count="334"/>
+      <shelf name="all-time-favourites" count="328"/>
+      <shelf name="read-in-english" count="320"/>
+      <shelf name="favourite-books" count="318"/>
+      <shelf name="contemporary" count="316"/>
+      <shelf name="5-star" count="316"/>
+      <shelf name="to-buy" count="314"/>
+      <shelf name="coming-of-age" count="309"/>
+      <shelf name="childhood-favorites" count="305"/>
+      <shelf name="read-in-2014" count="296"/>
+      <shelf name="ebook" count="296"/>
+      <shelf name="favs" count="294"/>
+      <shelf name="kids-books" count="292"/>
+      <shelf name="science-fiction-fantasy" count="289"/>
+      <shelf name="on-my-shelf" count="287"/>
+      <shelf name="england" count="286"/>
+      <shelf name="dragons" count="282"/>
+      <shelf name="read-in-2011" count="282"/>
+      <shelf name="my-bookshelf" count="278"/>
+      <shelf name="children-s-lit" count="277"/>
+      <shelf name="bookshelf" count="275"/>
+      <shelf name="children-s-literature" count="274"/>
+      <shelf name="classic" count="272"/>
+      <shelf name="rereads" count="271"/>
+      <shelf name="potter" count="269"/>
+      <shelf name="friendship" count="269"/>
+      <shelf name="to-reread" count="266"/>
+      <shelf name="read-in-2017" count="261"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>615726</id>
+<user_position>7</user_position>
+<series>
+<id>45175</id>
+<title>
+<![CDATA[
+    Harry Potter
+]]>
+</title>
+<description>
+<![CDATA[
+    Orphan Harry learns he is a wizard on his 11th birthday when Hagrid escorts him to magic-teaching Hogwarts School. As a baby, his mother's love protected him and vanquished the villain Voldemort, leaving the child famous as "The Boy who Lived". With his friends Hermione and Ron, Harry has to defeat the returned "One Who Must Not Be Named".
+]]>
+</description>
+<note>
+<![CDATA[
+    Cursed Child is NOT a Primary Work. Boxsets ARE part of the series. However, the mini-shorts are NOT books by Goodreads standards, and should neither be added to this series nor to the database.
+]]>
+</note>
+<series_works_count>13</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1085078</id>
+<user_position>7.2</user_position>
+<series>
+<id>191520</id>
+<title>
+<![CDATA[
+    Harry Potter Persian/Farsi Split-Volume Edition
+]]>
+</title>
+<description>
+<![CDATA[
+    The Persian/Farsi book 1-3 published by Ketabsaraye Tandis (کتاب‌سرای تندیس) were not split into multiple volumes.
+    
+    The Japanese hardcover edition published by Sayzansha (静山社) also happened to be split into the same amount of volumes for books 4, 6 and 7; though most do not have individual pages on Goodreads, as set editions per book are around. See [b:ハリー・ポッターシリーズ全巻セット|31509368] for the complete listing of books for that edition.
+]]>
+</description>
+<note>
+<![CDATA[
+    Information according to publisher's official website; Amazon's data doesn't seem to be entirely correct.
+]]>
+</note>
+<series_works_count>5</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>121822</id>
+<title><![CDATA[Feathered Serpent, Part 1 (Tennis Shoes, #3)]]></title>
+<title_without_series>Feathered Serpent, Part 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/121822.Feathered_Serpent_Part_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6272412</id>
+</work>
+<isbn>1577344871</isbn>
+<isbn13>9781577344872</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4750</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>41826</id>
+<name>Chris Heimerdinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41826.Chris_Heimerdinger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13833</id>
+<title>Emperor Mage (Immortals, #3)</title>
+<title_without_series>Emperor Mage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13833.Emperor_Mage]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1166573612s/13833.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1166573612m/13833.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>3094151</id>
+</work>
+<isbn>1416903372</isbn>
+<isbn13>9781416903376</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>47172</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8596</id>
+<name>Tamora Pierce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8596.Tamora_Pierce]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>590325</id>
+<title><![CDATA[The Shamer's War (The Shamer Chronicles, #4)]]></title>
+<title_without_series>The Shamer&apos;s War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/590325.The_Shamer_s_War]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364430306s/590325.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364430306m/590325.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>946088</id>
+</work>
+<isbn>0805077715</isbn>
+<isbn13>9780805077711</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>2770</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>3116926</id>
+<name>Lene Kaaberbøl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3116926.Lene_Kaaberb_l]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>295107</id>
+<title><![CDATA[City of Flowers (Stravaganza, #3)]]></title>
+<title_without_series>City of Flowers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/295107.City_of_Flowers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316729800s/295107.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316729800m/295107.jpg]]></image_url>
+<num_pages>489</num_pages>
+<work>
+<id>1575331</id>
+</work>
+<isbn>1582347492</isbn>
+<isbn13>9781582347493</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>5365</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>23138</id>
+<name>Mary Hoffman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23138.Mary_Hoffman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>493124</id>
+<title><![CDATA[White Is for Magic (Blue is for Nightmares, #2)]]></title>
+<title_without_series>White Is for Magic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/493124.White_Is_for_Magic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350054730s/493124.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350054730m/493124.jpg]]></image_url>
+<num_pages>301</num_pages>
+<work>
+<id>481304</id>
+</work>
+<isbn>0738704431</isbn>
+<isbn13>9780738704432</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>10418</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>58846</id>
+<name>Laurie Faria Stolarz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58846.Laurie_Faria_Stolarz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7243142</id>
+<title><![CDATA[Keys to the Demon Prison (Fablehaven, #5)]]></title>
+<title_without_series>Keys to the Demon Prison</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7243142-keys-to-the-demon-prison]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298081448s/7243142.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298081448m/7243142.jpg]]></image_url>
+<num_pages>593</num_pages>
+<work>
+<id>6278088</id>
+</work>
+<isbn>1606412388</isbn>
+<isbn13>9781606412381</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>60009</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>25052</id>
+<name>Brandon Mull</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25052.Brandon_Mull]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4543142</id>
+<title><![CDATA[Dschinnland (Die Sturmkönige, #1)]]></title>
+<title_without_series>Dschinnland</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4543142-dschinnland]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329495297s/4543142.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329495297m/4543142.jpg]]></image_url>
+<num_pages>428</num_pages>
+<work>
+<id>4592419</id>
+</work>
+<isbn>3785723369</isbn>
+<isbn13>9783785723364</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>924</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>54201</id>
+<name>Kai Meyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54201.Kai_Meyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4556058</id>
+<title><![CDATA[The Last Olympian (Percy Jackson and the Olympians, #5)]]></title>
+<title_without_series>The Last Olympian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4556058-the-last-olympian]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1412104473s/4556058.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1412104473m/4556058.jpg]]></image_url>
+<num_pages>381</num_pages>
+<work>
+<id>4551489</id>
+</work>
+<isbn>1423101472</isbn>
+<isbn13>9781423101475</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>499914</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59264</id>
+<title><![CDATA[Ptolemy's Gate (Bartimaeus, #3)]]></title>
+<title_without_series>Ptolemy&apos;s Gate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59264.Ptolemy_s_Gate]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>501</num_pages>
+<work>
+<id>3736193</id>
+</work>
+<isbn>0786818611</isbn>
+<isbn13>9780786818617</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>68882</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33467</id>
+<name>Jonathan Stroud</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33467.Jonathan_Stroud]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28251</id>
+<title><![CDATA[The High Lord (Black Magician Trilogy, #3)]]></title>
+<title_without_series>The High Lord</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28251.The_High_Lord]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327357942s/28251.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327357942m/28251.jpg]]></image_url>
+<num_pages>647</num_pages>
+<work>
+<id>2122285</id>
+</work>
+<isbn>1841493155</isbn>
+<isbn13>9781841493152</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>38918</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>15890</id>
+<name>Trudi Canavan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15890.Trudi_Canavan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28195</id>
+<title>Inkspell (Inkworld, #2)</title>
+<title_without_series>Inkspell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28195.Inkspell]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395358683s/28195.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395358683m/28195.jpg]]></image_url>
+<num_pages>635</num_pages>
+<work>
+<id>1567967</id>
+</work>
+<isbn>0439554004</isbn>
+<isbn13>9780439554008</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>90356</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15873</id>
+<name>Cornelia Funke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15873.Cornelia_Funke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7976</id>
+<title>Taggerung (Redwall, #14)</title>
+<title_without_series>Taggerung</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7976.Taggerung]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1193886</id>
+</work>
+<isbn>0142501549</isbn>
+<isbn13>9780142501542</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>12408</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5329</id>
+<name>Brian Jacques</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5329.Brian_Jacques]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>95914</id>
+<title><![CDATA[On Fortune's Wheel (Tales of the Kingdom, #2)]]></title>
+<title_without_series>On Fortune&apos;s Wheel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/95914.On_Fortune_s_Wheel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>402</num_pages>
+<work>
+<id>1069267</id>
+</work>
+<isbn>0689829574</isbn>
+<isbn13>9780689829574</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>2685</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7540</id>
+<name>Cynthia Voigt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7540.Cynthia_Voigt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59715</id>
+<title><![CDATA[The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury]]></title>
+<title_without_series><![CDATA[The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59715.The_Authoritative_Calvin_and_Hobbes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391114055s/59715.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391114055m/59715.jpg]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>1010526</id>
+</work>
+<isbn>0751507954</isbn>
+<isbn13>9780751507959</isbn13>
+<average_rating>4.73</average_rating>
+<ratings_count>18203</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>13778</id>
+<name>Bill Watterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13778.Bill_Watterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>963508</id>
+<title><![CDATA[Cybele's Secret (Wildwood, #2)]]></title>
+<title_without_series>Cybele&apos;s Secret</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/963508.Cybele_s_Secret]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335030790s/963508.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335030790m/963508.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>948409</id>
+</work>
+<isbn>037583365X</isbn>
+<isbn13>9780375833656</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>10139</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8649</id>
+<name>Juliet Marillier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8649.Juliet_Marillier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38486</id>
+<title><![CDATA[Starring Sally J. Freedman as Herself]]></title>
+<title_without_series><![CDATA[Starring Sally J. Freedman as Herself]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38486.Starring_Sally_J_Freedman_as_Herself]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>417336</id>
+</work>
+<isbn>0689840896</isbn>
+<isbn13>9780689840890</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>11824</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12942</id>
+<name>Judy Blume</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12942.Judy_Blume]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9705899</id>
+<title><![CDATA[The Seven Songs (Merlin Saga, #2)]]></title>
+<title_without_series>The Seven Songs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9705899-the-seven-songs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>101118</id>
+</work>
+<isbn></isbn>
+<isbn13>9780142419205</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>8609</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>11078</id>
+<name>T.A. Barron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11078.T_A_Barron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>587582</id>
+<title><![CDATA[Queen of Sorcery (The Belgariad, #2)]]></title>
+<title_without_series>Queen of Sorcery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/587582.Queen_of_Sorcery]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1428943169s/587582.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1428943169m/587582.jpg]]></image_url>
+<num_pages>326</num_pages>
+<work>
+<id>44016</id>
+</work>
+<isbn>0345335651</isbn>
+<isbn13>9780345335654</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>52949</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8732</id>
+<name>David Eddings</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8732.David_Eddings]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

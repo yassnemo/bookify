@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>205476</id>
+  <title>Our Town</title>
+  <isbn><![CDATA[0060512636]]></isbn>
+  <isbn13><![CDATA[9780060512637]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01GUO8MEK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<em>Our Town</em> was first produced and published in 1938 to wide acclaim. This Pulitzer Prize-winning drama of life in the small village of Grover's Corners, an allegorical representation of all life, has become a classic. It is Thornton Wilder's most renowned and most frequently performed play.]]></description>
+  <work>
+  <id type="integer">3119231</id>
+  <books_count type="integer">48</books_count>
+  <best_book_id type="integer">205476</best_book_id>
+  <reviews_count type="integer">51541</reviews_count>
+  <ratings_sum type="integer">133776</ratings_sum>
+  <ratings_count type="integer">36840</ratings_count>
+  <text_reviews_count type="integer">1232</text_reviews_count>
+  <original_publication_year type="integer">1938</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Our Town: A Play in Three Acts</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9472|4:11315|3:10498|2:4107|1:1448|total:36840</rating_dist>
+  <desc_user_id type="integer">19634852</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.63</average_rating>
+  <num_pages><![CDATA[181]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[35310]]></ratings_count>
+  <text_reviews_count><![CDATA[1062]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/205476.Our_Town]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/205476.Our_Town]]></link>
+  <authors>
+<author>
+<id>44061</id>
+<name>Thornton Wilder</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206548453p5/44061.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206548453p2/44061.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/44061.Thornton_Wilder]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>70209</ratings_count>
+<text_reviews_count>3336</text_reviews_count>
+</author>
+<author>
+<id>150805</id>
+<name>Donald Margulies</name>
+<role>Foreword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1334196762p5/150805.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1334196762p2/150805.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/150805.Donald_Margulies]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>38016</ratings_count>
+<text_reviews_count>1230</text_reviews_count>
+</author>
+<author>
+<id>2817867</id>
+<name>Tappan Wilder</name>
+<role>Afterword</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2817867.Tappan_Wilder]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>35562</ratings_count>
+<text_reviews_count>1108</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/205476.Our_Town">Our Town Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060512636&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/205476.Our_Town?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9212"/>
+      <shelf name="plays" count="1414"/>
+      <shelf name="classics" count="854"/>
+      <shelf name="drama" count="472"/>
+      <shelf name="fiction" count="361"/>
+      <shelf name="favorites" count="304"/>
+      <shelf name="play" count="229"/>
+      <shelf name="classic" count="165"/>
+      <shelf name="school" count="146"/>
+      <shelf name="currently-reading" count="136"/>
+      <shelf name="theatre" count="118"/>
+      <shelf name="books-i-own" count="91"/>
+      <shelf name="read-for-school" count="80"/>
+      <shelf name="owned" count="79"/>
+      <shelf name="literature" count="73"/>
+      <shelf name="high-school" count="70"/>
+      <shelf name="theater" count="64"/>
+      <shelf name="american-literature" count="59"/>
+      <shelf name="historical-fiction" count="55"/>
+      <shelf name="for-school" count="50"/>
+      <shelf name="american" count="49"/>
+      <shelf name="pulitzer" count="48"/>
+      <shelf name="school-books" count="40"/>
+      <shelf name="american-lit" count="37"/>
+      <shelf name="classic-literature" count="35"/>
+      <shelf name="school-reading" count="32"/>
+      <shelf name="adult" count="31"/>
+      <shelf name="20th-century" count="30"/>
+      <shelf name="pulitzer-prize" count="30"/>
+      <shelf name="default" count="26"/>
+      <shelf name="scripts" count="25"/>
+      <shelf name="read-in-school" count="24"/>
+      <shelf name="young-adult" count="23"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="library" count="21"/>
+      <shelf name="adult-fiction" count="21"/>
+      <shelf name="théâtre" count="21"/>
+      <shelf name="plays-to-read" count="18"/>
+      <shelf name="my-library" count="18"/>
+      <shelf name="school-reads" count="17"/>
+      <shelf name="historical" count="17"/>
+      <shelf name="the-classics" count="16"/>
+      <shelf name="coming-of-age" count="15"/>
+      <shelf name="read-in-high-school" count="15"/>
+      <shelf name="book-club" count="15"/>
+      <shelf name="plays-theatre" count="15"/>
+      <shelf name="shelfari-favorites" count="13"/>
+      <shelf name="to-buy" count="13"/>
+      <shelf name="pulitzer-prize-winners" count="13"/>
+      <shelf name="1930s" count="13"/>
+      <shelf name="all-time-favorites" count="13"/>
+      <shelf name="required-reading" count="13"/>
+      <shelf name="read-in-2015" count="12"/>
+      <shelf name="drama-plays" count="12"/>
+      <shelf name="usa" count="12"/>
+      <shelf name="my-books" count="11"/>
+      <shelf name="death" count="11"/>
+      <shelf name="i-own" count="11"/>
+      <shelf name="read-in-2016" count="10"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="romance" count="10"/>
+      <shelf name="college" count="10"/>
+      <shelf name="re-read" count="10"/>
+      <shelf name="teaching" count="10"/>
+      <shelf name="to-read-classics" count="9"/>
+      <shelf name="new-hampshire" count="9"/>
+      <shelf name="read-in-2012" count="9"/>
+      <shelf name="plays-theater" count="9"/>
+      <shelf name="well-educated-mind" count="9"/>
+      <shelf name="america" count="9"/>
+      <shelf name="non-fiction" count="9"/>
+      <shelf name="books-for-school" count="9"/>
+      <shelf name="american-classics" count="9"/>
+      <shelf name="high-school-reading" count="9"/>
+      <shelf name="classics-read" count="9"/>
+      <shelf name="contemporary" count="9"/>
+      <shelf name="childhood" count="9"/>
+      <shelf name="classic-fiction" count="9"/>
+      <shelf name="thornton-wilder" count="8"/>
+      <shelf name="english" count="8"/>
+      <shelf name="classics-to-read" count="8"/>
+      <shelf name="realistic-fiction" count="8"/>
+      <shelf name="family" count="8"/>
+      <shelf name="stage" count="8"/>
+      <shelf name="read-plays" count="8"/>
+      <shelf name="highschool" count="8"/>
+      <shelf name="americana" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="classic-lit" count="8"/>
+      <shelf name="assigned-reading" count="8"/>
+      <shelf name="male-author" count="7"/>
+      <shelf name="plays-read" count="7"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="relationships" count="7"/>
+      <shelf name="sonlight" count="7"/>
+      <shelf name="books-read-for-school" count="7"/>
+      <shelf name="modern-classics" count="7"/>
+      <shelf name="new-england" count="7"/>
+      <shelf name="to-read-plays" count="7"/>
+      <shelf name="middle-school" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>106123</id>
+<title>Three Tall Women</title>
+<title_without_series>Three Tall Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/106123.Three_Tall_Women]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>102299</id>
+</work>
+<isbn>0452274001</isbn>
+<isbn13>9780452274006</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1989</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9322</id>
+<name>Edward Albee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9322.Edward_Albee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>450669</id>
+<title>I Am My Own Wife</title>
+<title_without_series>I Am My Own Wife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/450669.I_Am_My_Own_Wife]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317064111s/450669.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317064111m/450669.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>439308</id>
+</work>
+<isbn>0571211747</isbn>
+<isbn13>9780571211746</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1746</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>117340</id>
+<name>Doug Wright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/117340.Doug_Wright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6105608</id>
+<title>The Clean House</title>
+<title_without_series>The Clean House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6105608-the-clean-house]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327909147s/6105608.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327909147m/6105608.jpg]]></image_url>
+<num_pages>92</num_pages>
+<work>
+<id>6282945</id>
+</work>
+<isbn>0573633983</isbn>
+<isbn13>9780573633980</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>558</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>81678</id>
+<name>Sarah Ruhl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/81678.Sarah_Ruhl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>170599</id>
+<title>You Can&apos;t Take it With You</title>
+<title_without_series>You Can&apos;t Take it With You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/170599.You_Can_t_Take_it_With_You]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>87</num_pages>
+<work>
+<id>164739</id>
+</work>
+<isbn>0822212870</isbn>
+<isbn13>9780822212874</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>7573</ratings_count>
+<publication_year>1937</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>49922</id>
+<name>Moss Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49922.Moss_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>570192</id>
+<title>Anna Christie</title>
+<title_without_series>Anna Christie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/570192.Anna_Christie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>49</num_pages>
+<work>
+<id>557234</id>
+</work>
+<isbn>1420927981</isbn>
+<isbn13>9781420927986</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>651</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>7680</id>
+<name>Eugene O&apos;Neill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7680.Eugene_O_Neill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>295138</id>
+<title>The Kentucky Cycle</title>
+<title_without_series>The Kentucky Cycle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/295138.The_Kentucky_Cycle]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1449451198s/295138.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1449451198m/295138.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>286386</id>
+</work>
+<isbn>0822213095</isbn>
+<isbn13>9780822213093</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>253</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>170377</id>
+<name>Robert Schenkkan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170377.Robert_Schenkkan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>400784</id>
+<title>Dinner With Friends</title>
+<title_without_series>Dinner With Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/400784.Dinner_With_Friends]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354209770s/400784.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354209770m/400784.jpg]]></image_url>
+<num_pages>86</num_pages>
+<work>
+<id>390202</id>
+</work>
+<isbn>1559361948</isbn>
+<isbn13>9781559361941</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>1578</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>150805</id>
+<name>Donald Margulies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150805.Donald_Margulies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>565978</id>
+<title>The Piano Lesson</title>
+<title_without_series>The Piano Lesson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/565978.The_Piano_Lesson]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407615568s/565978.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407615568m/565978.jpg]]></image_url>
+<num_pages>108</num_pages>
+<work>
+<id>171424</id>
+</work>
+<isbn>0452265347</isbn>
+<isbn13>9780452265349</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>4595</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13944</id>
+<name>August Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13944.August_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>50544</id>
+<title>&apos;night, Mother</title>
+<title_without_series>&apos;night, Mother</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/50544._night_Mother]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>49362</id>
+</work>
+<isbn>0822208210</isbn>
+<isbn13>9780822208211</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8903</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2043</id>
+<name>Marsha Norman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2043.Marsha_Norman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>609454</id>
+<title>Talley&apos;s Folly</title>
+<title_without_series>Talley&apos;s Folly</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/609454.Talley_s_Folly]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312010520s/609454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312010520m/609454.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>595942</id>
+</work>
+<isbn>0374521573</isbn>
+<isbn13>9780374521578</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>319</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8855</id>
+<name>Lanford Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8855.Lanford_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>797034</id>
+<title>Assassins</title>
+<title_without_series>Assassins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/797034.Assassins]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>783004</id>
+</work>
+<isbn>1559360380</isbn>
+<isbn13>9781559360388</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>1373</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>85858</id>
+<name>Stephen Sondheim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85858.Stephen_Sondheim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>764270</id>
+<title>Topdog/Underdog</title>
+<title_without_series>Topdog/Underdog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/764270.Topdog_Underdog]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354209580s/764270.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354209580m/764270.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>750348</id>
+</work>
+<isbn>1559362014</isbn>
+<isbn13>9781559362016</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>3809</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72477</id>
+<name>Suzan-Lori Parks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72477.Suzan_Lori_Parks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8836290</id>
+<title>Clybourne Park</title>
+<title_without_series>Clybourne Park</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8836290-clybourne-park]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1296997350s/8836290.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1296997350m/8836290.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13710764</id>
+</work>
+<isbn>184842132X</isbn>
+<isbn13>9781848421325</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1806</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>166438</id>
+<name>Bruce Norris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/166438.Bruce_Norris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6411892</id>
+<title>Ruined</title>
+<title_without_series>Ruined</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6411892-ruined]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354209615s/6411892.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354209615m/6411892.jpg]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>6600838</id>
+</work>
+<isbn>155936355X</isbn>
+<isbn13>9781559363556</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1943</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>355068</id>
+<name>Lynn Nottage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/355068.Lynn_Nottage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>293715</id>
+<title>Stop Kiss</title>
+<title_without_series>Stop Kiss</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/293715.Stop_Kiss]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>285000</id>
+</work>
+<isbn>0879517379</isbn>
+<isbn13>9780879517373</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1263</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>169625</id>
+<name>Diana Son</name>
+<link><![CDATA[https://www.goodreads.com/author/show/169625.Diana_Son]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>173890</id>
+<title>Brighton Beach Memoirs</title>
+<title_without_series>Brighton Beach Memoirs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/173890.Brighton_Beach_Memoirs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>1800817</id>
+</work>
+<isbn>0452275288</isbn>
+<isbn13>9780452275287</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>3903</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>60047</id>
+<name>Neil Simon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60047.Neil_Simon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>63684</id>
+<title>Homebody/Kabul</title>
+<title_without_series>Homebody/Kabul</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63684.Homebody_Kabul]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>172</num_pages>
+<work>
+<id>61841</id>
+</work>
+<isbn>1559362391</isbn>
+<isbn13>9781559362399</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>640</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>35822</id>
+<name>Tony Kushner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35822.Tony_Kushner]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

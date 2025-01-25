@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>6662883</id>
+  <title><![CDATA[Oz: The Wonderful Wizard of Oz]]></title>
+  <isbn><![CDATA[0785129219]]></isbn>
+  <isbn13><![CDATA[9780785129219]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B073GF1M1Z]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1336571208m/6662883.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1336571208s/6662883.jpg</small_image_url>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>16</publication_day>
+  <publisher>Marvel</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[When Kansas farm girl Dorothy flies away to the magical Land of Oz, she fatally flattens a wicked witch, liberates a living scarecrow and is hailed by the Munchkin people as a great sorceress but all she really wants to know is: how does she get home?]]></description>
+  <work>
+  <id type="integer">6857668</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">6662883</best_book_id>
+  <reviews_count type="integer">40674</reviews_count>
+  <ratings_sum type="integer">101926</ratings_sum>
+  <ratings_count type="integer">24969</ratings_count>
+  <text_reviews_count type="integer">501</text_reviews_count>
+  <original_publication_year type="integer">2010</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">22</original_publication_day>
+  <original_title>Oz: The Wonderful Wizard of Oz</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10827|4:7734|3:4655|2:1137|1:616|total:24969</rating_dist>
+  <desc_user_id type="integer">2665705</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.08</average_rating>
+  <num_pages><![CDATA[216]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[24528]]></ratings_count>
+  <text_reviews_count><![CDATA[431]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/6662883-oz]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/6662883-oz]]></link>
+  <authors>
+<author>
+<id>117884</id>
+<name>Eric Shanower</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294498373p5/117884.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294498373p2/117884.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/117884.Eric_Shanower]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>43987</ratings_count>
+<text_reviews_count>2008</text_reviews_count>
+</author>
+<author>
+<id>62104</id>
+<name>Skottie Young</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355502093p5/62104.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355502093p2/62104.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/62104.Skottie_Young]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>76934</ratings_count>
+<text_reviews_count>7972</text_reviews_count>
+</author>
+<author>
+<id>3242</id>
+<name>L. Frank Baum</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383720421p5/3242.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383720421p2/3242.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3242.L_Frank_Baum]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>442543</ratings_count>
+<text_reviews_count>16561</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/6662883-oz">Oz Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0785129219&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/6662883-oz?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="15588"/>
+      <shelf name="graphic-novels" count="365"/>
+      <shelf name="comics" count="230"/>
+      <shelf name="fantasy" count="223"/>
+      <shelf name="graphic-novel" count="188"/>
+      <shelf name="classics" count="103"/>
+      <shelf name="currently-reading" count="75"/>
+      <shelf name="favorites" count="61"/>
+      <shelf name="fiction" count="61"/>
+      <shelf name="young-adult" count="51"/>
+      <shelf name="childrens" count="48"/>
+      <shelf name="children" count="46"/>
+      <shelf name="children-s" count="38"/>
+      <shelf name="classic" count="30"/>
+      <shelf name="comics-graphic-novels" count="28"/>
+      <shelf name="owned" count="27"/>
+      <shelf name="books-i-own" count="26"/>
+      <shelf name="kids" count="25"/>
+      <shelf name="comic" count="24"/>
+      <shelf name="adventure" count="22"/>
+      <shelf name="children-s-books" count="21"/>
+      <shelf name="oz" count="21"/>
+      <shelf name="series" count="20"/>
+      <shelf name="marvel" count="19"/>
+      <shelf name="ya" count="16"/>
+      <shelf name="comic-books" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="graphic-novels-comics" count="14"/>
+      <shelf name="magic" count="14"/>
+      <shelf name="middle-grade" count="14"/>
+      <shelf name="comics-and-graphic-novels" count="13"/>
+      <shelf name="graphic" count="12"/>
+      <shelf name="to-buy" count="10"/>
+      <shelf name="library-books" count="10"/>
+      <shelf name="default" count="9"/>
+      <shelf name="childrens-books" count="9"/>
+      <shelf name="fairy-tales" count="9"/>
+      <shelf name="childhood" count="8"/>
+      <shelf name="manga" count="8"/>
+      <shelf name="wish-list" count="7"/>
+      <shelf name="children-s-literature" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="literature" count="7"/>
+      <shelf name="kids-books" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="juvenile" count="7"/>
+      <shelf name="children-s-lit" count="7"/>
+      <shelf name="graphic-novels-and-comics" count="6"/>
+      <shelf name="shelfari-favorites" count="5"/>
+      <shelf name="marvel-comics" count="5"/>
+      <shelf name="read-in-2013" count="5"/>
+      <shelf name="graphic-novel-comic" count="5"/>
+      <shelf name="read-in-2012" count="5"/>
+      <shelf name="adaptation" count="5"/>
+      <shelf name="fairy-tale" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="oz-books" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="graphics" count="5"/>
+      <shelf name="juvenile-fiction" count="5"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="humor" count="4"/>
+      <shelf name="classic-literature" count="4"/>
+      <shelf name="art" count="4"/>
+      <shelf name="2013-books" count="4"/>
+      <shelf name="graphic-novels-to-read" count="4"/>
+      <shelf name="teen" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="scifi-fantasy" count="4"/>
+      <shelf name="action-adventure" count="4"/>
+      <shelf name="tween" count="4"/>
+      <shelf name="graphic-novel-manga" count="4"/>
+      <shelf name="youth" count="4"/>
+      <shelf name="american" count="4"/>
+      <shelf name="read-but-don-t-own" count="4"/>
+      <shelf name="graphicnovels" count="4"/>
+      <shelf name="fantasy-and-sci-fi" count="4"/>
+      <shelf name="kindle" count="4"/>
+      <shelf name="genre-fantasy" count="3"/>
+      <shelf name="to-read-comics" count="3"/>
+      <shelf name="2015-reading-challenge" count="3"/>
+      <shelf name="graphic-novels-comic-books" count="3"/>
+      <shelf name="5-stars" count="3"/>
+      <shelf name="movie" count="3"/>
+      <shelf name="retellings" count="3"/>
+      <shelf name="read-2013" count="3"/>
+      <shelf name="childrens-fantasy" count="3"/>
+      <shelf name="cizgi-roman" count="3"/>
+      <shelf name="read-as-a-kid" count="3"/>
+      <shelf name="2013-reads" count="3"/>
+      <shelf name="manga-comics" count="3"/>
+      <shelf name="books-i-have" count="3"/>
+      <shelf name="comix" count="3"/>
+      <shelf name="childhood-books" count="3"/>
+      <shelf name="wizard-of-oz" count="3"/>
+      <shelf name="kids-lit" count="3"/>
+      <shelf name="childrens-lit" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>363853</id>
+<user_position>1</user_position>
+<series>
+<id>77696</id>
+<title>
+<![CDATA[
+    Marvel's Oz Comics series
+]]>
+</title>
+<description>
+<![CDATA[
+    Graphic novel adaptations of L. Frank Baum's Oz novels by Eric Shanower.
+]]>
+</description>
+<note>
+<![CDATA[
+    These are graphic novels ADAPTATIONS and should NOT be combined with the original Oz books.
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>2320474</id>
+<title>Wonderland</title>
+<title_without_series>Wonderland</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2320474.Wonderland]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>2326996</id>
+</work>
+<isbn>142310451X</isbn>
+<isbn13>9781442310451</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>1225</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>547064</id>
+<name>Tommy Kovac</name>
+<link><![CDATA[https://www.goodreads.com/author/show/547064.Tommy_Kovac]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6977183</id>
+<title><![CDATA[The Stuff of Legend, Book 1: The Dark (The Stuff of Legend, #1)]]></title>
+<title_without_series><![CDATA[The Stuff of Legend, Book 1: The Dark]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6977183-the-stuff-of-legend-book-1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1484525211s/6977183.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1484525211m/6977183.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>7217876</id>
+</work>
+<isbn>0345521005</isbn>
+<isbn13>9780345521002</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1370</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>53980</id>
+<name>Mike Raicht</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53980.Mike_Raicht]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9975313</id>
+<title>The Humming Room</title>
+<title_without_series>The Humming Room</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9975313-the-humming-room]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317793788s/9975313.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317793788m/9975313.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>14869677</id>
+</work>
+<isbn>0312644388</isbn>
+<isbn13>9780312644383</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>4251</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>290125</id>
+<name>Ellen Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/290125.Ellen_Potter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3124317</id>
+<title><![CDATA[Mouse Guard: Winter 1152 (Mouse Guard, #2)]]></title>
+<title_without_series>Mouse Guard: Winter 1152</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3124317-mouse-guard]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1485473489s/3124317.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1485473489m/3124317.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>1780213</id>
+</work>
+<isbn>1932386742</isbn>
+<isbn13>9781932386745</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>6106</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>7</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>36203</id>
+<name>David Petersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36203.David_Petersen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6051687</id>
+<title><![CDATA[Tiny Titans, Volume 1: Welcome to the Treehouse]]></title>
+<title_without_series><![CDATA[Tiny Titans, Volume 1: Welcome to the Treehouse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6051687-tiny-titans-volume-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>6227468</id>
+</work>
+<isbn>1401220789</isbn>
+<isbn13>9781401220785</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>886</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>253047</id>
+<name>Art Baltazar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/253047.Art_Baltazar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6314730</id>
+<title>Bayou, Vol. 1</title>
+<title_without_series>Bayou, Vol. 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6314730-bayou-vol-1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1321293179s/6314730.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1321293179m/6314730.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>6499962</id>
+</work>
+<isbn>1401223826</isbn>
+<isbn13>9781401223823</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1747</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>205962</id>
+<name>Jeremy Love</name>
+<link><![CDATA[https://www.goodreads.com/author/show/205962.Jeremy_Love]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2480741</id>
+<title><![CDATA[Korgi, Book 2: The Cosmic Collector]]></title>
+<title_without_series><![CDATA[Korgi, Book 2: The Cosmic Collector]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2480741.Korgi_Book_2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2487942</id>
+</work>
+<isbn>160309010X</isbn>
+<isbn13>9781603090100</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>359</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>409681</id>
+<name>Christian Slade</name>
+<link><![CDATA[https://www.goodreads.com/author/show/409681.Christian_Slade]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12415732</id>
+<title><![CDATA[The Sign of the Black Rock (Three Thieves, #2)]]></title>
+<title_without_series>The Sign of the Black Rock</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12415732-the-sign-of-the-black-rock]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>17397550</id>
+</work>
+<isbn>155453416X</isbn>
+<isbn13>9781554534166</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>467</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59606</id>
+<name>Scott Chantler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59606.Scott_Chantler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414819</id>
+<title><![CDATA[The Secret of the Stone Frog: A TOON Graphic]]></title>
+<title_without_series><![CDATA[The Secret of the Stone Frog: A TOON Graphic]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414819-the-secret-of-the-stone-frog]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410978502s/13414819.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410978502m/13414819.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>18714280</id>
+</work>
+<isbn>1935179187</isbn>
+<isbn13>9781935179184</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>706</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>5446909</id>
+<name>David Nytra</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5446909.David_Nytra]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17591892</id>
+<title>Monster on the Hill</title>
+<title_without_series>Monster on the Hill</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17591892-monster-on-the-hill]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364769674s/17591892.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364769674m/17591892.jpg]]></image_url>
+<num_pages>186</num_pages>
+<work>
+<id>24532833</id>
+</work>
+<isbn>1603090754</isbn>
+<isbn13>9781603090759</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>3641</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>137415</id>
+<name>Rob Harrell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/137415.Rob_Harrell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23167725</id>
+<title><![CDATA[Rutabaga the Adventure Chef (Adventure Chef #1)]]></title>
+<title_without_series>Rutabaga the Adventure Chef</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23167725-rutabaga-the-adventure-chef]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411447395s/23167725.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411447395m/23167725.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>41269101</id>
+</work>
+<isbn>1419713809</isbn>
+<isbn13>9781419713804</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>796</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>8159821</id>
+<name>Eric Colossal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8159821.Eric_Colossal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>196925</id>
+<title><![CDATA[Owly, Vol. 2: Just a Little Blue (Owly, #2)]]></title>
+<title_without_series><![CDATA[Owly, Vol. 2: Just a Little Blue]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/196925.Owly_Vol_2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>190471</id>
+</work>
+<isbn>1891830643</isbn>
+<isbn13>9781891830648</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>2471</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>114752</id>
+<name>Andy Runton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114752.Andy_Runton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22718678</id>
+<title><![CDATA[Dragons Beware! (Chronicles of Claudette, #2)]]></title>
+<title_without_series>Dragons Beware!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22718678-dragons-beware]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410982362s/22718678.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410982362m/22718678.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>42246976</id>
+</work>
+<isbn>1596438789</isbn>
+<isbn13>9781596438781</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>692</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3033809</id>
+<name>Jorge Aguirre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3033809.Jorge_Aguirre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18465632</id>
+<title><![CDATA[The Return of Zita the Spacegirl (Zita the Spacegirl, #3)]]></title>
+<title_without_series><![CDATA[The Return of Zita the Spacegirl]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18465632-the-return-of-zita-the-spacegirl]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>26123540</id>
+</work>
+<isbn>1596438762</isbn>
+<isbn13>9781596438767</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3810</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>3212743</id>
+<name>Ben Hatke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3212743.Ben_Hatke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>790658</id>
+<title><![CDATA[Herobear and the Kid Volume 1: The Inheritance]]></title>
+<title_without_series><![CDATA[Herobear and the Kid Volume 1: The Inheritance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/790658.Herobear_and_the_Kid_Volume_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>776643</id>
+</work>
+<isbn>0972125914</isbn>
+<isbn13>9780972125918</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>206</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>328389</id>
+<name>Mike Kunkel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/328389.Mike_Kunkel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16057353</id>
+<title>Hilda and the Bird Parade</title>
+<title_without_series>Hilda and the Bird Parade</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16057353-hilda-and-the-bird-parade]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379392943s/16057353.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379392943m/16057353.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>21843265</id>
+</work>
+<isbn>1909263060</isbn>
+<isbn13>9781909263062</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1937</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4461106</id>
+<name>Luke Pearson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4461106.Luke_Pearson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13239458</id>
+<title>Cow Boy: A Boy and His Horse</title>
+<title_without_series>Cow Boy: A Boy and His Horse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13239458-cow-boy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392574883s/13239458.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392574883m/13239458.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>18438615</id>
+</work>
+<isbn>1936393670</isbn>
+<isbn13>9781936393671</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>480</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>3118200</id>
+<name>Nate Cosby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3118200.Nate_Cosby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2622085</id>
+<title>Flight, Vol. 5 (Flight, #5)</title>
+<title_without_series>Flight, Vol. 5</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2622085-flight-vol-5]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>2646744</id>
+</work>
+<isbn>0345505891</isbn>
+<isbn13>9780345505897</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1109</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>27372</id>
+<name>Kazu Kibuishi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27372.Kazu_Kibuishi]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>47624</id>
+  <title>Lirael (Abhorsen, #2)</title>
+  <isbn><![CDATA[0060590165]]></isbn>
+  <isbn13><![CDATA[9780060590161]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00KK6FJXM]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>30</publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Lirael has never felt like a true daughter of the Clayr. Now, two years past the time when she should have received the Sight that is the Clayr's birthright, she feels alone, abandoned, unsure of who she is. Nevertheless, the fate of the Old Kingdom lies in her hands. With only her faithful companion, the Disreputable Dog, Lirael must undertake a desperate mission under the growing shadow of an ancient evil.<br /><br />In this sequel to Sabriel, winner of the Aurealis Award for Excellence in Australian Science Fiction, New York Times best-selling author Garth Nix weaves a spellbinding tale of discovery, destiny, and danger.]]></description>
+  <work>
+  <id type="integer">2067752</id>
+  <books_count type="integer">69</books_count>
+  <best_book_id type="integer">47624</best_book_id>
+  <reviews_count type="integer">117575</reviews_count>
+  <ratings_sum type="integer">373198</ratings_sum>
+  <ratings_count type="integer">86992</ratings_count>
+  <text_reviews_count type="integer">2250</text_reviews_count>
+  <original_publication_year type="integer">2001</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">21</original_publication_day>
+  <original_title>Lirael</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:42668|4:30156|3:11598|2:1870|1:700|total:86992</rating_dist>
+  <desc_user_id type="integer">4863716</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.29</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[78949]]></ratings_count>
+  <text_reviews_count><![CDATA[1539]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/47624.Lirael]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/47624.Lirael]]></link>
+  <authors>
+<author>
+<id>8347</id>
+<name>Garth Nix</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207583754p5/8347.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207583754p2/8347.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8347.Garth_Nix]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>625478</ratings_count>
+<text_reviews_count>28753</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/47624.Lirael">Lirael Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060590165&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/47624.Lirael?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="21771"/>
+      <shelf name="fantasy" count="4707"/>
+      <shelf name="young-adult" count="1599"/>
+      <shelf name="favorites" count="1413"/>
+      <shelf name="ya" count="864"/>
+      <shelf name="currently-reading" count="601"/>
+      <shelf name="fiction" count="568"/>
+      <shelf name="owned" count="364"/>
+      <shelf name="series" count="304"/>
+      <shelf name="books-i-own" count="300"/>
+      <shelf name="magic" count="268"/>
+      <shelf name="adventure" count="187"/>
+      <shelf name="high-fantasy" count="175"/>
+      <shelf name="ya-fantasy" count="166"/>
+      <shelf name="favourites" count="160"/>
+      <shelf name="sci-fi-fantasy" count="146"/>
+      <shelf name="teen" count="130"/>
+      <shelf name="garth-nix" count="112"/>
+      <shelf name="audiobook" count="110"/>
+      <shelf name="fantasy-sci-fi" count="106"/>
+      <shelf name="library" count="92"/>
+      <shelf name="scifi-fantasy" count="87"/>
+      <shelf name="audiobooks" count="82"/>
+      <shelf name="re-read" count="79"/>
+      <shelf name="epic-fantasy" count="79"/>
+      <shelf name="default" count="76"/>
+      <shelf name="ya-fiction" count="76"/>
+      <shelf name="paranormal" count="68"/>
+      <shelf name="childhood" count="67"/>
+      <shelf name="owned-books" count="66"/>
+      <shelf name="audio" count="65"/>
+      <shelf name="kindle" count="56"/>
+      <shelf name="ebook" count="55"/>
+      <shelf name="abhorsen" count="54"/>
+      <shelf name="young-adult-fiction" count="54"/>
+      <shelf name="to-buy" count="52"/>
+      <shelf name="supernatural" count="51"/>
+      <shelf name="reread" count="50"/>
+      <shelf name="young-adult-fantasy" count="49"/>
+      <shelf name="i-own" count="48"/>
+      <shelf name="fantasy-scifi" count="47"/>
+      <shelf name="horror" count="43"/>
+      <shelf name="my-library" count="42"/>
+      <shelf name="my-books" count="41"/>
+      <shelf name="australian" count="40"/>
+      <shelf name="speculative-fiction" count="39"/>
+      <shelf name="childrens" count="38"/>
+      <shelf name="coming-of-age" count="37"/>
+      <shelf name="sci-fi" count="37"/>
+      <shelf name="death" count="35"/>
+      <shelf name="zombies" count="35"/>
+      <shelf name="all-time-favorites" count="34"/>
+      <shelf name="read-in-2015" count="33"/>
+      <shelf name="favorite" count="33"/>
+      <shelf name="female-protagonist" count="31"/>
+      <shelf name="own-it" count="31"/>
+      <shelf name="novels" count="30"/>
+      <shelf name="childhood-favorites" count="29"/>
+      <shelf name="sff" count="29"/>
+      <shelf name="science-fiction-fantasy" count="29"/>
+      <shelf name="favorite-books" count="29"/>
+      <shelf name="youth" count="29"/>
+      <shelf name="audio-book" count="29"/>
+      <shelf name="science-fiction" count="28"/>
+      <shelf name="dark-fantasy" count="28"/>
+      <shelf name="ebooks" count="27"/>
+      <shelf name="action" count="27"/>
+      <shelf name="ya-books" count="27"/>
+      <shelf name="read-in-2016" count="26"/>
+      <shelf name="fantasy-and-sci-fi" count="26"/>
+      <shelf name="books" count="26"/>
+      <shelf name="necromancy" count="26"/>
+      <shelf name="fantasy-fiction" count="26"/>
+      <shelf name="read-in-2014" count="25"/>
+      <shelf name="sci-fi-and-fantasy" count="25"/>
+      <shelf name="borrowed" count="24"/>
+      <shelf name="audio-books" count="24"/>
+      <shelf name="youngadult" count="24"/>
+      <shelf name="fiction-fantasy" count="23"/>
+      <shelf name="romance" count="22"/>
+      <shelf name="children-ya" count="22"/>
+      <shelf name="5-stars" count="22"/>
+      <shelf name="ya-lit" count="22"/>
+      <shelf name="to-reread" count="21"/>
+      <shelf name="faves" count="21"/>
+      <shelf name="kids" count="21"/>
+      <shelf name="teen-fantasy" count="21"/>
+      <shelf name="favourite" count="20"/>
+      <shelf name="novel" count="20"/>
+      <shelf name="children-s" count="20"/>
+      <shelf name="loved" count="19"/>
+      <shelf name="male-author" count="19"/>
+      <shelf name="dark" count="19"/>
+      <shelf name="to-re-read" count="19"/>
+      <shelf name="young" count="19"/>
+      <shelf name="action-adventure" count="19"/>
+      <shelf name="fantasy-science-fiction" count="19"/>
+      <shelf name="epic" count="19"/>
+      <shelf name="e-books" count="18"/>
+      <shelf name="reviewed" count="18"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>160530</id>
+<user_position>2</user_position>
+<series>
+<id>44888</id>
+<title>
+<![CDATA[
+    Abhorsen
+]]>
+</title>
+<description>
+<![CDATA[
+    Also known as:
+    * (US) Abhorsen Trilogy
+    * (Australia/UK) The Old Kingdom
+    * (Dutch) Het Oude Koninkrijk
+    * (Bulgarian) Трилогия за Старото кралство
+    * (Polish) Stare Królestwo
+    * (German) Das alte Königreich
+    * (Latvian) Vecā karaliste
+    * (Czech) Staré království
+    * (Slovenian) Staro kraljestvo
+    * (Romanian) Vechiul Regat
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>14</series_works_count>
+<primary_work_count>9</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>999474</id>
+<user_position>2</user_position>
+<series>
+<id>195520</id>
+<title>
+<![CDATA[
+    The Old Kingdom Trilogy
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>17</series_works_count>
+<primary_work_count>17</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>153795</id>
+<title><![CDATA[Squire (Protector of the Small, #3)]]></title>
+<title_without_series>Squire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/153795.Squire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>1142883</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>39948</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>12</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>8596</id>
+<name>Tamora Pierce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8596.Tamora_Pierce]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1438096</id>
+<title>Firesong (Wind On Fire, #3)</title>
+<title_without_series>Firesong</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1438096.Firesong]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>3073816</id>
+</work>
+<isbn>0007179391</isbn>
+<isbn13>9780007179398</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>8645</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>46130</id>
+<name>William Nicholson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46130.William_Nicholson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34284</id>
+<title><![CDATA[The Chronicles of Chrestomanci, Vol. 1 (Chrestomanci, #1-2)]]></title>
+<title_without_series><![CDATA[The Chronicles of Chrestomanci, Vol. 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34284.The_Chronicles_of_Chrestomanci_Vol_1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1300013617s/34284.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1300013617m/34284.jpg]]></image_url>
+<num_pages>598</num_pages>
+<work>
+<id>34288</id>
+</work>
+<isbn>006447268X</isbn>
+<isbn13>9780064472685</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>12489</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4260</id>
+<name>Diana Wynne Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4260.Diana_Wynne_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>248584</id>
+<title>Juniper (Doran, #2)</title>
+<title_without_series>Juniper</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/248584.Juniper]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>9398</id>
+</work>
+<isbn>0679833692</isbn>
+<isbn13>9780679833697</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>7951</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4099</id>
+<name>Monica Furlong</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4099.Monica_Furlong]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>169879</id>
+<title><![CDATA[Calling on Dragons (Enchanted Forest Chronicles, #3)]]></title>
+<title_without_series>Calling on Dragons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/169879.Calling_on_Dragons]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1428442349s/169879.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1428442349m/169879.jpg]]></image_url>
+<num_pages>244</num_pages>
+<work>
+<id>3178</id>
+</work>
+<isbn>0152046925</isbn>
+<isbn13>9780152046927</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>35048</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>36122</id>
+<name>Patricia C. Wrede</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36122.Patricia_C_Wrede]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92719</id>
+<title><![CDATA[The Pearl of the Soul of the World (Darkangel Trilogy, #3)]]></title>
+<title_without_series><![CDATA[The Pearl of the Soul of the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92719.The_Pearl_of_the_Soul_of_the_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>322</num_pages>
+<work>
+<id>89413</id>
+</work>
+<isbn>015201800X</isbn>
+<isbn13>9780152018009</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>3643</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>22543</id>
+<name>Meredith Ann Pierce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22543.Meredith_Ann_Pierce]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

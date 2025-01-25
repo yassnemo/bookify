@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>96702</id>
+  <title>Broken for You</title>
+  <isbn><![CDATA[0802142109]]></isbn>
+  <isbn13><![CDATA[9780802142108]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[National best seller and <i>Today</i> show Book Club selection, <i>Broken for You</i> is the story of two women in self-imposed exile whose lives are transformed when their paths intersect. Stephanie Kallos's debut novel is a work of infinite charm, wit and heart. It is also a glorious homage to the beauty of broken things. <br /><br />When we meet septuagenarian Margaret Hughes, she is living alone in a mansion in Seattle with only a massive collection of valuable antiques for company. Enter Wanda Schultz, a young woman with a broken heart who has come west to search for her wayward boyfriend. Both women are guarding dark secrets and have spent many years building up protective armor against the outside world. As their tentative friendship evolves, the armor begins to fall away and Margaret opens her house to the younger woman. This launches a series of unanticipated events, leading Margaret to discover a way to redeem her cursed past, and Wanda to learn the true purpose of her cross-country journey. <br /><br />Both funny and heartbreaking, <i>Broken for You</i> is a testament to the saving graces of surrogate families and shows how far the tiniest repair jobs can go in righting the world's wrongs.]]></description>
+  <work>
+  <id type="integer">1673024</id>
+  <books_count type="integer">20</books_count>
+  <best_book_id type="integer">96702</best_book_id>
+  <reviews_count type="integer">17899</reviews_count>
+  <ratings_sum type="integer">39622</ratings_sum>
+  <ratings_count type="integer">10439</ratings_count>
+  <text_reviews_count type="integer">1539</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Broken for You</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2729|4:4038|3:2691|2:771|1:210|total:10439</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.80</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10019]]></ratings_count>
+  <text_reviews_count><![CDATA[1501]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/96702.Broken_for_You]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/96702.Broken_for_You]]></link>
+  <authors>
+<author>
+<id>55630</id>
+<name>Stephanie Kallos</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271264727p5/55630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271264727p2/55630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/55630.Stephanie_Kallos]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>15639</ratings_count>
+<text_reviews_count>2616</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/96702.Broken_for_You">Broken for You Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0802142109&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/96702.Broken_for_You?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6164"/>
+      <shelf name="fiction" count="247"/>
+      <shelf name="book-club" count="137"/>
+      <shelf name="favorites" count="84"/>
+      <shelf name="currently-reading" count="42"/>
+      <shelf name="books-i-own" count="29"/>
+      <shelf name="contemporary-fiction" count="29"/>
+      <shelf name="bookclub" count="27"/>
+      <shelf name="book-club-books" count="24"/>
+      <shelf name="book-group" count="24"/>
+      <shelf name="audio" count="23"/>
+      <shelf name="adult-fiction" count="22"/>
+      <shelf name="chick-lit" count="21"/>
+      <shelf name="friendship" count="20"/>
+      <shelf name="contemporary" count="19"/>
+      <shelf name="seattle" count="19"/>
+      <shelf name="holocaust" count="18"/>
+      <shelf name="owned" count="17"/>
+      <shelf name="literary-fiction" count="13"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="audiobook" count="13"/>
+      <shelf name="adult" count="12"/>
+      <shelf name="book-club-reads" count="12"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="shelfari-favorites" count="11"/>
+      <shelf name="library" count="11"/>
+      <shelf name="didn-t-finish" count="11"/>
+      <shelf name="general-fiction" count="11"/>
+      <shelf name="relationships" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="novels" count="8"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="literature" count="8"/>
+      <shelf name="pacific-northwest" count="8"/>
+      <shelf name="realistic-fiction" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="kindle" count="7"/>
+      <shelf name="quirky" count="6"/>
+      <shelf name="all-time-favorites" count="6"/>
+      <shelf name="recommended" count="6"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="book-club-read" count="6"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="womens-fiction" count="6"/>
+      <shelf name="bookgroup" count="6"/>
+      <shelf name="broken-relationships" count="5"/>
+      <shelf name="book-club-book" count="5"/>
+      <shelf name="literary" count="5"/>
+      <shelf name="read-for-book-club" count="5"/>
+      <shelf name="book" count="5"/>
+      <shelf name="2006" count="5"/>
+      <shelf name="women" count="5"/>
+      <shelf name="shelfari-wishlist" count="4"/>
+      <shelf name="death-and-dying" count="4"/>
+      <shelf name="memorable-woman-characters" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="historical-fiction" count="4"/>
+      <shelf name="grieving" count="4"/>
+      <shelf name="dysfunctional" count="4"/>
+      <shelf name="drama" count="4"/>
+      <shelf name="art" count="4"/>
+      <shelf name="tbr" count="4"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="listened-to" count="4"/>
+      <shelf name="book-club-selection" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="2005" count="4"/>
+      <shelf name="life" count="4"/>
+      <shelf name="book-club-pick" count="3"/>
+      <shelf name="books-i-have" count="3"/>
+      <shelf name="debut" count="3"/>
+      <shelf name="american" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="read-in-2012" count="3"/>
+      <shelf name="book-clubs" count="3"/>
+      <shelf name="wwii" count="3"/>
+      <shelf name="monkton-bookclub" count="3"/>
+      <shelf name="to-read-fiction" count="3"/>
+      <shelf name="popular-fiction" count="3"/>
+      <shelf name="at-library" count="3"/>
+      <shelf name="read-in-2010" count="3"/>
+      <shelf name="psychological-fiction" count="3"/>
+      <shelf name="favorite" count="3"/>
+      <shelf name="2006-books" count="3"/>
+      <shelf name="read-in-2009" count="3"/>
+      <shelf name="of" count="3"/>
+      <shelf name="end" count="3"/>
+      <shelf name="northwest" count="3"/>
+      <shelf name="kallos-stephanie" count="2"/>
+      <shelf name="thriller" count="2"/>
+      <shelf name="book-club-ideas" count="2"/>
+      <shelf name="ap-lit" count="2"/>
+      <shelf name="ap-english" count="2"/>
+      <shelf name="light-fiction" count="2"/>
+      <shelf name="broken-for-you" count="2"/>
+      <shelf name="not-interested" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>5775498</id>
+<title>The Sweet By and By</title>
+<title_without_series>The Sweet By and By</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5775498-the-sweet-by-and-by]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>5947247</id>
+</work>
+<isbn>0061579521</isbn>
+<isbn13>9780061579523</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>2361</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2978207</id>
+<name>Todd  Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2978207.Todd_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1163431</id>
+<title>Quality of Care</title>
+<title_without_series>Quality of Care</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1163431.Quality_of_Care]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309287863s/1163431.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309287863m/1163431.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1151091</id>
+</work>
+<isbn>0451214102</isbn>
+<isbn13>9780451214102</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>166</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>568672</id>
+<name>Elizabeth Letts</name>
+<link><![CDATA[https://www.goodreads.com/author/show/568672.Elizabeth_Letts]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>534618</id>
+<title>The Work of Wolves</title>
+<title_without_series>The Work of Wolves</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/534618.The_Work_of_Wolves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>407</num_pages>
+<work>
+<id>522119</id>
+</work>
+<isbn>0156031426</isbn>
+<isbn13>9780156031424</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>734</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>295315</id>
+<name>Kent Meyers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/295315.Kent_Meyers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1170654</id>
+<title><![CDATA[Baby ER: The Heroic Doctors and Nurses Who Perform Medicine's Tiniest Miracles]]></title>
+<title_without_series><![CDATA[Baby ER: The Heroic Doctors and Nurses Who Perform Medicine's Tiniest Miracles]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1170654.Baby_ER]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1458906</id>
+</work>
+<isbn>0743264436</isbn>
+<isbn13>9780743264433</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>145</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>45727</id>
+<name>Edward Humes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45727.Edward_Humes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>139605</id>
+<title>Any Bitter Thing</title>
+<title_without_series>Any Bitter Thing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/139605.Any_Bitter_Thing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>2757149</id>
+</work>
+<isbn>0345477685</isbn>
+<isbn13>9780345477682</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>1906</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>80719</id>
+<name>Monica Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80719.Monica_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1598040</id>
+<title>Angel&apos;s Rest</title>
+<title_without_series>Angel&apos;s Rest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1598040.Angel_s_Rest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1591217</id>
+</work>
+<isbn>0778324737</isbn>
+<isbn13>9780778324737</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>453</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8341637</id>
+<name>Charles   Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8341637.Charles_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5995545</id>
+<title>Children of the Waters</title>
+<title_without_series>Children of the Waters</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5995545-children-of-the-waters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>6169691</id>
+</work>
+<isbn>0345499077</isbn>
+<isbn13>9780345499073</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>262</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>697656</id>
+<name>Carleen Brice</name>
+<link><![CDATA[https://www.goodreads.com/author/show/697656.Carleen_Brice]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>917346</id>
+<title>All Over Creation</title>
+<title_without_series>All Over Creation</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/917346.All_Over_Creation]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>25964177</id>
+</work>
+<isbn>0142003891</isbn>
+<isbn13>9780142003893</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>4021</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7825</id>
+<name>Ruth Ozeki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7825.Ruth_Ozeki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>981436</id>
+<title>Beautiful Bodies: A Novel</title>
+<title_without_series>Beautiful Bodies: A Novel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/981436.Beautiful_Bodies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403347607s/981436.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403347607m/981436.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>966325</id>
+</work>
+<isbn>0743434021</isbn>
+<isbn13>9780743434027</isbn13>
+<average_rating>2.73</average_rating>
+<ratings_count>234</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>73646</id>
+<name>Laura Shaine Cunningham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73646.Laura_Shaine_Cunningham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>214241</id>
+<title>Carry Me Home</title>
+<title_without_series>Carry Me Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/214241.Carry_Me_Home]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>966777</id>
+</work>
+<isbn>0385338139</isbn>
+<isbn13>9780385338134</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1524</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>125664</id>
+<name>Sandra Kring</name>
+<link><![CDATA[https://www.goodreads.com/author/show/125664.Sandra_Kring]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94673</id>
+<title>The Highest Tide</title>
+<title_without_series>The Highest Tide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94673.The_Highest_Tide]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316637883s/94673.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316637883m/94673.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>814363</id>
+</work>
+<isbn>1582346291</isbn>
+<isbn13>9781582346298</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>5256</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54451</id>
+<name>Jim Lynch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54451.Jim_Lynch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1352429</id>
+<title>Every Last Cuckoo</title>
+<title_without_series>Every Last Cuckoo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1352429.Every_Last_Cuckoo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>277</num_pages>
+<work>
+<id>1342119</id>
+</work>
+<isbn>156512541X</isbn>
+<isbn13>9781565125414</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>1355</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>125216</id>
+<name>Kate Maloy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/125216.Kate_Maloy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>179264</id>
+<title>The Madonnas of Leningrad</title>
+<title_without_series>The Madonnas of Leningrad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/179264.The_Madonnas_of_Leningrad]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1479681269s/179264.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1479681269m/179264.jpg]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>837760</id>
+</work>
+<isbn>0060825316</isbn>
+<isbn13>9780060825317</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>13968</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>104437</id>
+<name>Debra Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104437.Debra_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2598240</id>
+<title>People of the Whale</title>
+<title_without_series>People of the Whale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2598240-people-of-the-whale]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>2621277</id>
+</work>
+<isbn>0393064573</isbn>
+<isbn13>9780393064575</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>560</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>94917</id>
+<name>Linda Hogan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94917.Linda_Hogan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7455630</id>
+<title>This Must Be the Place</title>
+<title_without_series>This Must Be the Place</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7455630-this-must-be-the-place]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317065918s/7455630.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317065918m/7455630.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>9503476</id>
+</work>
+<isbn>0805092307</isbn>
+<isbn13>9780805092301</isbn13>
+<average_rating>3.54</average_rating>
+<ratings_count>1443</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3279983</id>
+<name>Kate Racculia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3279983.Kate_Racculia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>490621</id>
+<title>The Rope Walk</title>
+<title_without_series>The Rope Walk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/490621.The_Rope_Walk]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1061483</id>
+</work>
+<isbn>0375424636</isbn>
+<isbn13>9780375424632</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>845</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>170342</id>
+<name>Carrie Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170342.Carrie_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164406</id>
+<title>Goodbye Without Leaving</title>
+<title_without_series>Goodbye Without Leaving</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164406.Goodbye_Without_Leaving]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>158723</id>
+</work>
+<isbn>0060955333</isbn>
+<isbn13>9780060955335</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>808</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>95513</id>
+<name>Laurie Colwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95513.Laurie_Colwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9476437</id>
+<title><![CDATA[The Devil in the White City by Erik Larson Summary & Study Guide]]></title>
+<title_without_series><![CDATA[The Devil in the White City by Erik Larson Summary & Study Guide]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9476437-the-devil-in-the-white-city-by-erik-larson-summary-study-guide]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>14361688</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>218</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4819027</id>
+<name>BookRags</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4819027.BookRags]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

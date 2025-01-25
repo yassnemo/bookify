@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>135611</id>
+  <title><![CDATA[Shakespeare: The World as Stage]]></title>
+  <isbn><![CDATA[0060740221]]></isbn>
+  <isbn13><![CDATA[9780060740221]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B007UK9KG8]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>HarperCollinsPublishing</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[At first glance, Bill Bryson seems an odd choice to write this addition to the Eminent Lives series. <br /><br />The author of 'The Life and Times of the Thunderbolt Kid' isn't, after all, a Shakespeare scholar, a playwright, or even a biographer. <br /><br />Reading 'Shakespeare The World As Stage', however, one gets the sense that this eclectic Iowan is exactly the type of person the Bard himself would have selected for the task. <br /><br />The man who gave us 'The Mother Tongue' and 'A Walk in the Woods' approaches Shakespeare with the same freedom of spirit and curiosity that made those books such reader favorites. A refreshing take on an elusive literary master.]]></description>
+  <work>
+  <id type="integer">892448</id>
+  <books_count type="integer">58</books_count>
+  <best_book_id type="integer">135611</best_book_id>
+  <reviews_count type="integer">60547</reviews_count>
+  <ratings_sum type="integer">111042</ratings_sum>
+  <ratings_count type="integer">29318</ratings_count>
+  <text_reviews_count type="integer">2329</text_reviews_count>
+  <original_publication_year type="integer">2007</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Shakespeare: The World as Stage </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7130|4:11856|3:8005|2:1626|1:701|total:29318</rating_dist>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.79</average_rating>
+  <num_pages><![CDATA[199]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Eminent Lives]]></edition_information>
+  <ratings_count><![CDATA[25360]]></ratings_count>
+  <text_reviews_count><![CDATA[1821]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/135611.Shakespeare]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/135611.Shakespeare]]></link>
+  <authors>
+<author>
+<id>7</id>
+<name>Bill Bryson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1189096502p5/7.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1189096502p2/7.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7.Bill_Bryson]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>992426</ratings_count>
+<text_reviews_count>60556</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/135611.Shakespeare">Shakespeare Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060740221&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/135611.Shakespeare?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="nonfiction" count="358"/>
+      <shelf name="to-read" count="277"/>
+      <shelf name="shakespeare" count="253"/>
+      <shelf name="historical" count="75"/>
+      <shelf name="biographies" count="72"/>
+      <shelf name="audiobooks" count="66"/>
+      <shelf name="books-i-own" count="65"/>
+      <shelf name="audiobook" count="65"/>
+      <shelf name="humor" count="64"/>
+      <shelf name="bill-bryson" count="59"/>
+      <shelf name="kindle" count="56"/>
+      <shelf name="literature" count="52"/>
+      <shelf name="audio" count="44"/>
+      <shelf name="biography-memoir" count="44"/>
+      <shelf name="non-fiction" count="39"/>
+      <shelf name="library" count="39"/>
+      <shelf name="theatre" count="38"/>
+      <shelf name="humour" count="35"/>
+      <shelf name="default" count="33"/>
+      <shelf name="england" count="31"/>
+      <shelf name="books-about-books" count="30"/>
+      <shelf name="language" count="28"/>
+      <shelf name="english" count="25"/>
+      <shelf name="bio" count="25"/>
+      <shelf name="owned-books" count="24"/>
+      <shelf name="history" count="23"/>
+      <shelf name="adult" count="22"/>
+      <shelf name="ebook" count="21"/>
+      <shelf name="audible" count="21"/>
+      <shelf name="currently-reading" count="20"/>
+      <shelf name="plays" count="20"/>
+      <shelf name="biography" count="19"/>
+      <shelf name="biography-autobiography" count="19"/>
+      <shelf name="book-club" count="19"/>
+      <shelf name="british" count="19"/>
+      <shelf name="biographical" count="17"/>
+      <shelf name="memoir-biography" count="17"/>
+      <shelf name="audio-books" count="17"/>
+      <shelf name="drama" count="17"/>
+      <shelf name="read-in-2016" count="16"/>
+      <shelf name="audio-book" count="15"/>
+      <shelf name="my-library" count="15"/>
+      <shelf name="fiction" count="14"/>
+      <shelf name="read-in-2012" count="13"/>
+      <shelf name="to-read-non-fiction" count="13"/>
+      <shelf name="to-read-nonfiction" count="13"/>
+      <shelf name="british-history" count="12"/>
+      <shelf name="theater" count="12"/>
+      <shelf name="bryson" count="12"/>
+      <shelf name="wish-list" count="12"/>
+      <shelf name="classics" count="12"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="europe" count="11"/>
+      <shelf name="literary-criticism" count="11"/>
+      <shelf name="reference" count="11"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="essays" count="11"/>
+      <shelf name="21st-century" count="11"/>
+      <shelf name="read-in-2017" count="10"/>
+      <shelf name="16th-century" count="10"/>
+      <shelf name="school" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="non-fic" count="10"/>
+      <shelf name="read-in-2010" count="10"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="funny" count="10"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="read-in-2013" count="9"/>
+      <shelf name="british-literature" count="9"/>
+      <shelf name="writing" count="9"/>
+      <shelf name="factual" count="9"/>
+      <shelf name="borrowed" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="literary" count="9"/>
+      <shelf name="read-in-2008" count="9"/>
+      <shelf name="read-2017" count="8"/>
+      <shelf name="e-books" count="8"/>
+      <shelf name="memoir" count="8"/>
+      <shelf name="contemporary" count="8"/>
+      <shelf name="read-2011" count="8"/>
+      <shelf name="non-fiction-to-read" count="8"/>
+      <shelf name="shelfari-wishlist" count="7"/>
+      <shelf name="books-read-in-2016" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="uk" count="7"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="2000s" count="7"/>
+      <shelf name="biographies-memoirs" count="7"/>
+      <shelf name="american" count="7"/>
+      <shelf name="london" count="7"/>
+      <shelf name="comedy" count="7"/>
+      <shelf name="read-in-2011" count="7"/>
+      <shelf name="autobiography-biography" count="7"/>
+      <shelf name="favorite-authors" count="7"/>
+      <shelf name="read-in-2009" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="finished" count="7"/>
+      <shelf name="poetry" count="7"/>
+      <shelf name="renaissance" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6784311</id>
+<title><![CDATA[Contested Will: Who Wrote Shakespeare?]]></title>
+<title_without_series><![CDATA[Contested Will: Who Wrote Shakespeare?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6784311-contested-will]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6986862</id>
+</work>
+<isbn>1416541624</isbn>
+<isbn13>9781416541622</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>1147</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5751</id>
+<name>James Shapiro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5751.James_Shapiro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32483</id>
+<title>Shakespeare: The Biography</title>
+<title_without_series>Shakespeare: The Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32483.Shakespeare]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>32648</id>
+</work>
+<isbn>140007598X</isbn>
+<isbn13>9781400075980</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1476</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>16881</id>
+<name>Peter Ackroyd</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16881.Peter_Ackroyd]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25622782</id>
+<title><![CDATA[Will in the World: How Shakespeare Became Shakespeare]]></title>
+<title_without_series><![CDATA[Will in the World: How Shakespeare Became Shakespeare]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25622782-will-in-the-world]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1457121871s/25622782.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1457121871m/25622782.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>1221914</id>
+</work>
+<isbn>0393352609</isbn>
+<isbn13>9780393352603</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>6602</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4194881</id>
+<name>Stephen Greenblatt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4194881.Stephen_Greenblatt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>428512</id>
+<title>Shakespeare</title>
+<title_without_series>Shakespeare</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/428512.Shakespeare]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>417519</id>
+</work>
+<isbn>0465092659</isbn>
+<isbn13>9780465092659</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>526</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>15835</id>
+<name>Michael Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15835.Michael_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1992473</id>
+<title><![CDATA[The Lodger Shakespeare: His Life on Silver Street]]></title>
+<title_without_series><![CDATA[The Lodger Shakespeare: His Life on Silver Street]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1992473.The_Lodger_Shakespeare]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1996162</id>
+</work>
+<isbn>0670018503</isbn>
+<isbn13>9780670018505</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>519</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>11158</id>
+<name>Charles Nicholl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11158.Charles_Nicholl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32478</id>
+<title><![CDATA[The Shakespeare Wars: Clashing Scholars, Public Fiascoes, Palace Coups]]></title>
+<title_without_series><![CDATA[The Shakespeare Wars: Clashing Scholars, Public Fiascoes, Palace Coups]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32478.The_Shakespeare_Wars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>601</num_pages>
+<work>
+<id>2472602</id>
+</work>
+<isbn>0375503390</isbn>
+<isbn13>9780375503399</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>386</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18259</id>
+<name>Ron Rosenbaum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18259.Ron_Rosenbaum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20942</id>
+<title><![CDATA[Shakespeare: The Invention of the Human]]></title>
+<title_without_series><![CDATA[Shakespeare: The Invention of the Human]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20942.Shakespeare]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>745</num_pages>
+<work>
+<id>23550</id>
+</work>
+<isbn>157322751X</isbn>
+<isbn13>9781573227513</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>2896</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>236</id>
+<name>Harold Bloom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/236.Harold_Bloom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>403695</id>
+<title>Shakespeare&apos;s Language</title>
+<title_without_series>Shakespeare&apos;s Language</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/403695.Shakespeare_s_Language]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312018069s/403695.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312018069m/403695.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>393074</id>
+</work>
+<isbn>0374527741</isbn>
+<isbn13>9780374527747</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>290</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16763</id>
+<name>Frank Kermode</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16763.Frank_Kermode]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22506</id>
+<title><![CDATA[Shakespeare's Philosophy: Discovering the Meaning Behind the Plays]]></title>
+<title_without_series><![CDATA[Shakespeare's Philosophy: Discovering the Meaning Behind the Plays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22506.Shakespeare_s_Philosophy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>2320080</id>
+</work>
+<isbn>0060856157</isbn>
+<isbn13>9780060856151</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>118</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>12834</id>
+<name>Colin McGinn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12834.Colin_McGinn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32487</id>
+<title>Shakespeare After All</title>
+<title_without_series>Shakespeare After All</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32487.Shakespeare_After_All]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1008</num_pages>
+<work>
+<id>2468780</id>
+</work>
+<isbn>0385722141</isbn>
+<isbn13>9780385722148</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>768</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>18267</id>
+<name>Marjorie Garber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18267.Marjorie_Garber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5357813</id>
+<title><![CDATA[Soul of the Age: A Biography of the Mind of William Shakespeare]]></title>
+<title_without_series><![CDATA[Soul of the Age: A Biography of the Mind of William Shakespeare]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5357813-soul-of-the-age]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320405452s/5357813.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320405452m/5357813.jpg]]></image_url>
+<num_pages>471</num_pages>
+<work>
+<id>5425310</id>
+</work>
+<isbn>1400062063</isbn>
+<isbn13>9781400062065</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>346</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>160112</id>
+<name>Jonathan Bate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/160112.Jonathan_Bate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>333295</id>
+<title><![CDATA[Samuel Pepys: The Unequalled Self]]></title>
+<title_without_series><![CDATA[Samuel Pepys: The Unequalled Self]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/333295.Samuel_Pepys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320496252s/333295.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320496252m/333295.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>1708807</id>
+</work>
+<isbn>0375725539</isbn>
+<isbn13>9780375725531</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>1857</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>18514</id>
+<name>Claire Tomalin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18514.Claire_Tomalin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>428460</id>
+<title><![CDATA[Shakespeare and Co.: Christopher Marlowe, Thomas Dekker, Ben Jonson, Thomas Middleton, John Fletcher and the Other Players in His Story]]></title>
+<title_without_series><![CDATA[Shakespeare and Co.: Christopher Marlowe, Thomas Dekker, Ben Jonson, Thomas Middleton, John Fletcher and the Other Players in His Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/428460.Shakespeare_and_Co_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320554521s/428460.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320554521m/428460.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>417470</id>
+</work>
+<isbn>0375424946</isbn>
+<isbn13>9780375424946</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>262</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2870201</id>
+<name>Stanley Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2870201.Stanley_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>428491</id>
+<title>The Shakespeare Miscellany</title>
+<title_without_series>The Shakespeare Miscellany</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/428491.The_Shakespeare_Miscellany]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>417498</id>
+</work>
+<isbn>1585677167</isbn>
+<isbn13>9781585677160</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>104</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18265</id>
+<name>David Crystal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18265.David_Crystal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4492628</id>
+<title><![CDATA[Shakespeare on Toast: Getting a Taste for the Bard]]></title>
+<title_without_series><![CDATA[Shakespeare on Toast: Getting a Taste for the Bard]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4492628-shakespeare-on-toast]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1339014428s/4492628.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1339014428m/4492628.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>4761447</id>
+</work>
+<isbn>1848310161</isbn>
+<isbn13>9781848310162</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>718</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>18264</id>
+<name>Ben Crystal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18264.Ben_Crystal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16179454</id>
+<title><![CDATA[Essential Shakespeare Handbook]]></title>
+<title_without_series><![CDATA[Essential Shakespeare Handbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16179454-essential-shakespeare-handbook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356185827s/16179454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356185827m/16179454.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>41550</id>
+</work>
+<isbn>1465402268</isbn>
+<isbn13>9781465402264</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>163</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>23648</id>
+<name>Leslie Dunton-Downer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23648.Leslie_Dunton_Downer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>925389</id>
+<title><![CDATA[The Bedford Companion to Shakespeare: An Introduction with Documents]]></title>
+<title_without_series><![CDATA[The Bedford Companion to Shakespeare: An Introduction with Documents]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/925389.The_Bedford_Companion_to_Shakespeare]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1315847181s/925389.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1315847181m/925389.jpg]]></image_url>
+<num_pages>451</num_pages>
+<work>
+<id>910398</id>
+</work>
+<isbn>0312248806</isbn>
+<isbn13>9780312248802</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>253</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>18266</id>
+<name>Russ McDonald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18266.Russ_McDonald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5741489</id>
+<title><![CDATA[The Book of William: How Shakespeare's First Folio Conquered the World]]></title>
+<title_without_series><![CDATA[The Book of William: How Shakespeare's First Folio Conquered the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5741489-the-book-of-william]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312061860s/5741489.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312061860m/5741489.jpg]]></image_url>
+<num_pages>243</num_pages>
+<work>
+<id>5913161</id>
+</work>
+<isbn>1596911956</isbn>
+<isbn13>9781596911956</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>326</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>7</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>821970</id>
+<name>Paul  Collins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/821970.Paul_Collins]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

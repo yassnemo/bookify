@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>5787</id>
+  <title>The Aleph and Other Stories </title>
+  <isbn><![CDATA[0142437883]]></isbn>
+  <isbn13><![CDATA[9780142437889]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Penguin Classics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Full of philosophical puzzles and supernatural surprises, these stories contain some of Borges’s most fully realized human characters. With uncanny insight he takes us inside the minds of an unrepentant Nazi, an imprisoned Mayan priest, fanatical Christian theologians, a woman plotting vengeance on her father’s “killer,” and a man awaiting his assassin in a Buenos Aires guest house.  This volume also contains the hauntingly brief vignettes about literary imagination and personal identity collected in <i>The Maker</i>, which Borges wrote as failing eyesight and public fame began to undermine his sense of self.<br /><br />For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.]]></description>
+  <work>
+  <id type="integer">2707897</id>
+  <books_count type="integer">123</books_count>
+  <best_book_id type="integer">5787</best_book_id>
+  <reviews_count type="integer">44811</reviews_count>
+  <ratings_sum type="integer">99470</ratings_sum>
+  <ratings_count type="integer">22664</ratings_count>
+  <text_reviews_count type="integer">801</text_reviews_count>
+  <original_publication_year type="integer">1949</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>El Aleph</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:12923|4:6566|3:2417|2:582|1:176|total:22664</rating_dist>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.39</average_rating>
+  <num_pages><![CDATA[210]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16612]]></ratings_count>
+  <text_reviews_count><![CDATA[364]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories]]></link>
+  <authors>
+<author>
+<id>500</id>
+<name>Jorge Luis Borges</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496948506p5/500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496948506p2/500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/500.Jorge_Luis_Borges]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>179351</ratings_count>
+<text_reviews_count>9960</text_reviews_count>
+</author>
+<author>
+<id>3947</id>
+<name>Andrew Hurley</name>
+<role>Annotations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1381649177p5/3947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1381649177p2/3947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3947.Andrew_Hurley]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>55602</ratings_count>
+<text_reviews_count>2409</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories">The Aleph and Other Stories Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0142437883&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="18086"/>
+      <shelf name="currently-reading" count="795"/>
+      <shelf name="short-stories" count="419"/>
+      <shelf name="fiction" count="377"/>
+      <shelf name="favorites" count="374"/>
+      <shelf name="classics" count="176"/>
+      <shelf name="fantasy" count="123"/>
+      <shelf name="argentina" count="112"/>
+      <shelf name="literature" count="111"/>
+      <shelf name="magical-realism" count="86"/>
+      <shelf name="owned" count="84"/>
+      <shelf name="spanish" count="74"/>
+      <shelf name="latin-american" count="67"/>
+      <shelf name="latin-america" count="62"/>
+      <shelf name="cuentos" count="44"/>
+      <shelf name="default" count="44"/>
+      <shelf name="short-story" count="42"/>
+      <shelf name="latin-american-literature" count="36"/>
+      <shelf name="owned-books" count="36"/>
+      <shelf name="20th-century" count="35"/>
+      <shelf name="philosophy" count="34"/>
+      <shelf name="racconti" count="33"/>
+      <shelf name="borges" count="32"/>
+      <shelf name="to-buy" count="31"/>
+      <shelf name="books-i-own" count="31"/>
+      <shelf name="narrativa" count="27"/>
+      <shelf name="classic" count="27"/>
+      <shelf name="favourites" count="26"/>
+      <shelf name="español" count="24"/>
+      <shelf name="stories" count="23"/>
+      <shelf name="finished" count="22"/>
+      <shelf name="jorge-luis-borges" count="21"/>
+      <shelf name="my-library" count="20"/>
+      <shelf name="south-america" count="19"/>
+      <shelf name="literary-fiction" count="19"/>
+      <shelf name="literatura" count="18"/>
+      <shelf name="novels" count="18"/>
+      <shelf name="magic-realism" count="18"/>
+      <shelf name="favoritos" count="18"/>
+      <shelf name="spanish-literature" count="16"/>
+      <shelf name="latinoamerica" count="16"/>
+      <shelf name="argentinian" count="16"/>
+      <shelf name="short" count="16"/>
+      <shelf name="short-fiction" count="15"/>
+      <shelf name="argentinos" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="biblioteca" count="15"/>
+      <shelf name="latin-american-lit" count="15"/>
+      <shelf name="1940s" count="14"/>
+      <shelf name="contemporary" count="14"/>
+      <shelf name="unfinished" count="13"/>
+      <shelf name="argentine-literature" count="13"/>
+      <shelf name="lit" count="13"/>
+      <shelf name="my-books" count="12"/>
+      <shelf name="literatura-latinoamericana" count="12"/>
+      <shelf name="translated" count="11"/>
+      <shelf name="literatura-argentina" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="favorite-books" count="11"/>
+      <shelf name="short-story-collections" count="11"/>
+      <shelf name="modern-classics" count="11"/>
+      <shelf name="science-fiction" count="11"/>
+      <shelf name="relatos" count="11"/>
+      <shelf name="novel" count="11"/>
+      <shelf name="espanol" count="10"/>
+      <shelf name="latino" count="10"/>
+      <shelf name="ficción" count="10"/>
+      <shelf name="school" count="9"/>
+      <shelf name="latinoamericana" count="9"/>
+      <shelf name="in-spanish" count="9"/>
+      <shelf name="en-español" count="9"/>
+      <shelf name="cuento" count="9"/>
+      <shelf name="speculative-fiction" count="9"/>
+      <shelf name="weird" count="9"/>
+      <shelf name="argentinian-literature" count="9"/>
+      <shelf name="postmodernism" count="9"/>
+      <shelf name="south-american" count="9"/>
+      <shelf name="argentine" count="9"/>
+      <shelf name="sf" count="8"/>
+      <shelf name="ficcion" count="8"/>
+      <shelf name="latinoamericanos" count="8"/>
+      <shelf name="fantastic" count="8"/>
+      <shelf name="translation" count="8"/>
+      <shelf name="latinoamérica" count="8"/>
+      <shelf name="20th-century-literature" count="8"/>
+      <shelf name="anthology" count="8"/>
+      <shelf name="re-read" count="8"/>
+      <shelf name="latin" count="8"/>
+      <shelf name="collections" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="shelfari-favorites" count="7"/>
+      <shelf name="america-latina" count="7"/>
+      <shelf name="south-american-literature" count="7"/>
+      <shelf name="abandoned" count="7"/>
+      <shelf name="collection" count="7"/>
+      <shelf name="to-get" count="7"/>
+      <shelf name="to-re-read" count="7"/>
+      <shelf name="favourite" count="7"/>
+      <shelf name="to-read-fiction" count="7"/>
+      <shelf name="maybe" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>191373</id>
+<title>Bestiario</title>
+<title_without_series>Bestiario</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/191373.Bestiario]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>1363993</id>
+</work>
+<isbn>8466309896</isbn>
+<isbn13>9788466309899</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>9508</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>25824</id>
+<name>Julio Cortázar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25824.Julio_Cort_zar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94486</id>
+<title>The Invention of Morel</title>
+<title_without_series>The Invention of Morel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94486.The_Invention_of_Morel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327960951s/94486.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327960951m/94486.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>2302985</id>
+</work>
+<isbn>1590170571</isbn>
+<isbn13>9781590170571</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>11055</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>3424060</id>
+<name>Adolfo Bioy Casares</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3424060.Adolfo_Bioy_Casares]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>214703</id>
+<title>El juguete rabioso</title>
+<title_without_series>El juguete rabioso</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/214703.El_juguete_rabioso]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>155</num_pages>
+<work>
+<id>207855</id>
+</work>
+<isbn>8495311801</isbn>
+<isbn13>9788495311801</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>2710</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>111215</id>
+<name>Roberto Arlt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/111215.Roberto_Arlt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1677</id>
+<title>Sobre héroes y tumbas</title>
+<title_without_series>Sobre héroes y tumbas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1677.Sobre_h_roes_y_tumbas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1322161433s/1677.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1322161433m/1677.jpg]]></image_url>
+<num_pages>547</num_pages>
+<work>
+<id>5803</id>
+</work>
+<isbn>9500716054</isbn>
+<isbn13>9789500716055</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>6099</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5775606</id>
+<name>Ernesto Sabato</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5775606.Ernesto_Sabato]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>845331</id>
+<title>Martín Fierro</title>
+<title_without_series>Martín Fierro</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/845331.Mart_n_Fierro]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328836261s/845331.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328836261m/845331.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>830857</id>
+</work>
+<isbn>8484035700</isbn>
+<isbn13>9788484035701</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>3260</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>147199</id>
+<name>José Hernández</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147199.Jos_Hern_ndez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2075382</id>
+<title>El Llano en llamas</title>
+<title_without_series>El Llano en llamas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2075382.El_Llano_en_llamas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1499029348s/2075382.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1499029348m/2075382.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2080630</id>
+</work>
+<isbn>9500718030</isbn>
+<isbn13>9789500718035</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>9160</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21778</id>
+<name>Juan Rulfo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21778.Juan_Rulfo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1292907</id>
+<title>Boquitas pintadas</title>
+<title_without_series>Boquitas pintadas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1292907.Boquitas_pintadas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>957471</id>
+</work>
+<isbn>0140255796</isbn>
+<isbn13>9780140255799</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>2866</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35548</id>
+<name>Manuel Puig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35548.Manuel_Puig]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

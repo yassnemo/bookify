@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>760</id>
+  <title><![CDATA[Memories of My Melancholy Whores]]></title>
+  <isbn><![CDATA[0307278492]]></isbn>
+  <isbn13><![CDATA[9780307278492]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1327484658m/760.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327484658s/760.jpg</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day></publication_day>
+  <publisher>Vintage International</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Winner of the Nobel Prize for Literature<br /><p>"Garcí­a Márquez has composed, with his usual sensual gravity and Olympian humor, a love letter to the dying light."--John Updike, <i>The New Yorker</i><br /></p><p><i>On the eve of his ninetieth birthday a bachelor decides</i> to give himself a wild night of love with a virgin. As is his habit--he has purchased hundreds of women--he asks a madam for her assistance. The fourteen-year-old girl who is procured for him is enchanting, but exhausted as she is from caring for siblings and her job sewing buttons, she can do little but sleep. Yet with sleeping beauty at his side, it is he who awakens to a romance he has never known.<br /></p><p>Tender, knowing, and slyly comic, <i>Memories of My Melancholy Whores</i> is an exquisite addition to the master's work.<br /></p><p>"Luminous....The cunning of <i>Memories</i> lies in the utter--and utterly unexpected--reliability of its narrator."--<i>The New York Times Book Review</i><br /></p><p>"Masterful. Erotic. As hypnotizing as it is disturbing."--<i>Los Angeles Times</i><br /></p><p>"Profoundly haunting....Fiction of the very highest order."--<i>The Times Literary Supplement</i></p>]]></description>
+  <work>
+  <id type="integer">2166510</id>
+  <books_count type="integer">165</books_count>
+  <best_book_id type="integer">760</best_book_id>
+  <reviews_count type="integer">80308</reviews_count>
+  <ratings_sum type="integer">180481</ratings_sum>
+  <ratings_count type="integer">50339</ratings_count>
+  <text_reviews_count type="integer">3019</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <original_title>Memoria de mis putas tristes</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9564|4:17953|3:16586|2:4855|1:1381|total:50339</rating_dist>
+  <desc_user_id type="integer">20965836</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.59</average_rating>
+  <num_pages><![CDATA[115]]></num_pages>
+  <format><![CDATA[Mass Market Paperback]]></format>
+  <edition_information><![CDATA[First Vintage International Open-Market Edition]]></edition_information>
+  <ratings_count><![CDATA[33557]]></ratings_count>
+  <text_reviews_count><![CDATA[1738]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/760.Memories_of_My_Melancholy_Whores]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/760.Memories_of_My_Melancholy_Whores]]></link>
+  <authors>
+<author>
+<id>13450</id>
+<name>Gabriel García Márquez</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p5/13450.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p2/13450.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>1224073</ratings_count>
+<text_reviews_count>54187</text_reviews_count>
+</author>
+<author>
+<id>2599</id>
+<name>Edith Grossman</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321519146p5/2599.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321519146p2/2599.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2599.Edith_Grossman]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>388082</ratings_count>
+<text_reviews_count>19601</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/760.Memories_of_My_Melancholy_Whores">Memories of My Melancholy Whores Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307278492&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/760.Memories_of_My_Melancholy_Whores?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="19313"/>
+      <shelf name="fiction" count="812"/>
+      <shelf name="currently-reading" count="773"/>
+      <shelf name="favorites" count="235"/>
+      <shelf name="literature" count="148"/>
+      <shelf name="classics" count="143"/>
+      <shelf name="owned" count="132"/>
+      <shelf name="romance" count="124"/>
+      <shelf name="magical-realism" count="115"/>
+      <shelf name="novel" count="108"/>
+      <shelf name="latin-america" count="107"/>
+      <shelf name="novels" count="106"/>
+      <shelf name="latin-american" count="95"/>
+      <shelf name="books-i-own" count="84"/>
+      <shelf name="spanish" count="76"/>
+      <shelf name="latin-american-literature" count="71"/>
+      <shelf name="owned-books" count="63"/>
+      <shelf name="colombia" count="62"/>
+      <shelf name="default" count="56"/>
+      <shelf name="to-buy" count="50"/>
+      <shelf name="gabriel-garcia-marquez" count="49"/>
+      <shelf name="literary-fiction" count="48"/>
+      <shelf name="library" count="47"/>
+      <shelf name="nobel-prize" count="44"/>
+      <shelf name="contemporary" count="42"/>
+      <shelf name="nobel" count="41"/>
+      <shelf name="south-america" count="34"/>
+      <shelf name="español" count="30"/>
+      <shelf name="my-library" count="30"/>
+      <shelf name="colombian" count="30"/>
+      <shelf name="novella" count="29"/>
+      <shelf name="marquez" count="29"/>
+      <shelf name="my-books" count="28"/>
+      <shelf name="ebook" count="26"/>
+      <shelf name="adult-fiction" count="26"/>
+      <shelf name="contemporary-fiction" count="26"/>
+      <shelf name="رمان" count="25"/>
+      <shelf name="2006" count="25"/>
+      <shelf name="روايات" count="24"/>
+      <shelf name="spanish-literature" count="24"/>
+      <shelf name="kindle" count="24"/>
+      <shelf name="ebooks" count="24"/>
+      <shelf name="classic" count="23"/>
+      <shelf name="translated" count="23"/>
+      <shelf name="latin-american-lit" count="23"/>
+      <shelf name="adult" count="22"/>
+      <shelf name="novellas" count="21"/>
+      <shelf name="i-own" count="21"/>
+      <shelf name="drama" count="20"/>
+      <shelf name="south-american" count="20"/>
+      <shelf name="book-club" count="19"/>
+      <shelf name="love" count="18"/>
+      <shelf name="novela" count="18"/>
+      <shelf name="translation" count="18"/>
+      <shelf name="21st-century" count="17"/>
+      <shelf name="narrativa" count="17"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="favourites" count="17"/>
+      <shelf name="espanol" count="17"/>
+      <shelf name="gabriel-garcía-márquez" count="16"/>
+      <shelf name="gabriel-garcia-márquez" count="16"/>
+      <shelf name="magic-realism" count="16"/>
+      <shelf name="read-in-2016" count="15"/>
+      <shelf name="nobel-laureates" count="15"/>
+      <shelf name="colombian-literature" count="15"/>
+      <shelf name="world-literature" count="15"/>
+      <shelf name="borrowed" count="15"/>
+      <shelf name="historical-fiction" count="15"/>
+      <shelf name="literary" count="15"/>
+      <shelf name="in-translation" count="15"/>
+      <shelf name="colômbia" count="14"/>
+      <shelf name="latinoamericana" count="14"/>
+      <shelf name="read-in-2013" count="13"/>
+      <shelf name="books" count="13"/>
+      <shelf name="márquez" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="home-library" count="13"/>
+      <shelf name="modern-classics" count="13"/>
+      <shelf name="short-stories" count="13"/>
+      <shelf name="general-fiction" count="13"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="reviewed" count="12"/>
+      <shelf name="nobel-prize-winners" count="12"/>
+      <shelf name="latin" count="12"/>
+      <shelf name="literatura" count="12"/>
+      <shelf name="en-español" count="12"/>
+      <shelf name="read-in-2017" count="11"/>
+      <shelf name="sexuality" count="11"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="read-in-2014" count="11"/>
+      <shelf name="spanish-language" count="11"/>
+      <shelf name="favorite" count="11"/>
+      <shelf name="garcia-marquez" count="11"/>
+      <shelf name="in-my-library" count="11"/>
+      <shelf name="2005" count="11"/>
+      <shelf name="read-2014" count="10"/>
+      <shelf name="literatura-latinoamericana" count="10"/>
+      <shelf name="aging" count="10"/>
+      <shelf name="read-in-2012" count="10"/>
+      <shelf name="read-in-2011" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>440456</id>
+<title>Budapeste</title>
+<title_without_series>Budapeste</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/440456.Budapeste]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>174</num_pages>
+<work>
+<id>429260</id>
+</work>
+<isbn>8535904174</isbn>
+<isbn13>9788535904178</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>2739</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33620</id>
+<name>Chico Buarque</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33620.Chico_Buarque]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2865182</id>
+<title>As rosas de Atacama</title>
+<title_without_series>As rosas de Atacama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2865182-as-rosas-de-atacama]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1471210591s/2865182.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1471210591m/2865182.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>1904134</id>
+</work>
+<isbn>9724123847</isbn>
+<isbn13>9789724123844</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>708</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1084267</id>
+<name>Luis Sepúlveda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1084267.Luis_Sep_lveda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5741575</id>
+<title><![CDATA[Gabriel García Márquez: a Life]]></title>
+<title_without_series><![CDATA[Gabriel García Márquez: a Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5741575-gabriel-garc-a-m-rquez]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332555942s/5741575.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332555942m/5741575.jpg]]></image_url>
+<num_pages>664</num_pages>
+<work>
+<id>5913266</id>
+</work>
+<isbn>0747594767</isbn>
+<isbn13>9780747594765</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1144</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>250521</id>
+<name>Gerald Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/250521.Gerald_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69864</id>
+<title>In Praise of the Stepmother</title>
+<title_without_series>In Praise of the Stepmother</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69864.In_Praise_of_the_Stepmother]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1429372475s/69864.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1429372475m/69864.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>1643907</id>
+</work>
+<isbn>0571141358</isbn>
+<isbn13>9780571141357</isbn13>
+<average_rating>3.44</average_rating>
+<ratings_count>4854</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>22515</id>
+<name>Mario Vargas Llosa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22515.Mario_Vargas_Llosa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9631104</id>
+<title><![CDATA[Of Love and Other Demons by Gabriel Garcia Marquez Summary  Study Guide]]></title>
+<title_without_series><![CDATA[Of Love and Other Demons by Gabriel Garcia Marquez Summary  Study Guide]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9631104-of-love-and-other-demons-by-gabriel-garcia-marquez-summary-study-guide]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1442876042s/9631104.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1442876042m/9631104.jpg]]></image_url>
+<num_pages>38</num_pages>
+<work>
+<id>14518418</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1207</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>4819027</id>
+<name>BookRags</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4819027.BookRags]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>302983</id>
+<title>جای خالی سلوچ</title>
+<title_without_series>جای خالی سلوچ</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/302983._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268611739s/302983.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268611739m/302983.jpg]]></image_url>
+<num_pages>405</num_pages>
+<work>
+<id>2074264</id>
+</work>
+<isbn>9646194265</isbn>
+<isbn13></isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>2543</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8056299</id>
+<name>محمود دولت‌آبادی</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8056299._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>624591</id>
+<title>The Club of Angels</title>
+<title_without_series>The Club of Angels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/624591.The_Club_of_Angels]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>610951</id>
+</work>
+<isbn>0811215008</isbn>
+<isbn13>9780811215008</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>770</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>24759</id>
+<name>Luis Fernando Verissimo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24759.Luis_Fernando_Verissimo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>74232</id>
+<title>The Old Gringo</title>
+<title_without_series>The Old Gringo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/74232.The_Old_Gringo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>2027316</id>
+</work>
+<isbn>0374530521</isbn>
+<isbn13>9780374530525</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>2086</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>1367127</id>
+<name>Carlos Fuentes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1367127.Carlos_Fuentes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>214839</id>
+<title>Tieta</title>
+<title_without_series>Tieta</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/214839.Tieta]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>696</num_pages>
+<work>
+<id>15155922</id>
+</work>
+<isbn>0299186547</isbn>
+<isbn13>9780299186548</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>791</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>52683</id>
+<name>Jorge Amado</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52683.Jorge_Amado]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3424994</id>
+<title>The Romantic Dogs</title>
+<title_without_series>The Romantic Dogs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3424994-the-romantic-dogs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327939078s/3424994.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327939078m/3424994.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>3386042</id>
+</work>
+<isbn>0811218015</isbn>
+<isbn13>9780811218016</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1326</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>11</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>72039</id>
+<name>Roberto Bolaño</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72039.Roberto_Bola_o]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23183</id>
+<title>The Book of Questions</title>
+<title_without_series>The Book of Questions</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23183.The_Book_of_Questions]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>279794</id>
+</work>
+<isbn>1556591608</isbn>
+<isbn13>9781556591600</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>2529</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4026</id>
+<name>Pablo Neruda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4026.Pablo_Neruda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152809</id>
+<title><![CDATA[An Episode in the Life of a Landscape Painter]]></title>
+<title_without_series><![CDATA[An Episode in the Life of a Landscape Painter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152809.An_Episode_in_the_Life_of_a_Landscape_Painter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327932983s/152809.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327932983m/152809.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>147499</id>
+</work>
+<isbn>0811216306</isbn>
+<isbn13>9780811216302</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1737</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88379</id>
+<name>César Aira</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88379.C_sar_Aira]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12596033</id>
+<title>Claraboia</title>
+<title_without_series>Claraboia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12596033-claraboia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1450391986s/12596033.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1450391986m/12596033.jpg]]></image_url>
+<num_pages>398</num_pages>
+<work>
+<id>17611047</id>
+</work>
+<isbn>9722124412</isbn>
+<isbn13>9789722124416</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>2668</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1285555</id>
+<name>José Saramago</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>103273</id>
+<title>Under the Jaguar Sun</title>
+<title_without_series>Under the Jaguar Sun</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/103273.Under_the_Jaguar_Sun]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1116766</id>
+</work>
+<isbn>0156927942</isbn>
+<isbn13>9780156927949</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1841</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>155517</id>
+<name>Italo Calvino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155517.Italo_Calvino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62968</id>
+<title>El huerto de mi amada</title>
+<title_without_series>El huerto de mi amada</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62968.El_huerto_de_mi_amada]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61160</id>
+</work>
+<isbn>8408048325</isbn>
+<isbn13>9788408048329</isbn13>
+<average_rating>3.38</average_rating>
+<ratings_count>343</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>35327</id>
+<name>Alfredo Bryce Echenique</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35327.Alfredo_Bryce_Echenique]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>845496</id>
+<title>The Actual</title>
+<title_without_series>The Actual</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/845496.The_Actual]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309286970s/845496.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309286970m/845496.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>3507</id>
+</work>
+<isbn>0140274995</isbn>
+<isbn13>9780140274998</isbn13>
+<average_rating>3.27</average_rating>
+<ratings_count>1065</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4391</id>
+<name>Saul Bellow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4391.Saul_Bellow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>440111</id>
+<title>میرا</title>
+<title_without_series>میرا</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/440111._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334840060s/440111.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334840060m/440111.jpg]]></image_url>
+<num_pages>91</num_pages>
+<work>
+<id>68575</id>
+</work>
+<isbn>9648223092</isbn>
+<isbn13>9789648223095</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>40003</id>
+<name>Christopher Frank</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40003.Christopher_Frank]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

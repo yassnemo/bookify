@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7968243</id>
+  <title>Cleopatra: A Life</title>
+  <isbn><![CDATA[0316001929]]></isbn>
+  <isbn13><![CDATA[9780316001922]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0069SQ1A0]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1294098301m/7968243.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1294098301s/7968243.jpg</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Little, Brown and Company</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The Pulitzer Prize-winning biographer brings to life the most intriguing woman in the history of the world: Cleopatra, the last queen of Egypt.</b><br /><br />Her palace shimmered with onyx, garnet, and gold, but was richer still in political and sexual intrigue. Above all else, Cleopatra was a shrewd strategist and an ingenious negotiator. Though her life spanned fewer than forty years, it reshaped the contours of the ancient world. <br /><br />She was married twice, each time to a brother. She waged a brutal civil war against the first when both were teenagers. She poisoned the second. Ultimately she dispensed with an ambitious sister as well; incest and assassination were family specialties. Cleopatra appears to have had sex with only two men. They happen, however, to have been Julius Caesar and Mark Antony, among the most prominent Romans of the day. Both were married to other women. Cleopatra had a child with Caesar and--after his murder--three more with his protégé. Already she was the wealthiest ruler in the Mediterranean; the relationship with Antony confirmed her status as the most influential woman of the age. The two would together attempt to forge a new empire, in an alliance that spelled their ends. Cleopatra has lodged herself in our imaginations ever since.<br /><br />Famous long before she was notorious, Cleopatra has gone down in history for all the wrong reasons. Shakespeare and Shaw put words in her mouth. Michelangelo, Tiepolo, and Elizabeth Taylor put a face to her name. Along the way, Cleopatra's supple personality and the drama of her circumstances have been lost. In a masterly return to the classical sources, Stacy Schiff here boldly separates fact from fiction to rescue the magnetic queen whose death ushered in a new world order. Rich in detail, epic in scope, Schiff's is a luminous, deeply original reconstruction of a dazzling life.]]></description>
+  <work>
+  <id type="integer">12020129</id>
+  <books_count type="integer">55</books_count>
+  <best_book_id type="integer">7968243</best_book_id>
+  <reviews_count type="integer">227748</reviews_count>
+  <ratings_sum type="integer">277739</ratings_sum>
+  <ratings_count type="integer">76712</ratings_count>
+  <text_reviews_count type="integer">4536</text_reviews_count>
+  <original_publication_year type="integer">2006</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>Cleopatra: A Life</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:20600|4:23941|3:19658|2:7488|1:5025|total:76712</rating_dist>
+  <desc_user_id type="integer">31430985</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.62</average_rating>
+  <num_pages><![CDATA[302]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[74014]]></ratings_count>
+  <text_reviews_count><![CDATA[4107]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7968243-cleopatra]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7968243-cleopatra]]></link>
+  <authors>
+<author>
+<id>5741</id>
+<name>Stacy Schiff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289595291p5/5741.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289595291p2/5741.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5741.Stacy_Schiff]]></link>
+<average_rating>3.57</average_rating>
+<ratings_count>88317</ratings_count>
+<text_reviews_count>6624</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7968243-cleopatra">Cleopatra Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316001929&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7968243-cleopatra?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3537"/>
+      <shelf name="biography" count="284"/>
+      <shelf name="history" count="282"/>
+      <shelf name="historical-fiction" count="241"/>
+      <shelf name="non-fiction" count="232"/>
+      <shelf name="egypt" count="203"/>
+      <shelf name="currently-reading" count="170"/>
+      <shelf name="books-i-own" count="159"/>
+      <shelf name="biography-memoir" count="126"/>
+      <shelf name="nonfiction" count="114"/>
+      <shelf name="audiobook" count="101"/>
+      <shelf name="audio" count="94"/>
+      <shelf name="africa" count="88"/>
+      <shelf name="kindle" count="86"/>
+      <shelf name="audiobooks" count="82"/>
+      <shelf name="library" count="72"/>
+      <shelf name="ancient-history" count="72"/>
+      <shelf name="did-not-finish" count="68"/>
+      <shelf name="fiction" count="63"/>
+      <shelf name="didn-t-finish" count="61"/>
+      <shelf name="ancient-egypt" count="59"/>
+      <shelf name="adult" count="58"/>
+      <shelf name="owned" count="54"/>
+      <shelf name="owned-books" count="53"/>
+      <shelf name="women" count="52"/>
+      <shelf name="to-buy" count="50"/>
+      <shelf name="unfinished" count="46"/>
+      <shelf name="couldn-t-finish" count="46"/>
+      <shelf name="historical" count="42"/>
+      <shelf name="biographies" count="42"/>
+      <shelf name="bio" count="42"/>
+      <shelf name="default" count="40"/>
+      <shelf name="biography-autobiography" count="40"/>
+      <shelf name="memoir-biography" count="40"/>
+      <shelf name="royalty" count="39"/>
+      <shelf name="wish-list" count="39"/>
+      <shelf name="cleopatra" count="37"/>
+      <shelf name="book-group" count="35"/>
+      <shelf name="gave-up-on" count="32"/>
+      <shelf name="ancient" count="32"/>
+      <shelf name="gave-up" count="31"/>
+      <shelf name="audio-book" count="29"/>
+      <shelf name="never-finished" count="27"/>
+      <shelf name="to-read-non-fiction" count="27"/>
+      <shelf name="ancient-egypt-and-rome" count="25"/>
+      <shelf name="world-history" count="25"/>
+      <shelf name="historical-non-fiction" count="25"/>
+      <shelf name="my-library" count="24"/>
+      <shelf name="non-fic" count="24"/>
+      <shelf name="book-club" count="23"/>
+      <shelf name="audio-books" count="23"/>
+      <shelf name="book-club-books" count="23"/>
+      <shelf name="could-not-finish" count="23"/>
+      <shelf name="maybe" count="23"/>
+      <shelf name="own-it" count="23"/>
+      <shelf name="my-books" count="22"/>
+      <shelf name="memoir" count="22"/>
+      <shelf name="read-2011" count="22"/>
+      <shelf name="history-ancient" count="22"/>
+      <shelf name="stopped-reading" count="21"/>
+      <shelf name="classics" count="20"/>
+      <shelf name="history-biography" count="19"/>
+      <shelf name="favorites" count="17"/>
+      <shelf name="ancient-rome" count="17"/>
+      <shelf name="female-author" count="17"/>
+      <shelf name="autobiography" count="17"/>
+      <shelf name="ancient-world" count="17"/>
+      <shelf name="non-fiction-to-read" count="17"/>
+      <shelf name="to-read-nonfiction" count="17"/>
+      <shelf name="historical-nonfiction" count="17"/>
+      <shelf name="non-fiction-history" count="17"/>
+      <shelf name="read-in-2017" count="15"/>
+      <shelf name="read-in-2013" count="15"/>
+      <shelf name="i-own" count="15"/>
+      <shelf name="dnf" count="15"/>
+      <shelf name="want-to-read" count="15"/>
+      <shelf name="memoirs" count="15"/>
+      <shelf name="read-in-2016" count="14"/>
+      <shelf name="biographies-and-memoirs" count="14"/>
+      <shelf name="own-to-read" count="14"/>
+      <shelf name="biography-and-memoir" count="14"/>
+      <shelf name="strong-women" count="14"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="alexandria" count="13"/>
+      <shelf name="read-in-2012" count="13"/>
+      <shelf name="not-finished" count="13"/>
+      <shelf name="antiquity" count="13"/>
+      <shelf name="book-club-reads" count="13"/>
+      <shelf name="cultural" count="13"/>
+      <shelf name="roman-history" count="13"/>
+      <shelf name="have" count="12"/>
+      <shelf name="memoir-bio" count="12"/>
+      <shelf name="memoirs-biographies" count="12"/>
+      <shelf name="2011-books" count="12"/>
+      <shelf name="kindle-books" count="12"/>
+      <shelf name="reviewed" count="12"/>
+      <shelf name="egyptian" count="12"/>
+      <shelf name="biography-autobiography-memoir" count="12"/>
+      <shelf name="women-authors" count="12"/>
+      <shelf name="rome" count="11"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>2743411</id>
+<title><![CDATA[Cleopatra: Last Queen of Egypt]]></title>
+<title_without_series><![CDATA[Cleopatra: Last Queen of Egypt]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2743411-cleopatra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2769089</id>
+</work>
+<isbn>0465009409</isbn>
+<isbn13>9780465009404</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>823</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>49484</id>
+<name>Joyce A. Tyldesley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49484.Joyce_A_Tyldesley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17157</id>
+<title>Marie Antoinette: The Journey</title>
+<title_without_series>Marie Antoinette: The Journey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17157.Marie_Antoinette]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>1850916</id>
+</work>
+<isbn>0307277747</isbn>
+<isbn13>9780307277749</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>26399</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6582</id>
+<name>Antonia Fraser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6582.Antonia_Fraser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6251412</id>
+<title><![CDATA[Cleopatra and Antony: Power, Love, and Politics in the Ancient World]]></title>
+<title_without_series><![CDATA[Cleopatra and Antony: Power, Love, and Politics in the Ancient World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6251412-cleopatra-and-antony]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312050623s/6251412.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312050623m/6251412.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6434293</id>
+</work>
+<isbn>0802717381</isbn>
+<isbn13>9780802717382</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>375</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>31107</id>
+<name>Diana Preston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31107.Diana_Preston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>552028</id>
+<title>Cleopatra: A Biography</title>
+<title_without_series>Cleopatra: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/552028.Cleopatra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1775911</id>
+</work>
+<isbn>0785818286</isbn>
+<isbn13>9780785818281</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>549</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>31375</id>
+<name>Michael Grant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31375.Michael_Grant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>145269</id>
+<title><![CDATA[Lucrezia Borgia: Life, Love, and Death in Renaissance Italy]]></title>
+<title_without_series><![CDATA[Lucrezia Borgia: Life, Love, and Death in Renaissance Italy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/145269.Lucrezia_Borgia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309209658s/145269.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309209658m/145269.jpg]]></image_url>
+<num_pages>366</num_pages>
+<work>
+<id>140174</id>
+</work>
+<isbn>0143035959</isbn>
+<isbn13>9780143035954</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>2726</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>84018</id>
+<name>Sarah Bradford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/84018.Sarah_Bradford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7840844</id>
+<title><![CDATA[Caesars' Wives: The Women Who Shaped the History of Rome]]></title>
+<title_without_series><![CDATA[Caesars' Wives: The Women Who Shaped the History of Rome]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7840844-caesars-wives]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>10932298</id>
+</work>
+<isbn>1416583033</isbn>
+<isbn13>9781416583035</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>594</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>3412996</id>
+<name>Annelise Freisenbruch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3412996.Annelise_Freisenbruch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7662062</id>
+<title>Cleopatra: A Biography</title>
+<title_without_series>Cleopatra: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7662062-cleopatra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>10252777</id>
+</work>
+<isbn>0195365534</isbn>
+<isbn13>9780195365535</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>246</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>417340</id>
+<name>Duane W. Roller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/417340.Duane_W_Roller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10211697</id>
+<title><![CDATA[Mary Boleyn: The Mistress of Kings]]></title>
+<title_without_series><![CDATA[Mary Boleyn: The Mistress of Kings]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10211697-mary-boleyn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298297175s/10211697.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298297175m/10211697.jpg]]></image_url>
+<num_pages>364</num_pages>
+<work>
+<id>15111170</id>
+</work>
+<isbn>0345521331</isbn>
+<isbn13>9780345521330</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>6224</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6583</id>
+<name>Alison Weir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6583.Alison_Weir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9305792</id>
+<title><![CDATA[Mary Tudor: Princess, Bastard, Queen]]></title>
+<title_without_series><![CDATA[Mary Tudor: Princess, Bastard, Queen]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9305792-mary-tudor]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344486632s/9305792.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344486632m/9305792.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6589123</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>2520</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>2899300</id>
+<name>Anna Whitelock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2899300.Anna_Whitelock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5599865</id>
+<title>Antony And Cleopatra</title>
+<title_without_series>Antony And Cleopatra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5599865-antony-and-cleopatra]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331450282s/5599865.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331450282m/5599865.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>5771221</id>
+</work>
+<isbn>0297845675</isbn>
+<isbn13>9780297845676</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>550</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>6429037</id>
+<name>Adrian Goldsworthy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6429037.Adrian_Goldsworthy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>255134</id>
+<title><![CDATA[Catherine de Medici: Renaissance Queen of France]]></title>
+<title_without_series><![CDATA[Catherine de Medici: Renaissance Queen of France]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/255134.Catherine_de_Medici]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407107291s/255134.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407107291m/255134.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>247261</id>
+</work>
+<isbn>0060744936</isbn>
+<isbn13>9780060744939</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4685</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>149082</id>
+<name>Leonie Frieda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/149082.Leonie_Frieda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12851815</id>
+<title><![CDATA[Queen of the Conqueror: The Life of Matilda, Wife of William I]]></title>
+<title_without_series><![CDATA[Queen of the Conqueror: The Life of Matilda, Wife of William I]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12851815-queen-of-the-conqueror]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333578805s/12851815.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333578805m/12851815.jpg]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>18003219</id>
+</work>
+<isbn>0553808141</isbn>
+<isbn13>9780553808148</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1002</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>890144</id>
+<name>Tracy Borman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/890144.Tracy_Borman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15814396</id>
+<title><![CDATA[The Creation of Anne Boleyn: A New Look at England's Most Notorious Queen]]></title>
+<title_without_series><![CDATA[The Creation of Anne Boleyn: A New Look at England's Most Notorious Queen]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15814396-the-creation-of-anne-boleyn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1348098502s/15814396.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1348098502m/15814396.jpg]]></image_url>
+<num_pages>343</num_pages>
+<work>
+<id>16482706</id>
+</work>
+<isbn>0547328184</isbn>
+<isbn13>9780547328188</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2021</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>44779</id>
+<name>Susan Bordo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44779.Susan_Bordo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6408184</id>
+<title><![CDATA[The Lady Queen: The Notorious Reign of Joanna I, Queen of Naples, Jerusalem, and Sicily]]></title>
+<title_without_series><![CDATA[The Lady Queen: The Notorious Reign of Joanna I, Queen of Naples, Jerusalem, and Sicily]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6408184-the-lady-queen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312048337s/6408184.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312048337m/6408184.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6597096</id>
+</work>
+<isbn>0802716709</isbn>
+<isbn13>9780802716705</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1024</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>68259</id>
+<name>Nancy Goldstone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68259.Nancy_Goldstone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>695689</id>
+<title><![CDATA[Marie-Thérèse, Child of Terror: The Fate of Marie Antoinette's Daughter]]></title>
+<title_without_series><![CDATA[Marie-Thérèse, Child of Terror: The Fate of Marie Antoinette's Daughter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/695689.Marie_Th_r_se_Child_of_Terror]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312044728s/695689.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312044728m/695689.jpg]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>682008</id>
+</work>
+<isbn>1596910577</isbn>
+<isbn13>9781596910577</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1976</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>58483</id>
+<name>Susan Nagel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58483.Susan_Nagel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>84593</id>
+<title><![CDATA[Cicero: The Life and Times of Rome's Greatest Politician]]></title>
+<title_without_series><![CDATA[Cicero: The Life and Times of Rome's Greatest Politician]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/84593.Cicero]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320502320s/84593.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320502320m/84593.jpg]]></image_url>
+<num_pages>364</num_pages>
+<work>
+<id>81654</id>
+</work>
+<isbn>037575895X</isbn>
+<isbn13>9780375758959</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>3316</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>48403</id>
+<name>Anthony Everitt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48403.Anthony_Everitt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16171</id>
+<title><![CDATA[Queen of Fashion: What Marie Antoinette Wore to the Revolution]]></title>
+<title_without_series><![CDATA[Queen of Fashion: What Marie Antoinette Wore to the Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16171.Queen_of_Fashion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>412</num_pages>
+<work>
+<id>17946</id>
+</work>
+<isbn>0805079491</isbn>
+<isbn13>9780805079494</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>2623</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9984</id>
+<name>Caroline Weber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9984.Caroline_Weber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10229683</id>
+<title><![CDATA[The Tigress of Forlì: Renaissance Italy's Most Courageous and Notorious Countess, Caterina Riario Sforza de Medici]]></title>
+<title_without_series><![CDATA[The Tigress of Forlì: Renaissance Italy's Most Courageous and Notorious Countess, Caterina Riario Sforza de Medici]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10229683-the-tigress-of-forl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1302740091s/10229683.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1302740091m/10229683.jpg]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>15129535</id>
+</work>
+<isbn>0151012997</isbn>
+<isbn13>9780151012992</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1349</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4583884</id>
+<name>Elizabeth Lev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4583884.Elizabeth_Lev]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>6562380</id>
+  <title>When the Game Was Ours</title>
+  <isbn><![CDATA[0547225474]]></isbn>
+  <isbn13><![CDATA[9780547225470]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003K16P6E]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">6755222</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">6562380</best_book_id>
+  <reviews_count type="integer">18993</reviews_count>
+  <ratings_sum type="integer">41080</ratings_sum>
+  <ratings_count type="integer">9873</ratings_count>
+  <text_reviews_count type="integer">377</text_reviews_count>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>When the Game Was Ours</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4498|4:3208|3:1630|2:331|1:206|total:9873</rating_dist>
+  <desc_user_id type="integer">-10</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.16</average_rating>
+  <num_pages><![CDATA[340]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9405]]></ratings_count>
+  <text_reviews_count><![CDATA[325]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/6562380-when-the-game-was-ours]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/6562380-when-the-game-was-ours]]></link>
+  <authors>
+<author>
+<id>46000</id>
+<name>Larry Bird</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/46000.Larry_Bird]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>13432</ratings_count>
+<text_reviews_count>485</text_reviews_count>
+</author>
+<author>
+<id>1308043</id>
+<name>Earvin Johnson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1308043.Earvin_Johnson]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>13877</ratings_count>
+<text_reviews_count>503</text_reviews_count>
+</author>
+<author>
+<id>107804</id>
+<name>Jackie MacMullan</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/107804.Jackie_MacMullan]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>12281</ratings_count>
+<text_reviews_count>563</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/6562380-when-the-game-was-ours">When the Game Was Ours Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0547225474&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/6562380-when-the-game-was-ours?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4359"/>
+      <shelf name="sports" count="223"/>
+      <shelf name="currently-reading" count="98"/>
+      <shelf name="basketball" count="65"/>
+      <shelf name="non-fiction" count="60"/>
+      <shelf name="biography" count="41"/>
+      <shelf name="nonfiction" count="21"/>
+      <shelf name="favorites" count="18"/>
+      <shelf name="sport" count="17"/>
+      <shelf name="biographies" count="13"/>
+      <shelf name="memoir" count="13"/>
+      <shelf name="history" count="11"/>
+      <shelf name="sports-books" count="6"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="biography-memoir" count="5"/>
+      <shelf name="magic-johnson" count="4"/>
+      <shelf name="larry-bird" count="4"/>
+      <shelf name="autobiography" count="4"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="boston" count="4"/>
+      <shelf name="bio" count="4"/>
+      <shelf name="sports-basketball" count="4"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="boston-celtics" count="3"/>
+      <shelf name="2015-reading-challenge" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="biographies-memoirs" count="3"/>
+      <shelf name="audiobooks" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="audiobook" count="3"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="lakers" count="2"/>
+      <shelf name="celtics" count="2"/>
+      <shelf name="read-2015" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="nba" count="2"/>
+      <shelf name="audio" count="2"/>
+      <shelf name="abandoned" count="2"/>
+      <shelf name="when-the-game-was-ours" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="read-in-2013" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="e-book" count="2"/>
+      <shelf name="unread" count="2"/>
+      <shelf name="fun" count="2"/>
+      <shelf name="magic" count="2"/>
+      <shelf name="leadership" count="2"/>
+      <shelf name="audio-books" count="2"/>
+      <shelf name="biography-autobiography" count="2"/>
+      <shelf name="los-angeles" count="2"/>
+      <shelf name="calibre" count="2"/>
+      <shelf name="nonfiction-sports" count="2"/>
+      <shelf name="bios" count="2"/>
+      <shelf name="hoops" count="2"/>
+      <shelf name="prime" count="2"/>
+      <shelf name="sports-non-fiction" count="2"/>
+      <shelf name="and" count="2"/>
+      <shelf name="biographical" count="2"/>
+      <shelf name="books-read-2010" count="2"/>
+      <shelf name="curious-about" count="2"/>
+      <shelf name="fiction-old" count="1"/>
+      <shelf name="bittersweet" count="1"/>
+      <shelf name="for-fun" count="1"/>
+      <shelf name="biography-or-memoir" count="1"/>
+      <shelf name="in-pl" count="1"/>
+      <shelf name="family-book-club" count="1"/>
+      <shelf name="4000-books" count="1"/>
+      <shelf name="five-stars" count="1"/>
+      <shelf name="e-books" count="1"/>
+      <shelf name="sports_art" count="1"/>
+      <shelf name="stranieri-tradotti" count="1"/>
+      <shelf name="to-read-3" count="1"/>
+      <shelf name="dalton-s-challenge" count="1"/>
+      <shelf name="toread_sports" count="1"/>
+      <shelf name="urheilu" count="1"/>
+      <shelf name="wish-list" count="1"/>
+      <shelf name="to-read-nonfiction" count="1"/>
+      <shelf name="p-20" count="1"/>
+      <shelf name="sold" count="1"/>
+      <shelf name="1980s" count="1"/>
+      <shelf name="the-fact-is" count="1"/>
+      <shelf name="sports-and-games" count="1"/>
+      <shelf name="i-own-all-the-books" count="1"/>
+      <shelf name="books" count="1"/>
+      <shelf name="available-in-overdrive" count="1"/>
+      <shelf name="book-riot-books" count="1"/>
+      <shelf name="basketball-books" count="1"/>
+      <shelf name="house-library" count="1"/>
+      <shelf name="nook" count="1"/>
+      <shelf name="sosa-shelf" count="1"/>
+      <shelf name="home-books" count="1"/>
+      <shelf name="memoirs-biographies" count="1"/>
+      <shelf name="hezz-s-favorites" count="1"/>
+      <shelf name="scanned-books" count="1"/>
+      <shelf name="fablo-freshcobar" count="1"/>
+      <shelf name="commuter-book" count="1"/>
+      <shelf name="read-audible" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6704942</id>
+<title><![CDATA[The Art of a Beautiful Game: The Thinking Fan's Tour of the NBA (Sports Illustrated)]]></title>
+<title_without_series><![CDATA[The Art of a Beautiful Game: The Thinking Fan's Tour of the NBA]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6704942-the-art-of-a-beautiful-game]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>6900701</id>
+</work>
+<isbn>1439110212</isbn>
+<isbn13>9781439110218</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2989</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64935</id>
+<name>Chris Ballard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64935.Chris_Ballard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>284735</id>
+<title><![CDATA[The Last Season: A Team In Search of Its Soul]]></title>
+<title_without_series><![CDATA[The Last Season: A Team In Search of Its Soul]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/284735.The_Last_Season]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>276243</id>
+</work>
+<isbn>1594200351</isbn>
+<isbn13>9781594200359</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>6257</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2853</id>
+<name>Phil Jackson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2853.Phil_Jackson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>246468</id>
+<title>The Jordan Rules</title>
+<title_without_series>The Jordan Rules</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/246468.The_Jordan_Rules]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>238805</id>
+</work>
+<isbn>0671796666</isbn>
+<isbn13>9780671796662</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>11518</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34392</id>
+<name>Sam Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34392.Sam_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119035</id>
+<title><![CDATA[Pistol: The Life of Pete Maravich]]></title>
+<title_without_series><![CDATA[Pistol: The Life of Pete Maravich]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119035.Pistol]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>381</num_pages>
+<work>
+<id>114606</id>
+</work>
+<isbn>0743284976</isbn>
+<isbn13>9780743284974</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>5019</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>68981</id>
+<name>Mark Kriegel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68981.Mark_Kriegel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75408</id>
+<title><![CDATA[Playing for Keeps: Michael Jordan and the World He Made]]></title>
+<title_without_series><![CDATA[Playing for Keeps: Michael Jordan and the World He Made]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75408.Playing_for_Keeps]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403175812s/75408.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403175812m/75408.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>436871</id>
+</work>
+<isbn>0767904443</isbn>
+<isbn13>9780767904445</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>4048</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>42850</id>
+<name>David Halberstam</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42850.David_Halberstam]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13152668</id>
+<title><![CDATA[Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever]]></title>
+<title_without_series><![CDATA[Dream Team: How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13152668-dream-team]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344619142s/13152668.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344619142m/13152668.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>18330806</id>
+</work>
+<isbn>0345520483</isbn>
+<isbn13>9780345520487</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>8430</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>20659</id>
+<name>Jack McCallum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20659.Jack_McCallum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8124176</id>
+<title><![CDATA[Play Their Hearts Out: A Coach, His Star Recruit, and the Youth Basketball Machine]]></title>
+<title_without_series><![CDATA[Play Their Hearts Out: A Coach, His Star Recruit, and the Youth Basketball Machine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8124176-play-their-hearts-out]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320501257s/8124176.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320501257m/8124176.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>12919817</id>
+</work>
+<isbn>0345508602</isbn>
+<isbn13>9780345508607</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>3548</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3513223</id>
+<name>George Dohrmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3513223.George_Dohrmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6276290</id>
+<title><![CDATA[Red and Me: My Coach, My Lifelong Friend]]></title>
+<title_without_series><![CDATA[Red and Me: My Coach, My Lifelong Friend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6276290-red-and-me]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>6459773</id>
+</work>
+<isbn>0061766143</isbn>
+<isbn13>9780061766145</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1308</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>56752</id>
+<name>Alan Steinberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/56752.Alan_Steinberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44628</id>
+<title><![CDATA[The Last Shot: City Streets, Basketball Dreams]]></title>
+<title_without_series><![CDATA[The Last Shot: City Streets, Basketball Dreams]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44628.The_Last_Shot]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>233</num_pages>
+<work>
+<id>43963</id>
+</work>
+<isbn>0618446710</isbn>
+<isbn13>9780618446711</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>4281</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>25040</id>
+<name>Darcy Frey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25040.Darcy_Frey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>516720</id>
+<title><![CDATA[Let Me Tell You a Story: A Lifetime in the Game]]></title>
+<title_without_series><![CDATA[Let Me Tell You a Story: A Lifetime in the Game]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/516720.Let_Me_Tell_You_a_Story]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>346</num_pages>
+<work>
+<id>504654</id>
+</work>
+<isbn>0316738239</isbn>
+<isbn13>9780316738231</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1415</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45999</id>
+<name>Red Auerbach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45999.Red_Auerbach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11248907</id>
+<title><![CDATA[Shaq Uncut: Tall Tales and Untold Stories]]></title>
+<title_without_series><![CDATA[Shaq Uncut: Tall Tales and Untold Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11248907-shaq-uncut]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344268731s/11248907.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344268731m/11248907.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>18167311</id>
+</work>
+<isbn>1455504416</isbn>
+<isbn13>9781455504411</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>2042</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>301468</id>
+<name>Shaquille O&apos;Neal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/301468.Shaquille_O_Neal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7967970</id>
+<title><![CDATA[FreeDarko Presents: The Undisputed Guide to Pro Basketball History]]></title>
+<title_without_series><![CDATA[FreeDarko Presents: The Undisputed Guide to Pro Basketball History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7967970-freedarko-presents]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317067018s/7967970.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317067018m/7967970.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12013781</id>
+</work>
+<isbn>1608190838</isbn>
+<isbn13>9781608190836</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>1373</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1416825</id>
+<name>Bethlehem Shoals</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1416825.Bethlehem_Shoals]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5675224</id>
+<title><![CDATA[When March Went Mad: The Game That Transformed Basketball]]></title>
+<title_without_series><![CDATA[When March Went Mad: The Game That Transformed Basketball]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5675224-when-march-went-mad]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312037677s/5675224.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312037677m/5675224.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>5846773</id>
+</work>
+<isbn>0805088105</isbn>
+<isbn13>9780805088106</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>823</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>925315</id>
+<name>Seth Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/925315.Seth_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24480</id>
+<title><![CDATA[Can I Keep My Jersey?: Eleven Teams, Six Years, Five Countries, and My So-called Career as a Professional Basketball Player]]></title>
+<title_without_series><![CDATA[Can I Keep My Jersey?: Eleven Teams, Six Years, Five Countries, and My So-called Career as a Professional Basketball Player]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24480.Can_I_Keep_My_Jersey_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>25330</id>
+</work>
+<isbn>034549136X</isbn>
+<isbn13>9780345491367</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>2906</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>13764</id>
+<name>Paul Shirley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13764.Paul_Shirley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>227205</id>
+<title><![CDATA[Loose Balls: The Short, Wild Life of the American Basketball Association]]></title>
+<title_without_series><![CDATA[Loose Balls: The Short, Wild Life of the American Basketball Association]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/227205.Loose_Balls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>450</num_pages>
+<work>
+<id>709096</id>
+</work>
+<isbn>0671749218</isbn>
+<isbn13>9780671749217</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>2241</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>12</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>132997</id>
+<name>Terry Pluto</name>
+<link><![CDATA[https://www.goodreads.com/author/show/132997.Terry_Pluto]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>316525</id>
+<title><![CDATA[When Nothing Else Matters: Michael Jordan's Last Comeback]]></title>
+<title_without_series><![CDATA[When Nothing Else Matters: Michael Jordan's Last Comeback]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/316525.When_Nothing_Else_Matters]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421828522s/316525.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421828522m/316525.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>307348</id>
+</work>
+<isbn>0743254279</isbn>
+<isbn13>9780743254274</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1462</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>182061</id>
+<name>Michael  Leahy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/182061.Michael_Leahy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75650</id>
+<title><![CDATA[The Punch: One Night, Two Lives, and the Fight That Changed  Basketball Forever]]></title>
+<title_without_series><![CDATA[The Punch: One Night, Two Lives, and the Fight That Changed  Basketball Forever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75650.The_Punch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>2210286</id>
+</work>
+<isbn>0316735639</isbn>
+<isbn13>9780316735636</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>2636</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>42993</id>
+<name>John Feinstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42993.John_Feinstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40955</id>
+<title>They Call Me Coach</title>
+<title_without_series>They Call Me Coach</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40955.They_Call_Me_Coach]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>40540</id>
+</work>
+<isbn>0071424911</isbn>
+<isbn13>0639785415596</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>1386</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>23041</id>
+<name>John Wooden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23041.John_Wooden]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

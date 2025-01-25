@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>731804</id>
+  <title>Pinkalicious</title>
+  <isbn><![CDATA[0060776390]]></isbn>
+  <isbn13><![CDATA[9780060776398]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<strong>This sparkling <em>New York Times</em> bestselling picture book from Victoria and Elizabeth Kann celebrates all things pink while showing readers that being yourself is the best of all. This 10th anniversary edition of <em>Pinkalicious</em> features a special sticker and a glittery jacket just for the occasion.</strong><br /><br />Pinkalicious loves all things pink. From fairy dresses to cotton candy to bubblegum. Most importantly she loves eating pink cupcakes. Mommy and Daddy warn her not to eat too many, but Pinkalicious can’t help herself. They’re just too good! But when Pinkalicious eats one too many, she turns pink herself! What will she do?<br /><br /><em>Pinkalicious </em>is the first picture book starring Pinkalicious and her family. She stars in five more picture books—<em>Purplicious</em>, <em>Goldilicious</em>, <em>Silverlicious</em>, <em>Emeraldalicious</em>, and <em>Aqualicious</em>—as well as I Can Reads, doodle books, and more!]]></description>
+  <work>
+  <id type="integer">717994</id>
+  <books_count type="integer">12</books_count>
+  <best_book_id type="integer">731804</best_book_id>
+  <reviews_count type="integer">19233</reviews_count>
+  <ratings_sum type="integer">67553</ratings_sum>
+  <ratings_count type="integer">16671</ratings_count>
+  <text_reviews_count type="integer">728</text_reviews_count>
+  <original_publication_year type="integer">2006</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">23</original_publication_day>
+  <original_title>Pinkalicious</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7631|4:4288|3:3221|2:1052|1:479|total:16671</rating_dist>
+  <desc_user_id type="integer">-47</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.05</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16597]]></ratings_count>
+  <text_reviews_count><![CDATA[714]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/731804.Pinkalicious]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/731804.Pinkalicious]]></link>
+  <authors>
+<author>
+<id>1128174</id>
+<name>Victoria Kann</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360875907p5/1128174.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360875907p2/1128174.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1128174.Victoria_Kann]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>33818</ratings_count>
+<text_reviews_count>2133</text_reviews_count>
+</author>
+<author>
+<id>388534</id>
+<name>Elizabeth Kann</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/388534.Elizabeth_Kann]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>20774</ratings_count>
+<text_reviews_count>1060</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/731804.Pinkalicious">Pinkalicious Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060776390&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/731804.Pinkalicious?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="372"/>
+      <shelf name="picture-books" count="279"/>
+      <shelf name="children-s-books" count="152"/>
+      <shelf name="childrens" count="109"/>
+      <shelf name="children-s" count="88"/>
+      <shelf name="children" count="86"/>
+      <shelf name="picture-book" count="73"/>
+      <shelf name="kids-books" count="70"/>
+      <shelf name="childrens-books" count="61"/>
+      <shelf name="fiction" count="34"/>
+      <shelf name="currently-reading" count="33"/>
+      <shelf name="colors" count="25"/>
+      <shelf name="fantasy" count="21"/>
+      <shelf name="favorites" count="21"/>
+      <shelf name="children-s-lit" count="20"/>
+      <shelf name="children-s-literature" count="20"/>
+      <shelf name="02-fantasy" count="18"/>
+      <shelf name="food" count="18"/>
+      <shelf name="humor" count="17"/>
+      <shelf name="children-s-picture-books" count="17"/>
+      <shelf name="pinkalicious" count="16"/>
+      <shelf name="children-books" count="14"/>
+      <shelf name="kid-books" count="13"/>
+      <shelf name="childrens-picture-books" count="13"/>
+      <shelf name="picturebooks" count="12"/>
+      <shelf name="march" count="11"/>
+      <shelf name="series" count="11"/>
+      <shelf name="preschool" count="10"/>
+      <shelf name="books-i-own" count="10"/>
+      <shelf name="default" count="9"/>
+      <shelf name="read-aloud" count="9"/>
+      <shelf name="girls" count="9"/>
+      <shelf name="childrens-lit" count="9"/>
+      <shelf name="kids" count="8"/>
+      <shelf name="modern-fantasy" count="8"/>
+      <shelf name="kindergarten" count="8"/>
+      <shelf name="kid-s-books" count="8"/>
+      <shelf name="pink" count="8"/>
+      <shelf name="picture" count="8"/>
+      <shelf name="juvenile" count="8"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="picture-books-read" count="7"/>
+      <shelf name="library" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="funny" count="6"/>
+      <shelf name="fun" count="6"/>
+      <shelf name="kid-lit" count="6"/>
+      <shelf name="storytime" count="6"/>
+      <shelf name="edrd-314" count="5"/>
+      <shelf name="for-the-kids" count="5"/>
+      <shelf name="read-kids" count="5"/>
+      <shelf name="kids-read" count="5"/>
+      <shelf name="ece-3601" count="5"/>
+      <shelf name="children-picture-books" count="5"/>
+      <shelf name="children-s-read" count="5"/>
+      <shelf name="color" count="5"/>
+      <shelf name="kiddos" count="5"/>
+      <shelf name="read-to-kids" count="5"/>
+      <shelf name="read-with-my-kids" count="5"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="children-young-adult" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="children-s-picture-book" count="4"/>
+      <shelf name="imagination" count="4"/>
+      <shelf name="1st-grade" count="4"/>
+      <shelf name="children-s-book" count="4"/>
+      <shelf name="life-lessons" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="favorite-children-s-books" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="feelings" count="4"/>
+      <shelf name="picture_book" count="4"/>
+      <shelf name="children-s-books-read" count="4"/>
+      <shelf name="kids-favorites" count="4"/>
+      <shelf name="books-we-own" count="4"/>
+      <shelf name="bedtime-stories" count="4"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="favorite-picture-books" count="4"/>
+      <shelf name="childrensbooks" count="4"/>
+      <shelf name="read-childrens" count="3"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="read-to-me" count="3"/>
+      <shelf name="4-stars" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="childhood" count="3"/>
+      <shelf name="family-library" count="3"/>
+      <shelf name="in-my-library" count="3"/>
+      <shelf name="children-read" count="3"/>
+      <shelf name="classroom-books" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="for-kids" count="3"/>
+      <shelf name="storytime-favorites" count="3"/>
+      <shelf name="read-children" count="3"/>
+      <shelf name="family" count="3"/>
+      <shelf name="silly" count="3"/>
+      <shelf name="emma" count="3"/>
+      <shelf name="early-reader" count="3"/>
+      <shelf name="read-children-s" count="3"/>
+      <shelf name="childrens-read" count="3"/>
+      <shelf name="t-l-306" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>420001</id>
+<user_position></user_position>
+<series>
+<id>87214</id>
+<title>
+<![CDATA[
+    Pinkalicious
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>38</series_works_count>
+<primary_work_count>27</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>426626</id>
+<title><![CDATA[Fancy Nancy and the Posh Puppy]]></title>
+<title_without_series><![CDATA[Fancy Nancy and the Posh Puppy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/426626.Fancy_Nancy_and_the_Posh_Puppy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1761419</id>
+</work>
+<isbn>0060542136</isbn>
+<isbn13>9780060542139</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>5641</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>94085</id>
+<name>Jane O&apos;Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94085.Jane_O_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2855642</id>
+<title>Ladybug Girl</title>
+<title_without_series>Ladybug Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2855642-ladybug-girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1299609682s/2855642.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1299609682m/2855642.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2881776</id>
+</work>
+<isbn>0803731957</isbn>
+<isbn13>9780803731950</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>3997</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1402537</id>
+<name>David Soman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1402537.David_Soman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>120847</id>
+<title>Alice The Fairy</title>
+<title_without_series>Alice The Fairy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/120847.Alice_The_Fairy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>588869</id>
+</work>
+<isbn>0439490251</isbn>
+<isbn13>9780439490252</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>6145</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2865944</id>
+<title>If You Give a Cat a Cupcake</title>
+<title_without_series>If You Give a Cat a Cupcake</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2865944-if-you-give-a-cat-a-cupcake]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2330655</id>
+</work>
+<isbn>0060283246</isbn>
+<isbn13>9780060283247</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>12068</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>87184</id>
+<name>Laura Joffe Numeroff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87184.Laura_Joffe_Numeroff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>220289</id>
+<title><![CDATA[Do Princesses Wear Hiking Boots?]]></title>
+<title_without_series><![CDATA[Do Princesses Wear Hiking Boots?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/220289.Do_Princesses_Wear_Hiking_Boots_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>562145</id>
+</work>
+<isbn>0873588282</isbn>
+<isbn13>9780873588287</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>809</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128880</id>
+<name>Carmela LaVigna Coyle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128880.Carmela_LaVigna_Coyle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5698821</id>
+<title>Llama Llama Misses Mama</title>
+<title_without_series>Llama Llama Misses Mama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5698821-llama-llama-misses-mama]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>5870386</id>
+</work>
+<isbn>0670061980</isbn>
+<isbn13>9780670061983</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>10523</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>282083</id>
+<title><![CDATA[Skippyjon Jones and the Big Bones (Skippyjon Jones, #4)]]></title>
+<title_without_series><![CDATA[Skippyjon Jones and the Big Bones]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/282083.Skippyjon_Jones_and_the_Big_Bones]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>273637</id>
+</work>
+<isbn>0525478841</isbn>
+<isbn13>9780525478843</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>2668</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>78407</id>
+<name>Judy Schachner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78407.Judy_Schachner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>634187</id>
+<title>Olivia Saves the Circus</title>
+<title_without_series>Olivia Saves the Circus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/634187.Olivia_Saves_the_Circus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3259015</id>
+</work>
+<isbn>068982954X</isbn>
+<isbn13>9780689829543</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>4475</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>27861</id>
+<name>Ian Falconer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27861.Ian_Falconer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>223845</id>
+<title><![CDATA[My Friend is Sad (Elephant & Piggie, #2)]]></title>
+<title_without_series>My Friend is Sad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/223845.My_Friend_is_Sad]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>216789</id>
+</work>
+<isbn>1423102975</isbn>
+<isbn13>9781423102977</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>6857</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7519327</id>
+<title>The Very Fairy Princess</title>
+<title_without_series>The Very Fairy Princess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7519327-the-very-fairy-princess]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344268876s/7519327.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344268876m/7519327.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>9736049</id>
+</work>
+<isbn>0316040501</isbn>
+<isbn13>9780316040501</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>581</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>6781</id>
+<name>Julie Andrews Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6781.Julie_Andrews_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4602</id>
+<title>Dooby Dooby Moo</title>
+<title_without_series>Dooby Dooby Moo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4602.Dooby_Dooby_Moo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1747965</id>
+</work>
+<isbn>0689845073</isbn>
+<isbn13>9780689845079</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>6686</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

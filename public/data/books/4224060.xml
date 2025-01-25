@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>4224060</id>
+  <title><![CDATA[The Element: How Finding Your Passion Changes Everything]]></title>
+  <isbn><![CDATA[0670020478]]></isbn>
+  <isbn13><![CDATA[9780670020478]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B002XHNMVM]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Ante un futuro cada vez más incierto, este libro nos motiva a buscar lo mejor de nosotros mismos, lo que realmente nos apasiona, y así encontrar nuestro elemento. El mundo cambia a una velocidad vertiginosa. Es imposible adivinar cómo viviremos en el futuro. Lo único que sabemos es que hará falta mucha imaginación y creatividad para transformarnos y enfrentar los nuevos retos. El Elemento es el punto en el que el talento innato se une con la pasión personal. Descubrirlo nos lleva a recuperar capacidades sorprendentes en nuestro interior. Desarrollarlo dará un giro radical a nuestro entorno laboral, a nuestras relaciones y, en definitiva, a nuestras vidas.<br />El estilo del libro es ágil y ameno, con pinceladas de humor. Está lleno de anécdotas sorprendentes y experiencias fascinantes que mantienen el interés del lector desde el principio hasta el final. El Elemento recoge las historias de personas que encontraron su elemento, y con ello la plenitud y felicidad en sus vidas, desde Paul McCartney y Meg Ryan hasta Matt Groening, el creador de Los Simpsons. Sus experiencias nos dan la clave para que nosotros podamos también descubrir el nuestro.]]></description>
+  <work>
+  <id type="integer">4271462</id>
+  <books_count type="integer">71</books_count>
+  <best_book_id type="integer">4224060</best_book_id>
+  <reviews_count type="integer">30338</reviews_count>
+  <ratings_sum type="integer">43253</ratings_sum>
+  <ratings_count type="integer">11127</ratings_count>
+  <text_reviews_count type="integer">1216</text_reviews_count>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">8</original_publication_day>
+  <original_title>The Element: A New View of Human Capacity</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3589|4:3933|3:2596|2:779|1:230|total:11127</rating_dist>
+  <desc_user_id type="integer">4908674</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.89</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9074]]></ratings_count>
+  <text_reviews_count><![CDATA[951]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/4224060-the-element]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/4224060-the-element]]></link>
+  <authors>
+<author>
+<id>43940</id>
+<name>Ken Robinson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269246424p5/43940.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269246424p2/43940.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/43940.Ken_Robinson]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>17828</ratings_count>
+<text_reviews_count>1891</text_reviews_count>
+</author>
+<author>
+<id>195467</id>
+<name>Lou Aronica</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287706522p5/195467.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287706522p2/195467.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/195467.Lou_Aronica]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>16524</ratings_count>
+<text_reviews_count>1964</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/4224060-the-element">The Element Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0670020478&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/4224060-the-element?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2244"/>
+      <shelf name="education" count="255"/>
+      <shelf name="currently-reading" count="240"/>
+      <shelf name="self-help" count="139"/>
+      <shelf name="nonfiction" count="124"/>
+      <shelf name="psychology" count="115"/>
+      <shelf name="creativity" count="87"/>
+      <shelf name="non-fiction" count="84"/>
+      <shelf name="favorites" count="73"/>
+      <shelf name="self-improvement" count="54"/>
+      <shelf name="philosophy" count="50"/>
+      <shelf name="personal-development" count="50"/>
+      <shelf name="business" count="49"/>
+      <shelf name="audiobook" count="36"/>
+      <shelf name="self-development" count="31"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="audiobooks" count="25"/>
+      <shelf name="inspirational" count="25"/>
+      <shelf name="audio" count="23"/>
+      <shelf name="learning" count="23"/>
+      <shelf name="teaching" count="22"/>
+      <shelf name="inspiration" count="21"/>
+      <shelf name="audible" count="19"/>
+      <shelf name="abandoned" count="19"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="passion" count="16"/>
+      <shelf name="personal-growth" count="16"/>
+      <shelf name="books-i-own" count="16"/>
+      <shelf name="career" count="15"/>
+      <shelf name="innovation" count="15"/>
+      <shelf name="professional" count="15"/>
+      <shelf name="kindle" count="15"/>
+      <shelf name="wish-list" count="14"/>
+      <shelf name="ebook" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="unfinished" count="11"/>
+      <shelf name="on-hold" count="11"/>
+      <shelf name="default" count="10"/>
+      <shelf name="maybe" count="10"/>
+      <shelf name="professional-development" count="10"/>
+      <shelf name="work" count="10"/>
+      <shelf name="english" count="10"/>
+      <shelf name="motivational" count="10"/>
+      <shelf name="life" count="10"/>
+      <shelf name="science" count="9"/>
+      <shelf name="to-read-nonfiction" count="9"/>
+      <shelf name="adult" count="9"/>
+      <shelf name="professional-books" count="9"/>
+      <shelf name="parenting" count="9"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="motivation" count="8"/>
+      <shelf name="did-not-finish" count="8"/>
+      <shelf name="leadership" count="8"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="education-reform" count="7"/>
+      <shelf name="audio-books" count="7"/>
+      <shelf name="book-club" count="7"/>
+      <shelf name="ted" count="7"/>
+      <shelf name="growth" count="7"/>
+      <shelf name="school" count="7"/>
+      <shelf name="shelfari-favorites" count="6"/>
+      <shelf name="coaching" count="6"/>
+      <shelf name="non-fiction-to-read" count="6"/>
+      <shelf name="self" count="6"/>
+      <shelf name="to-read-non-fiction" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="thinking" count="6"/>
+      <shelf name="nonfic" count="6"/>
+      <shelf name="lifestyle" count="6"/>
+      <shelf name="thought-provoking" count="6"/>
+      <shelf name="social-science" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="reference" count="6"/>
+      <shelf name="sociology" count="6"/>
+      <shelf name="imagination" count="6"/>
+      <shelf name="shelfari-wishlist" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="success" count="5"/>
+      <shelf name="inspiring" count="5"/>
+      <shelf name="ken-robinson" count="5"/>
+      <shelf name="to-read-self-help" count="5"/>
+      <shelf name="educación" count="5"/>
+      <shelf name="college" count="5"/>
+      <shelf name="development" count="5"/>
+      <shelf name="entrepreneurship" count="5"/>
+      <shelf name="adult-nonfiction" count="5"/>
+      <shelf name="never-finished" count="5"/>
+      <shelf name="self-actualization" count="5"/>
+      <shelf name="adult-non-fiction" count="5"/>
+      <shelf name="personal" count="5"/>
+      <shelf name="art" count="5"/>
+      <shelf name="criticism-on-institutional-educatio" count="4"/>
+      <shelf name="21st-century-skills" count="4"/>
+      <shelf name="to-read-2017" count="4"/>
+      <shelf name="educacion" count="4"/>
+      <shelf name="purpose" count="4"/>
+      <shelf name="couldn-t-finish" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="next" count="4"/>
+      <shelf name="to-read-psychology" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>10258753</id>
+<title><![CDATA[A New Culture of Learning: Cultivating the Imagination for a World of Constant Change]]></title>
+<title_without_series><![CDATA[A New Culture of Learning: Cultivating the Imagination for a World of Constant Change]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10258753-a-new-culture-of-learning]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>137</num_pages>
+<work>
+<id>15159050</id>
+</work>
+<isbn>1456458884</isbn>
+<isbn13>9781456458881</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>580</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>211137</id>
+<name>Douglas Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/211137.Douglas_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294034</id>
+<title>Five Minds for the Future</title>
+<title_without_series>Five Minds for the Future</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294034.Five_Minds_for_the_Future]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328756630s/294034.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328756630m/294034.jpg]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>2308592</id>
+</work>
+<isbn>1591399122</isbn>
+<isbn13>9781591399124</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>1203</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>37381</id>
+<name>Howard Gardner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37381.Howard_Gardner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6938504</id>
+<title><![CDATA[Catching Up or Leading the Way: American Education in the Age of Globalization]]></title>
+<title_without_series><![CDATA[Catching Up or Leading the Way: American Education in the Age of Globalization]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6938504-catching-up-or-leading-the-way]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>229</num_pages>
+<work>
+<id>7170982</id>
+</work>
+<isbn>1416608737</isbn>
+<isbn13>9781416608738</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>270</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>170696</id>
+<name>Yong Zhao</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170696.Yong_Zhao]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7527740</id>
+<title><![CDATA[DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education]]></title>
+<title_without_series><![CDATA[DIY U: Edupunks, Edupreneurs, and the Coming Transformation of Higher Education]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7527740-diy-u]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1390170163s/7527740.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1390170163m/7527740.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>9764054</id>
+</work>
+<isbn>1603582347</isbn>
+<isbn13>9781603582346</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>500</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>90761</id>
+<name>Anya Kamenetz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90761.Anya_Kamenetz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>219192</id>
+<title>The Roving Mind</title>
+<title_without_series>The Roving Mind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/219192.The_Roving_Mind]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>349</num_pages>
+<work>
+<id>212228</id>
+</work>
+<isbn>1573921815</isbn>
+<isbn13>9781573921817</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>178</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12676712</id>
+<title><![CDATA[Creating Innovators: The Making of Young People Who Will Change the World]]></title>
+<title_without_series><![CDATA[Creating Innovators: The Making of Young People Who Will Change the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12676712-creating-innovators]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403389170s/12676712.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403389170m/12676712.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>17792222</id>
+</work>
+<isbn>1451611498</isbn>
+<isbn13>9781451611496</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1502</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>445624</id>
+<name>Tony Wagner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/445624.Tony_Wagner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>149026</id>
+<title><![CDATA[An Ethic of Excellence: Building a Culture of Craftsmanship with Students]]></title>
+<title_without_series><![CDATA[An Ethic of Excellence: Building a Culture of Craftsmanship with Students]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/149026.An_Ethic_of_Excellence]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>143828</id>
+</work>
+<isbn>0325005966</isbn>
+<isbn13>9780325005966</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>380</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>16366778</id>
+<name>Ron  Berger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16366778.Ron_Berger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>415595</id>
+<title><![CDATA[The Renaissance Soul: Life Design for People with Too Many Passions to Pick Just One]]></title>
+<title_without_series><![CDATA[The Renaissance Soul: Life Design for People with Too Many Passions to Pick Just One]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/415595.The_Renaissance_Soul]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320477898s/415595.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320477898m/415595.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>404778</id>
+</work>
+<isbn>0767920880</isbn>
+<isbn13>9780767920889</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1368</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>234790</id>
+<name>Margaret Lobenstine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/234790.Margaret_Lobenstine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6705342</id>
+<title><![CDATA[Rethinking Education in the Age of Technology: The Digital Revolution and Schooling in America (Technology, Education--Connections) (Technology, Education - Connections (The TEC Series))]]></title>
+<title_without_series><![CDATA[Rethinking Education in the Age of Technology: The Digital Revolution and Schooling in America (Technology, Education--Connections) (Technology, Education - Connections]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6705342-rethinking-education-in-the-age-of-technology]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6901114</id>
+</work>
+<isbn>0807750026</isbn>
+<isbn13>9780807750025</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>151</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>876629</id>
+<name>Allan Collins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/876629.Allan_Collins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>573002</id>
+<title><![CDATA[Teach Your Own: The John Holt Book Of Homeschooling]]></title>
+<title_without_series><![CDATA[Teach Your Own: The John Holt Book Of Homeschooling]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/573002.Teach_Your_Own]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>560019</id>
+</work>
+<isbn>0738206946</isbn>
+<isbn13>9780738206943</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1318</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1792210</id>
+<name>John Holt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1792210.John_Holt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9744813</id>
+<title><![CDATA[Practical Wisdom: The Right Way To Do the Right Thing]]></title>
+<title_without_series><![CDATA[Practical Wisdom: The Right Way To Do the Right Thing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9744813-practical-wisdom]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327949789s/9744813.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327949789m/9744813.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>14633968</id>
+</work>
+<isbn>1594487839</isbn>
+<isbn13>9781594487835</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>444</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6957</id>
+<name>Barry Schwartz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6957.Barry_Schwartz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4116086</id>
+<title><![CDATA[Making Learning Whole: How Seven Principles of Teaching Can Transform Education]]></title>
+<title_without_series><![CDATA[Making Learning Whole: How Seven Principles of Teaching Can Transform Education]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4116086-making-learning-whole]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>4163263</id>
+</work>
+<isbn>0470384522</isbn>
+<isbn13>9780470384527</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>136</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>505932</id>
+<name>David N. Perkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/505932.David_N_Perkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6519788</id>
+<title><![CDATA[21st Century Skills: Learning for Life in Our Times]]></title>
+<title_without_series><![CDATA[21st Century Skills: Learning for Life in Our Times]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6519788-21st-century-skills]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6711660</id>
+</work>
+<isbn>0470475382</isbn>
+<isbn13>9780470475386</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>337</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2950854</id>
+<name>Bernie Trilling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2950854.Bernie_Trilling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>287818</id>
+<title><![CDATA[Refuse to Choose!: Use All of Your Interests, Passions, and Hobbies to Create the Life and Career of Your Dreams]]></title>
+<title_without_series><![CDATA[Refuse to Choose!: Use All of Your Interests, Passions, and Hobbies to Create the Life and Career of Your Dreams]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/287818.Refuse_to_Choose_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>279246</id>
+</work>
+<isbn>1594866260</isbn>
+<isbn13>9781594866265</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1992</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>31944</id>
+<name>Barbara Sher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31944.Barbara_Sher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4997659</id>
+<title><![CDATA[Play: How It Shapes the Brain, Opens the Imagination, and Invigorates the Soul]]></title>
+<title_without_series><![CDATA[Play: How It Shapes the Brain, Opens the Imagination, and Invigorates the Soul]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4997659-play]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>5064177</id>
+</work>
+<isbn>1583333339</isbn>
+<isbn13>9781583333334</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1653</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>181147</id>
+<name>Stuart Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/181147.Stuart_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4959061</id>
+<title><![CDATA[Why Don't Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom]]></title>
+<title_without_series><![CDATA[Why Don't Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4959061-why-don-t-students-like-school]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>5024862</id>
+</work>
+<isbn>0470279303</isbn>
+<isbn13>9780470279304</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>2531</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>517459</id>
+<name>Daniel T. Willingham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/517459.Daniel_T_Willingham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13625909</id>
+<title><![CDATA[How To Deliver A TED Talk: Secrets Of The World's Most Inspiring Presentations]]></title>
+<title_without_series><![CDATA[How To Deliver A TED Talk: Secrets Of The World's Most Inspiring Presentations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13625909-how-to-deliver-a-ted-talk]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1345736597s/13625909.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1345736597m/13625909.jpg]]></image_url>
+<num_pages>107</num_pages>
+<work>
+<id>19230684</id>
+</work>
+<isbn>1468179993</isbn>
+<isbn13>9781468179996</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1241</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4760858</id>
+<name>Jeremey Donovan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4760858.Jeremey_Donovan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10021241</id>
+<title><![CDATA[Unschooling Rules: 55 Ways to Unlearn What We Know about Schools and Rediscover Education]]></title>
+<title_without_series><![CDATA[Unschooling Rules: 55 Ways to Unlearn What We Know about Schools and Rediscover Education]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10021241-unschooling-rules]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>14916682</id>
+</work>
+<isbn>1608321169</isbn>
+<isbn13>9781608321162</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>482</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>150880</id>
+<name>Clark Aldrich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150880.Clark_Aldrich]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

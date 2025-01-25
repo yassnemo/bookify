@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>93</id>
+  <title>Heidi</title>
+  <isbn><![CDATA[0753454947]]></isbn>
+  <isbn13><![CDATA[9780753454947]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Kingfisher</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Orphaned Heidi lives with her gruff but caring grandfather on the side of Swiss mountain, where she befriends young Peter the goat-herd. She leads an idyllic life, until she is forced to leave the mountain she has always known to go and live with a sickly girl in the city. Will Heidi ever see her grandfather again? A classic tale of a young girl's coming-of-age, of friendship, and familial love.]]></description>
+  <work>
+  <id type="integer">1738595</id>
+  <books_count type="integer">771</books_count>
+  <best_book_id type="integer">93</best_book_id>
+  <reviews_count type="integer">194953</reviews_count>
+  <ratings_sum type="integer">614139</ratings_sum>
+  <ratings_count type="integer">154726</ratings_count>
+  <text_reviews_count type="integer">2671</text_reviews_count>
+  <original_publication_year type="integer">1881</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Heidi</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:55969|4:50855|3:37306|2:8360|1:2236|total:154726</rating_dist>
+  <desc_user_id type="integer">7492276</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.97</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[Kingfisher Classics]]></edition_information>
+  <ratings_count><![CDATA[144537]]></ratings_count>
+  <text_reviews_count><![CDATA[1827]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/93.Heidi]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/93.Heidi]]></link>
+  <authors>
+<author>
+<id>49</id>
+<name>Johanna Spyri</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029829p5/49.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029829p2/49.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49.Johanna_Spyri]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>161325</ratings_count>
+<text_reviews_count>2981</text_reviews_count>
+</author>
+<author>
+<id>9829661</id>
+<name>Angelo  Rinaldi</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9829661.Angelo_Rinaldi]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>144578</ratings_count>
+<text_reviews_count>1827</text_reviews_count>
+</author>
+<author>
+<id>403</id>
+<name>Beverly Cleary</name>
+<role>Contributor</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197935108p5/403.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197935108p2/403.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/403.Beverly_Cleary]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>684454</ratings_count>
+<text_reviews_count>15043</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/93.Heidi">Heidi Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0753454947&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/93.Heidi?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="27829"/>
+      <shelf name="classics" count="2886"/>
+      <shelf name="childrens" count="911"/>
+      <shelf name="fiction" count="858"/>
+      <shelf name="currently-reading" count="819"/>
+      <shelf name="children" count="754"/>
+      <shelf name="favorites" count="676"/>
+      <shelf name="classic" count="573"/>
+      <shelf name="children-s" count="508"/>
+      <shelf name="children-s-books" count="404"/>
+      <shelf name="childhood" count="386"/>
+      <shelf name="books-i-own" count="358"/>
+      <shelf name="young-adult" count="325"/>
+      <shelf name="owned" count="323"/>
+      <shelf name="kids" count="246"/>
+      <shelf name="historical-fiction" count="233"/>
+      <shelf name="childrens-books" count="204"/>
+      <shelf name="childhood-favorites" count="185"/>
+      <shelf name="favourites" count="149"/>
+      <shelf name="owned-books" count="121"/>
+      <shelf name="childhood-books" count="110"/>
+      <shelf name="ya" count="109"/>
+      <shelf name="kids-books" count="106"/>
+      <shelf name="children-s-literature" count="97"/>
+      <shelf name="historical" count="96"/>
+      <shelf name="middle-grade" count="95"/>
+      <shelf name="kindle" count="93"/>
+      <shelf name="children-s-lit" count="92"/>
+      <shelf name="juvenile" count="89"/>
+      <shelf name="childhood-reads" count="83"/>
+      <shelf name="switzerland" count="82"/>
+      <shelf name="children-s-classics" count="75"/>
+      <shelf name="default" count="73"/>
+      <shelf name="19th-century" count="72"/>
+      <shelf name="youth" count="71"/>
+      <shelf name="childhood-favourites" count="70"/>
+      <shelf name="childrens-literature" count="63"/>
+      <shelf name="classic-literature" count="59"/>
+      <shelf name="i-own" count="57"/>
+      <shelf name="my-library" count="55"/>
+      <shelf name="literature" count="54"/>
+      <shelf name="german" count="53"/>
+      <shelf name="childrens-classics" count="53"/>
+      <shelf name="childrens-lit" count="52"/>
+      <shelf name="novels" count="49"/>
+      <shelf name="family" count="48"/>
+      <shelf name="read-as-a-kid" count="48"/>
+      <shelf name="children-books" count="47"/>
+      <shelf name="children-s-fiction" count="46"/>
+      <shelf name="read-as-a-child" count="45"/>
+      <shelf name="my-books" count="44"/>
+      <shelf name="own-it" count="44"/>
+      <shelf name="juvenile-fiction" count="44"/>
+      <shelf name="novel" count="43"/>
+      <shelf name="adventure" count="43"/>
+      <shelf name="europe" count="43"/>
+      <shelf name="children-young-adult" count="41"/>
+      <shelf name="children-ya" count="40"/>
+      <shelf name="childhood-memories" count="38"/>
+      <shelf name="library" count="36"/>
+      <shelf name="read-alouds" count="34"/>
+      <shelf name="audiobook" count="34"/>
+      <shelf name="childrens-fiction" count="34"/>
+      <shelf name="realistic-fiction" count="32"/>
+      <shelf name="read-aloud" count="32"/>
+      <shelf name="audio" count="32"/>
+      <shelf name="kid-lit" count="31"/>
+      <shelf name="re-read" count="30"/>
+      <shelf name="swiss" count="29"/>
+      <shelf name="books-from-my-childhood" count="28"/>
+      <shelf name="my-childhood" count="28"/>
+      <shelf name="audiobooks" count="28"/>
+      <shelf name="home-library" count="28"/>
+      <shelf name="young-readers" count="28"/>
+      <shelf name="classics-to-read" count="27"/>
+      <shelf name="friendship" count="27"/>
+      <shelf name="read-more-than-once" count="27"/>
+      <shelf name="to-buy" count="27"/>
+      <shelf name="ebook" count="26"/>
+      <shelf name="school" count="26"/>
+      <shelf name="female-author" count="26"/>
+      <shelf name="to-re-read" count="26"/>
+      <shelf name="series" count="24"/>
+      <shelf name="coming-of-age" count="24"/>
+      <shelf name="childhood-favorite" count="24"/>
+      <shelf name="bbc-big-read" count="24"/>
+      <shelf name="childhood-classics" count="22"/>
+      <shelf name="shelfari-favorites" count="21"/>
+      <shelf name="chapter-books" count="20"/>
+      <shelf name="for-kids" count="20"/>
+      <shelf name="female-authors" count="20"/>
+      <shelf name="favorite" count="20"/>
+      <shelf name="ebooks" count="20"/>
+      <shelf name="wish-list" count="19"/>
+      <shelf name="germany" count="19"/>
+      <shelf name="on-my-bookshelf" count="19"/>
+      <shelf name="children-classics" count="19"/>
+      <shelf name="to-read-classics" count="18"/>
+      <shelf name="book-club" count="18"/>
+      <shelf name="audio-books" count="18"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>184019</id>
+<user_position>1-2</user_position>
+<series>
+<id>49698</id>
+<title>
+<![CDATA[
+    Heidi
+]]>
+</title>
+<description>
+<![CDATA[
+    This series contains the two Heidi novels written by Johanna Spyri.
+    See also the <b><a href="https://www.goodreads.com/series/161104-heidi-sequel">series of Heidi sequels</a></b>  written by French translator Charles Tritten.
+    
+    Heidi is originally published in two parts as <i>Heidi: her years of wandering and learning</i> (German: <i>Heidis Lehr- und Wanderjahre</i>) and <i>Heidi : How she used what she learned</i> (German: <i>Heidi kann brauchen, was es gelernt hat</i>).
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>1000751</id>
+<title>Pollyanna (Pollyanna, #1)</title>
+<title_without_series>Pollyanna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1000751.Pollyanna]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1099715</id>
+</work>
+<isbn>0689849109</isbn>
+<isbn13>9780689849107</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>61297</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10673</id>
+<name>Eleanor H. Porter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10673.Eleanor_H_Porter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>49929</id>
+<title><![CDATA[Heidi's Children (Heidi sequel, #3)]]></title>
+<title_without_series>Heidi&apos;s Children</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/49929.Heidi_s_Children]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332559861s/49929.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332559861m/49929.jpg]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>2740567</id>
+</work>
+<isbn>0307122212</isbn>
+<isbn13>9780307122216</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1793</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>442296</id>
+<name>Charles Tritten</name>
+<link><![CDATA[https://www.goodreads.com/author/show/442296.Charles_Tritten]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7891</id>
+<title><![CDATA[Betsy and the Great World (Betsy-Tacy, #9)]]></title>
+<title_without_series>Betsy and the Great World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7891.Betsy_and_the_Great_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>321</num_pages>
+<work>
+<id>10913</id>
+</work>
+<isbn>0064405451</isbn>
+<isbn13>9780064405454</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>4060</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>5306</id>
+<name>Maud Hart Lovelace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5306.Maud_Hart_Lovelace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>183126</id>
+<title><![CDATA[Hans Brinker, or the Silver Skates]]></title>
+<title_without_series><![CDATA[Hans Brinker, or the Silver Skates]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/183126.Hans_Brinker_or_the_Silver_Skates]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>244</num_pages>
+<work>
+<id>2801485</id>
+</work>
+<isbn>1596056665</isbn>
+<isbn13>9781596056664</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>11985</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>48593</id>
+<name>Mary Mapes Dodge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48593.Mary_Mapes_Dodge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>275247</id>
+<title>Little Lord Fauntleroy</title>
+<title_without_series>Little Lord Fauntleroy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/275247.Little_Lord_Fauntleroy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>164</num_pages>
+<work>
+<id>1085162</id>
+</work>
+<isbn>1934169234</isbn>
+<isbn13>9781934169230</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>14971</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>2041</id>
+<name>Frances Hodgson Burnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2041.Frances_Hodgson_Burnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>730498</id>
+<title><![CDATA[What Katy Did at School (Carr Family, #2)]]></title>
+<title_without_series>What Katy Did at School</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/730498.What_Katy_Did_at_School]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>3274035</id>
+</work>
+<isbn>1406515280</isbn>
+<isbn13>9781406515282</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>5378</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>387955</id>
+<name>Susan Coolidge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/387955.Susan_Coolidge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14570</id>
+<title><![CDATA[Eight Cousins (Eight Cousins, #1)]]></title>
+<title_without_series>Eight Cousins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14570.Eight_Cousins]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328864060s/14570.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328864060m/14570.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2905864</id>
+</work>
+<isbn>0486455599</isbn>
+<isbn13>9780486455594</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>29775</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1315</id>
+<name>Louisa May Alcott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1315.Louisa_May_Alcott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>895886</id>
+<title>Lassie Come-Home</title>
+<title_without_series>Lassie Come-Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/895886.Lassie_Come_Home]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316130656s/895886.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316130656m/895886.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1065795</id>
+</work>
+<isbn>0805072063</isbn>
+<isbn13>9780805072068</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>19666</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9159</id>
+<name>Eric Knight</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9159.Eric_Knight]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164531</id>
+<title>The Railway Children</title>
+<title_without_series>The Railway Children</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164531.The_Railway_Children]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328865877s/164531.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328865877m/164531.jpg]]></image_url>
+<num_pages>188</num_pages>
+<work>
+<id>2880113</id>
+</work>
+<isbn>0486410226</isbn>
+<isbn13>9780486410227</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>39294</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7935185</id>
+<name>E. Nesbit</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7935185.E_Nesbit]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17529</id>
+<title>Rebecca of Sunnybrook Farm</title>
+<title_without_series>Rebecca of Sunnybrook Farm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17529.Rebecca_of_Sunnybrook_Farm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>184</num_pages>
+<work>
+<id>1063767</id>
+</work>
+<isbn>1598183605</isbn>
+<isbn13>9781598183603</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>29428</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8105</id>
+<name>Kate Douglas Wiggin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8105.Kate_Douglas_Wiggin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19307</id>
+<title>Pippi in the South Seas</title>
+<title_without_series>Pippi in the South Seas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19307.Pippi_in_the_South_Seas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>126</num_pages>
+<work>
+<id>1316342</id>
+</work>
+<isbn>0670557110</isbn>
+<isbn13>9780670557110</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>14944</ratings_count>
+<publication_year>1959</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>410653</id>
+<name>Astrid Lindgren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410653.Astrid_Lindgren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1089956</id>
+<title>Star of Light</title>
+<title_without_series>Star of Light</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1089956.Star_of_Light]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>1076750</id>
+</work>
+<isbn>0802465773</isbn>
+<isbn13>9780802465771</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>1212</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>298919</id>
+<name>Patricia St. John</name>
+<link><![CDATA[https://www.goodreads.com/author/show/298919.Patricia_St_John]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7911</id>
+<title><![CDATA[Five Little Peppers and How They Grew]]></title>
+<title_without_series><![CDATA[Five Little Peppers and How They Grew]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7911.Five_Little_Peppers_and_How_They_Grew]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1167387</id>
+</work>
+<isbn>1416916172</isbn>
+<isbn13>9781416916178</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>20654</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5315</id>
+<name>Margaret Sidney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5315.Margaret_Sidney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17567</id>
+<title><![CDATA[A Girl of the Limberlost (Limberlost, #2)]]></title>
+<title_without_series>A Girl of the Limberlost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17567.A_Girl_of_the_Limberlost]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1194469</id>
+</work>
+<isbn>1576469115</isbn>
+<isbn13>9781576469118</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>15714</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1372693</id>
+<name>Gene Stratton-Porter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1372693.Gene_Stratton_Porter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>272895</id>
+<title><![CDATA[The Black Stallion (The Black Stallion, #1)]]></title>
+<title_without_series>The Black Stallion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/272895.The_Black_Stallion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>671846</id>
+</work>
+<isbn>0965476022</isbn>
+<isbn13>9780965476027</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>62805</ratings_count>
+<publication_year>1941</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16628</id>
+<name>Walter Farley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16628.Walter_Farley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>67270</id>
+<title>Emil and the Detectives</title>
+<title_without_series>Emil and the Detectives</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67270.Emil_and_the_Detectives]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>65234</id>
+</work>
+<isbn>0099413124</isbn>
+<isbn13>9780099413127</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>5920</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6519</id>
+<name>Erich Kästner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6519.Erich_K_stner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>885498</id>
+<title>The Tale of Mrs. Tittlemouse</title>
+<title_without_series>The Tale of Mrs. Tittlemouse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/885498.The_Tale_of_Mrs_Tittlemouse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>58</num_pages>
+<work>
+<id>1241685</id>
+</work>
+<isbn>0723247803</isbn>
+<isbn13>9780723247807</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>2816</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>11593</id>
+<name>Beatrix Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11593.Beatrix_Potter]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

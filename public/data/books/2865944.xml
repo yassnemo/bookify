@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>2865944</id>
+  <title>If You Give a Cat a Cupcake</title>
+  <isbn><![CDATA[0060283246]]></isbn>
+  <isbn13><![CDATA[9780060283247]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<strong>The lovable cat who first appeared in <em>If You Give a Pig a Party</em> now has his very own book in the beloved #1 <em>New York Times</em> bestselling If You Give... series!</strong><br /><br />If you give a cat a cupcake, he'll ask for some sprinkles to go with it. When you give him the sprinkles, he might spill some on the floor. Cleaning up will make him hot, so you'll give him a bathing suit . . .<br /><br />Written in the tradition of the bestselling <em>If You Give a Mouse a Cookie</em>, Laura Numeroff and Felicia Bond's newest story will show everyone that Cat is where it's at! ]]></description>
+  <work>
+  <id type="integer">2330655</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">2865944</best_book_id>
+  <reviews_count type="integer">15420</reviews_count>
+  <ratings_sum type="integer">50634</ratings_sum>
+  <ratings_count type="integer">12068</ratings_count>
+  <text_reviews_count type="integer">394</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_title>If You Give a Cat a Cupcake</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6012|4:3158|3:2285|2:474|1:139|total:12068</rating_dist>
+  <desc_user_id type="integer">-110</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11954]]></ratings_count>
+  <text_reviews_count><![CDATA[374]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2865944-if-you-give-a-cat-a-cupcake]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2865944-if-you-give-a-cat-a-cupcake]]></link>
+  <authors>
+<author>
+<id>87184</id>
+<name>Laura Joffe Numeroff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201021363p5/87184.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201021363p2/87184.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/87184.Laura_Joffe_Numeroff]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>397744</ratings_count>
+<text_reviews_count>7588</text_reviews_count>
+</author>
+<author>
+<id>42436</id>
+<name>Felicia Bond</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/42436.Felicia_Bond]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>403998</ratings_count>
+<text_reviews_count>7251</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/2865944-if-you-give-a-cat-a-cupcake">If You Give a Cat a Cupcake Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060283246&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/2865944-if-you-give-a-cat-a-cupcake?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2280"/>
+      <shelf name="picture-books" count="275"/>
+      <shelf name="childrens" count="117"/>
+      <shelf name="children-s-books" count="109"/>
+      <shelf name="children" count="81"/>
+      <shelf name="children-s" count="76"/>
+      <shelf name="picture-book" count="66"/>
+      <shelf name="childrens-books" count="66"/>
+      <shelf name="cats" count="55"/>
+      <shelf name="kids" count="52"/>
+      <shelf name="animals" count="48"/>
+      <shelf name="kids-books" count="42"/>
+      <shelf name="currently-reading" count="41"/>
+      <shelf name="fiction" count="25"/>
+      <shelf name="food" count="22"/>
+      <shelf name="fantasy" count="22"/>
+      <shelf name="humor" count="18"/>
+      <shelf name="02-fantasy" count="17"/>
+      <shelf name="storytime" count="17"/>
+      <shelf name="favorites" count="16"/>
+      <shelf name="cause-and-effect" count="15"/>
+      <shelf name="picture" count="15"/>
+      <shelf name="default" count="14"/>
+      <shelf name="library" count="14"/>
+      <shelf name="books-i-own" count="14"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="children-s-literature" count="13"/>
+      <shelf name="children-s-lit" count="13"/>
+      <shelf name="childrens-picture-books" count="13"/>
+      <shelf name="preschool" count="12"/>
+      <shelf name="children-books" count="11"/>
+      <shelf name="laura-numeroff" count="11"/>
+      <shelf name="if-you-give-a" count="11"/>
+      <shelf name="picturebooks" count="11"/>
+      <shelf name="series" count="10"/>
+      <shelf name="kid-s-books" count="10"/>
+      <shelf name="cat" count="9"/>
+      <shelf name="classroom-books" count="8"/>
+      <shelf name="kid-books" count="8"/>
+      <shelf name="children-s-picture-books" count="8"/>
+      <shelf name="story-time" count="8"/>
+      <shelf name="kindergarten" count="7"/>
+      <shelf name="sequencing" count="7"/>
+      <shelf name="adventure" count="7"/>
+      <shelf name="modern-fantasy" count="6"/>
+      <shelf name="edrd-314" count="6"/>
+      <shelf name="march" count="6"/>
+      <shelf name="school" count="6"/>
+      <shelf name="ece-3601" count="6"/>
+      <shelf name="cupcakes" count="6"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="spanish" count="6"/>
+      <shelf name="if-you-give" count="5"/>
+      <shelf name="childhood-books" count="5"/>
+      <shelf name="repetition" count="5"/>
+      <shelf name="preschool-storytime" count="5"/>
+      <shelf name="funny" count="5"/>
+      <shelf name="silly" count="5"/>
+      <shelf name="cupcake" count="5"/>
+      <shelf name="storytime-books" count="5"/>
+      <shelf name="juvenile" count="5"/>
+      <shelf name="books-we-own" count="5"/>
+      <shelf name="own-it" count="5"/>
+      <shelf name="childhood" count="4"/>
+      <shelf name="classroom" count="4"/>
+      <shelf name="school-books" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="family" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="children-s-book" count="4"/>
+      <shelf name="comedy" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="predicting" count="4"/>
+      <shelf name="picture-books-read" count="4"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="bedtime-stories" count="4"/>
+      <shelf name="read-2017" count="3"/>
+      <shelf name="pets" count="3"/>
+      <shelf name="emergent-picture-books" count="3"/>
+      <shelf name="favorite-authors" count="3"/>
+      <shelf name="if-you" count="3"/>
+      <shelf name="peer-storybook-showcase-books" count="3"/>
+      <shelf name="storybook-showcase" count="3"/>
+      <shelf name="peer-storybook-showcase" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="sequence" count="3"/>
+      <shelf name="read-kids" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="children-s-books-read" count="3"/>
+      <shelf name="friendship" count="3"/>
+      <shelf name="for-the-classroom" count="3"/>
+      <shelf name="classroom-library" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="e" count="3"/>
+      <shelf name="cumulative" count="3"/>
+      <shelf name="cat-books" count="3"/>
+      <shelf name="kids-favorites" count="3"/>
+      <shelf name="rhyme" count="3"/>
+      <shelf name="read-to-me" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>315132</id>
+<user_position></user_position>
+<series>
+<id>69955</id>
+<title>
+<![CDATA[
+    If You Give...
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>23</series_works_count>
+<primary_work_count>14</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>282083</id>
+<title><![CDATA[Skippyjon Jones and the Big Bones (Skippyjon Jones, #4)]]></title>
+<title_without_series><![CDATA[Skippyjon Jones and the Big Bones]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/282083.Skippyjon_Jones_and_the_Big_Bones]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>273637</id>
+</work>
+<isbn>0525478841</isbn>
+<isbn13>9780525478843</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>2668</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>78407</id>
+<name>Judy Schachner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78407.Judy_Schachner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>426626</id>
+<title><![CDATA[Fancy Nancy and the Posh Puppy]]></title>
+<title_without_series><![CDATA[Fancy Nancy and the Posh Puppy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/426626.Fancy_Nancy_and_the_Posh_Puppy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1761419</id>
+</work>
+<isbn>0060542136</isbn>
+<isbn13>9780060542139</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>5641</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>94085</id>
+<name>Jane O&apos;Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94085.Jane_O_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5698821</id>
+<title>Llama Llama Misses Mama</title>
+<title_without_series>Llama Llama Misses Mama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5698821-llama-llama-misses-mama]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>5870386</id>
+</work>
+<isbn>0670061980</isbn>
+<isbn13>9780670061983</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>10523</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>695773</id>
+<title><![CDATA[Baby Bear, Baby Bear, What Do You See? (Brown Bear and Friends)]]></title>
+<title_without_series><![CDATA[Baby Bear, Baby Bear, What Do You See?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/695773.Baby_Bear_Baby_Bear_What_Do_You_See_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17943866</id>
+</work>
+<isbn>0805083367</isbn>
+<isbn13>9780805083361</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>5451</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5086768</id>
+<name>Bill Martin Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5086768.Bill_Martin_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1908511</id>
+<title>The Pigeon Wants a Puppy!</title>
+<title_without_series>The Pigeon Wants a Puppy!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1908511.The_Pigeon_Wants_a_Puppy_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1910398</id>
+</work>
+<isbn>1423109600</isbn>
+<isbn13>9781423109600</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>17589</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>364063</id>
+<title>10 Little Rubber Ducks</title>
+<title_without_series>10 Little Rubber Ducks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/364063.10_Little_Rubber_Ducks]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>1167145</id>
+</work>
+<isbn>0007202423</isbn>
+<isbn13>9780007202423</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>3945</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3479278</id>
+<title>Splat the Cat</title>
+<title_without_series>Splat the Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3479278-splat-the-cat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3520607</id>
+</work>
+<isbn>0060831545</isbn>
+<isbn13>9780060831547</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>8460</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>215418</id>
+<name>Rob Scotton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/215418.Rob_Scotton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3192597</id>
+<title>Big Words for Little People</title>
+<title_without_series>Big Words for Little People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3192597-big-words-for-little-people]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3225636</id>
+</work>
+<isbn>0061127590</isbn>
+<isbn13>9780061127595</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>680</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5693</id>
+<name>Jamie Lee Curtis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5693.Jamie_Lee_Curtis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2029842</id>
+<title><![CDATA[There Was A Cold Lady Who Swallowed Some Snow! (There Was An Old Lady)]]></title>
+<title_without_series><![CDATA[There Was A Cold Lady Who Swallowed Some Snow!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2029842.There_Was_A_Cold_Lady_Who_Swallowed_Some_Snow_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867767s/2029842.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867767m/2029842.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>35155</id>
+</work>
+<isbn>0439567033</isbn>
+<isbn13>9780439567039</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>819</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19878</id>
+<name>Lucille Colandro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19878.Lucille_Colandro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1128955</id>
+<title>Mooseltoe</title>
+<title_without_series>Mooseltoe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1128955.Mooseltoe]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360566642s/1128955.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360566642m/1128955.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2863368</id>
+</work>
+<isbn>0786805676</isbn>
+<isbn13>9780786805679</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1472</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>44888</id>
+<name>Margie Palatini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44888.Margie_Palatini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>731804</id>
+<title>Pinkalicious</title>
+<title_without_series>Pinkalicious</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/731804.Pinkalicious]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>717994</id>
+</work>
+<isbn>0060776390</isbn>
+<isbn13>9780060776398</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>16671</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1128174</id>
+<name>Victoria Kann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1128174.Victoria_Kann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4602</id>
+<title>Dooby Dooby Moo</title>
+<title_without_series>Dooby Dooby Moo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4602.Dooby_Dooby_Moo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1747965</id>
+</work>
+<isbn>0689845073</isbn>
+<isbn13>9780689845079</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>6687</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>340489</id>
+<title><![CDATA[How Do Dinosaurs Eat Their Food?]]></title>
+<title_without_series><![CDATA[How Do Dinosaurs Eat Their Food?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/340489.How_Do_Dinosaurs_Eat_Their_Food_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>330875</id>
+</work>
+<isbn>0007216092</isbn>
+<isbn13>9780007216093</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>9114</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5989</id>
+<name>Jane Yolen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5989.Jane_Yolen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3375373</id>
+<title>Too Many Toys</title>
+<title_without_series>Too Many Toys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3375373-too-many-toys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328844373s/3375373.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328844373m/3375373.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3414908</id>
+</work>
+<isbn>0439490294</isbn>
+<isbn13>9780439490290</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>3688</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62573</id>
+<title>Bear Feels Sick</title>
+<title_without_series>Bear Feels Sick</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62573.Bear_Feels_Sick]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>60774</id>
+</work>
+<isbn>0689859856</isbn>
+<isbn13>9780689859854</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3761</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>35105</id>
+<name>Karma Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35105.Karma_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3287761</id>
+<title>Grumpy Cat</title>
+<title_without_series>Grumpy Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3287761-grumpy-cat]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328838090s/3287761.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328838090m/3287761.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3324133</id>
+</work>
+<isbn>1905417691</isbn>
+<isbn13>9781905417698</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>513</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>153061</id>
+<name>Britta Teckentrup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/153061.Britta_Teckentrup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9466024</id>
+<title><![CDATA[Pete the Cat: Rocking in My School Shoes]]></title>
+<title_without_series><![CDATA[Pete the Cat: Rocking in My School Shoes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9466024-pete-the-cat]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1377648110s/9466024.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1377648110m/9466024.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14351052</id>
+</work>
+<isbn>0061910244</isbn>
+<isbn13>9780061910241</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>8181</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1644249</id>
+<name>Eric Litwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1644249.Eric_Litwin]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

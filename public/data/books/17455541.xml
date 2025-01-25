@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17455541</id>
+  <title>Happy, Happy, Happy</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B009UVMGMA]]></asin>
+  <kindle_asin><![CDATA[B00ALYRQLQ]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1362252767m/17455541.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1362252767s/17455541.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Howard Books</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[<b>This no-holds-barred autobiography chronicles the remarkable life of Phil Robertson, the original Duck Commander and <i>Duck Dynasty</i> star, from early childhood through the founding of a family business.</b> Life was always getting in the way of Phil Robertson’s passion for duck hunting.<br /><br />An NFL-bound quarterback, Phil made his mark on Louisiana Tech University in the 1960s by playing football and completing his college career with a master’s degree in English. But Phil’s eyes were not always on the books or the ball; they were usually looking to the sky.<br /><br />Phil grew up with the dream of living the simple life off the land like his forebears, but he soon found himself on a path to self-destruction—leasing a bar, drinking too much, fighting, and wasting his talents. He almost lost it all until he gave his life to God. And then everything changed.<br /><br />Phil’s incredible story tells how he followed a calling from God and soon after invented a duck call that would begin an incredible journey to the life he had always dreamed of for himself and his family. With great love for his country, his family, and his maker, Phil has finally found the ingredients to the “good life” he always wanted.]]></description>
+  <work>
+  <id type="integer">24346221</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">17455541</best_book_id>
+  <reviews_count type="integer">23319</reviews_count>
+  <ratings_sum type="integer">45941</ratings_sum>
+  <ratings_count type="integer">11303</ratings_count>
+  <text_reviews_count type="integer">1182</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Legend of the Duck Commander</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4686|4:3714|3:2117|2:518|1:268|total:11303</rating_dist>
+  <desc_user_id type="integer">16695850</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.06</average_rating>
+  <num_pages><![CDATA[224]]></num_pages>
+  <format><![CDATA[Kindle Edition]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10105]]></ratings_count>
+  <text_reviews_count><![CDATA[1038]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17455541-happy-happy-happy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17455541-happy-happy-happy]]></link>
+  <authors>
+<author>
+<id>6185262</id>
+<name>Phil Robertson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6185262.Phil_Robertson]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>12672</ratings_count>
+<text_reviews_count>1356</text_reviews_count>
+</author>
+<author>
+<id>676643</id>
+<name>Mark Schlabach</name>
+<role>With</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/676643.Mark_Schlabach]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>22348</ratings_count>
+<text_reviews_count>2308</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17455541-happy-happy-happy">Happy, Happy, Happy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B009UVMGMA&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/17455541-happy-happy-happy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10462"/>
+      <shelf name="currently-reading" count="408"/>
+      <shelf name="non-fiction" count="137"/>
+      <shelf name="biography" count="114"/>
+      <shelf name="nonfiction" count="62"/>
+      <shelf name="christian" count="43"/>
+      <shelf name="autobiography" count="36"/>
+      <shelf name="favorites" count="34"/>
+      <shelf name="biographies" count="28"/>
+      <shelf name="books-i-own" count="22"/>
+      <shelf name="owned" count="22"/>
+      <shelf name="duck-dynasty" count="20"/>
+      <shelf name="read-in-2013" count="18"/>
+      <shelf name="memoirs" count="17"/>
+      <shelf name="memoir" count="16"/>
+      <shelf name="christianity" count="15"/>
+      <shelf name="humor" count="14"/>
+      <shelf name="biography-memoir" count="14"/>
+      <shelf name="default" count="13"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="read-2013" count="11"/>
+      <shelf name="faith" count="10"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="my-books" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="2013-books" count="9"/>
+      <shelf name="bio" count="8"/>
+      <shelf name="adult" count="8"/>
+      <shelf name="duck-commander-phil-robertson" count="7"/>
+      <shelf name="family-values" count="7"/>
+      <shelf name="religion" count="7"/>
+      <shelf name="library" count="7"/>
+      <shelf name="2013-read" count="7"/>
+      <shelf name="audio" count="6"/>
+      <shelf name="audiobooks" count="6"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="religious" count="5"/>
+      <shelf name="biography-autobiography" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="family" count="5"/>
+      <shelf name="happy" count="5"/>
+      <shelf name="calibre" count="5"/>
+      <shelf name="2013-reads" count="5"/>
+      <shelf name="bought" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="read-2014" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="louisiana" count="4"/>
+      <shelf name="auto-biography" count="4"/>
+      <shelf name="audiobook" count="4"/>
+      <shelf name="phil-robertson" count="4"/>
+      <shelf name="biography-autobio" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="e-book" count="4"/>
+      <shelf name="happy-happy-happy" count="4"/>
+      <shelf name="finished" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="outdoors" count="4"/>
+      <shelf name="audio-book" count="4"/>
+      <shelf name="spiritual" count="4"/>
+      <shelf name="duck" count="4"/>
+      <shelf name="inspirational" count="4"/>
+      <shelf name="summer-2013" count="4"/>
+      <shelf name="read-2015" count="3"/>
+      <shelf name="hardback" count="3"/>
+      <shelf name="entertainment" count="3"/>
+      <shelf name="purchased-to-read" count="3"/>
+      <shelf name="true-stories" count="3"/>
+      <shelf name="fiction" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="christian-living" count="3"/>
+      <shelf name="young-adult" count="3"/>
+      <shelf name="southern" count="3"/>
+      <shelf name="history" count="3"/>
+      <shelf name="on-hold" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="christian-books" count="3"/>
+      <shelf name="funny" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="books-i-have" count="3"/>
+      <shelf name="biographies-memoirs" count="3"/>
+      <shelf name="books-read-in-2013" count="3"/>
+      <shelf name="memoir-biography" count="3"/>
+      <shelf name="pleasure" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="christian-non-fiction" count="3"/>
+      <shelf name="hunting" count="3"/>
+      <shelf name="robertson" count="3"/>
+      <shelf name="business" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="0wn" count="2"/>
+      <shelf name="autobiographies" count="2"/>
+      <shelf name="already-read" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="unread" count="2"/>
+      <shelf name="values" count="2"/>
+      <shelf name="phil" count="2"/>
+      <shelf name="commander" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>15800624</id>
+<title>The Duck Commander Family</title>
+<title_without_series>The Duck Commander Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15800624-the-duck-commander-family]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407719635s/15800624.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407719635m/15800624.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>21523952</id>
+</work>
+<isbn>1476703620</isbn>
+<isbn13>9781476703626</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>7249</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>365639</id>
+<name>Willie Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/365639.Willie_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17673271</id>
+<title><![CDATA[Si-cology 1: Tales and Wisdom from Duck Dynasty’s Favorite Uncle]]></title>
+<title_without_series><![CDATA[Si-cology 1: Tales and Wisdom from Duck Dynasty’s Favorite Uncle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17673271-si-cology-1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379892056s/17673271.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379892056m/17673271.jpg]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>24671761</id>
+</work>
+<isbn>1476745374</isbn>
+<isbn13>9781476745374</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>8058</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7014009</id>
+<name>Si Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7014009.Si_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18318607</id>
+<title><![CDATA[Good Call: Reflections on Faith, Family, and Fowl]]></title>
+<title_without_series><![CDATA[Good Call: Reflections on Faith, Family, and Fowl]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18318607-good-call]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1393771421s/18318607.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1393771421m/18318607.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>26869395</id>
+</work>
+<isbn>1476763534</isbn>
+<isbn13>9781476763538</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1896</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6922959</id>
+<name>Jase Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6922959.Jase_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18318606</id>
+<title><![CDATA[The Women of Duck Commander: Surprising Insights from the Women Behind the Beards About What Makes This Family Work]]></title>
+<title_without_series><![CDATA[The Women of Duck Commander: Surprising Insights from the Women Behind the Beards About What Makes This Family Work]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18318606-the-women-of-duck-commander]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1397768211s/18318606.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1397768211m/18318606.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>26869461</id>
+</work>
+<isbn>1476763305</isbn>
+<isbn13>9781476763309</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1403</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7391451</id>
+<name>Kay  Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7391451.Kay_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17706555</id>
+<title>The Duck Commander Devotional</title>
+<title_without_series>The Duck Commander Devotional</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17706555-the-duck-commander-devotional]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403392530s/17706555.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403392530m/17706555.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>24755752</id>
+</work>
+<isbn>1476745552</isbn>
+<isbn13>9781476745558</isbn13>
+<average_rating>4.46</average_rating>
+<ratings_count>500</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>14405044</id>
+<name>Al Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14405044.Al_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23647124</id>
+<title><![CDATA[The Good, the Bad, and the Grace of God: What Honesty and Pain Taught Us About Faith, Family, and Forgiveness]]></title>
+<title_without_series><![CDATA[The Good, the Bad, and the Grace of God: What Honesty and Pain Taught Us About Faith, Family, and Forgiveness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23647124-the-good-the-bad-and-the-grace-of-god]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1425498141s/23647124.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1425498141m/23647124.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>43254794</id>
+</work>
+<isbn>0718031482</isbn>
+<isbn13>9780718031480</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>886</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>7414799</id>
+<name>Jep Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7414799.Jep_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>358349</id>
+<title><![CDATA[Amy Carmichael: Rescuer of Precious Gems]]></title>
+<title_without_series><![CDATA[Amy Carmichael: Rescuer of Precious Gems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/358349.Amy_Carmichael]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>203</num_pages>
+<work>
+<id>348519</id>
+</work>
+<isbn>1576580180</isbn>
+<isbn13>9781576580189</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>693</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1180</id>
+<name>Janet Benge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1180.Janet_Benge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22324068</id>
+<title><![CDATA[A New Season: A Robertson Family Love Story of Brokenness and Redemption]]></title>
+<title_without_series><![CDATA[A New Season: A Robertson Family Love Story of Brokenness and Redemption]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22324068-a-new-season]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1416788476s/22324068.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1416788476m/22324068.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>41718630</id>
+</work>
+<isbn>1442372958</isbn>
+<isbn13>9781442372955</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>311</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>42209</id>
+<name>Alan Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42209.Alan_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15864578</id>
+<title>Beyond Heaven&apos;s Door</title>
+<title_without_series>Beyond Heaven&apos;s Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15864578-beyond-heaven-s-door]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355064727s/15864578.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355064727m/15864578.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>21614550</id>
+</work>
+<isbn>0849948436</isbn>
+<isbn13>9780849948435</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>226</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>2737</id>
+<name>Max Lucado</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2737.Max_Lucado]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13540705</id>
+<title>Seal of God</title>
+<title_without_series>Seal of God</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13540705-seal-of-god]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335646267s/13540705.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335646267m/13540705.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>19103764</id>
+</work>
+<isbn>1414368747</isbn>
+<isbn13>9781414368740</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>959</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6422060</id>
+<name>Chad  Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6422060.Chad_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17471069</id>
+<title><![CDATA[Joni and Ken: An Untold Love Story]]></title>
+<title_without_series><![CDATA[Joni and Ken: An Untold Love Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17471069-joni-and-ken]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>24379963</id>
+</work>
+<isbn>0310336732</isbn>
+<isbn13>9780310336730</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>1050</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6538221</id>
+<name>Ken Tada</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6538221.Ken_Tada]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12433685</id>
+<title><![CDATA[Three Free Sins: A New Perspective on Sin and Grace]]></title>
+<title_without_series><![CDATA[Three Free Sins: A New Perspective on Sin and Grace]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12433685-three-free-sins]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>17416190</id>
+</work>
+<isbn>1451612265</isbn>
+<isbn13>9781451612264</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>356</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>52931</id>
+<name>Steve   Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52931.Steve_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11556076</id>
+<title><![CDATA[What Is He Thinking??: What Guys Want Us to Know About Dating, Love, and Marriage]]></title>
+<title_without_series><![CDATA[What Is He Thinking??: What Guys Want Us to Know About Dating, Love, and Marriage]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11556076-what-is-he-thinking]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344263966s/11556076.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344263966m/11556076.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>16496198</id>
+</work>
+<isbn>0446572675</isbn>
+<isbn13>9780446572675</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>116</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3252444</id>
+<name>Rebecca St. James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3252444.Rebecca_St_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>109516</id>
+<title><![CDATA[Me, Myself & Bob: A True Story about God, Dreams, and Talking Vegetables]]></title>
+<title_without_series><![CDATA[Me, Myself & Bob: A True Story about God, Dreams, and Talking Vegetables]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109516.Me_Myself_Bob]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380856931s/109516.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380856931m/109516.jpg]]></image_url>
+<num_pages>260</num_pages>
+<work>
+<id>105538</id>
+</work>
+<isbn>0785222073</isbn>
+<isbn13>9780785222071</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1222</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>63353</id>
+<name>Phil Vischer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63353.Phil_Vischer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5800115</id>
+<title><![CDATA[God Speaks Your Love Language: How to Feel and Reflect God's Love]]></title>
+<title_without_series><![CDATA[God Speaks Your Love Language: How to Feel and Reflect God's Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5800115-god-speaks-your-love-language]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328823106s/5800115.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328823106m/5800115.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>5972081</id>
+</work>
+<isbn>0802472753</isbn>
+<isbn13>9780802472755</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>209</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>622</id>
+<name>Gary Chapman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/622.Gary_Chapman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14546740</id>
+<title>The Ultimate Conversation</title>
+<title_without_series>The Ultimate Conversation</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14546740-the-ultimate-conversation]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1347975325s/14546740.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1347975325m/14546740.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>20189431</id>
+</work>
+<isbn>1451691157</isbn>
+<isbn13>9781451691153</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>172</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>39628</id>
+<name>Charles F. Stanley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39628.Charles_F_Stanley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22295440</id>
+<title><![CDATA[Live Original: How the Duck Commander Teen Keeps It Real and Stays True to Her Values]]></title>
+<title_without_series><![CDATA[Live Original: How the Duck Commander Teen Keeps It Real and Stays True to Her Values]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22295440-live-original]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414368748s/22295440.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414368748m/22295440.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>41644957</id>
+</work>
+<isbn>1476777802</isbn>
+<isbn13>9781476777801</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1217</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>8209245</id>
+<name>Sadie Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8209245.Sadie_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23439994</id>
+<title><![CDATA[Hope for the Holidays Historical Collection]]></title>
+<title_without_series><![CDATA[Hope for the Holidays Historical Collection]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23439994-hope-for-the-holidays-historical-collection]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414086030s/23439994.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414086030m/23439994.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>43004237</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>144</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>58306</id>
+<name>Mary Connealy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58306.Mary_Connealy]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>152402</id>
+  <title>Lucky (Lucky Santangelo, #2)</title>
+  <isbn><![CDATA[0743482867]]></isbn>
+  <isbn13><![CDATA[9780743482868]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B006YZNEAS]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[SHE’S A HOT-BLOODED BEAUTY IN LOVE WITH POWER, HUNGRY FOR PLEASURE… WILD, NOTORIOUS, TROUBLE… SHE’S… LUCKY. THE FABULOUS HEROINE OF CHANCES RETURNS.<br /><br />With the sensual grace of a panther, Lucky Santangelo prowled her Las Vegas casino, restless, ready, eager for action. That night began a dazzling odyssey, filled with dangerous passion and sun-drenched sex, sadistic vengeance and breathless suspense. From the decadent luxury of California, to Paris, New York and a private Greek island, Lucky fought for her father’s honor, for ruthless triumph, for the wild card of a fabulous love. Her rivals; an ice-cold Hollywood wife…a much-married heiress strung out on cocaine…a jaded magnate hooked on power…a crazed hoodlum lusting for murder. But Lucky was a gambIer and a lover, a woman who ruled her empire and pursued her man with the potent Santangelo strength … her way, on her terms, whatever the odds. Jackie Collins tops the sensational success of Hollywood Wives and Chances with Lucky, “so hot it will have to be printed on asbestos.”]]></description>
+  <work>
+  <id type="integer">2643917</id>
+  <books_count type="integer">29</books_count>
+  <best_book_id type="integer">152402</best_book_id>
+  <reviews_count type="integer">15476</reviews_count>
+  <ratings_sum type="integer">44568</ratings_sum>
+  <ratings_count type="integer">10914</ratings_count>
+  <text_reviews_count type="integer">235</text_reviews_count>
+  <original_publication_year type="integer">1985</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Lucky</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4593|4:3435|3:2241|2:495|1:150|total:10914</rating_dist>
+  <desc_user_id type="integer">7403283</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.08</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10001]]></ratings_count>
+  <text_reviews_count><![CDATA[191]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/152402.Lucky]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/152402.Lucky]]></link>
+  <authors>
+<author>
+<id>49699</id>
+<name>Jackie Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1438195746p5/49699.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1438195746p2/49699.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49699.Jackie_Collins]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>116290</ratings_count>
+<text_reviews_count>4497</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/152402.Lucky">Lucky Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0743482867&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/152402.Lucky?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="184"/>
+      <shelf name="currently-reading" count="113"/>
+      <shelf name="fiction" count="77"/>
+      <shelf name="romance" count="72"/>
+      <shelf name="chick-lit" count="61"/>
+      <shelf name="favorites" count="31"/>
+      <shelf name="series" count="26"/>
+      <shelf name="jackie-collins" count="14"/>
+      <shelf name="default" count="13"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="contemporary" count="13"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="kindle" count="11"/>
+      <shelf name="thriller" count="11"/>
+      <shelf name="drama" count="9"/>
+      <shelf name="guilty-pleasures" count="8"/>
+      <shelf name="guilty-pleasure" count="8"/>
+      <shelf name="favourites" count="7"/>
+      <shelf name="mafia" count="7"/>
+      <shelf name="contemporary-fiction" count="7"/>
+      <shelf name="favorite" count="7"/>
+      <shelf name="chicklit" count="7"/>
+      <shelf name="trashy" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="lucky-santangelo" count="6"/>
+      <shelf name="lucky-santangelo-series" count="6"/>
+      <shelf name="novels" count="6"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="contemporary-romance" count="5"/>
+      <shelf name="fluff" count="5"/>
+      <shelf name="collins-jackie" count="5"/>
+      <shelf name="mystery" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="womens-fiction" count="4"/>
+      <shelf name="popular-fiction" count="4"/>
+      <shelf name="lucky" count="4"/>
+      <shelf name="general-fiction" count="4"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="crime" count="3"/>
+      <shelf name="read-2014" count="3"/>
+      <shelf name="all-books" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="read-as-a-teenager" count="3"/>
+      <shelf name="4-stars" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="santangelos" count="3"/>
+      <shelf name="favorite-authors" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="suspense" count="3"/>
+      <shelf name="read-a-long-time-ago" count="3"/>
+      <shelf name="novel" count="3"/>
+      <shelf name="collins" count="3"/>
+      <shelf name="adult-fiction" count="3"/>
+      <shelf name="purchased" count="2"/>
+      <shelf name="2017-reading-challenge" count="2"/>
+      <shelf name="beach-read" count="2"/>
+      <shelf name="paperbacks" count="2"/>
+      <shelf name="adult-contemporary" count="2"/>
+      <shelf name="mom-s-books" count="2"/>
+      <shelf name="hollywood" count="2"/>
+      <shelf name="chic-lit" count="2"/>
+      <shelf name="2014-challenge" count="2"/>
+      <shelf name="already-read" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="bookshelf" count="2"/>
+      <shelf name="purchased-to-read" count="2"/>
+      <shelf name="my-favorites" count="2"/>
+      <shelf name="lucky-series" count="2"/>
+      <shelf name="read-in-2013" count="2"/>
+      <shelf name="erotica" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="must-read" count="2"/>
+      <shelf name="have" count="2"/>
+      <shelf name="hard-copy" count="2"/>
+      <shelf name="great-reads" count="2"/>
+      <shelf name="rereads" count="2"/>
+      <shelf name="sexy" count="2"/>
+      <shelf name="good-read" count="2"/>
+      <shelf name="finished-reading" count="2"/>
+      <shelf name="light" count="2"/>
+      <shelf name="favourite-authors" count="2"/>
+      <shelf name="romantic-suspense" count="2"/>
+      <shelf name="family-saga" count="2"/>
+      <shelf name="my-favourites" count="2"/>
+      <shelf name="thrillers" count="2"/>
+      <shelf name="jackie" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="women-authors" count="2"/>
+      <shelf name="chick" count="2"/>
+      <shelf name="trashy-romance" count="2"/>
+      <shelf name="trashy-reads" count="2"/>
+      <shelf name="own-it" count="2"/>
+      <shelf name="on-the-shelf" count="2"/>
+      <shelf name="mindless-trash" count="2"/>
+      <shelf name="have-read" count="2"/>
+      <shelf name="childhood-reads" count="2"/>
+      <shelf name="trash" count="2"/>
+      <shelf name="otra-ed" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>201495</id>
+<user_position>2</user_position>
+<series>
+<id>52136</id>
+<title>
+<![CDATA[
+    Lucky Santangelo
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>10</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>350039</id>
+<title>Mistral&apos;s Daughter</title>
+<title_without_series>Mistral&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/350039.Mistral_s_Daughter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320545669s/350039.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320545669m/350039.jpg]]></image_url>
+<num_pages>592</num_pages>
+<work>
+<id>675066</id>
+</work>
+<isbn>0553259172</isbn>
+<isbn13>9780553259179</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>5640</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32155</id>
+<name>Judith Krantz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32155.Judith_Krantz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1087403</id>
+<title>Lace</title>
+<title_without_series>Lace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1087403.Lace]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356457986s/1087403.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356457986m/1087403.jpg]]></image_url>
+<num_pages>751</num_pages>
+<work>
+<id>1074179</id>
+</work>
+<isbn>0140063870</isbn>
+<isbn13>9780140063875</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>4896</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>232069</id>
+<name>Shirley Conran</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232069.Shirley_Conran]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>559758</id>
+<title>Queenie</title>
+<title_without_series>Queenie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/559758.Queenie]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331416670s/559758.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331416670m/559758.jpg]]></image_url>
+<num_pages>773</num_pages>
+<work>
+<id>2629199</id>
+</work>
+<isbn>0446328103</isbn>
+<isbn13>9780446328104</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>2716</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13161</id>
+<name>Michael Korda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13161.Michael_Korda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>131155</id>
+<title>Once Is Not Enough</title>
+<title_without_series>Once Is Not Enough</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/131155.Once_Is_Not_Enough]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1030327</id>
+</work>
+<isbn>0802135455</isbn>
+<isbn13>9780802135452</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>6747</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>22485</id>
+<name>Jacqueline Susann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22485.Jacqueline_Susann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8164</id>
+<title><![CDATA[To Be the Best  (Emma Harte Saga #3)]]></title>
+<title_without_series>To Be the Best</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8164.To_Be_the_Best]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>454</num_pages>
+<work>
+<id>3074292</id>
+</work>
+<isbn>0312353286</isbn>
+<isbn13>9780312353285</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>4315</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5353</id>
+<name>Barbara Taylor Bradford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5353.Barbara_Taylor_Bradford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>339210</id>
+<title>Polo (Rutshire Chronicles #3)</title>
+<title_without_series>Polo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/339210.Polo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>842308</id>
+</work>
+<isbn>2253141720</isbn>
+<isbn13>9782253141723</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3016</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37297</id>
+<name>Jilly Cooper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37297.Jilly_Cooper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>564621</id>
+<title>Deceptions</title>
+<title_without_series>Deceptions</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/564621.Deceptions]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>2207047</id>
+</work>
+<isbn>0671899546</isbn>
+<isbn13>9780671899547</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>3512</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>261312</id>
+<name>Judith Michael</name>
+<link><![CDATA[https://www.goodreads.com/author/show/261312.Judith_Michael]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>63580</id>
+<title>Message from Nam</title>
+<title_without_series>Message from Nam</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63580.Message_from_Nam]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1338388165s/63580.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1338388165m/63580.jpg]]></image_url>
+<num_pages>417</num_pages>
+<work>
+<id>1206965</id>
+</work>
+<isbn>0440209412</isbn>
+<isbn13>9780440209416</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>8960</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>14255</id>
+<name>Danielle Steel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14255.Danielle_Steel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>131157</id>
+<title><![CDATA[Jacqueline Susann's Shadow Of The Dolls]]></title>
+<title_without_series><![CDATA[Jacqueline Susann's Shadow Of The Dolls]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/131157.Jacqueline_Susann_s_Shadow_Of_The_Dolls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>278772</id>
+</work>
+<isbn>0609605852</isbn>
+<isbn13>9780609605851</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>1823</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>75546</id>
+<name>Rae Lawrence</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75546.Rae_Lawrence]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>564505</id>
+<title>Luciano&apos;s Luck</title>
+<title_without_series>Luciano&apos;s Luck</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/564505.Luciano_s_Luck]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331526172s/564505.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331526172m/564505.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2873946</id>
+</work>
+<isbn>0812828275</isbn>
+<isbn13>9780812828276</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>971</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19706</id>
+<name>Jack Higgins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19706.Jack_Higgins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>582623</id>
+<title>The Almighty</title>
+<title_without_series>The Almighty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/582623.The_Almighty]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298819951s/582623.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298819951m/582623.jpg]]></image_url>
+<num_pages>403</num_pages>
+<work>
+<id>2284315</id>
+</work>
+<isbn>0718122143</isbn>
+<isbn13>9780718122140</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>960</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>128499</id>
+<name>Irving Wallace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128499.Irving_Wallace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>56709</id>
+<title>The Lonely Lady</title>
+<title_without_series>The Lonely Lady</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/56709.The_Lonely_Lady]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>421</num_pages>
+<work>
+<id>1700967</id>
+</work>
+<isbn>0671808826</isbn>
+<isbn13>9780671417130</isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>724</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32005</id>
+<name>Harold Robbins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32005.Harold_Robbins]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

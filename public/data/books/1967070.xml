@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>1967070</id>
+  <title><![CDATA[Coraline (Illustrated/Graphic Novel Edition)]]></title>
+  <isbn><![CDATA[006082543X]]></isbn>
+  <isbn13><![CDATA[9780060825430]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01767Z16M]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>24</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[When Coraline steps through a door in her family's new house, she finds another house, strangely similar to her own (only better). At first, things seem marvelous. The food is better than at home, and the toy box is filled with fluttering wind-up angels and dinosaur skulls that crawl and rattle their teeth.<br /><br />But there's another mother there and another father, and they want her to stay and be their little girl. They want to change her and never let her go. Coraline will have to fight with all her wit and all the tools she can find if she is to save herself and return to her ordinary life.<br /><br />This beloved tale has now become a visual feast. Acclaimed artist P. Craig Russell brings Neil Gaiman's enchanting nationally bestselling children's book Coraline to new life in this gorgeously illustrated graphic novel adaptation]]></description>
+  <work>
+  <id type="integer">21987573</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">1967070</best_book_id>
+  <reviews_count type="integer">29033</reviews_count>
+  <ratings_sum type="integer">64337</ratings_sum>
+  <ratings_count type="integer">16245</ratings_count>
+  <text_reviews_count type="integer">1402</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer">24</original_publication_day>
+  <original_title>Coraline</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5524|4:5869|3:3782|2:825|1:245|total:16245</rating_dist>
+  <desc_user_id type="integer">1125613</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.96</average_rating>
+  <num_pages><![CDATA[192]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[Graphic Novel]]></edition_information>
+  <ratings_count><![CDATA[14913]]></ratings_count>
+  <text_reviews_count><![CDATA[1184]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/1967070.Coraline]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/1967070.Coraline]]></link>
+  <authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>4287354</ratings_count>
+<text_reviews_count>247595</text_reviews_count>
+</author>
+<author>
+<id>38328</id>
+<name>P. Craig Russell</name>
+<role>Adaptor/Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416845206p5/38328.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416845206p2/38328.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38328.P_Craig_Russell]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>228508</ratings_count>
+<text_reviews_count>8485</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/1967070.Coraline">Coraline Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006082543X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/1967070.Coraline?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10456"/>
+      <shelf name="graphic-novels" count="612"/>
+      <shelf name="fantasy" count="426"/>
+      <shelf name="graphic-novel" count="383"/>
+      <shelf name="horror" count="195"/>
+      <shelf name="comics" count="192"/>
+      <shelf name="currently-reading" count="191"/>
+      <shelf name="young-adult" count="163"/>
+      <shelf name="fiction" count="157"/>
+      <shelf name="favorites" count="95"/>
+      <shelf name="ya" count="81"/>
+      <shelf name="childrens" count="78"/>
+      <shelf name="children" count="59"/>
+      <shelf name="middle-grade" count="48"/>
+      <shelf name="graphic" count="44"/>
+      <shelf name="owned" count="41"/>
+      <shelf name="comics-graphic-novels" count="41"/>
+      <shelf name="neil-gaiman" count="39"/>
+      <shelf name="graphic-novels-comics" count="39"/>
+      <shelf name="books-i-own" count="39"/>
+      <shelf name="children-s" count="37"/>
+      <shelf name="adventure" count="36"/>
+      <shelf name="paranormal" count="34"/>
+      <shelf name="comics-and-graphic-novels" count="32"/>
+      <shelf name="mystery" count="27"/>
+      <shelf name="supernatural" count="26"/>
+      <shelf name="comic" count="26"/>
+      <shelf name="library" count="25"/>
+      <shelf name="children-s-books" count="25"/>
+      <shelf name="gaiman" count="23"/>
+      <shelf name="juvenile" count="21"/>
+      <shelf name="read-in-2015" count="19"/>
+      <shelf name="library-books" count="19"/>
+      <shelf name="teen" count="19"/>
+      <shelf name="kids" count="19"/>
+      <shelf name="to-buy" count="18"/>
+      <shelf name="graphic-novels-and-comics" count="18"/>
+      <shelf name="magic" count="16"/>
+      <shelf name="scary" count="16"/>
+      <shelf name="childrens-books" count="16"/>
+      <shelf name="sci-fi-fantasy" count="15"/>
+      <shelf name="family" count="14"/>
+      <shelf name="read-in-2014" count="13"/>
+      <shelf name="borrowed" count="12"/>
+      <shelf name="creepy" count="12"/>
+      <shelf name="comic-books" count="12"/>
+      <shelf name="novel" count="11"/>
+      <shelf name="read-in-2009" count="11"/>
+      <shelf name="novels" count="11"/>
+      <shelf name="owned-books" count="11"/>
+      <shelf name="graphic-novels-and-manga" count="11"/>
+      <shelf name="dark" count="10"/>
+      <shelf name="children-s-literature" count="10"/>
+      <shelf name="fantasy-sci-fi" count="10"/>
+      <shelf name="urban-fantasy" count="10"/>
+      <shelf name="library-book" count="10"/>
+      <shelf name="juvenile-fiction" count="10"/>
+      <shelf name="illustrated" count="10"/>
+      <shelf name="graphic-novel-comic" count="10"/>
+      <shelf name="read-in-2017" count="9"/>
+      <shelf name="cómic" count="9"/>
+      <shelf name="dark-fantasy" count="9"/>
+      <shelf name="coraline" count="9"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="british" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="3-stars" count="8"/>
+      <shelf name="default" count="8"/>
+      <shelf name="english" count="8"/>
+      <shelf name="read-in-2010" count="8"/>
+      <shelf name="kids-books" count="8"/>
+      <shelf name="coming-of-age" count="8"/>
+      <shelf name="school" count="7"/>
+      <shelf name="kindle" count="7"/>
+      <shelf name="books" count="7"/>
+      <shelf name="young" count="7"/>
+      <shelf name="teen-fiction" count="7"/>
+      <shelf name="spooky" count="7"/>
+      <shelf name="sequential-art" count="7"/>
+      <shelf name="reviewed" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="monsters" count="7"/>
+      <shelf name="middle-school" count="7"/>
+      <shelf name="gothic" count="7"/>
+      <shelf name="favourites" count="7"/>
+      <shelf name="fantasy-science-fiction" count="7"/>
+      <shelf name="sarjakuvat" count="6"/>
+      <shelf name="adaptation" count="6"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="read-2014" count="6"/>
+      <shelf name="read-in-2011" count="6"/>
+      <shelf name="england" count="6"/>
+      <shelf name="scifi-fantasy" count="6"/>
+      <shelf name="youth" count="6"/>
+      <shelf name="youngadult" count="6"/>
+      <shelf name="y-a" count="6"/>
+      <shelf name="science-fiction" count="6"/>
+      <shelf name="picture-book" count="6"/>
+      <shelf name="movies" count="6"/>
+      <shelf name="kid-lit" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>16794</id>
+<title><![CDATA[The Facts in the Case of the Departure of Miss Finch]]></title>
+<title_without_series><![CDATA[The Facts in the Case of the Departure of Miss Finch]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16794.The_Facts_in_the_Case_of_the_Departure_of_Miss_Finch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403198359s/16794.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403198359m/16794.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2895241</id>
+</work>
+<isbn>1593076673</isbn>
+<isbn13>9781593076672</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>1892</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7236642</id>
+<title>Lola: A Ghost Story</title>
+<title_without_series>Lola: A Ghost Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7236642-lola]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>8147976</id>
+</work>
+<isbn>1934964336</isbn>
+<isbn13>9781934964330</isbn13>
+<average_rating>3.47</average_rating>
+<ratings_count>534</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3207578</id>
+<name>Elbert Or</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3207578.Elbert_Or]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>199910</id>
+<title><![CDATA[Honey, I Love and Other Love Poems]]></title>
+<title_without_series><![CDATA[Honey, I Love and Other Love Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/199910.Honey_I_Love_and_Other_Love_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>574399</id>
+</work>
+<isbn>0064430979</isbn>
+<isbn13>9780064430975</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>634</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>5</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>8723</id>
+<name>Eloise Greenfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8723.Eloise_Greenfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3321961</id>
+<title>The Savage</title>
+<title_without_series>The Savage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3321961-the-savage]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1911053</id>
+</work>
+<isbn>076363932X</isbn>
+<isbn13>9780763639327</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>949</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>13652</id>
+<name>David Almond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13652.David_Almond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>272372</id>
+<title>Our Gracie Aunt</title>
+<title_without_series>Our Gracie Aunt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/272372.Our_Gracie_Aunt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>264078</id>
+</work>
+<isbn>0786806206</isbn>
+<isbn13>9780786806201</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>225</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6493836</id>
+<title>The Storm in the Barn</title>
+<title_without_series>The Storm in the Barn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6493836-the-storm-in-the-barn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320418672s/6493836.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320418672m/6493836.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>6685277</id>
+</work>
+<isbn>0763636185</isbn>
+<isbn13>9780763636180</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>3062</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>387985</id>
+<name>Matt Phelan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/387985.Matt_Phelan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>458342</id>
+<title><![CDATA[Courtney Crumrin in the Twilight Kingdom (Courtney Crumrin, #3)]]></title>
+<title_without_series><![CDATA[Courtney Crumrin in the Twilight Kingdom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/458342.Courtney_Crumrin_in_the_Twilight_Kingdom]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1124292</id>
+</work>
+<isbn>1932664017</isbn>
+<isbn13>9781932664010</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>1546</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>105776</id>
+<name>Ted Naifeh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/105776.Ted_Naifeh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3127048</id>
+<title>Beanball</title>
+<title_without_series>Beanball</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3127048-beanball]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>3088636</id>
+</work>
+<isbn>0618843485</isbn>
+<isbn13>9780618843480</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>230</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>2</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>17524</id>
+<name>Gene Fehler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17524.Gene_Fehler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2320474</id>
+<title>Wonderland</title>
+<title_without_series>Wonderland</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2320474.Wonderland]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>2326996</id>
+</work>
+<isbn>142310451X</isbn>
+<isbn13>9781442310451</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>1225</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>547064</id>
+<name>Tommy Kovac</name>
+<link><![CDATA[https://www.goodreads.com/author/show/547064.Tommy_Kovac]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2149664</id>
+<title>Janes in Love (Janes, #2)</title>
+<title_without_series>Janes in Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2149664.Janes_in_Love]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>2155161</id>
+</work>
+<isbn>1401213871</isbn>
+<isbn13>9781401213879</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>1881</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>146783</id>
+<name>Cecil Castellucci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/146783.Cecil_Castellucci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6576688</id>
+<title>Bayou Vol. 2</title>
+<title_without_series>Bayou Vol. 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6576688-bayou-vol-2]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320404305s/6576688.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320404305m/6576688.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>6770019</id>
+</work>
+<isbn>1401225845</isbn>
+<isbn13>9781401225841</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>432</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>205962</id>
+<name>Jeremy Love</name>
+<link><![CDATA[https://www.goodreads.com/author/show/205962.Jeremy_Love]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4437831</id>
+<title><![CDATA[The Eternal Smile: Three Stories]]></title>
+<title_without_series><![CDATA[The Eternal Smile: Three Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4437831-the-eternal-smile]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317793037s/4437831.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317793037m/4437831.jpg]]></image_url>
+<num_pages>170</num_pages>
+<work>
+<id>4486024</id>
+</work>
+<isbn>1596431563</isbn>
+<isbn13>9781596431560</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>3754</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>68959</id>
+<name>Gene Luen Yang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68959.Gene_Luen_Yang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6928839</id>
+<title>Copper</title>
+<title_without_series>Copper</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6928839-copper]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328838908s/6928839.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328838908m/6928839.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>7159098</id>
+</work>
+<isbn>0545098939</isbn>
+<isbn13>9780545098939</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>2135</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>27372</id>
+<name>Kazu Kibuishi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27372.Kazu_Kibuishi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2473053</id>
+<title>Chiggers</title>
+<title_without_series>Chiggers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2473053.Chiggers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>2480250</id>
+</work>
+<isbn>1416935843</isbn>
+<isbn13>9781416935841</isbn13>
+<average_rating>3.38</average_rating>
+<ratings_count>1713</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>6</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>150820</id>
+<name>Hope Larson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150820.Hope_Larson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114725</id>
+<title><![CDATA[Artemis Fowl: The Graphic Novel (Artemis Fowl: The Graphic Novels, #1)]]></title>
+<title_without_series><![CDATA[Artemis Fowl: The Graphic Novel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114725.Artemis_Fowl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1357070412s/114725.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1357070412m/114725.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>2264080</id>
+</work>
+<isbn>0786848812</isbn>
+<isbn13>9780786848812</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>5962</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>10896</id>
+<name>Eoin Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10896.Eoin_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

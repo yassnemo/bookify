@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>2279</id>
+  <title>Truman</title>
+  <isbn><![CDATA[0671869205]]></isbn>
+  <isbn13><![CDATA[9780671869205]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003YCOS18]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1364681969m/2279.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1364681969s/2279.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Pulitzer Prize–winning biography of Harry S. Truman, whose presidency included momentous events from the atomic bombing of Japan to the outbreak of the Cold War and the Korean War, told by America’s beloved and distinguished historian.<br /><br />The life of Harry S. Truman is one of the greatest of American stories, filled with vivid characters—Roosevelt, Churchill, Stalin, Eleanor Roosevelt, Bess Wallace Truman, George Marshall, Joe McCarthy, and Dean Acheson—and dramatic events. In this riveting biography, acclaimed historian David McCullough not only captures the man—a more complex, informed, and determined man than ever before imagined—but also the turbulent times in which he rose, boldly, to meet unprecedented challenges. The last president to serve as a living link between the nineteenth and the twentieth centuries, Truman’s story spans the raw world of the Missouri frontier, World War I, the powerful Pendergast machine of Kansas City, the legendary Whistle-Stop Campaign of 1948, and the decisions to drop the atomic bomb, confront Stalin at Potsdam, send troops to Korea, and fire General MacArthur. Drawing on newly discovered archival material and extensive interviews with Truman’s own family, friends, and Washington colleagues, McCullough tells the deeply moving story of the seemingly ordinary “man from Missouri” who was perhaps the most courageous president in our history.]]></description>
+  <work>
+  <id type="integer">1732395</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">2279</best_book_id>
+  <reviews_count type="integer">104434</reviews_count>
+  <ratings_sum type="integer">227410</ratings_sum>
+  <ratings_count type="integer">54839</ratings_count>
+  <text_reviews_count type="integer">1768</text_reviews_count>
+  <original_publication_year type="integer">1992</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Truman</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:25878|4:17067|3:7839|2:2180|1:1875|total:54839</rating_dist>
+  <desc_user_id type="integer">56858521</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.15</average_rating>
+  <num_pages><![CDATA[1120]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[53220]]></ratings_count>
+  <text_reviews_count><![CDATA[1595]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2279.Truman]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2279.Truman]]></link>
+  <authors>
+<author>
+<id>6281688</id>
+<name>David McCullough</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429921568p5/6281688.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429921568p2/6281688.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6281688.David_McCullough]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>529306</ratings_count>
+<text_reviews_count>24946</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/2279.Truman">Truman Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0671869205&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/2279.Truman?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10376"/>
+      <shelf name="currently-reading" count="1204"/>
+      <shelf name="biography" count="299"/>
+      <shelf name="history" count="299"/>
+      <shelf name="presidents" count="227"/>
+      <shelf name="nonfiction" count="190"/>
+      <shelf name="biographies" count="182"/>
+      <shelf name="american-history" count="181"/>
+      <shelf name="favorites" count="159"/>
+      <shelf name="non-fiction" count="144"/>
+      <shelf name="biography-memoir" count="62"/>
+      <shelf name="us-history" count="53"/>
+      <shelf name="politics" count="50"/>
+      <shelf name="historical" count="48"/>
+      <shelf name="pulitzer" count="41"/>
+      <shelf name="us-presidents" count="41"/>
+      <shelf name="owned-books" count="38"/>
+      <shelf name="owned" count="37"/>
+      <shelf name="default" count="37"/>
+      <shelf name="books-i-own" count="37"/>
+      <shelf name="david-mccullough" count="37"/>
+      <shelf name="political" count="35"/>
+      <shelf name="american-presidents" count="32"/>
+      <shelf name="bio" count="32"/>
+      <shelf name="wwii" count="31"/>
+      <shelf name="audio" count="31"/>
+      <shelf name="history-biography" count="29"/>
+      <shelf name="world-war-ii" count="29"/>
+      <shelf name="kindle" count="28"/>
+      <shelf name="biography-autobiography" count="28"/>
+      <shelf name="library" count="25"/>
+      <shelf name="presidential-biographies" count="24"/>
+      <shelf name="20th-century" count="24"/>
+      <shelf name="america" count="24"/>
+      <shelf name="audible" count="23"/>
+      <shelf name="war" count="23"/>
+      <shelf name="audiobooks" count="23"/>
+      <shelf name="pulitzer-prize" count="23"/>
+      <shelf name="presidential-bios" count="22"/>
+      <shelf name="bios" count="21"/>
+      <shelf name="truman" count="20"/>
+      <shelf name="mccullough" count="19"/>
+      <shelf name="presidential" count="19"/>
+      <shelf name="u-s-history" count="17"/>
+      <shelf name="harry-truman" count="17"/>
+      <shelf name="american" count="17"/>
+      <shelf name="hist" count="16"/>
+      <shelf name="audiobook" count="16"/>
+      <shelf name="presidential-biography" count="16"/>
+      <shelf name="biographical" count="16"/>
+      <shelf name="non-fiction-to-read" count="16"/>
+      <shelf name="united-states" count="16"/>
+      <shelf name="cold-war" count="16"/>
+      <shelf name="u-s-presidents" count="15"/>
+      <shelf name="history-american" count="15"/>
+      <shelf name="president" count="15"/>
+      <shelf name="to-buy" count="13"/>
+      <shelf name="to-read-non-fiction" count="13"/>
+      <shelf name="usa" count="13"/>
+      <shelf name="leadership" count="13"/>
+      <shelf name="memoir-biography" count="13"/>
+      <shelf name="abandoned" count="12"/>
+      <shelf name="wish-list" count="12"/>
+      <shelf name="pulitzer-prize-winners" count="12"/>
+      <shelf name="world-war-2" count="11"/>
+      <shelf name="history-to-read" count="11"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="to-read-nonfiction" count="11"/>
+      <shelf name="biography-history" count="10"/>
+      <shelf name="history-politics" count="10"/>
+      <shelf name="my-books" count="9"/>
+      <shelf name="history-us" count="9"/>
+      <shelf name="presidential-history" count="9"/>
+      <shelf name="mccullough-david" count="8"/>
+      <shelf name="missouri" count="8"/>
+      <shelf name="autobiography" count="8"/>
+      <shelf name="personal-library" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="book-club" count="8"/>
+      <shelf name="audio-book" count="8"/>
+      <shelf name="to-read-biography" count="8"/>
+      <shelf name="bio-memoir" count="8"/>
+      <shelf name="biography-and-memoir" count="8"/>
+      <shelf name="audio-books" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="history-nonfiction" count="7"/>
+      <shelf name="potus" count="7"/>
+      <shelf name="ww2" count="7"/>
+      <shelf name="government" count="7"/>
+      <shelf name="in-my-library" count="7"/>
+      <shelf name="non-fiction-history" count="7"/>
+      <shelf name="to-read-history" count="7"/>
+      <shelf name="memoir-bio" count="7"/>
+      <shelf name="home-library" count="7"/>
+      <shelf name="autobiography-biography" count="7"/>
+      <shelf name="i-own" count="7"/>
+      <shelf name="listened-to" count="7"/>
+      <shelf name="biographies-and-memoirs" count="7"/>
+      <shelf name="to-read-own" count="6"/>
+      <shelf name="bookshelf" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11958983</id>
+<title>Eisenhower in War and Peace</title>
+<title_without_series>Eisenhower in War and Peace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11958983-eisenhower-in-war-and-peace]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333579846s/11958983.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333579846m/11958983.jpg]]></image_url>
+<num_pages>976</num_pages>
+<work>
+<id>16921250</id>
+</work>
+<isbn>140006693X</isbn>
+<isbn13>9781400066933</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>4336</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>191016</id>
+<name>Jean Edward Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/191016.Jean_Edward_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13049569</id>
+<title><![CDATA[The Passage of Power (The Years of Lyndon Johnson, #4)]]></title>
+<title_without_series>The Passage of Power</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13049569-the-passage-of-power]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>712</num_pages>
+<work>
+<id>18214228</id>
+</work>
+<isbn>0679405070</isbn>
+<isbn13>9780679405078</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>9674</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>722</id>
+<name>Robert A. Caro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/722.Robert_A_Caro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18728</id>
+<title><![CDATA[No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II]]></title>
+<title_without_series><![CDATA[No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18728.No_Ordinary_Time]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1423756471s/18728.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1423756471m/18728.jpg]]></image_url>
+<num_pages>759</num_pages>
+<work>
+<id>963376</id>
+</work>
+<isbn>0684804484</isbn>
+<isbn13>9780684804484</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>27177</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1476</id>
+<name>Doris Kearns Goodwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1476.Doris_Kearns_Goodwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42519</id>
+<title><![CDATA[Eisenhower: Soldier and President]]></title>
+<title_without_series><![CDATA[Eisenhower: Soldier and President]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42519.Eisenhower]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>443580</id>
+</work>
+<isbn>0671747584</isbn>
+<isbn13>9780671747589</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>6533</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5882</id>
+<name>Stephen E. Ambrose</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5882.Stephen_E_Ambrose]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1000303</id>
+<title><![CDATA[John Tyler: The Accidental President]]></title>
+<title_without_series><![CDATA[John Tyler: The Accidental President]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1000303.John_Tyler]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>332</num_pages>
+<work>
+<id>985794</id>
+</work>
+<isbn>0807830410</isbn>
+<isbn13>9780807830413</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>821</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>301280</id>
+<name>Edward P. Crapol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/301280.Edward_P_Crapol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6551739</id>
+<title>Woodrow Wilson: A Biography</title>
+<title_without_series>Woodrow Wilson: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6551739-woodrow-wilson]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320428164s/6551739.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320428164m/6551739.jpg]]></image_url>
+<num_pages>702</num_pages>
+<work>
+<id>6744272</id>
+</work>
+<isbn>0307265412</isbn>
+<isbn13>9780307265418</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>4029</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2963054</id>
+<name>John Milton Cooper Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2963054.John_Milton_Cooper_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7993566</id>
+<title>Colonel Roosevelt</title>
+<title_without_series>Colonel Roosevelt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7993566-colonel-roosevelt]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320530371s/7993566.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320530371m/7993566.jpg]]></image_url>
+<num_pages>766</num_pages>
+<work>
+<id>12482174</id>
+</work>
+<isbn>0375504877</isbn>
+<isbn13>9780375504877</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>13208</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>23013</id>
+<name>Edmund Morris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23013.Edmund_Morris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20949</id>
+<title><![CDATA[American Caesar: Douglas MacArthur 1880-1964]]></title>
+<title_without_series><![CDATA[American Caesar: Douglas MacArthur 1880-1964]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20949.American_Caesar]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410810799s/20949.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410810799m/20949.jpg]]></image_url>
+<num_pages>811</num_pages>
+<work>
+<id>268055</id>
+</work>
+<isbn>0316544981</isbn>
+<isbn13>9780316544986</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>8775</ratings_count>
+<publication_year>1978</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>11789</id>
+<name>William Manchester</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11789.William_Manchester]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8320280</id>
+<title><![CDATA[First Family: Abigail and John Adams]]></title>
+<title_without_series><![CDATA[First Family: Abigail and John Adams]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8320280-first-family]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1489967121s/8320280.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1489967121m/8320280.jpg]]></image_url>
+<num_pages>299</num_pages>
+<work>
+<id>10300359</id>
+</work>
+<isbn>0307269620</isbn>
+<isbn13>9780307269621</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>5119</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1483</id>
+<name>Joseph J. Ellis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1483.Joseph_J_Ellis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244162</id>
+<title><![CDATA[John Quincy Adams: A Public Life, a Private Life]]></title>
+<title_without_series><![CDATA[John Quincy Adams: A Public Life, a Private Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244162.John_Quincy_Adams]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>2341353</id>
+</work>
+<isbn>0679404449</isbn>
+<isbn13>9780679404446</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>4680</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>142853</id>
+<name>Paul C. Nagel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142853.Paul_C_Nagel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1081270</id>
+<title>James Madison: A Biography</title>
+<title_without_series>James Madison: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1081270.James_Madison]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330820420s/1081270.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330820420m/1081270.jpg]]></image_url>
+<num_pages>753</num_pages>
+<work>
+<id>1068008</id>
+</work>
+<isbn>0813912652</isbn>
+<isbn13>9780813912653</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>2350</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>63863</id>
+<name>Ralph Louis Ketcham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63863.Ralph_Louis_Ketcham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>332978</id>
+<title><![CDATA[The Defining Moment: FDR's Hundred Days and the Triumph of Hope]]></title>
+<title_without_series><![CDATA[The Defining Moment: FDR's Hundred Days and the Triumph of Hope]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/332978.The_Defining_Moment]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>414</num_pages>
+<work>
+<id>323510</id>
+</work>
+<isbn>0743246012</isbn>
+<isbn13>9780743246019</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>2727</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>191014</id>
+<name>Jonathan Alter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/191014.Jonathan_Alter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23303</id>
+<title><![CDATA[Ulysses S. Grant: The Unlikely Hero]]></title>
+<title_without_series><![CDATA[Ulysses S. Grant: The Unlikely Hero]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23303.Ulysses_S_Grant]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>24282</id>
+</work>
+<isbn>0060590157</isbn>
+<isbn13>9780060590154</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>385</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>13161</id>
+<name>Michael Korda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13161.Michael_Korda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6889967</id>
+<title><![CDATA[The Last Founding Father: James Monroe and a Nation's Call to Greatness]]></title>
+<title_without_series><![CDATA[The Last Founding Father: James Monroe and a Nation's Call to Greatness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6889967-the-last-founding-father]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328847326s/6889967.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328847326m/6889967.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>7110471</id>
+</work>
+<isbn>0306818086</isbn>
+<isbn13>9780306818080</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>5353</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4357</id>
+<name>Harlow Giles Unger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4357.Harlow_Giles_Unger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6117926</id>
+<title><![CDATA[Impeached: The Trial of President Andrew Johnson and the Fight for Lincoln's Legacy]]></title>
+<title_without_series><![CDATA[Impeached: The Trial of President Andrew Johnson and the Fight for Lincoln's Legacy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6117926-impeached]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1357874810s/6117926.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1357874810m/6117926.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6296040</id>
+</work>
+<isbn>1416547495</isbn>
+<isbn13>9781416547495</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1541</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>285928</id>
+<name>David O. Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/285928.David_O_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1253562</id>
+<title><![CDATA[President James Buchanan: A Biography]]></title>
+<title_without_series><![CDATA[President James Buchanan: A Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1253562.President_James_Buchanan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>506</num_pages>
+<work>
+<id>1242337</id>
+</work>
+<isbn>0945707118</isbn>
+<isbn13>9780945707110</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>187</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1234527</id>
+<name>Philip Shriver Klein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1234527.Philip_Shriver_Klein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>557197</id>
+<title><![CDATA[Plain Speaking: an Oral Biography of Harry S Truman]]></title>
+<title_without_series><![CDATA[Plain Speaking: an Oral Biography of Harry S Truman]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/557197.Plain_Speaking]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1359828057s/557197.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1359828057m/557197.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>357814</id>
+</work>
+<isbn>0425026647</isbn>
+<isbn13>9780425026649</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>663</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>210092</id>
+<name>Merle Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/210092.Merle_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>550101</id>
+<title><![CDATA[President Reagan: The Role of a Lifetime]]></title>
+<title_without_series><![CDATA[President Reagan: The Role of a Lifetime]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/550101.President_Reagan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>537348</id>
+</work>
+<isbn>1891620916</isbn>
+<isbn13>9781891620911</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>1345</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>179156</id>
+<name>Lou Cannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/179156.Lou_Cannon]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11691</id>
+  <title>Snow</title>
+  <isbn><![CDATA[0375706860]]></isbn>
+  <isbn13><![CDATA[9780375706868]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B005LVNE4W]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1357684424m/11691.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1357684424s/11691.jpg</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day></publication_day>
+  <publisher>Vintage International</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>A major work…conscience-ridden and carefully wrought, tonic in its scope, candor, and humor…with suspense at every dimpled vortex.</i>" — John Updike, <i>The New Yorker</i><br /><br />Dread, yearning, identity, intrigue, the lethal chemistry between secular doubt and Islamic fanaticism–these are the elements that Orhan Pamuk anneals in this masterful, disquieting novel. <br /><br />An exiled poet named Ka returns to Turkey and travels to the forlorn city of Kars. His ostensible purpose is to report on a wave of suicides among religious girls forbidden to wear their head-scarves. But Ka is also drawn by his memories of the radiant Ipek, now recently divorced. <br /><br />Amid blanketing snowfall and universal suspicion, Ka finds himself pursued by figures ranging from Ipek’s ex-husband to a charismatic terrorist. A lost gift returns with ecstatic suddenness. A theatrical evening climaxes in a massacre. And finding God may be the prelude to losing everything else. <br /><br />Touching, slyly comic, and humming with cerebral suspense, <i>Snow</i> is of immense relevance to our present moment.]]></description>
+  <work>
+  <id type="integer">2701142</id>
+  <books_count type="integer">127</books_count>
+  <best_book_id type="integer">11691</best_book_id>
+  <reviews_count type="integer">57009</reviews_count>
+  <ratings_sum type="integer">108173</ratings_sum>
+  <ratings_count type="integer">30476</ratings_count>
+  <text_reviews_count type="integer">2967</text_reviews_count>
+  <original_publication_year type="integer">2002</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Kar</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6135|4:10877|3:8543|2:3440|1:1481|total:30476</rating_dist>
+  <desc_user_id type="integer">36328101</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.55</average_rating>
+  <num_pages><![CDATA[463]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[First Vintage International edition]]></edition_information>
+  <ratings_count><![CDATA[27149]]></ratings_count>
+  <text_reviews_count><![CDATA[2580]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11691.Snow]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11691.Snow]]></link>
+  <authors>
+<author>
+<id>1728</id>
+<name>Orhan Pamuk</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423469681p5/1728.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423469681p2/1728.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1728.Orhan_Pamuk]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>136614</ratings_count>
+<text_reviews_count>12901</text_reviews_count>
+</author>
+<author>
+<id>157141</id>
+<name>Maureen Freely</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/157141.Maureen_Freely]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>49318</ratings_count>
+<text_reviews_count>4826</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11691.Snow">Snow Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375706860&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/11691.Snow?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="18910"/>
+      <shelf name="currently-reading" count="2078"/>
+      <shelf name="fiction" count="911"/>
+      <shelf name="favorites" count="214"/>
+      <shelf name="turkey" count="189"/>
+      <shelf name="owned" count="137"/>
+      <shelf name="literature" count="128"/>
+      <shelf name="novels" count="103"/>
+      <shelf name="contemporary" count="100"/>
+      <shelf name="book-club" count="93"/>
+      <shelf name="turkish" count="91"/>
+      <shelf name="1001-books" count="85"/>
+      <shelf name="turkish-literature" count="82"/>
+      <shelf name="middle-east" count="81"/>
+      <shelf name="abandoned" count="80"/>
+      <shelf name="nobel-prize" count="77"/>
+      <shelf name="books-i-own" count="72"/>
+      <shelf name="nobel" count="63"/>
+      <shelf name="historical-fiction" count="56"/>
+      <shelf name="novel" count="56"/>
+      <shelf name="1001" count="52"/>
+      <shelf name="islam" count="52"/>
+      <shelf name="owned-books" count="51"/>
+      <shelf name="unfinished" count="51"/>
+      <shelf name="library" count="46"/>
+      <shelf name="default" count="45"/>
+      <shelf name="literary-fiction" count="45"/>
+      <shelf name="religion" count="45"/>
+      <shelf name="orhan-pamuk" count="41"/>
+      <shelf name="contemporary-fiction" count="39"/>
+      <shelf name="did-not-finish" count="36"/>
+      <shelf name="bookclub" count="35"/>
+      <shelf name="my-library" count="34"/>
+      <shelf name="politics" count="34"/>
+      <shelf name="to-buy" count="31"/>
+      <shelf name="translation" count="29"/>
+      <shelf name="translated" count="26"/>
+      <shelf name="1001-import" count="25"/>
+      <shelf name="nobel-laureates" count="25"/>
+      <shelf name="1001-books-to-read" count="24"/>
+      <shelf name="1001-books-to-read-before-you-die" count="23"/>
+      <shelf name="21st-century" count="22"/>
+      <shelf name="my-books" count="22"/>
+      <shelf name="general-fiction" count="22"/>
+      <shelf name="gave-up-on" count="21"/>
+      <shelf name="adult-fiction" count="21"/>
+      <shelf name="world-literature" count="20"/>
+      <shelf name="classics" count="20"/>
+      <shelf name="couldn-t-finish" count="19"/>
+      <shelf name="didn-t-finish" count="19"/>
+      <shelf name="turkish-lit" count="18"/>
+      <shelf name="in-translation" count="17"/>
+      <shelf name="own-it" count="17"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="ebook" count="16"/>
+      <shelf name="english" count="16"/>
+      <shelf name="kindle" count="16"/>
+      <shelf name="on-hold" count="16"/>
+      <shelf name="history" count="15"/>
+      <shelf name="favourites" count="15"/>
+      <shelf name="audiobook" count="15"/>
+      <shelf name="asia" count="14"/>
+      <shelf name="nobel-prize-winners" count="14"/>
+      <shelf name="around-the-world" count="14"/>
+      <shelf name="translations" count="14"/>
+      <shelf name="modern-fiction" count="14"/>
+      <shelf name="روايات" count="13"/>
+      <shelf name="1001-books-you-must-read-before-you" count="13"/>
+      <shelf name="1001-to-read" count="13"/>
+      <shelf name="pamuk" count="13"/>
+      <shelf name="book-group" count="13"/>
+      <shelf name="2000s" count="13"/>
+      <shelf name="nobel-prize-winner" count="13"/>
+      <shelf name="türk-edebiyatı" count="12"/>
+      <shelf name="europe" count="12"/>
+      <shelf name="could-not-finish" count="12"/>
+      <shelf name="travel" count="11"/>
+      <shelf name="partially-read" count="11"/>
+      <shelf name="romance" count="11"/>
+      <shelf name="lit" count="11"/>
+      <shelf name="nobel-laureate" count="11"/>
+      <shelf name="literary" count="11"/>
+      <shelf name="stopped-reading" count="11"/>
+      <shelf name="never-finished" count="11"/>
+      <shelf name="shelfari-favorites" count="10"/>
+      <shelf name="cultural" count="10"/>
+      <shelf name="poetry" count="10"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="have" count="10"/>
+      <shelf name="gave-up" count="10"/>
+      <shelf name="on-my-shelf" count="10"/>
+      <shelf name="drama" count="10"/>
+      <shelf name="personal-library" count="9"/>
+      <shelf name="world" count="9"/>
+      <shelf name="nobel-winners" count="9"/>
+      <shelf name="modern" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="political" count="9"/>
+      <shelf name="world-lit" count="9"/>
+      <shelf name="to-read-fiction" count="9"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>175545</id>
+<title><![CDATA[Memed, My Hawk (İnce Memed, #1)]]></title>
+<title_without_series>Memed, My Hawk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/175545.Memed_My_Hawk]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1425293055s/175545.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1425293055m/175545.jpg]]></image_url>
+<num_pages>392</num_pages>
+<work>
+<id>1438893</id>
+</work>
+<isbn>159017139X</isbn>
+<isbn13>9781590171394</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>3612</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2882570</id>
+<name>Yaşar Kemal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2882570.Ya_ar_Kemal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45961</id>
+<title>Soul Mountain</title>
+<title_without_series>Soul Mountain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45961.Soul_Mountain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>510</num_pages>
+<work>
+<id>45123</id>
+</work>
+<isbn>0060936231</isbn>
+<isbn13>9780060936235</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>3420</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>25708</id>
+<name>Gao Xingjian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25708.Gao_Xingjian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6850768</id>
+<title>Huzur</title>
+<title_without_series>Huzur</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6850768-huzur]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1458675956s/6850768.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1458675956m/6850768.jpg]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>7063595</id>
+</work>
+<isbn></isbn>
+<isbn13>9789759952471</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1985</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2936248</id>
+<name>Ahmet Hamdi Tanpınar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2936248.Ahmet_Hamdi_Tanp_nar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>256754</id>
+<title>Portrait of a Turkish Family</title>
+<title_without_series>Portrait of a Turkish Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/256754.Portrait_of_a_Turkish_Family]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>248843</id>
+</work>
+<isbn>0907871828</isbn>
+<isbn13>9780907871828</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>1060</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>150089</id>
+<name>Irfan Orga</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150089.Irfan_Orga]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1546916</id>
+<title>Sevgili Arsız Ölüm</title>
+<title_without_series>Sevgili Arsız Ölüm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1546916.Sevgili_Ars_z_l_m]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1385757160s/1546916.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1385757160m/1546916.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1539220</id>
+</work>
+<isbn></isbn>
+<isbn13>9789750511295</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1013</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>185465</id>
+<name>Latife Tekin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/185465.Latife_Tekin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>328093</id>
+<title><![CDATA[The Museum of Unconditional Surrender]]></title>
+<title_without_series><![CDATA[The Museum of Unconditional Surrender]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/328093.The_Museum_of_Unconditional_Surrender]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>318722</id>
+</work>
+<isbn>0811214931</isbn>
+<isbn13>9780811214933</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>517</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>2736291</id>
+<name>Dubravka Ugrešić</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2736291.Dubravka_Ugre_i_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>318335</id>
+<title>Fatelessness</title>
+<title_without_series>Fatelessness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/318335.Fatelessness]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>309125</id>
+</work>
+<isbn>1400078636</isbn>
+<isbn13>9781400078639</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>5657</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>26496</id>
+<name>Imre Kertész</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26496.Imre_Kert_sz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1838917</id>
+<title>Anayurt Oteli</title>
+<title_without_series>Anayurt Oteli</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1838917.Anayurt_Oteli]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413671890s/1838917.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413671890m/1838917.jpg]]></image_url>
+<num_pages>108</num_pages>
+<work>
+<id>1838982</id>
+</work>
+<isbn>9750800665</isbn>
+<isbn13>9789750800665</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>4414</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1645153</id>
+<name>Yusuf Atılgan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1645153.Yusuf_At_lgan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29567</id>
+<title><![CDATA[The History of the Siege of Lisbon]]></title>
+<title_without_series><![CDATA[The History of the Siege of Lisbon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29567.The_History_of_the_Siege_of_Lisbon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>314</num_pages>
+<work>
+<id>1109068</id>
+</work>
+<isbn>1860467229</isbn>
+<isbn13>9781860467226</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3357</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1285555</id>
+<name>José Saramago</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9704</id>
+<title><![CDATA[Crescent and Star: Turkey Between Two Worlds]]></title>
+<title_without_series><![CDATA[Crescent and Star: Turkey Between Two Worlds]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9704.Crescent_and_Star]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>2893368</id>
+</work>
+<isbn>0374528667</isbn>
+<isbn13>9780374528669</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>857</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6333</id>
+<name>Stephen Kinzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6333.Stephen_Kinzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15832179</id>
+<title>Yedinci Gün</title>
+<title_without_series>Yedinci Gün</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15832179-yedinci-g-n]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1345454628s/15832179.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1345454628m/15832179.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>21567843</id>
+</work>
+<isbn>9750510861</isbn>
+<isbn13>9789750510861</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1754</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>838424</id>
+<name>İhsan Oktay Anar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/838424._hsan_Oktay_Anar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6318283</id>
+<title>Desert</title>
+<title_without_series>Desert</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6318283-desert]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1632247</id>
+</work>
+<isbn>1567923860</isbn>
+<isbn13>9781567923865</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>1228</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>65633</id>
+<name>Jean-Marie G. Le Clézio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65633.Jean_Marie_G_Le_Cl_zio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>238251</id>
+<title>Korkuyu Beklerken</title>
+<title_without_series>Korkuyu Beklerken</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/238251.Korkuyu_Beklerken]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1351085243s/238251.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1351085243m/238251.jpg]]></image_url>
+<num_pages>202</num_pages>
+<work>
+<id>230782</id>
+</work>
+<isbn>975470158X</isbn>
+<isbn13>9789754701586</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>3414</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>139434</id>
+<name>Oğuz Atay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/139434.O_uz_Atay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17895</id>
+<title>The Successor</title>
+<title_without_series>The Successor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17895.The_Successor]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>19387</id>
+</work>
+<isbn>1559707739</isbn>
+<isbn13>9781559707732</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>664</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10838</id>
+<name>Ismail Kadare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10838.Ismail_Kadare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>230861</id>
+<title>The Land of Green Plums</title>
+<title_without_series>The Land of Green Plums</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/230861.The_Land_of_Green_Plums]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327888203s/230861.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327888203m/230861.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>223593</id>
+</work>
+<isbn>1862072604</isbn>
+<isbn13>9781862072602</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>3179</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>134980</id>
+<name>Herta Müller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134980.Herta_M_ller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152833</id>
+<title>Nowhere Man</title>
+<title_without_series>Nowhere Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152833.Nowhere_Man]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1463585550s/152833.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1463585550m/152833.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1391906</id>
+</work>
+<isbn>0330393502</isbn>
+<isbn13>9780330393508</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1939</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>88386</id>
+<name>Aleksandar Hemon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88386.Aleksandar_Hemon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>254351</id>
+<title><![CDATA[Fever and Spear (Your Face Tomorrow, #1)]]></title>
+<title_without_series>Fever and Spear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/254351.Fever_and_Spear]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>516776</id>
+</work>
+<isbn>0811216128</isbn>
+<isbn13>9780811216128</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1818</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>71956</id>
+<name>Javier Marías</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71956.Javier_Mar_as]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75400</id>
+<title>Slow Man</title>
+<title_without_series>Slow Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75400.Slow_Man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>265</num_pages>
+<work>
+<id>911609</id>
+</work>
+<isbn>0099490625</isbn>
+<isbn13>9780099490623</isbn13>
+<average_rating>3.42</average_rating>
+<ratings_count>6532</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4128</id>
+<name>J.M. Coetzee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4128.J_M_Coetzee]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

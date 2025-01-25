@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8257435</id>
+  <title><![CDATA[Hector and the Search for Happiness]]></title>
+  <isbn><![CDATA[1615731075]]></isbn>
+  <isbn13><![CDATA[9781615731077]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0078XG4WU]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Once upon a time there was a young psychiatrist called Hector who was not very satisfied with himself... <br /><br />Hector is very good at treating patients in need of his help. But he can't do much for those who are simply dissatisfied with life, and that is beginning to depress him. When a patient tells him he looks in need of a vacation, Hector takes a trip around the world to learn what makes people happy—and sad. As he travels from Paris to China to Africa to the United States, he lists his observations about the people he meets. Is there a secret to happiness, and will Hector find it? <br /><br />Combining the winsome appeal of <i>The Little Prince </i>with the inspiring philosophy of <i>The Alchemist</i>, Hector's journey ventures around the globe and into the human soul. Lelord's writing inspires us to consider life's great questions. Uplifting, empowering, and optimistic, this is a fable for our times and all time.]]></description>
+  <work>
+  <id type="integer">13105229</id>
+  <books_count type="integer">52</books_count>
+  <best_book_id type="integer">8257435</best_book_id>
+  <reviews_count type="integer">21696</reviews_count>
+  <ratings_sum type="integer">38850</ratings_sum>
+  <ratings_count type="integer">11204</ratings_count>
+  <text_reviews_count type="integer">1394</text_reviews_count>
+  <original_publication_year type="integer">2002</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Le Voyage d’Hector ou la recherche du bonheur</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2004|4:3581|3:3743|2:1401|1:475|total:11204</rating_dist>
+  <desc_user_id type="integer">5262270</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.47</average_rating>
+  <num_pages><![CDATA[134]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8091]]></ratings_count>
+  <text_reviews_count><![CDATA[916]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8257435-hector-and-the-search-for-happiness]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8257435-hector-and-the-search-for-happiness]]></link>
+  <authors>
+<author>
+<id>116430</id>
+<name>François Lelord</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1365012171p5/116430.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1365012171p2/116430.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/116430.Fran_ois_Lelord]]></link>
+<average_rating>3.50</average_rating>
+<ratings_count>14848</ratings_count>
+<text_reviews_count>1706</text_reviews_count>
+</author>
+<author>
+<id>2620224</id>
+<name>Lorenza García</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2620224.Lorenza_Garc_a]]></link>
+<average_rating>3.52</average_rating>
+<ratings_count>10697</ratings_count>
+<text_reviews_count>1344</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8257435-hector-and-the-search-for-happiness">Hector and the Search for Happiness Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1615731075&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/8257435-hector-and-the-search-for-happiness?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8175"/>
+      <shelf name="currently-reading" count="451"/>
+      <shelf name="fiction" count="255"/>
+      <shelf name="favorites" count="83"/>
+      <shelf name="psychology" count="65"/>
+      <shelf name="owned" count="49"/>
+      <shelf name="book-club" count="48"/>
+      <shelf name="philosophy" count="45"/>
+      <shelf name="contemporary" count="45"/>
+      <shelf name="books-i-own" count="42"/>
+      <shelf name="french" count="32"/>
+      <shelf name="adult-fiction" count="31"/>
+      <shelf name="to-buy" count="27"/>
+      <shelf name="default" count="22"/>
+      <shelf name="self-help" count="19"/>
+      <shelf name="owned-books" count="18"/>
+      <shelf name="travel" count="16"/>
+      <shelf name="happiness" count="16"/>
+      <shelf name="novels" count="15"/>
+      <shelf name="german" count="15"/>
+      <shelf name="adult" count="15"/>
+      <shelf name="audiobooks" count="14"/>
+      <shelf name="contemporary-fiction" count="14"/>
+      <shelf name="library" count="13"/>
+      <shelf name="france" count="13"/>
+      <shelf name="movies" count="13"/>
+      <shelf name="general-fiction" count="13"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="deutsch" count="11"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="read-in-2014" count="11"/>
+      <shelf name="audiobook" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="literature" count="10"/>
+      <shelf name="french-literature" count="10"/>
+      <shelf name="romance" count="10"/>
+      <shelf name="series" count="10"/>
+      <shelf name="bookclub" count="10"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="sub" count="9"/>
+      <shelf name="read-in-2011" count="9"/>
+      <shelf name="romane" count="8"/>
+      <shelf name="non-fiction" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="humor" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="read-2014" count="7"/>
+      <shelf name="read-in-2013" count="7"/>
+      <shelf name="novel" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="e-books" count="7"/>
+      <shelf name="movie" count="7"/>
+      <shelf name="other" count="7"/>
+      <shelf name="audio-books" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="roman" count="6"/>
+      <shelf name="read-in-2012" count="6"/>
+      <shelf name="read-2012" count="6"/>
+      <shelf name="mine" count="6"/>
+      <shelf name="finished" count="6"/>
+      <shelf name="2016-reads" count="6"/>
+      <shelf name="read-in-2016" count="6"/>
+      <shelf name="realistic-fiction" count="6"/>
+      <shelf name="fiction-to-read" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="inspirational" count="6"/>
+      <shelf name="français" count="6"/>
+      <shelf name="random" count="5"/>
+      <shelf name="belletristik" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="translation" count="5"/>
+      <shelf name="2015-books" count="5"/>
+      <shelf name="drama" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="ebooks" count="5"/>
+      <shelf name="francois-lelord" count="5"/>
+      <shelf name="audible" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="2010-reads" count="5"/>
+      <shelf name="young-adult" count="4"/>
+      <shelf name="spiritual" count="4"/>
+      <shelf name="psychologie" count="4"/>
+      <shelf name="psycho" count="4"/>
+      <shelf name="humour" count="4"/>
+      <shelf name="home" count="4"/>
+      <shelf name="shelfari-favorites" count="4"/>
+      <shelf name="adventure" count="4"/>
+      <shelf name="2014-books" count="4"/>
+      <shelf name="2014-reads" count="4"/>
+      <shelf name="on-my-shelf" count="4"/>
+      <shelf name="didn-t-finish" count="4"/>
+      <shelf name="short" count="4"/>
+      <shelf name="life" count="4"/>
+      <shelf name="french-books" count="4"/>
+      <shelf name="europe" count="4"/>
+      <shelf name="translated" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>318939</id>
+<user_position>1</user_position>
+<series>
+<id>70496</id>
+<title>
+<![CDATA[
+    Hector
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>7</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>386097</id>
+<title>Elizabeth Rex</title>
+<title_without_series>Elizabeth Rex</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386097.Elizabeth_Rex]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1004920</id>
+</work>
+<isbn>1553310047</isbn>
+<isbn13>9781553310044</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>176</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16865</id>
+<name>Timothy Findley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16865.Timothy_Findley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43174</id>
+<title>Allure</title>
+<title_without_series>Allure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43174.Allure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42611</id>
+</work>
+<isbn>0821227890</isbn>
+<isbn13>9780821227893</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>131</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24293</id>
+<name>Diana Vreeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24293.Diana_Vreeland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6576480</id>
+<title>Life According To Lubka</title>
+<title_without_series>Life According To Lubka</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6576480-life-according-to-lubka]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408314884s/6576480.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408314884m/6576480.jpg]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>6769783</id>
+</work>
+<isbn>184724503X</isbn>
+<isbn13>9781847245038</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>227</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>76491</id>
+<name>Laurie Graham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76491.Laurie_Graham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7774253</id>
+<title><![CDATA[God and Football: Faith and Fanaticism in the SEC]]></title>
+<title_without_series><![CDATA[God and Football: Faith and Fanaticism in the SEC]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7774253-god-and-football]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10676085</id>
+</work>
+<isbn>0310329221</isbn>
+<isbn13>9780310329220</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>203</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3390056</id>
+<name>Chad Gibbs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3390056.Chad_Gibbs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>389779</id>
+<title><![CDATA[Condi: The Condoleezza Rice Story]]></title>
+<title_without_series><![CDATA[Condi: The Condoleezza Rice Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/389779.Condi]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>379395</id>
+</work>
+<isbn>0310269687</isbn>
+<isbn13>9780310269687</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>388</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>164207</id>
+<name>Antonia Felix</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164207.Antonia_Felix]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>582786</id>
+<title>The Word, the Name, the Blood</title>
+<title_without_series>The Word, the Name, the Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/582786.The_Word_the_Name_the_Blood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344270341s/582786.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344270341m/582786.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>569656</id>
+</work>
+<isbn>0446693197</isbn>
+<isbn13>9780446693196</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>151</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8352</id>
+<name>Joyce Meyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8352.Joyce_Meyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8131147</id>
+<title><![CDATA[Couch Fiction: A Graphic Tale of Psychotherapy]]></title>
+<title_without_series><![CDATA[Couch Fiction: A Graphic Tale of Psychotherapy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8131147-couch-fiction]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1315677654s/8131147.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1315677654m/8131147.jpg]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>12926949</id>
+</work>
+<isbn>0230252036</isbn>
+<isbn13>9780230252035</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>299</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>1009728</id>
+<name>Philippa Perry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1009728.Philippa_Perry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>471907</id>
+<title><![CDATA[The Power of Praying: Help for a Woman's Journey Through Life]]></title>
+<title_without_series><![CDATA[The Power of Praying: Help for a Woman's Journey Through Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/471907.The_Power_of_Praying]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>2934161</id>
+</work>
+<isbn>0736913408</isbn>
+<isbn13>9780736913409</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>119</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11785</id>
+<name>Stormie Omartian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11785.Stormie_Omartian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>576667</id>
+<title><![CDATA[The Georgetown Ladies' Social Club: Power, Passion, and Politics in the Nation's Capital]]></title>
+<title_without_series><![CDATA[The Georgetown Ladies' Social Club: Power, Passion, and Politics in the Nation's Capital]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/576667.The_Georgetown_Ladies_Social_Club]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>882515</id>
+</work>
+<isbn>0743428579</isbn>
+<isbn13>9780743428576</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>297</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>95531</id>
+<name>C. David Heymann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95531.C_David_Heymann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10979850</id>
+<title><![CDATA[Being Human: The Companion Anthology to Staying Alive and Being Alive]]></title>
+<title_without_series><![CDATA[Being Human: The Companion Anthology to Staying Alive and Being Alive]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10979850-being-human]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15898153</id>
+</work>
+<isbn>1852248092</isbn>
+<isbn13>9781852248093</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>143</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>109589</id>
+<name>Neil Astley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/109589.Neil_Astley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>639361</id>
+<title>Desert Places</title>
+<title_without_series>Desert Places</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/639361.Desert_Places]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>625575</id>
+</work>
+<isbn>0140267972</isbn>
+<isbn13>9780140267976</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>258</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>44844</id>
+<name>Robyn Davidson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44844.Robyn_Davidson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1113312</id>
+<title>Lost Paradise</title>
+<title_without_series>Lost Paradise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1113312.Lost_Paradise]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328823927s/1113312.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328823927m/1113312.jpg]]></image_url>
+<num_pages>151</num_pages>
+<work>
+<id>1100304</id>
+</work>
+<isbn>0802118550</isbn>
+<isbn13>9780802118554</isbn13>
+<average_rating>3.44</average_rating>
+<ratings_count>526</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>35208</id>
+<name>Cees Nooteboom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35208.Cees_Nooteboom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1258281</id>
+<title>Art Through the Ages 2</title>
+<title_without_series>Art Through the Ages 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1258281.Art_Through_the_Ages_2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>704</num_pages>
+<work>
+<id>1247097</id>
+</work>
+<isbn>015507086X</isbn>
+<isbn13>9780155070868</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>212</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>18285</id>
+<name>Fred S. Kleiner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18285.Fred_S_Kleiner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8218719</id>
+<title><![CDATA[And I Shall Have Some Peace There: Trading in the Fast Lane for My Own Dirt Road]]></title>
+<title_without_series><![CDATA[And I Shall Have Some Peace There: Trading in the Fast Lane for My Own Dirt Road]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8218719-and-i-shall-have-some-peace-there]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344268761s/8218719.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344268761m/8218719.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13065904</id>
+</work>
+<isbn>0446556092</isbn>
+<isbn13>9780446556095</isbn13>
+<average_rating>3.17</average_rating>
+<ratings_count>606</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>712689</id>
+<name>Margaret Roach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/712689.Margaret_Roach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10601210</id>
+<title>Men at Work</title>
+<title_without_series>Men at Work</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10601210-men-at-work]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>87</num_pages>
+<work>
+<id>15508939</id>
+</work>
+<isbn>1444711776</isbn>
+<isbn13>9781444711776</isbn13>
+<average_rating>3.42</average_rating>
+<ratings_count>245</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>46977</id>
+<name>Mike Gayle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46977.Mike_Gayle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22571603</id>
+<title>Recipe for Disaster</title>
+<title_without_series>Recipe for Disaster</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22571603-recipe-for-disaster]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1406508127s/22571603.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1406508127m/22571603.jpg]]></image_url>
+<num_pages>466</num_pages>
+<work>
+<id>42038072</id>
+</work>
+<isbn>0425265501</isbn>
+<isbn13>9780425265505</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>834</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>47231</id>
+<name>Stacey Ballis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47231.Stacey_Ballis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6957609</id>
+<title><![CDATA[Irre! - Wir behandeln die Falschen: Unser Problem sind die Normalen - Eine heitere Seelenkunde]]></title>
+<title_without_series><![CDATA[Irre! - Wir behandeln die Falschen: Unser Problem sind die Normalen - Eine heitere Seelenkunde]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6957609-irre---wir-behandeln-die-falschen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329111560s/6957609.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329111560m/6957609.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>7193750</id>
+</work>
+<isbn>3579068792</isbn>
+<isbn13>9783579068794</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>268</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1007686</id>
+<name>Manfred Lütz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1007686.Manfred_L_tz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>881698</id>
+<title>Neue Vahr Süd</title>
+<title_without_series>Neue Vahr Süd</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/881698.Neue_Vahr_S_d]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>866986</id>
+</work>
+<isbn>3821807431</isbn>
+<isbn13>9783821807430</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1177</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3089</id>
+<name>Sven Regener</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3089.Sven_Regener]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

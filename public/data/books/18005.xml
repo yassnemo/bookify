@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18005</id>
+  <title>How I Became a Pirate</title>
+  <isbn><![CDATA[0152018484]]></isbn>
+  <isbn13><![CDATA[9780152018481]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0095K8KR6]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>HMH Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Pirates have green teeth—when they have any teeth at all. I know about pirates, because one day, when I was at the beach building a sand castle and minding my own business, a pirate ship sailed into view.</i>So proclaims Jeremy Jacob, a boy who joins Captain Braid Beard and his crew in this witty look at the finer points of pirate life by the Caldecott Honor–winning illustrator David Shannon and the storyteller Melinda Long. Jeremy learns how to say “scurvy dog,” sing sea chanteys, and throw food . . . but he also learns that there are no books or good night kisses on board: “Pirates don’t tuck.” A swashbuckling adventure with fantastically silly, richly textured illustrations that suit the story to a T. <br />]]></description>
+  <work>
+  <id type="integer">1878218</id>
+  <books_count type="integer">18</books_count>
+  <best_book_id type="integer">18005</best_book_id>
+  <reviews_count type="integer">25668</reviews_count>
+  <ratings_sum type="integer">87949</ratings_sum>
+  <ratings_count type="integer">21620</ratings_count>
+  <text_reviews_count type="integer">512</text_reviews_count>
+  <original_publication_year type="integer">2003</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>How I Became a Pirate</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9330|4:6334|3:4425|2:1157|1:374|total:21620</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[44]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21562]]></ratings_count>
+  <text_reviews_count><![CDATA[504]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18005.How_I_Became_a_Pirate]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18005.How_I_Became_a_Pirate]]></link>
+  <authors>
+<author>
+<id>10899</id>
+<name>Melinda Long</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10899.Melinda_Long]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>29630</ratings_count>
+<text_reviews_count>730</text_reviews_count>
+</author>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417171597p5/21346.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417171597p2/21346.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>198135</ratings_count>
+<text_reviews_count>8949</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18005.How_I_Became_a_Pirate">How I Became a Pirate Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0152018484&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/18005.How_I_Became_a_Pirate?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="838"/>
+      <shelf name="picture-books" count="407"/>
+      <shelf name="children-s-books" count="180"/>
+      <shelf name="childrens" count="149"/>
+      <shelf name="children" count="101"/>
+      <shelf name="pirates" count="100"/>
+      <shelf name="children-s" count="98"/>
+      <shelf name="picture-book" count="87"/>
+      <shelf name="kids" count="71"/>
+      <shelf name="childrens-books" count="71"/>
+      <shelf name="kids-books" count="59"/>
+      <shelf name="fiction" count="37"/>
+      <shelf name="adventure" count="34"/>
+      <shelf name="currently-reading" count="32"/>
+      <shelf name="children-s-lit" count="31"/>
+      <shelf name="favorites" count="30"/>
+      <shelf name="fantasy" count="28"/>
+      <shelf name="humor" count="24"/>
+      <shelf name="default" count="21"/>
+      <shelf name="imagination" count="20"/>
+      <shelf name="children-s-literature" count="19"/>
+      <shelf name="picturebooks" count="18"/>
+      <shelf name="storytime" count="17"/>
+      <shelf name="read-aloud" count="16"/>
+      <shelf name="children-books" count="15"/>
+      <shelf name="children-s-picture-books" count="15"/>
+      <shelf name="kid-books" count="12"/>
+      <shelf name="picture" count="12"/>
+      <shelf name="children-s-book" count="11"/>
+      <shelf name="books-i-own" count="11"/>
+      <shelf name="funny" count="10"/>
+      <shelf name="david-shannon" count="10"/>
+      <shelf name="owned" count="10"/>
+      <shelf name="childrens-picture-books" count="10"/>
+      <shelf name="preschool" count="9"/>
+      <shelf name="pirate" count="9"/>
+      <shelf name="read-alouds" count="9"/>
+      <shelf name="school" count="8"/>
+      <shelf name="childrens-lit" count="8"/>
+      <shelf name="kindergarten" count="7"/>
+      <shelf name="library" count="7"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="family" count="7"/>
+      <shelf name="juvenile" count="7"/>
+      <shelf name="classroom-books" count="6"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="kid-s-books" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="edrd-314" count="5"/>
+      <shelf name="kids-to-read" count="5"/>
+      <shelf name="classroom" count="5"/>
+      <shelf name="childhood" count="5"/>
+      <shelf name="ocean" count="5"/>
+      <shelf name="boys" count="5"/>
+      <shelf name="children-s-read" count="5"/>
+      <shelf name="humorous" count="5"/>
+      <shelf name="fun" count="5"/>
+      <shelf name="youth" count="5"/>
+      <shelf name="2nd-grade" count="5"/>
+      <shelf name="great-read-alouds" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="art" count="4"/>
+      <shelf name="for-the-kids" count="4"/>
+      <shelf name="story-time" count="4"/>
+      <shelf name="kids-read" count="4"/>
+      <shelf name="read-with-kids" count="4"/>
+      <shelf name="children-picture" count="4"/>
+      <shelf name="beach" count="4"/>
+      <shelf name="illustrations" count="4"/>
+      <shelf name="kid-lit" count="4"/>
+      <shelf name="childrens-read" count="4"/>
+      <shelf name="fantasy-sci-fi" count="4"/>
+      <shelf name="picture-books-read" count="4"/>
+      <shelf name="favorite-picture-books" count="4"/>
+      <shelf name="to-read-picture-books" count="4"/>
+      <shelf name="pirate-books" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="kids-picture-books" count="4"/>
+      <shelf name="fantasy-science-fiction" count="4"/>
+      <shelf name="childrens-fiction" count="4"/>
+      <shelf name="kiddie-lit" count="4"/>
+      <shelf name="childrensbooks" count="4"/>
+      <shelf name="water" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="lower-elementary" count="3"/>
+      <shelf name="series" count="3"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="contemporary-fiction" count="3"/>
+      <shelf name="home" count="3"/>
+      <shelf name="picture_books" count="3"/>
+      <shelf name="school-books" count="3"/>
+      <shelf name="toddler" count="3"/>
+      <shelf name="boy-books" count="3"/>
+      <shelf name="caldecott" count="3"/>
+      <shelf name="childrens-picture-book" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="friends" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>723892</id>
+<title>Edward and the Pirates</title>
+<title_without_series>Edward and the Pirates</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/723892.Edward_and_the_Pirates]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327947409s/723892.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327947409m/723892.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2497141</id>
+</work>
+<isbn>0316588458</isbn>
+<isbn13>9780316588454</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>420</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3347045</id>
+<name>David McPhail</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3347045.David_McPhail]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>120847</id>
+<title>Alice The Fairy</title>
+<title_without_series>Alice The Fairy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/120847.Alice_The_Fairy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>588869</id>
+</work>
+<isbn>0439490251</isbn>
+<isbn13>9780439490252</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>6145</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>143716</id>
+<title>Pirate Pete</title>
+<title_without_series>Pirate Pete</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/143716.Pirate_Pete]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>138640</id>
+</work>
+<isbn>0810943565</isbn>
+<isbn13>9780810943568</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>180</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>83079</id>
+<name>Kim Kennedy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83079.Kim_Kennedy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>803171</id>
+<title>Skippyjon Jones</title>
+<title_without_series>Skippyjon Jones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/803171.Skippyjon_Jones]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>649854</id>
+</work>
+<isbn>0525471340</isbn>
+<isbn13>9780525471349</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>27447</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>78407</id>
+<name>Judy Schachner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78407.Judy_Schachner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1220282</id>
+<title>If I Built a Car</title>
+<title_without_series>If I Built a Car</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1220282.If_I_Built_a_Car]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1208760</id>
+</work>
+<isbn>0525474005</isbn>
+<isbn13>9780525474005</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>1739</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>95342</id>
+<name>Chris Van Dusen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95342.Chris_Van_Dusen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>889744</id>
+<title><![CDATA[Dear Mrs. LaRue: Letters from Obedience School]]></title>
+<title_without_series><![CDATA[Dear Mrs. LaRue: Letters from Obedience School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/889744.Dear_Mrs_LaRue]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328869236s/889744.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328869236m/889744.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>614921</id>
+</work>
+<isbn>0439206634</isbn>
+<isbn13>9780439206631</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>7146</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>46994</id>
+<name>Mark Teague</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46994.Mark_Teague]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6473081</id>
+<title>Sloppy Joe</title>
+<title_without_series>Sloppy Joe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6473081-sloppy-joe]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6664227</id>
+</work>
+<isbn>0061710202</isbn>
+<isbn13>9780061710209</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>330</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>199026</id>
+<name>Dave Keane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/199026.Dave_Keane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>68788</id>
+<title>My Lucky Day</title>
+<title_without_series>My Lucky Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/68788.My_Lucky_Day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1773794</id>
+</work>
+<isbn>014240456X</isbn>
+<isbn13>9780142404560</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>3281</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>38751</id>
+<name>Keiko Kasza</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38751.Keiko_Kasza]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>143731</id>
+<title><![CDATA[Shiver Me Letters: A Pirate ABC]]></title>
+<title_without_series><![CDATA[Shiver Me Letters: A Pirate ABC]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/143731.Shiver_Me_Letters]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876279s/143731.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876279m/143731.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>138655</id>
+</work>
+<isbn>0152167323</isbn>
+<isbn13>9780152167325</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>712</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>83087</id>
+<name>June Sobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83087.June_Sobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99296</id>
+<title>Diary of a Worm</title>
+<title_without_series>Diary of a Worm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99296.Diary_of_a_Worm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>301388</id>
+</work>
+<isbn>006000150X</isbn>
+<isbn13>9780060001506</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>23437</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1026971</id>
+<title>More Parts (Parts, #2)</title>
+<title_without_series>More Parts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1026971.More_Parts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2988564</id>
+</work>
+<isbn>0142501492</isbn>
+<isbn13>9780142501498</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1769</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>11446</id>
+<name>Tedd Arnold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11446.Tedd_Arnold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>169960</id>
+<title>Henry &amp; the Buccaneer Bunnies</title>
+<title_without_series>Henry &amp; the Buccaneer Bunnies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/169960.Henry_the_Buccaneer_Bunnies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320477100s/169960.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320477100m/169960.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>164113</id>
+</work>
+<isbn>0763624497</isbn>
+<isbn13>9780763624491</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>430</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>37254</id>
+<name>Carolyn Crimi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37254.Carolyn_Crimi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>731289</id>
+<title><![CDATA[When Dinosaurs Came with Everything]]></title>
+<title_without_series><![CDATA[When Dinosaurs Came with Everything]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/731289.When_Dinosaurs_Came_with_Everything]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1278431837s/731289.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1278431837m/731289.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>717481</id>
+</work>
+<isbn>0689869223</isbn>
+<isbn13>9780689869228</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>2491</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>23642</id>
+<name>Elise Broach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23642.Elise_Broach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>659759</id>
+<title>I Ain&apos;t Gonna Paint No More!</title>
+<title_without_series>I Ain&apos;t Gonna Paint No More!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/659759.I_Ain_t_Gonna_Paint_No_More_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1837383</id>
+</work>
+<isbn>0152024883</isbn>
+<isbn13>9780152024888</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>9791</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>63357</id>
+<name>Karen Beaumont</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63357.Karen_Beaumont]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7684987</id>
+<title><![CDATA[A Pirate's Guide to First Grade]]></title>
+<title_without_series><![CDATA[A Pirate's Guide to First Grade]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7684987-a-pirate-s-guide-to-first-grade]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312030030s/7684987.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312030030m/7684987.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10335860</id>
+</work>
+<isbn>031236928X</isbn>
+<isbn13>9780312369286</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>362</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8664</id>
+<name>James Preller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8664.James_Preller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>667169</id>
+<title>The Great Fuzz Frenzy</title>
+<title_without_series>The Great Fuzz Frenzy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/667169.The_Great_Fuzz_Frenzy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328877022s/667169.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328877022m/667169.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>653218</id>
+</work>
+<isbn>0152046267</isbn>
+<isbn13>9780152046262</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>2837</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>22372</id>
+<name>Janet Stevens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22372.Janet_Stevens]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

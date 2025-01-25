@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>26072609</id>
+  <title><![CDATA[The Rainbow Comes and Goes: A Mother and Son On Life, Love, and Loss]]></title>
+  <isbn><![CDATA[006245496X]]></isbn>
+  <isbn13><![CDATA[9780062454966]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1456162664m/26072609.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1456162664s/26072609.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Harper</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[A touching and intimate correspondence between Anderson Cooper and his mother, Gloria Vanderbilt, offering timeless wisdom and a revealing glimpse into their lives.<br /><br />Though Anderson Cooper has always considered himself close to his mother, his intensely busy career as a journalist for CNN and CBS affords him little time to spend with her. After she suffers a brief but serious illness at the age of ninety-one, they resolve to change their relationship by beginning a year-long conversation unlike any they had ever had before. The result is a correspondence of surprising honesty and depth in which they discuss their lives, the things that matter to them, and what they still want to learn about each other.<br /><br />Both a son’s love letter to his mother and an unconventional mom’s life lessons for her grown son, <em>The Rainbow Comes and Goes</em> offers a rare window into their close relationship and fascinating life stories, including their tragedies and triumphs. In these often humorous and moving exchanges, they share their most private thoughts and the hard-earned truths they’ve learned along the way. In their words their distinctive personalities shine through—Anderson’s journalistic outlook on the world is a sharp contrast to his mother’s idealism and unwavering optimism.<br /><br />An appealing memoir with inspirational advice, <em>The Rainbow Comes and Goes</em> is a beautiful and affectionate celebration of the universal bond between a parent and a child, and a thoughtful reflection on life, reminding us of the precious insight that remains to be shared, no matter our age.]]></description>
+  <work>
+  <id type="integer">46009964</id>
+  <books_count type="integer">14</books_count>
+  <best_book_id type="integer">26072609</best_book_id>
+  <reviews_count type="integer">32456</reviews_count>
+  <ratings_sum type="integer">55836</ratings_sum>
+  <ratings_count type="integer">14715</ratings_count>
+  <text_reviews_count type="integer">1663</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>The Rainbow Comes and Goes: A Mother and Son On Life, Love, and Loss</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4445|4:5276|3:3310|2:893|1:791|total:14715</rating_dist>
+  <desc_user_id type="integer">1910836</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.79</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[ebook]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10774]]></ratings_count>
+  <text_reviews_count><![CDATA[1352]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/26072609-the-rainbow-comes-and-goes]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/26072609-the-rainbow-comes-and-goes]]></link>
+  <authors>
+<author>
+<id>2995</id>
+<name>Anderson Cooper</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206676534p5/2995.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206676534p2/2995.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2995.Anderson_Cooper]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>22257</ratings_count>
+<text_reviews_count>2593</text_reviews_count>
+</author>
+<author>
+<id>148141</id>
+<name>Gloria Vanderbilt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245545103p5/148141.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245545103p2/148141.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/148141.Gloria_Vanderbilt]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>15980</ratings_count>
+<text_reviews_count>1821</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/26072609-the-rainbow-comes-and-goes">The Rainbow Comes and Goes Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006245496X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/26072609-the-rainbow-comes-and-goes?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5601"/>
+      <shelf name="currently-reading" count="750"/>
+      <shelf name="non-fiction" count="227"/>
+      <shelf name="memoir" count="170"/>
+      <shelf name="biography" count="120"/>
+      <shelf name="nonfiction" count="115"/>
+      <shelf name="audio" count="67"/>
+      <shelf name="book-club" count="51"/>
+      <shelf name="audiobook" count="40"/>
+      <shelf name="audiobooks" count="39"/>
+      <shelf name="biography-memoir" count="38"/>
+      <shelf name="memoirs" count="35"/>
+      <shelf name="read-in-2016" count="34"/>
+      <shelf name="autobiography" count="30"/>
+      <shelf name="biographies" count="27"/>
+      <shelf name="read-in-2017" count="24"/>
+      <shelf name="audio-book" count="24"/>
+      <shelf name="library" count="24"/>
+      <shelf name="favorites" count="21"/>
+      <shelf name="read-2016" count="19"/>
+      <shelf name="audio-books" count="18"/>
+      <shelf name="adult" count="17"/>
+      <shelf name="audible" count="16"/>
+      <shelf name="2016-books" count="15"/>
+      <shelf name="kindle" count="15"/>
+      <shelf name="family" count="15"/>
+      <shelf name="history" count="14"/>
+      <shelf name="bookclub" count="14"/>
+      <shelf name="owned" count="14"/>
+      <shelf name="2016-reads" count="13"/>
+      <shelf name="bio-memoir" count="13"/>
+      <shelf name="memoir-biography" count="12"/>
+      <shelf name="2017-read" count="10"/>
+      <shelf name="2017-books" count="10"/>
+      <shelf name="adult-non-fiction" count="10"/>
+      <shelf name="bio" count="8"/>
+      <shelf name="2016-read" count="8"/>
+      <shelf name="biography-and-memoir" count="8"/>
+      <shelf name="autobiography-memoir" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="listened-to" count="7"/>
+      <shelf name="library-book" count="7"/>
+      <shelf name="ebook" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="celebrity" count="7"/>
+      <shelf name="overdrive" count="7"/>
+      <shelf name="biographies-memoirs" count="7"/>
+      <shelf name="read-2017" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="2016-books-read" count="5"/>
+      <shelf name="adult-books" count="5"/>
+      <shelf name="memoirs-biographies" count="5"/>
+      <shelf name="inspirational" count="5"/>
+      <shelf name="auto-biography" count="5"/>
+      <shelf name="did-not-finish" count="5"/>
+      <shelf name="signed" count="5"/>
+      <shelf name="relationships" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="biography-autobiography" count="5"/>
+      <shelf name="anderson-cooper" count="5"/>
+      <shelf name="bios" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="memoir-bio" count="5"/>
+      <shelf name="lgbtq" count="4"/>
+      <shelf name="family-drama" count="4"/>
+      <shelf name="gave-up-on" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="american" count="4"/>
+      <shelf name="to-read-nonfiction" count="4"/>
+      <shelf name="reading-challenge" count="4"/>
+      <shelf name="bios-memoirs" count="4"/>
+      <shelf name="finished" count="4"/>
+      <shelf name="calibre" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="adult-nonfiction" count="4"/>
+      <shelf name="friendship" count="4"/>
+      <shelf name="to-read-non-fiction" count="4"/>
+      <shelf name="family-relationships" count="4"/>
+      <shelf name="books-read-in-2016" count="4"/>
+      <shelf name="true-stories" count="4"/>
+      <shelf name="kindle-book" count="3"/>
+      <shelf name="book-club-reads" count="3"/>
+      <shelf name="autobiography-biography" count="3"/>
+      <shelf name="listened" count="3"/>
+      <shelf name="parenting" count="3"/>
+      <shelf name="2016-reading-challenge" count="3"/>
+      <shelf name="lgbt" count="3"/>
+      <shelf name="biography-memoirs" count="3"/>
+      <shelf name="books-read-2016" count="3"/>
+      <shelf name="bio-memoirs" count="3"/>
+      <shelf name="celebrities" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="book-group" count="3"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="own-ebook" count="3"/>
+      <shelf name="autobiographies-biographies" count="3"/>
+      <shelf name="glbt" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>16115205</id>
+<title><![CDATA[The Man Who Seduced Hollywood: The Life and Loves of Greg Bautzer, Tinseltown's Most Powerful Lawyer]]></title>
+<title_without_series><![CDATA[The Man Who Seduced Hollywood: The Life and Loves of Greg Bautzer, Tinseltown's Most Powerful Lawyer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16115205-the-man-who-seduced-hollywood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364433746s/16115205.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364433746m/16115205.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>21932674</id>
+</work>
+<isbn>1613745796</isbn>
+<isbn13>9781613745793</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>152</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6567013</id>
+<name>B. James Gladstone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6567013.B_James_Gladstone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13594480</id>
+<title><![CDATA[I Am Spartacus!: Making a Film, Breaking the Blacklist]]></title>
+<title_without_series><![CDATA[I Am Spartacus!: Making a Film, Breaking the Blacklist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13594480-i-am-spartacus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1347341890s/13594480.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1347341890m/13594480.jpg]]></image_url>
+<num_pages>210</num_pages>
+<work>
+<id>19182720</id>
+</work>
+<isbn>1453254803</isbn>
+<isbn13>9781453254806</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>493</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>233073</id>
+<name>Kirk Douglas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233073.Kirk_Douglas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24866263</id>
+<title>Saturday Night Live: The Book</title>
+<title_without_series>Saturday Night Live: The Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24866263-saturday-night-live]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1423364311s/24866263.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1423364311m/24866263.jpg]]></image_url>
+<num_pages>500</num_pages>
+<work>
+<id>44514568</id>
+</work>
+<isbn>3836552418</isbn>
+<isbn13>9783836552417</isbn13>
+<average_rating>4.46</average_rating>
+<ratings_count>90</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>35049</id>
+<name>Alison Castle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35049.Alison_Castle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6903628</id>
+<title><![CDATA[Andy Rooney: 60 Years of Wisdom and Wit]]></title>
+<title_without_series><![CDATA[Andy Rooney: 60 Years of Wisdom and Wit]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6903628-andy-rooney]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7127472</id>
+</work>
+<isbn>1586487736</isbn>
+<isbn13>9781586487737</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>170</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>35924</id>
+<name>Andy Rooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35924.Andy_Rooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25901570</id>
+<title>Boys in the Trees: A Memoir</title>
+<title_without_series>Boys in the Trees: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25901570-boys-in-the-trees]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1438279534s/25901570.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1438279534m/25901570.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>45785428</id>
+</work>
+<isbn>1250095891</isbn>
+<isbn13>9781250095893</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>5836</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>173740</id>
+<name>Carly Simon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173740.Carly_Simon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12669494</id>
+<title><![CDATA[Dropped Names: Famous Men and Women As I Knew Them]]></title>
+<title_without_series><![CDATA[Dropped Names: Famous Men and Women As I Knew Them]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12669494-dropped-names]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>17784398</id>
+</work>
+<isbn>0062094475</isbn>
+<isbn13>9780062094476</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>1424</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>770868</id>
+<name>Frank Langella</name>
+<link><![CDATA[https://www.goodreads.com/author/show/770868.Frank_Langella]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22662912</id>
+<title>Lady Parts</title>
+<title_without_series>Lady Parts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22662912-lady-parts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404487994s/22662912.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404487994m/22662912.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>40175212</id>
+</work>
+<isbn>1443409391</isbn>
+<isbn13>9781443409391</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>519</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1221596</id>
+<name>Andrea Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1221596.Andrea_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13593080</id>
+<title><![CDATA[Bond On Bond: Reflections on 50 years of James Bond Movies]]></title>
+<title_without_series><![CDATA[Bond On Bond: Reflections on 50 years of James Bond Movies]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13593080-bond-on-bond]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354488712s/13593080.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354488712m/13593080.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>19181194</id>
+</work>
+<isbn>0762782811</isbn>
+<isbn13>9780762782819</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>517</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1376370</id>
+<name>Roger Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1376370.Roger_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>605385</id>
+<title>Blessings in Disguise</title>
+<title_without_series>Blessings in Disguise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/605385.Blessings_in_Disguise]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>591936</id>
+</work>
+<isbn>1585790311</isbn>
+<isbn13>9781585790319</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>253</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>66891</id>
+<name>Alec Guinness</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66891.Alec_Guinness]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18232</id>
+<title><![CDATA[The Way We Lived Then: Recollections of a Well-Known Name Dropper]]></title>
+<title_without_series><![CDATA[The Way We Lived Then: Recollections of a Well-Known Name Dropper]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18232.The_Way_We_Lived_Then]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>19689</id>
+</work>
+<isbn>0609603884</isbn>
+<isbn13>9780609603888</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>360</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>11012</id>
+<name>Dominick Dunne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11012.Dominick_Dunne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>505516</id>
+<title>Memoirs of a Professional Cad</title>
+<title_without_series>Memoirs of a Professional Cad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/505516.Memoirs_of_a_Professional_Cad]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>267</num_pages>
+<work>
+<id>493557</id>
+</work>
+<isbn>0810825791</isbn>
+<isbn13>9780810825796</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>189</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>281510</id>
+<name>George Sanders</name>
+<link><![CDATA[https://www.goodreads.com/author/show/281510.George_Sanders]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1531094</id>
+<title><![CDATA[Johnny, We Hardly Knew Ye: Memories of John Fitzgerald Kennedy]]></title>
+<title_without_series><![CDATA[Johnny, We Hardly Knew Ye: Memories of John Fitzgerald Kennedy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1531094.Johnny_We_Hardly_Knew_Ye]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1523133</id>
+</work>
+<isbn>0316630004</isbn>
+<isbn13>9780316630009</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>358</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>713943</id>
+<name>Kenneth P. O&apos;Donnell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/713943.Kenneth_P_O_Donnell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8696934</id>
+<title><![CDATA[Talk Show: Confrontations, Pointed Commentary, and Off-Screen Secrets]]></title>
+<title_without_series><![CDATA[Talk Show: Confrontations, Pointed Commentary, and Off-Screen Secrets]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8696934-talk-show]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317066429s/8696934.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317066429m/8696934.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13569583</id>
+</work>
+<isbn>0805091955</isbn>
+<isbn13>9780805091953</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>653</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>331458</id>
+<name>Dick Cavett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/331458.Dick_Cavett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18591195</id>
+<title><![CDATA[Fireball: Carole Lombard and the Mystery of Flight 3]]></title>
+<title_without_series><![CDATA[Fireball: Carole Lombard and the Mystery of Flight 3]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18591195-fireball]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1383977690s/18591195.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1383977690m/18591195.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>26334942</id>
+</work>
+<isbn>0988502518</isbn>
+<isbn13>9780988502512</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>550</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>2053997</id>
+<name>Robert Matzen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2053997.Robert_Matzen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4524337</id>
+<title>Still Talking</title>
+<title_without_series>Still Talking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4524337-still-talking]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298251616s/4524337.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298251616m/4524337.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>4573471</id>
+</work>
+<isbn>0394579917</isbn>
+<isbn13>9780394579917</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>220</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>129036</id>
+<name>Joan Rivers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/129036.Joan_Rivers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18950120</id>
+<title><![CDATA[The Good Son: JFK Jr. and the Mother He Loved]]></title>
+<title_without_series><![CDATA[The Good Son: JFK Jr. and the Mother He Loved]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18950120-the-good-son]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1420938443s/18950120.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1420938443m/18950120.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>26960141</id>
+</work>
+<isbn>1476775583</isbn>
+<isbn13>9781476775586</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>932</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>236403</id>
+<name>Christopher Andersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/236403.Christopher_Andersen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13131454</id>
+<title><![CDATA[My Happy Days in Hollywood: A Memoir]]></title>
+<title_without_series><![CDATA[My Happy Days in Hollywood: A Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13131454-my-happy-days-in-hollywood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333576852s/13131454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333576852m/13131454.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>18307725</id>
+</work>
+<isbn>0307885003</isbn>
+<isbn13>9780307885005</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1461</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>613657</id>
+<name>Garry Marshall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/613657.Garry_Marshall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13426294</id>
+<title><![CDATA[My Extraordinary Ordinary Life]]></title>
+<title_without_series><![CDATA[My Extraordinary Ordinary Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13426294-my-extraordinary-ordinary-life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332548010s/13426294.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332548010m/13426294.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>18912749</id>
+</work>
+<isbn>1401324363</isbn>
+<isbn13>9781401324360</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>984</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2124133</id>
+<name>Sissy Spacek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2124133.Sissy_Spacek]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

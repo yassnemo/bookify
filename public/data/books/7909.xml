@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7909</id>
+  <title>Betsy-Tacy (Betsy-Tacy, #1)</title>
+  <isbn><![CDATA[0064400964]]></isbn>
+  <isbn13><![CDATA[9780064400961]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Best Friends Forever<br /><br />There are lots of children on Hill Street, but no little girls Betsy's age. So when a new family moves into the house across the street, Betsy hopes they will have a little girl she can play with. Sure enough, they do—a little girl named Tacy. And from the moment they meet at Betsy's fifth birthday party, Betsy and Tacy become such good friends that everyone starts to think of them as one person—Betsy-Tacy.<br /><br />Betsy and Tacy have lots of fun together. They make a playhouse from a piano box, have a sand store, and dress up and go calling. And one day, they come home to a wonderful surprise—a new friend named Tib.<br /><br />Ever since their first publication in the 1940's, the Betsy-Tacy stories have been loved by each generation of young readers.]]></description>
+  <work>
+  <id type="integer">10931</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">7909</best_book_id>
+  <reviews_count type="integer">36193</reviews_count>
+  <ratings_sum type="integer">75627</ratings_sum>
+  <ratings_count type="integer">18566</ratings_count>
+  <text_reviews_count type="integer">879</text_reviews_count>
+  <original_publication_year type="integer">1940</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Betsy-Tacy</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8039|4:5781|3:3407|2:748|1:591|total:18566</rating_dist>
+  <desc_user_id type="integer">-47</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[18031]]></ratings_count>
+  <text_reviews_count><![CDATA[764]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7909.Betsy_Tacy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7909.Betsy_Tacy]]></link>
+  <authors>
+<author>
+<id>5306</id>
+<name>Maud Hart Lovelace</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362527109p5/5306.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362527109p2/5306.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5306.Maud_Hart_Lovelace]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>73051</ratings_count>
+<text_reviews_count>2996</text_reviews_count>
+</author>
+<author>
+<id>5310</id>
+<name>Lois Lenski</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210188458p5/5310.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210188458p2/5310.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5310.Lois_Lenski]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>62064</ratings_count>
+<text_reviews_count>2687</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7909.Betsy_Tacy">Betsy-Tacy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0064400964&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7909.Betsy_Tacy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="15912"/>
+      <shelf name="childrens" count="234"/>
+      <shelf name="classics" count="201"/>
+      <shelf name="fiction" count="185"/>
+      <shelf name="children-s" count="159"/>
+      <shelf name="children" count="151"/>
+      <shelf name="favorites" count="133"/>
+      <shelf name="historical-fiction" count="121"/>
+      <shelf name="children-s-books" count="112"/>
+      <shelf name="currently-reading" count="97"/>
+      <shelf name="kids" count="95"/>
+      <shelf name="childhood" count="70"/>
+      <shelf name="series" count="69"/>
+      <shelf name="childhood-favorites" count="65"/>
+      <shelf name="young-adult" count="60"/>
+      <shelf name="childrens-books" count="57"/>
+      <shelf name="kids-books" count="54"/>
+      <shelf name="juvenile" count="52"/>
+      <shelf name="middle-grade" count="48"/>
+      <shelf name="classic" count="48"/>
+      <shelf name="historical" count="38"/>
+      <shelf name="juvenile-fiction" count="37"/>
+      <shelf name="children-s-literature" count="36"/>
+      <shelf name="ya" count="36"/>
+      <shelf name="books-i-own" count="35"/>
+      <shelf name="friendship" count="32"/>
+      <shelf name="read-aloud" count="32"/>
+      <shelf name="1" count="30"/>
+      <shelf name="children-s-lit" count="28"/>
+      <shelf name="owned" count="27"/>
+      <shelf name="childrens-lit" count="24"/>
+      <shelf name="childhood-books" count="23"/>
+      <shelf name="read-alouds" count="23"/>
+      <shelf name="kid-lit" count="20"/>
+      <shelf name="chapter-books" count="20"/>
+      <shelf name="betsy-tacy" count="20"/>
+      <shelf name="minnesota" count="18"/>
+      <shelf name="children-s-classics" count="17"/>
+      <shelf name="childrens-classics" count="17"/>
+      <shelf name="children-s-fiction" count="16"/>
+      <shelf name="youth" count="16"/>
+      <shelf name="childrens-fiction" count="16"/>
+      <shelf name="a" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="re-read" count="15"/>
+      <shelf name="to-buy" count="13"/>
+      <shelf name="kid-books" count="13"/>
+      <shelf name="realistic-fiction" count="13"/>
+      <shelf name="kids-chapter-books" count="13"/>
+      <shelf name="for-the-kids" count="12"/>
+      <shelf name="childhood-reads" count="12"/>
+      <shelf name="kindle" count="11"/>
+      <shelf name="children-young-adult" count="11"/>
+      <shelf name="all-time-favorites" count="11"/>
+      <shelf name="family" count="10"/>
+      <shelf name="childrens-literature" count="10"/>
+      <shelf name="childhood-faves" count="10"/>
+      <shelf name="kids-to-read" count="9"/>
+      <shelf name="children-books" count="9"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="maud-hart-lovelace" count="9"/>
+      <shelf name="audiobooks" count="9"/>
+      <shelf name="kidlit" count="9"/>
+      <shelf name="reread" count="9"/>
+      <shelf name="book-club" count="9"/>
+      <shelf name="mensa-4-6" count="8"/>
+      <shelf name="family-read-alouds" count="8"/>
+      <shelf name="my-childhood" count="8"/>
+      <shelf name="america" count="8"/>
+      <shelf name="female-author" count="8"/>
+      <shelf name="american" count="8"/>
+      <shelf name="girls" count="8"/>
+      <shelf name="read-as-a-kid" count="8"/>
+      <shelf name="favorite-books" count="8"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="to-read-with-kids" count="7"/>
+      <shelf name="favorite-children-s-books" count="7"/>
+      <shelf name="kids-read-aloud" count="7"/>
+      <shelf name="kid-s-books" count="7"/>
+      <shelf name="homeschool" count="7"/>
+      <shelf name="for-kids" count="7"/>
+      <shelf name="nostalgia" count="7"/>
+      <shelf name="young-readers" count="7"/>
+      <shelf name="ya-fiction" count="7"/>
+      <shelf name="to-read-kids" count="7"/>
+      <shelf name="read-with-kids" count="7"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="audio-book" count="7"/>
+      <shelf name="favorite" count="7"/>
+      <shelf name="history" count="6"/>
+      <shelf name="2" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="favorite-kids-books" count="6"/>
+      <shelf name="kiddos" count="6"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="read-aloud-to-kids" count="6"/>
+      <shelf name="childhood-memories" count="6"/>
+      <shelf name="children-s-chapter-books" count="6"/>
+      <shelf name="junior-fiction" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>144575</id>
+<user_position>1</user_position>
+<series>
+<id>40447</id>
+<title>
+<![CDATA[
+    Betsy-Tacy
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>14</series_works_count>
+<primary_work_count>10</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>421643</id>
+<title><![CDATA[Spiderweb for Two: A Melendy Maze]]></title>
+<title_without_series><![CDATA[Spiderweb for Two: A Melendy Maze]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/421643.Spiderweb_for_Two]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312231297s/421643.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312231297m/421643.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>752201</id>
+</work>
+<isbn>080507063X</isbn>
+<isbn13>9780805070637</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>2081</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3420</id>
+<name>Elizabeth Enright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3420.Elizabeth_Enright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7925</id>
+<title><![CDATA[All-of-a-Kind Family Downtown (All-of-a-Kind Family, #2)]]></title>
+<title_without_series>All-of-a-Kind Family Downtown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7925.All_of_a_Kind_Family_Downtown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298696214s/7925.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298696214m/7925.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2440327</id>
+</work>
+<isbn>0929093216</isbn>
+<isbn13>9780929093215</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>4185</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5323</id>
+<name>Sydney Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5323.Sydney_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>347151</id>
+<title>Understood Betsy</title>
+<title_without_series>Understood Betsy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/347151.Understood_Betsy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>3234038</id>
+</work>
+<isbn>1887840133</isbn>
+<isbn13>9781887840132</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>8868</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>199175</id>
+<name>Dorothy Canfield Fisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/199175.Dorothy_Canfield_Fisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7940</id>
+<title>&quot;B&quot; Is for Betsy</title>
+<title_without_series>&quot;B&quot; Is for Betsy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7940._B_Is_for_Betsy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>947917</id>
+</work>
+<isbn>015205099X</isbn>
+<isbn13>9780152050993</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>3862</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5328</id>
+<name>Carolyn Haywood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5328.Carolyn_Haywood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3782</id>
+<title>Theater Shoes (Shoes, #4)</title>
+<title_without_series>Theater Shoes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3782.Theater_Shoes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1165361069s/3782.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1165361069m/3782.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>1391500</id>
+</work>
+<isbn>0679854347</isbn>
+<isbn13>9780679854340</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>4122</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2951738</id>
+<name>Noel Streatfeild</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2951738.Noel_Streatfeild]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7902</id>
+<title><![CDATA[The Betsy-Tacy Companion: A Biography of Maud Hart Lovelace]]></title>
+<title_without_series><![CDATA[The Betsy-Tacy Companion: A Biography of Maud Hart Lovelace]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7902.The_Betsy_Tacy_Companion]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358440872s/7902.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358440872m/7902.jpg]]></image_url>
+<num_pages>515</num_pages>
+<work>
+<id>10924</id>
+</work>
+<isbn>0963078305</isbn>
+<isbn13>9780963078308</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>854</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5312</id>
+<name>Sharla Scannell Whalen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5312.Sharla_Scannell_Whalen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42337</id>
+<title>The Moffats (The Moffats, #1)</title>
+<title_without_series>The Moffats</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42337.The_Moffats]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>212</num_pages>
+<work>
+<id>2314939</id>
+</work>
+<isbn>0152025413</isbn>
+<isbn13>9780152025410</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>8150</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>23821</id>
+<name>Eleanor Estes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23821.Eleanor_Estes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2108207</id>
+<title><![CDATA[In the High Valley (Carr Family, #5)]]></title>
+<title_without_series>In the High Valley</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2108207.In_the_High_Valley]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1437159426s/2108207.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1437159426m/2108207.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2113609</id>
+</work>
+<isbn>1904417434</isbn>
+<isbn13>9781904417439</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>442</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>387955</id>
+<name>Susan Coolidge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/387955.Susan_Coolidge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13844</id>
+<title><![CDATA[The Milly-Molly-Mandy Storybook]]></title>
+<title_without_series><![CDATA[The Milly-Molly-Mandy Storybook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13844.The_Milly_Molly_Mandy_Storybook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312060898s/13844.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312060898m/13844.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>15959</id>
+</work>
+<isbn></isbn>
+<isbn13>9780753453322</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2317</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>8598</id>
+<name>Joyce Lankester Brisley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8598.Joyce_Lankester_Brisley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>258038</id>
+<title>The Good Master </title>
+<title_without_series>The Good Master</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/258038.The_Good_Master]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>250092</id>
+</work>
+<isbn>014030133X</isbn>
+<isbn13>9780140301335</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>3233</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>80667</id>
+<name>Kate Seredy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80667.Kate_Seredy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>592102</id>
+<title><![CDATA[In Grandma's Attic (Grandma's Attic, #1)]]></title>
+<title_without_series>In Grandma&apos;s Attic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/592102.In_Grandma_s_Attic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>1586216</id>
+</work>
+<isbn>0781432685</isbn>
+<isbn13>9780781432689</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>4722</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>117208</id>
+<name>Arleta Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/117208.Arleta_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>246584</id>
+<title>A Garland for Girls</title>
+<title_without_series>A Garland for Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/246584.A_Garland_for_Girls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>146</num_pages>
+<work>
+<id>2517065</id>
+</work>
+<isbn>1406931187</isbn>
+<isbn13>9781406931181</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>773</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1315</id>
+<name>Louisa May Alcott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1315.Louisa_May_Alcott]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

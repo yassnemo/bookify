@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>3090465</id>
+  <title><![CDATA[The Twilight Saga (Twilight, #1-4)]]></title>
+  <isbn><![CDATA[0739352350]]></isbn>
+  <isbn13><![CDATA[9780739352359]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1327930511m/3090465.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327930511s/3090465.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">6440505</id>
+  <books_count type="integer">36</books_count>
+  <best_book_id type="integer">3090465</best_book_id>
+  <reviews_count type="integer">124524</reviews_count>
+  <ratings_sum type="integer">375975</ratings_sum>
+  <ratings_count type="integer">96850</ratings_count>
+  <text_reviews_count type="integer">3642</text_reviews_count>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Twilight Saga</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:42410|4:23222|3:16085|2:7649|1:7484|total:96850</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.88</average_rating>
+  <num_pages><![CDATA[65]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[89240]]></ratings_count>
+  <text_reviews_count><![CDATA[3244]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3090465-the-twilight-saga]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3090465-the-twilight-saga]]></link>
+  <authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>8839206</ratings_count>
+<text_reviews_count>297412</text_reviews_count>
+</author>
+<author>
+<id>511951</id>
+<name>Ilyana Kadushin</name>
+<role>Narrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485808395p5/511951.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485808395p2/511951.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/511951.Ilyana_Kadushin]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>97701</ratings_count>
+<text_reviews_count>4890</text_reviews_count>
+</author>
+<author>
+<id>2567014</id>
+<name>Matt Walters</name>
+<role>Narrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233363882p5/2567014.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233363882p2/2567014.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2567014.Matt_Walters]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>90282</ratings_count>
+<text_reviews_count>3491</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/3090465-the-twilight-saga">The Twilight Saga Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0739352350&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/3090465-the-twilight-saga?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1548"/>
+      <shelf name="currently-reading" count="625"/>
+      <shelf name="favorites" count="596"/>
+      <shelf name="fantasy" count="514"/>
+      <shelf name="young-adult" count="431"/>
+      <shelf name="romance" count="332"/>
+      <shelf name="vampires" count="271"/>
+      <shelf name="paranormal" count="201"/>
+      <shelf name="ya" count="201"/>
+      <shelf name="series" count="167"/>
+      <shelf name="fiction" count="162"/>
+      <shelf name="twilight" count="145"/>
+      <shelf name="vampire" count="116"/>
+      <shelf name="books-i-own" count="112"/>
+      <shelf name="paranormal-romance" count="87"/>
+      <shelf name="owned" count="86"/>
+      <shelf name="twilight-saga" count="66"/>
+      <shelf name="supernatural" count="60"/>
+      <shelf name="werewolves" count="58"/>
+      <shelf name="my-books" count="51"/>
+      <shelf name="stephenie-meyer" count="50"/>
+      <shelf name="shelfari-favorites" count="37"/>
+      <shelf name="teen" count="36"/>
+      <shelf name="chick-lit" count="34"/>
+      <shelf name="love" count="33"/>
+      <shelf name="favourites" count="33"/>
+      <shelf name="owned-books" count="30"/>
+      <shelf name="books" count="28"/>
+      <shelf name="default" count="27"/>
+      <shelf name="favorite-books" count="27"/>
+      <shelf name="urban-fantasy" count="25"/>
+      <shelf name="twilight-series" count="24"/>
+      <shelf name="vampire-books" count="22"/>
+      <shelf name="favorite" count="21"/>
+      <shelf name="i-own" count="20"/>
+      <shelf name="ya-fantasy" count="20"/>
+      <shelf name="adventure" count="19"/>
+      <shelf name="novels" count="19"/>
+      <shelf name="vamps" count="18"/>
+      <shelf name="not-interested" count="17"/>
+      <shelf name="stephanie-meyer" count="17"/>
+      <shelf name="werewolf" count="17"/>
+      <shelf name="ya-fiction" count="17"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="kindle" count="16"/>
+      <shelf name="teen-fiction" count="16"/>
+      <shelf name="sci-fi" count="16"/>
+      <shelf name="finished" count="15"/>
+      <shelf name="sci-fi-fantasy" count="15"/>
+      <shelf name="my-favorites" count="15"/>
+      <shelf name="never-again" count="15"/>
+      <shelf name="re-read" count="15"/>
+      <shelf name="contemporary" count="15"/>
+      <shelf name="ya-books" count="15"/>
+      <shelf name="faves" count="14"/>
+      <shelf name="science-fiction" count="14"/>
+      <shelf name="read-more-than-once" count="14"/>
+      <shelf name="drama" count="14"/>
+      <shelf name="shifters" count="13"/>
+      <shelf name="fantasy-sci-fi" count="13"/>
+      <shelf name="all-time-favorites" count="13"/>
+      <shelf name="5-stars" count="13"/>
+      <shelf name="finished-series" count="12"/>
+      <shelf name="the-twilight-saga" count="12"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="completed-series" count="11"/>
+      <shelf name="favs" count="11"/>
+      <shelf name="already-read" count="11"/>
+      <shelf name="movies" count="11"/>
+      <shelf name="part-of-a-series" count="11"/>
+      <shelf name="pnr" count="11"/>
+      <shelf name="mine" count="11"/>
+      <shelf name="favourite" count="10"/>
+      <shelf name="movie" count="10"/>
+      <shelf name="love-triangle" count="10"/>
+      <shelf name="high-school" count="10"/>
+      <shelf name="ya-romance" count="10"/>
+      <shelf name="young-adults" count="10"/>
+      <shelf name="loved-it" count="10"/>
+      <shelf name="home-library" count="10"/>
+      <shelf name="twilight-books" count="10"/>
+      <shelf name="young-adult-fiction" count="10"/>
+      <shelf name="audiobook" count="10"/>
+      <shelf name="paranormal-fantasy" count="9"/>
+      <shelf name="contemporary-romance" count="9"/>
+      <shelf name="4-stars" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="saga" count="9"/>
+      <shelf name="novel" count="9"/>
+      <shelf name="guilty-pleasures" count="9"/>
+      <shelf name="good-vs-evil" count="8"/>
+      <shelf name="eclipse" count="8"/>
+      <shelf name="series-read" count="8"/>
+      <shelf name="young-adult-romance" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="favorite-series" count="8"/>
+      <shelf name="guilty-pleasure" count="8"/>
+      <shelf name="teen-books" count="8"/>
+      <shelf name="horror" count="8"/>
+      <shelf name="scifi-fantasy" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>460407</id>
+<user_position>1-4</user_position>
+<series>
+<id>45363</id>
+<title>
+<![CDATA[
+    Twilight
+]]>
+</title>
+<description>
+<![CDATA[
+    A series of 4 books by Stephenie Meyer, with additional stories set in this world.
+    
+    See also the graphic novel adaptation: <a href="http://www.goodreads.com/series/51096">Twilight: The Graphic Novel</a>.
+    
+    The series is also known as:
+    * Houkutus (Finnish)
+    * Crepúsculo (Spanish)
+    * Alacakaranlık (Turkish)
+    * Λυκόφως (Greek)
+    
+    Alternate numberings for this series:
+    * <a href="http://www.goodreads.com/series/164722">トワイライト（単行本）</a> (13 books in Japanese)
+    * <a href="http://www.goodreads.com/series/164723">トワイライト（文庫）</a> (9 books Japanese)
+]]>
+</description>
+<note>
+<![CDATA[
+    *Primary works for a series should not include boxsets, novellas, anthologies, or other extras in the series.
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>6288362</id>
+<title><![CDATA[Sookie Stackhouse 8 Volume Set (Sookie Stackhouse, #1-8)]]></title>
+<title_without_series><![CDATA[Sookie Stackhouse 8 Volume Set]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6288362-sookie-stackhouse-8-volume-set]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>2500</num_pages>
+<work>
+<id>7187455</id>
+</work>
+<isbn>0441018238</isbn>
+<isbn13>9780441018239</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>8644</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17061</id>
+<name>Charlaine Harris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17061.Charlaine_Harris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7351574</id>
+<title><![CDATA[Eclipse: The Complete Illustrated Movie Companion (The Twilight Saga: The Official Illustrated Movie Companion, #3)]]></title>
+<title_without_series><![CDATA[Eclipse: The Complete Illustrated Movie Companion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7351574-eclipse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>9115558</id>
+</work>
+<isbn>0316087378</isbn>
+<isbn13>9780316087377</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>50392</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>61939</id>
+<name>Mark Cotta Vaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61939.Mark_Cotta_Vaz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12708927</id>
+<title><![CDATA[Vampire Academy (Vampire Academy, #1-6)]]></title>
+<title_without_series>Vampire Academy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12708927-vampire-academy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327520207s/12708927.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327520207m/12708927.jpg]]></image_url>
+<num_pages>2688</num_pages>
+<work>
+<id>21984489</id>
+</work>
+<isbn>1780812744</isbn>
+<isbn13>9781780812748</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>6387</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>137902</id>
+<name>Richelle Mead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/137902.Richelle_Mead]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11782608</id>
+<title><![CDATA[Marked / Betrayed / Chosen / Untamed / Tempted / Burned (House of Night #1-4, 6-7)]]></title>
+<title_without_series><![CDATA[Marked / Betrayed / Chosen / Untamed / Tempted / Burned]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11782608-marked-betrayed-chosen-untamed-tempted-burned]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1347017997s/11782608.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1347017997m/11782608.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>16504466</id>
+</work>
+<isbn>1780810164</isbn>
+<isbn13>9781780810164</isbn13>
+<average_rating>4.47</average_rating>
+<ratings_count>855</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>17015</id>
+<name>P.C. Cast</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17015.P_C_Cast]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6606305</id>
+<title><![CDATA[Black Dagger Brotherhood: Boxed Set #1-6]]></title>
+<title_without_series><![CDATA[Black Dagger Brotherhood: Boxed Set #1-6]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6606305-black-dagger-brotherhood]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6800220</id>
+</work>
+<isbn>0451947630</isbn>
+<isbn13>9780451947635</isbn13>
+<average_rating>4.69</average_rating>
+<ratings_count>7829</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20248</id>
+<name>J.R. Ward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20248.J_R_Ward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13584236</id>
+<title><![CDATA[Fifty Shades Trilogy (Fifty Shades, #1-3)]]></title>
+<title_without_series>Fifty Shades Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13584236-fifty-shades-trilogy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1431573483s/13584236.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1431573483m/13584236.jpg]]></image_url>
+<num_pages>1859</num_pages>
+<work>
+<id>19171215</id>
+</work>
+<isbn>0345803574</isbn>
+<isbn13>9780345803573</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>101639</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>4725841</id>
+<name>E.L. James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4725841.E_L_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10</id>
+<title><![CDATA[Harry Potter Collection (Harry Potter, #1-6)]]></title>
+<title_without_series>Harry Potter Collection</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10.Harry_Potter_Collection]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867351s/10.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867351m/10.jpg]]></image_url>
+<num_pages>3342</num_pages>
+<work>
+<id>21457570</id>
+</work>
+<isbn>0439827604</isbn>
+<isbn13>9780439827607</isbn13>
+<average_rating>4.73</average_rating>
+<ratings_count>26291</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10121801</id>
+<title><![CDATA[Shiver Trilogy Boxset (The Wolves of Mercy Falls, #1-3)]]></title>
+<title_without_series>Shiver Trilogy Boxset</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10121801-shiver-trilogy-boxset]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1150</num_pages>
+<work>
+<id>15019516</id>
+</work>
+<isbn>0545326869</isbn>
+<isbn13>9780545326865</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>8707</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1330292</id>
+<name>Maggie Stiefvater</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1330292.Maggie_Stiefvater]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11715623</id>
+<title><![CDATA[Vamp Yourself for War (Vamp Chronicles, #2)]]></title>
+<title_without_series>Vamp Yourself for War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11715623-vamp-yourself-for-war]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328416588s/11715623.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328416588m/11715623.jpg]]></image_url>
+<num_pages>359</num_pages>
+<work>
+<id>16663544</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>1000</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4856634</id>
+<name>Christin Lovell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4856634.Christin_Lovell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6485421</id>
+<title><![CDATA[The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments, #1-3)]]></title>
+<title_without_series><![CDATA[The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6485421-the-mortal-instruments-boxed-set]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312016549s/6485421.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312016549m/6485421.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6676773</id>
+</work>
+<isbn>1416997857</isbn>
+<isbn13>9781416997856</isbn13>
+<average_rating>4.57</average_rating>
+<ratings_count>57351</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7118086</id>
+<title><![CDATA[The Acclaimed Shopaholic Novels Boxed Set]]></title>
+<title_without_series><![CDATA[The Acclaimed Shopaholic Novels Boxed Set]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7118086-the-acclaimed-shopaholic-novels-boxed-set]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7378793</id>
+</work>
+<isbn>044024627X</isbn>
+<isbn13>9780440246275</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>910</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6160</id>
+<name>Sophie Kinsella</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6160.Sophie_Kinsella]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11887832</id>
+<title><![CDATA[Blue Bloods Novel Collection (Blue Bloods, #1-5)]]></title>
+<title_without_series>Blue Bloods Novel Collection</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11887832-blue-bloods-novel-collection]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333917852s/11887832.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333917852m/11887832.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>16846640</id>
+</work>
+<isbn>178081027X</isbn>
+<isbn13>9781780810270</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>200</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>21911</id>
+<name>Melissa de la Cruz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21911.Melissa_de_la_Cruz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18933358</id>
+<title>Stalkers</title>
+<title_without_series>Stalkers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18933358-stalkers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1385319727s/18933358.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1385319727m/18933358.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26940799</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>50</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6579595</id>
+<name>Cynthia Shepp</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6579595.Cynthia_Shepp]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9432957</id>
+<title>Stranded, Seduced...Pregnant</title>
+<title_without_series>Stranded, Seduced...Pregnant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9432957-stranded-seduced-pregnant]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330005394s/9432957.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330005394m/9432957.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>14317486</id>
+</work>
+<isbn>0263878651</isbn>
+<isbn13>9780263878653</isbn13>
+<average_rating>3.26</average_rating>
+<ratings_count>214</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>181373</id>
+<name>Kim Lawrence</name>
+<link><![CDATA[https://www.goodreads.com/author/show/181373.Kim_Lawrence]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23238802</id>
+<title><![CDATA[Resonant (Reign of Blood, #0.5)]]></title>
+<title_without_series>Resonant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23238802-resonant]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415219130s/23238802.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415219130m/23238802.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>42782781</id>
+</work>
+<isbn>1501003992</isbn>
+<isbn13>9781501003998</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>96</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5038699</id>
+<name>Alexia Purdy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5038699.Alexia_Purdy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14575371</id>
+<title><![CDATA[Tiger's Curse Collector's Boxed Set (Tiger Saga, #1-4)]]></title>
+<title_without_series><![CDATA[Tiger's Curse Collector's Boxed Set]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14575371-tiger-s-curse-collector-s-boxed-set]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360171035s/14575371.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360171035m/14575371.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>20218109</id>
+</work>
+<isbn>1454903597</isbn>
+<isbn13>9781454903598</isbn13>
+<average_rating>4.73</average_rating>
+<ratings_count>1187</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>3097905</id>
+<name>Colleen Houck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3097905.Colleen_Houck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6277640</id>
+<title><![CDATA[Uglies, The Collector's Set (Uglies, #1-4)]]></title>
+<title_without_series>Uglies, The Collector&apos;s Set</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6277640-uglies-the-collector-s-set]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1282397644s/6277640.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1282397644m/6277640.jpg]]></image_url>
+<num_pages>1680</num_pages>
+<work>
+<id>6461158</id>
+</work>
+<isbn>1416971203</isbn>
+<isbn13>9781416971207</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>7282</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>13957</id>
+<name>Scott Westerfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13957.Scott_Westerfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6202690</id>
+<title><![CDATA[Twilight Director's Notebook : The Story of How We Made the Movie Based on the Novel by Stephenie Meyer]]></title>
+<title_without_series><![CDATA[Twilight Director's Notebook : The Story of How We Made the Movie Based on the Novel by Stephenie Meyer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6202690-twilight-director-s-notebook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>163</num_pages>
+<work>
+<id>6383190</id>
+</work>
+<isbn>0316070521</isbn>
+<isbn13>9780316070522</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>89460</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32168</id>
+<name>Catherine Hardwicke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32168.Catherine_Hardwicke]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

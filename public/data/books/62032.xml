@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>62032</id>
+  <title><![CDATA[The 13½ Lives of Captain Bluebear (Zamonia, #1)]]></title>
+  <isbn><![CDATA[1585678449]]></isbn>
+  <isbn13><![CDATA[9781585678440]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00BY7NJP6]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>The Overlook Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Captain Bluebear tells the story of his first 13-1/2 lives spent on the mysterious continent of Zamonia, where intelligence is an infectious disease, water flows uphill, and dangers lie in wait for him around every corner.</i><br /><br />"A bluebear has twenty-seven lives. I shall recount thirteen and a half of them in this book but keep quiet about the rest," says the narrator of Walter Moers’s epic adventure. "What about the Minipirates? What about the Hobgoblins, the Spiderwitch, the Babbling Billows, the Troglotroll, the Mountain Maggot… Mine is a tale of mortal danger and eternal love, of hair’s breadth, last-minute escapes." Welcome to the fantastic world of Zamonia, populated by all manner of extraordinary characters. It’s a land of imaginative lunacy and supreme adventure, wicked satire and epic fantasy, all mixed together, turned on its head, and lavishly illustrated by the author.]]></description>
+  <work>
+  <id type="integer">1482372</id>
+  <books_count type="integer">60</books_count>
+  <best_book_id type="integer">62032</best_book_id>
+  <reviews_count type="integer">26289</reviews_count>
+  <ratings_sum type="integer">56968</ratings_sum>
+  <ratings_count type="integer">13571</ratings_count>
+  <text_reviews_count type="integer">1040</text_reviews_count>
+  <original_publication_year type="integer">1999</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Die 13½ Leben des Käpt'n Blaubär </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6598|4:4183|3:1924|2:608|1:258|total:13571</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[704]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10572]]></ratings_count>
+  <text_reviews_count><![CDATA[783]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/62032.The_13_Lives_of_Captain_Bluebear]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/62032.The_13_Lives_of_Captain_Bluebear]]></link>
+  <authors>
+<author>
+<id>34878</id>
+<name>Walter Moers</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1345421974p5/34878.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1345421974p2/34878.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/34878.Walter_Moers]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>45487</ratings_count>
+<text_reviews_count>3131</text_reviews_count>
+</author>
+<author>
+<id>285212</id>
+<name>John Brownjohn</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/285212.John_Brownjohn]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>34058</ratings_count>
+<text_reviews_count>3100</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/62032.The_13_Lives_of_Captain_Bluebear">The 13½ Lives of Captain Bluebear Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1585678449&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/62032.The_13_Lives_of_Captain_Bluebear?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5663"/>
+      <shelf name="fantasy" count="770"/>
+      <shelf name="currently-reading" count="632"/>
+      <shelf name="favorites" count="351"/>
+      <shelf name="fiction" count="247"/>
+      <shelf name="humor" count="121"/>
+      <shelf name="owned" count="82"/>
+      <shelf name="german" count="81"/>
+      <shelf name="young-adult" count="67"/>
+      <shelf name="books-i-own" count="65"/>
+      <shelf name="favourites" count="55"/>
+      <shelf name="adventure" count="54"/>
+      <shelf name="default" count="45"/>
+      <shelf name="series" count="45"/>
+      <shelf name="humour" count="44"/>
+      <shelf name="children" count="31"/>
+      <shelf name="deutsch" count="31"/>
+      <shelf name="library" count="31"/>
+      <shelf name="childrens" count="31"/>
+      <shelf name="ya" count="27"/>
+      <shelf name="walter-moers" count="25"/>
+      <shelf name="kids" count="22"/>
+      <shelf name="zamonien" count="22"/>
+      <shelf name="my-books" count="21"/>
+      <shelf name="sci-fi-fantasy" count="21"/>
+      <shelf name="abandoned" count="20"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="sub" count="19"/>
+      <shelf name="children-s" count="18"/>
+      <shelf name="fantasia" count="17"/>
+      <shelf name="owned-books" count="17"/>
+      <shelf name="funny" count="17"/>
+      <shelf name="fantasy-sci-fi" count="17"/>
+      <shelf name="german-literature" count="15"/>
+      <shelf name="my-library" count="15"/>
+      <shelf name="audiobook" count="15"/>
+      <shelf name="translated" count="15"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="children-s-books" count="15"/>
+      <shelf name="illustrated" count="14"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="zamonia" count="12"/>
+      <shelf name="high-fantasy" count="12"/>
+      <shelf name="all-time-favorites" count="12"/>
+      <shelf name="books" count="12"/>
+      <shelf name="novel" count="12"/>
+      <shelf name="5-stars" count="11"/>
+      <shelf name="fun" count="11"/>
+      <shelf name="childrens-books" count="11"/>
+      <shelf name="never-finished" count="11"/>
+      <shelf name="unfinished" count="11"/>
+      <shelf name="german-authors" count="11"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="read-in-german" count="10"/>
+      <shelf name="did-not-finish" count="10"/>
+      <shelf name="germany" count="10"/>
+      <shelf name="novels" count="10"/>
+      <shelf name="read-in-2015" count="9"/>
+      <shelf name="childhood" count="9"/>
+      <shelf name="comedy" count="9"/>
+      <shelf name="scifi-fantasy" count="9"/>
+      <shelf name="science-fiction" count="9"/>
+      <shelf name="read-in-2013" count="8"/>
+      <shelf name="need-to-buy" count="8"/>
+      <shelf name="own-to-read" count="8"/>
+      <shelf name="translation" count="8"/>
+      <shelf name="re-read" count="8"/>
+      <shelf name="literature" count="8"/>
+      <shelf name="all-time-favourites" count="8"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="lieblingsbücher" count="7"/>
+      <shelf name="bookshelf" count="7"/>
+      <shelf name="4-stars" count="7"/>
+      <shelf name="graphic-novel" count="7"/>
+      <shelf name="on-hold" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="science-fiction-fantasy" count="7"/>
+      <shelf name="bücherregal" count="7"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="read-in-2014" count="6"/>
+      <shelf name="to-re-read" count="6"/>
+      <shelf name="belletristik" count="6"/>
+      <shelf name="speculative-fiction" count="6"/>
+      <shelf name="children-books" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="could-not-finish" count="6"/>
+      <shelf name="book-club" count="6"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="graphic-novels" count="6"/>
+      <shelf name="gave-up-on" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="animals" count="6"/>
+      <shelf name="1990s" count="6"/>
+      <shelf name="not-finished" count="6"/>
+      <shelf name="mine" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="adult-fiction" count="6"/>
+      <shelf name="childrens-literature" count="6"/>
+      <shelf name="favorite" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>319794</id>
+<user_position>1</user_position>
+<series>
+<id>70616</id>
+<title>
+<![CDATA[
+    Zamonien
+]]>
+</title>
+<description>
+<![CDATA[
+    For the English translation, see the <a href="http://www.goodreads.com/series/89206-zamonia">Zamonia</a> series.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>10</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>429035</id>
+<user_position>1</user_position>
+<series>
+<id>89206</id>
+<title>
+<![CDATA[
+    Zamonia
+]]>
+</title>
+<description>
+<![CDATA[
+    Zamonia is the English translation of the German <a href="http://www.goodreads.com/series/70616-zamonien">Zamonien</a> series. Not all the books were translated into English, so the numbering is different.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>892095</id>
+<title><![CDATA[Arabel's Raven (Arabel and Mortimer, #1)]]></title>
+<title_without_series>Arabel&apos;s Raven</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/892095.Arabel_s_Raven]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408937972s/892095.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408937972m/892095.jpg]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>877333</id>
+</work>
+<isbn>1903015146</isbn>
+<isbn13>9781903015148</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1055</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12075</id>
+<name>Joan Aiken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12075.Joan_Aiken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27719</id>
+<title>The Night of Wishes</title>
+<title_without_series>The Night of Wishes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27719.The_Night_of_Wishes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>2506784</id>
+</work>
+<isbn>0374455031</isbn>
+<isbn13>9780374455033</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>4422</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>15619</id>
+<name>Michael Ende</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15619.Michael_Ende]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6392654</id>
+<title><![CDATA[Die Känguru-Chroniken: Ansichten eines vorlauten Beuteltiers (Die Känguru-Chroniken, #1)]]></title>
+<title_without_series><![CDATA[Die Känguru-Chroniken: Ansichten eines vorlauten Beuteltiers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6392654-die-k-nguru-chroniken]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327948621s/6392654.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327948621m/6392654.jpg]]></image_url>
+<num_pages>271</num_pages>
+<work>
+<id>6581129</id>
+</work>
+<isbn>3548372570</isbn>
+<isbn13>9783548372570</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>3687</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2863757</id>
+<name>Marc-Uwe Kling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2863757.Marc_Uwe_Kling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4543142</id>
+<title><![CDATA[Dschinnland (Die Sturmkönige, #1)]]></title>
+<title_without_series>Dschinnland</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4543142-dschinnland]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329495297s/4543142.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329495297m/4543142.jpg]]></image_url>
+<num_pages>428</num_pages>
+<work>
+<id>4592419</id>
+</work>
+<isbn>3785723369</isbn>
+<isbn13>9783785723364</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>925</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>54201</id>
+<name>Kai Meyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54201.Kai_Meyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>472626</id>
+<title>Krabat</title>
+<title_without_series>Krabat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/472626.Krabat]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334151882s/472626.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334151882m/472626.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>675181</id>
+</work>
+<isbn>3522144104</isbn>
+<isbn13>9783522144100</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>8381</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>127314</id>
+<name>Otfried Preußler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127314.Otfried_Preu_ler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>352701</id>
+<title><![CDATA[Fergus Crane (Far-Flung Adventures, #1)]]></title>
+<title_without_series>Fergus Crane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/352701.Fergus_Crane]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320423149s/352701.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320423149m/352701.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>454134</id>
+</work>
+<isbn>0385750889</isbn>
+<isbn13>9780385750882</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>1788</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24830</id>
+<name>Paul Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24830.Paul_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>881698</id>
+<title>Neue Vahr Süd</title>
+<title_without_series>Neue Vahr Süd</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/881698.Neue_Vahr_S_d]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>866986</id>
+</work>
+<isbn>3821807431</isbn>
+<isbn13>9783821807430</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1177</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3089</id>
+<name>Sven Regener</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3089.Sven_Regener]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>157551</id>
+<title>Oh, wie schön ist Panama</title>
+<title_without_series>Oh, wie schön ist Panama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/157551.Oh_wie_sch_n_ist_Panama]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>152037</id>
+</work>
+<isbn>3407805330</isbn>
+<isbn13>9783407805331</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>4340</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>91148</id>
+<name>Janosch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/91148.Janosch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>727380</id>
+<title><![CDATA[Danny Dunn and the Homework Machine (Danny Dunn, #3)]]></title>
+<title_without_series><![CDATA[Danny Dunn and the Homework Machine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/727380.Danny_Dunn_and_the_Homework_Machine]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>141</num_pages>
+<work>
+<id>713592</id>
+</work>
+<isbn>0070705208</isbn>
+<isbn13>9780070705203</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>332</ratings_count>
+<publication_year>1964</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>93565</id>
+<name>Jay Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93565.Jay_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3506974</id>
+<title>Wolfsaga</title>
+<title_without_series>Wolfsaga</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3506974-wolfsaga]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1338406842s/3506974.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1338406842m/3506974.jpg]]></image_url>
+<num_pages>507</num_pages>
+<work>
+<id>3548638</id>
+</work>
+<isbn>3210250758</isbn>
+<isbn13>9783210250755</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>222</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>154922</id>
+<name>Käthe Recheis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/154922.K_the_Recheis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>222127</id>
+<title><![CDATA[The Mad Scientists' Club (Mad Scientists' Club, #1)]]></title>
+<title_without_series>The Mad Scientists&apos; Club</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/222127.The_Mad_Scientists_Club]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>217</num_pages>
+<work>
+<id>215114</id>
+</work>
+<isbn>1930900104</isbn>
+<isbn13>9781930900103</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1650</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>130017</id>
+<name>Bertrand R. Brinley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/130017.Bertrand_R_Brinley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3174495</id>
+<title><![CDATA[Keväällä isä sai siivet (Austraasia, #1)]]></title>
+<title_without_series>Keväällä isä sai siivet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3174495-kev-ll-is-sai-siivet]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404949193s/3174495.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404949193m/3174495.jpg]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>3206947</id>
+</work>
+<isbn>9513119475</isbn>
+<isbn13>9789513119478</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>354</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1351877</id>
+<name>Tomi Kontio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1351877.Tomi_Kontio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>266205</id>
+<title><![CDATA[The Adventures of Harold and the Purple Crayon]]></title>
+<title_without_series><![CDATA[The Adventures of Harold and the Purple Crayon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/266205.The_Adventures_of_Harold_and_the_Purple_Crayon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>7179611</id>
+</work>
+<isbn>006029129X</isbn>
+<isbn13>9780060291297</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>903</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>56700</id>
+<name>Crockett Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/56700.Crockett_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1096915</id>
+<title>Voll Im Bilde/Alles Sense!</title>
+<title_without_series>Voll Im Bilde/Alles Sense!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1096915.Voll_Im_Bilde_Alles_Sense_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>285</num_pages>
+<work>
+<id>6171936</id>
+</work>
+<isbn>3442133726</isbn>
+<isbn13>9783442133727</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>184</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1654</id>
+<name>Terry Pratchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7027202</id>
+<title><![CDATA[Garou (Sheep Detective Story, #2)]]></title>
+<title_without_series>Garou</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7027202-garou]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358091739s/7027202.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358091739m/7027202.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>9627652</id>
+</work>
+<isbn>3442312248</isbn>
+<isbn13>9783442312245</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1415</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>204497</id>
+<name>Leonie Swann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204497.Leonie_Swann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24909</id>
+<title>The Mouse and His Child</title>
+<title_without_series>The Mouse and His Child</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24909.The_Mouse_and_His_Child]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>244</num_pages>
+<work>
+<id>2965139</id>
+</work>
+<isbn>0439098262</isbn>
+<isbn13>9780439098267</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1689</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12076</id>
+<name>Russell Hoban</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12076.Russell_Hoban]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1303548</id>
+<title>Lilith (Uralte Metropole, #2)</title>
+<title_without_series>Lilith</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1303548.Lilith]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1362759993s/1303548.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1362759993m/1303548.jpg]]></image_url>
+<num_pages>688</num_pages>
+<work>
+<id>1292750</id>
+</work>
+<isbn>3453521358</isbn>
+<isbn13>9783453521353</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>544</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>624389</id>
+<name>Christoph Marzi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/624389.Christoph_Marzi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6676264</id>
+<title>A Whole Nother Story</title>
+<title_without_series>A Whole Nother Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6676264-a-whole-nother-story]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6871360</id>
+</work>
+<isbn>1599904357</isbn>
+<isbn13>9781599904351</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>3471</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4894063</id>
+<name>Cuthbert Soup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4894063.Cuthbert_Soup]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>107021</id>
+  <title>Batman: Hush, Vol. 2</title>
+  <isbn><![CDATA[1401200923]]></isbn>
+  <isbn13><![CDATA[9781401200923]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1460914478m/107021.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1460914478s/107021.jpg</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>DC Comics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[BATMAN: HUSH is a thrilling mystery of action, intrigue, and deception penned by Jeph Loeb (BATMAN: THE LONG HALLOWEEN) and illustrated by comics superstar Jim Lee (ALL STAR BATMAN &amp; ROBIN, THE BOY WONDER) in which Batman sets out to discover the identity of a mysterious mastermind using the Joker, Riddler, Ra's al Ghul and the Dark Knight's other enemies - and allies - as pawns in a plan to wreak havoc. Volume 2 is collecting Batman #613 - #619.]]></description>
+  <work>
+  <id type="integer">1399483</id>
+  <books_count type="integer">19</books_count>
+  <best_book_id type="integer">107021</best_book_id>
+  <reviews_count type="integer">15238</reviews_count>
+  <ratings_sum type="integer">53133</ratings_sum>
+  <ratings_count type="integer">12506</ratings_count>
+  <text_reviews_count type="integer">208</text_reviews_count>
+  <original_publication_year type="integer">2003</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Batman (Volume 2): Hush</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6195|4:3903|3:1856|2:426|1:126|total:12506</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[192]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12158]]></ratings_count>
+  <text_reviews_count><![CDATA[167]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/107021.Batman]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/107021.Batman]]></link>
+  <authors>
+<author>
+<id>32594</id>
+<name>Jeph Loeb</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1214852516p5/32594.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1214852516p2/32594.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32594.Jeph_Loeb]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>249153</ratings_count>
+<text_reviews_count>8553</text_reviews_count>
+</author>
+<author>
+<id>15090</id>
+<name>Jim Lee</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298864865p5/15090.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298864865p2/15090.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15090.Jim_Lee]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>125996</ratings_count>
+<text_reviews_count>5793</text_reviews_count>
+</author>
+<author>
+<id>5763607</id>
+<name>Scott Williams</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5763607.Scott_Williams]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>100685</ratings_count>
+<text_reviews_count>3985</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/107021.Batman">Batman Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1401200923&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/107021.Batman?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="graphic-novels" count="338"/>
+      <shelf name="to-read" count="205"/>
+      <shelf name="comics" count="69"/>
+      <shelf name="favorites" count="45"/>
+      <shelf name="superheroes" count="39"/>
+      <shelf name="fiction" count="38"/>
+      <shelf name="dc-comics" count="36"/>
+      <shelf name="comic" count="34"/>
+      <shelf name="comics-graphic-novels" count="27"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="graphic-novels-comics" count="24"/>
+      <shelf name="superhero" count="24"/>
+      <shelf name="comics-and-graphic-novels" count="23"/>
+      <shelf name="mystery" count="13"/>
+      <shelf name="comics-read" count="13"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="dc" count="10"/>
+      <shelf name="series" count="10"/>
+      <shelf name="graphicnovels" count="8"/>
+      <shelf name="batman" count="7"/>
+      <shelf name="comix" count="7"/>
+      <shelf name="read-comics" count="7"/>
+      <shelf name="graphic-novel" count="6"/>
+      <shelf name="super-heroes" count="6"/>
+      <shelf name="comics-to-read" count="6"/>
+      <shelf name="sequential-art" count="6"/>
+      <shelf name="superhero-comics" count="6"/>
+      <shelf name="comics-manga" count="6"/>
+      <shelf name="comic-book" count="6"/>
+      <shelf name="comic-graphic-novel" count="6"/>
+      <shelf name="graphic" count="6"/>
+      <shelf name="default" count="5"/>
+      <shelf name="read-in-2013" count="5"/>
+      <shelf name="jeph-loeb" count="5"/>
+      <shelf name="dc-universe" count="5"/>
+      <shelf name="trade-paperbacks" count="5"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="graphic-novels-and-comic-books" count="4"/>
+      <shelf name="comic-books-graphic-novels" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="graphics" count="4"/>
+      <shelf name="graphic-novels-read" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="to-read-comics" count="4"/>
+      <shelf name="21st-century" count="4"/>
+      <shelf name="comics-dc" count="4"/>
+      <shelf name="graphicnovel" count="4"/>
+      <shelf name="komiks" count="3"/>
+      <shelf name="batman-collection" count="3"/>
+      <shelf name="comics-owned" count="3"/>
+      <shelf name="ed-esp" count="3"/>
+      <shelf name="bat-family" count="3"/>
+      <shelf name="favourite" count="3"/>
+      <shelf name="illustrated" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="science-fiction" count="3"/>
+      <shelf name="thriller" count="3"/>
+      <shelf name="dc-batman" count="3"/>
+      <shelf name="comicbook" count="3"/>
+      <shelf name="graphic-novels-comic-books" count="3"/>
+      <shelf name="comic-trades" count="3"/>
+      <shelf name="detective" count="3"/>
+      <shelf name="personal-library" count="3"/>
+      <shelf name="batman-graphic-novels" count="3"/>
+      <shelf name="comics-bd" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="graphic-novel-comic" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="comicbooks" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="comics-graphicnovels" count="3"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="books-read-2016" count="2"/>
+      <shelf name="gn" count="2"/>
+      <shelf name="currently-reading" count="2"/>
+      <shelf name="fantasy" count="2"/>
+      <shelf name="komiksy" count="2"/>
+      <shelf name="5-stars" count="2"/>
+      <shelf name="comics-mangas" count="2"/>
+      <shelf name="comics-and-graphics" count="2"/>
+      <shelf name="dccomics" count="2"/>
+      <shelf name="4-stars" count="2"/>
+      <shelf name="cómics-novelas-gráficas" count="2"/>
+      <shelf name="coleccionable" count="2"/>
+      <shelf name="decto" count="2"/>
+      <shelf name="graphic-novel-manga" count="2"/>
+      <shelf name="graphic-novel-comics" count="2"/>
+      <shelf name="library-book" count="2"/>
+      <shelf name="read-graphic" count="2"/>
+      <shelf name="adventure" count="2"/>
+      <shelf name="kapow" count="2"/>
+      <shelf name="5-star-comics" count="2"/>
+      <shelf name="2013-reads" count="2"/>
+      <shelf name="re-read" count="2"/>
+      <shelf name="graphic-novel-comic-book" count="2"/>
+      <shelf name="action" count="2"/>
+      <shelf name="books" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>843822</id>
+<user_position>2</user_position>
+<series>
+<id>166643</id>
+<title>
+<![CDATA[
+    DC Comics Coleção de Graphic Novels
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>25</series_works_count>
+<primary_work_count>25</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>193742</id>
+<user_position></user_position>
+<series>
+<id>51192</id>
+<title>
+<![CDATA[
+    Batman
+]]>
+</title>
+<description>
+<![CDATA[
+    Batman trade collections include several different comic books series and miniseries by DC Comics.
+    
+    The following series are included in the Batman title:
+    * <a href="http://www.goodreads.com/series/51332-batman-chronicles">Batman Chronicles</a>
+    * <a href="http://www.goodreads.com/series/80595-dc-comics-archives">DC Comics Archives</a>
+    * <a href="http://www.goodreads.com/series/51373-showcase-presents-batman">Showcase Presents: Batman</a>
+    * <a href="http://www.goodreads.com/series/51221-batman-black-and-white">Batman Black and White</a>
+    * <a href="http://www.goodreads.com/series/51236-batman-knightfall">Batman: Knightfall</a>
+    * <a href="http://www.goodreads.com/series/51328-batman-no-man-s-land">Batman: No Man's Land</a>
+    * <a href="http://www.goodreads.com/series/51304-batman-new-gotham">Batman: New Gotham</a>
+    * <a href="http://www.goodreads.com/series/51327-batman-war-games">Batman: War Games</a>
+    * <a href="http://www.goodreads.com/series/50151-batman-hush">Batman: Hush</a>
+    * <a href="http://www.goodreads.com/series/51330-batman-under-the-hood">Batman: Under the Hood</a>
+    * <a href="http://www.goodreads.com/series/51292-batman-elseworlds">Batman: Elseworlds</a> and subseries
+    * <a href="http://www.goodreads.com/series/51326-batman-confidential">Batman: Confidential</a>
+    * and more
+    
+    Single issues of comic books are not listed individually on Goodreads, but are listed as parts of collections.  The Batman title is used for collections of these comic book series:
+    * <a href="http://www.goodreads.com/series/51224-legends-of-the-dark-knight-single-issues">Batman: Legends of the Dark Knight</a>
+    * <a href="http://www.goodreads.com/series/51350-batman-shadow-of-the-bat-single-issues">Batman: Shadow of the Bat</a>
+    * <a href="http://www.goodreads.com/series/51308-batman-gotham-knights-single-issues">Batman: Gotham Knights</a>
+    * <a href="http://www.goodreads.com/series/51333-the-batman-chronicles-single-issues">The Batman Chronicles</a>
+    * and more
+    
+    Related series:
+    * <a href="http://www.goodreads.com/series/51248">Catwoman</a>
+    * <a href="http://www.goodreads.com/series/51217">Batgirl</a>
+    * <a href="http://www.goodreads.com/series/51237">Robin</a>
+    * <a href="http://www.goodreads.com/series/51244">Nightwing</a>
+    * <a href="http://www.goodreads.com/series/51182">Red Robin</a>
+    * <a href="http://www.goodreads.com/series/51220">Batman and Robin</a>
+    * <a href="http://www.goodreads.com/series/69945">Batwoman</a>
+    * <a href="http://www.goodreads.com/series/51271">Birds of Prey</a>
+    * <a href="http://www.goodreads.com/series/51222">Gotham Central</a>
+    * <a href="http://www.goodreads.com/series/51218">Superman/Batman</a>
+    * <a href="http://www.goodreads.com/series/51226">Batman and the Outsiders</a>
+    * <a href="http://www.goodreads.com/series/51387">The Brave and the Bold</a>
+    * <a href="http://www.goodreads.com/series/52071">JLA</a>
+    * <a href="http://www.goodreads.com/series/51371">The Greatest Stories Ever Told</a>
+    * and more
+    
+    For other series titled Batman which are not related to this series, see:
+    * <a href="http://www.goodreads.com/series/50231">The Batman Adventures</a>
+    * <a href="http://www.goodreads.com/series/49905">The Batman</a>
+    * <a href="http://www.goodreads.com/series/51388">Batman: The Brave and the Bold</a>
+    * <a href="http://www.goodreads.com/series/62191-batman-la-colecci-n">Batman La Colección</a>
+]]>
+</description>
+<note>
+<![CDATA[
+    Description is almost at max length!
+    Through page 4 of the search "batman", trying to follow the order on the wikipedia "Batman reprints" page....
+]]>
+</note>
+<series_works_count>370</series_works_count>
+<primary_work_count>367</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>267988</id>
+<user_position>20</user_position>
+<series>
+<id>62189</id>
+<title>
+<![CDATA[
+    Coleccionable Batman El Caballero Oscuro
+]]>
+</title>
+<description>
+<![CDATA[
+    Segundo coleccionable de Batman a cargo de Planeta DeAgostini Comics.
+    Continúa las sagas iniciadas en:<a href="http://www.goodreads.com/series/62180-batman-primer-coleccionable-de-planeta">Batman Primer Coleccionable de Planeta</a>.
+    Algunos de los tomos de ambas series fueron reimpresos en el coleccionable: <a href="http://www.goodreads.com/series/62191-batman-la-colecci-n">Batman La Colección</a>.
+]]>
+</description>
+<note>
+<![CDATA[
+    Falta revisar si están los que no aparecen en la búsqueda simple.
+]]>
+</note>
+<series_works_count>20</series_works_count>
+<primary_work_count>20</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>727364</id>
+<user_position>2</user_position>
+<series>
+<id>144728</id>
+<title>
+<![CDATA[
+    DC Comics Graphic Novel Collection
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>53</series_works_count>
+<primary_work_count>53</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>106063</id>
+<title><![CDATA[Batman: Bruce Wayne, Fugitive, Vol. 3]]></title>
+<title_without_series><![CDATA[Batman: Bruce Wayne, Fugitive, Vol. 3]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/106063.Batman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>102239</id>
+</work>
+<isbn>1401200796</isbn>
+<isbn13>9781401200794</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>829</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18327</id>
+<name>Greg Rucka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18327.Greg_Rucka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107023</id>
+<title><![CDATA[Batman: Under the Hood, Volume 2]]></title>
+<title_without_series><![CDATA[Batman: Under the Hood, Volume 2]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107023.Batman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>103154</id>
+</work>
+<isbn>1401209017</isbn>
+<isbn13>9781401209018</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>5123</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4822</id>
+<name>Judd Winick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4822.Judd_Winick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4788225</id>
+<title>Batman: Heart of Hush</title>
+<title_without_series>Batman: Heart of Hush</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4788225-batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1341985491s/4788225.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1341985491m/4788225.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>4853102</id>
+</work>
+<isbn>1401221238</isbn>
+<isbn13>9781401221232</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>7231</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>61935</id>
+<name>Paul Dini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61935.Paul_Dini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>51079</id>
+<title><![CDATA[Batman: Knightfall, Vol. 3: Knightsend]]></title>
+<title_without_series><![CDATA[Batman: Knightfall, Vol. 3: Knightsend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/51079.Batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1325209597s/51079.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1325209597m/51079.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>49854</id>
+</work>
+<isbn>1563891913</isbn>
+<isbn13>9781563891915</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>5826</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19886</id>
+<name>Doug Moench</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19886.Doug_Moench]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>74302</id>
+<title><![CDATA[Batman: War Games, Act 2: Tides]]></title>
+<title_without_series><![CDATA[Batman: War Games, Act 2: Tides]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/74302.Batman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>71888</id>
+</work>
+<isbn>1401204309</isbn>
+<isbn13>9781401204303</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1174</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>61924</id>
+<name>Andersen Gabrych</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61924.Andersen_Gabrych]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3430164</id>
+<title>Batman: R.I.P.</title>
+<title_without_series>Batman: R.I.P.</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3430164-batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1484918257s/3430164.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1484918257m/3430164.jpg]]></image_url>
+<num_pages>210</num_pages>
+<work>
+<id>3471065</id>
+</work>
+<isbn>1401220908</isbn>
+<isbn13>9781401220907</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>10943</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12732</id>
+<name>Grant Morrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12732.Grant_Morrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107096</id>
+<title>Batman: Son of the Demon</title>
+<title_without_series>Batman: Son of the Demon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107096.Batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404547821s/107096.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404547821m/107096.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>103227</id>
+</work>
+<isbn>0930289250</isbn>
+<isbn13>9780930289256</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4087</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>61955</id>
+<name>Mike W. Barr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61955.Mike_W_Barr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>106065</id>
+<title><![CDATA[Batman: Bruce Wayne, Fugitive, Vol. 1]]></title>
+<title_without_series><![CDATA[Batman: Bruce Wayne, Fugitive, Vol. 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/106065.Batman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>102241</id>
+</work>
+<isbn>1563899337</isbn>
+<isbn13>9781563899331</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>3173</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>42126</id>
+<name>Devin Grayson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42126.Devin_Grayson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107033</id>
+<title>Batman: Cataclysm</title>
+<title_without_series>Batman: Cataclysm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107033.Batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358967728s/107033.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358967728m/107033.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>103164</id>
+</work>
+<isbn>1563895277</isbn>
+<isbn13>9781563895272</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>3703</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>28709</id>
+<name>Chuck Dixon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28709.Chuck_Dixon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107156</id>
+<title>Batman: Thrillkiller</title>
+<title_without_series>Batman: Thrillkiller</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107156.Batman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>127</num_pages>
+<work>
+<id>962716</id>
+</work>
+<isbn>1563894246</isbn>
+<isbn13>9781563894244</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1288</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2718</id>
+<name>Howard Chaykin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2718.Howard_Chaykin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>296508</id>
+<title>Justice, Volume 2</title>
+<title_without_series>Justice, Volume 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/296508.Justice_Volume_2]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1306810798s/296508.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1306810798m/296508.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>287705</id>
+</work>
+<isbn>1401212069</isbn>
+<isbn13>9781401212063</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>3886</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>57952</id>
+<name>Jim Krueger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57952.Jim_Krueger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6359290</id>
+<title>Batman: Battle for the Cowl</title>
+<title_without_series>Batman: Battle for the Cowl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6359290-batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320549431s/6359290.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320549431m/6359290.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>6546338</id>
+</work>
+<isbn>1401224164</isbn>
+<isbn13>9781401224165</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>5877</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1226213</id>
+<name>Tony S. Daniel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1226213.Tony_S_Daniel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2325430</id>
+<title><![CDATA[Green Lantern, Volume 5: The Sinestro Corps War, Volume 2]]></title>
+<title_without_series><![CDATA[Green Lantern, Volume 5: The Sinestro Corps War, Volume 2]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2325430.Green_Lantern_Volume_5]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2331989</id>
+</work>
+<isbn>1401218008</isbn>
+<isbn13>9781401218003</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>3516</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>10305</id>
+<name>Geoff Johns</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10305.Geoff_Johns]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

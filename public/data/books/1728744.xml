@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>1728744</id>
+  <title><![CDATA[Sleeping Beauty (Disney Princess, 5)]]></title>
+  <isbn><![CDATA[1579731813]]></isbn>
+  <isbn13><![CDATA[9781579731816]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This book tells the tale of Disney's Sleeping Beauty, with stills from the movie as illustrations on every page.]]></description>
+  <work>
+  <id type="integer">1726198</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">1728744</best_book_id>
+  <reviews_count type="integer">28906</reviews_count>
+  <ratings_sum type="integer">118651</ratings_sum>
+  <ratings_count type="integer">27474</ratings_count>
+  <text_reviews_count type="integer">69</text_reviews_count>
+  <original_publication_year type="integer">1974</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Sleeping Beauty</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:16140|4:5656|3:4331|2:987|1:360|total:27474</rating_dist>
+  <desc_user_id type="integer">5994898</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.32</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[27475]]></ratings_count>
+  <text_reviews_count><![CDATA[69]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/1728744.Sleeping_Beauty]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/1728744.Sleeping_Beauty]]></link>
+  <authors>
+<author>
+<id>159038</id>
+<name>A.L. Singer</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/159038.A_L_Singer]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>29011</ratings_count>
+<text_reviews_count>124</text_reviews_count>
+</author>
+<author>
+<id>3510823</id>
+<name>Walt Disney Company</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289112683p5/3510823.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289112683p2/3510823.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3510823.Walt_Disney_Company]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>441164</ratings_count>
+<text_reviews_count>11426</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/1728744.Sleeping_Beauty">Sleeping Beauty Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1579731813&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/1728744.Sleeping_Beauty?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1451"/>
+      <shelf name="childrens" count="49"/>
+      <shelf name="children-s" count="40"/>
+      <shelf name="children" count="37"/>
+      <shelf name="children-s-books" count="37"/>
+      <shelf name="currently-reading" count="30"/>
+      <shelf name="kids" count="26"/>
+      <shelf name="childhood" count="22"/>
+      <shelf name="kids-books" count="22"/>
+      <shelf name="disney" count="21"/>
+      <shelf name="classics" count="16"/>
+      <shelf name="fairy-tales" count="14"/>
+      <shelf name="childrens-books" count="14"/>
+      <shelf name="picture-books" count="13"/>
+      <shelf name="children-books" count="12"/>
+      <shelf name="fantasy" count="11"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="fiction" count="10"/>
+      <shelf name="childhood-books" count="8"/>
+      <shelf name="kid-books" count="6"/>
+      <shelf name="fairytales" count="6"/>
+      <shelf name="classic" count="5"/>
+      <shelf name="kid-s-books" count="4"/>
+      <shelf name="fairytale" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="sleeping-beauty" count="3"/>
+      <shelf name="edrd-314" count="3"/>
+      <shelf name="fairy-tale" count="3"/>
+      <shelf name="romance" count="3"/>
+      <shelf name="books-i-read-as-a-child" count="3"/>
+      <shelf name="comics" count="3"/>
+      <shelf name="childhood-favorites" count="3"/>
+      <shelf name="children-s-lit" count="3"/>
+      <shelf name="owned" count="3"/>
+      <shelf name="kids-shelf" count="2"/>
+      <shelf name="traditional-literature" count="2"/>
+      <shelf name="edrd314" count="2"/>
+      <shelf name="children-s-fiction" count="2"/>
+      <shelf name="read-as-a-kid" count="2"/>
+      <shelf name="books-for-children" count="2"/>
+      <shelf name="story-books" count="2"/>
+      <shelf name="sophia" count="2"/>
+      <shelf name="children-s-books-read" count="2"/>
+      <shelf name="read-children-s" count="2"/>
+      <shelf name="childhood-memories" count="2"/>
+      <shelf name="early-childhood" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="read-as-a-child" count="2"/>
+      <shelf name="disney-princess-sleeping-beauty" count="2"/>
+      <shelf name="kid-lit" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="princess-books" count="2"/>
+      <shelf name="those-were-the-days" count="2"/>
+      <shelf name="childrens-books-read" count="2"/>
+      <shelf name="movies" count="2"/>
+      <shelf name="for-kids" count="2"/>
+      <shelf name="children-s-literature" count="2"/>
+      <shelf name="childhood-reads" count="2"/>
+      <shelf name="movie" count="2"/>
+      <shelf name="disney-princess" count="2"/>
+      <shelf name="library" count="1"/>
+      <shelf name="paperback" count="1"/>
+      <shelf name="completed" count="1"/>
+      <shelf name="kids-stuff" count="1"/>
+      <shelf name="read-it-many-moons-ago" count="1"/>
+      <shelf name="books-i-have" count="1"/>
+      <shelf name="fables-fairy-tale" count="1"/>
+      <shelf name="fiabe" count="1"/>
+      <shelf name="with-the-children" count="1"/>
+      <shelf name="favorite-childhood-books" count="1"/>
+      <shelf name="when-i-was-a-child" count="1"/>
+      <shelf name="my-library" count="1"/>
+      <shelf name="read-before-age-6" count="1"/>
+      <shelf name="d" count="1"/>
+      <shelf name="love" count="1"/>
+      <shelf name="culturally-diverse-folk-fairytails" count="1"/>
+      <shelf name="children-youth" count="1"/>
+      <shelf name="kid" count="1"/>
+      <shelf name="so-bad-a-cockaroche-vomited" count="1"/>
+      <shelf name="libros-infantiles" count="1"/>
+      <shelf name="chrildren-s-books" count="1"/>
+      <shelf name="books-i-have-read-to-ylva" count="1"/>
+      <shelf name="1" count="1"/>
+      <shelf name="for-children-from-1-to-100" count="1"/>
+      <shelf name="pyper-and-me" count="1"/>
+      <shelf name="mim-on-own" count="1"/>
+      <shelf name="literature" count="1"/>
+      <shelf name="tale" count="1"/>
+      <shelf name="children-literature" count="1"/>
+      <shelf name="childrens-and-young-adult" count="1"/>
+      <shelf name="children-s-stories" count="1"/>
+      <shelf name="libros-fisicos" count="1"/>
+      <shelf name="european-folklore-roots" count="1"/>
+      <shelf name="future-children-s-bookshelf" count="1"/>
+      <shelf name="child-and-such" count="1"/>
+      <shelf name="social-اجتماعية" count="1"/>
+      <shelf name="science-fiction-خيالي" count="1"/>
+      <shelf name="romance-رومانسي" count="1"/>
+      <shelf name="print-books" count="1"/>
+      <shelf name="laurel-books" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>646056</id>
+<title>The Little Mermaid</title>
+<title_without_series>The Little Mermaid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/646056.The_Little_Mermaid]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>632206</id>
+</work>
+<isbn>0307162346</isbn>
+<isbn13>9780307162342</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>22090</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2673</id>
+<name>Michael Teitelbaum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2673.Michael_Teitelbaum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1298205</id>
+<title>Dumbo: A Little Golden Book</title>
+<title_without_series>Dumbo: A Little Golden Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1298205.Dumbo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320426193s/1298205.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320426193m/1298205.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>2770233</id>
+</work>
+<isbn>0736423095</isbn>
+<isbn13>9780736423090</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>23756</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>3510823</id>
+<name>Walt Disney Company</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3510823.Walt_Disney_Company]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14118</id>
+<title>Beauty and the Beast (Disney)</title>
+<title_without_series>Beauty and the Beast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14118.Beauty_and_the_Beast]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395619448s/14118.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395619448m/14118.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>16201</id>
+</work>
+<isbn>0736421971</isbn>
+<isbn13>9780736421973</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>26538</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>8764</id>
+<name>Teddy Slater</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8764.Teddy_Slater]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>594361</id>
+<title><![CDATA[The Lion King: A little Golden Book]]></title>
+<title_without_series><![CDATA[The Lion King: A little Golden Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/594361.The_Lion_King]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320412442s/594361.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320412442m/594361.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>6533130</id>
+</work>
+<isbn>0736420959</isbn>
+<isbn13>9780736420952</isbn13>
+<average_rating>4.46</average_rating>
+<ratings_count>23106</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>303859</id>
+<name>Justine Korman Fontes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/303859.Justine_Korman_Fontes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1335184</id>
+<title><![CDATA[Peter Pan (A Little Golden Book)]]></title>
+<title_without_series>Peter Pan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1335184.Peter_Pan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1324719</id>
+</work>
+<isbn>0307001040</isbn>
+<isbn13>9780307001047</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>38941</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>237097</id>
+<name>Eugene Bradley Coco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/237097.Eugene_Bradley_Coco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1298171</id>
+<title>Finding Nemo</title>
+<title_without_series>Finding Nemo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1298171.Finding_Nemo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1287327</id>
+</work>
+<isbn>1591827582</isbn>
+<isbn13>9781591827580</isbn13>
+<average_rating>4.47</average_rating>
+<ratings_count>12213</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3142503</id>
+<name>Andrew Stanton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3142503.Andrew_Stanton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1563413</id>
+<title>The Three Little Pigs</title>
+<title_without_series>The Three Little Pigs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1563413.The_Three_Little_Pigs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1310278098s/1563413.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1310278098m/1563413.jpg]]></image_url>
+<num_pages>22</num_pages>
+<work>
+<id>1555975</id>
+</work>
+<isbn>0307020916</isbn>
+<isbn13>9780307020918</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>14798</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>727022</id>
+<name>Elizabeth Ross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/727022.Elizabeth_Ross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>437885</id>
+<title><![CDATA[Frosty the Snowman (Frosty the Snowman)]]></title>
+<title_without_series>Frosty the Snowman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/437885.Frosty_the_Snowman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1377635241s/437885.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1377635241m/437885.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>1385651</id>
+</work>
+<isbn>0307960382</isbn>
+<isbn13>9780307960382</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>17601</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>220718</id>
+<name>Diane Muldrow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/220718.Diane_Muldrow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>140131</id>
+<title><![CDATA[The Three Little Pigs (Disney Classic)]]></title>
+<title_without_series>The Three Little Pigs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/140131.The_Three_Little_Pigs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>135094</id>
+</work>
+<isbn>0736423125</isbn>
+<isbn13>9780736423120</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>25548</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>605364</id>
+<name>Al Dempster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/605364.Al_Dempster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1693617</id>
+<title>Disney&apos;s the Lion King</title>
+<title_without_series>Disney&apos;s the Lion King</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1693617.Disney_s_the_Lion_King]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>736980</id>
+</work>
+<isbn>1570820872</isbn>
+<isbn13>9781570820878</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>19569</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>47252</id>
+<name>Don Ferguson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47252.Don_Ferguson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>140130</id>
+<title>The Three Bears</title>
+<title_without_series>The Three Bears</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/140130.The_Three_Bears]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320465012s/140130.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320465012m/140130.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>135093</id>
+</work>
+<isbn>0375825762</isbn>
+<isbn13>9780375825767</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9506</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>475310</id>
+<name>Rob Hefferan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/475310.Rob_Hefferan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1034605</id>
+<title><![CDATA[The Country Mouse and the City Mouse; The Fox and the Crow; The Dog and His Bone]]></title>
+<title_without_series><![CDATA[The Country Mouse and the City Mouse; The Fox and the Crow; The Dog and His Bone]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1034605.The_Country_Mouse_and_the_City_Mouse_The_Fox_and_the_Crow_The_Dog_and_His_Bone]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1020930</id>
+</work>
+<isbn>0307020754</isbn>
+<isbn13></isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>11495</ratings_count>
+<publication_year>1961</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>215867</id>
+<name>Patricia M. Scarry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/215867.Patricia_M_Scarry]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

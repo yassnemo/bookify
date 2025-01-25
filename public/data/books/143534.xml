@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>143534</id>
+  <title>The Gift of the Magi</title>
+  <isbn><![CDATA[141693586X]]></isbn>
+  <isbn13><![CDATA[9781416935865]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0082Z3S3G]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Simon  Schuster Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[One dollar and eight-seven cents is all the money Della has in the world to buy her beloved husband a Christmas present. She has nothing to sell except her only treasure -- her long, beautiful brown hair. Set in New York at the turn of the twentieth century, this classic piece of American literature tells the story of a young couple and the sacrifices each must make to buy the other a gift. Beautiful, delicate watercolors by award-winning illustrator Lisbeth Zwerger add new poignancy and charm to this simple tale about the rewards of unselfish love.]]></description>
+  <work>
+  <id type="integer">171430</id>
+  <books_count type="integer">163</books_count>
+  <best_book_id type="integer">143534</best_book_id>
+  <reviews_count type="integer">93363</reviews_count>
+  <ratings_sum type="integer">287189</ratings_sum>
+  <ratings_count type="integer">70519</ratings_count>
+  <text_reviews_count type="integer">1254</text_reviews_count>
+  <original_publication_year type="integer">1905</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">10</original_publication_day>
+  <original_title>The Gift of the Magi</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:27989|4:24469|3:14169|2:2969|1:923|total:70519</rating_dist>
+  <desc_user_id type="integer">22733635</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[66552]]></ratings_count>
+  <text_reviews_count><![CDATA[982]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/143534.The_Gift_of_the_Magi]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/143534.The_Gift_of_the_Magi]]></link>
+  <authors>
+<author>
+<id>8993</id>
+<name>O. Henry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1183238892p5/8993.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1183238892p2/8993.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8993.O_Henry]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>118564</ratings_count>
+<text_reviews_count>3570</text_reviews_count>
+</author>
+<author>
+<id>34636</id>
+<name>Lisbeth Zwerger</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/34636.Lisbeth_Zwerger]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>86580</ratings_count>
+<text_reviews_count>1836</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/143534.The_Gift_of_the_Magi">The Gift of the Magi Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=141693586X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/143534.The_Gift_of_the_Magi?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3432"/>
+      <shelf name="classics" count="355"/>
+      <shelf name="short-stories" count="245"/>
+      <shelf name="fiction" count="166"/>
+      <shelf name="christmas" count="159"/>
+      <shelf name="currently-reading" count="142"/>
+      <shelf name="favorites" count="88"/>
+      <shelf name="classic" count="88"/>
+      <shelf name="holiday" count="76"/>
+      <shelf name="kindle" count="75"/>
+      <shelf name="young-adult" count="73"/>
+      <shelf name="short-story" count="68"/>
+      <shelf name="school" count="66"/>
+      <shelf name="read-for-school" count="52"/>
+      <shelf name="historical-fiction" count="46"/>
+      <shelf name="american-literature" count="46"/>
+      <shelf name="classic-literature" count="41"/>
+      <shelf name="my-ebooks" count="37"/>
+      <shelf name="american" count="35"/>
+      <shelf name="childhood" count="35"/>
+      <shelf name="ebook" count="32"/>
+      <shelf name="ebooks" count="28"/>
+      <shelf name="picture-books" count="27"/>
+      <shelf name="20th-century" count="26"/>
+      <shelf name="high-school" count="24"/>
+      <shelf name="adult-fiction" count="23"/>
+      <shelf name="romance" count="22"/>
+      <shelf name="english" count="22"/>
+      <shelf name="classic-fiction" count="22"/>
+      <shelf name="school-books" count="21"/>
+      <shelf name="favourites" count="20"/>
+      <shelf name="historical" count="20"/>
+      <shelf name="general-fiction" count="19"/>
+      <shelf name="kindle-books" count="19"/>
+      <shelf name="childhood-favorites" count="19"/>
+      <shelf name="children" count="18"/>
+      <shelf name="read-more-than-once" count="18"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="read-in-school" count="17"/>
+      <shelf name="kids" count="17"/>
+      <shelf name="the-classics" count="17"/>
+      <shelf name="literature" count="16"/>
+      <shelf name="children-s-books" count="15"/>
+      <shelf name="read-in-2014" count="15"/>
+      <shelf name="fantasy" count="15"/>
+      <shelf name="inspirational" count="15"/>
+      <shelf name="drama" count="15"/>
+      <shelf name="school-reads" count="14"/>
+      <shelf name="love" count="14"/>
+      <shelf name="read-in-2015" count="13"/>
+      <shelf name="19th-century" count="13"/>
+      <shelf name="christian" count="13"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="classics-to-read" count="13"/>
+      <shelf name="fiction-classics" count="13"/>
+      <shelf name="novels" count="13"/>
+      <shelf name="all-time-favorites" count="13"/>
+      <shelf name="childrens" count="12"/>
+      <shelf name="o-henry" count="12"/>
+      <shelf name="childhood-books" count="12"/>
+      <shelf name="christmas-reads" count="12"/>
+      <shelf name="required-reading" count="12"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="holidays" count="11"/>
+      <shelf name="book-club" count="11"/>
+      <shelf name="christmas-stories" count="11"/>
+      <shelf name="2015-reading-challenge" count="11"/>
+      <shelf name="4-stars" count="11"/>
+      <shelf name="read-classics" count="11"/>
+      <shelf name="library" count="11"/>
+      <shelf name="1900s" count="11"/>
+      <shelf name="ya" count="11"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="novel" count="10"/>
+      <shelf name="short-fiction" count="10"/>
+      <shelf name="read-in-2011" count="10"/>
+      <shelf name="short" count="10"/>
+      <shelf name="audiobook" count="10"/>
+      <shelf name="classics-read" count="10"/>
+      <shelf name="children-s-lit" count="9"/>
+      <shelf name="holiday-christmas" count="9"/>
+      <shelf name="thought-provoking" count="9"/>
+      <shelf name="literary" count="9"/>
+      <shelf name="e-books" count="9"/>
+      <shelf name="middle-school" count="9"/>
+      <shelf name="bookclub" count="9"/>
+      <shelf name="family" count="9"/>
+      <shelf name="reviewed" count="9"/>
+      <shelf name="books-from-my-childhood" count="9"/>
+      <shelf name="children-s" count="8"/>
+      <shelf name="for-school" count="8"/>
+      <shelf name="adult" count="8"/>
+      <shelf name="short-stories-novellas" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="borrowed" count="8"/>
+      <shelf name="children-s-literature" count="8"/>
+      <shelf name="stories" count="8"/>
+      <shelf name="christmas-books" count="7"/>
+      <shelf name="winter-reads" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>4080</id>
+        <document_url>
+          http://feedbooks.com/book/3504.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>1554931</id>
+<title><![CDATA[Yes, Virginia, There Is A Santa Claus]]></title>
+<title_without_series><![CDATA[Yes, Virginia, There Is A Santa Claus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1554931.Yes_Virginia_There_Is_A_Santa_Claus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328027018s/1554931.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328027018m/1554931.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1547384</id>
+</work>
+<isbn>0762411201</isbn>
+<isbn13>9780762411207</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1695</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>454748</id>
+<name>Francis Pharcellus Church</name>
+<link><![CDATA[https://www.goodreads.com/author/show/454748.Francis_Pharcellus_Church]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>93531</id>
+<title>Christmas Day in the Morning</title>
+<title_without_series>Christmas Day in the Morning</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/93531.Christmas_Day_in_the_Morning]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>90172</id>
+</work>
+<isbn>0688162673</isbn>
+<isbn13>9780688162672</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>1969</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>704</id>
+<name>Pearl S. Buck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/704.Pearl_S_Buck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1992710</id>
+<title><![CDATA[The Story of the Other Wise Man]]></title>
+<title_without_series><![CDATA[The Story of the Other Wise Man]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1992710.The_Story_of_the_Other_Wise_Man]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320494842s/1992710.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320494842m/1992710.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>2757985</id>
+</work>
+<isbn>0345406958</isbn>
+<isbn13>9780345406958</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>1546</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7568</id>
+<name>Henry Van Dyke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7568.Henry_Van_Dyke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>342994</id>
+<title>The Little Match Girl</title>
+<title_without_series>The Little Match Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/342994.The_Little_Match_Girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411481144s/342994.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411481144m/342994.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1773894</id>
+</work>
+<isbn>0439643635</isbn>
+<isbn13>9780439643634</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>17508</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6378</id>
+<name>Hans Christian Andersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6378.Hans_Christian_Andersen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3802</id>
+<title>The Story of Holly and Ivy</title>
+<title_without_series>The Story of Holly and Ivy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3802.The_Story_of_Holly_and_Ivy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2015267</id>
+</work>
+<isbn>0670062197</isbn>
+<isbn13>9780670062195</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>2982</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2572</id>
+<name>Rumer Godden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2572.Rumer_Godden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1434923</id>
+<title><![CDATA[The Christmas Miracle of Jonathan Toomey]]></title>
+<title_without_series><![CDATA[The Christmas Miracle of Jonathan Toomey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1434923.The_Christmas_Miracle_of_Jonathan_Toomey]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1425476</id>
+</work>
+<isbn>0849976820</isbn>
+<isbn13>9780849976827</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>9145</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>164488</id>
+<name>Susan Wojciechowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164488.Susan_Wojciechowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>93818</id>
+<title>The Bird&apos;s Christmas Carol</title>
+<title_without_series>The Bird&apos;s Christmas Carol</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/93818.The_Bird_s_Christmas_Carol]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1908258</id>
+</work>
+<isbn>159462397X</isbn>
+<isbn13>9781594623974</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>905</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8105</id>
+<name>Kate Douglas Wiggin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8105.Kate_Douglas_Wiggin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>900274</id>
+<title><![CDATA[The Year of the Perfect Christmas Tree: An Appalachian Story]]></title>
+<title_without_series><![CDATA[The Year of the Perfect Christmas Tree: An Appalachian Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/900274.The_Year_of_the_Perfect_Christmas_Tree]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>885457</id>
+</work>
+<isbn>0140558772</isbn>
+<isbn13>9780140558777</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>2114</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>172399</id>
+<name>Gloria Houston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172399.Gloria_Houston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2988</id>
+<title><![CDATA[Louisa May Alcott's Christmas Treasury]]></title>
+<title_without_series><![CDATA[Louisa May Alcott's Christmas Treasury]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2988.Louisa_May_Alcott_s_Christmas_Treasury]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6867</id>
+</work>
+<isbn>1589199502</isbn>
+<isbn13>9781589199507</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>587</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1315</id>
+<name>Louisa May Alcott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1315.Louisa_May_Alcott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>835016</id>
+<title>An Orange for Frankie</title>
+<title_without_series>An Orange for Frankie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/835016.An_Orange_for_Frankie]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309204747s/835016.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309204747m/835016.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>820630</id>
+</work>
+<isbn>039924302X</isbn>
+<isbn13>9780399243028</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>926</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>46688</id>
+<name>Patricia Polacco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46688.Patricia_Polacco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26530372</id>
+<title><![CDATA[The Necklace and Other Stories: Maupassant for Modern Times]]></title>
+<title_without_series><![CDATA[The Necklace and Other Stories: Maupassant for Modern Times]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26530372-the-necklace-and-other-stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1467391841s/26530372.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1467391841m/26530372.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>75319</id>
+</work>
+<isbn>163149189X</isbn>
+<isbn13>9781631491894</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>14372</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18791</id>
+<name>Guy de Maupassant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18791.Guy_de_Maupassant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>563820</id>
+<title>A Child&apos;s Christmas in Wales</title>
+<title_without_series>A Child&apos;s Christmas in Wales</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/563820.A_Child_s_Christmas_in_Wales]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>809138</id>
+</work>
+<isbn>0823405656</isbn>
+<isbn13>9780823405657</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>3701</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>57189</id>
+<name>Dylan Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57189.Dylan_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>200337</id>
+<title><![CDATA[The Lady or the Tiger? And, the Discourager of Hesitancy]]></title>
+<title_without_series><![CDATA[The Lady or the Tiger? And, the Discourager of Hesitancy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/200337.The_Lady_or_the_Tiger_And_the_Discourager_of_Hesitancy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1463991742s/200337.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1463991742m/200337.jpg]]></image_url>
+<num_pages>35</num_pages>
+<work>
+<id>14819527</id>
+</work>
+<isbn>0874067987</isbn>
+<isbn13>9780874067989</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>4095</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>4988270</id>
+<name>Frank R. Stockton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4988270.Frank_R_Stockton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>375108</id>
+<title>Miracle on 34th Street</title>
+<title_without_series>Miracle on 34th Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/375108.Miracle_on_34th_Street]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>364978</id>
+</work>
+<isbn>0152163778</isbn>
+<isbn13>9780152163778</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>1354</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>114453</id>
+<name>Valentine Davies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114453.Valentine_Davies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>754690</id>
+<title>Santa&apos;s Favorite Story</title>
+<title_without_series>Santa&apos;s Favorite Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/754690.Santa_s_Favorite_Story]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1450474574s/754690.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1450474574m/754690.jpg]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>740809</id>
+</work>
+<isbn>0689817231</isbn>
+<isbn13>9780689817236</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>348</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>138383</id>
+<name>Hisako Aoki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138383.Hisako_Aoki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42288</id>
+<title><![CDATA[Why Christmas Trees Aren't Perfect]]></title>
+<title_without_series><![CDATA[Why Christmas Trees Aren't Perfect]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42288.Why_Christmas_Trees_Aren_t_Perfect]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>41780</id>
+</work>
+<isbn>0687453631</isbn>
+<isbn13>9780687453634</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>505</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>23800</id>
+<name>Richard H. Schneider</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23800.Richard_H_Schneider]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13263423</id>
+<title><![CDATA[Bring Him Home (Special Forces, #3)]]></title>
+<title_without_series>Bring Him Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13263423-bring-him-home]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331128129s/13263423.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331128129m/13263423.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>18465076</id>
+</work>
+<isbn>0373717849</isbn>
+<isbn13>9780373717842</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>196</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>117418</id>
+<name>Karina Bliss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/117418.Karina_Bliss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76475</id>
+<title><![CDATA[I'll Be Home For Christmas (Toot & Puddle)]]></title>
+<title_without_series>I&apos;ll Be Home For Christmas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76475.I_ll_Be_Home_For_Christmas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>73990</id>
+</work>
+<isbn>1844280012</isbn>
+<isbn13>9781844280018</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>496</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>43494</id>
+<name>Holly Hobbie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43494.Holly_Hobbie]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>27822</id>
+  <title>Eugene Onegin</title>
+  <isbn><![CDATA[0192838997]]></isbn>
+  <isbn13><![CDATA[9780192838995]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B006HCU4UG]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1998</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>22</publication_day>
+  <publisher>Oxford University Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Eugene Onegin is the master work of the poet whom Russians regard as the fountainhead of their literature. Set in imperial Russia during the 1820s, Pushkin's novel in verse follows the emotions and destiny of three men - Onegin the bored fop, Lensky the minor elegiast, and a stylized Pushkin himself - and the fates and affections of three women - Tatyana the provincial beauty, her sister Olga, and Pushkin's mercurial Muse. Engaging, full of suspense, and varied in tone, it also portrays a large cast of other characters and offers the reader many literary, philosophical, and autobiographical digressions, often in a highly satirical vein. Eugene Onegin was Pushkin's own favourite work, and it shows him attempting to transform himself from romantic poet into realistic novelist. This new translation seeks to retain both the literal sense and the poetic music of the original, and capture the poem's spontaneity and wit. The introduction examines several ways of reading the novel, and the text is richly annotated.]]></description>
+  <work>
+  <id type="integer">1795311</id>
+  <books_count type="integer">326</books_count>
+  <best_book_id type="integer">27822</best_book_id>
+  <reviews_count type="integer">66884</reviews_count>
+  <ratings_sum type="integer">154952</ratings_sum>
+  <ratings_count type="integer">37966</ratings_count>
+  <text_reviews_count type="integer">921</text_reviews_count>
+  <original_publication_year type="integer">1833</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Евгений Онегин: Роман в стихах </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:16098|4:11944|3:7376|2:2010|1:538|total:37966</rating_dist>
+  <desc_user_id type="integer">9886802</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.08</average_rating>
+  <num_pages><![CDATA[240]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Oxford World's Classics]]></edition_information>
+  <ratings_count><![CDATA[33265]]></ratings_count>
+  <text_reviews_count><![CDATA[518]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/27822.Eugene_Onegin]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/27822.Eugene_Onegin]]></link>
+  <authors>
+<author>
+<id>16070</id>
+<name>Alexander Pushkin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207346296p5/16070.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207346296p2/16070.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16070.Alexander_Pushkin]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>99969</ratings_count>
+<text_reviews_count>2881</text_reviews_count>
+</author>
+<author>
+<id>369480</id>
+<name>James E. Falen</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/369480.James_E_Falen]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>33683</ratings_count>
+<text_reviews_count>558</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/27822.Eugene_Onegin">Eugene Onegin Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0192838997&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/27822.Eugene_Onegin?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="416"/>
+      <shelf name="romance" count="92"/>
+      <shelf name="poetry" count="75"/>
+      <shelf name="1001-books" count="67"/>
+      <shelf name="favourites" count="47"/>
+      <shelf name="1001" count="41"/>
+      <shelf name="russian" count="37"/>
+      <shelf name="rússia" count="36"/>
+      <shelf name="to-buy" count="36"/>
+      <shelf name="russian-literature" count="34"/>
+      <shelf name="fiction" count="32"/>
+      <shelf name="read-for-school" count="26"/>
+      <shelf name="classics" count="24"/>
+      <shelf name="1001-books-to-read" count="23"/>
+      <shelf name="russians" count="23"/>
+      <shelf name="read-in-russian" count="23"/>
+      <shelf name="novel" count="23"/>
+      <shelf name="1001-books-to-read-before-you-die" count="23"/>
+      <shelf name="1001-import" count="22"/>
+      <shelf name="historical-fiction" count="21"/>
+      <shelf name="translated" count="21"/>
+      <shelf name="to-read-classics" count="20"/>
+      <shelf name="classic" count="18"/>
+      <shelf name="kindle" count="18"/>
+      <shelf name="1800s" count="18"/>
+      <shelf name="school-reading" count="17"/>
+      <shelf name="russian-classic" count="17"/>
+      <shelf name="russian-authors" count="17"/>
+      <shelf name="russian-lit" count="16"/>
+      <shelf name="literary-fiction" count="16"/>
+      <shelf name="for-school" count="15"/>
+      <shelf name="my-library" count="15"/>
+      <shelf name="the-russians" count="15"/>
+      <shelf name="maturita" count="15"/>
+      <shelf name="alexander-pushkin" count="15"/>
+      <shelf name="1001-to-read" count="15"/>
+      <shelf name="literature-russian" count="14"/>
+      <shelf name="in-translation" count="14"/>
+      <shelf name="to-read-fiction" count="14"/>
+      <shelf name="historical" count="14"/>
+      <shelf name="i-own" count="14"/>
+      <shelf name="russian-classics" count="13"/>
+      <shelf name="drama" count="13"/>
+      <shelf name="lektira" count="13"/>
+      <shelf name="favorite" count="13"/>
+      <shelf name="to-reread" count="13"/>
+      <shelf name="adult" count="13"/>
+      <shelf name="romanticism" count="12"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="pushkin" count="12"/>
+      <shelf name="verse" count="12"/>
+      <shelf name="read-in-2013" count="11"/>
+      <shelf name="to-re-read" count="11"/>
+      <shelf name="in-russian" count="11"/>
+      <shelf name="1001-books-you-must-read-before-you" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="poems" count="10"/>
+      <shelf name="nabokov" count="10"/>
+      <shelf name="1830s" count="10"/>
+      <shelf name="novel-in-verse" count="10"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="dnf" count="9"/>
+      <shelf name="default" count="9"/>
+      <shelf name="on-hold" count="9"/>
+      <shelf name="favourite" count="9"/>
+      <shelf name="19th-century-literature" count="9"/>
+      <shelf name="home-library" count="9"/>
+      <shelf name="my-books" count="9"/>
+      <shelf name="penguin-classics" count="9"/>
+      <shelf name="russian-fiction" count="9"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="poesia" count="8"/>
+      <shelf name="classic-fiction" count="8"/>
+      <shelf name="history" count="8"/>
+      <shelf name="school-books" count="8"/>
+      <shelf name="europe" count="8"/>
+      <shelf name="male-author" count="8"/>
+      <shelf name="folio-society" count="8"/>
+      <shelf name="classic-lit" count="8"/>
+      <shelf name="high-school" count="8"/>
+      <shelf name="19th-century-lit" count="8"/>
+      <shelf name="world-literature" count="8"/>
+      <shelf name="translations" count="8"/>
+      <shelf name="adult-fiction" count="8"/>
+      <shelf name="literature" count="7"/>
+      <shelf name="to-get" count="7"/>
+      <shelf name="lit" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="1001-before-you-die" count="7"/>
+      <shelf name="audiobook" count="7"/>
+      <shelf name="klassika" count="7"/>
+      <shelf name="русский" count="7"/>
+      <shelf name="russian-books" count="7"/>
+      <shelf name="rusija" count="7"/>
+      <shelf name="letteratura-russa" count="7"/>
+      <shelf name="favorite-books" count="7"/>
+      <shelf name="read-in-2011" count="7"/>
+      <shelf name="literary" count="7"/>
+      <shelf name="classical-literature" count="7"/>
+      <shelf name="plays" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>197132</id>
+<title>The Collected Poems</title>
+<title_without_series>The Collected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/197132.The_Collected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330669542s/197132.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330669542m/197132.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>190678</id>
+</work>
+<isbn>0970580304</isbn>
+<isbn13>9780970580306</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>3800</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>887400</id>
+<name>Sergei Yesenin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/887400.Sergei_Yesenin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>626685</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/626685.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>1094004</id>
+</work>
+<isbn>0140187596</isbn>
+<isbn13>9780140187595</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>4963</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5786093</id>
+<name>Marina Tsvetaeva</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5786093.Marina_Tsvetaeva]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>97390</id>
+<title>Горе от ума</title>
+<title_without_series>Горе от ума</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/97390._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1342993233s/97390.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1342993233m/97390.jpg]]></image_url>
+<num_pages>206</num_pages>
+<work>
+<id>93879</id>
+</work>
+<isbn>5080039159</isbn>
+<isbn13>9785080039157</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>9698</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14553305</id>
+<name>Aleksandr Griboyedov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14553305.Aleksandr_Griboyedov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>196865</id>
+<title>Demon</title>
+<title_without_series>Demon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/196865.Demon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1423271115s/196865.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1423271115m/196865.jpg]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>3318243</id>
+</work>
+<isbn>1853993166</isbn>
+<isbn13>9781853993169</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>3414</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15538</id>
+<name>Mikhail Lermontov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15538.Mikhail_Lermontov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>822115</id>
+<title><![CDATA[The Complete Poems of Anna Akhmatova]]></title>
+<title_without_series><![CDATA[The Complete Poems of Anna Akhmatova]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/822115.The_Complete_Poems_of_Anna_Akhmatova]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>165211</id>
+</work>
+<isbn>0939010275</isbn>
+<isbn13>9780939010271</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>5893</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>99703</id>
+<name>Anna Akhmatova</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99703.Anna_Akhmatova]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>616052</id>
+<title>On the Eve</title>
+<title_without_series>On the Eve</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/616052.On_the_Eve]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2578778</id>
+</work>
+<isbn>1426450435</isbn>
+<isbn13>9781426450433</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>2148</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>410680</id>
+<name>Ivan Turgenev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410680.Ivan_Turgenev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>106458</id>
+<title>The Selected Poems</title>
+<title_without_series>The Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/106458.The_Selected_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>167</num_pages>
+<work>
+<id>102616</id>
+</work>
+<isbn>1590170911</isbn>
+<isbn13>9781590170915</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>1641</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>61636</id>
+<name>Osip Mandelstam</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61636.Osip_Mandelstam]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>142262</id>
+<title>The Inspector General</title>
+<title_without_series>The Inspector General</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/142262.The_Inspector_General]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415677867s/142262.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415677867m/142262.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1055396</id>
+</work>
+<isbn>0486285006</isbn>
+<isbn13>9780486285009</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>8496</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>232932</id>
+<name>Nikolai Gogol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232932.Nikolai_Gogol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>254308</id>
+<title>Oblomov</title>
+<title_without_series>Oblomov</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/254308.Oblomov]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456384296s/254308.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456384296m/254308.jpg]]></image_url>
+<num_pages>586</num_pages>
+<work>
+<id>1192093</id>
+</work>
+<isbn>1933480092</isbn>
+<isbn13>9781933480091</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21022</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5326370</id>
+<name>Ivan Goncharov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5326370.Ivan_Goncharov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>715995</id>
+<title>The Foundation Pit</title>
+<title_without_series>The Foundation Pit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/715995.The_Foundation_Pit]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1418363439s/715995.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1418363439m/715995.jpg]]></image_url>
+<num_pages>141</num_pages>
+<work>
+<id>702247</id>
+</work>
+<isbn>0810111454</isbn>
+<isbn13>9780810111455</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>2957</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>6454067</id>
+<name>Andrei Platonov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6454067.Andrei_Platonov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1472913</id>
+<title>Олеся: Повесть</title>
+<title_without_series>Олеся: Повесть</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1472913._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1463887</id>
+</work>
+<isbn>5847503377</isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1032</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24951</id>
+<name>Aleksandr Ivanovich Kuprin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24951.Aleksandr_Ivanovich_Kuprin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114610</id>
+<title>The Shooting Party</title>
+<title_without_series>The Shooting Party</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114610.The_Shooting_Party]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1338642845s/114610.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1338642845m/114610.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1453328</id>
+</work>
+<isbn>0140448985</isbn>
+<isbn13>9780140448986</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>852</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>5031025</id>
+<name>Anton Chekhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031025.Anton_Chekhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1268784</id>
+<title>Тёмные аллеи</title>
+<title_without_series>Тёмные аллеи</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1268784._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>2247887</id>
+</work>
+<isbn>5352002373</isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>3502</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14167341</id>
+<name>Ivan Bunin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14167341.Ivan_Bunin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>297165</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/297165.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>288314</id>
+</work>
+<isbn>1857544730</isbn>
+<isbn13>9781857544732</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1050</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>295231</id>
+<name>Alexander Blok</name>
+<link><![CDATA[https://www.goodreads.com/author/show/295231.Alexander_Blok]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>130080</id>
+<title>Red Cavalry</title>
+<title_without_series>Red Cavalry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/130080.Red_Cavalry]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>2684188</id>
+</work>
+<isbn>0393324230</isbn>
+<isbn13>9780393324235</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2257</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>34055</id>
+<name>Isaac Babel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34055.Isaac_Babel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>162259</id>
+<title>The Petty Demon</title>
+<title_without_series>The Petty Demon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162259.The_Petty_Demon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1340739669s/162259.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1340739669m/162259.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>787723</id>
+</work>
+<isbn>0882338080</isbn>
+<isbn13>9780882338088</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1093</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>94099</id>
+<name>Fyodor Sologub</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94099.Fyodor_Sologub]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>184913</id>
+<title>Petersburg</title>
+<title_without_series>Petersburg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/184913.Petersburg]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>3538</id>
+</work>
+<isbn>0253202191</isbn>
+<isbn13>9780253202192</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3413</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>13997171</id>
+<name>Andrei Bely</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13997171.Andrei_Bely]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

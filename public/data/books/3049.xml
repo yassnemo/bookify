@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>3049</id>
+  <title><![CDATA[Sir Gawain and the Green Knight ]]></title>
+  <isbn><![CDATA[0451528182]]></isbn>
+  <isbn13><![CDATA[9780451528186]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1309282183m/3049.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1309282183s/3049.jpg</small_image_url>
+  <publication_year>2001</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day></publication_day>
+  <publisher>Signet Classics</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Written by an anonymous 14th-century poet, this epic poem is recognized as an equal of Chaucer's masterworks and of the great Old English poems, including "Beowulf." This edition includes a Preface by Raffel and a new Introduction. Revised reissue.]]></description>
+  <work>
+  <id type="integer">2954048</id>
+  <books_count type="integer">193</books_count>
+  <best_book_id type="integer">3049</best_book_id>
+  <reviews_count type="integer">60991</reviews_count>
+  <ratings_sum type="integer">157124</ratings_sum>
+  <ratings_count type="integer">42655</ratings_count>
+  <text_reviews_count type="integer">1159</text_reviews_count>
+  <original_publication_year type="integer">1390</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Gawayn and þe Grene Knyȝt</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9590|4:15051|3:13669|2:3618|1:727|total:42655</rating_dist>
+  <desc_user_id type="integer">12538431</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.68</average_rating>
+  <num_pages><![CDATA[144]]></num_pages>
+  <format><![CDATA[Mass Market Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[36489]]></ratings_count>
+  <text_reviews_count><![CDATA[580]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3049.Sir_Gawain_and_the_Green_Knight]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3049.Sir_Gawain_and_the_Green_Knight]]></link>
+  <authors>
+<author>
+<id>4699102</id>
+<name>Unknown</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4699102.Unknown]]></link>
+<average_rating>3.58</average_rating>
+<ratings_count>341844</ratings_count>
+<text_reviews_count>11024</text_reviews_count>
+</author>
+<author>
+<id>8994</id>
+<name>Burton Raffel</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496109412p5/8994.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496109412p2/8994.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8994.Burton_Raffel]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>48603</ratings_count>
+<text_reviews_count>1569</text_reviews_count>
+</author>
+<author>
+<id>1806321</id>
+<name>Neil D. Isaacs</name>
+<role>Afterword</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1806321.Neil_D_Isaacs]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>38719</ratings_count>
+<text_reviews_count>614</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/3049.Sir_Gawain_and_the_Green_Knight">Sir Gawain and the Green Knight Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451528182&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/3049.Sir_Gawain_and_the_Green_Knight?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11048"/>
+      <shelf name="classics" count="1617"/>
+      <shelf name="poetry" count="989"/>
+      <shelf name="fantasy" count="511"/>
+      <shelf name="fiction" count="475"/>
+      <shelf name="medieval" count="242"/>
+      <shelf name="favorites" count="230"/>
+      <shelf name="classic" count="221"/>
+      <shelf name="arthurian" count="210"/>
+      <shelf name="school" count="191"/>
+      <shelf name="currently-reading" count="180"/>
+      <shelf name="mythology" count="169"/>
+      <shelf name="literature" count="166"/>
+      <shelf name="owned" count="131"/>
+      <shelf name="books-i-own" count="105"/>
+      <shelf name="historical-fiction" count="103"/>
+      <shelf name="read-for-school" count="96"/>
+      <shelf name="for-school" count="72"/>
+      <shelf name="medieval-literature" count="65"/>
+      <shelf name="british-literature" count="64"/>
+      <shelf name="history" count="63"/>
+      <shelf name="classic-literature" count="63"/>
+      <shelf name="college" count="61"/>
+      <shelf name="historical" count="61"/>
+      <shelf name="adventure" count="56"/>
+      <shelf name="school-books" count="56"/>
+      <shelf name="british" count="55"/>
+      <shelf name="arthurian-legend" count="54"/>
+      <shelf name="university" count="46"/>
+      <shelf name="english-literature" count="45"/>
+      <shelf name="owned-books" count="43"/>
+      <shelf name="default" count="42"/>
+      <shelf name="library" count="38"/>
+      <shelf name="14th-century" count="37"/>
+      <shelf name="adult" count="36"/>
+      <shelf name="romance" count="34"/>
+      <shelf name="uni" count="33"/>
+      <shelf name="british-lit" count="33"/>
+      <shelf name="england" count="32"/>
+      <shelf name="middle-ages" count="31"/>
+      <shelf name="my-library" count="31"/>
+      <shelf name="king-arthur" count="31"/>
+      <shelf name="required-reading" count="30"/>
+      <shelf name="high-school" count="29"/>
+      <shelf name="arthuriana" count="29"/>
+      <shelf name="english" count="29"/>
+      <shelf name="adult-fiction" count="27"/>
+      <shelf name="for-class" count="26"/>
+      <shelf name="medieval-lit" count="26"/>
+      <shelf name="epic-poetry" count="25"/>
+      <shelf name="middle-english" count="25"/>
+      <shelf name="favourites" count="24"/>
+      <shelf name="school-reads" count="24"/>
+      <shelf name="brit-lit" count="24"/>
+      <shelf name="classic-fiction" count="24"/>
+      <shelf name="school-reading" count="23"/>
+      <shelf name="folklore" count="22"/>
+      <shelf name="classic-lit" count="22"/>
+      <shelf name="read-in-2015" count="20"/>
+      <shelf name="english-lit" count="20"/>
+      <shelf name="literary-fiction" count="19"/>
+      <shelf name="read-in-school" count="19"/>
+      <shelf name="kindle" count="17"/>
+      <shelf name="read-in-2016" count="17"/>
+      <shelf name="myth" count="17"/>
+      <shelf name="epic" count="17"/>
+      <shelf name="short-stories" count="16"/>
+      <shelf name="translated" count="16"/>
+      <shelf name="epics" count="16"/>
+      <shelf name="magic" count="15"/>
+      <shelf name="novels" count="15"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="translation" count="14"/>
+      <shelf name="re-read" count="14"/>
+      <shelf name="read-in-english" count="13"/>
+      <shelf name="classics-to-read" count="13"/>
+      <shelf name="the-classics" count="13"/>
+      <shelf name="own-it" count="13"/>
+      <shelf name="novel" count="13"/>
+      <shelf name="myths-and-legends" count="13"/>
+      <shelf name="i-own" count="13"/>
+      <shelf name="to-read-classics" count="13"/>
+      <shelf name="read-in-2017" count="12"/>
+      <shelf name="read-in-2014" count="12"/>
+      <shelf name="books" count="12"/>
+      <shelf name="literary" count="12"/>
+      <shelf name="tolkien" count="12"/>
+      <shelf name="ap-reading" count="11"/>
+      <shelf name="read-in-2012" count="11"/>
+      <shelf name="audiobook" count="11"/>
+      <shelf name="read-for-class" count="11"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="classics-read" count="11"/>
+      <shelf name="undergrad" count="11"/>
+      <shelf name="uk" count="11"/>
+      <shelf name="classical" count="11"/>
+      <shelf name="academic" count="11"/>
+      <shelf name="in-translation" count="10"/>
+      <shelf name="read-in-2013" count="10"/>
+      <shelf name="medieval-studies" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>449589</id>
+<title>Arthurian Romances</title>
+<title_without_series>Arthurian Romances</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/449589.Arthurian_Romances]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1427408076s/449589.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1427408076m/449589.jpg]]></image_url>
+<num_pages>521</num_pages>
+<work>
+<id>438235</id>
+</work>
+<isbn>0140445218</isbn>
+<isbn13>9780140445213</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>6496</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>20903</id>
+<name>Chrétien de Troyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20903.Chr_tien_de_Troyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119079</id>
+<title>The Lais of Marie de France</title>
+<title_without_series>The Lais of Marie de France</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119079.The_Lais_of_Marie_de_France]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331917315s/119079.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331917315m/119079.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>114648</id>
+</work>
+<isbn>0140447598</isbn>
+<isbn13>9780140447590</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5154</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>69010</id>
+<name>Marie de France</name>
+<link><![CDATA[https://www.goodreads.com/author/show/69010.Marie_de_France]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>820905</id>
+<title>Troilus and Criseyde</title>
+<title_without_series>Troilus and Criseyde</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/820905.Troilus_and_Criseyde]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>23894393</id>
+</work>
+<isbn>0140442391</isbn>
+<isbn13>9780140442397</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>5078</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1838</id>
+<name>Geoffrey Chaucer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1838.Geoffrey_Chaucer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>672875</id>
+<title><![CDATA[Le Morte d'Arthur: King Arthur and the Legends of the Round Table]]></title>
+<title_without_series><![CDATA[Le Morte d'Arthur: King Arthur and the Legends of the Round Table]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/672875.Le_Morte_d_Arthur]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309288301s/672875.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309288301m/672875.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>1361856</id>
+</work>
+<isbn>0451528166</isbn>
+<isbn13>9780451528162</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>29715</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53519</id>
+<name>Thomas Malory</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53519.Thomas_Malory]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1617551</id>
+<title>The Arthurian Encyclopedia</title>
+<title_without_series>The Arthurian Encyclopedia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1617551.The_Arthurian_Encyclopedia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>649</num_pages>
+<work>
+<id>1611441</id>
+</work>
+<isbn>0872261646</isbn>
+<isbn13>9780872261648</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>163</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>74686</id>
+<name>Norris J. Lacy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74686.Norris_J_Lacy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1430767</id>
+<title><![CDATA[King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative Morte Arthure]]></title>
+<title_without_series><![CDATA[King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative Morte Arthure]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1430767.King_Arthur_s_Death]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1367208865s/1430767.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1367208865m/1430767.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>1421285</id>
+</work>
+<isbn>1879288389</isbn>
+<isbn13>9781879288386</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>143</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12187</id>
+<name>Larry Dean Benson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12187.Larry_Dean_Benson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>393636</id>
+<title>Idylls of the King</title>
+<title_without_series>Idylls of the King</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/393636.Idylls_of_the_King]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380979896s/393636.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380979896m/393636.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>937372</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>7981</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>13638502</id>
+<name>Alfred Tennyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13638502.Alfred_Tennyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>560089</id>
+<title>Parzival</title>
+<title_without_series>Parzival</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/560089.Parzival]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391395347s/560089.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391395347m/560089.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>547250</id>
+</work>
+<isbn>0140443614</isbn>
+<isbn13>9780140443615</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>2506</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>69171</id>
+<name>Wolfram von Eschenbach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/69171.Wolfram_von_Eschenbach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>429679</id>
+<title>Piers Plowman</title>
+<title_without_series>Piers Plowman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/429679.Piers_Plowman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>644</num_pages>
+<work>
+<id>418664</id>
+</work>
+<isbn>0393975592</isbn>
+<isbn13>9780393975598</isbn13>
+<average_rating>3.40</average_rating>
+<ratings_count>2169</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>242147</id>
+<name>William Langland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/242147.William_Langland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75586</id>
+<title><![CDATA[The Táin: From the Irish epic Táin Bó Cúailnge]]></title>
+<title_without_series><![CDATA[The Táin: From the Irish epic Táin Bó Cúailnge]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75586.The_T_in]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>1637</id>
+</work>
+<isbn>0192803735</isbn>
+<isbn13>9780192803733</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2830</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>765427</id>
+<title>The Faerie Queene </title>
+<title_without_series>The Faerie Queene</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/765427.The_Faerie_Queene]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328308492s/765427.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328308492m/765427.jpg]]></image_url>
+<num_pages>1248</num_pages>
+<work>
+<id>19904</id>
+</work>
+<isbn>0140422072</isbn>
+<isbn13>9780140422078</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>13765</ratings_count>
+<publication_year>1978</publication_year>
+<publication_month>6</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>11145</id>
+<name>Edmund Spenser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11145.Edmund_Spenser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>129521</id>
+<title><![CDATA[The History of the Kings of Britain]]></title>
+<title_without_series><![CDATA[The History of the Kings of Britain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/129521.The_History_of_the_Kings_of_Britain]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456245951s/129521.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456245951m/129521.jpg]]></image_url>
+<num_pages>373</num_pages>
+<work>
+<id>124745</id>
+</work>
+<isbn>0140441700</isbn>
+<isbn13>9780140441703</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>4686</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>74480</id>
+<name>Geoffrey of Monmouth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74480.Geoffrey_of_Monmouth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>186677</id>
+<title><![CDATA[Tristan: With the Tristran of Thomas]]></title>
+<title_without_series><![CDATA[Tristan: With the Tristran of Thomas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/186677.Tristan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>180450</id>
+</work>
+<isbn></isbn>
+<isbn13>9780140440980</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>1346</ratings_count>
+<publication_year>1960</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>108726</id>
+<name>Gottfried von Straßburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108726.Gottfried_von_Stra_burg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>151390</id>
+<title><![CDATA[The Letters of Abélard and Héloïse]]></title>
+<title_without_series><![CDATA[The Letters of Abélard and Héloïse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/151390.The_Letters_of_Ab_lard_and_H_lo_se]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>954409</id>
+</work>
+<isbn>0140448993</isbn>
+<isbn13>9780140448993</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>3424</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>221468</id>
+<name>Héloïse d&apos;Argenteuil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/221468.H_lo_se_d_Argenteuil]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>133951</id>
+<title><![CDATA[Tales from Ovid: 24 Passages from the Metamorphoses]]></title>
+<title_without_series><![CDATA[Tales from Ovid: 24 Passages from the Metamorphoses]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/133951.Tales_from_Ovid]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317791638s/133951.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317791638m/133951.jpg]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>34981901</id>
+</work>
+<isbn>0374525870</isbn>
+<isbn13>9780374525873</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>1605</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1127</id>
+<name>Ovid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1127.Ovid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>645625</id>
+<title><![CDATA[The Anglo-Saxon World: An Anthology]]></title>
+<title_without_series><![CDATA[The Anglo-Saxon World: An Anthology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/645625.The_Anglo_Saxon_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>631784</id>
+</work>
+<isbn>0192835475</isbn>
+<isbn13>9780192835475</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>570</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>13878</id>
+<name>Kevin Crossley-Holland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13878.Kevin_Crossley_Holland]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

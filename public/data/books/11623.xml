@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11623</id>
+  <title><![CDATA[The Unabridged Journals of Sylvia Plath]]></title>
+  <isbn><![CDATA[0385720254]]></isbn>
+  <isbn13><![CDATA[9780385720250]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1473939372m/11623.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473939372s/11623.jpg</small_image_url>
+  <publication_year>2000</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Anchor</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[First U.S. Publication<br /><br />A major literary event--the complete, uncensored journals of Sylvia Plath, published in their entirety for the first time.<br /><br />Sylvia Plath's journals were originally published in 1982 in a heavily abridged version authorized by Plath's husband, Ted Hughes. This new edition is an exact and complete transcription of the diaries Plath kept during the last twelve years of her life. Sixty percent of the book is material that has never before been made public, more fully revealing the intensity of the poet's personal and literary struggles, and providing fresh insight into both her frequent desperation and the bravery with which she faced down her demons. The complete Journals of Sylvia Plath is essential reading for all who have been moved and fascinated by Plath's life and work.]]></description>
+  <work>
+  <id type="integer">3094683</id>
+  <books_count type="integer">42</books_count>
+  <best_book_id type="integer">11623</best_book_id>
+  <reviews_count type="integer">55266</reviews_count>
+  <ratings_sum type="integer">61014</ratings_sum>
+  <ratings_count type="integer">14222</ratings_count>
+  <text_reviews_count type="integer">517</text_reviews_count>
+  <original_publication_year type="integer">1982</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Journals of Sylvia Plath</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7056|4:4763|3:1973|2:333|1:97|total:14222</rating_dist>
+  <desc_user_id type="integer">15822735</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.29</average_rating>
+  <num_pages><![CDATA[732]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12422]]></ratings_count>
+  <text_reviews_count><![CDATA[388]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11623.The_Unabridged_Journals_of_Sylvia_Plath]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11623.The_Unabridged_Journals_of_Sylvia_Plath]]></link>
+  <authors>
+<author>
+<id>4379</id>
+<name>Sylvia Plath</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373572652p5/4379.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373572652p2/4379.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4379.Sylvia_Plath]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>549973</ratings_count>
+<text_reviews_count>19379</text_reviews_count>
+</author>
+<author>
+<id>503412</id>
+<name>Karen V. Kukil</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/503412.Karen_V_Kukil]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>12775</ratings_count>
+<text_reviews_count>412</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11623.The_Unabridged_Journals_of_Sylvia_Plath">The Unabridged Journals of Sylvia Plath Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385720254&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/11623.The_Unabridged_Journals_of_Sylvia_Plath?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10859"/>
+      <shelf name="currently-reading" count="679"/>
+      <shelf name="nonfiction" count="231"/>
+      <shelf name="non-fiction" count="155"/>
+      <shelf name="memoir" count="155"/>
+      <shelf name="books-i-own" count="142"/>
+      <shelf name="favorites" count="128"/>
+      <shelf name="rory-gilmore-reading-challenge" count="117"/>
+      <shelf name="classics" count="116"/>
+      <shelf name="to-buy" count="81"/>
+      <shelf name="memoirs" count="76"/>
+      <shelf name="rory-gilmore-challenge" count="73"/>
+      <shelf name="rory-gilmore" count="56"/>
+      <shelf name="owned-books" count="54"/>
+      <shelf name="poetry" count="52"/>
+      <shelf name="favourites" count="49"/>
+      <shelf name="biography-memoir" count="48"/>
+      <shelf name="owned" count="42"/>
+      <shelf name="gilmore-girls" count="42"/>
+      <shelf name="diaries" count="40"/>
+      <shelf name="biography" count="39"/>
+      <shelf name="rory-gilmore-reading-list" count="39"/>
+      <shelf name="mental-health" count="37"/>
+      <shelf name="wish-list" count="35"/>
+      <shelf name="on-hold" count="32"/>
+      <shelf name="feminism" count="30"/>
+      <shelf name="psychology" count="28"/>
+      <shelf name="abandoned" count="26"/>
+      <shelf name="unfinished" count="26"/>
+      <shelf name="gilmore-girls-reading-list" count="24"/>
+      <shelf name="diary" count="24"/>
+      <shelf name="women" count="21"/>
+      <shelf name="journals" count="20"/>
+      <shelf name="library" count="20"/>
+      <shelf name="journal" count="20"/>
+      <shelf name="i-own" count="20"/>
+      <shelf name="autobiography" count="19"/>
+      <shelf name="memoir-biography" count="19"/>
+      <shelf name="to-read-non-fiction" count="17"/>
+      <shelf name="biographical" count="17"/>
+      <shelf name="sylvia-plath" count="16"/>
+      <shelf name="mental-illness" count="16"/>
+      <shelf name="gilmore" count="16"/>
+      <shelf name="rory-gilmore-book-challenge" count="16"/>
+      <shelf name="american-literature" count="16"/>
+      <shelf name="classic" count="16"/>
+      <shelf name="my-library" count="15"/>
+      <shelf name="20th-century" count="15"/>
+      <shelf name="literature" count="14"/>
+      <shelf name="writing" count="14"/>
+      <shelf name="biographies" count="14"/>
+      <shelf name="kindle" count="14"/>
+      <shelf name="adult" count="14"/>
+      <shelf name="fiction" count="14"/>
+      <shelf name="biographies-memoirs" count="13"/>
+      <shelf name="female-authors" count="12"/>
+      <shelf name="the-rory-gilmore-reading-challenge" count="12"/>
+      <shelf name="books-to-buy" count="12"/>
+      <shelf name="need-to-buy" count="12"/>
+      <shelf name="rory-gilmore-book-list" count="12"/>
+      <shelf name="bio-memoir" count="12"/>
+      <shelf name="buy" count="11"/>
+      <shelf name="feminist" count="11"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="english" count="11"/>
+      <shelf name="gilmore-girls-reading-challenge" count="11"/>
+      <shelf name="depression" count="11"/>
+      <shelf name="american" count="10"/>
+      <shelf name="rory-gilmore-list" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="women-writers" count="10"/>
+      <shelf name="non-fic" count="10"/>
+      <shelf name="own-to-read" count="10"/>
+      <shelf name="memoirs-and-biographies" count="10"/>
+      <shelf name="bio" count="10"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="gilmore-challenge" count="9"/>
+      <shelf name="must-read" count="9"/>
+      <shelf name="to-read-own" count="9"/>
+      <shelf name="rory" count="9"/>
+      <shelf name="paused" count="9"/>
+      <shelf name="biography-autobiography" count="9"/>
+      <shelf name="did-not-finish" count="9"/>
+      <shelf name="favorite" count="9"/>
+      <shelf name="autobiographical" count="9"/>
+      <shelf name="essays" count="9"/>
+      <shelf name="to-read-nonfiction" count="9"/>
+      <shelf name="gg" count="9"/>
+      <shelf name="default" count="8"/>
+      <shelf name="ebook" count="8"/>
+      <shelf name="gilmore-girls-challenge" count="8"/>
+      <shelf name="non-fiction-to-read" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="rory-gilmore-s-reading-challenge" count="8"/>
+      <shelf name="started" count="8"/>
+      <shelf name="memoir-bio" count="8"/>
+      <shelf name="autobiography-memoir" count="8"/>
+      <shelf name="suicide" count="8"/>
+      <shelf name="biographies-and-memoirs" count="8"/>
+      <shelf name="dnf" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11630</id>
+<title><![CDATA[Rough Magic: A Biography of Sylvia Plath]]></title>
+<title_without_series><![CDATA[Rough Magic: A Biography of Sylvia Plath]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11630.Rough_Magic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>402</num_pages>
+<work>
+<id>526332</id>
+</work>
+<isbn>0306812991</isbn>
+<isbn13>9780306812996</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1465</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>3477</id>
+<name>Paul Alexander</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3477.Paul_Alexander]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31412</id>
+<title><![CDATA[Her Husband: Ted Hughes and Sylvia Plath - A Marriage]]></title>
+<title_without_series><![CDATA[Her Husband: Ted Hughes and Sylvia Plath - A Marriage]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31412.Her_Husband]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>3154240</id>
+</work>
+<isbn>0142004871</isbn>
+<isbn13>9780142004876</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1461</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>17577</id>
+<name>Diane Wood Middlebrook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17577.Diane_Wood_Middlebrook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31415</id>
+<title><![CDATA[Bitter Fame: A Life of Sylvia Plath]]></title>
+<title_without_series><![CDATA[Bitter Fame: A Life of Sylvia Plath]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31415.Bitter_Fame]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>413</num_pages>
+<work>
+<id>31669</id>
+</work>
+<isbn>0395937604</isbn>
+<isbn13>9780395937600</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>924</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>17581</id>
+<name>Anne Stevenson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17581.Anne_Stevenson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47735</id>
+<title><![CDATA[Anne Sexton: A Self-Portrait in Letters]]></title>
+<title_without_series><![CDATA[Anne Sexton: A Self-Portrait in Letters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47735.Anne_Sexton]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382943828s/47735.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382943828m/47735.jpg]]></image_url>
+<num_pages>433</num_pages>
+<work>
+<id>113854</id>
+</work>
+<isbn>0618492429</isbn>
+<isbn13>9780618492428</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1435</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>26814</id>
+<name>Anne Sexton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26814.Anne_Sexton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>572268</id>
+<title><![CDATA[The Vanishing Newspaper: Saving Journalism in the Information Age]]></title>
+<title_without_series><![CDATA[The Vanishing Newspaper: Saving Journalism in the Information Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/572268.The_Vanishing_Newspaper]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>559296</id>
+</work>
+<isbn>0826215688</isbn>
+<isbn13>9780826215680</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>193</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>312780</id>
+<name>Philip Meyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/312780.Philip_Meyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11638</id>
+<title><![CDATA[Ariel's Gift: Ted Hughes, Sylvia Plath, and the Story of Birthday Letters]]></title>
+<title_without_series><![CDATA[Ariel's Gift: Ted Hughes, Sylvia Plath, and the Story of Birthday Letters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11638.Ariel_s_Gift]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404963340s/11638.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404963340m/11638.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>14059</id>
+</work>
+<isbn>0393323013</isbn>
+<isbn13>9780393323016</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>455</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>7449</id>
+<name>Erica Wagner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7449.Erica_Wagner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31414</id>
+<title><![CDATA[Lover of Unreason: Assia Wevill, Sylvia Plath's Rival and Ted Hughes' Doomed Love]]></title>
+<title_without_series><![CDATA[Lover of Unreason: Assia Wevill, Sylvia Plath's Rival and Ted Hughes' Doomed Love]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31414.Lover_of_Unreason]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>31668</id>
+</work>
+<isbn>0786718617</isbn>
+<isbn13>9780786718610</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>692</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>17580</id>
+<name>Yehuda Koren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17580.Yehuda_Koren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14948</id>
+<title>A Writer&apos;s Diary</title>
+<title_without_series>A Writer&apos;s Diary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14948.A_Writer_s_Diary]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>568491</id>
+</work>
+<isbn>0156027917</isbn>
+<isbn13>9780156027915</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>3259</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6765</id>
+<name>Virginia Woolf</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6765.Virginia_Woolf]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92295</id>
+<title>Selected Letters, 1913-1965</title>
+<title_without_series>Selected Letters, 1913-1965</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92295.Selected_Letters_1913_1965]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>1362089</id>
+</work>
+<isbn>0805065059</isbn>
+<isbn13>9780805065053</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>116</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53013</id>
+<name>Dawn Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53013.Dawn_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>147371</id>
+<title><![CDATA[The Silent Woman: Sylvia Plath and Ted Hughes]]></title>
+<title_without_series><![CDATA[The Silent Woman: Sylvia Plath and Ted Hughes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/147371.The_Silent_Woman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320541001s/147371.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320541001m/147371.jpg]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>3816</id>
+</work>
+<isbn>0679751408</isbn>
+<isbn13>9780679751403</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1523</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>7446</id>
+<name>Janet Malcolm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7446.Janet_Malcolm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15803048</id>
+<title><![CDATA[Mad Girl's Love Song: Sylvia Plath and Life Before Ted]]></title>
+<title_without_series><![CDATA[Mad Girl's Love Song: Sylvia Plath and Life Before Ted]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15803048-mad-girl-s-love-song]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354847118s/15803048.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354847118m/15803048.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>21526976</id>
+</work>
+<isbn>1476710317</isbn>
+<isbn13>9781476710310</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>763</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>8521317</id>
+<name>Andrew    Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8521317.Andrew_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>89840</id>
+<title><![CDATA[Secrets of the Flesh: A Life of Colette]]></title>
+<title_without_series><![CDATA[Secrets of the Flesh: A Life of Colette]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/89840.Secrets_of_the_Flesh]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320509735s/89840.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320509735m/89840.jpg]]></image_url>
+<num_pages>660</num_pages>
+<work>
+<id>1004997</id>
+</work>
+<isbn>0345371038</isbn>
+<isbn13>9780345371034</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1186</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>14851</id>
+<name>Judith Thurman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14851.Judith_Thurman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>300841</id>
+<title>A Mencken Chrestomathy</title>
+<title_without_series>A Mencken Chrestomathy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/300841.A_Mencken_Chrestomathy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405980870s/300841.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405980870m/300841.jpg]]></image_url>
+<num_pages>627</num_pages>
+<work>
+<id>291910</id>
+</work>
+<isbn>0394752090</isbn>
+<isbn13>9780394752099</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1193</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>7805</id>
+<name>H.L. Mencken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7805.H_L_Mencken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11629</id>
+<title><![CDATA[Sylvia Plath: Method and Madness]]></title>
+<title_without_series><![CDATA[Sylvia Plath: Method and Madness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11629.Sylvia_Plath]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>408</num_pages>
+<work>
+<id>14051</id>
+</work>
+<isbn>0971059829</isbn>
+<isbn13>9780971059825</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>353</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7445</id>
+<name>Edward Butscher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7445.Edward_Butscher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99374</id>
+<title>Sylvia Plath: A Biography</title>
+<title_without_series>Sylvia Plath: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99374.Sylvia_Plath]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312006639s/99374.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312006639m/99374.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>95803</id>
+</work>
+<isbn>0312023251</isbn>
+<isbn13>9780312023256</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>897</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4380</id>
+<name>Linda Wagner-Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4380.Linda_Wagner_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>181082</id>
+<title>The Haunting of Sylvia Plath</title>
+<title_without_series>The Haunting of Sylvia Plath</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/181082.The_Haunting_of_Sylvia_Plath]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>174976</id>
+</work>
+<isbn>0674382269</isbn>
+<isbn13>9780674382268</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>192</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>88933</id>
+<name>Jacqueline Rose</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88933.Jacqueline_Rose]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>379255</id>
+<title>Monsieur Proust</title>
+<title_without_series>Monsieur Proust</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/379255.Monsieur_Proust]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320487419s/379255.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320487419m/379255.jpg]]></image_url>
+<num_pages>456</num_pages>
+<work>
+<id>369072</id>
+</work>
+<isbn>1590170598</isbn>
+<isbn13>9781590170595</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>1214160</id>
+<name>Céleste Albaret</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1214160.C_leste_Albaret]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>111723</id>
+<title>Pushkin: A Biography</title>
+<title_without_series>Pushkin: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/111723.Pushkin]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320457613s/111723.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320457613m/111723.jpg]]></image_url>
+<num_pages>784</num_pages>
+<work>
+<id>1222352</id>
+</work>
+<isbn>1400076528</isbn>
+<isbn13>9781400076529</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>259</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>64626</id>
+<name>T.J. Binyon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64626.T_J_Binyon]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

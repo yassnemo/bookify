@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>375901</id>
+  <title>Frédéric</title>
+  <isbn><![CDATA[2211065899]]></isbn>
+  <isbn13><![CDATA[9782211065894]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1329956148m/375901.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1329956148s/375901.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>L'École des loisirs</publisher>
+  <language_code>fre</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[While other mice are gathering food for the winter, Frederick seems to daydream the summer away. When dreary winter comes, it is Frederick the poet-mouse who warms his friends and cheers them with his words.]]></description>
+  <work>
+  <id type="integer">1920769</id>
+  <books_count type="integer">53</books_count>
+  <best_book_id type="integer">375901</best_book_id>
+  <reviews_count type="integer">21789</reviews_count>
+  <ratings_sum type="integer">73192</ratings_sum>
+  <ratings_count type="integer">17485</ratings_count>
+  <text_reviews_count type="integer">401</text_reviews_count>
+  <original_publication_year type="integer">1967</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Frederick</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8283|4:5194|3:3186|2:621|1:201|total:17485</rating_dist>
+  <desc_user_id type="integer">20524234</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.19</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[Petite Bibliothèque]]></edition_information>
+  <ratings_count><![CDATA[16227]]></ratings_count>
+  <text_reviews_count><![CDATA[208]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/375901.Fr_d_ric]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/375901.Fr_d_ric]]></link>
+  <authors>
+<author>
+<id>32804</id>
+<name>Leo Lionni</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1212699342p5/32804.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1212699342p2/32804.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32804.Leo_Lionni]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>81108</ratings_count>
+<text_reviews_count>3052</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/375901.Fr_d_ric">Frédéric Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=2211065899&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/375901.Fr_d_ric?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="685"/>
+      <shelf name="picture-books" count="362"/>
+      <shelf name="childrens" count="178"/>
+      <shelf name="children-s-books" count="152"/>
+      <shelf name="caldecott" count="129"/>
+      <shelf name="children-s" count="106"/>
+      <shelf name="picture-book" count="87"/>
+      <shelf name="childrens-books" count="73"/>
+      <shelf name="kids" count="66"/>
+      <shelf name="favorites" count="65"/>
+      <shelf name="kids-books" count="47"/>
+      <shelf name="fiction" count="44"/>
+      <shelf name="animals" count="43"/>
+      <shelf name="currently-reading" count="37"/>
+      <shelf name="caldecott-honor" count="34"/>
+      <shelf name="caldecott-books" count="33"/>
+      <shelf name="children-s-literature" count="31"/>
+      <shelf name="classics" count="28"/>
+      <shelf name="poetry" count="24"/>
+      <shelf name="children-s-lit" count="22"/>
+      <shelf name="mice" count="21"/>
+      <shelf name="childhood" count="21"/>
+      <shelf name="leo-lionni" count="19"/>
+      <shelf name="default" count="18"/>
+      <shelf name="winter" count="18"/>
+      <shelf name="fantasy" count="17"/>
+      <shelf name="picture" count="17"/>
+      <shelf name="children-books" count="16"/>
+      <shelf name="children-s-picture-books" count="16"/>
+      <shelf name="seasons" count="15"/>
+      <shelf name="caldecott-winners" count="14"/>
+      <shelf name="childrens-picture-books" count="14"/>
+      <shelf name="childrens-lit" count="14"/>
+      <shelf name="preschool" count="13"/>
+      <shelf name="library" count="13"/>
+      <shelf name="caldecotts" count="12"/>
+      <shelf name="read-aloud" count="12"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="storytime" count="10"/>
+      <shelf name="owned" count="10"/>
+      <shelf name="childrens-literature" count="9"/>
+      <shelf name="classic" count="9"/>
+      <shelf name="kiddos" count="9"/>
+      <shelf name="juvenile" count="9"/>
+      <shelf name="school" count="8"/>
+      <shelf name="caldecott-award" count="8"/>
+      <shelf name="imagination" count="8"/>
+      <shelf name="02-fantasy" count="7"/>
+      <shelf name="infantil" count="7"/>
+      <shelf name="1st-grade" count="7"/>
+      <shelf name="caldecott-challenge" count="7"/>
+      <shelf name="family" count="7"/>
+      <shelf name="children-young-adult" count="7"/>
+      <shelf name="childhood-favorites" count="7"/>
+      <shelf name="children-s-book" count="7"/>
+      <shelf name="children" count="6"/>
+      <shelf name="children-picture-books" count="6"/>
+      <shelf name="award-winner" count="6"/>
+      <shelf name="kid-books" count="6"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="kid-s-books" count="6"/>
+      <shelf name="mouse" count="6"/>
+      <shelf name="art" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="mensa-k-3" count="5"/>
+      <shelf name="creativity" count="5"/>
+      <shelf name="311" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="caldecott-honors" count="5"/>
+      <shelf name="classroom-library" count="5"/>
+      <shelf name="favorite" count="5"/>
+      <shelf name="illustrated" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="autumn" count="5"/>
+      <shelf name="animal" count="5"/>
+      <shelf name="award-winners" count="5"/>
+      <shelf name="first-grade" count="5"/>
+      <shelf name="fall" count="5"/>
+      <shelf name="read-as-a-child" count="5"/>
+      <shelf name="2nd-grade" count="5"/>
+      <shelf name="to-read-picture-books" count="5"/>
+      <shelf name="caldecott-honor-books" count="5"/>
+      <shelf name="classroom-books" count="5"/>
+      <shelf name="juvenile-fiction" count="5"/>
+      <shelf name="childrensbooks" count="5"/>
+      <shelf name="all-time-favorites" count="5"/>
+      <shelf name="edrd-314" count="4"/>
+      <shelf name="read-kids" count="4"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="kids-read" count="4"/>
+      <shelf name="classroom" count="4"/>
+      <shelf name="friendship" count="4"/>
+      <shelf name="format-picture-book" count="4"/>
+      <shelf name="g-fantasy" count="4"/>
+      <shelf name="ece-3601" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="my-childhood" count="4"/>
+      <shelf name="books-for-children" count="4"/>
+      <shelf name="kinderbücher" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>162720</id>
+<title><![CDATA[Ella Sarah Gets Dressed (Caldecott Honor Book)]]></title>
+<title_without_series>Ella Sarah Gets Dressed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162720.Ella_Sarah_Gets_Dressed]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876188s/162720.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876188m/162720.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>157067</id>
+</work>
+<isbn>0152164138</isbn>
+<isbn13>9780152164133</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>1830</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>28385</id>
+<name>Margaret Chodos-Irvine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28385.Margaret_Chodos_Irvine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>308238</id>
+<title><![CDATA[Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride]]></title>
+<title_without_series><![CDATA[Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/308238.Hot_Air]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>299195</id>
+</work>
+<isbn>0689826427</isbn>
+<isbn13>9780689826429</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1119</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>89281</id>
+<name>Marjorie Priceman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89281.Marjorie_Priceman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6121819</id>
+<title><![CDATA[Red Sings from Treetops: A Year in Colors]]></title>
+<title_without_series><![CDATA[Red Sings from Treetops: A Year in Colors]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6121819-red-sings-from-treetops]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1305234101s/6121819.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1305234101m/6121819.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>6300118</id>
+</work>
+<isbn>0547014945</isbn>
+<isbn13>9780547014944</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2438</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>386001</id>
+<name>Joyce Sidman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/386001.Joyce_Sidman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>136943</id>
+<title><![CDATA[Gone Wild: An Endangered Animal Alphabet]]></title>
+<title_without_series><![CDATA[Gone Wild: An Endangered Animal Alphabet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/136943.Gone_Wild]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382758887s/136943.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382758887m/136943.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>131977</id>
+</work>
+<isbn>0802795633</isbn>
+<isbn13>9780802795632</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>895</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>79234</id>
+<name>David McLimans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79234.David_McLimans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1065303</id>
+<title>Noah&apos;s Ark</title>
+<title_without_series>Noah&apos;s Ark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1065303.Noah_s_Ark]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2324758</id>
+</work>
+<isbn>1587172011</isbn>
+<isbn13>9781587172014</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1280</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>70868</id>
+<name>Jerry Pinkney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70868.Jerry_Pinkney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29313</id>
+<title>Sector 7</title>
+<title_without_series>Sector 7</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29313.Sector_7]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1406949029s/29313.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1406949029m/29313.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>29775</id>
+</work>
+<isbn>0395746566</isbn>
+<isbn13>9780395746561</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>4390</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16461</id>
+<name>David Wiesner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16461.David_Wiesner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1507001</id>
+<title>The Stray Dog</title>
+<title_without_series>The Stray Dog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1507001.The_Stray_Dog]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1267291311s/1507001.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1267291311m/1507001.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1498528</id>
+</work>
+<isbn>0439442540</isbn>
+<isbn13>9780439442541</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2353</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34161</id>
+<name>Marc Simont</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34161.Marc_Simont]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>762459</id>
+<title>Ben&apos;s Trumpet</title>
+<title_without_series>Ben&apos;s Trumpet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/762459.Ben_s_Trumpet]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1281252</id>
+</work>
+<isbn>0688109888</isbn>
+<isbn13>9780688109882</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1193</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>6014</id>
+<name>Rachel Isadora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6014.Rachel_Isadora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1918694</id>
+<title>The Graphic Alphabet</title>
+<title_without_series>The Graphic Alphabet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1918694.The_Graphic_Alphabet]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360058152s/1918694.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360058152m/1918694.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1920770</id>
+</work>
+<isbn>0531360016</isbn>
+<isbn13>9780531360019</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>668</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>309864</id>
+<name>David Pelletier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/309864.David_Pelletier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1918706</id>
+<title>Peppe the Lamplighter</title>
+<title_without_series>Peppe the Lamplighter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1918706.Peppe_the_Lamplighter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1920782</id>
+</work>
+<isbn>0688102689</isbn>
+<isbn13>9780688102685</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1257</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>324798</id>
+<name>Elisa Bartone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/324798.Elisa_Bartone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>858590</id>
+<title>The Gardener</title>
+<title_without_series>The Gardener</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/858590.The_Gardener]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1383352879s/858590.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1383352879m/858590.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2263680</id>
+</work>
+<isbn>0374325170</isbn>
+<isbn13>9780374325176</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>5544</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>106537</id>
+<name>Sarah Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106537.Sarah_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1300700</id>
+<title>Alphabet City</title>
+<title_without_series>Alphabet City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1300700.Alphabet_City]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408927348s/1300700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408927348m/1300700.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>929001</id>
+</work>
+<isbn>0670856312</isbn>
+<isbn13>9780670856312</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2885</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>127801</id>
+<name>Stephen T. Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127801.Stephen_T_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>242041</id>
+<title>The Amazing Bone</title>
+<title_without_series>The Amazing Bone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/242041.The_Amazing_Bone]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>234486</id>
+</work>
+<isbn>0374403589</isbn>
+<isbn13>9780374403584</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>2721</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>26874</id>
+<name>William Steig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26874.William_Steig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1080004</id>
+<title>Snow</title>
+<title_without_series>Snow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1080004.Snow]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317793280s/1080004.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317793280m/1080004.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3092892</id>
+</work>
+<isbn>0374370923</isbn>
+<isbn13>9780374370923</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>3736</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>33140</id>
+<name>Uri Shulevitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33140.Uri_Shulevitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>802348</id>
+<title>Anatole (Anatole, #1)</title>
+<title_without_series>Anatole</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/802348.Anatole]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2291926</id>
+</work>
+<isbn>0375839011</isbn>
+<isbn13>9780375839016</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>2483</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>386455</id>
+<name>Eve Titus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/386455.Eve_Titus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2769831</id>
+<title><![CDATA[A Couple of Boys Have the Best Week Ever]]></title>
+<title_without_series><![CDATA[A Couple of Boys Have the Best Week Ever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2769831-a-couple-of-boys-have-the-best-week-ever]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2795555</id>
+</work>
+<isbn>0152060200</isbn>
+<isbn13>9780152060206</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>3036</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>122662</id>
+<name>Marla Frazee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122662.Marla_Frazee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>235846</id>
+<title>A Child&apos;s Calendar</title>
+<title_without_series>A Child&apos;s Calendar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/235846.A_Child_s_Calendar]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2429421</id>
+</work>
+<isbn>0823417662</isbn>
+<isbn13>9780823417667</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>906</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6878</id>
+<name>John Updike</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6878.John_Updike]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>97643</id>
+<title>A Tree Is Nice</title>
+<title_without_series>A Tree Is Nice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/97643.A_Tree_Is_Nice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3323991</id>
+</work>
+<isbn>0064431479</isbn>
+<isbn13>9780064431477</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>4299</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>26909</id>
+<name>Janice May Udry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26909.Janice_May_Udry]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

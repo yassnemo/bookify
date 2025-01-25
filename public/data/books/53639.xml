@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>53639</id>
+  <title>Zorba the Greek</title>
+  <isbn><![CDATA[0571203132]]></isbn>
+  <isbn13><![CDATA[9780571203130]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1328007439m/53639.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328007439s/53639.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The classic novel, international sensation, and inspiration for the film starring Anthony Quinn explores the struggle between the aesthetic and the rational, the inner life and the life of the mind.<br /><br />The classic novel Zorba the Greek is the story of two men, their incredible friendship, and the importance of living life to the fullest. Zorba, a Greek working man, is a larger-than-life character, energetic and unpredictable. He accompanies the unnamed narrator to Crete to work in the narrator’s lignite mine, and the pair develops a singular relationship. The two men couldn’t be further apart: The narrator is cerebral, modest, and reserved; Zorba is unfettered, spirited, and beyond the reins of civility. Over the course of their journey, he becomes the narrator’s greatest friend and inspiration and helps him to appreciate the joy of living.<br /><br />Zorba has been acclaimed as one of the most remarkable figures in literature; he is a character in the great tradition of Sinbad the Sailor, Falstaff, and Sancho Panza. He responds to all that life offers him with passion, whether he’s supervising laborers at a mine, confronting mad monks in a mountain monastery, embellishing the tales of his past adventures, or making love. Zorba the Greek explores the beauty and pain of existence, inviting readers to reevaluate the most important aspects of their lives and live to the fullest.]]></description>
+  <work>
+  <id type="integer">1560878</id>
+  <books_count type="integer">189</books_count>
+  <best_book_id type="integer">53639</best_book_id>
+  <reviews_count type="integer">53223</reviews_count>
+  <ratings_sum type="integer">97013</ratings_sum>
+  <ratings_count type="integer">23687</ratings_count>
+  <text_reviews_count type="integer">2401</text_reviews_count>
+  <original_publication_year type="integer">1946</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Βίος και πολιτεία του Αλέξη Ζορμπά</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10228|4:7786|3:3907|2:1242|1:524|total:23687</rating_dist>
+  <desc_user_id type="integer">70406020</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[335]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[15228]]></ratings_count>
+  <text_reviews_count><![CDATA[1045]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/53639.Zorba_the_Greek]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/53639.Zorba_the_Greek]]></link>
+  <authors>
+<author>
+<id>5668</id>
+<name>Nikos Kazantzakis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206405006p5/5668.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206405006p2/5668.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5668.Nikos_Kazantzakis]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>48185</ratings_count>
+<text_reviews_count>4334</text_reviews_count>
+</author>
+<author>
+<id>15082331</id>
+<name>Νίκος Καζαντζάκης</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1460411397p5/15082331.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1460411397p2/15082331.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15082331._]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>32557</ratings_count>
+<text_reviews_count>2116</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/53639.Zorba_the_Greek">Zorba the Greek Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0571203132&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/53639.Zorba_the_Greek?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5521"/>
+      <shelf name="fiction" count="560"/>
+      <shelf name="currently-reading" count="426"/>
+      <shelf name="classics" count="351"/>
+      <shelf name="favorites" count="236"/>
+      <shelf name="philosophy" count="142"/>
+      <shelf name="literature" count="111"/>
+      <shelf name="greek" count="109"/>
+      <shelf name="greece" count="108"/>
+      <shelf name="owned" count="107"/>
+      <shelf name="روايات" count="104"/>
+      <shelf name="novel" count="88"/>
+      <shelf name="to-buy" count="87"/>
+      <shelf name="greek-literature" count="73"/>
+      <shelf name="1001-books" count="73"/>
+      <shelf name="classic" count="68"/>
+      <shelf name="novels" count="60"/>
+      <shelf name="books-i-own" count="45"/>
+      <shelf name="1001" count="42"/>
+      <shelf name="historical-fiction" count="41"/>
+      <shelf name="20th-century" count="36"/>
+      <shelf name="1001-import" count="34"/>
+      <shelf name="favourites" count="30"/>
+      <shelf name="abandoned" count="25"/>
+      <shelf name="europe" count="24"/>
+      <shelf name="default" count="23"/>
+      <shelf name="my-library" count="23"/>
+      <shelf name="library" count="23"/>
+      <shelf name="1001-books-to-read-before-you-die" count="23"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="favorite" count="21"/>
+      <shelf name="literary-fiction" count="19"/>
+      <shelf name="book-club" count="19"/>
+      <shelf name="1001-books-to-read" count="18"/>
+      <shelf name="my-books" count="18"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="translated" count="16"/>
+      <shelf name="رواية" count="16"/>
+      <shelf name="world-literature" count="16"/>
+      <shelf name="رمان" count="16"/>
+      <shelf name="favourite" count="15"/>
+      <shelf name="must-read" count="15"/>
+      <shelf name="unfinished" count="15"/>
+      <shelf name="classic-literature" count="14"/>
+      <shelf name="1001-to-read" count="14"/>
+      <shelf name="did-not-finish" count="14"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="روايات-عالمية" count="13"/>
+      <shelf name="روايات-مترجمة" count="13"/>
+      <shelf name="nikos-kazantzakis" count="12"/>
+      <shelf name="مكتبتي" count="12"/>
+      <shelf name="kazantzakis" count="12"/>
+      <shelf name="1001-books-you-must-read-before-you" count="12"/>
+      <shelf name="to-read-fiction" count="11"/>
+      <shelf name="1940s" count="11"/>
+      <shelf name="audiobook" count="11"/>
+      <shelf name="greek-lit" count="10"/>
+      <shelf name="roman" count="10"/>
+      <shelf name="movies" count="10"/>
+      <shelf name="translation" count="10"/>
+      <shelf name="modern-classics" count="10"/>
+      <shelf name="english" count="9"/>
+      <shelf name="re-read" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="european" count="8"/>
+      <shelf name="مكتبتى" count="8"/>
+      <shelf name="e-book" count="8"/>
+      <shelf name="أدب-عالمي" count="8"/>
+      <shelf name="pdf" count="8"/>
+      <shelf name="around-the-world" count="8"/>
+      <shelf name="في-مكتبتي" count="8"/>
+      <shelf name="100-best-books-of-all-time" count="8"/>
+      <shelf name="crete" count="8"/>
+      <shelf name="tim-ferriss" count="8"/>
+      <shelf name="arabic-books" count="8"/>
+      <shelf name="general-fiction" count="8"/>
+      <shelf name="audio" count="8"/>
+      <shelf name="adventure" count="8"/>
+      <shelf name="greek-books" count="8"/>
+      <shelf name="all-time-favorites" count="8"/>
+      <shelf name="مكتبتي-الورقية" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="european-literature" count="7"/>
+      <shelf name="أدب-مترجم" count="7"/>
+      <shelf name="to-read-again" count="7"/>
+      <shelf name="couldn-t-finish" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="gave-up-on" count="7"/>
+      <shelf name="fiction-to-read" count="7"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="home-library" count="7"/>
+      <shelf name="philosophical" count="7"/>
+      <shelf name="spirituality" count="7"/>
+      <shelf name="religion" count="7"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="kindle" count="7"/>
+      <shelf name="adult-fiction" count="7"/>
+      <shelf name="books" count="6"/>
+      <shelf name="أدب" count="6"/>
+      <shelf name="prose" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1559633</id>
+<title>بوستان سعدی</title>
+<title_without_series>بوستان سعدی</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1559633._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1552156</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>1242</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7259226</id>
+<name>Saadi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7259226.Saadi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>871294</id>
+<title>Z</title>
+<title_without_series>Z</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/871294.Z]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>406</num_pages>
+<work>
+<id>856663</id>
+</work>
+<isbn>0345017560</isbn>
+<isbn13>9780345017567</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>663</ratings_count>
+<publication_year>1969</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>294526</id>
+<name>Vassilis Vassilikos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/294526.Vassilis_Vassilikos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1070107</id>
+<title><![CDATA[The Axion Esti (The Pitt Poetry Series)]]></title>
+<title_without_series>The Axion Esti</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1070107.The_Axion_Esti]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328807839s/1070107.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328807839m/1070107.jpg]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>1056787</id>
+</work>
+<isbn>0822953188</isbn>
+<isbn13>9780822953180</isbn13>
+<average_rating>4.65</average_rating>
+<ratings_count>538</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>318835</id>
+<name>Odysseus Elytis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/318835.Odysseus_Elytis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6327352</id>
+<title>Η φόνισσα</title>
+<title_without_series>Η φόνισσα</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6327352]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316698356s/6327352.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316698356m/6327352.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>694574</id>
+</work>
+<isbn>9600509379</isbn>
+<isbn13>9789600509373</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>2467</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5279499</id>
+<name>Alexandros Papadiamantis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5279499.Alexandros_Papadiamantis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1158380</id>
+<title>History</title>
+<title_without_series>History</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1158380.History]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>754</num_pages>
+<work>
+<id>1521719</id>
+</work>
+<isbn>1586420046</isbn>
+<isbn13>9781586420048</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>2393</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>292578</id>
+<name>Elsa Morante</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292578.Elsa_Morante]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3064278</id>
+<title>Ματωμένα χώματα</title>
+<title_without_series>Ματωμένα χώματα</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3064278]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>603811</id>
+</work>
+<isbn></isbn>
+<isbn13>9789600400830</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>2073</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1312673</id>
+<name>Dido Sotiriou</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1312673.Dido_Sotiriou]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2363958</id>
+<title>Grande Sertão: Veredas</title>
+<title_without_series>Grande Sertão: Veredas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2363958.Grande_Sert_o]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>2370725</id>
+</work>
+<isbn>8520912095</isbn>
+<isbn13>9788520912095</isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>2286</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>95937</id>
+<name>João Guimarães Rosa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95937.Jo_o_Guimar_es_Rosa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3762137</id>
+<title>A Ballad for Georg Henig</title>
+<title_without_series>A Ballad for Georg Henig</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3762137-a-ballad-for-georg-henig]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344685179s/3762137.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344685179m/3762137.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>3806043</id>
+</work>
+<isbn>0720607965</isbn>
+<isbn13>9780720607963</isbn13>
+<average_rating>4.64</average_rating>
+<ratings_count>596</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1109736</id>
+<name>Viktor Paskov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1109736.Viktor_Paskov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9531577</id>
+<title><![CDATA[Η λέσχη (Ακυβέρνητες πολιτείες, #1)]]></title>
+<title_without_series>Η λέσχη</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9531577]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>403</num_pages>
+<work>
+<id>14417698</id>
+</work>
+<isbn>9600427003</isbn>
+<isbn13>9789600427004</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>440</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1228537</id>
+<name>Stratis Tsirkas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1228537.Stratis_Tsirkas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7743532</id>
+<title>هكذا كانت الوحدة</title>
+<title_without_series>هكذا كانت الوحدة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7743532]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1289929820s/7743532.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1289929820m/7743532.jpg]]></image_url>
+<num_pages>184</num_pages>
+<work>
+<id>3311409</id>
+</work>
+<isbn></isbn>
+<isbn13>9789774206858</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>1986</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>568949</id>
+<name>Juan José Millás</name>
+<link><![CDATA[https://www.goodreads.com/author/show/568949.Juan_Jos_Mill_s]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7960968</id>
+<title>Canti</title>
+<title_without_series>Canti</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7960968-canti]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>515341</id>
+</work>
+<isbn>0374235031</isbn>
+<isbn13>9780374235031</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>1219</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>177775</id>
+<name>Giacomo Leopardi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/177775.Giacomo_Leopardi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6215512</id>
+<title>Λωξάντρα</title>
+<title_without_series>Λωξάντρα</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6215512]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>247</num_pages>
+<work>
+<id>921854</id>
+</work>
+<isbn>9600514518</isbn>
+<isbn13>9789600501384</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>916</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3392042</id>
+<name>Maria Iordanidou</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3392042.Maria_Iordanidou]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4619263</id>
+<title>Η μεγάλη χίμαιρα</title>
+<title_without_series>Η μεγάλη χίμαιρα</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4619263]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>322</num_pages>
+<work>
+<id>4669225</id>
+</work>
+<isbn>9600510121</isbn>
+<isbn13>9789600510126</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>1386</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3520317</id>
+<name>M. Karagatsis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3520317.M_Karagatsis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7051636</id>
+<title>Οι νεκροί περιμένουν</title>
+<title_without_series>Οι νεκροί περιμένουν</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7051636]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>250</num_pages>
+<work>
+<id>7302463</id>
+</work>
+<isbn></isbn>
+<isbn13>9789600401134</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>271</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1312673</id>
+<name>Dido Sotiriou</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1312673.Dido_Sotiriou]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>641936</id>
+<title>The Recognition of Śakuntalā</title>
+<title_without_series>The Recognition of Śakuntalā</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/641936.The_Recognition_of_akuntal_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1438108149s/641936.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1438108149m/641936.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>628126</id>
+</work>
+<isbn>019283911X</isbn>
+<isbn13>9780192839114</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>797</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>186034</id>
+<name>Kālidāsa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/186034.K_lid_sa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8489706</id>
+<title>Ερωτόκριτος</title>
+<title_without_series>Ερωτόκριτος</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8489706]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327590227s/8489706.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327590227m/8489706.jpg]]></image_url>
+<num_pages>492</num_pages>
+<work>
+<id>13355133</id>
+</work>
+<isbn>9605002590</isbn>
+<isbn13>9789605002596</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>401</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4093429</id>
+<name>Vitsentzos Kornaros</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4093429.Vitsentzos_Kornaros]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31602</id>
+<title>Romancero gitano</title>
+<title_without_series>Romancero gitano</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31602.Romancero_gitano]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2593173</id>
+</work>
+<isbn>9871165293</isbn>
+<isbn13>9789871165292</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3949</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>44150</id>
+<name>Federico García Lorca</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44150.Federico_Garc_a_Lorca]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6561480</id>
+<title>الروايات</title>
+<title_without_series>الروايات</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6561480]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>380</num_pages>
+<work>
+<id>18141386</id>
+</work>
+<isbn></isbn>
+<isbn13>9789770921677</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>229</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5031025</id>
+<name>Anton Chekhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031025.Anton_Chekhov]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

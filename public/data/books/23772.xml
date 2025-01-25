@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23772</id>
+  <title>Green Eggs and Ham</title>
+  <isbn><![CDATA[0394800168]]></isbn>
+  <isbn13><![CDATA[9780394800165]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1468680100m/23772.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1468680100s/23772.jpg</small_image_url>
+  <publication_year>1988</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Random House Books for Young Readers</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[“Do you like green eggs and ham?” asks Sam-I-am in this Beginner Book by Dr. Seuss. In a house or with a mouse? In a boat or with a goat? On a train or in a tree? Sam keeps asking persistently. With unmistakable characters and signature rhymes, Dr. Seuss’s beloved favorite has cemented its place as a children’s classic. In this most famous of cumulative tales, the list of places to enjoy green eggs and ham, and friends to enjoy them with, gets longer and longer. Follow Sam-I-am as he insists that this unusual treat is indeed a delectable snack to be savored everywhere and in every way. <br /><br />Originally created by Dr. Seuss, Beginner Books encourage children to read all by themselves, with simple words and illustrations that give clues to their meaning.]]></description>
+  <work>
+  <id type="integer">86934</id>
+  <books_count type="integer">72</books_count>
+  <best_book_id type="integer">23772</best_book_id>
+  <reviews_count type="integer">597204</reviews_count>
+  <ratings_sum type="integer">1980177</ratings_sum>
+  <ratings_count type="integer">461154</ratings_count>
+  <text_reviews_count type="integer">7374</text_reviews_count>
+  <original_publication_year type="integer">1960</original_publication_year>
+  <original_publication_month type="integer">6</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Green Eggs and Ham</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:251349|4:121775|3:66883|2:14536|1:6611|total:461154</rating_dist>
+  <desc_user_id type="integer">5882665</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.29</average_rating>
+  <num_pages><![CDATA[62]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[457584]]></ratings_count>
+  <text_reviews_count><![CDATA[7139]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham]]></link>
+  <authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2462783</ratings_count>
+<text_reviews_count>42352</text_reviews_count>
+</author>
+<author>
+<id>4789229</id>
+<name>לאה נאור</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4789229._]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>25</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham">Green Eggs and Ham Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0394800168&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="childrens" count="3191"/>
+      <shelf name="to-read" count="3171"/>
+      <shelf name="children" count="2181"/>
+      <shelf name="children-s-books" count="2010"/>
+      <shelf name="picture-books" count="1817"/>
+      <shelf name="currently-reading" count="1777"/>
+      <shelf name="children-s" count="1706"/>
+      <shelf name="classics" count="1290"/>
+      <shelf name="fiction" count="1213"/>
+      <shelf name="kids" count="1186"/>
+      <shelf name="childrens-books" count="1014"/>
+      <shelf name="childhood" count="992"/>
+      <shelf name="favorites" count="952"/>
+      <shelf name="kids-books" count="703"/>
+      <shelf name="poetry" count="558"/>
+      <shelf name="childhood-favorites" count="430"/>
+      <shelf name="picture-book" count="411"/>
+      <shelf name="classic" count="367"/>
+      <shelf name="childhood-books" count="339"/>
+      <shelf name="owned" count="287"/>
+      <shelf name="books-i-own" count="272"/>
+      <shelf name="humor" count="265"/>
+      <shelf name="children-s-literature" count="261"/>
+      <shelf name="children-s-lit" count="260"/>
+      <shelf name="fantasy" count="258"/>
+      <shelf name="children-books" count="247"/>
+      <shelf name="rhyming" count="213"/>
+      <shelf name="kid-books" count="168"/>
+      <shelf name="childrens-lit" count="149"/>
+      <shelf name="food" count="144"/>
+      <shelf name="childhood-reads" count="138"/>
+      <shelf name="youth" count="118"/>
+      <shelf name="juvenile" count="112"/>
+      <shelf name="young-adult" count="108"/>
+      <shelf name="my-childhood" count="105"/>
+      <shelf name="children-s-book" count="98"/>
+      <shelf name="kid-s-books" count="97"/>
+      <shelf name="read-as-a-kid" count="96"/>
+      <shelf name="childrens-literature" count="94"/>
+      <shelf name="owned-books" count="93"/>
+      <shelf name="children-s-picture-books" count="92"/>
+      <shelf name="funny" count="81"/>
+      <shelf name="read-as-a-child" count="80"/>
+      <shelf name="childhood-favourites" count="75"/>
+      <shelf name="books" count="74"/>
+      <shelf name="dr-suess" count="74"/>
+      <shelf name="picture" count="71"/>
+      <shelf name="books-from-my-childhood" count="71"/>
+      <shelf name="childrens-book" count="69"/>
+      <shelf name="children-s-fiction" count="69"/>
+      <shelf name="kid-lit" count="69"/>
+      <shelf name="default" count="68"/>
+      <shelf name="childhood-memories" count="66"/>
+      <shelf name="childrens-picture-books" count="65"/>
+      <shelf name="read-more-than-once" count="64"/>
+      <shelf name="favourites" count="63"/>
+      <shelf name="children-young-adult" count="62"/>
+      <shelf name="childhood-faves" count="61"/>
+      <shelf name="books-i-read-as-a-kid" count="59"/>
+      <shelf name="favorite-children-s-books" count="57"/>
+      <shelf name="childrensbooks" count="57"/>
+      <shelf name="elementary" count="57"/>
+      <shelf name="illustrated" count="56"/>
+      <shelf name="easy-reader" count="56"/>
+      <shelf name="5-stars" count="56"/>
+      <shelf name="seuss" count="56"/>
+      <shelf name="ya" count="56"/>
+      <shelf name="for-kids" count="55"/>
+      <shelf name="own-it" count="55"/>
+      <shelf name="for-the-kids" count="54"/>
+      <shelf name="i-own" count="54"/>
+      <shelf name="children-ya" count="54"/>
+      <shelf name="humour" count="53"/>
+      <shelf name="childrens-fiction" count="52"/>
+      <shelf name="nostalgia" count="52"/>
+      <shelf name="kid" count="51"/>
+      <shelf name="to-buy" count="50"/>
+      <shelf name="kiddos" count="50"/>
+      <shelf name="english" count="50"/>
+      <shelf name="comedy" count="50"/>
+      <shelf name="read-aloud" count="49"/>
+      <shelf name="my-books" count="49"/>
+      <shelf name="preschool" count="49"/>
+      <shelf name="easy-readers" count="49"/>
+      <shelf name="child" count="48"/>
+      <shelf name="re-read" count="48"/>
+      <shelf name="picturebooks" count="47"/>
+      <shelf name="rhyme" count="47"/>
+      <shelf name="green-eggs-and-ham" count="46"/>
+      <shelf name="elementary-school" count="46"/>
+      <shelf name="childhood-favs" count="46"/>
+      <shelf name="library" count="46"/>
+      <shelf name="kid-stuff" count="46"/>
+      <shelf name="20th-century" count="44"/>
+      <shelf name="children-s-classics" count="42"/>
+      <shelf name="literature" count="42"/>
+      <shelf name="from-my-childhood" count="41"/>
+      <shelf name="books-from-childhood" count="40"/>
+      <shelf name="early-reader" count="40"/>
+      <shelf name="school" count="39"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>781175</id>
+<user_position>B-16</user_position>
+<series>
+<id>154936</id>
+<title>
+<![CDATA[
+    Beginner Books
+]]>
+</title>
+<description>
+<![CDATA[
+    beginner books copyright by Random House. (I can read it all by myself)
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>31</series_works_count>
+<primary_work_count>31</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>6353418</id>
+<title><![CDATA[Pigs Make Me Sneeze! (Elephant & Piggie, #10)]]></title>
+<title_without_series>Pigs Make Me Sneeze!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6353418-pigs-make-me-sneeze]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327888610s/6353418.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327888610m/6353418.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6540012</id>
+</work>
+<isbn>1423114116</isbn>
+<isbn13>9781423114116</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3549</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>201138</id>
+<title><![CDATA[The Berenstain Bears and Too Much TV]]></title>
+<title_without_series><![CDATA[The Berenstain Bears and Too Much TV]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/201138.The_Berenstain_Bears_and_Too_Much_TV]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1457297865s/201138.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1457297865m/201138.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2876768</id>
+</work>
+<isbn>0394865707</isbn>
+<isbn13>9780394865706</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>11243</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>285798</id>
+<title>Murmel, Murmel, Murmel</title>
+<title_without_series>Murmel, Murmel, Murmel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/285798.Murmel_Murmel_Murmel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1013651</id>
+</work>
+<isbn>0920236316</isbn>
+<isbn13>9780920236314</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>1356</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6039100</id>
+<name>Robert Munsch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6039100.Robert_Munsch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>590552</id>
+<title><![CDATA[Chicken Soup with Rice: A Book of Months (The Nutshell Library)]]></title>
+<title_without_series><![CDATA[Chicken Soup with Rice: A Book of Months]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/590552.Chicken_Soup_with_Rice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>355618</id>
+</work>
+<isbn>006443253X</isbn>
+<isbn13>9780064432535</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>25716</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4489</id>
+<name>Maurice Sendak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4489.Maurice_Sendak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>197084</id>
+<title>Are You My Mother?</title>
+<title_without_series>Are You My Mother?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/197084.Are_You_My_Mother_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1837885</id>
+</work>
+<isbn>0001713221</isbn>
+<isbn13>9780001713222</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>177982</ratings_count>
+<publication_year>1962</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13898</id>
+<name>P.D. Eastman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13898.P_D_Eastman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94804</id>
+<title><![CDATA[Days with Frog and Toad (Frog and Toad, #4)]]></title>
+<title_without_series>Days with Frog and Toad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94804.Days_with_Frog_and_Toad]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1231869</id>
+</work>
+<isbn>0064440583</isbn>
+<isbn13>9780064440585</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>16454</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46677</id>
+<title><![CDATA[Alexander and the Terrible, Horrible, No Good, Very Bad Day]]></title>
+<title_without_series><![CDATA[Alexander and the Terrible, Horrible, No Good, Very Bad Day]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46677.Alexander_and_the_Terrible_Horrible_No_Good_Very_Bad_Day]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405259744s/46677.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405259744m/46677.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1086647</id>
+</work>
+<isbn>0689711735</isbn>
+<isbn13>9780689711732</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>147108</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>3080</id>
+<name>Judith Viorst</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3080.Judith_Viorst]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8768</id>
+<title><![CDATA[Today I Feel Silly  Other Moods That Make My Day]]></title>
+<title_without_series><![CDATA[Today I Feel Silly  Other Moods That Make My Day]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8768.Today_I_Feel_Silly_Other_Moods_That_Make_My_Day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>11687</id>
+</work>
+<isbn>0060245603</isbn>
+<isbn13>9780060245603</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3265</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>5693</id>
+<name>Jamie Lee Curtis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5693.Jamie_Lee_Curtis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11345770</id>
+<title>Llama Llama Home with Mama</title>
+<title_without_series>Llama Llama Home with Mama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11345770-llama-llama-home-with-mama]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327898208s/11345770.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327898208m/11345770.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>16275044</id>
+</work>
+<isbn>0670012327</isbn>
+<isbn13>9780670012329</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>3200</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>815985</id>
+<title>Hippos Go Berserk!</title>
+<title_without_series>Hippos Go Berserk!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/815985.Hippos_Go_Berserk_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>801906</id>
+</work>
+<isbn>0689834349</isbn>
+<isbn13>9780689834349</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>4330</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>724174</id>
+<title><![CDATA[There's an Alligator under My Bed]]></title>
+<title_without_series><![CDATA[There's an Alligator under My Bed]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/724174.There_s_an_Alligator_under_My_Bed]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>710397</id>
+</work>
+<isbn>0803703740</isbn>
+<isbn13>9780803703742</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3060</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100480</id>
+<title>Trouble with Trolls</title>
+<title_without_series>Trouble with Trolls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100480.Trouble_with_Trolls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>190540</id>
+</work>
+<isbn>0698117913</isbn>
+<isbn13>9780698117914</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>2335</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

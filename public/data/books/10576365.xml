@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10576365</id>
+  <title><![CDATA[The Darkest Minds (The Darkest Minds, #1)]]></title>
+  <isbn><![CDATA[1423157370]]></isbn>
+  <isbn13><![CDATA[9781423157373]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01LX090DI]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1343178841m/10576365.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1343178841s/10576365.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>18</publication_day>
+  <publisher>Disney Hyperion</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[When Ruby woke up on her tenth birthday, something about her had changed. Something frightening enough to make her parents lock her in the garage and call the police. Something that got her sent to Thurmond, a brutal government “rehabilitation camp.” She might have survived the mysterious disease that had killed most of America’s children, but she and the others emerged with something far worse: frightening abilities they could not control.<br /><br />Now sixteen, Ruby is one of the dangerous ones. When the truth comes out, Ruby barely escapes Thurmond with her life. She is on the run, desperate to find the only safe haven left for kids like her—East River. She joins a group of kids who have escaped their own camp. Liam, their brave leader, is falling hard for Ruby. But no matter how much she aches for him, Ruby can’t risk getting close. Not after what happened to her parents. When they arrive at East River, nothing is as it seems, least of all its mysterious leader. But there are other forces at work, people who will stop at nothing to use Ruby in their fight against the government. Ruby will be faced with a terrible choice, one that may mean giving up her only chance at having a life worth living.]]></description>
+  <work>
+  <id type="integer">15483434</id>
+  <books_count type="integer">41</books_count>
+  <best_book_id type="integer">10576365</best_book_id>
+  <reviews_count type="integer">260928</reviews_count>
+  <ratings_sum type="integer">386654</ratings_sum>
+  <ratings_count type="integer">90862</ratings_count>
+  <text_reviews_count type="integer">11335</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">18</original_publication_day>
+  <original_title>The Darkest Minds</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:45614|4:28801|3:11867|2:3199|1:1381|total:90862</rating_dist>
+  <desc_user_id type="integer">19439255</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[488]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[83962]]></ratings_count>
+  <text_reviews_count><![CDATA[10002]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10576365-the-darkest-minds]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10576365-the-darkest-minds]]></link>
+  <authors>
+<author>
+<id>2973783</id>
+<name>Alexandra Bracken</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411581389p5/2973783.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411581389p2/2973783.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2973783.Alexandra_Bracken]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>224682</ratings_count>
+<text_reviews_count>29778</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10576365-the-darkest-minds">The Darkest Minds Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1423157370&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/10576365-the-darkest-minds?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="favorites" count="3716"/>
+      <shelf name="to-read" count="3453"/>
+      <shelf name="dystopian" count="1670"/>
+      <shelf name="young-adult" count="1664"/>
+      <shelf name="dystopia" count="1152"/>
+      <shelf name="ya" count="951"/>
+      <shelf name="fantasy" count="936"/>
+      <shelf name="books-i-own" count="911"/>
+      <shelf name="currently-reading" count="790"/>
+      <shelf name="series" count="570"/>
+      <shelf name="sci-fi" count="549"/>
+      <shelf name="owned" count="535"/>
+      <shelf name="science-fiction" count="509"/>
+      <shelf name="romance" count="442"/>
+      <shelf name="favourites" count="361"/>
+      <shelf name="paranormal" count="327"/>
+      <shelf name="to-buy" count="316"/>
+      <shelf name="owned-books" count="264"/>
+      <shelf name="read-in-2014" count="243"/>
+      <shelf name="wish-list" count="238"/>
+      <shelf name="fiction" count="236"/>
+      <shelf name="read-in-2015" count="181"/>
+      <shelf name="kindle" count="175"/>
+      <shelf name="dnf" count="174"/>
+      <shelf name="post-apocalyptic" count="150"/>
+      <shelf name="library" count="132"/>
+      <shelf name="adventure" count="126"/>
+      <shelf name="favorite-books" count="125"/>
+      <shelf name="i-own" count="117"/>
+      <shelf name="ya-dystopian" count="115"/>
+      <shelf name="ebook" count="113"/>
+      <shelf name="read-2014" count="112"/>
+      <shelf name="favorite" count="108"/>
+      <shelf name="maybe" count="108"/>
+      <shelf name="supernatural" count="107"/>
+      <shelf name="read-in-2016" count="98"/>
+      <shelf name="tbr" count="98"/>
+      <shelf name="5-stars" count="97"/>
+      <shelf name="read-2015" count="90"/>
+      <shelf name="teen" count="90"/>
+      <shelf name="audiobook" count="89"/>
+      <shelf name="the-darkest-minds" count="89"/>
+      <shelf name="did-not-finish" count="89"/>
+      <shelf name="2014-reads" count="88"/>
+      <shelf name="my-books" count="87"/>
+      <shelf name="trilogy" count="87"/>
+      <shelf name="book-boyfriends" count="85"/>
+      <shelf name="ebooks" count="82"/>
+      <shelf name="on-my-shelf" count="82"/>
+      <shelf name="ya-fiction" count="82"/>
+      <shelf name="first-in-series" count="80"/>
+      <shelf name="ya-fantasy" count="80"/>
+      <shelf name="want-to-read" count="79"/>
+      <shelf name="superpowers" count="78"/>
+      <shelf name="made-me-cry" count="76"/>
+      <shelf name="re-read" count="75"/>
+      <shelf name="series-to-read" count="74"/>
+      <shelf name="need-to-buy" count="72"/>
+      <shelf name="scifi" count="69"/>
+      <shelf name="4-stars" count="67"/>
+      <shelf name="distopian" count="67"/>
+      <shelf name="favorite-series" count="66"/>
+      <shelf name="all-time-favorites" count="65"/>
+      <shelf name="must-read" count="64"/>
+      <shelf name="2015-reads" count="63"/>
+      <shelf name="audiobooks" count="63"/>
+      <shelf name="ya-dystopia" count="62"/>
+      <shelf name="read-2016" count="59"/>
+      <shelf name="trilogies" count="59"/>
+      <shelf name="urban-fantasy" count="59"/>
+      <shelf name="really-want-to-read" count="59"/>
+      <shelf name="ya-books" count="59"/>
+      <shelf name="reviewed" count="58"/>
+      <shelf name="sci-fi-fantasy" count="58"/>
+      <shelf name="mystery" count="58"/>
+      <shelf name="faves" count="57"/>
+      <shelf name="have" count="57"/>
+      <shelf name="want-to-buy" count="57"/>
+      <shelf name="read-in-2017" count="56"/>
+      <shelf name="book-boyfriend" count="56"/>
+      <shelf name="read-in-english" count="54"/>
+      <shelf name="tbr-pile" count="54"/>
+      <shelf name="alexandra-bracken" count="54"/>
+      <shelf name="completed-series" count="53"/>
+      <shelf name="e-books" count="53"/>
+      <shelf name="my-library" count="52"/>
+      <shelf name="recommended" count="52"/>
+      <shelf name="on-hold" count="51"/>
+      <shelf name="favs" count="51"/>
+      <shelf name="powers" count="51"/>
+      <shelf name="action" count="50"/>
+      <shelf name="need-to-read" count="50"/>
+      <shelf name="books-to-buy" count="50"/>
+      <shelf name="amazing" count="49"/>
+      <shelf name="young-adult-fiction" count="49"/>
+      <shelf name="reread" count="48"/>
+      <shelf name="on-my-bookshelf" count="48"/>
+      <shelf name="kindle-books" count="48"/>
+      <shelf name="apocalyptic" count="48"/>
+      <shelf name="series-to-start" count="47"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>851624</id>
+<user_position>1</user_position>
+<series>
+<id>168176</id>
+<title>
+<![CDATA[
+    The Darkest Minds
+]]>
+</title>
+<description>
+<![CDATA[
+    http://www.thedarkestminds.com/
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>13581990</id>
+<title><![CDATA[The Eternity Cure (Blood of Eden, #2)]]></title>
+<title_without_series>The Eternity Cure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13581990-the-eternity-cure]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1362772965s/13581990.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1362772965m/13581990.jpg]]></image_url>
+<num_pages>434</num_pages>
+<work>
+<id>19167673</id>
+</work>
+<isbn>0373210698</isbn>
+<isbn13>9780373210695</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>29361</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2995873</id>
+<name>Julie Kagawa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2995873.Julie_Kagawa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17899846</id>
+<title>Erased (Altered, #2)</title>
+<title_without_series>Erased</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17899846-erased]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1377995684s/17899846.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1377995684m/17899846.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>23741097</id>
+</work>
+<isbn>1478925353</isbn>
+<isbn13>9781478925354</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>7760</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4737213</id>
+<name>Jennifer Rush</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4737213.Jennifer_Rush]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13514612</id>
+<title>All Our Yesterdays</title>
+<title_without_series>All Our Yesterdays</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13514612-all-our-yesterdays]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1370046261s/13514612.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1370046261m/13514612.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>19070336</id>
+</work>
+<isbn>1423176375</isbn>
+<isbn13>9781423176374</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>18243</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5767141</id>
+<name>Cristin Terrill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5767141.Cristin_Terrill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17849112</id>
+<title><![CDATA[World After (Penryn & the End of Days, #2)]]></title>
+<title_without_series>World After</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17849112-world-after]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1423238855s/17849112.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1423238855m/17849112.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>18142457</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>69163</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>4890182</id>
+<name>Susan Ee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4890182.Susan_Ee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21946861</id>
+<title>What Tomorrow May Bring</title>
+<title_without_series>What Tomorrow May Bring</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21946861-what-tomorrow-may-bring]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1397818641s/21946861.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1397818641m/21946861.jpg]]></image_url>
+<num_pages>2500</num_pages>
+<work>
+<id>41251734</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>166</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>449366</id>
+<name>Tony Bertauski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/449366.Tony_Bertauski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8306761</id>
+<title><![CDATA[For Darkness Shows the Stars (For Darkness Shows the Stars, #1)]]></title>
+<title_without_series>For Darkness Shows the Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8306761-for-darkness-shows-the-stars]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1338529086s/8306761.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1338529086m/8306761.jpg]]></image_url>
+<num_pages>407</num_pages>
+<work>
+<id>13155802</id>
+</work>
+<isbn>0062006142</isbn>
+<isbn13>9780062006141</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>16160</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>119848</id>
+<name>Diana Peterfreund</name>
+<link><![CDATA[https://www.goodreads.com/author/show/119848.Diana_Peterfreund]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14288998</id>
+<title><![CDATA[Into the Still Blue (Under the Never Sky, #3)]]></title>
+<title_without_series>Into the Still Blue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14288998-into-the-still-blue]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1417467183s/14288998.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1417467183m/14288998.jpg]]></image_url>
+<num_pages>389</num_pages>
+<work>
+<id>19928978</id>
+</work>
+<isbn>0062072099</isbn>
+<isbn13>9780062072092</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>37250</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>4637369</id>
+<name>Veronica Rossi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4637369.Veronica_Rossi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13062488</id>
+<title>The Lost Girl</title>
+<title_without_series>The Lost Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13062488-the-lost-girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330091065s/13062488.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330091065m/13062488.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>18227948</id>
+</work>
+<isbn>0062082310</isbn>
+<isbn13>9780062082312</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5400</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>5333630</id>
+<name>Sangu Mandanna</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5333630.Sangu_Mandanna]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11043618</id>
+<title><![CDATA[What's Left of Me (The Hybrid Chronicles, #1)]]></title>
+<title_without_series>What&apos;s Left of Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11043618-what-s-left-of-me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329477948s/11043618.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329477948m/11043618.jpg]]></image_url>
+<num_pages>343</num_pages>
+<work>
+<id>15964230</id>
+</work>
+<isbn>0062114875</isbn>
+<isbn13>9780062114877</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>13837</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>4774478</id>
+<name>Kat Zhang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4774478.Kat_Zhang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13454648</id>
+<title><![CDATA[False Sight (False Memory, #2)]]></title>
+<title_without_series>False Sight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13454648-false-sight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1371592419s/13454648.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1371592419m/13454648.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>18981943</id>
+</work>
+<isbn>1423149858</isbn>
+<isbn13>9781423149859</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1249</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>4575364</id>
+<name>Dan Krokos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4575364.Dan_Krokos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13112869</id>
+<title><![CDATA[Not a Drop to Drink (Not a Drop to Drink, #1)]]></title>
+<title_without_series>Not a Drop to Drink</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13112869-not-a-drop-to-drink]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360951660s/13112869.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360951660m/13112869.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>18286567</id>
+</work>
+<isbn>0062198505</isbn>
+<isbn13>9780062198501</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>10048</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>5351825</id>
+<name>Mindy McGinnis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5351825.Mindy_McGinnis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12987192</id>
+<title><![CDATA[The Forsaken (The Forsaken, #1)]]></title>
+<title_without_series>The Forsaken</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12987192-the-forsaken]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332152940s/12987192.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332152940m/12987192.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>15854253</id>
+</work>
+<isbn>1442432659</isbn>
+<isbn13>9781442432659</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>6134</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5306608</id>
+<name>Lisa M. Stasse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5306608.Lisa_M_Stasse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10165761</id>
+<title><![CDATA[Quintana of Charyn (Lumatere Chronicles, #3)]]></title>
+<title_without_series>Quintana of Charyn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10165761-quintana-of-charyn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331187719s/10165761.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331187719m/10165761.jpg]]></image_url>
+<num_pages>516</num_pages>
+<work>
+<id>15064476</id>
+</work>
+<isbn>0670076244</isbn>
+<isbn13>9780670076246</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>11706</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>47104</id>
+<name>Melina Marchetta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47104.Melina_Marchetta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12043771</id>
+<title><![CDATA[This is Not a Test (This is Not a Test #1)]]></title>
+<title_without_series>This is Not a Test</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12043771-this-is-not-a-test]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1314375864s/12043771.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1314375864m/12043771.jpg]]></image_url>
+<num_pages>326</num_pages>
+<work>
+<id>17010494</id>
+</work>
+<isbn>0312656742</isbn>
+<isbn13>9780312656744</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>11989</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>1487748</id>
+<name>Courtney Summers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1487748.Courtney_Summers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13542868</id>
+<title>The Farm (The Farm, #1)</title>
+<title_without_series>The Farm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13542868-the-farm]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335014281s/13542868.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335014281m/13542868.jpg]]></image_url>
+<num_pages>420</num_pages>
+<work>
+<id>19107159</id>
+</work>
+<isbn>0425257800</isbn>
+<isbn13>9780425257807</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>4216</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>876105</id>
+<name>Emily McKay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/876105.Emily_McKay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20613470</id>
+<title><![CDATA[Heir of Fire (Throne of Glass, #3)]]></title>
+<title_without_series>Heir of Fire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20613470-heir-of-fire]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1460846511s/20613470.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1460846511m/20613470.jpg]]></image_url>
+<num_pages>565</num_pages>
+<work>
+<id>25128502</id>
+</work>
+<isbn>1619630656</isbn>
+<isbn13>9781619630659</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>143179</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3433047</id>
+<name>Sarah J. Maas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3433047.Sarah_J_Maas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13449858</id>
+<title><![CDATA[The Lives We Lost (Fallen World, #2)]]></title>
+<title_without_series>The Lives We Lost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13449858-the-lives-we-lost]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1352659327s/13449858.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1352659327m/13449858.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>18971225</id>
+</work>
+<isbn>1423146174</isbn>
+<isbn13>9781423146179</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2095</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>2839407</id>
+<name>Megan Crewe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2839407.Megan_Crewe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12568505</id>
+<title>Black City (Black City, #1)</title>
+<title_without_series>Black City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12568505-black-city]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1345736401s/12568505.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1345736401m/12568505.jpg]]></image_url>
+<num_pages>374</num_pages>
+<work>
+<id>17578969</id>
+</work>
+<isbn>0399159436</isbn>
+<isbn13>9780399159435</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>10082</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5188888</id>
+<name>Elizabeth  Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5188888.Elizabeth_Richards]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

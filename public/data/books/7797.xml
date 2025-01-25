@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7797</id>
+  <title>Ten Apples Up On Top!</title>
+  <isbn><![CDATA[0007169973]]></isbn>
+  <isbn13><![CDATA[9780007169979]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>HarperCollinsChildren’sBooks</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Learning to count has never been more fun than in this crazy tale of a dog, a lion and a tiger all showing off how many apples they can balance on their heads as they skip, walk the tightrope and roller skate their way through the book.<br /><br /><br />This delightful book forms part of the second stage in HarperCollins’ major Dr. Seuss rebrand programme. With the relaunch of 10 more titles in August 2003, such all-time favourites as How the Grinch Stole Christmas!, Mr. Brown Can Moo! Can You? and Dr. Seuss’ Sleep Book boast bright new covers that incorporate much needed guidance on reading levels: Blue Back Books are for parents to share with young children, Green Back Books are for budding readers to tackle on their own, and Yellow Back Books are for older, more fluent readers to enjoy. Ten Apples Up On Top belongs to the Green Back Book range.]]></description>
+  <work>
+  <id type="integer">10846</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">7797</best_book_id>
+  <reviews_count type="integer">34163</reviews_count>
+  <ratings_sum type="integer">119230</ratings_sum>
+  <ratings_count type="integer">29042</ratings_count>
+  <text_reviews_count type="integer">471</text_reviews_count>
+  <original_publication_year type="integer">1961</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Ten Apples Up on Top</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:13577|4:7348|3:6158|2:1520|1:439|total:29042</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.11</average_rating>
+  <num_pages><![CDATA[62]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[28056]]></ratings_count>
+  <text_reviews_count><![CDATA[344]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7797.Ten_Apples_Up_On_Top_]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7797.Ten_Apples_Up_On_Top_]]></link>
+  <authors>
+<author>
+<id>398177</id>
+<name>Theo LeSieg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210787606p5/398177.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210787606p2/398177.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/398177.Theo_LeSieg]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>74669</ratings_count>
+<text_reviews_count>1571</text_reviews_count>
+</author>
+<author>
+<id>211156</id>
+<name>Roy McKie</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/211156.Roy_McKie]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>50922</ratings_count>
+<text_reviews_count>950</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7797.Ten_Apples_Up_On_Top_">Ten Apples Up On Top! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0007169973&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7797.Ten_Apples_Up_On_Top_?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="278"/>
+      <shelf name="children" count="196"/>
+      <shelf name="kids" count="120"/>
+      <shelf name="childrens-books" count="99"/>
+      <shelf name="picture-books" count="93"/>
+      <shelf name="kids-books" count="82"/>
+      <shelf name="fiction" count="65"/>
+      <shelf name="children-s" count="62"/>
+      <shelf name="picture-book" count="57"/>
+      <shelf name="children-s-books" count="56"/>
+      <shelf name="dr-seuss" count="47"/>
+      <shelf name="counting" count="44"/>
+      <shelf name="books-i-own" count="35"/>
+      <shelf name="owned" count="34"/>
+      <shelf name="childhood" count="32"/>
+      <shelf name="children-books" count="28"/>
+      <shelf name="default" count="27"/>
+      <shelf name="favorites" count="26"/>
+      <shelf name="apples" count="25"/>
+      <shelf name="kid-books" count="25"/>
+      <shelf name="children-s-literature" count="25"/>
+      <shelf name="math" count="22"/>
+      <shelf name="easy-reader" count="22"/>
+      <shelf name="dr-suess" count="21"/>
+      <shelf name="childhood-favorites" count="20"/>
+      <shelf name="poetry" count="19"/>
+      <shelf name="kid-s-books" count="17"/>
+      <shelf name="rhyme" count="16"/>
+      <shelf name="easy-readers" count="15"/>
+      <shelf name="early-reader" count="15"/>
+      <shelf name="kindergarten" count="14"/>
+      <shelf name="children-s-picture-books" count="14"/>
+      <shelf name="children-s-lit" count="14"/>
+      <shelf name="humor" count="14"/>
+      <shelf name="childrens" count="13"/>
+      <shelf name="food" count="13"/>
+      <shelf name="library" count="12"/>
+      <shelf name="board-books" count="12"/>
+      <shelf name="early-readers" count="11"/>
+      <shelf name="i-own" count="11"/>
+      <shelf name="childrens-picture-books" count="11"/>
+      <shelf name="numbers" count="10"/>
+      <shelf name="preschool" count="10"/>
+      <shelf name="classroom" count="9"/>
+      <shelf name="classroom-library" count="9"/>
+      <shelf name="my-childhood" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="storytime" count="9"/>
+      <shelf name="seuss" count="9"/>
+      <shelf name="little-kids" count="9"/>
+      <shelf name="read-to-kids" count="9"/>
+      <shelf name="for-the-kids" count="8"/>
+      <shelf name="classic" count="8"/>
+      <shelf name="childrensbooks" count="8"/>
+      <shelf name="counting-books" count="7"/>
+      <shelf name="for-kids" count="7"/>
+      <shelf name="childrens-read" count="7"/>
+      <shelf name="children-read" count="7"/>
+      <shelf name="rhyming-books" count="7"/>
+      <shelf name="baby" count="7"/>
+      <shelf name="currently-reading" count="6"/>
+      <shelf name="kids-shelf" count="6"/>
+      <shelf name="board-book" count="6"/>
+      <shelf name="autumn" count="6"/>
+      <shelf name="childhood-books" count="6"/>
+      <shelf name="children-s-book" count="6"/>
+      <shelf name="rhymes" count="6"/>
+      <shelf name="ece-3601" count="6"/>
+      <shelf name="picture" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="kiddos" count="6"/>
+      <shelf name="books-we-own" count="6"/>
+      <shelf name="beginning-readers" count="6"/>
+      <shelf name="childrens-lit" count="6"/>
+      <shelf name="picturebooks" count="6"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="classroom-books" count="5"/>
+      <shelf name="children-s-read" count="5"/>
+      <shelf name="children-s-books-i-own" count="5"/>
+      <shelf name="baby-books" count="5"/>
+      <shelf name="young-children" count="5"/>
+      <shelf name="read-to-children" count="5"/>
+      <shelf name="dr-seuss-books" count="5"/>
+      <shelf name="youth" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="read-to-my-kids" count="5"/>
+      <shelf name="child" count="5"/>
+      <shelf name="read-as-a-kid" count="5"/>
+      <shelf name="animals" count="4"/>
+      <shelf name="read-with-kids" count="4"/>
+      <shelf name="read-children-s-books" count="4"/>
+      <shelf name="1st-grade" count="4"/>
+      <shelf name="suess" count="4"/>
+      <shelf name="children-s-fiction" count="4"/>
+      <shelf name="reader" count="4"/>
+      <shelf name="read-kids" count="4"/>
+      <shelf name="my-kids-books" count="4"/>
+      <shelf name="favorite-kids-books" count="4"/>
+      <shelf name="repetition" count="4"/>
+      <shelf name="silly" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>781747</id>
+<user_position>B-19</user_position>
+<series>
+<id>154936</id>
+<title>
+<![CDATA[
+    Beginner Books
+]]>
+</title>
+<description>
+<![CDATA[
+    beginner books copyright by Random House. (I can read it all by myself)
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>31</series_works_count>
+<primary_work_count>31</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>7789</id>
+<title>Daisy-Head Mayzie</title>
+<title_without_series>Daisy-Head Mayzie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7789.Daisy_Head_Mayzie]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327959258s/7789.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327959258m/7789.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>3088051</id>
+</work>
+<isbn>0679867120</isbn>
+<isbn13>9780679867128</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2726</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>1</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>260996</id>
+<title><![CDATA[The Berenstains' B Book (Bright & Early Books)]]></title>
+<title_without_series>The Berenstains&apos; B Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/260996.The_Berenstains_B_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>252965</id>
+</work>
+<isbn>000171287X</isbn>
+<isbn13>9780001712874</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>5318</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1763233</id>
+<title><![CDATA[The Ear Book (Bright & Early Books)]]></title>
+<title_without_series>The Ear Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1763233.The_Ear_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>3390913</id>
+</work>
+<isbn>0394811992</isbn>
+<isbn13>9780394811994</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6458</ratings_count>
+<publication_year>1968</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>11094</id>
+<name>Al Perkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11094.Al_Perkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>980501</id>
+<title><![CDATA[A Fly Went by (Beginner Books(R))]]></title>
+<title_without_series>A Fly Went by (Beginner Books</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/980501.A_Fly_Went_by_Beginner_Books]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327962845s/980501.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327962845m/980501.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2070224</id>
+</work>
+<isbn>0394800036</isbn>
+<isbn13>9780394800035</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>10311</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>240941</id>
+<name>Mike McClintock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/240941.Mike_McClintock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29083</id>
+<title>Snow (Beginner Books B-27)</title>
+<title_without_series>Snow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29083.Snow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>29554</id>
+</work>
+<isbn>0394800273</isbn>
+<isbn13>9780394800271</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3808</ratings_count>
+<publication_year>1962</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>211156</id>
+<name>Roy McKie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/211156.Roy_McKie]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

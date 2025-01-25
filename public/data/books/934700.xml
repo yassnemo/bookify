@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>934700</id>
+  <title>In a People House</title>
+  <isbn><![CDATA[0394823958]]></isbn>
+  <isbn13><![CDATA[9780394823959]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Random House Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[When a spunky mouse invites a passing bird to see what's inside a People House, chaos ensues while beginning readers learn the names of 65 common household items<i>—and </i>that people are generally not pleased to find mice and birds in their houses! A super simple, delightfully silly introduction to objects around the home—from none other than Dr. Seuss!]]></description>
+  <work>
+  <id type="integer">919688</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">934700</best_book_id>
+  <reviews_count type="integer">15180</reviews_count>
+  <ratings_sum type="integer">50269</ratings_sum>
+  <ratings_count type="integer">12181</ratings_count>
+  <text_reviews_count type="integer">163</text_reviews_count>
+  <original_publication_year type="integer">1972</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>In a People House</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5775|4:3010|3:2675|2:608|1:113|total:12181</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.13</average_rating>
+  <num_pages><![CDATA[36]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11980]]></ratings_count>
+  <text_reviews_count><![CDATA[149]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/934700.In_a_People_House]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/934700.In_a_People_House]]></link>
+  <authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2462854</ratings_count>
+<text_reviews_count>42353</text_reviews_count>
+</author>
+<author>
+<id>398177</id>
+<name>Theo LeSieg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210787606p5/398177.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210787606p2/398177.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/398177.Theo_LeSieg]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>74675</ratings_count>
+<text_reviews_count>1571</text_reviews_count>
+</author>
+<author>
+<id>211156</id>
+<name>Roy McKie</name>
+<role>illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/211156.Roy_McKie]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>50926</ratings_count>
+<text_reviews_count>950</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/934700.In_a_People_House">In a People House Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0394823958&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/934700.In_a_People_House?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1648"/>
+      <shelf name="childrens" count="153"/>
+      <shelf name="children" count="139"/>
+      <shelf name="picture-books" count="130"/>
+      <shelf name="children-s-books" count="114"/>
+      <shelf name="children-s" count="113"/>
+      <shelf name="kids" count="92"/>
+      <shelf name="dr-seuss" count="81"/>
+      <shelf name="childrens-books" count="59"/>
+      <shelf name="fiction" count="43"/>
+      <shelf name="kids-books" count="37"/>
+      <shelf name="childhood" count="26"/>
+      <shelf name="currently-reading" count="25"/>
+      <shelf name="favorites" count="23"/>
+      <shelf name="picture-book" count="21"/>
+      <shelf name="books-i-own" count="20"/>
+      <shelf name="owned" count="19"/>
+      <shelf name="poetry" count="17"/>
+      <shelf name="classics" count="17"/>
+      <shelf name="fantasy" count="13"/>
+      <shelf name="children-books" count="13"/>
+      <shelf name="animals" count="13"/>
+      <shelf name="dr-suess" count="12"/>
+      <shelf name="humor" count="11"/>
+      <shelf name="picture" count="11"/>
+      <shelf name="easy-reader" count="10"/>
+      <shelf name="seuss" count="10"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="children-s-lit" count="9"/>
+      <shelf name="childhood-books" count="9"/>
+      <shelf name="childhood-favorites" count="9"/>
+      <shelf name="children-s-literature" count="9"/>
+      <shelf name="dr--seuss" count="9"/>
+      <shelf name="kid-books" count="8"/>
+      <shelf name="childrens-picture-books" count="8"/>
+      <shelf name="children-s-picture-books" count="8"/>
+      <shelf name="library" count="7"/>
+      <shelf name="home" count="7"/>
+      <shelf name="kindergarten" count="7"/>
+      <shelf name="preschool" count="7"/>
+      <shelf name="rhyming" count="7"/>
+      <shelf name="early-readers" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="early-reader" count="7"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="easy-readers" count="6"/>
+      <shelf name="beginning-readers" count="6"/>
+      <shelf name="i-own" count="6"/>
+      <shelf name="young-adult" count="6"/>
+      <shelf name="classroom-library" count="5"/>
+      <shelf name="my-childhood" count="5"/>
+      <shelf name="children-s-books-read" count="5"/>
+      <shelf name="picturebooks" count="5"/>
+      <shelf name="read-as-a-kid" count="5"/>
+      <shelf name="books-we-own" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="kids-book" count="4"/>
+      <shelf name="picturebook" count="4"/>
+      <shelf name="storytime" count="4"/>
+      <shelf name="early-childhood" count="4"/>
+      <shelf name="little-kids" count="4"/>
+      <shelf name="house" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="children-picture" count="4"/>
+      <shelf name="favorite-children-s-books" count="4"/>
+      <shelf name="children-teen" count="4"/>
+      <shelf name="children-s-fiction" count="4"/>
+      <shelf name="beginner-readers" count="4"/>
+      <shelf name="youth" count="4"/>
+      <shelf name="favorite-childrens-books" count="4"/>
+      <shelf name="elementary" count="4"/>
+      <shelf name="dr--suess" count="4"/>
+      <shelf name="books-for-children" count="4"/>
+      <shelf name="read-to-kids" count="4"/>
+      <shelf name="read-more-than-once" count="4"/>
+      <shelf name="childrensbooks" count="4"/>
+      <shelf name="personal-library" count="3"/>
+      <shelf name="children-s-picture-book" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="books-i-read-as-a-kid" count="3"/>
+      <shelf name="books-i-read-to-my-kids" count="3"/>
+      <shelf name="kid-s-library" count="3"/>
+      <shelf name="rhyme" count="3"/>
+      <shelf name="vocabulary" count="3"/>
+      <shelf name="kiddie-lit" count="3"/>
+      <shelf name="own-read" count="3"/>
+      <shelf name="books-from-my-childhood" count="3"/>
+      <shelf name="mice" count="3"/>
+      <shelf name="read-children-s-books" count="3"/>
+      <shelf name="favorite-kids-books" count="3"/>
+      <shelf name="when-i-was-young" count="3"/>
+      <shelf name="hardback" count="3"/>
+      <shelf name="easy" count="3"/>
+      <shelf name="children-s-books-i-own" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="my-kids-books" count="3"/>
+      <shelf name="childhood-reads" count="3"/>
+      <shelf name="children-young-adult" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>781731</id>
+<user_position></user_position>
+<series>
+<id>154938</id>
+<title>
+<![CDATA[
+    Bright and Early Books for Beginning Beginners
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>12</series_works_count>
+<primary_work_count>12</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>859778</id>
+<title>Bears on Wheels</title>
+<title_without_series>Bears on Wheels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/859778.Bears_on_Wheels]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>33</num_pages>
+<work>
+<id>1116493</id>
+</work>
+<isbn>0001712896</isbn>
+<isbn13>9780001712898</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>9988</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>3</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1763233</id>
+<title><![CDATA[The Ear Book (Bright & Early Books)]]></title>
+<title_without_series>The Ear Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1763233.The_Ear_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>3390913</id>
+</work>
+<isbn>0394811992</isbn>
+<isbn13>9780394811994</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6459</ratings_count>
+<publication_year>1968</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>11094</id>
+<name>Al Perkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11094.Al_Perkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>109522</id>
+<title>All by Myself</title>
+<title_without_series>All by Myself</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109522.All_by_Myself]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>105544</id>
+</work>
+<isbn>0307119386</isbn>
+<isbn13>9780307119384</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6673</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>488923</id>
+<title>A to Z</title>
+<title_without_series>A to Z</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/488923.A_to_Z]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>477177</id>
+</work>
+<isbn>0671493175</isbn>
+<isbn13>9780671493172</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>6396</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>197081</id>
+<title><![CDATA[I'll Teach My Dog a Lot of Words]]></title>
+<title_without_series><![CDATA[I'll Teach My Dog a Lot of Words]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/197081.I_ll_Teach_My_Dog_a_Lot_of_Words]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403177052s/197081.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403177052m/197081.jpg]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>919105</id>
+</work>
+<isbn>0375800999</isbn>
+<isbn13>9780375800993</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>7401</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>4025666</id>
+<name>Michael Frith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4025666.Michael_Frith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>826281</id>
+<title>Sam and the Firefly</title>
+<title_without_series>Sam and the Firefly</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/826281.Sam_and_the_Firefly]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320398036s/826281.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320398036m/826281.jpg]]></image_url>
+<num_pages>62</num_pages>
+<work>
+<id>812020</id>
+</work>
+<isbn>0394800060</isbn>
+<isbn13>9780394800066</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>4698</ratings_count>
+<publication_year>1958</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13898</id>
+<name>P.D. Eastman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13898.P_D_Eastman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>275377</id>
+<title><![CDATA[Oh the Things You Can Do That Are Good for You!]]></title>
+<title_without_series><![CDATA[Oh the Things You Can Do That Are Good for You!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/275377.Oh_the_Things_You_Can_Do_That_Are_Good_for_You_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>267036</id>
+</work>
+<isbn>0007130619</isbn>
+<isbn13>9780007130610</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>1558</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>80268</id>
+<name>Tish Rabe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80268.Tish_Rabe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1244311</id>
+<title><![CDATA[It's Not Easy Being Big! (Bright & Early Books)]]></title>
+<title_without_series>It&apos;s Not Easy Being Big!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1244311.It_s_Not_Easy_Being_Big_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>1233023</id>
+</work>
+<isbn>0679888101</isbn>
+<isbn13>9780679888109</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>466</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>39010</id>
+<name>Stephanie St. Pierre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39010.Stephanie_St_Pierre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1359156</id>
+<title><![CDATA[I Want to Be Somebody New! (Beginner Books(R))]]></title>
+<title_without_series><![CDATA[I Want to Be Somebody New! (Beginner Books]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1359156.I_Want_to_Be_Somebody_New_Beginner_Books]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320393593s/1359156.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320393593m/1359156.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1348923</id>
+</work>
+<isbn>0394876164</isbn>
+<isbn13>9780394876160</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>3670</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>84719</id>
+<name>Robert Lopshire</name>
+<link><![CDATA[https://www.goodreads.com/author/show/84719.Robert_Lopshire]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>972530</id>
+<title><![CDATA[The Hair Book (Bright & Early Book)]]></title>
+<title_without_series>The Hair Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/972530.The_Hair_Book]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1282419816s/972530.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1282419816m/972530.jpg]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>957427</id>
+</work>
+<isbn>0394836650</isbn>
+<isbn13>9780394836652</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1613</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>257897</id>
+<name>Graham Tether</name>
+<link><![CDATA[https://www.goodreads.com/author/show/257897.Graham_Tether]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>828391</id>
+<title>Robert the Rose Horse</title>
+<title_without_series>Robert the Rose Horse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/828391.Robert_the_Rose_Horse]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320398057s/828391.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320398057m/828391.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>814088</id>
+</work>
+<isbn>0394800257</isbn>
+<isbn13>9780394800257</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>2972</ratings_count>
+<publication_year>1962</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4361</id>
+<name>Joan Heilbroner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4361.Joan_Heilbroner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1220113</id>
+<title>It&apos;s Not Easy Being a Bunny</title>
+<title_without_series>It&apos;s Not Easy Being a Bunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1220113.It_s_Not_Easy_Being_a_Bunny]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>57380</id>
+</work>
+<isbn>0394861027</isbn>
+<isbn13>9780394861029</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>4176</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>21489</id>
+<name>Marilyn Sadler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21489.Marilyn_Sadler]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

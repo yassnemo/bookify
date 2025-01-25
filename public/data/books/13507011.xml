@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13507011</id>
+  <title>Low Pressure</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1396934108m/13507011.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1396934108s/13507011.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>18</publication_day>
+  <publisher>Hachette Audio</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>Length: 13 hrs and 15 mins </b><br /><br />Bellamy Lyston Price was only 12 years old when her older sister Susan was killed on a stormy Memorial Day. Bellamy's fear of storms is a legacy of the tornado that destroyed the crime scene as well as her memory of one vital fact that still eludes her... <br /><br />Now, 18 years later, Bellamy has written a novel based on Susan's murder. It's her first book, and it's an instant sensation. But because the novel is based on the most traumatic event of her life, she's published it under a pseudonym to protect herself and her family.<br /><br />But when a sleazy reporter for a tabloid newspaper discovers that the book is based on a real crime, Bellamy's identity - and dark family secrets -- are exposed. Suddenly, she finds herself embroiled in a personal conflict and at the mercy of her sister's killer, who for almost two decades has gotten away with murder...and will stop at nothing to keep it that way.]]></description>
+  <work>
+  <id type="integer">19058182</id>
+  <books_count type="integer">38</books_count>
+  <best_book_id type="integer">13507011</best_book_id>
+  <reviews_count type="integer">26789</reviews_count>
+  <ratings_sum type="integer">57589</ratings_sum>
+  <ratings_count type="integer">14905</ratings_count>
+  <text_reviews_count type="integer">1354</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Low Pressure</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3921|4:6197|3:3808|2:793|1:186|total:14905</rating_dist>
+  <desc_user_id type="integer">4457513</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[Audible Audio]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12086]]></ratings_count>
+  <text_reviews_count><![CDATA[1096]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13507011-low-pressure]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13507011-low-pressure]]></link>
+  <authors>
+<author>
+<id>6218</id>
+<name>Sandra Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1500485527p5/6218.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1500485527p2/6218.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6218.Sandra_Brown]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>502353</ratings_count>
+<text_reviews_count>31773</text_reviews_count>
+</author>
+<author>
+<id>24659</id>
+<name>Stephen Lang</name>
+<role>Narrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24659.Stephen_Lang]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>22982</ratings_count>
+<text_reviews_count>2299</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13507011-low-pressure">Low Pressure Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/13507011-low-pressure?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8106"/>
+      <shelf name="currently-reading" count="380"/>
+      <shelf name="sandra-brown" count="226"/>
+      <shelf name="mystery" count="165"/>
+      <shelf name="romantic-suspense" count="131"/>
+      <shelf name="romance" count="122"/>
+      <shelf name="fiction" count="99"/>
+      <shelf name="suspense" count="79"/>
+      <shelf name="thriller" count="60"/>
+      <shelf name="audiobook" count="42"/>
+      <shelf name="default" count="41"/>
+      <shelf name="owned" count="39"/>
+      <shelf name="audiobooks" count="38"/>
+      <shelf name="books-i-own" count="37"/>
+      <shelf name="audio" count="36"/>
+      <shelf name="library" count="35"/>
+      <shelf name="brown-sandra" count="32"/>
+      <shelf name="favorites" count="30"/>
+      <shelf name="contemporary" count="30"/>
+      <shelf name="mystery-thriller" count="28"/>
+      <shelf name="audio-book" count="23"/>
+      <shelf name="kindle" count="23"/>
+      <shelf name="adult" count="21"/>
+      <shelf name="mystery-suspense" count="21"/>
+      <shelf name="crime" count="20"/>
+      <shelf name="audio-books" count="19"/>
+      <shelf name="read-in-2013" count="18"/>
+      <shelf name="romance-suspense" count="17"/>
+      <shelf name="ebook" count="17"/>
+      <shelf name="contemporary-romance" count="17"/>
+      <shelf name="read-in-2014" count="15"/>
+      <shelf name="have" count="14"/>
+      <shelf name="book-club" count="13"/>
+      <shelf name="read-2013" count="13"/>
+      <shelf name="owned-books" count="12"/>
+      <shelf name="my-books" count="12"/>
+      <shelf name="library-book" count="12"/>
+      <shelf name="ebooks" count="12"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="i-own" count="11"/>
+      <shelf name="chick-lit" count="11"/>
+      <shelf name="murder" count="11"/>
+      <shelf name="thrillers" count="10"/>
+      <shelf name="adult-fiction" count="9"/>
+      <shelf name="mysteries" count="9"/>
+      <shelf name="thriller-suspense" count="8"/>
+      <shelf name="murder-mystery" count="8"/>
+      <shelf name="drama" count="8"/>
+      <shelf name="read-2014" count="7"/>
+      <shelf name="crime-fiction" count="7"/>
+      <shelf name="nook" count="7"/>
+      <shelf name="family" count="7"/>
+      <shelf name="read-2012" count="7"/>
+      <shelf name="suspense-thriller" count="7"/>
+      <shelf name="read-in-2012" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="brown" count="7"/>
+      <shelf name="2012-reads" count="7"/>
+      <shelf name="first-reads" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="to-read-own" count="6"/>
+      <shelf name="contemporary-fiction" count="6"/>
+      <shelf name="rom-suspense" count="6"/>
+      <shelf name="2013-read" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="purchased" count="6"/>
+      <shelf name="giveaways" count="6"/>
+      <shelf name="mystery-thrillers" count="6"/>
+      <shelf name="books-read-in-2012" count="6"/>
+      <shelf name="books" count="6"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="2016-books" count="5"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="2015-reads" count="5"/>
+      <shelf name="owned-to-read" count="5"/>
+      <shelf name="books-i-have" count="5"/>
+      <shelf name="suspence" count="5"/>
+      <shelf name="overdrive" count="5"/>
+      <shelf name="mystery-thriller-suspense" count="5"/>
+      <shelf name="want" count="5"/>
+      <shelf name="book" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="stand-alone" count="4"/>
+      <shelf name="library-books" count="4"/>
+      <shelf name="favorite-author" count="4"/>
+      <shelf name="kobo" count="4"/>
+      <shelf name="favorite-authors" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="leituras-2014" count="4"/>
+      <shelf name="crime-thriller" count="4"/>
+      <shelf name="bookshelf" count="4"/>
+      <shelf name="romantic-suspence" count="4"/>
+      <shelf name="scanned" count="4"/>
+      <shelf name="own-to-read" count="4"/>
+      <shelf name="didn-t-finish" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="kindle-books" count="4"/>
+      <shelf name="4-star" count="4"/>
+      <shelf name="audible" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>13547386</id>
+<title>Shiver</title>
+<title_without_series>Shiver</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13547386-shiver]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1338697580s/13547386.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1338697580m/13547386.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>19112526</id>
+</work>
+<isbn>1451678673</isbn>
+<isbn13>9781451678673</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>4641</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>12</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>33408</id>
+<name>Karen Robards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33408.Karen_Robards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6025219</id>
+<title>Silver Falls</title>
+<title_without_series>Silver Falls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6025219-silver-falls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>377</num_pages>
+<work>
+<id>6200698</id>
+</work>
+<isbn>0778325970</isbn>
+<isbn13>9780778325970</isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>524</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>13635</id>
+<name>Anne Stuart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13635.Anne_Stuart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13126128</id>
+<title>Backfire (FBI Thriller, #16)</title>
+<title_without_series>Backfire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13126128-backfire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>405</num_pages>
+<work>
+<id>18301987</id>
+</work>
+<isbn>0399157328</isbn>
+<isbn13>9780399157325</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>7219</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>1239</id>
+<name>Catherine Coulter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1239.Catherine_Coulter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13538710</id>
+<title><![CDATA[Sleep No More (Eve Duncan, #15)]]></title>
+<title_without_series>Sleep No More</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13538710-sleep-no-more]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1339076545s/13538710.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1339076545m/13538710.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>19101060</id>
+</work>
+<isbn>0312651244</isbn>
+<isbn13>9780312651244</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>5656</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32498</id>
+<name>Iris Johansen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32498.Iris_Johansen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12351871</id>
+<title>You Don&apos;t Want To Know</title>
+<title_without_series>You Don&apos;t Want To Know</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12351871-you-don-t-want-to-know]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1336422274s/12351871.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1336422274m/12351871.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>17331427</id>
+</work>
+<isbn>0758258577</isbn>
+<isbn13>9780758258571</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>6602</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>13757</id>
+<name>Lisa Jackson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13757.Lisa_Jackson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28649905</id>
+<title><![CDATA[Cold Hearted (Cold Justice, #6)]]></title>
+<title_without_series>Cold Hearted</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28649905-cold-hearted]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456684901s/28649905.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456684901m/28649905.jpg]]></image_url>
+<num_pages>333</num_pages>
+<work>
+<id>48837477</id>
+</work>
+<isbn>0994870108</isbn>
+<isbn13>9780994870100</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>513</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>2820461</id>
+<name>Toni Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2820461.Toni_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12147379</id>
+<title><![CDATA[Edge of Midnight (Chasing Evil, #3)]]></title>
+<title_without_series>Edge of Midnight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12147379-edge-of-midnight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1446130447s/12147379.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1446130447m/12147379.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>17117904</id>
+</work>
+<isbn>0778313131</isbn>
+<isbn13>9780778313137</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1014</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>4152268</id>
+<name>Leslie Tentler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4152268.Leslie_Tentler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13547387</id>
+<title>Scorched (Tracers #6)</title>
+<title_without_series>Scorched</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13547387-scorched]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1339809591s/13547387.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1339809591m/13547387.jpg]]></image_url>
+<num_pages>387</num_pages>
+<work>
+<id>19112527</id>
+</work>
+<isbn>1451617399</isbn>
+<isbn13>9781451617399</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1859</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>84181</id>
+<name>Laura Griffin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/84181.Laura_Griffin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12958009</id>
+<title><![CDATA[Sweet Talk (Buchanan-Renard, #10)]]></title>
+<title_without_series>Sweet Talk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12958009-sweet-talk]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334377176s/12958009.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334377176m/12958009.jpg]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>18115333</id>
+</work>
+<isbn></isbn>
+<isbn13>9781101590898</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>8834</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6251</id>
+<name>Julie Garwood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6251.Julie_Garwood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13044811</id>
+<title>15 Seconds</title>
+<title_without_series>15 Seconds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13044811-15-seconds]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331442246s/13044811.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331442246m/13044811.jpg]]></image_url>
+<num_pages>324</num_pages>
+<work>
+<id>18209109</id>
+</work>
+<isbn>006165597X</isbn>
+<isbn13>9780061655975</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>4766</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8214</id>
+<name>Andrew Gross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8214.Andrew_Gross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11089344</id>
+<title><![CDATA[If You See Her (The Ash Trilogy, #2)]]></title>
+<title_without_series>If You See Her</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11089344-if-you-see-her]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>15312047</id>
+</work>
+<isbn>0345517547</isbn>
+<isbn13>9780345517548</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1831</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>96909</id>
+<name>Shiloh Walker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/96909.Shiloh_Walker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1447708</id>
+<title>Depth Perception</title>
+<title_without_series>Depth Perception</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1447708.Depth_Perception]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309284012s/1447708.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309284012m/1447708.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1438416</id>
+</work>
+<isbn>0425201090</isbn>
+<isbn13>9780425201091</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>473</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>54958</id>
+<name>Linda Castillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54958.Linda_Castillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11994905</id>
+<title><![CDATA[Run from Fear (Dead Wrong, #3)]]></title>
+<title_without_series>Run from Fear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11994905-run-from-fear]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330242887s/11994905.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330242887m/11994905.jpg]]></image_url>
+<num_pages>449</num_pages>
+<work>
+<id>16959033</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1069</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>394156</id>
+<name>Jami Alden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/394156.Jami_Alden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18284035</id>
+<title>The World in Reverse</title>
+<title_without_series>The World in Reverse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18284035-the-world-in-reverse]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1375663909s/18284035.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1375663909m/18284035.jpg]]></image_url>
+<num_pages>497</num_pages>
+<work>
+<id>25758557</id>
+</work>
+<isbn>0983981957</isbn>
+<isbn13>9780983981954</isbn13>
+<average_rating>4.47</average_rating>
+<ratings_count>417</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1309626</id>
+<name>Latrivia S. Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1309626.Latrivia_S_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13331181</id>
+<title>Shadow Woman</title>
+<title_without_series>Shadow Woman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13331181-shadow-woman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1351203416s/13331181.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1351203416m/13331181.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>18538883</id>
+</work>
+<isbn>0345506936</isbn>
+<isbn13>9780345506931</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>6093</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16961</id>
+<name>Linda Howard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16961.Linda_Howard]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

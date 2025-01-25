@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>32831</id>
+  <title><![CDATA[The Mysterious Island (Extraordinary Voyages, #12)]]></title>
+  <isbn><![CDATA[0812972120]]></isbn>
+  <isbn13><![CDATA[9780812972122]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01N9YVRFA]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Modern Library</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Five Union prisoners escape from the siege of Richmond in a balloon, are blown off course and crash on an uncharted island. They must learn to rebuild a society for themselves while awaiting rescue.]]></description>
+  <work>
+  <id type="integer">1167706</id>
+  <books_count type="integer">662</books_count>
+  <best_book_id type="integer">32831</best_book_id>
+  <reviews_count type="integer">66063</reviews_count>
+  <ratings_sum type="integer">140494</ratings_sum>
+  <ratings_count type="integer">34418</ratings_count>
+  <text_reviews_count type="integer">1215</text_reviews_count>
+  <original_publication_year type="integer">1874</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>L'île mystérieuse</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:13710|4:11989|3:6946|2:1377|1:396|total:34418</rating_dist>
+  <desc_user_id type="integer">17406605</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.08</average_rating>
+  <num_pages><![CDATA[723]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[26460]]></ratings_count>
+  <text_reviews_count><![CDATA[795]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32831.The_Mysterious_Island]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32831.The_Mysterious_Island]]></link>
+  <authors>
+<author>
+<id>696805</id>
+<name>Jules Verne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322911579p5/696805.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322911579p2/696805.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/696805.Jules_Verne]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>566801</ratings_count>
+<text_reviews_count>18802</text_reviews_count>
+</author>
+<author>
+<id>27779</id>
+<name>Caleb Carr</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1498203514p5/27779.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1498203514p2/27779.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27779.Caleb_Carr]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>157647</ratings_count>
+<text_reviews_count>7279</text_reviews_count>
+</author>
+<author>
+<id>168380</id>
+<name>Jordan Stump</name>
+<role>Translation</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/168380.Jordan_Stump]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>29078</ratings_count>
+<text_reviews_count>1246</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32831.The_Mysterious_Island">The Mysterious Island Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0812972120&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/32831.The_Mysterious_Island?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="science-fiction" count="427"/>
+      <shelf name="adventure" count="372"/>
+      <shelf name="to-read" count="275"/>
+      <shelf name="favorites" count="257"/>
+      <shelf name="classic" count="211"/>
+      <shelf name="kindle" count="195"/>
+      <shelf name="fantasy" count="161"/>
+      <shelf name="owned" count="159"/>
+      <shelf name="classics" count="107"/>
+      <shelf name="french" count="103"/>
+      <shelf name="books-i-own" count="101"/>
+      <shelf name="jules-verne" count="96"/>
+      <shelf name="novels" count="51"/>
+      <shelf name="ebooks" count="51"/>
+      <shelf name="scifi" count="50"/>
+      <shelf name="to-buy" count="42"/>
+      <shelf name="novel" count="41"/>
+      <shelf name="mystery" count="40"/>
+      <shelf name="sci-fi-fantasy" count="40"/>
+      <shelf name="currently-reading" count="39"/>
+      <shelf name="default" count="36"/>
+      <shelf name="owned-books" count="35"/>
+      <shelf name="fiction" count="34"/>
+      <shelf name="france" count="31"/>
+      <shelf name="my-books" count="30"/>
+      <shelf name="historical-fiction" count="29"/>
+      <shelf name="audible" count="28"/>
+      <shelf name="e-books" count="27"/>
+      <shelf name="young-adult" count="26"/>
+      <shelf name="my-library" count="25"/>
+      <shelf name="classics-to-read" count="25"/>
+      <shelf name="verne" count="25"/>
+      <shelf name="library" count="24"/>
+      <shelf name="steampunk" count="23"/>
+      <shelf name="e-book" count="23"/>
+      <shelf name="to-read-classics" count="23"/>
+      <shelf name="survival" count="23"/>
+      <shelf name="lost" count="23"/>
+      <shelf name="scifi-fantasy" count="22"/>
+      <shelf name="sf" count="22"/>
+      <shelf name="children" count="21"/>
+      <shelf name="favourites" count="21"/>
+      <shelf name="books" count="20"/>
+      <shelf name="sci-fi" count="19"/>
+      <shelf name="abandoned" count="19"/>
+      <shelf name="audiobooks" count="19"/>
+      <shelf name="historical" count="18"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="own-it" count="16"/>
+      <shelf name="action-adventure" count="16"/>
+      <shelf name="on-kindle" count="15"/>
+      <shelf name="adventures" count="15"/>
+      <shelf name="series" count="14"/>
+      <shelf name="favorite" count="14"/>
+      <shelf name="science-fiction-fantasy" count="14"/>
+      <shelf name="on-my-kindle" count="13"/>
+      <shelf name="classic-fiction" count="13"/>
+      <shelf name="castaways" count="13"/>
+      <shelf name="fantasy-sci-fi" count="13"/>
+      <shelf name="unread" count="13"/>
+      <shelf name="shelfari-favorites" count="12"/>
+      <shelf name="amazon" count="12"/>
+      <shelf name="other" count="12"/>
+      <shelf name="lost-books" count="12"/>
+      <shelf name="speculative-fiction" count="12"/>
+      <shelf name="science" count="11"/>
+      <shelf name="finished" count="11"/>
+      <shelf name="re-read" count="11"/>
+      <shelf name="have" count="11"/>
+      <shelf name="childrens" count="11"/>
+      <shelf name="adult" count="11"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="fiction-classics" count="10"/>
+      <shelf name="kids" count="10"/>
+      <shelf name="classic-lit" count="9"/>
+      <shelf name="owned-to-read" count="9"/>
+      <shelf name="to-read-kindle" count="9"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="own-to-read" count="9"/>
+      <shelf name="victorian" count="9"/>
+      <shelf name="own-not-read" count="9"/>
+      <shelf name="book-club" count="9"/>
+      <shelf name="paperback" count="9"/>
+      <shelf name="classiques" count="9"/>
+      <shelf name="unfinished" count="9"/>
+      <shelf name="translated" count="9"/>
+      <shelf name="children-s" count="9"/>
+      <shelf name="sf-fantasy" count="8"/>
+      <shelf name="klassiker" count="8"/>
+      <shelf name="deserted-island" count="8"/>
+      <shelf name="travel" count="8"/>
+      <shelf name="to-read-owned" count="8"/>
+      <shelf name="french-lit" count="8"/>
+      <shelf name="clasicos" count="8"/>
+      <shelf name="pirates" count="8"/>
+      <shelf name="bookshelf" count="8"/>
+      <shelf name="action" count="8"/>
+      <shelf name="clásicos" count="8"/>
+      <shelf name="captain-nemo" count="7"/>
+      <shelf name="clublecturems" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>621673</id>
+<user_position>2</user_position>
+<series>
+<id>127015</id>
+<title>
+<![CDATA[
+    Captain Nemo
+]]>
+</title>
+<description>
+<![CDATA[
+    Jules Verne wrote 20,000 Leagues Under the Sea, which featured Captain Nemo as a primary character, in 1870. He wrote the Mysterious Island in 1874-75 as a sequel. It also features Captain Nemo.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1086618</id>
+<user_position>12</user_position>
+<series>
+<id>210816</id>
+<title>
+<![CDATA[
+    Extraordinary Voyages
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>16</series_works_count>
+<primary_work_count>14</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+      <public_document>
+        <id>3370</id>
+        <document_url>
+          http://feedbooks.com/book/2448.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>403277</id>
+<title><![CDATA[The Land That Time Forgot (Caspak, #1-3)]]></title>
+<title_without_series>The Land That Time Forgot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/403277.The_Land_That_Time_Forgot]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328818810s/403277.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328818810m/403277.jpg]]></image_url>
+<num_pages>434</num_pages>
+<work>
+<id>1791151</id>
+</work>
+<isbn>0803261543</isbn>
+<isbn13>9780803261549</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>6982</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10885</id>
+<name>Edgar Rice Burroughs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>572692</id>
+<title>Всадник без головы</title>
+<title_without_series>Всадник без головы</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/572692._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>2576674</id>
+</work>
+<isbn>5948491307</isbn>
+<isbn13>9785948491301</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>6173</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>312934</id>
+<name>Mayne Reid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/312934.Mayne_Reid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10150</id>
+<title><![CDATA[The Lost World & Other Stories]]></title>
+<title_without_series><![CDATA[The Lost World & Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10150.The_Lost_World_Other_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1488137288s/10150.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1488137288m/10150.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>18350494</id>
+</work>
+<isbn>1853262455</isbn>
+<isbn13>9781853262456</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>1040</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2448</id>
+<name>Arthur Conan Doyle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29966</id>
+<title>The Shape of Things to Come</title>
+<title_without_series>The Shape of Things to Come</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29966.The_Shape_of_Things_to_Come]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1011738</id>
+</work>
+<isbn>0141441046</isbn>
+<isbn13>9780141441047</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>831</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1678929</id>
+<title>The Stone Leopard</title>
+<title_without_series>The Stone Leopard</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1678929.The_Stone_Leopard]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356138927s/1678929.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356138927m/1678929.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1674384</id>
+</work>
+<isbn>0330248170</isbn>
+<isbn13>9780330248174</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>401</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>243122</id>
+<name>Colin Forbes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/243122.Colin_Forbes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>863689</id>
+<title>The Moon Pool</title>
+<title_without_series>The Moon Pool</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/863689.The_Moon_Pool]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>937185</id>
+</work>
+<isbn>0819567078</isbn>
+<isbn13>9780819567079</isbn13>
+<average_rating>3.35</average_rating>
+<ratings_count>661</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>16022666</id>
+<name>Abraham Grace Merritt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16022666.Abraham_Grace_Merritt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>237646</id>
+<title>Le tigri di Mompracem </title>
+<title_without_series>Le tigri di Mompracem</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/237646.Le_tigri_di_Mompracem]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>2059288</id>
+</work>
+<isbn>8809034651</isbn>
+<isbn13>9788809034655</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1602</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>44810</id>
+<name>Emilio Salgari</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44810.Emilio_Salgari]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>347245</id>
+<title><![CDATA[The Pathfinder (Leatherstocking Tales, #3)]]></title>
+<title_without_series>The Pathfinder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/347245.The_Pathfinder]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309282879s/347245.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309282879m/347245.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>3063028</id>
+</work>
+<isbn>0451530195</isbn>
+<isbn13>9780451530196</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>9121</id>
+<name>James Fenimore Cooper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9121.James_Fenimore_Cooper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>728903</id>
+<title>The People of the Mist</title>
+<title_without_series>The People of the Mist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/728903.The_People_of_the_Mist]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391629878s/728903.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391629878m/728903.jpg]]></image_url>
+<num_pages>428</num_pages>
+<work>
+<id>1537321</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>2778</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4633123</id>
+<name>H. Rider Haggard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4633123.H_Rider_Haggard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1479944</id>
+<title><![CDATA[Урфин Джюс и его деревянные солдаты (Волшебник изумрудного города, #2)]]></title>
+<title_without_series><![CDATA[Урфин Джюс и его деревянные солдаты]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1479944._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1347785344s/1479944.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1347785344m/1479944.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>1662371</id>
+</work>
+<isbn>5900986039</isbn>
+<isbn13>9785900986036</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>1175</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>674125</id>
+<name>Alexander Volkov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/674125.Alexander_Volkov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77956</id>
+<title>Lancelot</title>
+<title_without_series>Lancelot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77956.Lancelot]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327886212s/77956.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327886212m/77956.jpg]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>875478</id>
+</work>
+<isbn>0312243073</isbn>
+<isbn13>9780312243074</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>2244</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>337</id>
+<name>Walker Percy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/337.Walker_Percy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>771287</id>
+<title><![CDATA[The Wonderful Adventures of Nils]]></title>
+<title_without_series><![CDATA[The Wonderful Adventures of Nils]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/771287.The_Wonderful_Adventures_of_Nils]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1293569262s/771287.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1293569262m/771287.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1752228</id>
+</work>
+<isbn>0486286118</isbn>
+<isbn13>9780486286112</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>7451</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>38266</id>
+<name>Selma Lagerlöf</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38266.Selma_Lagerl_f]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>291340</id>
+<title>After All These Years</title>
+<title_without_series>After All These Years</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/291340.After_All_These_Years]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>282663</id>
+</work>
+<isbn>0060563737</isbn>
+<isbn13>9780060563738</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>1628</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37244</id>
+<name>Susan Isaacs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37244.Susan_Isaacs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>444399</id>
+<title>Bad Twin</title>
+<title_without_series>Bad Twin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/444399.Bad_Twin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>875841</id>
+</work>
+<isbn>1401302769</isbn>
+<isbn13>9781401302764</isbn13>
+<average_rating>2.66</average_rating>
+<ratings_count>1221</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>126135</id>
+<name>Gary Troup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126135.Gary_Troup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17319</id>
+<title>The Oath (Dismas Hardy, #8)</title>
+<title_without_series>The Oath</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17319.The_Oath]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>468</num_pages>
+<work>
+<id>2334472</id>
+</work>
+<isbn>0451207645</isbn>
+<isbn13>9780451207647</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2618</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>10521</id>
+<name>John Lescroart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10521.John_Lescroart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7184</id>
+<title><![CDATA[Twenty Years After (The D'Artagnan Romances, #2)]]></title>
+<title_without_series>Twenty Years After</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7184.Twenty_Years_After]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>788</num_pages>
+<work>
+<id>666376</id>
+</work>
+<isbn>0192838431</isbn>
+<isbn13>9780192838438</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>16620</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4785</id>
+<name>Alexandre Dumas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4785.Alexandre_Dumas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1243909</id>
+<title>Приключения Чиполлино</title>
+<title_without_series>Приключения Чиполлино</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1243909._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>1232586</id>
+</work>
+<isbn>5850662847</isbn>
+<isbn13>9785850662844</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>4646</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>114467</id>
+<name>Gianni Rodari</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114467.Gianni_Rodari]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

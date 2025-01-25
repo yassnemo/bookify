@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10959</id>
+  <title>Sophie&apos;s World</title>
+  <isbn><![CDATA[1857993284]]></isbn>
+  <isbn13><![CDATA[9781857993288]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003TSDI0E]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1343459906m/10959.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1343459906s/10959.jpg</small_image_url>
+  <publication_year>1995</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Phoenix</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Sophie finds two questions in her mailbox: "Who are you?" and "Where does the world come from?" This is the start of her journey through the history of philosophy, guided by a mysterious mentor. To find the truth, we must understand the questions, but the truth is stranger than Sophie can imagine.]]></description>
+  <work>
+  <id type="integer">4432325</id>
+  <books_count type="integer">239</books_count>
+  <best_book_id type="integer">10959</best_book_id>
+  <reviews_count type="integer">258880</reviews_count>
+  <ratings_sum type="integer">556668</ratings_sum>
+  <ratings_count type="integer">143505</ratings_count>
+  <text_reviews_count type="integer">7661</text_reviews_count>
+  <original_publication_year type="integer">1991</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>Sofies Verden</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:46873|4:50319|3:32379|2:9956|1:3978|total:143505</rating_dist>
+  <desc_user_id type="integer">2939418</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.88</average_rating>
+  <num_pages><![CDATA[403]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[109748]]></ratings_count>
+  <text_reviews_count><![CDATA[4253]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10959.Sophie_s_World]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10959.Sophie_s_World]]></link>
+  <authors>
+<author>
+<id>1388082</id>
+<name>Jostein Gaarder</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1314177785p5/1388082.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1314177785p2/1388082.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1388082.Jostein_Gaarder]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>206225</ratings_count>
+<text_reviews_count>12547</text_reviews_count>
+</author>
+<author>
+<id>5008438</id>
+<name>Paulette Møller</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5008438.Paulette_M_ller]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>119076</ratings_count>
+<text_reviews_count>5276</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10959.Sophie_s_World">Sophie&#39;s World Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1857993284&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/10959.Sophie_s_World?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3194"/>
+      <shelf name="currently-reading" count="690"/>
+      <shelf name="favorites" count="205"/>
+      <shelf name="to-buy" count="153"/>
+      <shelf name="روايات" count="90"/>
+      <shelf name="owned" count="86"/>
+      <shelf name="school" count="84"/>
+      <shelf name="contemporary-fiction" count="78"/>
+      <shelf name="children" count="77"/>
+      <shelf name="on-hold" count="75"/>
+      <shelf name="فلسفه" count="74"/>
+      <shelf name="philosophy" count="71"/>
+      <shelf name="nonfiction" count="63"/>
+      <shelf name="book-club" count="62"/>
+      <shelf name="default" count="51"/>
+      <shelf name="filosofía" count="51"/>
+      <shelf name="wish-list" count="48"/>
+      <shelf name="books-i-own" count="43"/>
+      <shelf name="roman" count="43"/>
+      <shelf name="fiction" count="40"/>
+      <shelf name="non-fiction" count="40"/>
+      <shelf name="to-reread" count="40"/>
+      <shelf name="paused" count="40"/>
+      <shelf name="high-school" count="40"/>
+      <shelf name="other" count="40"/>
+      <shelf name="philosophie" count="39"/>
+      <shelf name="didn-t-finish" count="38"/>
+      <shelf name="scandinavia" count="38"/>
+      <shelf name="not-finished" count="37"/>
+      <shelf name="german" count="36"/>
+      <shelf name="kindle" count="36"/>
+      <shelf name="to-read-fiction" count="36"/>
+      <shelf name="finished" count="35"/>
+      <shelf name="home-library" count="34"/>
+      <shelf name="filosofie" count="34"/>
+      <shelf name="philosophical-fiction" count="33"/>
+      <shelf name="dropped" count="33"/>
+      <shelf name="scandinavian-literature" count="33"/>
+      <shelf name="favorite-books" count="32"/>
+      <shelf name="audiobook" count="32"/>
+      <shelf name="children-s" count="31"/>
+      <shelf name="sub" count="31"/>
+      <shelf name="philosophy-religion" count="30"/>
+      <shelf name="فلسفة" count="29"/>
+      <shelf name="philo" count="28"/>
+      <shelf name="terjemahan" count="28"/>
+      <shelf name="nordic" count="28"/>
+      <shelf name="all-time-favorites" count="27"/>
+      <shelf name="for-school" count="27"/>
+      <shelf name="tbr" count="27"/>
+      <shelf name="favourite" count="26"/>
+      <shelf name="metafiction" count="26"/>
+      <shelf name="romance" count="26"/>
+      <shelf name="on-my-shelf" count="26"/>
+      <shelf name="young-adult" count="25"/>
+      <shelf name="must-read" count="25"/>
+      <shelf name="religion" count="25"/>
+      <shelf name="read-fiction" count="25"/>
+      <shelf name="contemporary" count="24"/>
+      <shelf name="literary" count="24"/>
+      <shelf name="filsafat" count="24"/>
+      <shelf name="classics" count="23"/>
+      <shelf name="in-my-library" count="23"/>
+      <shelf name="رمان" count="23"/>
+      <shelf name="religion-philosophy" count="23"/>
+      <shelf name="books" count="23"/>
+      <shelf name="spirituality" count="23"/>
+      <shelf name="fantasy" count="22"/>
+      <shelf name="novels" count="22"/>
+      <shelf name="maybe" count="22"/>
+      <shelf name="school-books" count="22"/>
+      <shelf name="favoritos" count="22"/>
+      <shelf name="children-s-books" count="22"/>
+      <shelf name="pdf" count="21"/>
+      <shelf name="ebooks" count="21"/>
+      <shelf name="childrens-books" count="21"/>
+      <shelf name="norsk" count="21"/>
+      <shelf name="history" count="20"/>
+      <shelf name="abandoned" count="20"/>
+      <shelf name="my-favorites" count="20"/>
+      <shelf name="spiritual" count="20"/>
+      <shelf name="philosphy" count="20"/>
+      <shelf name="my-books" count="19"/>
+      <shelf name="academic" count="19"/>
+      <shelf name="own-to-read" count="19"/>
+      <shelf name="deutsch" count="19"/>
+      <shelf name="favs" count="18"/>
+      <shelf name="my-shelf" count="18"/>
+      <shelf name="education" count="18"/>
+      <shelf name="biblioteca" count="18"/>
+      <shelf name="read-more-than-once" count="18"/>
+      <shelf name="audiobooks" count="18"/>
+      <shelf name="dutch" count="18"/>
+      <shelf name="novela" count="18"/>
+      <shelf name="e-book" count="17"/>
+      <shelf name="my-collection" count="17"/>
+      <shelf name="male-author" count="17"/>
+      <shelf name="bought" count="17"/>
+      <shelf name="read-in-german" count="17"/>
+      <shelf name="want-to-buy" count="16"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>13184473</id>
+<title>الأخوة كارامازوف #2</title>
+<title_without_series>الأخوة كارامازوف #2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13184473-2]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1343995669s/13184473.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1343995669m/13184473.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>42919290</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>1068</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3137322</id>
+<name>Fyodor Dostoyevsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13554343</id>
+<title><![CDATA[روح الدين: من ضيق العلمانية إلى سعة الائتمانية]]></title>
+<title_without_series><![CDATA[روح الدين: من ضيق العلمانية إلى سعة الائتمانية]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13554343]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332272734s/13554343.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332272734m/13554343.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>19124139</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>161</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1432380</id>
+<name>طه عبد الرحمن</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1432380._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>248069</id>
+<title>Child of All Nations</title>
+<title_without_series>Child of All Nations</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/248069.Child_of_All_Nations]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1464925751s/248069.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1464925751m/248069.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1600206</id>
+</work>
+<isbn>0140256334</isbn>
+<isbn13>9780140256338</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>4218</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>101823</id>
+<name>Pramoedya Ananta Toer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/101823.Pramoedya_Ananta_Toer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5781034</id>
+<title><![CDATA[حي بن يقظان: النصوص الأربعة ومبدعوها]]></title>
+<title_without_series><![CDATA[حي بن يقظان: النصوص الأربعة ومبدعوها]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5781034]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1372080970s/5781034.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1372080970m/5781034.jpg]]></image_url>
+<num_pages>234</num_pages>
+<work>
+<id>43172747</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>455</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2601604</id>
+<name>ابن طفيل</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2601604._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6177895</id>
+<title>هروبي إلى الحرية</title>
+<title_without_series>هروبي إلى الحرية</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6177895]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>468</num_pages>
+<work>
+<id>16306891</id>
+</work>
+<isbn></isbn>
+<isbn13>9781592390205</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>1382</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4859959</id>
+<name>Alija Izetbegović</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4859959.Alija_Izetbegovi_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9496620</id>
+<title>رحلة عقل</title>
+<title_without_series>رحلة عقل</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9496620]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378851780s/9496620.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378851780m/9496620.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>14382116</id>
+</work>
+<isbn>9789776278</isbn>
+<isbn13></isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>2185</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4405745</id>
+<name>عمرو شريف</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4405745._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5975953</id>
+<title>عالم بلا خرائط</title>
+<title_without_series>عالم بلا خرائط</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5975953]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>6149204</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1130</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5769580</id>
+<name>Abdul Rahman Munif</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5769580.Abdul_Rahman_Munif]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6286604</id>
+<title>وعاظ السلاطين</title>
+<title_without_series>وعاظ السلاطين</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6286604]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>6470785</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>5674</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2798546</id>
+<name>علي الوردي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2798546._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>84739</id>
+<title><![CDATA[Zeno and the Tortoise: How to Think Like a Philosopher]]></title>
+<title_without_series><![CDATA[Zeno and the Tortoise: How to Think Like a Philosopher]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/84739.Zeno_and_the_Tortoise]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>81778</id>
+</work>
+<isbn>0802139175</isbn>
+<isbn13>9780802139177</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>199</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>48491</id>
+<name>Nicholas Fearn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48491.Nicholas_Fearn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>153496</id>
+<title>Leo Africanus</title>
+<title_without_series>Leo Africanus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/153496.Leo_Africanus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>2944320</id>
+</work>
+<isbn>1561310220</isbn>
+<isbn13>9781561310227</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>7395</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>36378</id>
+<name>Amin Maalouf</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36378.Amin_Maalouf]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6379002</id>
+<title>اللوح الأزرق</title>
+<title_without_series>اللوح الأزرق</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6379002]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>564</num_pages>
+<work>
+<id>6566801</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1047</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>145084</id>
+<name>Gilbert Sinoué</name>
+<link><![CDATA[https://www.goodreads.com/author/show/145084.Gilbert_Sinou_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1417670</id>
+<title>Wisdom of the West</title>
+<title_without_series>Wisdom of the West</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1417670.Wisdom_of_the_West]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365431939s/1417670.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365431939m/1417670.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>1408042</id>
+</work>
+<isbn>1870630726</isbn>
+<isbn13>9781870630726</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>297</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>17854</id>
+<name>Bertrand Russell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17854.Bertrand_Russell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53085</id>
+<title>A History of Reading</title>
+<title_without_series>A History of Reading</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53085.A_History_of_Reading]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>1334214</id>
+</work>
+<isbn>0140166548</isbn>
+<isbn13>9780140166545</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3133</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3602</id>
+<name>Alberto Manguel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3602.Alberto_Manguel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100021</id>
+<title><![CDATA[What Does It All Mean? A Very Short Introduction to Philosophy]]></title>
+<title_without_series><![CDATA[What Does It All Mean? A Very Short Introduction to Philosophy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100021.What_Does_It_All_Mean_A_Very_Short_Introduction_to_Philosophy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>425461</id>
+</work>
+<isbn>0195052161</isbn>
+<isbn13>9780195052169</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>1570</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>57677</id>
+<name>Thomas Nagel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57677.Thomas_Nagel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9965509</id>
+<title>أقدم لك الفلسفة</title>
+<title_without_series>أقدم لك الفلسفة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9965509]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>32097</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>578</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17932</id>
+<name>Dave Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17932.Dave_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31854</id>
+<title>Philosophy: The Basics</title>
+<title_without_series>Philosophy: The Basics</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31854.Philosophy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366835179s/31854.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366835179m/31854.jpg]]></image_url>
+<num_pages>169</num_pages>
+<work>
+<id>32070</id>
+</work>
+<isbn>0415327733</isbn>
+<isbn13>9780415327732</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1121</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17961</id>
+<name>Nigel Warburton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17961.Nigel_Warburton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10068074</id>
+<title>The Train</title>
+<title_without_series>The Train</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10068074-the-train]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>3321317</id>
+</work>
+<isbn>1935554468</isbn>
+<isbn13>9781935554462</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>923</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>9693</id>
+<name>Georges Simenon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9693.Georges_Simenon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13424099</id>
+<title>دين الفطرة</title>
+<title_without_series>دين الفطرة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13424099]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1427422890s/13424099.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1427422890m/13424099.jpg]]></image_url>
+<num_pages>134</num_pages>
+<work>
+<id>18887407</id>
+</work>
+<isbn></isbn>
+<isbn13>9789953685359</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1678</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7994</id>
+<name>Jean-Jacques Rousseau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7994.Jean_Jacques_Rousseau]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

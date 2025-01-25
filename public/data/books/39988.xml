@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>39988</id>
+  <title>Matilda</title>
+  <isbn><![CDATA[0141301066]]></isbn>
+  <isbn13><![CDATA[9780141301068]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B002VISN9E]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Matilda is a little girl who is far too good to be true. At age five-and-a-half she's knocking off double-digit multiplication problems and blitz-reading Dickens. Even more remarkably, her classmates love her even though she's a super-nerd and the teacher's pet. But everything is not perfect in Matilda's world. For starters she has two of the most idiotic, self-centered parents who ever lived. Then there's the large, busty nightmare of a school principal, Mrs. ("The") Trunchbull, a former hammer-throwing champion who flings children at will and is approximately as sympathetic as a bulldozer. Fortunately for Matilda, she has the inner resources to deal with such annoyances: astonishing intelligence, saintly patience, and an innate predilection for revenge.<br /><br />She warms up with some practical jokes aimed at her hapless parents, but the true test comes when she rallies in defense of her teacher, the sweet Miss Honey, against the diabolical Trunchbull. There is never any doubt that Matilda will carry the day. Even so, this wonderful story is far from predictable. Roald Dahl, while keeping the plot moving imaginatively, also has an unerring ear for emotional truth. The reader cares about Matilda because in addition to all her other gifts, she has real feelings.]]></description>
+  <work>
+  <id type="integer">1015554</id>
+  <books_count type="integer">243</books_count>
+  <best_book_id type="integer">39988</best_book_id>
+  <reviews_count type="integer">638004</reviews_count>
+  <ratings_sum type="integer">1987859</ratings_sum>
+  <ratings_count type="integer">463733</ratings_count>
+  <text_reviews_count type="integer">11059</text_reviews_count>
+  <original_publication_year type="integer">1988</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Matilda</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:231975|4:152091|3:64564|2:10825|1:4278|total:463733</rating_dist>
+  <desc_user_id type="integer">29242041</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.29</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[440950]]></ratings_count>
+  <text_reviews_count><![CDATA[8783]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/39988.Matilda]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/39988.Matilda]]></link>
+  <authors>
+<author>
+<id>4273</id>
+<name>Roald Dahl</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311554908p5/4273.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311554908p2/4273.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4273.Roald_Dahl]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>2366938</ratings_count>
+<text_reviews_count>64873</text_reviews_count>
+</author>
+<author>
+<id>146</id>
+<name>Quentin Blake</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1357194118p5/146.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1357194118p2/146.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/146.Quentin_Blake]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>2235489</ratings_count>
+<text_reviews_count>56323</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/39988.Matilda">Matilda Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0141301066&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/39988.Matilda?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2334"/>
+      <shelf name="young-adult" count="1019"/>
+      <shelf name="books-i-own" count="950"/>
+      <shelf name="childrens-books" count="722"/>
+      <shelf name="childhood-favorites" count="573"/>
+      <shelf name="ya" count="427"/>
+      <shelf name="kids-books" count="426"/>
+      <shelf name="childhood-books" count="426"/>
+      <shelf name="humor" count="409"/>
+      <shelf name="favorites" count="293"/>
+      <shelf name="children-s-lit" count="286"/>
+      <shelf name="magic" count="226"/>
+      <shelf name="juvenile" count="222"/>
+      <shelf name="childhood-reads" count="215"/>
+      <shelf name="children-books" count="212"/>
+      <shelf name="childhood-favourites" count="205"/>
+      <shelf name="school" count="187"/>
+      <shelf name="re-read" count="185"/>
+      <shelf name="childrens-lit" count="184"/>
+      <shelf name="youth" count="182"/>
+      <shelf name="library" count="177"/>
+      <shelf name="british" count="163"/>
+      <shelf name="books-about-books" count="160"/>
+      <shelf name="juvenile-fiction" count="160"/>
+      <shelf name="to-buy" count="157"/>
+      <shelf name="currently-reading" count="155"/>
+      <shelf name="childrens-literature" count="150"/>
+      <shelf name="clàssics" count="148"/>
+      <shelf name="all-time-favorites" count="146"/>
+      <shelf name="humour" count="143"/>
+      <shelf name="my-books" count="142"/>
+      <shelf name="english" count="142"/>
+      <shelf name="novels" count="137"/>
+      <shelf name="Ｃhildrens" count="135"/>
+      <shelf name="fiction" count="134"/>
+      <shelf name="funny" count="134"/>
+      <shelf name="chapter-books" count="131"/>
+      <shelf name="matilda" count="123"/>
+      <shelf name="i-own" count="123"/>
+      <shelf name="kid-lit" count="123"/>
+      <shelf name="children-s-fiction" count="119"/>
+      <shelf name="favorite-books" count="118"/>
+      <shelf name="books" count="118"/>
+      <shelf name="childhood-memories" count="116"/>
+      <shelf name="default" count="115"/>
+      <shelf name="my-childhood" count="113"/>
+      <shelf name="5-stars" count="112"/>
+      <shelf name="fantasy" count="111"/>
+      <shelf name="nostalgia" count="110"/>
+      <shelf name="reread" count="110"/>
+      <shelf name="children" count="109"/>
+      <shelf name="read-as-a-kid" count="109"/>
+      <shelf name="read-in-2016" count="103"/>
+      <shelf name="childhood-faves" count="103"/>
+      <shelf name="20th-century" count="103"/>
+      <shelf name="childrens-fiction" count="100"/>
+      <shelf name="novel" count="99"/>
+      <shelf name="favorite" count="99"/>
+      <shelf name="my-library" count="98"/>
+      <shelf name="kid-books" count="95"/>
+      <shelf name="magical-realism" count="94"/>
+      <shelf name="read-aloud" count="94"/>
+      <shelf name="children-ya" count="92"/>
+      <shelf name="children-young-adult" count="88"/>
+      <shelf name="read-as-a-child" count="87"/>
+      <shelf name="read-in-2015" count="85"/>
+      <shelf name="children-s-books" count="81"/>
+      <shelf name="books-from-my-childhood" count="80"/>
+      <shelf name="read-more-than-once" count="80"/>
+      <shelf name="comedy" count="79"/>
+      <shelf name="british-literature" count="77"/>
+      <shelf name="literature" count="76"/>
+      <shelf name="elementary" count="76"/>
+      <shelf name="adventure" count="75"/>
+      <shelf name="to-re-read" count="75"/>
+      <shelf name="movies" count="73"/>
+      <shelf name="children-s-book" count="70"/>
+      <shelf name="realistic-fiction" count="70"/>
+      <shelf name="own-it" count="70"/>
+      <shelf name="childhood-favs" count="69"/>
+      <shelf name="read-in-english" count="68"/>
+      <shelf name="books-i-read-as-a-kid" count="68"/>
+      <shelf name="children-s" count="67"/>
+      <shelf name="shelfari-favorites" count="67"/>
+      <shelf name="ebook" count="67"/>
+      <shelf name="contemporary" count="67"/>
+      <shelf name="paranormal" count="66"/>
+      <shelf name="stand-alone" count="65"/>
+      <shelf name="wish-list" count="65"/>
+      <shelf name="childhood" count="64"/>
+      <shelf name="elementary-school" count="64"/>
+      <shelf name="children-s-classics" count="64"/>
+      <shelf name="bbc-big-read" count="64"/>
+      <shelf name="kids" count="63"/>
+      <shelf name="read-alouds" count="63"/>
+      <shelf name="my-favorites" count="63"/>
+      <shelf name="read-in-2014" count="61"/>
+      <shelf name="childrens-classics" count="61"/>
+      <shelf name="movie" count="61"/>
+      <shelf name="4-stars" count="60"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1795353</id>
+<title>Minoes</title>
+<title_without_series>Minoes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1795353.Minoes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1427200856s/1795353.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1427200856m/1795353.jpg]]></image_url>
+<num_pages>199</num_pages>
+<work>
+<id>1794384</id>
+</work>
+<isbn>9792230777</isbn>
+<isbn13>9789792230772</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1950</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>615182</id>
+<name>Annie M.G. Schmidt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/615182.Annie_M_G_Schmidt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2282658</id>
+<title><![CDATA[Het Gulden Vlies van Thule (De Toekomsttrilogie, #3)]]></title>
+<title_without_series>Het Gulden Vlies van Thule</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2282658.Het_Gulden_Vlies_van_Thule]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>319</num_pages>
+<work>
+<id>2288854</id>
+</work>
+<isbn>9060697537</isbn>
+<isbn13>9789060697535</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1669</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>491820</id>
+<name>Thea Beckman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/491820.Thea_Beckman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5654387</id>
+<title>Madicken dan Lisabet</title>
+<title_without_series>Madicken dan Lisabet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5654387-madicken-dan-lisabet]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>5825900</id>
+</work>
+<isbn>9792204687</isbn>
+<isbn13>9789792204681</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>901</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>410653</id>
+<name>Astrid Lindgren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410653.Astrid_Lindgren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1165759</id>
+<title><![CDATA[Koning van Katoren (Katoren, #1)]]></title>
+<title_without_series>Koning van Katoren</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1165759.Koning_van_Katoren]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>1153444</id>
+</work>
+<isbn>9060690885</isbn>
+<isbn13>9789060690888</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5219</ratings_count>
+<publication_year>1971</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26747</id>
+<name>Jan Terlouw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26747.Jan_Terlouw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>91248</id>
+<title>Ramona the Brave (Ramona, #3)</title>
+<title_without_series>Ramona the Brave</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/91248.Ramona_the_Brave]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408925322s/91248.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408925322m/91248.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>632895</id>
+</work>
+<isbn>0192751077</isbn>
+<isbn13>9780192751072</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>44150</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>403</id>
+<name>Beverly Cleary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403.Beverly_Cleary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37731</id>
+<title><![CDATA[Just as Long as We're Together]]></title>
+<title_without_series><![CDATA[Just as Long as We're Together]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37731.Just_as_Long_as_We_re_Together]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>202</num_pages>
+<work>
+<id>3231118</id>
+</work>
+<isbn>0330398040</isbn>
+<isbn13>9780330398046</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>9584</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>12942</id>
+<name>Judy Blume</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12942.Judy_Blume]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>770614</id>
+<title><![CDATA[Jeremy Thatcher, Dragon Hatcher (Magic Shop, #2)]]></title>
+<title_without_series><![CDATA[Jeremy Thatcher, Dragon Hatcher]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/770614.Jeremy_Thatcher_Dragon_Hatcher]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1178208656s/770614.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1178208656m/770614.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>3047044</id>
+</work>
+<isbn>0671747827</isbn>
+<isbn13>9780671747824</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>6801</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>10087</id>
+<name>Bruce Coville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10087.Bruce_Coville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>473623</id>
+<title><![CDATA[The Folk of the Faraway Tree (The Faraway Tree, #3)]]></title>
+<title_without_series>The Folk of the Faraway Tree</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/473623.The_Folk_of_the_Faraway_Tree]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>185</num_pages>
+<work>
+<id>310738</id>
+</work>
+<isbn>0749732105</isbn>
+<isbn13>9780749732103</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>12584</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>10657</id>
+<name>Enid Blyton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10657.Enid_Blyton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15673</id>
+<title><![CDATA[Wayside School Gets A Little Stranger (Wayside School #3)]]></title>
+<title_without_series><![CDATA[Wayside School Gets A Little Stranger]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15673.Wayside_School_Gets_A_Little_Stranger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>226002</id>
+</work>
+<isbn>0747569118</isbn>
+<isbn13>9780747569114</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>16507</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6569</id>
+<name>Louis Sachar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6569.Louis_Sachar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3561241</id>
+<title>Het ei van oom Trotter</title>
+<title_without_series>Het ei van oom Trotter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3561241-het-ei-van-oom-trotter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>3603413</id>
+</work>
+<isbn>9065658327</isbn>
+<isbn13>9789065658326</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>634</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1121274</id>
+<name>Marc de Bel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1121274.Marc_de_Bel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>125411</id>
+<title><![CDATA[The Mystery of the Cupboard (The Indian in the Cupboard, #4)]]></title>
+<title_without_series>The Mystery of the Cupboard</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/125411.The_Mystery_of_the_Cupboard]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1290847910s/125411.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1290847910m/125411.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>3014258</id>
+</work>
+<isbn>0380720132</isbn>
+<isbn13>9780380720132</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>4620</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>72237</id>
+<name>Lynne Reid Banks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72237.Lynne_Reid_Banks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28351</id>
+<title><![CDATA[And to Think That I Saw it on Mulberry Street]]></title>
+<title_without_series><![CDATA[And to Think That I Saw it on Mulberry Street]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28351.And_to_Think_That_I_Saw_it_on_Mulberry_Street]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1579656</id>
+</work>
+<isbn>0007169922</isbn>
+<isbn13>9780007169924</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>19220</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10332</id>
+<title>Mandy</title>
+<title_without_series>Mandy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10332.Mandy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1575652</id>
+</work>
+<isbn>0061131628</isbn>
+<isbn13>9780061131622</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>9482</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6781</id>
+<name>Julie Andrews Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6781.Julie_Andrews_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>225038</id>
+<title><![CDATA[Half Magic (Tales of Magic, #1)]]></title>
+<title_without_series>Half Magic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/225038.Half_Magic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>1441544</id>
+</work>
+<isbn>0152020683</isbn>
+<isbn13>9780152020682</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>29726</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>131683</id>
+<name>Edward Eager</name>
+<link><![CDATA[https://www.goodreads.com/author/show/131683.Edward_Eager]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>498922</id>
+<title><![CDATA[Molly Saves the Day: A Summer Story (American Girls: Molly, #5)]]></title>
+<title_without_series><![CDATA[Molly Saves the Day: A Summer Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/498922.Molly_Saves_the_Day]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1315922429s/498922.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1315922429m/498922.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1414308</id>
+</work>
+<isbn>0937295930</isbn>
+<isbn13>9780937295939</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>2839</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26735</id>
+<name>Valerie Tripp</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26735.Valerie_Tripp]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99716</id>
+<title>Island of the Aunts</title>
+<title_without_series>Island of the Aunts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99716.Island_of_the_Aunts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1418771178s/99716.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1418771178m/99716.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1023758</id>
+</work>
+<isbn>0142300497</isbn>
+<isbn13>9780142300497</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>7287</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>57462</id>
+<name>Eva Ibbotson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57462.Eva_Ibbotson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

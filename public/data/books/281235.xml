@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>281235</id>
+  <title>Bunnicula (Bunnicula, #1)</title>
+  <isbn><![CDATA[1416928170]]></isbn>
+  <isbn13><![CDATA[9781416928171]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>BEWARE THE HARE!<br /><i>Is he or isn't he a vampire?</i></b> <br /><br /> Before it's too late, Harold the dog and Chester the cat must find out the truth about the newest pet in the Monroe household -- a suspicious-looking bunny with unusual habits... and fangs!]]></description>
+  <work>
+  <id type="integer">1142982</id>
+  <books_count type="integer">45</books_count>
+  <best_book_id type="integer">281235</best_book_id>
+  <reviews_count type="integer">69050</reviews_count>
+  <ratings_sum type="integer">201981</ratings_sum>
+  <ratings_count type="integer">52685</ratings_count>
+  <text_reviews_count type="integer">1775</text_reviews_count>
+  <original_publication_year type="integer">1979</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Bunnicula: A Rabbit-Tale of Mystery</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:17291|4:16403|3:13605|2:3713|1:1673|total:52685</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[98]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[50716]]></ratings_count>
+  <text_reviews_count><![CDATA[1536]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/281235.Bunnicula]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/281235.Bunnicula]]></link>
+  <authors>
+<author>
+<id>51424</id>
+<name>James Howe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243833844p5/51424.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243833844p2/51424.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/51424.James_Howe]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>104484</ratings_count>
+<text_reviews_count>5528</text_reviews_count>
+</author>
+<author>
+<id>163577</id>
+<name>Deborah Howe</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/163577.Deborah_Howe]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>53068</ratings_count>
+<text_reviews_count>1823</text_reviews_count>
+</author>
+<author>
+<id>524662</id>
+<name>Alan Daniel</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/524662.Alan_Daniel]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>57352</ratings_count>
+<text_reviews_count>2003</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/281235.Bunnicula">Bunnicula Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1416928170&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/281235.Bunnicula?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1261"/>
+      <shelf name="childrens" count="582"/>
+      <shelf name="fantasy" count="375"/>
+      <shelf name="children" count="366"/>
+      <shelf name="children-s" count="316"/>
+      <shelf name="favorites" count="299"/>
+      <shelf name="childhood" count="254"/>
+      <shelf name="children-s-books" count="250"/>
+      <shelf name="mystery" count="247"/>
+      <shelf name="kids" count="238"/>
+      <shelf name="currently-reading" count="222"/>
+      <shelf name="horror" count="203"/>
+      <shelf name="animals" count="199"/>
+      <shelf name="young-adult" count="195"/>
+      <shelf name="vampires" count="143"/>
+      <shelf name="childrens-books" count="136"/>
+      <shelf name="childhood-favorites" count="133"/>
+      <shelf name="series" count="124"/>
+      <shelf name="middle-grade" count="122"/>
+      <shelf name="juvenile" count="98"/>
+      <shelf name="juvenile-fiction" count="83"/>
+      <shelf name="ya" count="82"/>
+      <shelf name="books-i-own" count="65"/>
+      <shelf name="childhood-books" count="64"/>
+      <shelf name="chapter-books" count="62"/>
+      <shelf name="children-s-literature" count="57"/>
+      <shelf name="classics" count="51"/>
+      <shelf name="read-aloud" count="49"/>
+      <shelf name="02-fantasy" count="48"/>
+      <shelf name="paranormal" count="48"/>
+      <shelf name="children-s-lit" count="48"/>
+      <shelf name="kid-lit" count="44"/>
+      <shelf name="childhood-reads" count="41"/>
+      <shelf name="youth" count="41"/>
+      <shelf name="default" count="40"/>
+      <shelf name="fiction" count="39"/>
+      <shelf name="funny" count="38"/>
+      <shelf name="vampire" count="37"/>
+      <shelf name="childrens-lit" count="36"/>
+      <shelf name="read-as-a-kid" count="36"/>
+      <shelf name="bunnicula" count="34"/>
+      <shelf name="children-s-fiction" count="33"/>
+      <shelf name="supernatural" count="29"/>
+      <shelf name="nostalgia" count="29"/>
+      <shelf name="dogs" count="29"/>
+      <shelf name="owned-books" count="28"/>
+      <shelf name="audiobook" count="28"/>
+      <shelf name="school" count="28"/>
+      <shelf name="library" count="27"/>
+      <shelf name="novels" count="27"/>
+      <shelf name="young-readers" count="26"/>
+      <shelf name="read-for-school" count="26"/>
+      <shelf name="halloween" count="26"/>
+      <shelf name="read-alouds" count="25"/>
+      <shelf name="my-childhood" count="24"/>
+      <shelf name="kid-books" count="22"/>
+      <shelf name="children-young-adult" count="22"/>
+      <shelf name="rabbits" count="21"/>
+      <shelf name="children-s-chapter-books" count="20"/>
+      <shelf name="3rd-grade" count="20"/>
+      <shelf name="childrens-literature" count="20"/>
+      <shelf name="cats" count="19"/>
+      <shelf name="classroom-library" count="18"/>
+      <shelf name="comedy" count="18"/>
+      <shelf name="classic" count="18"/>
+      <shelf name="childhood-faves" count="18"/>
+      <shelf name="elementary" count="18"/>
+      <shelf name="books-from-childhood" count="18"/>
+      <shelf name="kids-books" count="17"/>
+      <shelf name="animal-stories" count="17"/>
+      <shelf name="children-ya" count="17"/>
+      <shelf name="4th-grade" count="17"/>
+      <shelf name="for-school" count="17"/>
+      <shelf name="ya-fiction" count="17"/>
+      <shelf name="pets" count="16"/>
+      <shelf name="audio" count="16"/>
+      <shelf name="talking-animals" count="16"/>
+      <shelf name="read-as-a-child" count="16"/>
+      <shelf name="childrens-fiction" count="16"/>
+      <shelf name="middle-school" count="15"/>
+      <shelf name="from-my-childhood" count="15"/>
+      <shelf name="re-read" count="15"/>
+      <shelf name="i-own" count="15"/>
+      <shelf name="children-s-book" count="15"/>
+      <shelf name="childhood-memories" count="15"/>
+      <shelf name="sci-fi-fantasy" count="15"/>
+      <shelf name="books-i-read-as-a-kid" count="15"/>
+      <shelf name="own-it" count="14"/>
+      <shelf name="humour" count="14"/>
+      <shelf name="read-with-kids" count="14"/>
+      <shelf name="kid-s-books" count="14"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="childrens-book" count="14"/>
+      <shelf name="childhood-favorite" count="14"/>
+      <shelf name="chapter-book" count="14"/>
+      <shelf name="when-i-was-a-kid" count="14"/>
+      <shelf name="for-the-kids" count="14"/>
+      <shelf name="childhood-favourites" count="14"/>
+      <shelf name="mysteries" count="14"/>
+      <shelf name="childrens-chapter-books" count="14"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>155254</id>
+<user_position>1</user_position>
+<series>
+<id>43326</id>
+<title>
+<![CDATA[
+    Bunnicula
+]]>
+</title>
+<description>
+<![CDATA[
+    Bunnicula is a children's book series written by James Howe (and his late wife Deborah in the case of the first book, "Bunnicula") about a vampire bunny that sucks the juice out of vegetables. 
+    
+    The story is centered on the Monroe family and their pets and is told from the perspective of their dog Harold. The Monroes find a bunny at the theater where they were watching a Dracula film. Because of this, they name him Bunnicula. Their cat Chester, however, is convinced Bunnicula is a vampire and attempts to get Harold to help save the Monroes from the perceived menace.
+    
+    Following the end of the Bunnicula series, James Howe began a spin-off series called <a href="http://www.goodreads.com/series/42323-tales-from-the-house-of-bunnicula">Tales from the House of Bunnicula</a>, which are 'written' by Howie, the dachshund puppy introduced into the series in Howliday Inn. There is also a series called <a href="http://www.goodreads.com/series/42743-bunnicula-and-friends">Bunnicula and Friends</a>. They are a series of picture books about adventures of the characters from the stories. They are aimed for beginning readers.  There's also another series, <a href="http://www.goodreads.com/series/41910-harold-chester">Harold & Chester</a>, that are similar to the picture books, but are slightly longer.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>13</series_works_count>
+<primary_work_count>7</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>2316</id>
+<title><![CDATA[The Headless Cupid (Stanley Family, #1)]]></title>
+<title_without_series>The Headless Cupid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2316.The_Headless_Cupid]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327934261s/2316.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327934261m/2316.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1550961</id>
+</work>
+<isbn>0440228956</isbn>
+<isbn13>9780440228950</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>3210</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>27</id>
+<name>Zilpha Keatley Snyder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27.Zilpha_Keatley_Snyder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>262050</id>
+<title>Serendipity</title>
+<title_without_series>Serendipity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/262050.Serendipity]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1285744375s/262050.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1285744375m/262050.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>254006</id>
+</work>
+<isbn>084313819X</isbn>
+<isbn13>9780843138191</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>2287</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35343</id>
+<name>Stephen Cosgrove</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35343.Stephen_Cosgrove]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>334477</id>
+<title><![CDATA[The Mummy, the Will, and the Crypt (Johnny Dixon, #2)]]></title>
+<title_without_series><![CDATA[The Mummy, the Will, and the Crypt]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/334477.The_Mummy_the_Will_and_the_Crypt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>3234123</id>
+</work>
+<isbn>014240263X</isbn>
+<isbn13>9780142402634</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1256</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>101070</id>
+<name>John Bellairs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/101070.John_Bellairs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>750035</id>
+<title>The Dollhouse Murders</title>
+<title_without_series>The Dollhouse Murders</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/750035.The_Dollhouse_Murders]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>736173</id>
+</work>
+<isbn>0590434616</isbn>
+<isbn13>9780590434614</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>6022</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>52129</id>
+<name>Betty Ren Wright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52129.Betty_Ren_Wright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59919</id>
+<title><![CDATA[Catwings Return (Catwings, #2)]]></title>
+<title_without_series>Catwings Return</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59919.Catwings_Return]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1170537240s/59919.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1170537240m/59919.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>340988</id>
+</work>
+<isbn>0439551900</isbn>
+<isbn13>9780439551908</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1969</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>874602</id>
+<name>Ursula K. Le Guin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>156770</id>
+<title><![CDATA[The Return of the Indian (The Indian in the Cupboard, #2)]]></title>
+<title_without_series>The Return of the Indian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/156770.The_Return_of_the_Indian]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>183</num_pages>
+<work>
+<id>2991406</id>
+</work>
+<isbn>038523497X</isbn>
+<isbn13>9780385234979</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9973</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>72237</id>
+<name>Lynne Reid Banks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72237.Lynne_Reid_Banks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244422</id>
+<title>Ribsy (Henry, #6)</title>
+<title_without_series>Ribsy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244422.Ribsy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1459888802s/244422.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1459888802m/244422.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>925975</id>
+</work>
+<isbn>0439239214</isbn>
+<isbn13>9780439239219</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>5631</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>403</id>
+<name>Beverly Cleary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403.Beverly_Cleary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>770614</id>
+<title><![CDATA[Jeremy Thatcher, Dragon Hatcher (Magic Shop, #2)]]></title>
+<title_without_series><![CDATA[Jeremy Thatcher, Dragon Hatcher]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/770614.Jeremy_Thatcher_Dragon_Hatcher]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1178208656s/770614.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1178208656m/770614.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>3047044</id>
+</work>
+<isbn>0671747827</isbn>
+<isbn13>9780671747824</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>6801</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>10087</id>
+<name>Bruce Coville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10087.Bruce_Coville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12475143</id>
+<title><![CDATA[The Legend of Diamond Lil (J.J. Tully Mystery #2)]]></title>
+<title_without_series>The Legend of Diamond Lil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12475143-the-legend-of-diamond-lil]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>17297167</id>
+</work>
+<isbn>0061779962</isbn>
+<isbn13>9780061779961</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>545</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>205677</id>
+<title>Snot Stew</title>
+<title_without_series>Snot Stew</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/205677.Snot_Stew]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2544112</id>
+</work>
+<isbn>0671693352</isbn>
+<isbn13>9780671693350</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1026</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72012</id>
+<name>Bill Wallace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72012.Bill_Wallace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>322351</id>
+<title>How to Eat Fried Worms</title>
+<title_without_series>How to Eat Fried Worms</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/322351.How_to_Eat_Fried_Worms]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320519921s/322351.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320519921m/322351.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>816361</id>
+</work>
+<isbn>0440421853</isbn>
+<isbn13>9780440421856</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>39238</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>140329</id>
+<name>Thomas Rockwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/140329.Thomas_Rockwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>793012</id>
+<title><![CDATA[Knights of the Kitchen Table (Time Warp Trio, #1)]]></title>
+<title_without_series>Knights of the Kitchen Table</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/793012.Knights_of_the_Kitchen_Table]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>2811014</id>
+</work>
+<isbn>0142400432</isbn>
+<isbn13>9780142400432</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>2785</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>27318</id>
+<name>Jon Scieszka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27318.Jon_Scieszka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>116494</id>
+<title><![CDATA[Anastasia Krupnik (Anastasia Krupnik, #1)]]></title>
+<title_without_series>Anastasia Krupnik</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/116494.Anastasia_Krupnik]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1476942137s/116494.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1476942137m/116494.jpg]]></image_url>
+<num_pages>113</num_pages>
+<work>
+<id>827585</id>
+</work>
+<isbn>0553153382</isbn>
+<isbn13>9780553153385</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>12526</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2493</id>
+<name>Lois Lowry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2493.Lois_Lowry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>760148</id>
+<title><![CDATA[The Plant That Ate Dirty Socks]]></title>
+<title_without_series><![CDATA[The Plant That Ate Dirty Socks]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/760148.The_Plant_That_Ate_Dirty_Socks]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>119</num_pages>
+<work>
+<id>234218</id>
+</work>
+<isbn>0380754932</isbn>
+<isbn13>9780380754939</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>944</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>141466</id>
+<name>Nancy McArthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/141466.Nancy_McArthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28875</id>
+<title><![CDATA[Three Tales Of My Father's Dragon]]></title>
+<title_without_series><![CDATA[Three Tales Of My Father's Dragon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28875.Three_Tales_Of_My_Father_s_Dragon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350481640s/28875.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350481640m/28875.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>29358</id>
+</work>
+<isbn>0679889116</isbn>
+<isbn13>9780679889113</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2899</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16215</id>
+<name>Ruth Stiles Gannett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16215.Ruth_Stiles_Gannett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24300</id>
+<title><![CDATA[Poppy (Tales of Dimwood Forest, #1)]]></title>
+<title_without_series>Poppy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24300.Poppy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408926899s/24300.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408926899m/24300.jpg]]></image_url>
+<num_pages>163</num_pages>
+<work>
+<id>3160700</id>
+</work>
+<isbn>0689837186</isbn>
+<isbn13>9780689837180</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>6418</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>10105</id>
+<name>Avi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10105.Avi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>816752</id>
+<title><![CDATA[The Castle in the Attic (The Castle in the Attic, #1)]]></title>
+<title_without_series>The Castle in the Attic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/816752.The_Castle_in_the_Attic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1178654581s/816752.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1178654581m/816752.jpg]]></image_url>
+<num_pages>179</num_pages>
+<work>
+<id>164744</id>
+</work>
+<isbn>0440409411</isbn>
+<isbn13>9780440409410</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>15199</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4821</id>
+<name>Elizabeth Winthrop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4821.Elizabeth_Winthrop]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

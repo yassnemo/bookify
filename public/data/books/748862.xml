@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>748862</id>
+  <title><![CDATA[Simple Abundance:  A Daybook of Comfort and Joy]]></title>
+  <isbn><![CDATA[0446519138]]></isbn>
+  <isbn13><![CDATA[9780446519137]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B007W1BPB8]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Warner Books</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[With the grace of Anne Morrow Lindbergh's <i>Gift From the Sea</i> and the wisdom of M. Scott Peck's <i>The Road Less Traveled, Simple Abundance</i> is a book of 366 evocative essays - one for every day of your year - written for women who wish to live by their own lights.<br /><p>In the past a woman's spirituality has been seperated from her lifestyle. <i>Simple Abundance</i> shows you how your daily life can be an expression of your authentic self . . . as you choose the tastiest vegetables from your garden, search for treasures at flea markets, establish a sacred space in your home for meditation, and follow the rhythm of the seasons and the year. Here, for the first time, the mystical alchemy of style and Spirit is celebrated. Every day, your own true path leads you to a happier, more fulfilling and contented way of life - the state of grace known as . . . <i>Simple Abundance</i></p>]]></description>
+  <work>
+  <id type="integer">276238</id>
+  <books_count type="integer">30</books_count>
+  <best_book_id type="integer">748862</best_book_id>
+  <reviews_count type="integer">43705</reviews_count>
+  <ratings_sum type="integer">132384</ratings_sum>
+  <ratings_count type="integer">33392</ratings_count>
+  <text_reviews_count type="integer">513</text_reviews_count>
+  <original_publication_year type="integer">1995</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Simple Abundance:  A Daybook of Comfort and Joy</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:12486|4:10457|3:7869|2:1939|1:641|total:33392</rating_dist>
+  <desc_user_id type="integer">7206140</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.96</average_rating>
+  <num_pages><![CDATA[528]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[32757]]></ratings_count>
+  <text_reviews_count><![CDATA[469]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/748862.Simple_Abundance]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/748862.Simple_Abundance]]></link>
+  <authors>
+<author>
+<id>3495853</id>
+<name>Sarah Ban Breathnach</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294324938p5/3495853.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294324938p2/3495853.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3495853.Sarah_Ban_Breathnach]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>39183</ratings_count>
+<text_reviews_count>854</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/748862.Simple_Abundance">Simple Abundance Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446519138&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/748862.Simple_Abundance?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8862"/>
+      <shelf name="currently-reading" count="718"/>
+      <shelf name="non-fiction" count="173"/>
+      <shelf name="self-help" count="146"/>
+      <shelf name="spirituality" count="87"/>
+      <shelf name="favorites" count="83"/>
+      <shelf name="nonfiction" count="68"/>
+      <shelf name="spiritual" count="63"/>
+      <shelf name="inspirational" count="56"/>
+      <shelf name="owned" count="40"/>
+      <shelf name="books-i-own" count="35"/>
+      <shelf name="self-improvement" count="32"/>
+      <shelf name="inspiration" count="20"/>
+      <shelf name="default" count="18"/>
+      <shelf name="psychology" count="18"/>
+      <shelf name="personal-growth" count="17"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="reference" count="12"/>
+      <shelf name="personal-development" count="11"/>
+      <shelf name="religion" count="11"/>
+      <shelf name="women" count="10"/>
+      <shelf name="philosophy" count="9"/>
+      <shelf name="simplicity" count="9"/>
+      <shelf name="christian" count="8"/>
+      <shelf name="personal" count="7"/>
+      <shelf name="home" count="7"/>
+      <shelf name="essays" count="6"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="health" count="6"/>
+      <shelf name="shelfari-favorites" count="5"/>
+      <shelf name="abandoned" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="in-my-library" count="5"/>
+      <shelf name="motivational" count="5"/>
+      <shelf name="did-not-finish" count="5"/>
+      <shelf name="healing" count="5"/>
+      <shelf name="daily-meditations" count="5"/>
+      <shelf name="own-it" count="5"/>
+      <shelf name="religion-spirituality" count="5"/>
+      <shelf name="spiritual-self-help" count="4"/>
+      <shelf name="happiness" count="4"/>
+      <shelf name="self-development" count="4"/>
+      <shelf name="growth" count="4"/>
+      <shelf name="self" count="4"/>
+      <shelf name="all-time-favorites" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="never-finished" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="re-read" count="4"/>
+      <shelf name="inspiring" count="4"/>
+      <shelf name="chick-lit" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="paused" count="3"/>
+      <shelf name="my-bookshelf" count="3"/>
+      <shelf name="advice" count="3"/>
+      <shelf name="sarah-ban-breathnach" count="3"/>
+      <shelf name="mental-health" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="help" count="3"/>
+      <shelf name="lifestyle" count="3"/>
+      <shelf name="super-soul-sunday" count="3"/>
+      <shelf name="self-help-spiritual" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="new-age" count="3"/>
+      <shelf name="how-to" count="3"/>
+      <shelf name="development" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="on-my-shelves" count="3"/>
+      <shelf name="adult-non-fiction" count="3"/>
+      <shelf name="personal-library" count="3"/>
+      <shelf name="creativity" count="3"/>
+      <shelf name="devotional" count="3"/>
+      <shelf name="oprah" count="3"/>
+      <shelf name="books-i-ve-read" count="3"/>
+      <shelf name="self-actualization" count="3"/>
+      <shelf name="self-care-and-reflection" count="2"/>
+      <shelf name="0" count="2"/>
+      <shelf name="unshelved" count="2"/>
+      <shelf name="oprahs-book-club" count="2"/>
+      <shelf name="writing" count="2"/>
+      <shelf name="female-authors" count="2"/>
+      <shelf name="devotionals" count="2"/>
+      <shelf name="i-own-this" count="2"/>
+      <shelf name="read-non-fiction" count="2"/>
+      <shelf name="the-journey" count="2"/>
+      <shelf name="own-book" count="2"/>
+      <shelf name="art" count="2"/>
+      <shelf name="philosphy" count="2"/>
+      <shelf name="shelved" count="2"/>
+      <shelf name="own-a-copy" count="2"/>
+      <shelf name="on-my-bookshelf" count="2"/>
+      <shelf name="mom-s-books" count="2"/>
+      <shelf name="home-shelf" count="2"/>
+      <shelf name="on-my-shelf" count="2"/>
+      <shelf name="upstairs" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="i-own-it" count="2"/>
+      <shelf name="misc" count="2"/>
+      <shelf name="all-time-faves" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>176762</id>
+<title><![CDATA[Everyday Sacred: A Woman's Journey Home]]></title>
+<title_without_series><![CDATA[Everyday Sacred: A Woman's Journey Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/176762.Everyday_Sacred]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384259631s/176762.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384259631m/176762.jpg]]></image_url>
+<num_pages>166</num_pages>
+<work>
+<id>1452669</id>
+</work>
+<isbn>0062512900</isbn>
+<isbn13>9780062512901</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1215</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>103033</id>
+<name>Sue Bender</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103033.Sue_Bender]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164836</id>
+<title>Succulent Wild Woman</title>
+<title_without_series>Succulent Wild Woman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164836.Succulent_Wild_Woman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>159149</id>
+</work>
+<isbn>068483376X</isbn>
+<isbn13>9780684833767</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>9419</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4114862</id>
+<name>S.A.R.K.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4114862.S_A_R_K_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1107329</id>
+<title>Woman&apos;s Comfort Book, The</title>
+<title_without_series>Woman&apos;s Comfort Book, The</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1107329.Woman_s_Comfort_Book_The]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1295295517s/1107329.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1295295517m/1107329.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1094272</id>
+</work>
+<isbn>0062505319</isbn>
+<isbn13>9780062505316</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1012</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>78709</id>
+<name>Jennifer Louden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78709.Jennifer_Louden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30453</id>
+<title><![CDATA[One Day My Soul Just Opened Up: 40 Days and 40 Nights Toward Spiritual Strength and Personal Growth]]></title>
+<title_without_series><![CDATA[One Day My Soul Just Opened Up: 40 Days and 40 Nights Toward Spiritual Strength and Personal Growth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30453.One_Day_My_Soul_Just_Opened_Up]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>351636</id>
+</work>
+<isbn>0684841347</isbn>
+<isbn13>9780684841342</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>7381</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15508</id>
+<name>Iyanla Vanzant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15508.Iyanla_Vanzant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>131830</id>
+<title><![CDATA[Women's Bodies, Women's Wisdom: Creating Physical and Emotional Health and Healing]]></title>
+<title_without_series><![CDATA[Women's Bodies, Women's Wisdom: Creating Physical and Emotional Health and Healing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/131830.Women_s_Bodies_Women_s_Wisdom]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320512401s/131830.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320512401m/131830.jpg]]></image_url>
+<num_pages>906</num_pages>
+<work>
+<id>1069520</id>
+</work>
+<isbn>0553384104</isbn>
+<isbn13>9780553384109</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>10697</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>75929</id>
+<name>Christiane Northrup</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75929.Christiane_Northrup]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>845978</id>
+<title>A Woman&apos;s Worth</title>
+<title_without_series>A Woman&apos;s Worth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/845978.A_Woman_s_Worth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320405491s/845978.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320405491m/845978.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>31194</id>
+</work>
+<isbn>0345386574</isbn>
+<isbn13>9780345386571</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>3347</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>17297</id>
+<name>Marianne Williamson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17297.Marianne_Williamson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77295</id>
+<title>Gift from the Sea</title>
+<title_without_series>Gift from the Sea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77295.Gift_from_the_Sea]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328312670s/77295.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328312670m/77295.jpg]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>37467</id>
+</work>
+<isbn>0394724550</isbn>
+<isbn13>9780394724553</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>34081</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>21135</id>
+<name>Anne Morrow Lindbergh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21135.Anne_Morrow_Lindbergh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>295132</id>
+<title><![CDATA[Care of the Soul: A Guide for Cultivating Depth and Sacredness in Everyday Life]]></title>
+<title_without_series><![CDATA[Care of the Soul: A Guide for Cultivating Depth and Sacredness in Everyday Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/295132.Care_of_the_Soul]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360677664s/295132.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360677664m/295132.jpg]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>826924</id>
+</work>
+<isbn>0060922249</isbn>
+<isbn13>9780060922245</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>12663</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1495208</id>
+<name>Thomas  Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1495208.Thomas_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>72294</id>
+<title><![CDATA[Living a Beautiful Life: 500 Ways to Add Elegance, Order, Beauty and Joy to Every Day of Your Life]]></title>
+<title_without_series><![CDATA[Living a Beautiful Life: 500 Ways to Add Elegance, Order, Beauty and Joy to Every Day of Your Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/72294.Living_a_Beautiful_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69991</id>
+</work>
+<isbn>0380705117</isbn>
+<isbn13>9780380705115</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>579</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>40880</id>
+<name>Alexandra Stoddard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40880.Alexandra_Stoddard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164864</id>
+<title><![CDATA[Imagine a Woman in Love with Herself: Embracing Your Wisdom and Wholeness]]></title>
+<title_without_series><![CDATA[Imagine a Woman in Love with Herself: Embracing Your Wisdom and Wholeness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164864.Imagine_a_Woman_in_Love_with_Herself]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>159177</id>
+</work>
+<isbn>1573241695</isbn>
+<isbn13>9781573241694</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>164</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>46143</id>
+<name>Patricia Lynn Reilly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46143.Patricia_Lynn_Reilly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>774565</id>
+<title><![CDATA[The Dark Side of the Light Chasers: Reclaiming Your Power, Creativity, Brilliance and Dreams]]></title>
+<title_without_series><![CDATA[The Dark Side of the Light Chasers: Reclaiming Your Power, Creativity, Brilliance and Dreams]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/774565.The_Dark_Side_of_the_Light_Chasers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>760609</id>
+</work>
+<isbn>1402828918</isbn>
+<isbn13>9781573227353</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4273</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7851</id>
+<name>Debbie Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7851.Debbie_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>205964</id>
+<title>Soul Stories</title>
+<title_without_series>Soul Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/205964.Soul_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1766059</id>
+</work>
+<isbn>0743206371</isbn>
+<isbn13>9780743206372</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>6037</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26975</id>
+<name>Gary Zukav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26975.Gary_Zukav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1798526</id>
+<title><![CDATA[The Complete Artist's Way : Creativity as a Spiritual Practice]]></title>
+<title_without_series><![CDATA[The Complete Artist's Way : Creativity as a Spiritual Practice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1798526.The_Complete_Artist_s_Way_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>730</num_pages>
+<work>
+<id>1797631</id>
+</work>
+<isbn>158542630X</isbn>
+<isbn13>9781585426300</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>1755</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>13229</id>
+<name>Julia Cameron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13229.Julia_Cameron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>190115</id>
+<title><![CDATA[Sacred Contracts: Awakening Your Divine Potential]]></title>
+<title_without_series><![CDATA[Sacred Contracts: Awakening Your Divine Potential]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/190115.Sacred_Contracts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>183830</id>
+</work>
+<isbn>0609810111</isbn>
+<isbn13>9780609810118</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>12492</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>11236</id>
+<name>Caroline Myss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11236.Caroline_Myss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>522229</id>
+<title><![CDATA[Life Strategies: Doing What Works, Doing What Matters]]></title>
+<title_without_series><![CDATA[Life Strategies: Doing What Works, Doing What Matters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/522229.Life_Strategies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>510114</id>
+</work>
+<isbn>0641556233</isbn>
+<isbn13>9780641556234</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>5603</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20333</id>
+<name>Phillip C. McGraw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20333.Phillip_C_McGraw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>336734</id>
+<title><![CDATA[Living in the Light: A Guide to Personal and Planetary Transformation ]]></title>
+<title_without_series><![CDATA[Living in the Light: A Guide to Personal and Planetary Transformation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/336734.Living_in_the_Light]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>327182</id>
+</work>
+<isbn>1577310462</isbn>
+<isbn13>9781577310464</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3029</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>41093</id>
+<name>Shakti Gawain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41093.Shakti_Gawain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>380047</id>
+<title>Take Time for Your Life</title>
+<title_without_series>Take Time for Your Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/380047.Take_Time_for_Your_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>369852</id>
+</work>
+<isbn>0767902076</isbn>
+<isbn13>9780767902076</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>1448</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>57502</id>
+<name>Cheryl Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57502.Cheryl_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>229937</id>
+<title>A Woman&apos;s Book of Life</title>
+<title_without_series>A Woman&apos;s Book of Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/229937.A_Woman_s_Book_of_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>222675</id>
+</work>
+<isbn>1573226513</isbn>
+<isbn13>9781573226516</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>221</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>134419</id>
+<name>Joan Borysenko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134419.Joan_Borysenko]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

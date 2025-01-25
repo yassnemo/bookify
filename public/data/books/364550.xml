@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>364550</id>
+  <title>Two Treatises of Government</title>
+  <isbn><![CDATA[0521357306]]></isbn>
+  <isbn13><![CDATA[9780521357302]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1988</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Cambridge University Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This presentation discusses the life of John Locke, the evolution of his ideas, and the political conflicts in 17th Century England which led to the writing of Two Treatises of Government. The famous Second Treatise, which contains Locke’s central ideas on rights, government, and revolution, is examined in detail. Special attention is given to Locke’s theory of private property, which has influenced law and government for over two centuries.]]></description>
+  <work>
+  <id type="integer">3078362</id>
+  <books_count type="integer">145</books_count>
+  <best_book_id type="integer">364550</best_book_id>
+  <reviews_count type="integer">22912</reviews_count>
+  <ratings_sum type="integer">50962</ratings_sum>
+  <ratings_count type="integer">13384</ratings_count>
+  <text_reviews_count type="integer">120</text_reviews_count>
+  <original_publication_year type="integer">1689</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Two Treatises of Government</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3859|4:4607|3:3719|2:883|1:316|total:13384</rating_dist>
+  <desc_user_id type="integer">1343952</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[480]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13062]]></ratings_count>
+  <text_reviews_count><![CDATA[94]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/364550.Two_Treatises_of_Government]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/364550.Two_Treatises_of_Government]]></link>
+  <authors>
+<author>
+<id>51746</id>
+<name>John Locke</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477998201p5/51746.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477998201p2/51746.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/51746.John_Locke]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>45813</ratings_count>
+<text_reviews_count>695</text_reviews_count>
+</author>
+<author>
+<id>164902</id>
+<name>Peter Laslett</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/164902.Peter_Laslett]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>13193</ratings_count>
+<text_reviews_count>109</text_reviews_count>
+</author>
+<author>
+<id>54399</id>
+<name>Raymond Geuss</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/54399.Raymond_Geuss]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>19059</ratings_count>
+<text_reviews_count>277</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/364550.Two_Treatises_of_Government">Two Treatises of Government Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0521357306&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/364550.Two_Treatises_of_Government?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2049"/>
+      <shelf name="philosophy" count="108"/>
+      <shelf name="political-philosophy" count="61"/>
+      <shelf name="currently-reading" count="60"/>
+      <shelf name="history" count="58"/>
+      <shelf name="politics" count="50"/>
+      <shelf name="political-science" count="40"/>
+      <shelf name="non-fiction" count="37"/>
+      <shelf name="political" count="30"/>
+      <shelf name="owned" count="26"/>
+      <shelf name="classics" count="24"/>
+      <shelf name="books-i-own" count="24"/>
+      <shelf name="nonfiction" count="17"/>
+      <shelf name="school" count="17"/>
+      <shelf name="theory" count="16"/>
+      <shelf name="favorites" count="15"/>
+      <shelf name="classic" count="15"/>
+      <shelf name="non" count="12"/>
+      <shelf name="academic" count="11"/>
+      <shelf name="political-theory" count="10"/>
+      <shelf name="economics" count="10"/>
+      <shelf name="great-books" count="9"/>
+      <shelf name="library" count="9"/>
+      <shelf name="liberalism" count="9"/>
+      <shelf name="17th-century" count="9"/>
+      <shelf name="philosophy-religion" count="8"/>
+      <shelf name="partially-read" count="8"/>
+      <shelf name="government" count="8"/>
+      <shelf name="college" count="8"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="historical" count="7"/>
+      <shelf name="school-books" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="english" count="6"/>
+      <shelf name="politics-philosophy" count="6"/>
+      <shelf name="read-for-school" count="6"/>
+      <shelf name="political-thought" count="6"/>
+      <shelf name="social-science" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="politics-economics" count="5"/>
+      <shelf name="reference" count="5"/>
+      <shelf name="history-politics" count="5"/>
+      <shelf name="american-history" count="5"/>
+      <shelf name="philosophy-politics" count="5"/>
+      <shelf name="philo" count="5"/>
+      <shelf name="essays" count="5"/>
+      <shelf name="locke" count="5"/>
+      <shelf name="to-read-philosophy" count="5"/>
+      <shelf name="europe" count="5"/>
+      <shelf name="sociology" count="5"/>
+      <shelf name="phil" count="5"/>
+      <shelf name="poli-sci" count="5"/>
+      <shelf name="john-locke" count="4"/>
+      <shelf name="university" count="4"/>
+      <shelf name="philosophy-to-read" count="4"/>
+      <shelf name="education" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="england" count="4"/>
+      <shelf name="philosphy" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="society" count="4"/>
+      <shelf name="philosophy-scholars-partial-list" count="3"/>
+      <shelf name="audible" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="twem-histories" count="3"/>
+      <shelf name="filosofía" count="3"/>
+      <shelf name="philosophers-partial-list" count="3"/>
+      <shelf name="someday" count="3"/>
+      <shelf name="ppe" count="3"/>
+      <shelf name="literature" count="3"/>
+      <shelf name="ethics" count="3"/>
+      <shelf name="politics-and-foreign-policy" count="3"/>
+      <shelf name="politics-and-history" count="3"/>
+      <shelf name="filosofia" count="3"/>
+      <shelf name="to-read-classics" count="3"/>
+      <shelf name="politics-and-economics" count="3"/>
+      <shelf name="sjc" count="3"/>
+      <shelf name="liberty" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="science" count="3"/>
+      <shelf name="grad-school" count="3"/>
+      <shelf name="religion-and-philosophy" count="3"/>
+      <shelf name="pol" count="3"/>
+      <shelf name="tbr-queue-3" count="2"/>
+      <shelf name="non-fiction-to-read" count="2"/>
+      <shelf name="thought-provoking" count="2"/>
+      <shelf name="strategic-studies" count="2"/>
+      <shelf name="books-that-changed-the-world" count="2"/>
+      <shelf name="8" count="2"/>
+      <shelf name="english-history" count="2"/>
+      <shelf name="política" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="the-well-educated-mind" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="religion-philosophy" count="2"/>
+      <shelf name="kindle-books" count="2"/>
+      <shelf name="libertarian" count="2"/>
+      <shelf name="social-theory" count="2"/>
+      <shelf name="misc" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>141958</id>
+<title><![CDATA[The Spirit of the Laws (Cambridge Texts in the History of Political Thought)]]></title>
+<title_without_series>The Spirit of the Laws</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/141958.The_Spirit_of_the_Laws]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380945124s/141958.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380945124m/141958.jpg]]></image_url>
+<num_pages>808</num_pages>
+<work>
+<id>136922</id>
+</work>
+<isbn>0521369746</isbn>
+<isbn13>9780521369749</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>3535</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>4449652</id>
+<name>Montesquieu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4449652.Montesquieu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>130288</id>
+<title>On Liberty and Other Essays</title>
+<title_without_series>On Liberty and Other Essays</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/130288.On_Liberty_and_Other_Essays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>709075</id>
+</work>
+<isbn>0192833847</isbn>
+<isbn13>9780192833846</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>5120</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>57651</id>
+<name>John Stuart Mill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57651.John_Stuart_Mill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27785</id>
+<title>The Basic Political Writings</title>
+<title_without_series>The Basic Political Writings</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27785.The_Basic_Political_Writings]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356135118s/27785.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356135118m/27785.jpg]]></image_url>
+<num_pages>227</num_pages>
+<work>
+<id>263810</id>
+</work>
+<isbn>0872200477</isbn>
+<isbn13>9780872200470</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>4176</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7994</id>
+<name>Jean-Jacques Rousseau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7994.Jean_Jacques_Rousseau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>60082</id>
+<title><![CDATA[Political Writings (Texts in the History of Political Thought)]]></title>
+<title_without_series>Political Writings</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/60082.Political_Writings]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413131306s/60082.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413131306m/60082.jpg]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>1126195</id>
+</work>
+<isbn>0521398371</isbn>
+<isbn13>9780521398374</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>870</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>11038</id>
+<name>Immanuel Kant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11038.Immanuel_Kant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99328</id>
+<title>The Discourses</title>
+<title_without_series>The Discourses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99328.The_Discourses]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1500786880s/99328.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1500786880m/99328.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>162187</id>
+</work>
+<isbn>0140444289</isbn>
+<isbn13>9780140444285</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>6207</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16201</id>
+<name>Niccolò Machiavelli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16201.Niccol_Machiavelli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>80316</id>
+<title><![CDATA[Enquiries Concerning the Human Understanding / Concerning the Principles of Morals]]></title>
+<title_without_series><![CDATA[Enquiries Concerning the Human Understanding / Concerning the Principles of Morals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/80316.Enquiries_Concerning_the_Human_Understanding_Concerning_the_Principles_of_Morals]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>458</num_pages>
+<work>
+<id>16182176</id>
+</work>
+<isbn>019824536X</isbn>
+<isbn13>9780198245360</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>496</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>45726</id>
+<name>David Hume</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45726.David_Hume]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>654712</id>
+<title>On the Citizen</title>
+<title_without_series>On the Citizen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/654712.On_the_Citizen]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>640815</id>
+</work>
+<isbn>0521437806</isbn>
+<isbn13>9780521437806</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>332</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>10122</id>
+<name>Thomas Hobbes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10122.Thomas_Hobbes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160019</id>
+<title><![CDATA[Reflections on the Revolution in France ]]></title>
+<title_without_series><![CDATA[Reflections on the Revolution in France]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160019.Reflections_on_the_Revolution_in_France]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1373587680s/160019.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1373587680m/160019.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>154445</id>
+</work>
+<isbn>0192839780</isbn>
+<isbn13>9780192839787</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>3993</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>17142</id>
+<name>Edmund Burke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17142.Edmund_Burke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25700</id>
+<title><![CDATA[The Theory of Moral Sentiments]]></title>
+<title_without_series><![CDATA[The Theory of Moral Sentiments]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25700.The_Theory_of_Moral_Sentiments]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328863965s/25700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328863965m/25700.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>308867</id>
+</work>
+<isbn>0486452913</isbn>
+<isbn13>9780486452913</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>2715</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14424</id>
+<name>Adam Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14424.Adam_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25248</id>
+<title><![CDATA[Elements of the Philosophy of Right]]></title>
+<title_without_series><![CDATA[Elements of the Philosophy of Right]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25248.Elements_of_the_Philosophy_of_Right]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392025617s/25248.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392025617m/25248.jpg]]></image_url>
+<num_pages>569</num_pages>
+<work>
+<id>25992</id>
+</work>
+<isbn>0521348889</isbn>
+<isbn13>9780521348881</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2521</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>6188</id>
+<name>Georg Wilhelm Friedrich Hegel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6188.Georg_Wilhelm_Friedrich_Hegel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>96659</id>
+<title><![CDATA[Spheres of Justice: A Defense of Pluralism and Equality]]></title>
+<title_without_series><![CDATA[Spheres of Justice: A Defense of Pluralism and Equality]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/96659.Spheres_of_Justice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>93161</id>
+</work>
+<isbn>0465081894</isbn>
+<isbn13>9780465081899</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>507</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>55589</id>
+<name>Michael Walzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55589.Michael_Walzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>165674</id>
+<title><![CDATA[The Libertarian Reader: Classic and Contemporary Writings from Lao Tzu to Milton Friedman]]></title>
+<title_without_series><![CDATA[The Libertarian Reader: Classic and Contemporary Writings from Lao Tzu to Milton Friedman]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/165674.The_Libertarian_Reader]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411350188s/165674.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411350188m/165674.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>159965</id>
+</work>
+<isbn>0684847671</isbn>
+<isbn13>9780684847672</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>258</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>96259</id>
+<name>David Boaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/96259.David_Boaz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>177523</id>
+<title>Rights of Man</title>
+<title_without_series>Rights of Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/177523.Rights_of_Man]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330098998s/177523.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330098998m/177523.jpg]]></image_url>
+<num_pages>229</num_pages>
+<work>
+<id>1667726</id>
+</work>
+<isbn>0543954617</isbn>
+<isbn13>9780543954619</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>7761</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>57639</id>
+<name>Thomas Paine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57639.Thomas_Paine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19088</id>
+<title><![CDATA[The Politics and The Constitution of Athens]]></title>
+<title_without_series><![CDATA[The Politics and The Constitution of Athens]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19088.The_Politics_and_The_Constitution_of_Athens]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>327</num_pages>
+<work>
+<id>162112</id>
+</work>
+<isbn>0521484006</isbn>
+<isbn13>9780521484008</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>328</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2192</id>
+<name>Aristotle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2192.Aristotle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>61551</id>
+<title><![CDATA[The Open Society and Its Enemies - Volume Two: Hegel and Marx]]></title>
+<title_without_series><![CDATA[The Open Society and Its Enemies - Volume Two: Hegel and Marx]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/61551.The_Open_Society_and_Its_Enemies_Volume_Two]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356441761s/61551.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356441761m/61551.jpg]]></image_url>
+<num_pages>470</num_pages>
+<work>
+<id>59860</id>
+</work>
+<isbn>0415278422</isbn>
+<isbn13>9780415278423</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1579</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>14772624</id>
+<name>Karl R. Popper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14772624.Karl_R_Popper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16619</id>
+<title>Democracy in America </title>
+<title_without_series>Democracy in America</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16619.Democracy_in_America]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>992</num_pages>
+<work>
+<id>90454</id>
+</work>
+<isbn>0140447601</isbn>
+<isbn13>9780140447606</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>17741</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>465</id>
+<name>Alexis de Tocqueville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/465.Alexis_de_Tocqueville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>129238</id>
+<title>Political Liberalism</title>
+<title_without_series>Political Liberalism</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/129238.Political_Liberalism]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>2022651</id>
+</work>
+<isbn>0231130899</isbn>
+<isbn13>9780231130899</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>736</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>74263</id>
+<name>John Rawls</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74263.John_Rawls]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>231850</id>
+  <title>Corduroy</title>
+  <isbn><![CDATA[0670241334]]></isbn>
+  <isbn13><![CDATA[9780670241330]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00AEBETRU]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Have you ever dreamed of being locked in a department store at night? The endearing story of Corduroy paints a picture of the adventures that might unfold (for a teddy bear at least) in such a situation. When all the shoppers have gone home for the night, Corduroy climbs down from the shelf to look for his missing button. It's a brave new world! He accidentally gets on an elevator that he thinks <i>must</i> be a mountain and sees the furniture section that he thinks must be a palace. He tries to pull a button off the mattress, but he ends up falling off the bed and knocking over a lamp. The night watchman hears the crash, finds Corduroy, and puts him back on the shelf downstairs. The next morning, he finds that it's his lucky day! A little girl buys him with money she saved in her piggy bank and takes him home to her room. Corduroy decides that this <i>must</i> be home and that Lisa must be his friend. Youngsters will never get tired of this toy-comes-alive tale with a happy ending, so you may also want to seek out Dan Freeman's next creation, <i>A Pocket for Corduroy</i>. <i>(Ages 3 to 8)</i>]]></description>
+  <work>
+  <id type="integer">261903</id>
+  <books_count type="integer">58</books_count>
+  <best_book_id type="integer">231850</best_book_id>
+  <reviews_count type="integer">199796</reviews_count>
+  <ratings_sum type="integer">694655</ratings_sum>
+  <ratings_count type="integer">162382</ratings_count>
+  <text_reviews_count type="integer">1903</text_reviews_count>
+  <original_publication_year type="integer">1948</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Corduroy</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:87046|4:42678|3:25363|2:5329|1:1966|total:162382</rating_dist>
+  <desc_user_id type="integer">42578483</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.28</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[160902]]></ratings_count>
+  <text_reviews_count><![CDATA[1791]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/231850.Corduroy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/231850.Corduroy]]></link>
+  <authors>
+<author>
+<id>20730</id>
+<name>Don Freeman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1302406880p5/20730.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1302406880p2/20730.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/20730.Don_Freeman]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>223317</ratings_count>
+<text_reviews_count>3238</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/231850.Corduroy">Corduroy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0670241334&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/231850.Corduroy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="30120"/>
+      <shelf name="picture-books" count="1305"/>
+      <shelf name="childrens" count="1165"/>
+      <shelf name="children-s-books" count="998"/>
+      <shelf name="children" count="753"/>
+      <shelf name="children-s" count="732"/>
+      <shelf name="childrens-books" count="451"/>
+      <shelf name="kids" count="427"/>
+      <shelf name="childhood" count="408"/>
+      <shelf name="favorites" count="378"/>
+      <shelf name="kids-books" count="339"/>
+      <shelf name="picture-book" count="312"/>
+      <shelf name="fiction" count="301"/>
+      <shelf name="currently-reading" count="267"/>
+      <shelf name="classics" count="258"/>
+      <shelf name="childhood-favorites" count="238"/>
+      <shelf name="animals" count="133"/>
+      <shelf name="childhood-books" count="123"/>
+      <shelf name="children-s-literature" count="123"/>
+      <shelf name="children-books" count="120"/>
+      <shelf name="friendship" count="100"/>
+      <shelf name="children-s-lit" count="99"/>
+      <shelf name="owned" count="91"/>
+      <shelf name="classic" count="89"/>
+      <shelf name="books-i-own" count="81"/>
+      <shelf name="kid-books" count="79"/>
+      <shelf name="children-s-picture-books" count="78"/>
+      <shelf name="fantasy" count="76"/>
+      <shelf name="bears" count="63"/>
+      <shelf name="childrens-lit" count="61"/>
+      <shelf name="my-childhood" count="53"/>
+      <shelf name="favorite-children-s-books" count="50"/>
+      <shelf name="childhood-reads" count="50"/>
+      <shelf name="picture" count="50"/>
+      <shelf name="default" count="47"/>
+      <shelf name="family" count="46"/>
+      <shelf name="preschool" count="45"/>
+      <shelf name="adventure" count="43"/>
+      <shelf name="juvenile" count="43"/>
+      <shelf name="picturebooks" count="42"/>
+      <shelf name="childrens-literature" count="40"/>
+      <shelf name="childhood-memories" count="35"/>
+      <shelf name="children-s-book" count="35"/>
+      <shelf name="edrd-314" count="34"/>
+      <shelf name="kid-s-books" count="34"/>
+      <shelf name="elementary" count="34"/>
+      <shelf name="childrens-picture-books" count="34"/>
+      <shelf name="owned-books" count="33"/>
+      <shelf name="toys" count="32"/>
+      <shelf name="kindergarten" count="31"/>
+      <shelf name="for-the-kids" count="30"/>
+      <shelf name="read-as-a-child" count="30"/>
+      <shelf name="read-aloud" count="29"/>
+      <shelf name="nostalgia" count="29"/>
+      <shelf name="library" count="29"/>
+      <shelf name="baby-books" count="29"/>
+      <shelf name="kid-lit" count="29"/>
+      <shelf name="storytime" count="29"/>
+      <shelf name="favorite-picture-books" count="28"/>
+      <shelf name="kiddos" count="27"/>
+      <shelf name="early-childhood" count="25"/>
+      <shelf name="read-alouds" count="25"/>
+      <shelf name="pre-2000" count="25"/>
+      <shelf name="youth" count="25"/>
+      <shelf name="classroom-books" count="24"/>
+      <shelf name="love" count="24"/>
+      <shelf name="books-from-my-childhood" count="24"/>
+      <shelf name="books-i-read-as-a-kid" count="24"/>
+      <shelf name="classroom" count="22"/>
+      <shelf name="kids-picture-books" count="22"/>
+      <shelf name="corduroy" count="22"/>
+      <shelf name="own-it" count="22"/>
+      <shelf name="books-from-childhood" count="21"/>
+      <shelf name="children-s-fiction" count="21"/>
+      <shelf name="favorite-childrens-books" count="21"/>
+      <shelf name="series" count="21"/>
+      <shelf name="read-as-a-kid" count="21"/>
+      <shelf name="to-buy" count="21"/>
+      <shelf name="childrensbooks" count="21"/>
+      <shelf name="school" count="20"/>
+      <shelf name="childrens-book" count="20"/>
+      <shelf name="childrens-fiction" count="19"/>
+      <shelf name="from-my-childhood" count="19"/>
+      <shelf name="friends" count="19"/>
+      <shelf name="i-own" count="19"/>
+      <shelf name="childhood-favs" count="19"/>
+      <shelf name="my-books" count="19"/>
+      <shelf name="home-library" count="18"/>
+      <shelf name="children-s-classics" count="18"/>
+      <shelf name="children-picture-books" count="18"/>
+      <shelf name="childhood-faves" count="18"/>
+      <shelf name="social-emotional" count="17"/>
+      <shelf name="acceptance" count="17"/>
+      <shelf name="from-childhood" count="17"/>
+      <shelf name="illustrated" count="17"/>
+      <shelf name="children-s-books-read" count="17"/>
+      <shelf name="books-we-own" count="17"/>
+      <shelf name="children-ya" count="17"/>
+      <shelf name="read-to-kids" count="16"/>
+      <shelf name="5-stars" count="16"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>443705</id>
+<user_position></user_position>
+<series>
+<id>92051</id>
+<title>
+<![CDATA[
+    Corduroy
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>56</series_works_count>
+<primary_work_count>52</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>153542</id>
+<title><![CDATA[Mike Mulligan and His Steam Shovel]]></title>
+<title_without_series><![CDATA[Mike Mulligan and His Steam Shovel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/153542.Mike_Mulligan_and_His_Steam_Shovel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1069773</id>
+</work>
+<isbn>0395169615</isbn>
+<isbn13>9780395169612</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>43753</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15450</id>
+<name>Virginia Lee Burton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15450.Virginia_Lee_Burton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>775597</id>
+<title><![CDATA[Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business]]></title>
+<title_without_series><![CDATA[Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/775597.Caps_for_Sale]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1348541342s/775597.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1348541342m/775597.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>954532</id>
+</work>
+<isbn>0064431436</isbn>
+<isbn13>9780064431439</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>73214</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>120341</id>
+<name>Esphyr Slobodkina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/120341.Esphyr_Slobodkina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>825081</id>
+<title>Lilly&apos;s Purple Plastic Purse</title>
+<title_without_series>Lilly&apos;s Purple Plastic Purse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/825081.Lilly_s_Purple_Plastic_Purse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1223344</id>
+</work>
+<isbn>0688128971</isbn>
+<isbn13>9780688128975</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>24392</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>857448</id>
+<title>Harry the Dirty Dog</title>
+<title_without_series>Harry the Dirty Dog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/857448.Harry_the_Dirty_Dog]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>368224</id>
+</work>
+<isbn>0060268654</isbn>
+<isbn13>9780060268657</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>44936</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>6577</id>
+<name>Gene Zion</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6577.Gene_Zion]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>722864</id>
+<title><![CDATA[Inside the Human Body (The Magic School Bus, #3)]]></title>
+<title_without_series>Inside the Human Body</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/722864.Inside_the_Human_Body]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>709098</id>
+</work>
+<isbn>0590414275</isbn>
+<isbn13>9780590414272</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>30945</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>22504</id>
+<name>Joanna Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22504.Joanna_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>824204</id>
+<title>The Little Engine That Could</title>
+<title_without_series>The Little Engine That Could</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/824204.The_Little_Engine_That_Could]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1352736875s/824204.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1352736875m/824204.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>258562</id>
+</work>
+<isbn>0448405202</isbn>
+<isbn13>9780448405209</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>83514</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>43186</id>
+<name>Watty Piper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43186.Watty_Piper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>900065</id>
+<title><![CDATA[The Berenstain Bears and the Messy Room]]></title>
+<title_without_series><![CDATA[The Berenstain Bears and the Messy Room]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/900065.The_Berenstain_Bears_and_the_Messy_Room]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344371748s/900065.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344371748m/900065.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1405163</id>
+</work>
+<isbn>0394856392</isbn>
+<isbn13>9780394856391</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>28124</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>5</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>781498</id>
+<title><![CDATA[The Day Jimmy's Boa Ate the Wash]]></title>
+<title_without_series><![CDATA[The Day Jimmy's Boa Ate the Wash]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/781498.The_Day_Jimmy_s_Boa_Ate_the_Wash]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>767519</id>
+</work>
+<isbn>0140546235</isbn>
+<isbn13>9780140546231</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>17029</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>41476</id>
+<name>Trinka Hakes Noble</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41476.Trinka_Hakes_Noble]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>127179</id>
+<title>Library Lion</title>
+<title_without_series>Library Lion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/127179.Library_Lion]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320438765s/127179.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320438765m/127179.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3147348</id>
+</work>
+<isbn>0763622621</isbn>
+<isbn13>9780763622626</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>7322</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>72545</id>
+<name>Michelle Knudsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72545.Michelle_Knudsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>372638</id>
+<title>Lyle, Lyle, Crocodile</title>
+<title_without_series>Lyle, Lyle, Crocodile</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/372638.Lyle_Lyle_Crocodile]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>3080688</id>
+</work>
+<isbn>0395137209</isbn>
+<isbn13>9780395137208</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>24415</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>55758</id>
+<name>Bernard Waber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55758.Bernard_Waber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>911579</id>
+<title>Bread and Jam for Frances</title>
+<title_without_series>Bread and Jam for Frances</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/911579.Bread_and_Jam_for_Frances]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384258893s/911579.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384258893m/911579.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>896682</id>
+</work>
+<isbn>0064430960</isbn>
+<isbn13>9780064430968</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>28313</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>1</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>12076</id>
+<name>Russell Hoban</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12076.Russell_Hoban]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58922</id>
+<title>The Runaway Bunny</title>
+<title_without_series>The Runaway Bunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58922.The_Runaway_Bunny]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1468816103s/58922.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1468816103m/58922.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2039654</id>
+</work>
+<isbn>0060775823</isbn>
+<isbn13>9780060775827</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>54290</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18479</id>
+<name>Margaret Wise Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18479.Margaret_Wise_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>537296</id>
+<title><![CDATA[Frog and Toad Are Friends (Frog and Toad, #1)]]></title>
+<title_without_series>Frog and Toad Are Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/537296.Frog_and_Toad_Are_Friends]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1231880</id>
+</work>
+<isbn>0064440206</isbn>
+<isbn13>9780064440202</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>70749</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>310258</id>
+<title>The Snowy Day</title>
+<title_without_series>The Snowy Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/310258.The_Snowy_Day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>51286</id>
+</work>
+<isbn>0140501827</isbn>
+<isbn13>9780140501827</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>82727</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>29671</id>
+<name>Ezra Jack Keats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29671.Ezra_Jack_Keats]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>394772</id>
+<title>The Mixed-Up Chameleon</title>
+<title_without_series>The Mixed-Up Chameleon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/394772.The_Mixed_Up_Chameleon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350959503s/394772.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350959503m/394772.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>795131</id>
+</work>
+<isbn>0694011479</isbn>
+<isbn13>9780694011476</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>15849</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>825576</id>
+<title><![CDATA[The Saggy Baggy Elephant (A Little Golden Book)]]></title>
+<title_without_series>The Saggy Baggy Elephant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/825576.The_Saggy_Baggy_Elephant]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320481063s/825576.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320481063m/825576.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>334487</id>
+</work>
+<isbn>0307021106</isbn>
+<isbn13>9780307021106</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>15402</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>172337</id>
+<name>Kathryn Jackson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172337.Kathryn_Jackson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>475339</id>
+<title>Madeline</title>
+<title_without_series>Madeline</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/475339.Madeline]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>2666907</id>
+</work>
+<isbn>0590133373</isbn>
+<isbn13>9780590133371</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>158467</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64280</id>
+<name>Ludwig Bemelmans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64280.Ludwig_Bemelmans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>133526</id>
+<title>Blueberries for Sal</title>
+<title_without_series>Blueberries for Sal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/133526.Blueberries_for_Sal]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1363586056s/133526.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1363586056m/133526.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>1416904</id>
+</work>
+<isbn>0670175919</isbn>
+<isbn13>9780670175918</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>59306</ratings_count>
+<publication_year>1948</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>14635</id>
+<name>Robert McCloskey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14635.Robert_McCloskey]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>196970</id>
+  <title>The Night Before Christmas</title>
+  <isbn><![CDATA[0399231900]]></isbn>
+  <isbn13><![CDATA[9780399231902]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0084ANGJA]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1998</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>G.P. Putnam's Sons</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Who's that peeking out of the sleigh? <br /><br />As St. Nick and eight tiny reindeer descend through a brilliant night sky onto the roof of a Victorian house in a snowy New England village, the famous Christmas poem begins. The father of the family narrates the words just as Clement Moore wrote them, and artist Jan Brett captures the spirit in brilliant illustrations that reflect this memorable night. Visually she extends this favorite Christmas story for children, who will delight in watching the two mischievous stowaways from the North Pole enthusiastically exploring the sacks of gifts on the roof while St. Nick, unaware, journeys down the chimney... until the toys spill down onto the lawn and he turns with a jerk!<br /><br />Antique toys and exquisite ornaments frame the borders in which sometimes the father, St. Nick, or the family cat and dog look on, as the story unfolds.<br /><br />A unique and beautiful edition to be cherished for years to come by all the family, especially the youngest, who find the night before Christmas perhaps the most exciting night of the year.]]></description>
+  <work>
+  <id type="integer">3043272</id>
+  <books_count type="integer">879</books_count>
+  <best_book_id type="integer">196970</best_book_id>
+  <reviews_count type="integer">109339</reviews_count>
+  <ratings_sum type="integer">392286</ratings_sum>
+  <ratings_count type="integer">89950</ratings_count>
+  <text_reviews_count type="integer">1510</text_reviews_count>
+  <original_publication_year type="integer">1986</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:52422|4:22001|3:12085|2:2475|1:967|total:89950</rating_dist>
+  <desc_user_id type="integer">5922796</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.36</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[81654]]></ratings_count>
+  <text_reviews_count><![CDATA[648]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/196970.The_Night_Before_Christmas]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/196970.The_Night_Before_Christmas]]></link>
+  <authors>
+<author>
+<id>64709</id>
+<name>Clement C. Moore</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202526372p5/64709.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202526372p2/64709.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/64709.Clement_C_Moore]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>91885</ratings_count>
+<text_reviews_count>1698</text_reviews_count>
+</author>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325711282p5/16325.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325711282p2/16325.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>220826</ratings_count>
+<text_reviews_count>5514</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/196970.The_Night_Before_Christmas">The Night Before Christmas Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0399231900&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/196970.The_Night_Before_Christmas?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="12600"/>
+      <shelf name="christmas" count="911"/>
+      <shelf name="childrens" count="732"/>
+      <shelf name="picture-books" count="578"/>
+      <shelf name="classics" count="550"/>
+      <shelf name="children" count="482"/>
+      <shelf name="children-s-books" count="459"/>
+      <shelf name="currently-reading" count="404"/>
+      <shelf name="poetry" count="395"/>
+      <shelf name="children-s" count="362"/>
+      <shelf name="childrens-books" count="261"/>
+      <shelf name="fiction" count="229"/>
+      <shelf name="holiday" count="225"/>
+      <shelf name="kids" count="218"/>
+      <shelf name="favorites" count="194"/>
+      <shelf name="childhood" count="162"/>
+      <shelf name="kids-books" count="157"/>
+      <shelf name="picture-book" count="153"/>
+      <shelf name="classic" count="131"/>
+      <shelf name="books-i-own" count="100"/>
+      <shelf name="owned" count="90"/>
+      <shelf name="christmas-books" count="83"/>
+      <shelf name="holidays" count="77"/>
+      <shelf name="fantasy" count="76"/>
+      <shelf name="default" count="71"/>
+      <shelf name="childhood-favorites" count="62"/>
+      <shelf name="children-books" count="59"/>
+      <shelf name="kindle" count="58"/>
+      <shelf name="children-s-literature" count="49"/>
+      <shelf name="children-s-lit" count="46"/>
+      <shelf name="childhood-books" count="39"/>
+      <shelf name="children-s-picture-books" count="37"/>
+      <shelf name="childhood-reads" count="36"/>
+      <shelf name="kid-books" count="35"/>
+      <shelf name="picture" count="30"/>
+      <shelf name="owned-books" count="29"/>
+      <shelf name="favourites" count="28"/>
+      <shelf name="juvenile" count="27"/>
+      <shelf name="childrens-picture-books" count="27"/>
+      <shelf name="library" count="25"/>
+      <shelf name="holiday-books" count="24"/>
+      <shelf name="my-library" count="24"/>
+      <shelf name="childrens-literature" count="23"/>
+      <shelf name="holiday-christmas" count="23"/>
+      <shelf name="i-own" count="22"/>
+      <shelf name="own-it" count="22"/>
+      <shelf name="childrens-lit" count="21"/>
+      <shelf name="ebook" count="20"/>
+      <shelf name="read-as-a-child" count="19"/>
+      <shelf name="winter" count="19"/>
+      <shelf name="illustrated" count="19"/>
+      <shelf name="children-s-classics" count="19"/>
+      <shelf name="seasonal" count="19"/>
+      <shelf name="read-in-2015" count="18"/>
+      <shelf name="my-childhood" count="18"/>
+      <shelf name="childrens-book" count="18"/>
+      <shelf name="read-aloud" count="17"/>
+      <shelf name="christmas-stories" count="17"/>
+      <shelf name="books-from-my-childhood" count="17"/>
+      <shelf name="favorite-children-s-books" count="17"/>
+      <shelf name="youth" count="17"/>
+      <shelf name="read-more-than-once" count="17"/>
+      <shelf name="storytime" count="16"/>
+      <shelf name="read-in-2016" count="16"/>
+      <shelf name="young-adult" count="16"/>
+      <shelf name="kid-lit" count="16"/>
+      <shelf name="elementary" count="16"/>
+      <shelf name="art" count="16"/>
+      <shelf name="my-books" count="15"/>
+      <shelf name="5-stars" count="15"/>
+      <shelf name="children-young-adult" count="15"/>
+      <shelf name="childrens-fiction" count="14"/>
+      <shelf name="family" count="14"/>
+      <shelf name="preschool" count="14"/>
+      <shelf name="children-s-book" count="14"/>
+      <shelf name="xmas" count="14"/>
+      <shelf name="pop-up" count="14"/>
+      <shelf name="library-books" count="13"/>
+      <shelf name="children-s-fiction" count="13"/>
+      <shelf name="christmas-reads" count="13"/>
+      <shelf name="picturebooks" count="13"/>
+      <shelf name="for-the-kids" count="13"/>
+      <shelf name="short-stories" count="12"/>
+      <shelf name="little-golden-books" count="12"/>
+      <shelf name="poems" count="12"/>
+      <shelf name="from-my-childhood" count="12"/>
+      <shelf name="children-ya" count="11"/>
+      <shelf name="december" count="11"/>
+      <shelf name="kids-read" count="11"/>
+      <shelf name="read-in-2014" count="11"/>
+      <shelf name="classroom" count="11"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="kid-s-books" count="11"/>
+      <shelf name="childhood-memories" count="11"/>
+      <shelf name="childrens-classics" count="11"/>
+      <shelf name="books-for-children" count="11"/>
+      <shelf name="english" count="10"/>
+      <shelf name="books-for-kids" count="10"/>
+      <shelf name="for-kids" count="10"/>
+      <shelf name="ebooks" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>29030</id>
+<title>The Twelve Days of Christmas</title>
+<title_without_series>The Twelve Days of Christmas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29030.The_Twelve_Days_of_Christmas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>29503</id>
+</work>
+<isbn>0750028688</isbn>
+<isbn13>9780750028684</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2583</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>820692</id>
+<title><![CDATA[The 12 Days of Christmas: A Pop-Up Celebration]]></title>
+<title_without_series><![CDATA[The 12 Days of Christmas: A Pop-Up Celebration]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/820692.The_12_Days_of_Christmas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>806534</id>
+</work>
+<isbn>0689808658</isbn>
+<isbn13>9780689808654</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>1103</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14765007</id>
+<name>Robert Sabuda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14765007.Robert_Sabuda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6757375</id>
+<title>The Christmas Magic</title>
+<title_without_series>The Christmas Magic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6757375-the-christmas-magic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328842833s/6757375.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328842833m/6757375.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>6953878</id>
+</work>
+<isbn>0439774977</isbn>
+<isbn13>9780439774970</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>502</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>139445</id>
+<name>Lauren Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/139445.Lauren_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>369307</id>
+<title><![CDATA[Merry Christmas, Big Hungry Bear!]]></title>
+<title_without_series><![CDATA[Merry Christmas, Big Hungry Bear!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/369307.Merry_Christmas_Big_Hungry_Bear_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>359286</id>
+</work>
+<isbn>0439320925</isbn>
+<isbn13>9780439320924</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1124</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3368</id>
+<name>Audrey Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3368.Audrey_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1434923</id>
+<title><![CDATA[The Christmas Miracle of Jonathan Toomey]]></title>
+<title_without_series><![CDATA[The Christmas Miracle of Jonathan Toomey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1434923.The_Christmas_Miracle_of_Jonathan_Toomey]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1425476</id>
+</work>
+<isbn>0849976820</isbn>
+<isbn13>9780849976827</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>9145</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>164488</id>
+<name>Susan Wojciechowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164488.Susan_Wojciechowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114282</id>
+<title>The Littlest Angel</title>
+<title_without_series>The Littlest Angel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114282.The_Littlest_Angel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>1874292</id>
+</work>
+<isbn>0824953320</isbn>
+<isbn13>9780824953324</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>5377</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>66162</id>
+<name>Charles Tazewell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66162.Charles_Tazewell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>404887</id>
+<title><![CDATA[Mary Engelbreit's A Merry Little Christmas: Celebrate from A to Z]]></title>
+<title_without_series><![CDATA[Mary Engelbreit's A Merry Little Christmas: Celebrate from A to Z]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/404887.Mary_Engelbreit_s_A_Merry_Little_Christmas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1428802160s/404887.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1428802160m/404887.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>394243</id>
+</work>
+<isbn>0060741589</isbn>
+<isbn13>9780060741587</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>194</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>19054</id>
+<name>Mary Engelbreit</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19054.Mary_Engelbreit]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1215290</id>
+<title><![CDATA[Rudolph the Red-Nosed Reindeer]]></title>
+<title_without_series><![CDATA[Rudolph the Red-Nosed Reindeer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1215290.Rudolph_the_Red_Nosed_Reindeer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330095176s/1215290.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330095176m/1215290.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>1203733</id>
+</work>
+<isbn>0307020711</isbn>
+<isbn13>9780307020710</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>33480</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42017</id>
+<name>Barbara Shook Hazen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42017.Barbara_Shook_Hazen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1132614</id>
+<title><![CDATA[Rudolph the Red-Nosed Reindeer]]></title>
+<title_without_series><![CDATA[Rudolph the Red-Nosed Reindeer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1132614.Rudolph_the_Red_Nosed_Reindeer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344749354s/1132614.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344749354m/1132614.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1842853</id>
+</work>
+<isbn>1557091390</isbn>
+<isbn13>9781557091390</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>743</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>556658</id>
+<name>Robert Lewis May</name>
+<link><![CDATA[https://www.goodreads.com/author/show/556658.Robert_Lewis_May]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>590962</id>
+<title>Mr. Willowby&apos;s Christmas Tree</title>
+<title_without_series>Mr. Willowby&apos;s Christmas Tree</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/590962.Mr_Willowby_s_Christmas_Tree]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>577719</id>
+</work>
+<isbn>0385327218</isbn>
+<isbn13>9780385327213</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2728</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>858178</id>
+<name>Robert E. Barry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/858178.Robert_E_Barry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>756342</id>
+<title>Bear Stays Up for Christmas</title>
+<title_without_series>Bear Stays Up for Christmas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/756342.Bear_Stays_Up_for_Christmas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>742459</id>
+</work>
+<isbn>0689852789</isbn>
+<isbn13>9780689852787</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>6618</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35105</id>
+<name>Karma Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35105.Karma_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>402026</id>
+<title>The Jolly Christmas Postman</title>
+<title_without_series>The Jolly Christmas Postman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/402026.The_Jolly_Christmas_Postman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1738344</id>
+</work>
+<isbn>0316020338</isbn>
+<isbn13>9780316020336</isbn13>
+<average_rating>4.46</average_rating>
+<ratings_count>2863</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>49420</id>
+<name>Janet Ahlberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49420.Janet_Ahlberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1275105</id>
+<title>A Charlie Brown Christmas</title>
+<title_without_series>A Charlie Brown Christmas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1275105.A_Charlie_Brown_Christmas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>3260020</id>
+</work>
+<isbn>0606300538</isbn>
+<isbn13>9780606300537</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>13904</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>209672</id>
+<name>Charles M. Schulz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/209672.Charles_M_Schulz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>326191</id>
+<title>Auntie Claus</title>
+<title_without_series>Auntie Claus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/326191.Auntie_Claus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>316834</id>
+</work>
+<isbn>015201909X</isbn>
+<isbn13>9780152019099</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>2220</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>168353</id>
+<name>Elise Primavera</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168353.Elise_Primavera]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>490170</id>
+<title>The Little Drummer Boy</title>
+<title_without_series>The Little Drummer Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/490170.The_Little_Drummer_Boy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2002318</id>
+</work>
+<isbn>0140567437</isbn>
+<isbn13>9780140567434</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>1384</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>29671</id>
+<name>Ezra Jack Keats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29671.Ezra_Jack_Keats]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>900274</id>
+<title><![CDATA[The Year of the Perfect Christmas Tree: An Appalachian Story]]></title>
+<title_without_series><![CDATA[The Year of the Perfect Christmas Tree: An Appalachian Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/900274.The_Year_of_the_Perfect_Christmas_Tree]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>885457</id>
+</work>
+<isbn>0140558772</isbn>
+<isbn13>9780140558777</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>2114</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>172399</id>
+<name>Gloria Houston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172399.Gloria_Houston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>698159</id>
+<title>Snowmen at Christmas</title>
+<title_without_series>Snowmen at Christmas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/698159.Snowmen_at_Christmas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309280312s/698159.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309280312m/698159.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3334003</id>
+</work>
+<isbn>0803729952</isbn>
+<isbn13>9780803729957</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>9611</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>307885</id>
+<name>Caralyn Buehner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/307885.Caralyn_Buehner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3819244</id>
+<title><![CDATA[A Pirate's Night Before Christmas]]></title>
+<title_without_series><![CDATA[A Pirate's Night Before Christmas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3819244-a-pirate-s-night-before-christmas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328859116s/3819244.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328859116m/3819244.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3863540</id>
+</work>
+<isbn>1402742576</isbn>
+<isbn13>9781402742576</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>511</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>802714</id>
+<name>Philip Yates</name>
+<link><![CDATA[https://www.goodreads.com/author/show/802714.Philip_Yates]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>78418</id>
+  <title><![CDATA[The Reptile Room (A Series of Unfortunate Events, #2)]]></title>
+  <isbn><![CDATA[0439206480]]></isbn>
+  <isbn13><![CDATA[9780439206488]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B000VYX94O]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1352146294m/78418.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1352146294s/78418.jpg</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>Scholastic, Inc.</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Dear Reader,<br /><br />If you have picked up this book with the hope of finding a simple and cheery tale, I'm afraid you have picked up the wrong book altogether. The story may seem cheery at first, when the Baudelaire children spend time in the company of some interesting reptiles and a giddy uncle, but don't be fooled. If you know anything at all about the unlucky Baudelaire children, you already know that even pleasant events lead down the same road to misery.<br /><br />In fact, within the pages you now hold in your hands, the three siblings endure a car accident, a terrible odor, a deadly serpent, a long knife, a large brass reading lamp, and the appearance of a person they'd hoped never to see again.<br /><br />I am bound to record these tragic events, but you are free to put this book back on the shelf and seek something lighter.<br /><br />With all due respect,<br /><br />Lemony Snicket]]></description>
+  <work>
+  <id type="integer">888312</id>
+  <books_count type="integer">97</books_count>
+  <best_book_id type="integer">78418</best_book_id>
+  <reviews_count type="integer">199817</reviews_count>
+  <ratings_sum type="integer">557777</ratings_sum>
+  <ratings_count type="integer">141240</ratings_count>
+  <text_reviews_count type="integer">4865</text_reviews_count>
+  <original_publication_year type="integer">1999</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">30</original_publication_day>
+  <original_title>The Reptile Room</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:45293|4:52982|3:34866|2:6687|1:1412|total:141240</rating_dist>
+  <desc_user_id type="integer">4946791</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.95</average_rating>
+  <num_pages><![CDATA[192]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[130311]]></ratings_count>
+  <text_reviews_count><![CDATA[3978]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/78418.The_Reptile_Room]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/78418.The_Reptile_Room]]></link>
+  <authors>
+<author>
+<id>36746</id>
+<name>Lemony Snicket</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199734355p5/36746.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1199734355p2/36746.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/36746.Lemony_Snicket]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>1548542</ratings_count>
+<text_reviews_count>53396</text_reviews_count>
+</author>
+<author>
+<id>44524</id>
+<name>Brett Helquist</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1352145632p5/44524.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1352145632p2/44524.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/44524.Brett_Helquist]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>1505464</ratings_count>
+<text_reviews_count>49216</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/78418.The_Reptile_Room">The Reptile Room Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0439206480&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/78418.The_Reptile_Room?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6232"/>
+      <shelf name="currently-reading" count="1512"/>
+      <shelf name="fiction" count="1325"/>
+      <shelf name="young-adult" count="1087"/>
+      <shelf name="childrens" count="1063"/>
+      <shelf name="books-i-own" count="899"/>
+      <shelf name="fantasy" count="825"/>
+      <shelf name="series" count="790"/>
+      <shelf name="owned" count="699"/>
+      <shelf name="children" count="686"/>
+      <shelf name="mystery" count="579"/>
+      <shelf name="childhood" count="520"/>
+      <shelf name="children-s" count="517"/>
+      <shelf name="middle-grade" count="510"/>
+      <shelf name="ya" count="408"/>
+      <shelf name="lemony-snicket" count="380"/>
+      <shelf name="children-s-books" count="341"/>
+      <shelf name="adventure" count="340"/>
+      <shelf name="favorites" count="327"/>
+      <shelf name="a-series-of-unfortunate-events" count="312"/>
+      <shelf name="kids" count="285"/>
+      <shelf name="humor" count="252"/>
+      <shelf name="owned-books" count="210"/>
+      <shelf name="audiobook" count="187"/>
+      <shelf name="childrens-books" count="177"/>
+      <shelf name="library" count="171"/>
+      <shelf name="juvenile" count="165"/>
+      <shelf name="series-of-unfortunate-events" count="156"/>
+      <shelf name="default" count="152"/>
+      <shelf name="audiobooks" count="145"/>
+      <shelf name="childhood-books" count="145"/>
+      <shelf name="re-read" count="144"/>
+      <shelf name="kids-books" count="135"/>
+      <shelf name="read-in-2017" count="133"/>
+      <shelf name="ebook" count="125"/>
+      <shelf name="my-books" count="124"/>
+      <shelf name="childhood-favorites" count="123"/>
+      <shelf name="my-library" count="112"/>
+      <shelf name="children-s-lit" count="106"/>
+      <shelf name="i-own" count="106"/>
+      <shelf name="read-in-2016" count="102"/>
+      <shelf name="kindle" count="99"/>
+      <shelf name="ebooks" count="98"/>
+      <shelf name="read-in-2015" count="93"/>
+      <shelf name="books" count="90"/>
+      <shelf name="children-s-literature" count="89"/>
+      <shelf name="audio" count="84"/>
+      <shelf name="to-buy" count="83"/>
+      <shelf name="4-stars" count="80"/>
+      <shelf name="favourites" count="75"/>
+      <shelf name="juvenile-fiction" count="74"/>
+      <shelf name="novels" count="74"/>
+      <shelf name="childhood-reads" count="71"/>
+      <shelf name="own-it" count="71"/>
+      <shelf name="youth" count="71"/>
+      <shelf name="reread" count="68"/>
+      <shelf name="unfortunate-events" count="67"/>
+      <shelf name="gothic" count="66"/>
+      <shelf name="realistic-fiction" count="66"/>
+      <shelf name="english" count="65"/>
+      <shelf name="childrens-lit" count="65"/>
+      <shelf name="orphans" count="63"/>
+      <shelf name="middle-school" count="62"/>
+      <shelf name="read-2017" count="59"/>
+      <shelf name="borrowed" count="58"/>
+      <shelf name="my-childhood" count="56"/>
+      <shelf name="e-books" count="54"/>
+      <shelf name="humour" count="54"/>
+      <shelf name="read-in-2013" count="52"/>
+      <shelf name="ya-fiction" count="52"/>
+      <shelf name="childrens-fiction" count="52"/>
+      <shelf name="read-2016" count="51"/>
+      <shelf name="children-books" count="51"/>
+      <shelf name="classics" count="50"/>
+      <shelf name="family" count="49"/>
+      <shelf name="read-more-than-once" count="48"/>
+      <shelf name="contemporary" count="47"/>
+      <shelf name="have" count="46"/>
+      <shelf name="rereads" count="46"/>
+      <shelf name="novel" count="46"/>
+      <shelf name="re-reads" count="45"/>
+      <shelf name="dark" count="45"/>
+      <shelf name="teen" count="45"/>
+      <shelf name="read-in-english" count="44"/>
+      <shelf name="funny" count="43"/>
+      <shelf name="kid-lit" count="42"/>
+      <shelf name="childhood-favourites" count="41"/>
+      <shelf name="american" count="41"/>
+      <shelf name="children-s-fiction" count="41"/>
+      <shelf name="book-series" count="41"/>
+      <shelf name="20th-century" count="40"/>
+      <shelf name="chapter-books" count="40"/>
+      <shelf name="read-as-a-kid" count="40"/>
+      <shelf name="comedy" count="40"/>
+      <shelf name="read-in-2012" count="39"/>
+      <shelf name="e-book" count="39"/>
+      <shelf name="to-reread" count="39"/>
+      <shelf name="children-young-adult" count="38"/>
+      <shelf name="read-in-2014" count="37"/>
+      <shelf name="my-bookshelf" count="37"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>153354</id>
+<user_position>2</user_position>
+<series>
+<id>42069</id>
+<title>
+<![CDATA[
+    A Series of Unfortunate Events
+]]>
+</title>
+<description>
+<![CDATA[
+    If you have not read anything about the Baudelaire orphans, then before you read even one more sentence, you should know this: Violet, Klaus, and Sunny are kindhearted and quick-witted, but their lives are filled with bad luck and misery. All of the stories about these three children are unhappy and wretched and will most likely fill you with deep despair.
+]]>
+</description>
+<note>
+<![CDATA[
+    Bulgarian: Поредица от злополучия
+    Chinese: 波特萊爾大遇險
+    Czech: Řada nešťastných příhod
+    Danish: Én ulykke kommer sjældent alene
+    Dutch: Ellendige avonturen
+    Estonian: Sari õnnetuid lugusid
+    Farsi: مجموعه ماجراهای بچه‌‌های بدشان
+    Finnish: Surkeiden sattumusten sarja
+    French: Les Desastreuses Aventures des Orphelins 
+    German: Eine Reihe betrüblicher Ereignisse
+    Greek: Μία σειρά από ατυχή γεγονότα
+    Hebrew: סדרה של צרות
+    Hungarian: A Balszerencse Áradása
+    Italian: Una serie di sfortunati eventi
+    Latvian: Nelaimīgo notikumu sērija
+    Polish: Seria Niefortunnych Zdarzeń
+    Portuguese: Uma Série de Desgraças
+    Brazilian Portuguese: Desventuras em Série
+    Russian: Тридцать три несчастья
+    Slovak: Rada nešťastných prhod
+    Slovenian: Zaporedje nesrečnih prigod
+    Spanish: Una Serie de Catastroficas Desdichas
+    Swedish: Syskonen Bauderlaires olycksaliga liv
+    Thailand: อยากให้เรื่องนี้ไม่มีโชคร้าย
+    Turkish: Talihsiz Serüvenler Dizisi
+    Ukrainian: Лихо та й годі
+    Vietnamese: Những Cuộc Phiêu Lưu Bất Tận
+]]>
+</note>
+<series_works_count>41</series_works_count>
+<primary_work_count>13</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>280277</id>
+<title><![CDATA[Lucinda's Secret (The Spiderwick Chronicles, #3)]]></title>
+<title_without_series>Lucinda&apos;s Secret</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/280277.Lucinda_s_Secret]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358701877s/280277.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358701877m/280277.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>268824</id>
+</work>
+<isbn>0689859384</isbn>
+<isbn13>9780689859380</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>26417</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>25422</id>
+<name>Holly Black</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25422.Holly_Black]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99313</id>
+<title><![CDATA[Dreadful Acts (The Eddie Dickens Trilogy, #2)]]></title>
+<title_without_series>Dreadful Acts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99313.Dreadful_Acts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867484s/99313.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867484m/99313.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>95742</id>
+</work>
+<isbn>0439537606</isbn>
+<isbn13>9780439537605</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>757</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17515</id>
+<name>Philip Ardagh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17515.Philip_Ardagh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>799073</id>
+<title><![CDATA[Molly Moon Stops the World (Molly Moon, #2)]]></title>
+<title_without_series>Molly Moon Stops the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/799073.Molly_Moon_Stops_the_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1473664</id>
+</work>
+<isbn>0060514159</isbn>
+<isbn13>9780060514150</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>6866</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>371202</id>
+<name>Georgia Byng</name>
+<link><![CDATA[https://www.goodreads.com/author/show/371202.Georgia_Byng]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12768</id>
+<title><![CDATA[Gilda Joyce: The Ladies of the Lake (Gilda Joyce, #2)]]></title>
+<title_without_series><![CDATA[Gilda Joyce: The Ladies of the Lake]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12768.Gilda_Joyce]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309286444s/12768.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309286444m/12768.jpg]]></image_url>
+<num_pages>339</num_pages>
+<work>
+<id>436420</id>
+</work>
+<isbn>0525476938</isbn>
+<isbn13>9780525476931</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>2228</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>8048</id>
+<name>Jennifer Allison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8048.Jennifer_Allison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>291894</id>
+<title><![CDATA[Nighty-Nightmare (Bunnicula, #4)]]></title>
+<title_without_series>Nighty-Nightmare</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/291894.Nighty_Nightmare]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1969353</id>
+</work>
+<isbn>059041805X</isbn>
+<isbn13>9780689817243</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>2938</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>51424</id>
+<name>James Howe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51424.James_Howe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>334012</id>
+<title><![CDATA[The Edge Chronicles 6: Midnight Over Sanctaphrax: Third Book of Twig]]></title>
+<title_without_series><![CDATA[The Edge Chronicles 6: Midnight Over Sanctaphrax: Third Book of Twig]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/334012.The_Edge_Chronicles_6]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320502808s/334012.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320502808m/334012.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>324508</id>
+</work>
+<isbn>0552554243</isbn>
+<isbn13>9780552554244</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>5646</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>24830</id>
+<name>Paul Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24830.Paul_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1111978</id>
+<title><![CDATA[The Not-So-Jolly Roger (Time Warp Trio #2)]]></title>
+<title_without_series>The Not-So-Jolly Roger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1111978.The_Not_So_Jolly_Roger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>2636239</id>
+</work>
+<isbn>0140346848</isbn>
+<isbn13>9780140346848</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>932</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>27318</id>
+<name>Jon Scieszka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27318.Jon_Scieszka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>958281</id>
+<title><![CDATA[Junie B. Jones Has a Monster Under Her Bed (Junie B. Jones, #8)]]></title>
+<title_without_series><![CDATA[Junie B. Jones Has a Monster Under Her Bed]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/958281.Junie_B_Jones_Has_a_Monster_Under_Her_Bed]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320557644s/958281.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320557644m/958281.jpg]]></image_url>
+<num_pages>69</num_pages>
+<work>
+<id>490500</id>
+</work>
+<isbn>0679866973</isbn>
+<isbn13>9780679866978</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>6932</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>769</id>
+<name>Barbara Park</name>
+<link><![CDATA[https://www.goodreads.com/author/show/769.Barbara_Park]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>853233</id>
+<title>The Landry News</title>
+<title_without_series>The Landry News</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/853233.The_Landry_News]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>6573247</id>
+</work>
+<isbn>0689828683</isbn>
+<isbn13>9780689828683</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>7212</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>63095</id>
+<name>Andrew Clements</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63095.Andrew_Clements]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>932902</id>
+<title>Dizzy</title>
+<title_without_series>Dizzy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/932902.Dizzy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309210376s/932902.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309210376m/932902.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>917890</id>
+</work>
+<isbn>0142404748</isbn>
+<isbn13>9780142404744</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>4549</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>63533</id>
+<name>Cathy Cassidy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63533.Cathy_Cassidy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>112879</id>
+<title><![CDATA[Once Upon a Crime (The Sisters Grimm, #4)]]></title>
+<title_without_series>Once Upon a Crime</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/112879.Once_Upon_a_Crime]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349015477s/112879.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349015477m/112879.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>2169264</id>
+</work>
+<isbn>081091610X</isbn>
+<isbn13>9780810916104</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>15728</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>65335</id>
+<name>Michael Buckley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65335.Michael_Buckley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>982184</id>
+<title><![CDATA[The Sands of Time (The Hermux Tantamoq Adventures, #2)]]></title>
+<title_without_series>The Sands of Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/982184.The_Sands_of_Time]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1363701630s/982184.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1363701630m/982184.jpg]]></image_url>
+<num_pages>277</num_pages>
+<work>
+<id>2174626</id>
+</work>
+<isbn>0399238794</isbn>
+<isbn13>9780399238796</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1308</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>124153</id>
+<name>Michael Hoeye</name>
+<link><![CDATA[https://www.goodreads.com/author/show/124153.Michael_Hoeye]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53228</id>
+<title><![CDATA[Aliens Don't Wear Braces (Bailey School Kids #7)]]></title>
+<title_without_series>Aliens Don&apos;t Wear Braces</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53228.Aliens_Don_t_Wear_Braces]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>51907</id>
+</work>
+<isbn>0590470701</isbn>
+<isbn13>9780590470704</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>963</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11639</id>
+<name>Debbie Dadey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11639.Debbie_Dadey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24318</id>
+<title><![CDATA[Everything New Under The Sun (The Amazing Days of Abby Hayes, #10)]]></title>
+<title_without_series>Everything New Under The Sun</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24318.Everything_New_Under_The_Sun]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328869668s/24318.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328869668m/24318.jpg]]></image_url>
+<num_pages>105</num_pages>
+<work>
+<id>25187</id>
+</work>
+<isbn>0439353696</isbn>
+<isbn13>9780439353694</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>569</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13669</id>
+<name>Anne Mazer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13669.Anne_Mazer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24047</id>
+<title><![CDATA[The Stowaway Solution (On The Run, #4)]]></title>
+<title_without_series>The Stowaway Solution</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24047.The_Stowaway_Solution]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>24967</id>
+</work>
+<isbn>0439651395</isbn>
+<isbn13>9780439651394</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1880</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

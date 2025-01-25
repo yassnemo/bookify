@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>99111</id>
+  <title><![CDATA[The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)]]></title>
+  <isbn><![CDATA[0525444475]]></isbn>
+  <isbn13><![CDATA[9780525444473]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Alternate Cover Edition can be found <a href="https://www.goodreads.com/book/show/36008563-the-world-of-pooh" rel="nofollow">here</a>. </i><br /><br />The world of Pooh is the Thousand Acre Wood of Winnie-the-Pooh and his friends Piglet, Eeyore, Tigger, Kanga, Christopher Robin, and more. He is a whimsical philosopher, staunch friend, plump, and fond of honey. He calls himself a Bear of Very Little Brain, but is wise and loving. Delicate paintings loved by centuries of children.]]></description>
+  <work>
+  <id type="integer">95547</id>
+  <books_count type="integer">58</books_count>
+  <best_book_id type="integer">99111</best_book_id>
+  <reviews_count type="integer">51109</reviews_count>
+  <ratings_sum type="integer">182022</ratings_sum>
+  <ratings_count type="integer">41117</ratings_count>
+  <text_reviews_count type="integer">625</text_reviews_count>
+  <original_publication_year type="integer">1926</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">14</original_publication_day>
+  <original_title>Winnie-the-Pooh &amp; The House at Pooh Corner</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:25110|4:10210|3:4482|2:871|1:444|total:41117</rating_dist>
+  <desc_user_id type="integer">4863716</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.43</average_rating>
+  <num_pages><![CDATA[353]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[32509]]></ratings_count>
+  <text_reviews_count><![CDATA[343]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/99111.The_World_of_Winnie_the_Pooh]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/99111.The_World_of_Winnie_the_Pooh]]></link>
+  <authors>
+<author>
+<id>81466</id>
+<name>A.A. Milne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1204664899p5/81466.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1204664899p2/81466.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/81466.A_A_Milne]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>435011</ratings_count>
+<text_reviews_count>7353</text_reviews_count>
+</author>
+<author>
+<id>57085</id>
+<name>Ernest H. Shepard</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286395975p5/57085.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286395975p2/57085.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57085.Ernest_H_Shepard]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>477210</ratings_count>
+<text_reviews_count>8528</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/99111.The_World_of_Winnie_the_Pooh">The World of Winnie-the-Pooh Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0525444475&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/99111.The_World_of_Winnie_the_Pooh?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="7515"/>
+      <shelf name="classics" count="428"/>
+      <shelf name="childrens" count="409"/>
+      <shelf name="favorites" count="306"/>
+      <shelf name="children" count="295"/>
+      <shelf name="currently-reading" count="257"/>
+      <shelf name="children-s" count="210"/>
+      <shelf name="fiction" count="204"/>
+      <shelf name="children-s-books" count="193"/>
+      <shelf name="kids" count="132"/>
+      <shelf name="childrens-books" count="125"/>
+      <shelf name="owned" count="94"/>
+      <shelf name="childhood" count="92"/>
+      <shelf name="classic" count="90"/>
+      <shelf name="books-i-own" count="89"/>
+      <shelf name="fantasy" count="85"/>
+      <shelf name="kids-books" count="62"/>
+      <shelf name="default" count="50"/>
+      <shelf name="favourites" count="39"/>
+      <shelf name="childhood-favorites" count="37"/>
+      <shelf name="childhood-books" count="36"/>
+      <shelf name="children-s-literature" count="34"/>
+      <shelf name="animals" count="31"/>
+      <shelf name="children-s-lit" count="29"/>
+      <shelf name="read-alouds" count="27"/>
+      <shelf name="picture-books" count="27"/>
+      <shelf name="owned-books" count="26"/>
+      <shelf name="read-aloud" count="26"/>
+      <shelf name="juvenile" count="26"/>
+      <shelf name="literature" count="26"/>
+      <shelf name="british" count="25"/>
+      <shelf name="children-books" count="24"/>
+      <shelf name="childrens-lit" count="23"/>
+      <shelf name="young-adult" count="22"/>
+      <shelf name="short-stories" count="21"/>
+      <shelf name="my-books" count="17"/>
+      <shelf name="adventure" count="15"/>
+      <shelf name="juvenile-fiction" count="15"/>
+      <shelf name="series" count="15"/>
+      <shelf name="home-library" count="14"/>
+      <shelf name="humor" count="14"/>
+      <shelf name="my-childhood" count="13"/>
+      <shelf name="i-own" count="13"/>
+      <shelf name="children-s-fiction" count="13"/>
+      <shelf name="children-ya" count="13"/>
+      <shelf name="youth" count="13"/>
+      <shelf name="childrens-fiction" count="13"/>
+      <shelf name="all-time-favorites" count="13"/>
+      <shelf name="childrens-classics" count="12"/>
+      <shelf name="winnie-the-pooh" count="12"/>
+      <shelf name="read-as-a-child" count="12"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="english" count="11"/>
+      <shelf name="childhood-reads" count="11"/>
+      <shelf name="children-s-classics" count="11"/>
+      <shelf name="children-s-book" count="11"/>
+      <shelf name="childrens-literature" count="10"/>
+      <shelf name="classic-literature" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="picture-book" count="10"/>
+      <shelf name="poetry" count="10"/>
+      <shelf name="children-young-adult" count="10"/>
+      <shelf name="kid-books" count="10"/>
+      <shelf name="read-in-2016" count="9"/>
+      <shelf name="shelfari-favorites" count="9"/>
+      <shelf name="childhood-classics" count="9"/>
+      <shelf name="a-a-milne" count="9"/>
+      <shelf name="middle-grade" count="9"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="re-read" count="9"/>
+      <shelf name="pooh" count="9"/>
+      <shelf name="childhood-favourites" count="9"/>
+      <shelf name="chapter-books" count="9"/>
+      <shelf name="library" count="8"/>
+      <shelf name="english-literature" count="8"/>
+      <shelf name="british-literature" count="8"/>
+      <shelf name="ya" count="8"/>
+      <shelf name="read-to-kids" count="8"/>
+      <shelf name="must-read" count="8"/>
+      <shelf name="childhood-memories" count="8"/>
+      <shelf name="from-my-childhood" count="8"/>
+      <shelf name="books-from-my-childhood" count="7"/>
+      <shelf name="on-hold" count="7"/>
+      <shelf name="hardcover" count="7"/>
+      <shelf name="read-in-english" count="7"/>
+      <shelf name="kiddos" count="7"/>
+      <shelf name="favorite-children-s-books" count="7"/>
+      <shelf name="child" count="7"/>
+      <shelf name="kid-lit" count="7"/>
+      <shelf name="childhood-faves" count="7"/>
+      <shelf name="own-to-read" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="fairy-tales" count="6"/>
+      <shelf name="childrens-book" count="6"/>
+      <shelf name="read-as-a-kid" count="6"/>
+      <shelf name="books-i-read-as-a-child" count="6"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="friendship" count="6"/>
+      <shelf name="england" count="6"/>
+      <shelf name="for-the-kids" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>422812</id>
+<user_position>1-2</user_position>
+<series>
+<id>87815</id>
+<title>
+<![CDATA[
+    Winnie-the-Pooh
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>5</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>885497</id>
+<title><![CDATA[The Tale of Squirrel Nutkin (Peter Rabbit)]]></title>
+<title_without_series>The Tale of Squirrel Nutkin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/885497.The_Tale_of_Squirrel_Nutkin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1346999</id>
+</work>
+<isbn>0723247714</isbn>
+<isbn13>9780723247715</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>5555</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11593</id>
+<name>Beatrix Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11593.Beatrix_Potter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>117170</id>
+<title><![CDATA[Richard Scarry's Best Storybook Ever!]]></title>
+<title_without_series><![CDATA[Richard Scarry's Best Storybook Ever!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/117170.Richard_Scarry_s_Best_Storybook_Ever_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320449135s/117170.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320449135m/117170.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>112834</id>
+</work>
+<isbn>0307165485</isbn>
+<isbn13>9780307165480</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>7206</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13901</id>
+<name>Richard Scarry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13901.Richard_Scarry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>206090</id>
+<title><![CDATA[Mad About Madeline: The Complete Tales]]></title>
+<title_without_series><![CDATA[Mad About Madeline: The Complete Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/206090.Mad_About_Madeline]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>199455</id>
+</work>
+<isbn>0670888168</isbn>
+<isbn13>9780670888160</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>3493</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64280</id>
+<name>Ludwig Bemelmans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64280.Ludwig_Bemelmans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152383</id>
+<title><![CDATA[Mary Poppins Opens the Door (Mary Poppins, #3)]]></title>
+<title_without_series>Mary Poppins Opens the Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152383.Mary_Poppins_Opens_the_Door]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>2816254</id>
+</work>
+<isbn>0152058222</isbn>
+<isbn13>9780152058227</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>5555</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6872556</id>
+<name>P.L. Travers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6872556.P_L_Travers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20413</id>
+<title>A Child&apos;s Garden of Verses</title>
+<title_without_series>A Child&apos;s Garden of Verses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20413.A_Child_s_Garden_of_Verses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>3077944</id>
+</work>
+<isbn>0689823827</isbn>
+<isbn13>9780689823824</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>21609</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>854076</id>
+<name>Robert Louis Stevenson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6146684</id>
+<title>Pasakas par ziediem</title>
+<title_without_series>Pasakas par ziediem</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6146684-pasakas-par-ziediem]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1310730528s/6146684.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1310730528m/6146684.jpg]]></image_url>
+<num_pages>199</num_pages>
+<work>
+<id>6325634</id>
+</work>
+<isbn>5410011309</isbn>
+<isbn13>9785410011303</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>530</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2802308</id>
+<name>Anna Sakse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2802308.Anna_Sakse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>389065</id>
+<title>The Owl and the Pussycat</title>
+<title_without_series>The Owl and the Pussycat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/389065.The_Owl_and_the_Pussycat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3284191</id>
+</work>
+<isbn>0750007745</isbn>
+<isbn13>9780750007740</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>7162</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>142</id>
+<name>Edward Lear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142.Edward_Lear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2099147</id>
+<title>Krāsainas pasakas </title>
+<title_without_series>Krāsainas pasakas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2099147.Kr_sainas_pasakas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1315670364s/2099147.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1315670364m/2099147.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>2104510</id>
+</work>
+<isbn>9984045382</isbn>
+<isbn13>9789984045382</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>426</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>604510</id>
+<name>Imants Ziedonis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/604510.Imants_Ziedonis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>386212</id>
+<title><![CDATA[Just a Little Critter Collection (Little Critter)]]></title>
+<title_without_series><![CDATA[Just a Little Critter Collection]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386212.Just_a_Little_Critter_Collection]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>375894</id>
+</work>
+<isbn>0375832556</isbn>
+<isbn13>9780375832550</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>371</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>753035</id>
+<title><![CDATA[The Adventures of Peter Cottontail]]></title>
+<title_without_series><![CDATA[The Adventures of Peter Cottontail]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/753035.The_Adventures_of_Peter_Cottontail]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415677956s/753035.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415677956m/753035.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1790581</id>
+</work>
+<isbn>0486269299</isbn>
+<isbn13>9780486269290</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>798</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>12</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>5732</id>
+<name>Thornton W. Burgess</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5732.Thornton_W_Burgess]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11301</id>
+<title>Horton Hatches the Egg</title>
+<title_without_series>Horton Hatches the Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11301.Horton_Hatches_the_Egg]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408927129s/11301.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408927129m/11301.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>13809</id>
+</work>
+<isbn>0007175191</isbn>
+<isbn13>9780007175192</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>30996</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1077318</id>
+<title>The Aesop for Children</title>
+<title_without_series>The Aesop for Children</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1077318.The_Aesop_for_Children]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1064033</id>
+</work>
+<isbn>1566192927</isbn>
+<isbn13>9781566192927</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>6004</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>12452</id>
+<name>Aesop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12452.Aesop]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>53969</id>
+  <title>The Feast of the Goat</title>
+  <isbn><![CDATA[0571207766]]></isbn>
+  <isbn13><![CDATA[9780571207763]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00A25SJEM]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1439920504m/53969.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1439920504s/53969.jpg</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Faber and Faber</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Haunted all her life by feelings of terror and emptiness, forty-nine-year-old Urania Cabral returns to her native Dominican Republic - and finds herself reliving the events of 1961, when the capital was still called Trujillo City and one old man terrorized a nation of three million. Rafael Trujillo, the depraved ailing dictator whom Dominicans call the Goat, controls his inner circle with a combination of violence and blackmail. In Trujillo's gaudy palace, treachery and cowardice have become a way of life. But Trujillo's grasp is slipping. There is a conspiracy against him, and a Machiavellian revolution already underway that will have bloody consequences of its own. In this 'masterpiece of Latin American and world literature, and one of the finest political novels ever written' ("Bookforum"), Mario Vargas Llosa recounts the end of a regime and the birth of a terrible democracy, giving voice to the historical Trujillo and the victims, both innocent and complicit, drawn into his deadly orbit.<br />]]></description>
+  <work>
+  <id type="integer">947074</id>
+  <books_count type="integer">113</books_count>
+  <best_book_id type="integer">53969</best_book_id>
+  <reviews_count type="integer">39318</reviews_count>
+  <ratings_sum type="integer">72468</ratings_sum>
+  <ratings_count type="integer">17180</ratings_count>
+  <text_reviews_count type="integer">1359</text_reviews_count>
+  <original_publication_year type="integer">2000</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>La fiesta del chivo</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7781|4:6301|3:2352|2:557|1:189|total:17180</rating_dist>
+  <desc_user_id type="integer">21762888</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[475]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10972]]></ratings_count>
+  <text_reviews_count><![CDATA[665]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat]]></link>
+  <authors>
+<author>
+<id>22515</id>
+<name>Mario Vargas Llosa</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487318652p5/22515.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487318652p2/22515.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22515.Mario_Vargas_Llosa]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>129412</ratings_count>
+<text_reviews_count>10059</text_reviews_count>
+</author>
+<author>
+<id>2599</id>
+<name>Edith Grossman</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321519146p5/2599.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321519146p2/2599.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2599.Edith_Grossman]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>388085</ratings_count>
+<text_reviews_count>19601</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat">The Feast of the Goat Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0571207766&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/53969.The_Feast_of_the_Goat?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="615"/>
+      <shelf name="historical-fiction" count="220"/>
+      <shelf name="latin-america" count="115"/>
+      <shelf name="1001-books" count="109"/>
+      <shelf name="latin-american" count="72"/>
+      <shelf name="novels" count="68"/>
+      <shelf name="1001" count="59"/>
+      <shelf name="to-buy" count="58"/>
+      <shelf name="peru" count="52"/>
+      <shelf name="nobel" count="49"/>
+      <shelf name="dominican-republic" count="48"/>
+      <shelf name="latin-american-literature" count="47"/>
+      <shelf name="owned" count="47"/>
+      <shelf name="history" count="42"/>
+      <shelf name="nobel-prize" count="39"/>
+      <shelf name="1001-books-to-read-before-you-die" count="38"/>
+      <shelf name="historical" count="37"/>
+      <shelf name="español" count="34"/>
+      <shelf name="1001-books-to-read" count="33"/>
+      <shelf name="politics" count="33"/>
+      <shelf name="currently-reading" count="28"/>
+      <shelf name="روايات" count="28"/>
+      <shelf name="default" count="28"/>
+      <shelf name="translated" count="28"/>
+      <shelf name="contemporary" count="27"/>
+      <shelf name="literary-fiction" count="26"/>
+      <shelf name="1001-import" count="25"/>
+      <shelf name="books-i-own" count="25"/>
+      <shelf name="library" count="25"/>
+      <shelf name="book-club" count="25"/>
+      <shelf name="caribbean" count="21"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="classics" count="20"/>
+      <shelf name="1001-to-read" count="18"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="south-america" count="16"/>
+      <shelf name="2000s" count="16"/>
+      <shelf name="1001-books-you-must-read-before-you" count="16"/>
+      <shelf name="21st-century" count="15"/>
+      <shelf name="to-read-fiction" count="14"/>
+      <shelf name="latin" count="14"/>
+      <shelf name="nobel-prize-winners" count="13"/>
+      <shelf name="south-american" count="13"/>
+      <shelf name="translation" count="13"/>
+      <shelf name="nobel-laureates" count="13"/>
+      <shelf name="favourites" count="13"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="mario-vargas-llosa" count="13"/>
+      <shelf name="20th-century" count="13"/>
+      <shelf name="espanol" count="13"/>
+      <shelf name="abandoned" count="12"/>
+      <shelf name="en-español" count="12"/>
+      <shelf name="spanish-literature" count="12"/>
+      <shelf name="latino" count="11"/>
+      <shelf name="literatura-latinoamericana" count="11"/>
+      <shelf name="narrativa" count="11"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="ebooks" count="10"/>
+      <shelf name="contemporary-fiction" count="10"/>
+      <shelf name="around-the-world" count="10"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="dominican" count="10"/>
+      <shelf name="novela" count="10"/>
+      <shelf name="spanish-language" count="10"/>
+      <shelf name="magical-realism" count="9"/>
+      <shelf name="read-in-spanish" count="9"/>
+      <shelf name="unfinished" count="9"/>
+      <shelf name="non-fiction" count="9"/>
+      <shelf name="latinoamerica" count="9"/>
+      <shelf name="fiction" count="8"/>
+      <shelf name="روايات-مترجمة" count="8"/>
+      <shelf name="nobel-winners" count="8"/>
+      <shelf name="my-books" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="latinoamericana" count="8"/>
+      <shelf name="fiction-historical" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="literatura" count="8"/>
+      <shelf name="books" count="7"/>
+      <shelf name="رمان" count="7"/>
+      <shelf name="favoritos" count="7"/>
+      <shelf name="peruvian" count="7"/>
+      <shelf name="nobel-prize-winner" count="7"/>
+      <shelf name="pdf" count="7"/>
+      <shelf name="drama" count="7"/>
+      <shelf name="on-hold" count="7"/>
+      <shelf name="ebook" count="7"/>
+      <shelf name="modern" count="7"/>
+      <shelf name="ficción" count="7"/>
+      <shelf name="1001-before-you-die" count="7"/>
+      <shelf name="novel" count="6"/>
+      <shelf name="shelfari-wishlist" count="6"/>
+      <shelf name="carribean" count="6"/>
+      <shelf name="adult-fiction" count="6"/>
+      <shelf name="modern-fiction" count="6"/>
+      <shelf name="in-translation" count="6"/>
+      <shelf name="1001-books-to-read-before-i-die" count="6"/>
+      <shelf name="literary" count="6"/>
+      <shelf name="republic" count="6"/>
+      <shelf name="1001books" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>90601</id>
+<title>Abril rojo</title>
+<title_without_series>Abril rojo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/90601.Abril_rojo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1406090254s/90601.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1406090254m/90601.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>87440</id>
+</work>
+<isbn>9707704624</isbn>
+<isbn13>9789707704626</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>1848</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>52069</id>
+<name>Santiago Roncagliolo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52069.Santiago_Roncagliolo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>441142</id>
+<title>Celestial Harmonies</title>
+<title_without_series>Celestial Harmonies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/441142.Celestial_Harmonies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>846</num_pages>
+<work>
+<id>429938</id>
+</work>
+<isbn>0060501049</isbn>
+<isbn13>9780060501044</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>372</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>11573</id>
+<name>Péter Esterházy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11573.P_ter_Esterh_zy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58407</id>
+<title>En busca de Klingsor</title>
+<title_without_series>En busca de Klingsor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58407.En_busca_de_Klingsor]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356222216s/58407.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356222216m/58407.jpg]]></image_url>
+<num_pages>444</num_pages>
+<work>
+<id>171705</id>
+</work>
+<isbn>8432216097</isbn>
+<isbn13>9788432216091</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1107</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32943</id>
+<name>Jorge Volpi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32943.Jorge_Volpi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>223669</id>
+<title>Spring Flowers, Spring Frost</title>
+<title_without_series>Spring Flowers, Spring Frost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/223669.Spring_Flowers_Spring_Frost]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369859385s/223669.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369859385m/223669.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2270068</id>
+</work>
+<isbn></isbn>
+<isbn13>9780099449836</isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>650</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>10838</id>
+<name>Ismail Kadare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10838.Ismail_Kadare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>373967</id>
+<title>The Heart of Redness</title>
+<title_without_series>The Heart of Redness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/373967.The_Heart_of_Redness]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>363868</id>
+</work>
+<isbn>0312421745</isbn>
+<isbn13>9780312421748</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>1001</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>55103</id>
+<name>Zakes Mda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55103.Zakes_Mda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73723</id>
+<title>The President</title>
+<title_without_series>The President</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73723.The_President]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>286</num_pages>
+<work>
+<id>71336</id>
+</work>
+<isbn>0881339512</isbn>
+<isbn13>9780881339512</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2387</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>39087</id>
+<name>Miguel Ángel Asturias</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39087.Miguel_ngel_Asturias]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>124893</id>
+<title>Small Remedies</title>
+<title_without_series>Small Remedies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/124893.Small_Remedies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>324</num_pages>
+<work>
+<id>120278</id>
+</work>
+<isbn>0670892513</isbn>
+<isbn13>9780670892518</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>205</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>71952</id>
+<name>Shashi Deshpande</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71952.Shashi_Deshpande]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>118186</id>
+<title>London Orbital</title>
+<title_without_series>London Orbital</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118186.London_Orbital]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>460</num_pages>
+<work>
+<id>113766</id>
+</work>
+<isbn>0141014741</isbn>
+<isbn13>9780141014746</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>528</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6851</id>
+<name>Iain Sinclair</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6851.Iain_Sinclair]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3433301</id>
+<title>Adjunct: An Undigest</title>
+<title_without_series>Adjunct: An Undigest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3433301-adjunct]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>87</num_pages>
+<work>
+<id>3474305</id>
+</work>
+<isbn>1859332226</isbn>
+<isbn13>9781859332221</isbn13>
+<average_rating>3.10</average_rating>
+<ratings_count>131</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>267419</id>
+<name>Peter Manson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/267419.Peter_Manson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59415</id>
+<title>Terra Nostra</title>
+<title_without_series>Terra Nostra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59415.Terra_Nostra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>785</num_pages>
+<work>
+<id>1451924</id>
+</work>
+<isbn>1564782875</isbn>
+<isbn13>9781564782878</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>786</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1367127</id>
+<name>Carlos Fuentes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1367127.Carlos_Fuentes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23050</id>
+<title>Gabriel&apos;s Gift</title>
+<title_without_series>Gabriel&apos;s Gift</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23050.Gabriel_s_Gift]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2217626</id>
+</work>
+<isbn>0743217136</isbn>
+<isbn13>9780743217132</isbn13>
+<average_rating>3.28</average_rating>
+<ratings_count>1151</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13081</id>
+<name>Hanif Kureishi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13081.Hanif_Kureishi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>349829</id>
+<title>I, the Supreme</title>
+<title_without_series>I, the Supreme</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/349829.I_the_Supreme]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1418758889s/349829.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1418758889m/349829.jpg]]></image_url>
+<num_pages>433</num_pages>
+<work>
+<id>340096</id>
+</work>
+<isbn>1564782476</isbn>
+<isbn13>9781564782472</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>381</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>39313</id>
+<name>Augusto Roa Bastos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39313.Augusto_Roa_Bastos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1136604</id>
+<title>Schooling</title>
+<title_without_series>Schooling</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1136604.Schooling]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330515270s/1136604.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330515270m/1136604.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>2982155</id>
+</work>
+<isbn>0385501382</isbn>
+<isbn13>9780385501385</isbn13>
+<average_rating>3.15</average_rating>
+<ratings_count>285</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>178669</id>
+<name>Heather McGowan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178669.Heather_McGowan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>669450</id>
+<title>The Kingdom of This World</title>
+<title_without_series>The Kingdom of This World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/669450.The_Kingdom_of_This_World]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312003919s/669450.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312003919m/669450.jpg]]></image_url>
+<num_pages>186</num_pages>
+<work>
+<id>655490</id>
+</work>
+<isbn>0374521972</isbn>
+<isbn13>9780374521974</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>2880</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12551</id>
+<name>Alejo Carpentier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12551.Alejo_Carpentier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18377996</id>
+<title>An Obedient Father</title>
+<title_without_series>An Obedient Father</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18377996-an-obedient-father]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387768212s/18377996.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387768212m/18377996.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>153715</id>
+</work>
+<isbn>0393337812</isbn>
+<isbn13>9780393337815</isbn13>
+<average_rating>3.31</average_rating>
+<ratings_count>802</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>92333</id>
+<name>Akhil   Sharma</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92333.Akhil_Sharma]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24001</id>
+<title>Soldados de Salamina</title>
+<title_without_series>Soldados de Salamina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24001.Soldados_de_Salamina]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332715274s/24001.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332715274m/24001.jpg]]></image_url>
+<num_pages>209</num_pages>
+<work>
+<id>1283272</id>
+</work>
+<isbn>8483101610</isbn>
+<isbn13>9788483101612</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>3915</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13424</id>
+<name>Javier Cercas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13424.Javier_Cercas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1001309</id>
+<title>Islands</title>
+<title_without_series>Islands</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1001309.Islands]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876739s/1001309.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876739m/1001309.jpg]]></image_url>
+<num_pages>768</num_pages>
+<work>
+<id>986800</id>
+</work>
+<isbn>015101115X</isbn>
+<isbn13>9780151011155</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>300</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>284082</id>
+<name>Dan Sleigh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/284082.Dan_Sleigh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>414729</id>
+<title>The Dark Bride</title>
+<title_without_series>The Dark Bride</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/414729.The_Dark_Bride]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>163806</id>
+</work>
+<isbn>0060088958</isbn>
+<isbn13>9780060088958</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>766</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>33407</id>
+<name>Laura Restrepo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33407.Laura_Restrepo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

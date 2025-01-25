@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>65633</id>
+  <title><![CDATA[The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion]]></title>
+  <isbn><![CDATA[0060827874]]></isbn>
+  <isbn13><![CDATA[9780060827878]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">63667</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">65633</best_book_id>
+  <reviews_count type="integer">8142</reviews_count>
+  <ratings_sum type="integer">32967</ratings_sum>
+  <ratings_count type="integer">7355</ratings_count>
+  <text_reviews_count type="integer">66</text_reviews_count>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title>The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4630|4:1815|3:781|2:85|1:44|total:7355</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.48</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[7330]]></ratings_count>
+  <text_reviews_count><![CDATA[63]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/65633.The_Chronicles_of_Narnia_The_Lion_the_Witch_and_the_Wardrobe_Official_Illustrated_Movie_Companion]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/65633.The_Chronicles_of_Narnia_The_Lion_the_Witch_and_the_Wardrobe_Official_Illustrated_Movie_Companion]]></link>
+  <authors>
+<author>
+<id>37048</id>
+<name>Perry Moore</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1268542768p5/37048.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1268542768p2/37048.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/37048.Perry_Moore]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>21939</ratings_count>
+<text_reviews_count>1451</text_reviews_count>
+</author>
+<author>
+<id>1098474</id>
+<name>Andrew Adamson</name>
+<role>Foreword by</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1098474.Andrew_Adamson]]></link>
+<average_rating>4.46</average_rating>
+<ratings_count>7617</ratings_count>
+<text_reviews_count>94</text_reviews_count>
+</author>
+<author>
+<id>1069006</id>
+<name>C.S. Lewis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1367519078p5/1069006.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1367519078p2/1069006.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>4411053</ratings_count>
+<text_reviews_count>95428</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/65633.The_Chronicles_of_Narnia_The_Lion_the_Witch_and_the_Wardrobe_Official_Illustrated_Movie_Companion">The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060827874&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/65633.The_Chronicles_of_Narnia_The_Lion_the_Witch_and_the_Wardrobe_Official_Illustrated_Movie_Companion?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="623"/>
+      <shelf name="fantasy" count="24"/>
+      <shelf name="non-fiction" count="16"/>
+      <shelf name="narnia" count="13"/>
+      <shelf name="nonfiction" count="11"/>
+      <shelf name="owned" count="10"/>
+      <shelf name="favorites" count="9"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="fiction" count="8"/>
+      <shelf name="reference" count="5"/>
+      <shelf name="film" count="4"/>
+      <shelf name="classics" count="3"/>
+      <shelf name="christian" count="3"/>
+      <shelf name="children-s-books" count="3"/>
+      <shelf name="art" count="3"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="my-library" count="2"/>
+      <shelf name="sci-fi" count="2"/>
+      <shelf name="behind-the-scenes" count="2"/>
+      <shelf name="magic" count="2"/>
+      <shelf name="companions" count="2"/>
+      <shelf name="movie" count="2"/>
+      <shelf name="movies" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="art-books" count="2"/>
+      <shelf name="movie-companions" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="english" count="2"/>
+      <shelf name="movie-tie-in" count="2"/>
+      <shelf name="loved-it" count="2"/>
+      <shelf name="movie-guides" count="1"/>
+      <shelf name="co" count="1"/>
+      <shelf name="2015-en-eerder-gelezen" count="1"/>
+      <shelf name="my-own-books" count="1"/>
+      <shelf name="disney" count="1"/>
+      <shelf name="family-owned" count="1"/>
+      <shelf name="great-non-fiction" count="1"/>
+      <shelf name="kids-books-to-read" count="1"/>
+      <shelf name="childrens" count="1"/>
+      <shelf name="in-bezit" count="1"/>
+      <shelf name="movie-based" count="1"/>
+      <shelf name="to-reread-in-2017" count="1"/>
+      <shelf name="random-movie-companions" count="1"/>
+      <shelf name="ya-literature" count="1"/>
+      <shelf name="my-bookshelf" count="1"/>
+      <shelf name="grace3" count="1"/>
+      <shelf name="middle-grade" count="1"/>
+      <shelf name="fantasia" count="1"/>
+      <shelf name="lycel6568" count="1"/>
+      <shelf name="1st-books-or-main-shelf" count="1"/>
+      <shelf name="books-i-have" count="1"/>
+      <shelf name="fairy-tale" count="1"/>
+      <shelf name="awesome" count="1"/>
+      <shelf name="want-to-read" count="1"/>
+      <shelf name="scaned-books" count="1"/>
+      <shelf name="wish" count="1"/>
+      <shelf name="novels" count="1"/>
+      <shelf name="essential-guides" count="1"/>
+      <shelf name="kyle-s-library" count="1"/>
+      <shelf name="novellas-and-companions" count="1"/>
+      <shelf name="books-about-narnia" count="1"/>
+      <shelf name="published-2005" count="1"/>
+      <shelf name="the-books-i-own" count="1"/>
+      <shelf name="hey-look-i-found-a-new-world" count="1"/>
+      <shelf name="it-may-be-good-but-not-for-me" count="1"/>
+      <shelf name="to-reread-in-2016" count="1"/>
+      <shelf name="need-to-acquire" count="1"/>
+      <shelf name="jeugdboeken" count="1"/>
+      <shelf name="fandom" count="1"/>
+      <shelf name="children-s-picture-books" count="1"/>
+      <shelf name="pause" count="1"/>
+      <shelf name="disney-books" count="1"/>
+      <shelf name="nonfiction-english" count="1"/>
+      <shelf name="englisch-books-i-have" count="1"/>
+      <shelf name="paranormal-creatures" count="1"/>
+      <shelf name="read-loved" count="1"/>
+      <shelf name="kinderen-lezen" count="1"/>
+      <shelf name="5thsummerreading" count="1"/>
+      <shelf name="elementary-faves" count="1"/>
+      <shelf name="the-chronicles-of-narnia" count="1"/>
+      <shelf name="read-2014" count="1"/>
+      <shelf name="fantasy-alternative-world" count="1"/>
+      <shelf name="fairytales" count="1"/>
+      <shelf name="not-from-this-year" count="1"/>
+      <shelf name="movie-books" count="1"/>
+      <shelf name="time-travel-shenanigans" count="1"/>
+      <shelf name="finished" count="1"/>
+      <shelf name="1" count="1"/>
+      <shelf name="not-read" count="1"/>
+      <shelf name="cool-information-books" count="1"/>
+      <shelf name="thomas" count="1"/>
+      <shelf name="guilty-pleasures" count="1"/>
+      <shelf name="classic" count="1"/>
+      <shelf name="chronicles-of-narnia" count="1"/>
+      <shelf name="9-12-and-teen" count="1"/>
+      <shelf name="children-s" count="1"/>
+      <shelf name="for-kids" count="1"/>
+      <shelf name="media" count="1"/>
+      <shelf name="in-my-bookshelf" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1143957</id>
+<title><![CDATA[The Chronicles of Narnia: Prince Caspian: The Official Illustrated Movie Companion]]></title>
+<title_without_series><![CDATA[The Chronicles of Narnia: Prince Caspian: The Official Illustrated Movie Companion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1143957.The_Chronicles_of_Narnia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1131401</id>
+</work>
+<isbn>0061435600</isbn>
+<isbn13>9780061435607</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>4179</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>560990</id>
+<name>Ernie Malik</name>
+<link><![CDATA[https://www.goodreads.com/author/show/560990.Ernie_Malik]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>101701</id>
+<title><![CDATA[The Chronicles of Narnia Pop-up: Based on the Books by C. S. Lewis]]></title>
+<title_without_series><![CDATA[The Chronicles of Narnia Pop-up: Based on the Books by C. S. Lewis]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/101701.The_Chronicles_of_Narnia_Pop_up]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>41901727</id>
+</work>
+<isbn>0061176125</isbn>
+<isbn13>9780061176128</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1160</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>14765007</id>
+<name>Robert Sabuda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14765007.Robert_Sabuda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28590</id>
+<title><![CDATA[Companion to Narnia: A Complete Guide to the Magical World of C.S. Lewis's The Chronicles of Narnia]]></title>
+<title_without_series><![CDATA[Companion to Narnia: A Complete Guide to the Magical World of C.S. Lewis's The Chronicles of Narnia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28590.Companion_to_Narnia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>29112</id>
+</work>
+<isbn>0060791276</isbn>
+<isbn13>9780060791278</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1328</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>16044</id>
+<name>Paul F. Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16044.Paul_F_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>599571</id>
+<title>The Magical Worlds of Narnia</title>
+<title_without_series>The Magical Worlds of Narnia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/599571.The_Magical_Worlds_of_Narnia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309209535s/599571.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309209535m/599571.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>586190</id>
+</work>
+<isbn>0425205630</isbn>
+<isbn13>9780425205631</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>396</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9516</id>
+<name>David Colbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9516.David_Colbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>524038</id>
+<title>The Land of Narnia</title>
+<title_without_series>The Land of Narnia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/524038.The_Land_of_Narnia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1926741</id>
+</work>
+<isbn>0060256257</isbn>
+<isbn13>9780060256258</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>346</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4941</id>
+<name>Brian Sibley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4941.Brian_Sibley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>49113</id>
+<title><![CDATA[Finding God in the Land of Narnia]]></title>
+<title_without_series><![CDATA[Finding God in the Land of Narnia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/49113.Finding_God_in_the_Land_of_Narnia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1399868296s/49113.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1399868296m/49113.jpg]]></image_url>
+<num_pages>184</num_pages>
+<work>
+<id>48047</id>
+</work>
+<isbn>084238104X</isbn>
+<isbn13>9780842381048</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>607</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59187</id>
+<name>Kurt Bruner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59187.Kurt_Bruner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3951006</id>
+<title><![CDATA[Sheet Music: The Chronicles of Narnia - Prince Caspian]]></title>
+<title_without_series><![CDATA[Sheet Music: The Chronicles of Narnia - Prince Caspian]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3951006-sheet-music]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>3996651</id>
+</work>
+<isbn>1423457943</isbn>
+<isbn13>0884088259761</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>376</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53348</id>
+<name>Harry Gregson-Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53348.Harry_Gregson_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>55792</id>
+<title><![CDATA[The Magician's Nephew / The Lion, The Witch and the Wardrobe / The Horse and His Boy (The Chronicles of Narnia Set #1-3)]]></title>
+<title_without_series><![CDATA[The Magician's Nephew / The Lion, The Witch and the Wardrobe / The Horse and His Boy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/55792.The_Magician_s_Nephew_The_Lion_The_Witch_and_the_Wardrobe_The_Horse_and_His_Boy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12614430</id>
+</work>
+<isbn>0439861373</isbn>
+<isbn13>9780439861373</isbn13>
+<average_rating>4.47</average_rating>
+<ratings_count>5483</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1069006</id>
+<name>C.S. Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11135</id>
+<title><![CDATA[A Family Guide to Narnia: Biblical Truths in C.S. Lewis's the Chronicles of Narnia]]></title>
+<title_without_series><![CDATA[A Family Guide to Narnia: Biblical Truths in C.S. Lewis's the Chronicles of Narnia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11135.A_Family_Guide_to_Narnia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>13681</id>
+</work>
+<isbn>1581345151</isbn>
+<isbn13>9781581345155</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>151</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7250</id>
+<name>Christin Ditchfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7250.Christin_Ditchfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15222</id>
+<title><![CDATA[The Lord of the Rings: The Fellowship of the Ring: Visual Companion]]></title>
+<title_without_series><![CDATA[The Lord of the Rings: The Fellowship of the Ring: Visual Companion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15222.The_Lord_of_the_Rings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>808427</id>
+</work>
+<isbn>0618154019</isbn>
+<isbn13>9780618154012</isbn13>
+<average_rating>4.46</average_rating>
+<ratings_count>4572</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>10</id>
+<name>Jude Fisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10.Jude_Fisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3717826</id>
+<title><![CDATA[Watchmen: The Official Film Companion]]></title>
+<title_without_series><![CDATA[Watchmen: The Official Film Companion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3717826-watchmen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320536734s/3717826.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320536734m/3717826.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>3761456</id>
+</work>
+<isbn>1848561598</isbn>
+<isbn13>9781848561595</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>210</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>907354</id>
+<name>Peter Aperlo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/907354.Peter_Aperlo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>289057</id>
+<title><![CDATA[The Narnia Cookbook: Foods from C. S. Lewis's The Chronicles of Narnia]]></title>
+<title_without_series><![CDATA[The Narnia Cookbook: Foods from C. S. Lewis's The Chronicles of Narnia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/289057.The_Narnia_Cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>280438</id>
+</work>
+<isbn>0060278153</isbn>
+<isbn13>9780060278151</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>85</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>1413865</id>
+<name>Douglas Gresham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1413865.Douglas_Gresham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>202252</id>
+<title><![CDATA[Inside Narnia: A Guide to Exploring The Lion, the Witch and the Wardrobe]]></title>
+<title_without_series><![CDATA[Inside Narnia: A Guide to Exploring The Lion, the Witch and the Wardrobe]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/202252.Inside_Narnia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1345644762s/202252.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1345644762m/202252.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>195683</id>
+</work>
+<isbn>0801065992</isbn>
+<isbn13>9780801065996</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>149</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>117931</id>
+<name>Devin Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/117931.Devin_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>67514</id>
+<title><![CDATA[The Lord of the Rings: The Art of The Return of the King]]></title>
+<title_without_series><![CDATA[The Lord of the Rings: The Art of The Return of the King]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67514.The_Lord_of_the_Rings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65478</id>
+</work>
+<isbn>0618430296</isbn>
+<isbn13>9780618430291</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>7501</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>60</id>
+<name>Gary Russell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60.Gary_Russell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>650109</id>
+<title><![CDATA[Dressing a Galaxy: The Costumes of Star Wars]]></title>
+<title_without_series><![CDATA[Dressing a Galaxy: The Costumes of Star Wars]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/650109.Dressing_a_Galaxy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1396550760s/650109.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1396550760m/650109.jpg]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>636247</id>
+</work>
+<isbn>0810965674</isbn>
+<isbn13>9780810965676</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>454</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3433400</id>
+<name>Trisha Biggar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3433400.Trisha_Biggar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48591</id>
+<title>King Kong</title>
+<title_without_series>King Kong</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48591.King_Kong]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>374</num_pages>
+<work>
+<id>47535</id>
+</work>
+<isbn>1416503919</isbn>
+<isbn13>9781416503910</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>144</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>4522</id>
+<name>Christopher Golden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4522.Christopher_Golden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1116859</id>
+<title><![CDATA[The Lost Chronicles: The Official Companion Book with Bonus DVD Behind the Scenes of LOST]]></title>
+<title_without_series><![CDATA[The Lost Chronicles: The Official Companion Book with Bonus DVD Behind the Scenes of LOST]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1116859.The_Lost_Chronicles]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1103877</id>
+</work>
+<isbn>1401308155</isbn>
+<isbn13>9781401308155</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>261</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>61939</id>
+<name>Mark Cotta Vaz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61939.Mark_Cotta_Vaz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13531804</id>
+<title><![CDATA[Prometheus: The Art of the Film]]></title>
+<title_without_series><![CDATA[Prometheus: The Art of the Film]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13531804-prometheus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344368815s/13531804.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344368815m/13531804.jpg]]></image_url>
+<num_pages>186</num_pages>
+<work>
+<id>19093479</id>
+</work>
+<isbn>1781161097</isbn>
+<isbn13>9781781161098</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>208</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5774</id>
+<name>Mark Salisbury</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5774.Mark_Salisbury]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

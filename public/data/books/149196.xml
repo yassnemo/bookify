@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>149196</id>
+  <title>Eva Luna</title>
+  <isbn><![CDATA[0553280589]]></isbn>
+  <isbn13><![CDATA[9780553280586]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1478631242m/149196.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1478631242s/149196.jpg</small_image_url>
+  <publication_year>1989</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Bantam</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Meet New York Times bestselling author Isabel Allende’s most enchanting creation, <i>Eva Luna</i>: a lover, a writer, a revolutionary, and above all a storyteller—available for the first time in ebook.<br /><br />Eva Luna is the daughter of a professor’s assistant and a snake-bitten gardener—born poor, orphaned at an early age, and working as a servant. Eva is a naturally gifted and imaginative storyteller who meets people from all stations and walks of life. Though she has no wealth, she trades her stories like currency with people who are kind to her. In this novel, she shares the story of her own life and introduces readers to a diverse and eccentric cast of characters including the Lebanese émigré who befriends her and takes her in; her unfortunate godmother, whose brain is addled by rum and who believes in all the Catholic saints and a few of her own invention; a street urchin who grows into a petty criminal and, later, a leader in the guerrilla struggle; a celebrated transsexual entertainer who instructs her in the ways of the adult world; and a young refugee whose flight from postwar Europe will prove crucial to Eva's fate.<br /><br />As Eva tells her story, Isabel Allende conjures up a whole complex South American nation—the rich, the poor, the simple, and the sophisticated—in a novel replete with character and incident, with drama and comedy and history, with battles and passions, rebellions and reunions, a novel that celebrates the power of imagination to create a better world.]]></description>
+  <work>
+  <id type="integer">874452</id>
+  <books_count type="integer">133</books_count>
+  <best_book_id type="integer">149196</best_book_id>
+  <reviews_count type="integer">50280</reviews_count>
+  <ratings_sum type="integer">120946</ratings_sum>
+  <ratings_count type="integer">30636</ratings_count>
+  <text_reviews_count type="integer">953</text_reviews_count>
+  <original_publication_year type="integer">1987</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Eva Luna</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9168|4:12530|3:7374|2:1300|1:264|total:30636</rating_dist>
+  <desc_user_id type="integer">9312869</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.95</average_rating>
+  <num_pages><![CDATA[307]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[27548]]></ratings_count>
+  <text_reviews_count><![CDATA[736]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/149196.Eva_Luna]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/149196.Eva_Luna]]></link>
+  <authors>
+<author>
+<id>2238</id>
+<name>Isabel Allende</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341879973p5/2238.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341879973p2/2238.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2238.Isabel_Allende]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>542809</ratings_count>
+<text_reviews_count>30910</text_reviews_count>
+</author>
+<author>
+<id>30209</id>
+<name>Margaret Sayers Peden</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30209.Margaret_Sayers_Peden]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>276997</ratings_count>
+<text_reviews_count>12624</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/149196.Eva_Luna">Eva Luna Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0553280589&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/149196.Eva_Luna?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1253"/>
+      <shelf name="fiction" count="571"/>
+      <shelf name="magical-realism" count="227"/>
+      <shelf name="favorites" count="205"/>
+      <shelf name="rory-gilmore-reading-challenge" count="156"/>
+      <shelf name="historical-fiction" count="123"/>
+      <shelf name="owned" count="92"/>
+      <shelf name="currently-reading" count="91"/>
+      <shelf name="rory-gilmore-challenge" count="81"/>
+      <shelf name="latin-america" count="80"/>
+      <shelf name="books-i-own" count="72"/>
+      <shelf name="rory-gilmore" count="71"/>
+      <shelf name="isabel-allende" count="67"/>
+      <shelf name="latin-american" count="58"/>
+      <shelf name="rory-gilmore-reading-list" count="55"/>
+      <shelf name="classics" count="55"/>
+      <shelf name="novels" count="53"/>
+      <shelf name="gilmore-girls" count="49"/>
+      <shelf name="literature" count="47"/>
+      <shelf name="spanish" count="45"/>
+      <shelf name="magic-realism" count="43"/>
+      <shelf name="chile" count="41"/>
+      <shelf name="romance" count="40"/>
+      <shelf name="default" count="37"/>
+      <shelf name="south-america" count="34"/>
+      <shelf name="novel" count="30"/>
+      <shelf name="contemporary-fiction" count="28"/>
+      <shelf name="to-buy" count="27"/>
+      <shelf name="gilmore" count="26"/>
+      <shelf name="owned-books" count="26"/>
+      <shelf name="latin-american-literature" count="25"/>
+      <shelf name="adult" count="25"/>
+      <shelf name="contemporary" count="24"/>
+      <shelf name="fantasy" count="24"/>
+      <shelf name="book-club" count="24"/>
+      <shelf name="library" count="23"/>
+      <shelf name="latin-american-lit" count="22"/>
+      <shelf name="my-library" count="21"/>
+      <shelf name="gilmore-girls-reading-list" count="21"/>
+      <shelf name="rory-gilmore-book-challenge" count="20"/>
+      <shelf name="literary-fiction" count="20"/>
+      <shelf name="favourites" count="20"/>
+      <shelf name="the-rory-gilmore-reading-challenge" count="18"/>
+      <shelf name="adult-fiction" count="18"/>
+      <shelf name="women" count="18"/>
+      <shelf name="my-books" count="17"/>
+      <shelf name="español" count="17"/>
+      <shelf name="allende" count="17"/>
+      <shelf name="20th-century" count="16"/>
+      <shelf name="historical" count="15"/>
+      <shelf name="gilmore-challenge" count="13"/>
+      <shelf name="espanol" count="13"/>
+      <shelf name="female-authors" count="13"/>
+      <shelf name="latino" count="13"/>
+      <shelf name="gilmore-girls-reading-challenge" count="12"/>
+      <shelf name="narrativa" count="12"/>
+      <shelf name="south-american" count="12"/>
+      <shelf name="translated" count="12"/>
+      <shelf name="general-fiction" count="12"/>
+      <shelf name="ebook" count="11"/>
+      <shelf name="roman" count="11"/>
+      <shelf name="women-authors" count="11"/>
+      <shelf name="rory-gilmore-book-list" count="11"/>
+      <shelf name="read-in-spanish" count="11"/>
+      <shelf name="own-it" count="11"/>
+      <shelf name="reading-challenge" count="10"/>
+      <shelf name="rory-gilmore-list" count="10"/>
+      <shelf name="classic" count="10"/>
+      <shelf name="in-translation" count="10"/>
+      <shelf name="rory" count="10"/>
+      <shelf name="short-stories" count="10"/>
+      <shelf name="borrowed" count="10"/>
+      <shelf name="bookclub" count="10"/>
+      <shelf name="rory-gilmore-s-reading-challenge" count="9"/>
+      <shelf name="rory-challenge" count="9"/>
+      <shelf name="school" count="9"/>
+      <shelf name="lit" count="9"/>
+      <shelf name="novela" count="9"/>
+      <shelf name="world-literature" count="9"/>
+      <shelf name="latin" count="9"/>
+      <shelf name="rory-gilmore-books" count="8"/>
+      <shelf name="gilmore-girls-book-list" count="8"/>
+      <shelf name="literary" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="rory-s-list" count="8"/>
+      <shelf name="literatura-latinoamericana" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="en-español" count="8"/>
+      <shelf name="spanish-literature" count="8"/>
+      <shelf name="drama" count="8"/>
+      <shelf name="unfinished" count="8"/>
+      <shelf name="hispanic" count="8"/>
+      <shelf name="gilmore-reading-list" count="7"/>
+      <shelf name="to-read-fiction" count="7"/>
+      <shelf name="gilmore-girls-list" count="7"/>
+      <shelf name="penguin-essentials" count="7"/>
+      <shelf name="personal-library" count="7"/>
+      <shelf name="gilmore-girls-challenge" count="7"/>
+      <shelf name="abandoned" count="7"/>
+      <shelf name="fiction-general" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>724925</id>
+<title><![CDATA[The Fall of the Athenian Empire]]></title>
+<title_without_series><![CDATA[The Fall of the Athenian Empire]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/724925.The_Fall_of_the_Athenian_Empire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>288090</id>
+</work>
+<isbn>0801499844</isbn>
+<isbn13>9780801499845</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>175</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>12805</id>
+<name>Donald Kagan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12805.Donald_Kagan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92286</id>
+<title><![CDATA[Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born]]></title>
+<title_without_series><![CDATA[Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92286.Novels_1930_1942]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1068</num_pages>
+<work>
+<id>396603</id>
+</work>
+<isbn>1931082014</isbn>
+<isbn13>9781931082013</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>311</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>53013</id>
+<name>Dawn Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53013.Dawn_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>125842</id>
+<title><![CDATA[A Bolt from the Blue and Other Essays]]></title>
+<title_without_series><![CDATA[A Bolt from the Blue and Other Essays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/125842.A_Bolt_from_the_Blue_and_Other_Essays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>121207</id>
+</work>
+<isbn>1590170105</isbn>
+<isbn13>9781590170106</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>362</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7305</id>
+<name>Mary McCarthy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7305.Mary_McCarthy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>72716</id>
+<title>Extravagance</title>
+<title_without_series>Extravagance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/72716.Extravagance]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369860010s/72716.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369860010m/72716.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>70388</id>
+</work>
+<isbn>0767913310</isbn>
+<isbn13>9780767913317</isbn13>
+<average_rating>3.47</average_rating>
+<ratings_count>678</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>41147</id>
+<name>Gary Krist</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41147.Gary_Krist]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1038223</id>
+<title>Brigadoon (Vocal Score)</title>
+<title_without_series>Brigadoon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1038223.Brigadoon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>1024583</id>
+</work>
+<isbn>0769202225</isbn>
+<isbn13>9780769202228</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1693</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5221</id>
+<name>Alan Jay Lerner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5221.Alan_Jay_Lerner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>893023</id>
+<title><![CDATA[The Mojo Collection: The Ultimate Music Companion]]></title>
+<title_without_series><![CDATA[The Mojo Collection: The Ultimate Music Companion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/893023.The_Mojo_Collection]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>868</num_pages>
+<work>
+<id>878255</id>
+</work>
+<isbn>1841954381</isbn>
+<isbn13>9781841954387</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>201</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>458586</id>
+<name>Jim Irvin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/458586.Jim_Irvin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8090909</id>
+<title>Moliere: A Biography</title>
+<title_without_series>Moliere: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8090909-moliere]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1393215911s/8090909.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1393215911m/8090909.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12836980</id>
+</work>
+<isbn>0548869707</isbn>
+<isbn13>9780548869703</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>133</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3226507</id>
+<name><![CDATA[Hobart Chatfield Chatfield-Taylor]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/3226507.Hobart_Chatfield_Chatfield_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2036549</id>
+<title>The Holy Barbarians</title>
+<title_without_series>The Holy Barbarians</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2036549.The_Holy_Barbarians]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>318</num_pages>
+<work>
+<id>2041342</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>448</ratings_count>
+<publication_year>1962</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>925942</id>
+<name>Lawrence Lipton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/925942.Lawrence_Lipton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>111723</id>
+<title>Pushkin: A Biography</title>
+<title_without_series>Pushkin: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/111723.Pushkin]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320457613s/111723.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320457613m/111723.jpg]]></image_url>
+<num_pages>784</num_pages>
+<work>
+<id>1222352</id>
+</work>
+<isbn>1400076528</isbn>
+<isbn13>9781400076529</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>259</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>64626</id>
+<name>T.J. Binyon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64626.T_J_Binyon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>199157</id>
+<title>A Quiet Storm</title>
+<title_without_series>A Quiet Storm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/199157.A_Quiet_Storm]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404632016s/199157.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404632016m/199157.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>192660</id>
+</work>
+<isbn>074322616X</isbn>
+<isbn13>9780743226165</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>459</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>116117</id>
+<name>Rachel Howzell Hall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/116117.Rachel_Howzell_Hall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10387214</id>
+<title>The Art of Fiction</title>
+<title_without_series>The Art of Fiction</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10387214-the-art-of-fiction]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15290891</id>
+</work>
+<isbn>1172438099</isbn>
+<isbn13>9781172438099</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>645</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>159</id>
+<name>Henry James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159.Henry_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>108128</id>
+<title>New Poems of Emily Dickinson</title>
+<title_without_series>New Poems of Emily Dickinson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/108128.New_Poems_of_Emily_Dickinson]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>104204</id>
+</work>
+<isbn>0807844160</isbn>
+<isbn13>9780807844168</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>669</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>7440</id>
+<name>Emily Dickinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7440.Emily_Dickinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>349040</id>
+<title><![CDATA[Goldilocks & Three Bears: Bears Should Share!]]></title>
+<title_without_series><![CDATA[Goldilocks & Three Bears: Bears Should Share!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/349040.Goldilocks_Three_Bears]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>339315</id>
+</work>
+<isbn>0811466345</isbn>
+<isbn13>9780811466349</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>444</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>122718</id>
+<name>Alvin Granowsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122718.Alvin_Granowsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>724834</id>
+<title>Swift as Desire</title>
+<title_without_series>Swift as Desire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/724834.Swift_as_Desire]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320435171s/724834.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320435171m/724834.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>1821803</id>
+</work>
+<isbn>038572151X</isbn>
+<isbn13>9780385721516</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>2312</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4694</id>
+<name>Laura Esquivel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4694.Laura_Esquivel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1109271</id>
+<title>My Life As Author And Editor</title>
+<title_without_series>My Life As Author And Editor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1109271.My_Life_As_Author_And_Editor]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>449</num_pages>
+<work>
+<id>1096229</id>
+</work>
+<isbn>0679413154</isbn>
+<isbn13>9780679413158</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>137</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>1</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>7805</id>
+<name>H.L. Mencken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7805.H_L_Mencken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>722710</id>
+<title>The Meaning of Consuelo</title>
+<title_without_series>The Meaning of Consuelo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/722710.The_Meaning_of_Consuelo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320491556s/722710.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320491556m/722710.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>2164744</id>
+</work>
+<isbn>0807083879</isbn>
+<isbn13>9780807083871</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>624</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>57476</id>
+<name>Judith Ortiz Cofer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57476.Judith_Ortiz_Cofer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>309942</id>
+<title><![CDATA[My Lai 4: A Report on the Massacre and Its Aftermath]]></title>
+<title_without_series><![CDATA[My Lai 4: A Report on the Massacre and Its Aftermath]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/309942.My_Lai_4]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360298298s/309942.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360298298m/309942.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>300893</id>
+</work>
+<isbn>0394714504</isbn>
+<isbn13>9780394714509</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>317</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>44620</id>
+<name>Seymour M. Hersh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44620.Seymour_M_Hersh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>242514</id>
+<title>Gidget (Gidget series, #1)</title>
+<title_without_series>Gidget</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/242514.Gidget]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>154</num_pages>
+<work>
+<id>234940</id>
+</work>
+<isbn>0425179621</isbn>
+<isbn13>9780425179628</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>1973</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>141856</id>
+<name>Frederick Kohner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/141856.Frederick_Kohner]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

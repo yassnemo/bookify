@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13505130</id>
+  <title><![CDATA[The Absent One (Department Q, #2)]]></title>
+  <isbn><![CDATA[0525952896]]></isbn>
+  <isbn13><![CDATA[9780525952893]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B007ZBL664]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1336832005m/13505130.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1336832005s/13505130.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>21</publication_day>
+  <publisher>Dutton Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In The Keeper of Lost Causes, Jussi Adler-Olsen introduced Detective Carl Mørck, a deeply flawed, brilliant detective newly assigned to run Department Q, the home of Copenhagen’s coldest cases. The result wasn’t what Mørck—or readers—expected, but by the opening of Adler-Olsen’s shocking, fast-paced follow-up, Mørck is satisfied with the notion of picking up long-cold leads. So he’s naturally intrigued when a closed case lands on his desk: A brother and sister were brutally murdered two decades earlier, and one of the suspects—part of a group of privileged boarding-school students—confessed and was convicted. But once Mørck reopens the files, it becomes clear that all is not what it seems. Looking into the supposedly solved case leads him to Kimmie, a woman living on the streets, stealing to survive. Kimmie has mastered evading the police, but now they aren’t the only ones looking for her. Because Kimmie has secrets that certain influential individuals would kill to keep buried . . . as well as one of her own that could turn everything on its head.]]></description>
+  <work>
+  <id type="integer">7410153</id>
+  <books_count type="integer">89</books_count>
+  <best_book_id type="integer">13505130</best_book_id>
+  <reviews_count type="integer">30514</reviews_count>
+  <ratings_sum type="integer">79949</ratings_sum>
+  <ratings_count type="integer">20748</ratings_count>
+  <text_reviews_count type="integer">1714</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">28</original_publication_day>
+  <original_title>Fasandræberne</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5011|4:9224|3:5242|2:1001|1:270|total:20748</rating_dist>
+  <desc_user_id type="integer">20110964</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.85</average_rating>
+  <num_pages><![CDATA[406]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13491]]></ratings_count>
+  <text_reviews_count><![CDATA[1109]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13505130-the-absent-one]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13505130-the-absent-one]]></link>
+  <authors>
+<author>
+<id>1734716</id>
+<name>Jussi Adler-Olsen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411461376p5/1734716.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411461376p2/1734716.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1734716.Jussi_Adler_Olsen]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>121632</ratings_count>
+<text_reviews_count>10532</text_reviews_count>
+</author>
+<author>
+<id>5814479</id>
+<name>K.E. Semmel</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5814479.K_E_Semmel]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>23516</ratings_count>
+<text_reviews_count>2047</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13505130-the-absent-one">The Absent One Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0525952896&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/13505130-the-absent-one?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="418"/>
+      <shelf name="currently-reading" count="130"/>
+      <shelf name="default" count="78"/>
+      <shelf name="krimi" count="56"/>
+      <shelf name="mystery" count="48"/>
+      <shelf name="books-i-own" count="46"/>
+      <shelf name="audiobooks" count="40"/>
+      <shelf name="crime" count="39"/>
+      <shelf name="audio" count="34"/>
+      <shelf name="thriller" count="29"/>
+      <shelf name="scandinavia" count="28"/>
+      <shelf name="fiction" count="24"/>
+      <shelf name="my-books" count="19"/>
+      <shelf name="owned-books" count="19"/>
+      <shelf name="read-2015" count="18"/>
+      <shelf name="audio-book" count="17"/>
+      <shelf name="read-in-2014" count="17"/>
+      <shelf name="mystery-suspense" count="17"/>
+      <shelf name="owned" count="16"/>
+      <shelf name="crime-mystery" count="16"/>
+      <shelf name="department-q" count="15"/>
+      <shelf name="read-in-2017" count="13"/>
+      <shelf name="read-in-2016" count="13"/>
+      <shelf name="kindle" count="12"/>
+      <shelf name="series" count="12"/>
+      <shelf name="e-books" count="12"/>
+      <shelf name="krimi-thriller" count="12"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="scandinavian-mysteries" count="11"/>
+      <shelf name="scandanavian" count="11"/>
+      <shelf name="adler-olsen" count="11"/>
+      <shelf name="e-book" count="11"/>
+      <shelf name="audio-books" count="11"/>
+      <shelf name="murder" count="10"/>
+      <shelf name="books" count="10"/>
+      <shelf name="nordic-crime" count="10"/>
+      <shelf name="dansk" count="10"/>
+      <shelf name="listened-to" count="9"/>
+      <shelf name="read-2012" count="9"/>
+      <shelf name="adult-fiction" count="9"/>
+      <shelf name="scandinavian-literature" count="9"/>
+      <shelf name="crime-and-mystery" count="9"/>
+      <shelf name="sub" count="9"/>
+      <shelf name="mystery-thriller" count="8"/>
+      <shelf name="mysteries" count="8"/>
+      <shelf name="library-book" count="8"/>
+      <shelf name="mysteries-thrillers" count="8"/>
+      <shelf name="gelesen" count="8"/>
+      <shelf name="deckare" count="8"/>
+      <shelf name="krim" count="8"/>
+      <shelf name="read-in-2011" count="8"/>
+      <shelf name="ebook" count="7"/>
+      <shelf name="nordic-noir" count="7"/>
+      <shelf name="scandinavian" count="7"/>
+      <shelf name="nordic" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="murder-mystery" count="7"/>
+      <shelf name="scandinavian-mystery" count="7"/>
+      <shelf name="mystery-thriller-suspense" count="7"/>
+      <shelf name="international" count="7"/>
+      <shelf name="next-in-series" count="7"/>
+      <shelf name="danish-literature" count="7"/>
+      <shelf name="deutsch" count="7"/>
+      <shelf name="danish" count="6"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="mystery-thriller-crime" count="6"/>
+      <shelf name="dnf" count="6"/>
+      <shelf name="nook" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="finished" count="6"/>
+      <shelf name="read-2011" count="6"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="audible" count="5"/>
+      <shelf name="dark" count="5"/>
+      <shelf name="abuse" count="5"/>
+      <shelf name="novel" count="5"/>
+      <shelf name="2014-read" count="5"/>
+      <shelf name="noir" count="5"/>
+      <shelf name="detectives" count="5"/>
+      <shelf name="thriller-mystery" count="5"/>
+      <shelf name="novels" count="5"/>
+      <shelf name="q" count="5"/>
+      <shelf name="scandinavian-thrillers" count="5"/>
+      <shelf name="scandinavian-crime-fiction" count="5"/>
+      <shelf name="mystery-detective" count="5"/>
+      <shelf name="2013-reads" count="5"/>
+      <shelf name="police-procedurals" count="5"/>
+      <shelf name="crime-thrillers" count="5"/>
+      <shelf name="serie" count="5"/>
+      <shelf name="german" count="5"/>
+      <shelf name="scandinavian-authors" count="5"/>
+      <shelf name="suspense" count="4"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="favorites" count="4"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="my-bookshelf" count="4"/>
+      <shelf name="denemarken" count="4"/>
+      <shelf name="afdeling-q" count="4"/>
+      <shelf name="onleihe" count="4"/>
+      <shelf name="policier" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>267790</id>
+<user_position>2</user_position>
+<series>
+<id>62152</id>
+<title>
+<![CDATA[
+    Afdeling Q
+]]>
+</title>
+<description>
+<![CDATA[
+    Aka Department Q (english), Sonderdezernat Q (german), Département V (french).
+    
+    Carl Mørck, an experienced homicide detective in Department Q, and his assistant Assad, in Copenhagen, Denmark:
+    1. The Keeper of Lost Causes (US) / Mercy (UK) / Miséricorde (Fr) 
+    2. The Absent One (US) / Disgrace (UK) / Profanation (Fr)
+    3. A Conspiracy of Faith (US) / Redemption (UK) / Délivrance (Fr)
+    4. The Purity of Vengeance (US) / Guilt (UK) / Dossier 64 (Fr)
+    5. The Marco Effect (US) / Buried (UK) / L'effet papillon (Fr)
+    6. The Hanging Girl (UK/US) / Promesse (Fr)
+    7. Selfies (Fr) / The Scarred Woman (US)
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>7</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>15750714</id>
+<title><![CDATA[Silenced (Fredrika Bergman and Alex Recht, #2)]]></title>
+<title_without_series>Silenced</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15750714-silenced]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356513056s/15750714.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356513056m/15750714.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>13436237</id>
+</work>
+<isbn>143919890X</isbn>
+<isbn13>9781439198902</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>3036</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4090485</id>
+<name>Kristina Ohlsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4090485.Kristina_Ohlsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16156296</id>
+<title>Bad Blood (Intercrime, #2)</title>
+<title_without_series>Bad Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16156296-bad-blood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356143095s/16156296.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356143095m/16156296.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1994078</id>
+</work>
+<isbn>0375425365</isbn>
+<isbn13>9780375425363</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>1361</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>678217</id>
+<name>Arne Dahl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/678217.Arne_Dahl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9661887</id>
+<title><![CDATA[Furðustrandir (Inspector Erlendur #11)]]></title>
+<title_without_series>Furðustrandir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9661887-fur-ustrandir]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1289227896s/9661887.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1289227896m/9661887.jpg]]></image_url>
+<num_pages>301</num_pages>
+<work>
+<id>14549549</id>
+</work>
+<isbn>9979221232</isbn>
+<isbn13>9789979221234</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>3432</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6861265</id>
+<name>Arnaldur Indriðason</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6861265.Arnaldur_Indri_ason]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414725</id>
+<title><![CDATA[Invisible Murder (Nina Borg, #2)]]></title>
+<title_without_series>Invisible Murder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414725-invisible-murder]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344290356s/13414725.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344290356m/13414725.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>10767348</id>
+</work>
+<isbn>1616951702</isbn>
+<isbn13>9781616951702</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>2370</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3116926</id>
+<name>Lene Kaaberbøl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3116926.Lene_Kaaberb_l]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16130425</id>
+<title>Summer Death</title>
+<title_without_series>Summer Death</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16130425-summer-death]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355523940s/16130425.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355523940m/16130425.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>2794920</id>
+</work>
+<isbn>1451642547</isbn>
+<isbn13>9781451642544</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>2008</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>706269</id>
+<name>Mons Kallentoft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/706269.Mons_Kallentoft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15791150</id>
+<title><![CDATA[Dark Secrets (Sebastian Bergman, #1)]]></title>
+<title_without_series>Dark Secrets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15791150-dark-secrets]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1352436725s/15791150.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1352436725m/15791150.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>14254299</id>
+</work>
+<isbn>1455520756</isbn>
+<isbn13>9781455520756</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>3954</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4372984</id>
+<name>Michael Hjorth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4372984.Michael_Hjorth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17654728</id>
+<title>Farewell to Freedom</title>
+<title_without_series>Farewell to Freedom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17654728-farewell-to-freedom]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364768788s/17654728.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364768788m/17654728.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>3785172</id>
+</work>
+<isbn>1605985279</isbn>
+<isbn13>9781605985275</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>682</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>6549175</id>
+<name>Sara Blaedel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6549175.Sara_Blaedel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>280352</id>
+<title><![CDATA[The Indian Bride (Inspector Konrad Sejer, #5)]]></title>
+<title_without_series>The Indian Bride</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/280352.The_Indian_Bride]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876774s/280352.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876774m/280352.jpg]]></image_url>
+<num_pages>297</num_pages>
+<work>
+<id>271948</id>
+</work>
+<isbn>0151011826</isbn>
+<isbn13>9780151011827</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>5327</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>163027</id>
+<name>Karin Fossum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163027.Karin_Fossum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10416235</id>
+<title><![CDATA[Until Thy Wrath be Past (Rebecka Martinsson, #4)]]></title>
+<title_without_series>Until Thy Wrath be Past</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10416235-until-thy-wrath-be-past]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328767573s/10416235.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328767573m/10416235.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>6213187</id>
+</work>
+<isbn>1402787162</isbn>
+<isbn13>9781402787164</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>4442</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>168255</id>
+<name>Åsa Larsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168255._sa_Larsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4278632</id>
+<title><![CDATA[Woman with Birthmark (Inspector Van Veeteren #4)]]></title>
+<title_without_series>Woman with Birthmark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4278632-woman-with-birthmark]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320464522s/4278632.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320464522m/4278632.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>6163487</id>
+</work>
+<isbn>0375425047</isbn>
+<isbn13>9780375425042</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>3820</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>161054</id>
+<name>Håkan Nesser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/161054.H_kan_Nesser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1105468</id>
+<title><![CDATA[The Abominable Man (Martin Beck, #7)]]></title>
+<title_without_series>The Abominable Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1105468.The_Abominable_Man]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330360433s/1105468.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330360433m/1105468.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>787880</id>
+</work>
+<isbn>0007242972</isbn>
+<isbn13>9780007242979</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>2677</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6547</id>
+<name>Maj Sjöwall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6547.Maj_Sj_wall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12160859</id>
+<title><![CDATA[Ashes to Dust (Þóra Guðmundsdóttir, #3)]]></title>
+<title_without_series>Ashes to Dust</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12160859-ashes-to-dust]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344314693s/12160859.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344314693m/12160859.jpg]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>6235726</id>
+</work>
+<isbn>0312641745</isbn>
+<isbn13>9780312641740</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>2994</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>747437</id>
+<name>Yrsa Sigurðardóttir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/747437.Yrsa_Sigur_ard_ttir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12017508</id>
+<title>Dregs (William Wisting #6)</title>
+<title_without_series>Dregs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12017508-dregs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328320897s/12017508.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328320897m/12017508.jpg]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>16982830</id>
+</work>
+<isbn>1905207670</isbn>
+<isbn13>9781905207671</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>1280</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>764007</id>
+<name>Jørn Lier Horst</name>
+<link><![CDATA[https://www.goodreads.com/author/show/764007.J_rn_Lier_Horst]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

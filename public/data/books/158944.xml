@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>158944</id>
+  <title><![CDATA[The Fannie Farmer Cookbook: Anniversary]]></title>
+  <isbn><![CDATA[0679450815]]></isbn>
+  <isbn13><![CDATA[9780679450818]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">3245947</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">158944</best_book_id>
+  <reviews_count type="integer">17766</reviews_count>
+  <ratings_sum type="integer">53438</ratings_sum>
+  <ratings_count type="integer">13032</ratings_count>
+  <text_reviews_count type="integer">120</text_reviews_count>
+  <original_publication_year type="integer">1979</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Boston Cooking-School Cook Book 1896</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5876|4:3762|3:2518|2:580|1:296|total:13032</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12728]]></ratings_count>
+  <text_reviews_count><![CDATA[74]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/158944.The_Fannie_Farmer_Cookbook]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/158944.The_Fannie_Farmer_Cookbook]]></link>
+  <authors>
+<author>
+<id>92097</id>
+<name>Marion Cunningham</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/92097.Marion_Cunningham]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>14369</ratings_count>
+<text_reviews_count>201</text_reviews_count>
+</author>
+<author>
+<id>92099</id>
+<name>Fannie Merritt Farmer</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/92099.Fannie_Merritt_Farmer]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>12919</ratings_count>
+<text_reviews_count>101</text_reviews_count>
+</author>
+<author>
+<id>3913672</id>
+<name>Archibald Candy Corporation</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3913672.Archibald_Candy_Corporation]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>12728</ratings_count>
+<text_reviews_count>74</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/158944.The_Fannie_Farmer_Cookbook">The Fannie Farmer Cookbook Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679450815&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/158944.The_Fannie_Farmer_Cookbook?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1989"/>
+      <shelf name="cooking" count="109"/>
+      <shelf name="cookbooks" count="61"/>
+      <shelf name="cookbook" count="51"/>
+      <shelf name="food" count="36"/>
+      <shelf name="non-fiction" count="35"/>
+      <shelf name="reference" count="33"/>
+      <shelf name="currently-reading" count="27"/>
+      <shelf name="cook-books" count="17"/>
+      <shelf name="nonfiction" count="16"/>
+      <shelf name="owned" count="16"/>
+      <shelf name="default" count="13"/>
+      <shelf name="favorites" count="10"/>
+      <shelf name="food-cooking" count="9"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="cooking-food" count="7"/>
+      <shelf name="cookery" count="7"/>
+      <shelf name="my-cookbooks" count="6"/>
+      <shelf name="kitchen" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="recipes" count="5"/>
+      <shelf name="home" count="5"/>
+      <shelf name="foodie" count="4"/>
+      <shelf name="cookbooks-food" count="3"/>
+      <shelf name="cookbooks-and-food" count="3"/>
+      <shelf name="cookbooks-i-own" count="3"/>
+      <shelf name="classics" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="owned-cookbooks" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="food-and-cooking" count="3"/>
+      <shelf name="cookbooks-owned" count="2"/>
+      <shelf name="print" count="2"/>
+      <shelf name="cookbooks-food-writing" count="2"/>
+      <shelf name="baking" count="2"/>
+      <shelf name="on-the-shelf" count="2"/>
+      <shelf name="our-library" count="2"/>
+      <shelf name="all-books" count="2"/>
+      <shelf name="cooking-and-food" count="2"/>
+      <shelf name="history" count="2"/>
+      <shelf name="favorite-cookbooks" count="2"/>
+      <shelf name="cookbooks-i-want" count="2"/>
+      <shelf name="to-read-cookbooks" count="2"/>
+      <shelf name="general" count="2"/>
+      <shelf name="cookbooks-to-read" count="2"/>
+      <shelf name="bookshelf" count="2"/>
+      <shelf name="cuisine" count="2"/>
+      <shelf name="own-a-copy" count="2"/>
+      <shelf name="cookbook-collection" count="2"/>
+      <shelf name="how-to" count="2"/>
+      <shelf name="instruction-cooking" count="1"/>
+      <shelf name="wanted" count="1"/>
+      <shelf name="on-my-physical-shelves" count="1"/>
+      <shelf name="five-stars" count="1"/>
+      <shelf name="housekeeping" count="1"/>
+      <shelf name="favourite" count="1"/>
+      <shelf name="foodie-american" count="1"/>
+      <shelf name="small-lr" count="1"/>
+      <shelf name="food-books-i-own" count="1"/>
+      <shelf name="vegetarian-cookbooks" count="1"/>
+      <shelf name="educational" count="1"/>
+      <shelf name="eats" count="1"/>
+      <shelf name="have-need-to-read" count="1"/>
+      <shelf name="hope-to-read-2017" count="1"/>
+      <shelf name="our-library-books-we-own" count="1"/>
+      <shelf name="_essuy" count="1"/>
+      <shelf name="homemaking" count="1"/>
+      <shelf name="in-the-past" count="1"/>
+      <shelf name="non-fic" count="1"/>
+      <shelf name="food-issues" count="1"/>
+      <shelf name="eat-in-chicken" count="1"/>
+      <shelf name="beloved-by-me" count="1"/>
+      <shelf name="culinary-and-cooking" count="1"/>
+      <shelf name="for-mom" count="1"/>
+      <shelf name="non-diction" count="1"/>
+      <shelf name="on-shelf" count="1"/>
+      <shelf name="reference-cookbooks" count="1"/>
+      <shelf name="someday" count="1"/>
+      <shelf name="cookbooks-general" count="1"/>
+      <shelf name="read-1997" count="1"/>
+      <shelf name="cook-your-books" count="1"/>
+      <shelf name="hillside-hollow-library" count="1"/>
+      <shelf name="library" count="1"/>
+      <shelf name="antique" count="1"/>
+      <shelf name="on-a-shelf" count="1"/>
+      <shelf name="read-pre-gr" count="1"/>
+      <shelf name="want" count="1"/>
+      <shelf name="previously-owned" count="1"/>
+      <shelf name="childrens" count="1"/>
+      <shelf name="crafts-diy-cook" count="1"/>
+      <shelf name="female-authors" count="1"/>
+      <shelf name="shelfari-non-fiction" count="1"/>
+      <shelf name="shelfari-cookery" count="1"/>
+      <shelf name="homesteading" count="1"/>
+      <shelf name="food-beverage-cookbooks" count="1"/>
+      <shelf name="author-c" count="1"/>
+      <shelf name="cookinig" count="1"/>
+      <shelf name="healthy-living" count="1"/>
+      <shelf name="collection" count="1"/>
+      <shelf name="oblock" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>29872</id>
+<title>New York Times Cookbook</title>
+<title_without_series>New York Times Cookbook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29872.New_York_Times_Cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>800</num_pages>
+<work>
+<id>2232022</id>
+</work>
+<isbn></isbn>
+<isbn13>9780060160104</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>3671</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>16859</id>
+<name>Craig Claiborne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16859.Craig_Claiborne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>162214</id>
+<title>Frugal Gourmet</title>
+<title_without_series>Frugal Gourmet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162214.Frugal_Gourmet]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>833981</id>
+</work>
+<isbn>0517203650</isbn>
+<isbn13>9780517203651</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>3114</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>966591</id>
+<name>Jeff  Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/966591.Jeff_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>346029</id>
+<title>The Taste of Country Cooking</title>
+<title_without_series>The Taste of Country Cooking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/346029.The_Taste_of_Country_Cooking]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>336333</id>
+</work>
+<isbn>0307265609</isbn>
+<isbn13>9780307265609</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>536</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>157489</id>
+<name>Edna Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157489.Edna_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3896</id>
+<title><![CDATA[Betty Crocker's Picture Cookbook, Facsimile Edition]]></title>
+<title_without_series><![CDATA[Betty Crocker's Picture Cookbook, Facsimile Edition]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3896.Betty_Crocker_s_Picture_Cookbook_Facsimile_Edition]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360056860s/3896.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360056860m/3896.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>7620</id>
+</work>
+<isbn>0028627717</isbn>
+<isbn13>9780028627717</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>2446</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4087929</id>
+<name>Betty Crocker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4087929.Betty_Crocker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>545913</id>
+<title><![CDATA[James Beard's American Cookery]]></title>
+<title_without_series><![CDATA[James Beard's American Cookery]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/545913.James_Beard_s_American_Cookery]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>533186</id>
+</work>
+<isbn>0883659581</isbn>
+<isbn13>9780883659588</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1443</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>175556</id>
+<name>James Beard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/175556.James_Beard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>132688</id>
+<title>The Way to Cook</title>
+<title_without_series>The Way to Cook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/132688.The_Way_to_Cook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>758985</id>
+</work>
+<isbn>0679747656</isbn>
+<isbn13>9780679747659</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>11660</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3465</id>
+<name>Julia Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3465.Julia_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>86409</id>
+<title><![CDATA[Splendid Soups: Recipes and Master Techniques for Making the World's Best Soups]]></title>
+<title_without_series><![CDATA[Splendid Soups: Recipes and Master Techniques for Making the World's Best Soups]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/86409.Splendid_Soups]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360057008s/86409.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360057008m/86409.jpg]]></image_url>
+<num_pages>656</num_pages>
+<work>
+<id>83392</id>
+</work>
+<isbn>0471391360</isbn>
+<isbn13>9780471391364</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>373</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>49492</id>
+<name>James Peterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49492.James_Peterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>547691</id>
+<title><![CDATA[The 1896 Boston Cooking-School Cook Book]]></title>
+<title_without_series><![CDATA[The 1896 Boston Cooking-School Cook Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/547691.The_1896_Boston_Cooking_School_Cook_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>567</num_pages>
+<work>
+<id>534949</id>
+</work>
+<isbn>0517186780</isbn>
+<isbn13>9780517186787</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>133</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>92099</id>
+<name>Fannie Merritt Farmer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92099.Fannie_Merritt_Farmer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>463634</id>
+<title><![CDATA[The Slow Mediterranean Kitchen: Recipes for the Passionate Cook]]></title>
+<title_without_series><![CDATA[The Slow Mediterranean Kitchen: Recipes for the Passionate Cook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/463634.The_Slow_Mediterranean_Kitchen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360057440s/463634.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360057440m/463634.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>452061</id>
+</work>
+<isbn>0471262889</isbn>
+<isbn13>9780471262886</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>250</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>28826</id>
+<name>Paula Wolfert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28826.Paula_Wolfert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>74044</id>
+<title><![CDATA[The King Arthur Flour Baker's Companion: The All-Purpose Baking Cookbook]]></title>
+<title_without_series><![CDATA[The King Arthur Flour Baker's Companion: The All-Purpose Baking Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/74044.The_King_Arthur_Flour_Baker_s_Companion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>620</num_pages>
+<work>
+<id>71639</id>
+</work>
+<isbn>0881505811</isbn>
+<isbn13>9780881505818</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5390</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>6930</id>
+<name>King Arthur Flour</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6930.King_Arthur_Flour]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>198179</id>
+<title><![CDATA[Moosewood Restaurant Daily Special: More Than 275 Recipes for Soups, Stews, Salads & Extras]]></title>
+<title_without_series><![CDATA[Moosewood Restaurant Daily Special: More Than 275 Recipes for Soups, Stews, Salads & Extras]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/198179.Moosewood_Restaurant_Daily_Special]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>191704</id>
+</work>
+<isbn>0609802429</isbn>
+<isbn13>9780609802427</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>728</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>80134</id>
+<name>The Moosewood Collective</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80134.The_Moosewood_Collective]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>633538</id>
+<title>Ball Blue Book of Preserving</title>
+<title_without_series>Ball Blue Book of Preserving</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/633538.Ball_Blue_Book_of_Preserving]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>124</num_pages>
+<work>
+<id>619832</id>
+</work>
+<isbn>0972753702</isbn>
+<isbn13>9780972753708</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>2061</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>107230</id>
+<name>Ball Corporation</name>
+<link><![CDATA[https://www.goodreads.com/author/show/107230.Ball_Corporation]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>396759</id>
+<title>The Tassajara Bread Book</title>
+<title_without_series>The Tassajara Bread Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/396759.The_Tassajara_Bread_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>2072146</id>
+</work>
+<isbn>157062089X</isbn>
+<isbn13>9781570620898</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>3892</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>139791</id>
+<name>Edward Espe Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/139791.Edward_Espe_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>893001</id>
+<title><![CDATA[The Silver Palate Good Times Cookbook]]></title>
+<title_without_series><![CDATA[The Silver Palate Good Times Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/893001.The_Silver_Palate_Good_Times_Cookbook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405290955s/893001.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405290955m/893001.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>878233</id>
+</work>
+<isbn>0894808311</isbn>
+<isbn13>9780894808319</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>4535</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>2832</id>
+<name>Julee Rosso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2832.Julee_Rosso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75392</id>
+<title>Bistro Cooking</title>
+<title_without_series>Bistro Cooking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75392.Bistro_Cooking]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>72929</id>
+</work>
+<isbn>1856263193</isbn>
+<isbn13>9781856263191</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1209</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42842</id>
+<name>Patricia Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42842.Patricia_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>766126</id>
+<title><![CDATA[Dairy Hollow House Soup & Bread Cookbook]]></title>
+<title_without_series><![CDATA[Dairy Hollow House Soup & Bread Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/766126.Dairy_Hollow_House_Soup_Bread_Cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>406</num_pages>
+<work>
+<id>294282</id>
+</work>
+<isbn>089480751X</isbn>
+<isbn13>9780894807510</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>283</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>169061</id>
+<name>Crescent Dragonwagon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/169061.Crescent_Dragonwagon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>150606</id>
+<title><![CDATA[The Martha Stewart Cookbook: Collected Recipes for Every Day]]></title>
+<title_without_series><![CDATA[The Martha Stewart Cookbook: Collected Recipes for Every Day]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/150606.The_Martha_Stewart_Cookbook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1374576792s/150606.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1374576792m/150606.jpg]]></image_url>
+<num_pages>620</num_pages>
+<work>
+<id>145361</id>
+</work>
+<isbn>0517703351</isbn>
+<isbn13>9780517703359</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>2106</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2657</id>
+<name>Martha Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2657.Martha_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3962340</id>
+<title><![CDATA[The America's Test Kitchen Family Baking Book]]></title>
+<title_without_series><![CDATA[The America's Test Kitchen Family Baking Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3962340-the-america-s-test-kitchen-family-baking-book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>4008045</id>
+</work>
+<isbn>1933615222</isbn>
+<isbn13>9781933615226</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>1977</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>6867702</id>
+<name>America&apos;s Test Kitchen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6867702.America_s_Test_Kitchen]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7128341</id>
+  <title><![CDATA[The Prince of Mist (Niebla, #1)]]></title>
+  <isbn><![CDATA[0316044776]]></isbn>
+  <isbn13><![CDATA[9780316044776]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003NUS91Q]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1261604683m/7128341.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1261604683s/7128341.jpg</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>Little, Brown Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A mysterious house harbors an unimaginable secret. . . .<br /><br />It’s wartime, and the Carver family decides to leave the capital where they live and move to a small coastal village where they’ve recently bought a home. But from the minute they cross the threshold, strange things begin to happen. In that mysterious house there still lurks the spirit of Jacob, the previous owners’ son, who died by drowning.<br /><br />With the help of their new friend Roland, Max and Alicia Carver begin to explore the suspicious circumstances of that death and discover the existence of a mysterious being called The Prince of Mist—a diabolical character who has returned from the shadows to collect on a debt from the past. Soon the three friends find themselves caught up in an adventure of sunken ships and an enchanted stone garden, which will change their lives forever.<br />]]></description>
+  <work>
+  <id type="integer">1044059</id>
+  <books_count type="integer">95</books_count>
+  <best_book_id type="integer">7128341</best_book_id>
+  <reviews_count type="integer">37623</reviews_count>
+  <ratings_sum type="integer">80748</ratings_sum>
+  <ratings_count type="integer">22051</ratings_count>
+  <text_reviews_count type="integer">2070</text_reviews_count>
+  <original_publication_year type="integer">1986</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>El príncipe de la niebla</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4591|4:7981|3:7262|2:1866|1:351|total:22051</rating_dist>
+  <desc_user_id type="integer">3510382</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.66</average_rating>
+  <num_pages><![CDATA[218]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[14397]]></ratings_count>
+  <text_reviews_count><![CDATA[1220]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7128341-the-prince-of-mist]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7128341-the-prince-of-mist]]></link>
+  <authors>
+<author>
+<id>815</id>
+<name>Carlos Ruiz Zafón</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444199853p5/815.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444199853p2/815.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/815.Carlos_Ruiz_Zaf_n]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>512782</ratings_count>
+<text_reviews_count>42650</text_reviews_count>
+</author>
+<author>
+<id>221645</id>
+<name>Lucia Graves</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/221645.Lucia_Graves]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>354150</ratings_count>
+<text_reviews_count>27867</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7128341-the-prince-of-mist">The Prince of Mist Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316044776&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7128341-the-prince-of-mist?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11351"/>
+      <shelf name="fantasy" count="450"/>
+      <shelf name="young-adult" count="414"/>
+      <shelf name="currently-reading" count="341"/>
+      <shelf name="mystery" count="255"/>
+      <shelf name="fiction" count="225"/>
+      <shelf name="favorites" count="188"/>
+      <shelf name="ya" count="184"/>
+      <shelf name="horror" count="157"/>
+      <shelf name="owned" count="143"/>
+      <shelf name="books-i-own" count="126"/>
+      <shelf name="spanish" count="79"/>
+      <shelf name="historical-fiction" count="75"/>
+      <shelf name="paranormal" count="70"/>
+      <shelf name="series" count="57"/>
+      <shelf name="owned-books" count="56"/>
+      <shelf name="supernatural" count="50"/>
+      <shelf name="historical" count="43"/>
+      <shelf name="spain" count="42"/>
+      <shelf name="gothic" count="42"/>
+      <shelf name="thriller" count="41"/>
+      <shelf name="library" count="36"/>
+      <shelf name="to-buy" count="36"/>
+      <shelf name="magical-realism" count="35"/>
+      <shelf name="ebook" count="34"/>
+      <shelf name="teen" count="34"/>
+      <shelf name="default" count="32"/>
+      <shelf name="español" count="30"/>
+      <shelf name="kindle" count="29"/>
+      <shelf name="adventure" count="29"/>
+      <shelf name="carlos-ruiz-zafon" count="28"/>
+      <shelf name="magic" count="27"/>
+      <shelf name="suspense" count="26"/>
+      <shelf name="spanish-literature" count="25"/>
+      <shelf name="audiobook" count="25"/>
+      <shelf name="romance" count="25"/>
+      <shelf name="ghosts" count="24"/>
+      <shelf name="wish-list" count="24"/>
+      <shelf name="my-books" count="23"/>
+      <shelf name="ebooks" count="22"/>
+      <shelf name="children" count="22"/>
+      <shelf name="audio" count="21"/>
+      <shelf name="books" count="21"/>
+      <shelf name="read-in-2013" count="20"/>
+      <shelf name="young-adult-fiction" count="20"/>
+      <shelf name="favourites" count="18"/>
+      <shelf name="read-in-2014" count="17"/>
+      <shelf name="read-in-2012" count="17"/>
+      <shelf name="read-in-2011" count="17"/>
+      <shelf name="audiobooks" count="16"/>
+      <shelf name="read-in-2015" count="15"/>
+      <shelf name="carlos-ruiz-zafón" count="15"/>
+      <shelf name="novels" count="15"/>
+      <shelf name="borrowed" count="15"/>
+      <shelf name="mystery-thriller" count="15"/>
+      <shelf name="my-library" count="14"/>
+      <shelf name="ya-fiction" count="14"/>
+      <shelf name="read-in-2010" count="14"/>
+      <shelf name="childrens" count="14"/>
+      <shelf name="fantasia" count="14"/>
+      <shelf name="read-in-2016" count="13"/>
+      <shelf name="favoritos" count="13"/>
+      <shelf name="misterio" count="13"/>
+      <shelf name="on-my-shelf" count="13"/>
+      <shelf name="school" count="12"/>
+      <shelf name="novel" count="12"/>
+      <shelf name="e-book" count="12"/>
+      <shelf name="middle-grade" count="12"/>
+      <shelf name="i-own" count="12"/>
+      <shelf name="read-2012" count="11"/>
+      <shelf name="read-2011" count="11"/>
+      <shelf name="mistery" count="11"/>
+      <shelf name="dark" count="11"/>
+      <shelf name="read-in-spanish" count="11"/>
+      <shelf name="fantasía" count="11"/>
+      <shelf name="translation" count="11"/>
+      <shelf name="finished" count="11"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="juvenil" count="11"/>
+      <shelf name="20th-century" count="10"/>
+      <shelf name="ghost" count="10"/>
+      <shelf name="dark-fantasy" count="10"/>
+      <shelf name="contemporary" count="10"/>
+      <shelf name="europe" count="10"/>
+      <shelf name="fantasy-sci-fi" count="10"/>
+      <shelf name="home-library" count="10"/>
+      <shelf name="read-2016" count="9"/>
+      <shelf name="maybe" count="9"/>
+      <shelf name="creepy" count="9"/>
+      <shelf name="spanish-authors" count="9"/>
+      <shelf name="spanish-lit" count="9"/>
+      <shelf name="re-read" count="9"/>
+      <shelf name="drama" count="9"/>
+      <shelf name="history" count="9"/>
+      <shelf name="magic-realism" count="9"/>
+      <shelf name="young-adults" count="8"/>
+      <shelf name="tbr" count="8"/>
+      <shelf name="spanish-language" count="8"/>
+      <shelf name="translated" count="8"/>
+      <shelf name="zafon" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>200852</id>
+<user_position>1</user_position>
+<series>
+<id>40433</id>
+<title>
+<![CDATA[
+    Niebla
+]]>
+</title>
+<description>
+<![CDATA[
+    Series also known as:
+    <i>* Mist
+    * La Trilogia della Nebbia [Italian]</i>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>17709520</id>
+<title>Inverno de Sombras</title>
+<title_without_series>Inverno de Sombras</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17709520-inverno-de-sombras]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364815445s/17709520.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364815445m/17709520.jpg]]></image_url>
+<num_pages>590</num_pages>
+<work>
+<id>14526140</id>
+</work>
+<isbn></isbn>
+<isbn13>9789898470867</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>157</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3448961</id>
+<name>L.C. Lavado</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3448961.L_C_Lavado]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8016118</id>
+<title><![CDATA[As Incríveis Aventuras de Dog Mendonça e PizzaBoy]]></title>
+<title_without_series><![CDATA[As Incríveis Aventuras de Dog Mendonça e PizzaBoy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8016118-as-incr-veis-aventuras-de-dog-mendon-a-e-pizzaboy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1270943792s/8016118.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1270943792m/8016118.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>12576951</id>
+</work>
+<isbn></isbn>
+<isbn13>9789896710279</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>365</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3475473</id>
+<name>Filipe Melo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3475473.Filipe_Melo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6724779</id>
+<title><![CDATA[The Reinvention of Moxie Roosevelt]]></title>
+<title_without_series><![CDATA[The Reinvention of Moxie Roosevelt]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6724779-the-reinvention-of-moxie-roosevelt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6920940</id>
+</work>
+<isbn>0803733038</isbn>
+<isbn13>9780803733039</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>321</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>83291</id>
+<name>Elizabeth Cody Kimmel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83291.Elizabeth_Cody_Kimmel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2260496</id>
+<title><![CDATA[O Crepúsculo dos Elfos (A Trilogia dos Elfos, #1)]]></title>
+<title_without_series>O Crepúsculo dos Elfos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2260496.O_Crep_sculo_dos_Elfos]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1314905403s/2260496.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1314905403m/2260496.jpg]]></image_url>
+<num_pages>277</num_pages>
+<work>
+<id>2266449</id>
+</work>
+<isbn>9721049263</isbn>
+<isbn13>9789721049260</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>395</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>418196</id>
+<name>Jean-Louis Fetjaine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/418196.Jean_Louis_Fetjaine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7306380</id>
+<title>Picture the Dead</title>
+<title_without_series>Picture the Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7306380-picture-the-dead]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327930806s/7306380.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327930806m/7306380.jpg]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>13649708</id>
+</work>
+<isbn>140223712X</isbn>
+<isbn13>9781402237126</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1328</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>311468</id>
+<name>Adele Griffin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/311468.Adele_Griffin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4633273</id>
+<title><![CDATA[Dreams of the Dead (The Waking, #1)]]></title>
+<title_without_series>Dreams of the Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4633273-dreams-of-the-dead]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312040813s/4633273.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312040813m/4633273.jpg]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>4683375</id>
+</work>
+<isbn>1599902508</isbn>
+<isbn13>9781599902500</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>394</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>4522</id>
+<name>Christopher Golden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4522.Christopher_Golden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7702566</id>
+<title><![CDATA[Venganza en Sevilla (Martín Ojo de Plata, #2)]]></title>
+<title_without_series>Venganza en Sevilla</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7702566-venganza-en-sevilla]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1265490822s/7702566.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1265490822m/7702566.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>10400816</id>
+</work>
+<isbn>8408088351</isbn>
+<isbn13>9788408088356</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>1004</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>38030</id>
+<name>Matilde Asensi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38030.Matilde_Asensi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6783133</id>
+<title>Folly</title>
+<title_without_series>Folly</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6783133-folly]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320550961s/6783133.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320550961m/6783133.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>6985338</id>
+</work>
+<isbn>0385907311</isbn>
+<isbn13>9780385907316</isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>471</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>138096</id>
+<name>Marthe Jocelyn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138096.Marthe_Jocelyn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8663299</id>
+<title>The Dead of Winter</title>
+<title_without_series>The Dead of Winter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8663299-the-dead-of-winter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328073754s/8663299.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328073754m/8663299.jpg]]></image_url>
+<num_pages>217</num_pages>
+<work>
+<id>13534790</id>
+</work>
+<isbn>1408800136</isbn>
+<isbn13>9781408800133</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>888</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>519134</id>
+<name>Chris Priestley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/519134.Chris_Priestley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7549694</id>
+<title>The Year of Goodbyes</title>
+<title_without_series>The Year of Goodbyes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7549694-the-year-of-goodbyes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360571443s/7549694.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360571443m/7549694.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>9842314</id>
+</work>
+<isbn>1423129016</isbn>
+<isbn13>9781423129011</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>401</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>182269</id>
+<name>Debbie Levy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/182269.Debbie_Levy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7971302</id>
+<title>The Danger Box</title>
+<title_without_series>The Danger Box</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7971302-the-danger-box]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1274865419s/7971302.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1274865419m/7971302.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>12106339</id>
+</work>
+<isbn>0439852099</isbn>
+<isbn13>9780439852098</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>1656</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>86085</id>
+<name>Blue Balliett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86085.Blue_Balliett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7795293</id>
+<title>The Poisoned House</title>
+<title_without_series>The Poisoned House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7795293-the-poisoned-house]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327373551s/7795293.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327373551m/7795293.jpg]]></image_url>
+<num_pages>283</num_pages>
+<work>
+<id>10761324</id>
+</work>
+<isbn>1408804506</isbn>
+<isbn13>9781408804506</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>1266</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>5765590</id>
+<name>Michael  Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5765590.Michael_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7952209</id>
+<title>The Kneebone Boy</title>
+<title_without_series>The Kneebone Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7952209-the-kneebone-boy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316728692s/7952209.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316728692m/7952209.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>10258802</id>
+</work>
+<isbn>031237772X</isbn>
+<isbn13>9780312377724</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>2927</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>290125</id>
+<name>Ellen Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/290125.Ellen_Potter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75745</id>
+<title>Blueprint: Blaupause</title>
+<title_without_series>Blueprint: Blaupause</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75745.Blueprint]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>73277</id>
+</work>
+<isbn>3407808372</isbn>
+<isbn13>9783407808370</isbn13>
+<average_rating>2.77</average_rating>
+<ratings_count>591</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>30124</id>
+<name>Charlotte Kerner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30124.Charlotte_Kerner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16162914</id>
+<title>O Espião Português</title>
+<title_without_series>O Espião Português</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16162914-o-espi-o-portugu-s]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1353496443s/16162914.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1353496443m/16162914.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>22005498</id>
+</work>
+<isbn></isbn>
+<isbn13>9789892321462</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>144</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6584894</id>
+<name>Nuno Nepomuceno</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6584894.Nuno_Nepomuceno]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1125083</id>
+<title><![CDATA[The Great Pyramid Robbery (The Seven Fabulous Wonders, #1)]]></title>
+<title_without_series>The Great Pyramid Robbery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1125083.The_Great_Pyramid_Robbery]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356139110s/1125083.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356139110m/1125083.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1112186</id>
+</work>
+<isbn>0007112785</isbn>
+<isbn13>9780007112784</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>244</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>418403</id>
+<name>Katherine Roberts</name>
+<link><![CDATA[https://www.goodreads.com/author/show/418403.Katherine_Roberts]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10898686</id>
+<title>Habitaciones cerradas</title>
+<title_without_series>Habitaciones cerradas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10898686-habitaciones-cerradas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>493</num_pages>
+<work>
+<id>15814622</id>
+</work>
+<isbn>8408098764</isbn>
+<isbn13>9788408098768</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>539</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>298546</id>
+<name>Care Santos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/298546.Care_Santos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>403852</id>
+<title><![CDATA[La llamada de los muertos (Crónicas De La Torre, #3)]]></title>
+<title_without_series>La llamada de los muertos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/403852.La_llamada_de_los_muertos]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268342715s/403852.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268342715m/403852.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>6548259</id>
+</work>
+<isbn>8434894394</isbn>
+<isbn13>9788434894396</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>3153</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>228898</id>
+<name>Laura Gallego García</name>
+<link><![CDATA[https://www.goodreads.com/author/show/228898.Laura_Gallego_Garc_a]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

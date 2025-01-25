@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>204779</id>
+  <title>The Masque of the Red Death</title>
+  <isbn><![CDATA[1594567395]]></isbn>
+  <isbn13><![CDATA[9781594567391]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B004TPFP5M]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[„Edgar Poe e subjugat, asemenea cuceritorilor si filosofilor, de dorinta irepresibila a unitatii; la el spiritul se combina cu fizicul. S-ar putea spune ca Poe cauta sa aplice literaturii procesele filosofiei, iar filosofiei metodele algebrei. In aceasta constanta ascensiune catre infinit, uneori iti poti pierde respiratia. In acest gen de literatura aerul e la fel de rarefiat ca intr-un laborator. Aici vei vedea mereu glorificarea vointei care se apleaca asupra inductiei si analizei. S-ar parea ca Poe vrea sa uzurpe rolul profetilor si sa-si adjudece monopolul explicatiei rationale. Astfel, peisajele servind ca fundal febrilelor lui compozitii capata paloarea unor fantome. Poe, care rareori pare sa fi impartasit pasiunile altor oameni, schiteaza arbori si nori care sunt aidoma arborilor si norilor dintr-un vis, sau, si mai bine, care se aseamana cu personajele lui stranii, la fel de adanc patrunse de un tremur supranatural si convulsiv.“ - Charles Baudelaire<br /><br />„Poe isi alege, de regula, cea mai neobisnuita realitate, isi plaseaza eroul in cea mai inedita situatie, fizica sau psihologica, iar apoi descrie starea launtrica a acestui personaj cu o rara acuitate si cu un remarcabil realism. Mai mult, exista o trasatura in intregime a lui Poe, una care il deosebeste de oricare alt scriitor, anume vigoarea imaginatiei sale. Nu vreau sa spun ca fantezia lui ar intrece-o pe aceea a altor poeti, ci pur si simplu ca imaginatia lui e inzestrata cu o calitate pe care n-am intalnit-o la nici unul intr-o asemenea proportie: e vorba de forta detaliilor… Edgar Poe prezinta, in cel mai mic amanunt, intreg tabloul inchipuit, ori evenimentele, cu o plasticitate uluitoare, incat ajungi sa crezi in realitatea sau posibilitatea unui fapt care, in fond, nu s-a intamplat niciodata, si nici nu s-ar putea intampla.“ - F.M. Dostoievski]]></description>
+  <work>
+  <id type="integer">15568908</id>
+  <books_count type="integer">125</books_count>
+  <best_book_id type="integer">204779</best_book_id>
+  <reviews_count type="integer">28800</reviews_count>
+  <ratings_sum type="integer">83117</ratings_sum>
+  <ratings_count type="integer">20351</ratings_count>
+  <text_reviews_count type="integer">641</text_reviews_count>
+  <original_publication_year type="integer">1842</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Masque of the Red Death</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7844|4:7550|3:3969|2:802|1:186|total:20351</rating_dist>
+  <desc_user_id type="integer">6566115</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.08</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[17739]]></ratings_count>
+  <text_reviews_count><![CDATA[493]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/204779.The_Masque_of_the_Red_Death]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/204779.The_Masque_of_the_Red_Death]]></link>
+  <authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p5/4624490.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p2/4624490.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>1019853</ratings_count>
+<text_reviews_count>21641</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/204779.The_Masque_of_the_Red_Death">The Masque of the Red Death Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594567395&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/204779.The_Masque_of_the_Red_Death?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="classics" count="723"/>
+      <shelf name="to-read" count="316"/>
+      <shelf name="fiction" count="225"/>
+      <shelf name="currently-reading" count="171"/>
+      <shelf name="horror" count="146"/>
+      <shelf name="classic" count="125"/>
+      <shelf name="short-story" count="90"/>
+      <shelf name="mystery" count="78"/>
+      <shelf name="favorites" count="77"/>
+      <shelf name="edgar-allan-poe" count="55"/>
+      <shelf name="school" count="49"/>
+      <shelf name="literature" count="48"/>
+      <shelf name="short-stories" count="43"/>
+      <shelf name="gothic" count="41"/>
+      <shelf name="19th-century" count="41"/>
+      <shelf name="american" count="38"/>
+      <shelf name="poe" count="38"/>
+      <shelf name="books-i-own" count="33"/>
+      <shelf name="owned" count="31"/>
+      <shelf name="read-for-school" count="27"/>
+      <shelf name="classic-literature" count="27"/>
+      <shelf name="kindle" count="26"/>
+      <shelf name="high-school" count="24"/>
+      <shelf name="thriller" count="21"/>
+      <shelf name="for-school" count="21"/>
+      <shelf name="short" count="21"/>
+      <shelf name="school-books" count="18"/>
+      <shelf name="poetry" count="18"/>
+      <shelf name="read-in-2016" count="17"/>
+      <shelf name="dark" count="17"/>
+      <shelf name="fantasy" count="16"/>
+      <shelf name="english" count="16"/>
+      <shelf name="ebooks" count="16"/>
+      <shelf name="suspense" count="16"/>
+      <shelf name="historical" count="14"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="american-lit" count="14"/>
+      <shelf name="read-in-2015" count="13"/>
+      <shelf name="novels" count="13"/>
+      <shelf name="adult" count="13"/>
+      <shelf name="owned-books" count="12"/>
+      <shelf name="supernatural" count="12"/>
+      <shelf name="read-in-english" count="12"/>
+      <shelf name="historical-fiction" count="12"/>
+      <shelf name="gothic-horror" count="11"/>
+      <shelf name="read-in-school" count="11"/>
+      <shelf name="creepy" count="11"/>
+      <shelf name="read-in-2013" count="10"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="read-in-2012" count="10"/>
+      <shelf name="paranormal" count="10"/>
+      <shelf name="short-stories-novellas" count="10"/>
+      <shelf name="school-reads" count="9"/>
+      <shelf name="gothic-fiction" count="9"/>
+      <shelf name="death" count="9"/>
+      <shelf name="classic-lit" count="9"/>
+      <shelf name="classic-fiction" count="9"/>
+      <shelf name="all-time-favorites" count="9"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="in-english" count="8"/>
+      <shelf name="classic-horror" count="8"/>
+      <shelf name="short-fiction" count="8"/>
+      <shelf name="school-reading" count="8"/>
+      <shelf name="favorite" count="8"/>
+      <shelf name="reviewed" count="7"/>
+      <shelf name="usa" count="7"/>
+      <shelf name="books" count="7"/>
+      <shelf name="the-classics" count="7"/>
+      <shelf name="literary" count="7"/>
+      <shelf name="adult-fiction" count="7"/>
+      <shelf name="american-literature" count="6"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="audiobooks" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="finished" count="6"/>
+      <shelf name="3-stars" count="6"/>
+      <shelf name="required-reading" count="6"/>
+      <shelf name="read-2012" count="6"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="edgar-allen-poe" count="6"/>
+      <shelf name="scary" count="6"/>
+      <shelf name="victorian" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="re-read" count="6"/>
+      <shelf name="horror-thriller" count="6"/>
+      <shelf name="audio" count="6"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="cuentos" count="5"/>
+      <shelf name="1800s" count="5"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="novel" count="5"/>
+      <shelf name="mystery-thriller-horror" count="5"/>
+      <shelf name="read-more-than-once" count="5"/>
+      <shelf name="university" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="5-stars" count="5"/>
+      <shelf name="gothic-literature" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="kindle-books" count="5"/>
+      <shelf name="e-book" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1289644</id>
+<title>The Rats in the Walls</title>
+<title_without_series>The Rats in the Walls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1289644.The_Rats_in_the_Walls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>95</num_pages>
+<work>
+<id>1278731</id>
+</work>
+<isbn>2266150227</isbn>
+<isbn13>9782266150224</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>4356</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9494</id>
+<name>H.P. Lovecraft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9494.H_P_Lovecraft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2327842</id>
+<title>The Devil and Tom Walker</title>
+<title_without_series>The Devil and Tom Walker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2327842.The_Devil_and_Tom_Walker]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>37</num_pages>
+<work>
+<id>2334401</id>
+</work>
+<isbn>0895986655</isbn>
+<isbn13>9780895986658</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>1444</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>28525</id>
+<name>Washington Irving</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28525.Washington_Irving]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13369893</id>
+<title>The End of the Party</title>
+<title_without_series>The End of the Party</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13369893-the-end-of-the-party]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1348542724s/13369893.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1348542724m/13369893.jpg]]></image_url>
+<num_pages>6</num_pages>
+<work>
+<id>18599210</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>462</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2533</id>
+<name>Graham Greene</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2533.Graham_Greene]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10452275</id>
+<title>Ponies</title>
+<title_without_series>Ponies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10452275-ponies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328154090s/10452275.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328154090m/10452275.jpg]]></image_url>
+<num_pages>10</num_pages>
+<work>
+<id>15268747</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>1293</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>110153</id>
+<name>Kij Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110153.Kij_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>562471</id>
+<title>Young Goodman Brown</title>
+<title_without_series>Young Goodman Brown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/562471.Young_Goodman_Brown]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>6556507</id>
+</work>
+<isbn>1557423628</isbn>
+<isbn13>9781557423627</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>8265</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>7799</id>
+<name>Nathaniel Hawthorne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7799.Nathaniel_Hawthorne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2873124</id>
+<title>The Judge&apos;s House</title>
+<title_without_series>The Judge&apos;s House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2873124-the-judge-s-house]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2899287</id>
+</work>
+<isbn>186092008X</isbn>
+<isbn13>9781860920080</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>754</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6988</id>
+<name>Bram Stoker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6988.Bram_Stoker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6516855</id>
+<title>Chickamauga</title>
+<title_without_series>Chickamauga</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6516855-chickamauga]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>188</num_pages>
+<work>
+<id>6708684</id>
+</work>
+<isbn>1878298232</isbn>
+<isbn13>9781878298232</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>185</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14403</id>
+<name>Ambrose Bierce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14403.Ambrose_Bierce]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8132998</id>
+<title>In a Grove</title>
+<title_without_series>In a Grove</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8132998-in-a-grove]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>12929007</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1084</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5775185</id>
+<name>Ryūnosuke Akutagawa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5775185.Ry_nosuke_Akutagawa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9968921</id>
+<title>The Signalman</title>
+<title_without_series>The Signalman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9968921-the-signalman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1338150001s/9968921.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1338150001m/9968921.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13220085</id>
+</work>
+<isbn>0929605926</isbn>
+<isbn13>9780929605920</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>1089</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>383204</id>
+<title>Lois the Witch</title>
+<title_without_series>Lois the Witch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/383204.Lois_the_Witch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1324219326s/383204.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1324219326m/383204.jpg]]></image_url>
+<num_pages>94</num_pages>
+<work>
+<id>1215745</id>
+</work>
+<isbn>1843910497</isbn>
+<isbn13>9781843910497</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>412</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1413437</id>
+<name>Elizabeth Gaskell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1413437.Elizabeth_Gaskell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>369691</id>
+<title>By the Waters of Babylon </title>
+<title_without_series>By the Waters of Babylon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/369691.By_the_Waters_of_Babylon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>359668</id>
+</work>
+<isbn>0886822947</isbn>
+<isbn13>9780886822941</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>466</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26926</id>
+<name>Stephen Vincent Benét</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26926.Stephen_Vincent_Ben_t]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>590272</id>
+<title>The Nightingale and the Rose</title>
+<title_without_series>The Nightingale and the Rose</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/590272.The_Nightingale_and_the_Rose]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1428095664s/590272.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1428095664m/590272.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1913961</id>
+</work>
+<isbn>1430439866</isbn>
+<isbn13>9781430439868</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>4987</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>499130</id>
+<title>The Enormous Radio</title>
+<title_without_series>The Enormous Radio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/499130.The_Enormous_Radio]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>487264</id>
+</work>
+<isbn>0871919591</isbn>
+<isbn13>9780871919595</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>366</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7464</id>
+<name>John Cheever</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7464.John_Cheever]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13498656</id>
+<title>Mother, Crone, Maiden</title>
+<title_without_series>Mother, Crone, Maiden</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13498656-mother-crone-maiden]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331825231s/13498656.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331825231m/13498656.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>19043923</id>
+</work>
+<isbn>1466814284</isbn>
+<isbn13>9781466814288</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>111</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4610401</id>
+<name>Cat Hellisen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4610401.Cat_Hellisen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12125412</id>
+<title>The Lady or the Tiger</title>
+<title_without_series>The Lady or the Tiger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12125412-the-lady-or-the-tiger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>8</num_pages>
+<work>
+<id>21430475</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1310</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4988270</id>
+<name>Frank R. Stockton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4988270.Frank_R_Stockton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

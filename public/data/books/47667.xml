@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>47667</id>
+  <title>Seeing</title>
+  <isbn><![CDATA[0156032732]]></isbn>
+  <isbn13><![CDATA[9780156032735]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00DIK7SEK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[On election day in the capital, it is raining so hard that no one has bothered to come out to vote. The politicians are growing jittery. Should they reschedule the elections for another day? Around three o' clock, the rain finally stops. Promptly at four, voters rush to the polling stations, as if they had been ordered to appear.<br /><br />But when the ballots are counted, more than 70 percent are blank. The citizens are rebellious. A state of emergency is declared. But are the authorities acting too precipitously? Or even blindly? The word evokes terrible memories of the plague of blindness that hit the city four years before, and of the one woman who kept her sight. Could she be behind the blank ballots? A police superintendent is put on the case.<br /><br />What begins as a satire on governments and the sometimes dubious efficacy of the democratic system turns into something far more sinister. A singular novel from the author of Blindness.]]></description>
+  <work>
+  <id type="integer">1090709</id>
+  <books_count type="integer">97</books_count>
+  <best_book_id type="integer">47667</best_book_id>
+  <reviews_count type="integer">27278</reviews_count>
+  <ratings_sum type="integer">45620</ratings_sum>
+  <ratings_count type="integer">12147</ratings_count>
+  <text_reviews_count type="integer">1091</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Ensaio Sobre a Lucidez</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3020|4:4672|3:3212|2:953|1:290|total:12147</rating_dist>
+  <desc_user_id type="integer">19821046</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.76</average_rating>
+  <num_pages><![CDATA[307]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[7451]]></ratings_count>
+  <text_reviews_count><![CDATA[566]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/47667.Seeing]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/47667.Seeing]]></link>
+  <authors>
+<author>
+<id>1285555</id>
+<name>José Saramago</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497455560p5/1285555.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497455560p2/1285555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>281301</ratings_count>
+<text_reviews_count>23483</text_reviews_count>
+</author>
+<author>
+<id>24758</id>
+<name>Margaret Jull Costa</name>
+<role>Translation</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364673971p5/24758.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1364673971p2/24758.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24758.Margaret_Jull_Costa]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>377757</ratings_count>
+<text_reviews_count>21422</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/47667.Seeing">Seeing Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0156032732&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/47667.Seeing?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1172"/>
+      <shelf name="fiction" count="344"/>
+      <shelf name="currently-reading" count="78"/>
+      <shelf name="novels" count="61"/>
+      <shelf name="novel" count="49"/>
+      <shelf name="portuguese" count="48"/>
+      <shelf name="portugal" count="47"/>
+      <shelf name="dystopia" count="42"/>
+      <shelf name="saramago" count="41"/>
+      <shelf name="to-buy" count="39"/>
+      <shelf name="books-i-own" count="34"/>
+      <shelf name="science-fiction" count="33"/>
+      <shelf name="nobel" count="28"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="portuguese-literature" count="25"/>
+      <shelf name="favorites" count="23"/>
+      <shelf name="nobel-prize" count="23"/>
+      <shelf name="روايات" count="22"/>
+      <shelf name="politics" count="22"/>
+      <shelf name="jose-saramago" count="22"/>
+      <shelf name="dystopian" count="21"/>
+      <shelf name="abandoned" count="21"/>
+      <shelf name="kindle" count="16"/>
+      <shelf name="series" count="16"/>
+      <shelf name="library" count="16"/>
+      <shelf name="literary-fiction" count="16"/>
+      <shelf name="sci-fi" count="16"/>
+      <shelf name="contemporary-fiction" count="15"/>
+      <shelf name="default" count="14"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="translated" count="14"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="translation" count="13"/>
+      <shelf name="magical-realism" count="13"/>
+      <shelf name="سلسلة-الجوائز" count="12"/>
+      <shelf name="wish-list" count="12"/>
+      <shelf name="book-club" count="12"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="favourites" count="11"/>
+      <shelf name="novela" count="11"/>
+      <shelf name="literatura-portuguesa" count="10"/>
+      <shelf name="did-not-finish" count="10"/>
+      <shelf name="e-book" count="9"/>
+      <shelf name="satire" count="9"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="to-read-fiction" count="9"/>
+      <shelf name="literary" count="9"/>
+      <shelf name="جوزيه-ساراماجو" count="8"/>
+      <shelf name="رمان" count="8"/>
+      <shelf name="ساراماجو" count="8"/>
+      <shelf name="biblioteca" count="8"/>
+      <shelf name="autores-portugueses" count="8"/>
+      <shelf name="classics" count="8"/>
+      <shelf name="home-library" count="8"/>
+      <shelf name="translations" count="8"/>
+      <shelf name="fantasy" count="8"/>
+      <shelf name="unfinished" count="8"/>
+      <shelf name="literatura" count="7"/>
+      <shelf name="nobel-laureates" count="7"/>
+      <shelf name="classic" count="7"/>
+      <shelf name="gave-up-on" count="7"/>
+      <shelf name="narrativa" count="7"/>
+      <shelf name="modern" count="7"/>
+      <shelf name="philosophy" count="7"/>
+      <shelf name="literature" count="6"/>
+      <shelf name="روايات-مترجمة" count="6"/>
+      <shelf name="portugueses" count="6"/>
+      <shelf name="own-to-read" count="6"/>
+      <shelf name="european" count="6"/>
+      <shelf name="favorite" count="6"/>
+      <shelf name="favoritos" count="6"/>
+      <shelf name="nobel-laureate" count="6"/>
+      <shelf name="portuguese-authors" count="6"/>
+      <shelf name="in-portuguese" count="6"/>
+      <shelf name="general-fiction" count="6"/>
+      <shelf name="in-my-library" count="6"/>
+      <shelf name="unread" count="6"/>
+      <shelf name="modern-fiction" count="6"/>
+      <shelf name="portugues" count="6"/>
+      <shelf name="جوزيه-ساراماغو" count="5"/>
+      <shelf name="في-مكتبتي" count="5"/>
+      <shelf name="read-in-2013" count="5"/>
+      <shelf name="nobel-prize-winner" count="5"/>
+      <shelf name="tbr" count="5"/>
+      <shelf name="portogallo" count="5"/>
+      <shelf name="nobel-prize-winners" count="5"/>
+      <shelf name="to-read-own" count="5"/>
+      <shelf name="2000s" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="utopia-dystopia" count="5"/>
+      <shelf name="personal-library" count="5"/>
+      <shelf name="português" count="5"/>
+      <shelf name="21st-century" count="5"/>
+      <shelf name="want" count="5"/>
+      <shelf name="to-find" count="5"/>
+      <shelf name="paused" count="5"/>
+      <shelf name="do-not-own" count="5"/>
+      <shelf name="on-hold" count="5"/>
+      <shelf name="paper" count="5"/>
+      <shelf name="español" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>471726</id>
+<user_position>2</user_position>
+<series>
+<id>97595</id>
+<title>
+<![CDATA[
+    Blindness
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>2595115</id>
+<title><![CDATA[The Implacable Order of Things]]></title>
+<title_without_series><![CDATA[The Implacable Order of Things]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2595115-the-implacable-order-of-things]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320464789s/2595115.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320464789m/2595115.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2616834</id>
+</work>
+<isbn>0385524463</isbn>
+<isbn13>9780385524469</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>889</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>560072</id>
+<name>José Luís Peixoto</name>
+<link><![CDATA[https://www.goodreads.com/author/show/560072.Jos_Lu_s_Peixoto]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>731473</id>
+<title>A Confissão de Lúcio</title>
+<title_without_series>A Confissão de Lúcio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/731473.A_Confiss_o_de_L_cio]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1501936995s/731473.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1501936995m/731473.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2233397</id>
+</work>
+<isbn>8500821450</isbn>
+<isbn13>9788500821455</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>793</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3224243</id>
+<name>Mário de Sá-Carneiro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3224243.M_rio_de_S_Carneiro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9632051</id>
+<title><![CDATA[Learning to Pray in the Age of Technique (Portuguese Literature Series)]]></title>
+<title_without_series><![CDATA[Learning to Pray in the Age of Technique]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9632051-learning-to-pray-in-the-age-of-technique]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1314426846s/9632051.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1314426846m/9632051.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>4463844</id>
+</work>
+<isbn>1564786277</isbn>
+<isbn13>9781564786272</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>590</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1140017</id>
+<name>Gonçalo M. Tavares</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1140017.Gon_alo_M_Tavares]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1331638</id>
+<title>The Relic</title>
+<title_without_series>The Relic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1331638.The_Relic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1443632253s/1331638.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1443632253m/1331638.jpg]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>2703977</id>
+</work>
+<isbn>0946626944</isbn>
+<isbn13>9780946626946</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1757</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6913270</id>
+<name>José Maria de Eça de Queirós</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6913270.Jos_Maria_de_E_a_de_Queir_s]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>303482</id>
+<title>A Morgadinha dos Canaviais</title>
+<title_without_series>A Morgadinha dos Canaviais</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/303482.A_Morgadinha_dos_Canaviais]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395739267s/303482.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395739267m/303482.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>294526</id>
+</work>
+<isbn>9720042036</isbn>
+<isbn13>9789720042033</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>779</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1019403</id>
+<name>Júlio Dinis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1019403.J_lio_Dinis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6510185</id>
+<title>Sinais de Fogo</title>
+<title_without_series>Sinais de Fogo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6510185-sinais-de-fogo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1433982563s/6510185.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1433982563m/6510185.jpg]]></image_url>
+<num_pages>543</num_pages>
+<work>
+<id>1821823</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>318</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>211003</id>
+<name>Jorge de Sena</name>
+<link><![CDATA[https://www.goodreads.com/author/show/211003.Jorge_de_Sena]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1487623</id>
+<title>Os Cus de Judas</title>
+<title_without_series>Os Cus de Judas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1487623.Os_Cus_de_Judas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1257184946s/1487623.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1257184946m/1487623.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>1478833</id>
+</work>
+<isbn>972202759X</isbn>
+<isbn13>9789722027595</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1273</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>40485</id>
+<name>António Lobo Antunes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40485.Ant_nio_Lobo_Antunes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6384013</id>
+<title>Só</title>
+<title_without_series>Só</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6384013-s]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>6571383</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>249</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2892639</id>
+<name>António Nobre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2892639.Ant_nio_Nobre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3401591</id>
+<title>A Queda dum Anjo</title>
+<title_without_series>A Queda dum Anjo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3401591-a-queda-dum-anjo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>3441690</id>
+</work>
+<isbn>9720042133</isbn>
+<isbn13>9789720042132</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>1172</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>12</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>465498</id>
+<name>Camilo Castelo Branco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/465498.Camilo_Castelo_Branco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15723359</id>
+<title>Jesus Cristo Bebia Cerveja</title>
+<title_without_series>Jesus Cristo Bebia Cerveja</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15723359-jesus-cristo-bebia-cerveja]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1342741284s/15723359.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1342741284m/15723359.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>21398178</id>
+</work>
+<isbn>9896721335</isbn>
+<isbn13>9789896721336</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>815</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3372583</id>
+<name>Afonso Cruz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3372583.Afonso_Cruz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7776251</id>
+<title>A Máquina de Fazer Espanhóis</title>
+<title_without_series>A Máquina de Fazer Espanhóis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7776251-a-m-quina-de-fazer-espanh-is]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1266943754s/7776251.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1266943754m/7776251.jpg]]></image_url>
+<num_pages>287</num_pages>
+<work>
+<id>10684340</id>
+</work>
+<isbn></isbn>
+<isbn13>9789896720254</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1685</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2326716</id>
+<name>Valter Hugo Mãe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2326716.Valter_Hugo_M_e]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9531952</id>
+<title>O Anjo Branco</title>
+<title_without_series>O Anjo Branco</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9531952-o-anjo-branco]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1434148447s/9531952.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1434148447m/9531952.jpg]]></image_url>
+<num_pages>678</num_pages>
+<work>
+<id>14418076</id>
+</work>
+<isbn></isbn>
+<isbn13>9789896163907</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1153</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>562271</id>
+<name>José Rodrigues dos Santos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/562271.Jos_Rodrigues_dos_Santos]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

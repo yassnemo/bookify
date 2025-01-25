@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>77727</id>
+  <title>Calvin and Hobbes</title>
+  <isbn><![CDATA[0836220889]]></isbn>
+  <isbn13><![CDATA[9780836220889]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1987</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This is the first collection of the popular comic strip that features Calvin, a rambunctious 6-year-old boy, and his stuffed tiger, Hobbes, who comes charmingly to life.]]></description>
+  <work>
+  <id type="integer">2110010</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">77727</best_book_id>
+  <reviews_count type="integer">149601</reviews_count>
+  <ratings_sum type="integer">545906</ratings_sum>
+  <ratings_count type="integer">118380</ratings_count>
+  <text_reviews_count type="integer">684</text_reviews_count>
+  <original_publication_year type="integer">1987</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Calvin and Hobbes</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:85891|4:22380|3:7693|2:1436|1:980|total:118380</rating_dist>
+  <desc_user_id type="integer">7862849</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.61</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[117874]]></ratings_count>
+  <text_reviews_count><![CDATA[642]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/77727.Calvin_and_Hobbes]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/77727.Calvin_and_Hobbes]]></link>
+  <authors>
+<author>
+<id>13778</id>
+<name>Bill Watterson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1374016829p5/13778.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1374016829p2/13778.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13778.Bill_Watterson]]></link>
+<average_rating>4.67</average_rating>
+<ratings_count>501732</ratings_count>
+<text_reviews_count>5925</text_reviews_count>
+</author>
+<author>
+<id>853363</id>
+<name>G.B. Trudeau</name>
+<role>Foreword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1213821187p5/853363.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1213821187p2/853363.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/853363.G_B_Trudeau]]></link>
+<average_rating>4.57</average_rating>
+<ratings_count>128021</ratings_count>
+<text_reviews_count>1298</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/77727.Calvin_and_Hobbes">Calvin and Hobbes Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0836220889&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/77727.Calvin_and_Hobbes?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="29011"/>
+      <shelf name="comics" count="1176"/>
+      <shelf name="favorites" count="740"/>
+      <shelf name="humor" count="574"/>
+      <shelf name="graphic-novels" count="273"/>
+      <shelf name="currently-reading" count="264"/>
+      <shelf name="fiction" count="234"/>
+      <shelf name="comic" count="152"/>
+      <shelf name="owned" count="129"/>
+      <shelf name="graphic-novel" count="127"/>
+      <shelf name="humour" count="125"/>
+      <shelf name="childrens" count="109"/>
+      <shelf name="comedy" count="100"/>
+      <shelf name="childhood" count="88"/>
+      <shelf name="children" count="86"/>
+      <shelf name="funny" count="81"/>
+      <shelf name="comics-graphic-novels" count="78"/>
+      <shelf name="comic-books" count="77"/>
+      <shelf name="books-i-own" count="75"/>
+      <shelf name="children-s" count="73"/>
+      <shelf name="classics" count="73"/>
+      <shelf name="comic-strips" count="60"/>
+      <shelf name="children-s-books" count="59"/>
+      <shelf name="favourites" count="57"/>
+      <shelf name="calvin-and-hobbes" count="55"/>
+      <shelf name="graphic-novels-comics" count="53"/>
+      <shelf name="graphic" count="48"/>
+      <shelf name="cartoons" count="48"/>
+      <shelf name="kids" count="45"/>
+      <shelf name="default" count="42"/>
+      <shelf name="comics-and-graphic-novels" count="41"/>
+      <shelf name="young-adult" count="37"/>
+      <shelf name="owned-books" count="34"/>
+      <shelf name="childhood-favorites" count="32"/>
+      <shelf name="bd" count="29"/>
+      <shelf name="graphic-novels-and-comics" count="28"/>
+      <shelf name="comic-strip" count="28"/>
+      <shelf name="childrens-books" count="28"/>
+      <shelf name="comic-book" count="27"/>
+      <shelf name="kids-books" count="25"/>
+      <shelf name="series" count="24"/>
+      <shelf name="calvin-hobbes" count="23"/>
+      <shelf name="other" count="23"/>
+      <shelf name="cartoon" count="22"/>
+      <shelf name="fun" count="22"/>
+      <shelf name="fantasy" count="21"/>
+      <shelf name="comics-manga" count="20"/>
+      <shelf name="all-time-favorites" count="20"/>
+      <shelf name="classic" count="20"/>
+      <shelf name="art" count="19"/>
+      <shelf name="philosophy" count="19"/>
+      <shelf name="comix" count="19"/>
+      <shelf name="childhood-books" count="18"/>
+      <shelf name="bill-watterson" count="17"/>
+      <shelf name="illustrated" count="17"/>
+      <shelf name="my-library" count="17"/>
+      <shelf name="picture-books" count="17"/>
+      <shelf name="ya" count="16"/>
+      <shelf name="library" count="16"/>
+      <shelf name="american" count="16"/>
+      <shelf name="childhood-reads" count="15"/>
+      <shelf name="my-childhood" count="15"/>
+      <shelf name="to-buy" count="15"/>
+      <shelf name="shelfari-favorites" count="14"/>
+      <shelf name="sequential-art" count="14"/>
+      <shelf name="re-read" count="14"/>
+      <shelf name="comic-graphic-novel" count="14"/>
+      <shelf name="5-stars" count="14"/>
+      <shelf name="manga-comics" count="13"/>
+      <shelf name="adventure" count="13"/>
+      <shelf name="animals" count="12"/>
+      <shelf name="collection" count="12"/>
+      <shelf name="faves" count="11"/>
+      <shelf name="20th-century" count="11"/>
+      <shelf name="paperback" count="11"/>
+      <shelf name="banda-desenhada" count="11"/>
+      <shelf name="1980s" count="11"/>
+      <shelf name="5-star" count="11"/>
+      <shelf name="read-as-a-kid" count="11"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="graphic-novel-comic" count="11"/>
+      <shelf name="books" count="10"/>
+      <shelf name="quadrinhos" count="10"/>
+      <shelf name="graphic-novels-manga" count="10"/>
+      <shelf name="favorite" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="finished" count="10"/>
+      <shelf name="youth" count="10"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="hq" count="9"/>
+      <shelf name="favorite-books" count="9"/>
+      <shelf name="comics-read" count="9"/>
+      <shelf name="nostalgia" count="9"/>
+      <shelf name="manga" count="9"/>
+      <shelf name="fumetti" count="9"/>
+      <shelf name="juvenile" count="9"/>
+      <shelf name="my-favorites" count="9"/>
+      <shelf name="just-for-fun" count="9"/>
+      <shelf name="reddit-top-200" count="8"/>
+      <shelf name="read-more-than-once" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>242064</id>
+<user_position>1</user_position>
+<series>
+<id>58116</id>
+<title>
+<![CDATA[
+    Calvin and Hobbes
+]]>
+</title>
+<description>
+<![CDATA[
+    All original published works in the Calvin and Hobbes series
+]]>
+</description>
+<note>
+<![CDATA[
+    All other Calvin and Hobbes publication are not in English
+]]>
+</note>
+<series_works_count>20</series_works_count>
+<primary_work_count>11</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>109648</id>
+<title>The Far Side Gallery 2</title>
+<title_without_series>The Far Side Gallery 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109648.The_Far_Side_Gallery_2]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391655417s/109648.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391655417m/109648.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>105670</id>
+</work>
+<isbn>0836220854</isbn>
+<isbn13>9780836220858</isbn13>
+<average_rating>4.47</average_rating>
+<ratings_count>9183</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19928</id>
+<name>Gary Larson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19928.Gary_Larson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>133035</id>
+<title>Bloom County: Loose Tails</title>
+<title_without_series>Bloom County: Loose Tails</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/133035.Bloom_County]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1419550229s/133035.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1419550229m/133035.jpg]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>128157</id>
+</work>
+<isbn>0316107107</isbn>
+<isbn13>9780316107105</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>6477</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>64565</id>
+<name>Berkeley Breathed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64565.Berkeley_Breathed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>354225</id>
+<title>FoxTrot the Works</title>
+<title_without_series>FoxTrot the Works</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/354225.FoxTrot_the_Works]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>344420</id>
+</work>
+<isbn>0836218485</isbn>
+<isbn13>9780836218480</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>3802</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>176645</id>
+<name>Bill Amend</name>
+<link><![CDATA[https://www.goodreads.com/author/show/176645.Bill_Amend]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1111811</id>
+<title><![CDATA[Fugitive from the Cubicle Police]]></title>
+<title_without_series><![CDATA[Fugitive from the Cubicle Police]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1111811.Fugitive_from_the_Cubicle_Police]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1437376882s/1111811.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1437376882m/1111811.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1098787</id>
+</work>
+<isbn>0836221192</isbn>
+<isbn13>9780836221190</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>5735</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5282</id>
+<name>Scott Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5282.Scott_Adams]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>616318</id>
+  <title>Justice, Volume 1</title>
+  <isbn><![CDATA[1401211038]]></isbn>
+  <isbn13><![CDATA[9781401211035]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">169058</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">616318</best_book_id>
+  <reviews_count type="integer">14867</reviews_count>
+  <ratings_sum type="integer">43160</ratings_sum>
+  <ratings_count type="integer">10419</ratings_count>
+  <text_reviews_count type="integer">96</text_reviews_count>
+  <original_publication_year type="integer">2006</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4659|4:3292|3:1883|2:463|1:122|total:10419</rating_dist>
+  <desc_user_id type="integer">104823</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.14</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10238]]></ratings_count>
+  <text_reviews_count><![CDATA[84]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/616318.Justice_Volume_1]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/616318.Justice_Volume_1]]></link>
+  <authors>
+<author>
+<id>57952</id>
+<name>Jim Krueger</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57952.Jim_Krueger]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>31437</ratings_count>
+<text_reviews_count>944</text_reviews_count>
+</author>
+<author>
+<id>13265</id>
+<name>Alex Ross</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1236558796p5/13265.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1236558796p2/13265.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13265.Alex_Ross]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>157461</ratings_count>
+<text_reviews_count>5081</text_reviews_count>
+</author>
+<author>
+<id>61904</id>
+<name>Doug Braithwaite</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61904.Doug_Braithwaite]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>31575</ratings_count>
+<text_reviews_count>1105</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/616318.Justice_Volume_1">Justice, Volume 1 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1401211038&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/616318.Justice_Volume_1?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4398"/>
+      <shelf name="comics" count="243"/>
+      <shelf name="graphic-novels" count="191"/>
+      <shelf name="graphic-novel" count="48"/>
+      <shelf name="dc" count="40"/>
+      <shelf name="comic-books" count="31"/>
+      <shelf name="dc-comics" count="25"/>
+      <shelf name="superheroes" count="25"/>
+      <shelf name="comics-graphic-novels" count="24"/>
+      <shelf name="superhero" count="23"/>
+      <shelf name="favorites" count="19"/>
+      <shelf name="fiction" count="17"/>
+      <shelf name="comic" count="14"/>
+      <shelf name="batman" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="justice-league" count="10"/>
+      <shelf name="comics-and-graphic-novels" count="9"/>
+      <shelf name="superman" count="9"/>
+      <shelf name="currently-reading" count="8"/>
+      <shelf name="graphic-novels-comics" count="8"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="comics-to-read" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="superhero-comics" count="6"/>
+      <shelf name="comics-read" count="6"/>
+      <shelf name="default" count="5"/>
+      <shelf name="comics-dc" count="5"/>
+      <shelf name="graphic-novels-dc" count="4"/>
+      <shelf name="paper" count="4"/>
+      <shelf name="comic-book" count="4"/>
+      <shelf name="graphic-novels-to-read" count="4"/>
+      <shelf name="graphic-novels-read" count="4"/>
+      <shelf name="super-heroes" count="4"/>
+      <shelf name="to-read-comics" count="4"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="science-fiction" count="4"/>
+      <shelf name="comics-manga" count="4"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="to-read-graphic-novels" count="3"/>
+      <shelf name="green-lantern" count="3"/>
+      <shelf name="art" count="3"/>
+      <shelf name="graphicnovels" count="3"/>
+      <shelf name="reviewed" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="graphic-fiction" count="2"/>
+      <shelf name="graphic-novels-comic-books" count="2"/>
+      <shelf name="super-hero" count="2"/>
+      <shelf name="comixology" count="2"/>
+      <shelf name="o" count="2"/>
+      <shelf name="did-e" count="2"/>
+      <shelf name="hqs" count="2"/>
+      <shelf name="graphic-novels-and-comic-books" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="justiceleague" count="2"/>
+      <shelf name="aliens" count="2"/>
+      <shelf name="hq" count="2"/>
+      <shelf name="finished" count="2"/>
+      <shelf name="graphic-novels-and-comics" count="2"/>
+      <shelf name="series" count="2"/>
+      <shelf name="read-in-2011" count="2"/>
+      <shelf name="read-comics" count="2"/>
+      <shelf name="sci-fi" count="2"/>
+      <shelf name="bd" count="2"/>
+      <shelf name="5-star-books" count="2"/>
+      <shelf name="novel" count="2"/>
+      <shelf name="graphic" count="2"/>
+      <shelf name="graphic_novel" count="2"/>
+      <shelf name="completed-series" count="2"/>
+      <shelf name="fantasy" count="2"/>
+      <shelf name="aquaman" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="library-books" count="2"/>
+      <shelf name="to-read-comic" count="1"/>
+      <shelf name="comicsread" count="1"/>
+      <shelf name="y" count="1"/>
+      <shelf name="on" count="1"/>
+      <shelf name="novelas" count="1"/>
+      <shelf name="may" count="1"/>
+      <shelf name="gráficas" count="1"/>
+      <shelf name="21" count="1"/>
+      <shelf name="books-added-in-2012" count="1"/>
+      <shelf name="dc-vertigo" count="1"/>
+      <shelf name="done-reading" count="1"/>
+      <shelf name="manga-to-read" count="1"/>
+      <shelf name="comic-cartoon" count="1"/>
+      <shelf name="i-will-not-read" count="1"/>
+      <shelf name="to-read-a" count="1"/>
+      <shelf name="to-look-over" count="1"/>
+      <shelf name="s13-comics-dc" count="1"/>
+      <shelf name="comic-books-graphic-novels" count="1"/>
+      <shelf name="02-to-read-speculative-fiction" count="1"/>
+      <shelf name="tebeos-superheroes" count="1"/>
+      <shelf name="dc-universe" count="1"/>
+      <shelf name="dc-stuff" count="1"/>
+      <shelf name="comics-superhero-dc" count="1"/>
+      <shelf name="z-read-in-2013-comics" count="1"/>
+      <shelf name="thxgvng12-to-thxgvng13" count="1"/>
+      <shelf name="super-hero-natural-comic" count="1"/>
+      <shelf name="quadrinhos" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>264021</id>
+<user_position>1</user_position>
+<series>
+<id>61489</id>
+<title>
+<![CDATA[
+    Justice
+]]>
+</title>
+<description>
+<![CDATA[
+    Justice was a twelve-issue American comic book limited series published bimonthly by DC Comics from August 2005 through June 2007, written by Alex Ross and Jim Krueger, with art also by Ross and Doug Braithwaite.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>975253</id>
+<user_position></user_position>
+<series>
+<id>52071</id>
+<title>
+<![CDATA[
+    Justice League
+]]>
+</title>
+<description>
+<![CDATA[
+    Also known as:
+    * Justice League of America
+    * JLA
+    
+    Includes:
+    * <a href="http://www.goodreads.com/series/52069-justice-league-of-america-archives">Justice League of America Archives</a>
+    * <a href="http://www.goodreads.com/series/52077-showcase-presents-justice-league-of-america">Showcase Presents: Justice League of America</a>
+    * <a href="http://www.goodreads.com/series/52076-dc-comics-classic-library-justice-league-of-america">DC Comics Classic Library: Justice League of America</a>
+    * JLA Presents
+    * <a href="http://www.goodreads.com/series/52067-jla-i">JLA I</a>
+    * <a href="http://www.goodreads.com/series/52066-jla-the-deluxe-edition">JLA: The Deluxe Edition</a>
+    * <a href="http://www.goodreads.com/series/52065-jla-classified">JLA Classified</a>
+    * <a href="http://www.goodreads.com/series/52068-justice-league-of-america-ii">Justice League of America II</a>
+    
+    Related series:
+    * <a href="http://www.goodreads.com/series/52072-justice-league-international">Justice League International</a>
+    * <a href="http://www.goodreads.com/series/52073-justice-league-elite">Justice League Elite</a>
+    * Greated Stories Ever Told
+    * <a href="http://www.goodreads.com/series/62566-colecci-n-liga-de-la-justicia-am-rica-justice-league-america-de-zinco">Liga de la Justicia América</a>
+    
+    See also the DCAU Justice League series:
+    * <a href="http://www.goodreads.com/series/52074-justice-league">Justice League</a>
+    * <a href="http://www.goodreads.com/series/50233-justice-league-adventures">Justice League Adventures</a>
+    * <a href="http://www.goodreads.com/series/50234-justice-league-unlimited">Justice League Unlimited</a>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>123</series_works_count>
+<primary_work_count>123</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>2218363</id>
+<title><![CDATA[Justice Society of America, Vol. 2: Thy Kingdom Come, Vol. 1]]></title>
+<title_without_series><![CDATA[Justice Society of America, Vol. 2: Thy Kingdom Come, Vol. 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2218363.Justice_Society_of_America_Vol_2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>2224155</id>
+</work>
+<isbn>1401216900</isbn>
+<isbn13>9781401216900</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>1715</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>10305</id>
+<name>Geoff Johns</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10305.Geoff_Johns]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22364</id>
+<title>JLA: Earth 2</title>
+<title_without_series>JLA: Earth 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22364.JLA]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349406501s/22364.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349406501m/22364.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>23406</id>
+</work>
+<isbn>1563896311</isbn>
+<isbn13>9781563896316</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>4784</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12732</id>
+<name>Grant Morrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12732.Grant_Morrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107150</id>
+<title>Batman: War on Crime</title>
+<title_without_series>Batman: War on Crime</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107150.Batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1396349042s/107150.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1396349042m/107150.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>103281</id>
+</work>
+<isbn>1563895765</isbn>
+<isbn13>9781563895760</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3006</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>61935</id>
+<name>Paul Dini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61935.Paul_Dini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>194479</id>
+<title>Crisis on Infinite Earths</title>
+<title_without_series>Crisis on Infinite Earths</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/194479.Crisis_on_Infinite_Earths]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327906696s/194479.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327906696m/194479.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>188088</id>
+</work>
+<isbn>1563897504</isbn>
+<isbn13>9781563897504</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>13355</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10178</id>
+<name>Marv Wolfman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10178.Marv_Wolfman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>57890</id>
+<title><![CDATA[Superman/Batman, Vol. 1: Public Enemies]]></title>
+<title_without_series><![CDATA[Superman/Batman, Vol. 1: Public Enemies]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/57890.Superman_Batman_Vol_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>56396</id>
+</work>
+<isbn>1401202209</isbn>
+<isbn13>9781401202200</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>7441</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32594</id>
+<name>Jeph Loeb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32594.Jeph_Loeb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>221240</id>
+<title><![CDATA[Justice League of America, Vol. 1: The Tornado's Path]]></title>
+<title_without_series><![CDATA[Justice League of America, Vol. 1: The Tornado's Path]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/221240.Justice_League_of_America_Vol_1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327894372s/221240.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327894372m/221240.jpg]]></image_url>
+<num_pages>226</num_pages>
+<work>
+<id>811629</id>
+</work>
+<isbn>1401213499</isbn>
+<isbn13>9781401213497</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1819</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>14610</id>
+<name>Brad Meltzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14610.Brad_Meltzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107172</id>
+<title><![CDATA[DC: The New Frontier, Volume 1]]></title>
+<title_without_series><![CDATA[DC: The New Frontier, Volume 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107172.DC]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>2732008</id>
+</work>
+<isbn>1401203507</isbn>
+<isbn13>9781401203504</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>9634</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>61386</id>
+<name>Darwyn Cooke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61386.Darwyn_Cooke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7345903</id>
+<title><![CDATA[Green Lantern Corps, Volume 6: Blackest Night]]></title>
+<title_without_series><![CDATA[Green Lantern Corps, Volume 6: Blackest Night]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7345903-green-lantern-corps-volume-6]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>9082225</id>
+</work>
+<isbn>1401227880</isbn>
+<isbn13>9781401227883</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>4175</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>171132</id>
+<name>Peter J. Tomasi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/171132.Peter_J_Tomasi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2185510</id>
+<title><![CDATA[Justice League International, Vol. 1]]></title>
+<title_without_series><![CDATA[Justice League International, Vol. 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2185510.Justice_League_International_Vol_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>6325927</id>
+</work>
+<isbn>1401216668</isbn>
+<isbn13>9781401216665</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>4658</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>32598</id>
+<name>Keith Giffen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32598.Keith_Giffen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23524</id>
+<title><![CDATA[Mythology: The DC Comics Art of Alex Ross]]></title>
+<title_without_series><![CDATA[Mythology: The DC Comics Art of Alex Ross]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23524.Mythology]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>592719</id>
+</work>
+<isbn>0375714626</isbn>
+<isbn13>9780375714627</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>2003</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13265</id>
+<name>Alex Ross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13265.Alex_Ross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>60411</id>
+<title>JLA, Vol. 7: Tower of Babel</title>
+<title_without_series>JLA, Vol. 7: Tower of Babel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/60411.JLA_Vol_7]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1343152955s/60411.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1343152955m/60411.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>166458</id>
+</work>
+<isbn>156389727X</isbn>
+<isbn13>9781563897276</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>5256</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5363</id>
+<name>Mark Waid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5363.Mark_Waid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13194</id>
+<title>Green Arrow, Vol. 1: Quiver</title>
+<title_without_series>Green Arrow, Vol. 1: Quiver</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13194.Green_Arrow_Vol_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>1731867</id>
+</work>
+<isbn>1563899655</isbn>
+<isbn13>9781563899652</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5058</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>8236</id>
+<name>Kevin Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8236.Kevin_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107025</id>
+<title><![CDATA[Batman: Under the Hood, Volume 1]]></title>
+<title_without_series><![CDATA[Batman: Under the Hood, Volume 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107025.Batman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>103156</id>
+</work>
+<isbn>1401207561</isbn>
+<isbn13>9781401207564</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>7507</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4822</id>
+<name>Judd Winick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4822.Judd_Winick]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

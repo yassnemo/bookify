@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>774001</id>
+  <title><![CDATA[Amelia Bedelia  (Amelia Bedelia #1)]]></title>
+  <isbn><![CDATA[0064441555]]></isbn>
+  <isbn13><![CDATA[9780064441551]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1353400157m/774001.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1353400157s/774001.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[From dressing the chicken to dusting the furniture, Amelia Bedelia does exactly what Mr. and Mrs. Rogers tell her. ...But somehow things never turn out quite right.]]></description>
+  <work>
+  <id type="integer">888927</id>
+  <books_count type="integer">36</books_count>
+  <best_book_id type="integer">774001</best_book_id>
+  <reviews_count type="integer">92018</reviews_count>
+  <ratings_sum type="integer">302479</ratings_sum>
+  <ratings_count type="integer">72934</ratings_count>
+  <text_reviews_count type="integer">831</text_reviews_count>
+  <original_publication_year type="integer">1963</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Amelia Bedelia</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:34928|4:19647|3:13876|2:3140|1:1343|total:72934</rating_dist>
+  <desc_user_id type="integer">27446385</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.15</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[72378]]></ratings_count>
+  <text_reviews_count><![CDATA[751]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/774001.Amelia_Bedelia]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/774001.Amelia_Bedelia]]></link>
+  <authors>
+<author>
+<id>9002</id>
+<name>Peggy Parish</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421933902p5/9002.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421933902p2/9002.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9002.Peggy_Parish]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>136426</ratings_count>
+<text_reviews_count>2096</text_reviews_count>
+</author>
+<author>
+<id>463004</id>
+<name>Fritz Siebel</name>
+<role>Illustrations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/463004.Fritz_Siebel]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>83973</ratings_count>
+<text_reviews_count>1074</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/774001.Amelia_Bedelia">Amelia Bedelia Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0064441555&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/774001.Amelia_Bedelia?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="13706"/>
+      <shelf name="childrens" count="612"/>
+      <shelf name="children-s-books" count="496"/>
+      <shelf name="children" count="437"/>
+      <shelf name="children-s" count="424"/>
+      <shelf name="picture-books" count="355"/>
+      <shelf name="childhood" count="284"/>
+      <shelf name="kids" count="239"/>
+      <shelf name="childrens-books" count="210"/>
+      <shelf name="fiction" count="206"/>
+      <shelf name="currently-reading" count="171"/>
+      <shelf name="childhood-favorites" count="165"/>
+      <shelf name="favorites" count="147"/>
+      <shelf name="kids-books" count="147"/>
+      <shelf name="humor" count="118"/>
+      <shelf name="childhood-books" count="107"/>
+      <shelf name="classics" count="87"/>
+      <shelf name="children-s-lit" count="77"/>
+      <shelf name="picture-book" count="69"/>
+      <shelf name="children-s-literature" count="65"/>
+      <shelf name="children-books" count="52"/>
+      <shelf name="childhood-reads" count="43"/>
+      <shelf name="childrens-lit" count="41"/>
+      <shelf name="series" count="40"/>
+      <shelf name="amelia-bedelia" count="39"/>
+      <shelf name="juvenile" count="35"/>
+      <shelf name="early-readers" count="34"/>
+      <shelf name="kid-books" count="34"/>
+      <shelf name="funny" count="32"/>
+      <shelf name="easy-reader" count="32"/>
+      <shelf name="easy-readers" count="31"/>
+      <shelf name="classic" count="29"/>
+      <shelf name="books-i-own" count="29"/>
+      <shelf name="beginning-readers" count="29"/>
+      <shelf name="my-childhood" count="27"/>
+      <shelf name="elementary-school" count="27"/>
+      <shelf name="childhood-memories" count="27"/>
+      <shelf name="owned" count="26"/>
+      <shelf name="books-from-my-childhood" count="26"/>
+      <shelf name="children-s-picture-books" count="26"/>
+      <shelf name="default" count="25"/>
+      <shelf name="read-as-a-child" count="25"/>
+      <shelf name="youth" count="25"/>
+      <shelf name="favorite-children-s-books" count="25"/>
+      <shelf name="realistic-fiction" count="24"/>
+      <shelf name="children-s-fiction" count="24"/>
+      <shelf name="elementary" count="23"/>
+      <shelf name="04-realistic-fiction" count="22"/>
+      <shelf name="nostalgia" count="22"/>
+      <shelf name="kid-s-books" count="21"/>
+      <shelf name="children-s-book" count="21"/>
+      <shelf name="kid-lit" count="20"/>
+      <shelf name="early-reader" count="20"/>
+      <shelf name="juvenile-fiction" count="20"/>
+      <shelf name="comedy" count="19"/>
+      <shelf name="childhood-faves" count="19"/>
+      <shelf name="books-i-read-as-a-kid" count="19"/>
+      <shelf name="read-as-a-kid" count="19"/>
+      <shelf name="library" count="18"/>
+      <shelf name="school" count="17"/>
+      <shelf name="1st-grade" count="17"/>
+      <shelf name="young-adult" count="16"/>
+      <shelf name="owned-books" count="16"/>
+      <shelf name="childhood-favs" count="16"/>
+      <shelf name="for-kids" count="16"/>
+      <shelf name="chapter-books" count="16"/>
+      <shelf name="readers" count="14"/>
+      <shelf name="childrens-literature" count="14"/>
+      <shelf name="childrens-picture-books" count="14"/>
+      <shelf name="kids-read" count="13"/>
+      <shelf name="beginning-reader" count="13"/>
+      <shelf name="picture" count="13"/>
+      <shelf name="2nd-grade" count="13"/>
+      <shelf name="edrd-314" count="12"/>
+      <shelf name="young-readers" count="12"/>
+      <shelf name="from-childhood" count="12"/>
+      <shelf name="from-my-childhood" count="12"/>
+      <shelf name="kiddos" count="12"/>
+      <shelf name="children-s-books-read" count="12"/>
+      <shelf name="books-i-read-as-a-child" count="12"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="favorite-childrens-books" count="11"/>
+      <shelf name="easy-to-read" count="11"/>
+      <shelf name="childhood-classics" count="11"/>
+      <shelf name="books-from-childhood" count="11"/>
+      <shelf name="children-young-adult" count="11"/>
+      <shelf name="march" count="10"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="baby-books" count="10"/>
+      <shelf name="childrens-fiction" count="10"/>
+      <shelf name="humorous" count="10"/>
+      <shelf name="books-i-loved-as-a-kid" count="10"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="top-picks-of-the-week" count="9"/>
+      <shelf name="classroom-books" count="9"/>
+      <shelf name="classroom" count="9"/>
+      <shelf name="read-children-s-books" count="9"/>
+      <shelf name="read-more-than-once" count="9"/>
+      <shelf name="transitional-chapter-books" count="9"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>486608</id>
+<user_position>1</user_position>
+<series>
+<id>100422</id>
+<title>
+<![CDATA[
+    Amelia Bedelia
+]]>
+</title>
+<description>
+<![CDATA[
+    Original Peggy Parish series begun 1963 is continued in 1988 by her nephew Herman Parish. 
+    
+    Chronological order:
+    <a href="http://en.wikipedia.org/wiki/Peggy_Parish">Peggy Parish</a>
+    <a href="http://en.wikipedia.org/wiki/Herman_Parish">Herman Parish</a>
+]]>
+</description>
+<note>
+<![CDATA[
+    "I can Read!" is a special set, not the main series started in 1963.
+]]>
+</note>
+<series_works_count>21</series_works_count>
+<primary_work_count>20</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>859385</id>
+<user_position></user_position>
+<series>
+<id>169756</id>
+<title>
+<![CDATA[
+    I Can Read! 2
+]]>
+</title>
+<description>
+<![CDATA[
+    This is just one of the levels of the I Can Read series. The complete list of levels in the I Can Read series is My Very First, My First, Level 1 Beginning Reading, Level 2 Reading with Help, Level 3 Reading Alone, and Level 4 Advanced Reading.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>45</series_works_count>
+<primary_work_count>45</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>543528</id>
+<title>Amelia Bedelia, Bookworm</title>
+<title_without_series>Amelia Bedelia, Bookworm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/543528.Amelia_Bedelia_Bookworm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>505951</id>
+</work>
+<isbn>0060518928</isbn>
+<isbn13>9780060518929</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>1110</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>9004</id>
+<name>Herman Parish</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9004.Herman_Parish]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>961949</id>
+<title>Nate the Great</title>
+<title_without_series>Nate the Great</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/961949.Nate_the_Great]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320442854s/961949.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320442854m/961949.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>3198978</id>
+</work>
+<isbn>044046126X</isbn>
+<isbn13>9780440461265</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>11035</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>4</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2394</id>
+<name>Marjorie Weinman Sharmat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2394.Marjorie_Weinman_Sharmat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>263601</id>
+<title><![CDATA[The Berenstain Bears and Too Much Junk Food]]></title>
+<title_without_series><![CDATA[The Berenstain Bears and Too Much Junk Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/263601.The_Berenstain_Bears_and_Too_Much_Junk_Food]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1017226</id>
+</work>
+<isbn>0394872177</isbn>
+<isbn13>9780394872179</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>9649</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>410009</id>
+<title>Owl at Home</title>
+<title_without_series>Owl at Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/410009.Owl_at_Home]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384258953s/410009.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384258953m/410009.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1975418</id>
+</work>
+<isbn>0064440346</isbn>
+<isbn13>9780064440349</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>5296</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>849797</id>
+<title>Morris Goes to School</title>
+<title_without_series>Morris Goes to School</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/849797.Morris_Goes_to_School]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384258862s/849797.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384258862m/849797.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>835309</id>
+</work>
+<isbn>0064440451</isbn>
+<isbn13>9780064440455</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>3029</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>108689</id>
+<name>Bernard Wiseman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/108689.Bernard_Wiseman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>722864</id>
+<title><![CDATA[Inside the Human Body (The Magic School Bus, #3)]]></title>
+<title_without_series>Inside the Human Body</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/722864.Inside_the_Human_Body]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>709098</id>
+</work>
+<isbn>0590414275</isbn>
+<isbn13>9780590414272</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>30945</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>22504</id>
+<name>Joanna Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22504.Joanna_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>386421</id>
+<title>I Was So Mad</title>
+<title_without_series>I Was So Mad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386421.I_Was_So_Mad]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>558538</id>
+</work>
+<isbn>0307119394</isbn>
+<isbn13>9780307119391</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>15501</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>78039</id>
+<title>Ramona the Pest (Ramona, #2)</title>
+<title_without_series>Ramona the Pest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/78039.Ramona_the_Pest]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408926719s/78039.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408926719m/78039.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>1284999</id>
+</work>
+<isbn>0192750976</isbn>
+<isbn13>9780192750976</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>54655</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>403</id>
+<name>Beverly Cleary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403.Beverly_Cleary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1344933</id>
+<title>Greg&apos;s Microscope</title>
+<title_without_series>Greg&apos;s Microscope</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1344933.Greg_s_Microscope]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380493310s/1344933.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380493310m/1344933.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1334538</id>
+</work>
+<isbn>006444144X</isbn>
+<isbn13>9780064441445</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>651</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7708873</id>
+<name>Millicent E. Selsam</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7708873.Millicent_E_Selsam]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>201146</id>
+<title>Little Bear</title>
+<title_without_series>Little Bear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/201146.Little_Bear]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1318518124s/201146.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1318518124m/201146.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>506009</id>
+</work>
+<isbn>0590319671</isbn>
+<isbn13>9780590319676</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>47569</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8722</id>
+<name>Else Holmelund Minarik</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8722.Else_Holmelund_Minarik]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>820863</id>
+<title><![CDATA[Henry and Mudge - The First Book (Henry and Mudge, #1)]]></title>
+<title_without_series><![CDATA[Henry and Mudge - The First Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/820863.Henry_and_Mudge_The_First_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1589622</id>
+</work>
+<isbn>0689810059</isbn>
+<isbn13>9780689810053</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>5152</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5411</id>
+<name>Cynthia Rylant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5411.Cynthia_Rylant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>858037</id>
+<title><![CDATA[Danny and the Dinosaur (An I Can Read Book)]]></title>
+<title_without_series>Danny and the Dinosaur</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/858037.Danny_and_the_Dinosaur]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1406512465s/858037.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1406512465m/858037.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>843487</id>
+</work>
+<isbn>0064440028</isbn>
+<isbn13>9780064440028</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>25388</ratings_count>
+<publication_year>1978</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18959</id>
+<name>Syd Hoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18959.Syd_Hoff]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

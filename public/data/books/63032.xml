@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>63032</id>
+  <title>2666</title>
+  <isbn><![CDATA[843396867X]]></isbn>
+  <isbn13><![CDATA[9788433968678]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01JH3G0OK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1412644327m/63032.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1412644327s/63032.jpg</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Anagrama</publisher>
+  <language_code>spa</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A cuatro profesores de literatura, Pelletier, Morini, Espinoza y Norton, los une su fascinación por la obra de Beno von Archimboldi, un enigmático escritor alemán cuyo prestigio crece en todo el mundo. La complicidad se vuelve vodevil intelectual y desemboca en un peregrinaje a Santa Teresa (trasunto de Ciudad Juárez), donde hay quien dice que Archimboldi ha sido visto. Ya allí, Pelletier y Espinoza se enteran de que la ciudad es desde años atrás escenario de una larga cadena de crímenes: en los vertederos aparecen cadáveres de mujeres con señales de haber sido violadas y torturadas. Es el primer asomo de la novela a sus procelosos caudales, repletos de personajes memorables cuyas historias, a caballo entre la risa y el horror, abarcan dos continentes e incluyen un vertiginoso travelling por la historia europea del siglo XX. 2666 confirma el veredicto de Susan Sontag: "el más influyente y admirado novelista en lengua española de su generación. Su muerte, a los cincuenta años, es una gran pérdida para la literatura".]]></description>
+  <work>
+  <id type="integer">3294830</id>
+  <books_count type="integer">85</books_count>
+  <best_book_id type="integer">63032</best_book_id>
+  <reviews_count type="integer">63665</reviews_count>
+  <ratings_sum type="integer">93937</ratings_sum>
+  <ratings_count type="integer">22351</ratings_count>
+  <text_reviews_count type="integer">2935</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>2666</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11437|4:6402|3:2742|2:1148|1:622|total:22351</rating_dist>
+  <desc_user_id type="integer">15822735</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[1126]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[15018]]></ratings_count>
+  <text_reviews_count><![CDATA[1357]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/63032.2666]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/63032.2666]]></link>
+  <authors>
+<author>
+<id>72039</id>
+<name>Roberto Bolaño</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1464727787p5/72039.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1464727787p2/72039.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/72039.Roberto_Bola_o]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>97499</ratings_count>
+<text_reviews_count>10792</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/63032.2666">2666 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=843396867X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/63032.2666?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="34626"/>
+      <shelf name="currently-reading" count="3171"/>
+      <shelf name="fiction" count="1039"/>
+      <shelf name="favorites" count="658"/>
+      <shelf name="owned" count="157"/>
+      <shelf name="literature" count="151"/>
+      <shelf name="latin-america" count="128"/>
+      <shelf name="novels" count="119"/>
+      <shelf name="1001-books" count="91"/>
+      <shelf name="spanish" count="90"/>
+      <shelf name="abandoned" count="89"/>
+      <shelf name="latin-american" count="84"/>
+      <shelf name="books-i-own" count="82"/>
+      <shelf name="to-buy" count="78"/>
+      <shelf name="mystery" count="77"/>
+      <shelf name="literary-fiction" count="74"/>
+      <shelf name="chile" count="73"/>
+      <shelf name="contemporary" count="69"/>
+      <shelf name="novel" count="65"/>
+      <shelf name="1001" count="65"/>
+      <shelf name="library" count="64"/>
+      <shelf name="crime" count="52"/>
+      <shelf name="unfinished" count="51"/>
+      <shelf name="translated" count="47"/>
+      <shelf name="contemporary-fiction" count="45"/>
+      <shelf name="translation" count="45"/>
+      <shelf name="wish-list" count="44"/>
+      <shelf name="mexico" count="43"/>
+      <shelf name="latin-american-literature" count="41"/>
+      <shelf name="favourites" count="41"/>
+      <shelf name="default" count="40"/>
+      <shelf name="classics" count="39"/>
+      <shelf name="owned-books" count="38"/>
+      <shelf name="21st-century" count="35"/>
+      <shelf name="chilean" count="34"/>
+      <shelf name="to-read-fiction" count="33"/>
+      <shelf name="1001-books-to-read-before-you-die" count="33"/>
+      <shelf name="latin-american-lit" count="32"/>
+      <shelf name="español" count="30"/>
+      <shelf name="ebook" count="30"/>
+      <shelf name="literary" count="28"/>
+      <shelf name="didn-t-finish" count="28"/>
+      <shelf name="2000s" count="28"/>
+      <shelf name="kindle" count="27"/>
+      <shelf name="on-hold" count="25"/>
+      <shelf name="postmodern" count="25"/>
+      <shelf name="1001-books-to-read" count="25"/>
+      <shelf name="general-fiction" count="24"/>
+      <shelf name="did-not-finish" count="24"/>
+      <shelf name="south-american" count="23"/>
+      <shelf name="spanish-literature" count="23"/>
+      <shelf name="fiction-to-read" count="23"/>
+      <shelf name="south-america" count="23"/>
+      <shelf name="book-club" count="22"/>
+      <shelf name="1001-import" count="22"/>
+      <shelf name="novela" count="21"/>
+      <shelf name="gave-up-on" count="21"/>
+      <shelf name="my-library" count="20"/>
+      <shelf name="audiobook" count="20"/>
+      <shelf name="audiobooks" count="20"/>
+      <shelf name="never-finished" count="19"/>
+      <shelf name="in-translation" count="18"/>
+      <shelf name="own-it" count="17"/>
+      <shelf name="read-in-2009" count="16"/>
+      <shelf name="1001-to-read" count="16"/>
+      <shelf name="audio" count="16"/>
+      <shelf name="adult-fiction" count="16"/>
+      <shelf name="100-essential-novels" count="15"/>
+      <shelf name="latin" count="15"/>
+      <shelf name="translations" count="15"/>
+      <shelf name="lit" count="14"/>
+      <shelf name="chilean-literature" count="14"/>
+      <shelf name="1001-books-you-must-read-before-you" count="14"/>
+      <shelf name="bolano" count="14"/>
+      <shelf name="modern-fiction" count="14"/>
+      <shelf name="world-lit" count="13"/>
+      <shelf name="gave-up" count="13"/>
+      <shelf name="my-books" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="classic" count="13"/>
+      <shelf name="maybe" count="13"/>
+      <shelf name="epic" count="13"/>
+      <shelf name="literatura" count="12"/>
+      <shelf name="recommended" count="12"/>
+      <shelf name="roberto-bolano" count="11"/>
+      <shelf name="bolaño" count="11"/>
+      <shelf name="favorite-books" count="11"/>
+      <shelf name="didnt-finish" count="11"/>
+      <shelf name="books" count="11"/>
+      <shelf name="favoritos" count="11"/>
+      <shelf name="have" count="11"/>
+      <shelf name="latinoamerica" count="11"/>
+      <shelf name="narrativa" count="11"/>
+      <shelf name="historical-fiction" count="11"/>
+      <shelf name="want-to-read" count="11"/>
+      <shelf name="shelfari-wishlist" count="10"/>
+      <shelf name="horror" count="10"/>
+      <shelf name="fiction-literature" count="10"/>
+      <shelf name="must-read" count="10"/>
+      <shelf name="ebooks" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>721085</id>
+<user_position></user_position>
+<series>
+<id>143633</id>
+<title>
+<![CDATA[
+    2666
+]]>
+</title>
+<description>
+<![CDATA[
+    The book consists of 5 parts: The part About the Critics, the Part About Alamfitano, The Part About Fate, The Part About the Crimes, and The Part About Archimboldi.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>3392293</id>
+<title>Ghosts</title>
+<title_without_series>Ghosts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3392293-ghosts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>139</num_pages>
+<work>
+<id>3432165</id>
+</work>
+<isbn>0811217426</isbn>
+<isbn13>9780811217422</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>1305</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>88379</id>
+<name>César Aira</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88379.C_sar_Aira]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6415928</id>
+<title><![CDATA[Poison, Shadow, and Farewell (Your Face Tomorrow, #3)]]></title>
+<title_without_series>Poison, Shadow, and Farewell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6415928-poison-shadow-and-farewell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>546</num_pages>
+<work>
+<id>2169339</id>
+</work>
+<isbn>0811218120</isbn>
+<isbn13>9780811218122</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>794</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>71956</id>
+<name>Javier Marías</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71956.Javier_Mar_as]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2635557</id>
+<title>Senselessness</title>
+<title_without_series>Senselessness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2635557-senselessness]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1406349559s/2635557.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1406349559m/2635557.jpg]]></image_url>
+<num_pages>142</num_pages>
+<work>
+<id>2660267</id>
+</work>
+<isbn>0811217078</isbn>
+<isbn13>9780811217071</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1177</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>609209</id>
+<name>Horacio Castellanos Moya</name>
+<link><![CDATA[https://www.goodreads.com/author/show/609209.Horacio_Castellanos_Moya]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>382975</id>
+<title>The Obscene Bird of Night</title>
+<title_without_series>The Obscene Bird of Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/382975.The_Obscene_Bird_of_Night]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>438</num_pages>
+<work>
+<id>372745</id>
+</work>
+<isbn>1567920462</isbn>
+<isbn13>9781567920468</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1548</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>37871</id>
+<name>José Donoso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37871.Jos_Donoso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58832</id>
+<title>Bartleby &amp; Co.</title>
+<title_without_series>Bartleby &amp; Co.</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58832.Bartleby_Co_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>178</num_pages>
+<work>
+<id>1673860</id>
+</work>
+<isbn>0811216985</isbn>
+<isbn13>9780811216982</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>2451</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>25591</id>
+<name>Enrique Vila-Matas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25591.Enrique_Vila_Matas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6554891</id>
+<title><![CDATA[The Museum of Eterna's Novel (The First Good Novel)]]></title>
+<title_without_series>The Museum of Eterna&apos;s Novel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6554891-the-museum-of-eterna-s-novel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392868840s/6554891.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392868840m/6554891.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>3236796</id>
+</work>
+<isbn>1934824062</isbn>
+<isbn13>9781934824061</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>298</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>321535</id>
+<name>Macedonio Fernández</name>
+<link><![CDATA[https://www.goodreads.com/author/show/321535.Macedonio_Fern_ndez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28434</id>
+<title>JR</title>
+<title_without_series>JR</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28434.JR]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1269794339s/28434.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1269794339m/28434.jpg]]></image_url>
+<num_pages>752</num_pages>
+<work>
+<id>1994351</id>
+</work>
+<isbn>0140187073</isbn>
+<isbn13>9780140187076</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2192</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>15991</id>
+<name>William Gaddis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15991.William_Gaddis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59415</id>
+<title>Terra Nostra</title>
+<title_without_series>Terra Nostra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59415.Terra_Nostra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>785</num_pages>
+<work>
+<id>1451924</id>
+</work>
+<isbn>1564782875</isbn>
+<isbn13>9781564782878</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>786</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1367127</id>
+<name>Carlos Fuentes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1367127.Carlos_Fuentes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>460006</id>
+<title>Paradiso</title>
+<title_without_series>Paradiso</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/460006.Paradiso]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1463852136s/460006.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1463852136m/460006.jpg]]></image_url>
+<num_pages>466</num_pages>
+<work>
+<id>448478</id>
+</work>
+<isbn>156478228X</isbn>
+<isbn13>9781564782281</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>493</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>119762</id>
+<name>José Lezama Lima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/119762.Jos_Lezama_Lima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>409</id>
+<title>Against the Day</title>
+<title_without_series>Against the Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/409.Against_the_Day]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1276429450s/409.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1276429450m/409.jpg]]></image_url>
+<num_pages>1085</num_pages>
+<work>
+<id>3016553</id>
+</work>
+<isbn>159420120X</isbn>
+<isbn13>9781594201202</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>5341</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>235</id>
+<name>Thomas Pynchon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/235.Thomas_Pynchon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>311643</id>
+<title>Palinuro de México</title>
+<title_without_series>Palinuro de México</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/311643.Palinuro_de_M_xico]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1339624514s/311643.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1339624514m/311643.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>302569</id>
+</work>
+<isbn>8420421081</isbn>
+<isbn13>9788420421087</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>295</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>179515</id>
+<name>Fernando del Paso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/179515.Fernando_del_Paso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119512</id>
+<title>The Melancholy of Resistance</title>
+<title_without_series>The Melancholy of Resistance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119512.The_Melancholy_of_Resistance]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1487661795s/119512.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1487661795m/119512.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>592233</id>
+</work>
+<isbn>0811215040</isbn>
+<isbn13>9780811215046</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>1643</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>69287</id>
+<name>László Krasznahorkai</name>
+<link><![CDATA[https://www.goodreads.com/author/show/69287.L_szl_Krasznahorkai]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1646</id>
+<title>Respiración artificial</title>
+<title_without_series>Respiración artificial</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1646.Respiraci_n_artificial]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364778522s/1646.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364778522m/1646.jpg]]></image_url>
+<num_pages>218</num_pages>
+<work>
+<id>5772</id>
+</work>
+<isbn>8433924710</isbn>
+<isbn13>9788433924711</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1133</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1072</id>
+<name>Ricardo Piglia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1072.Ricardo_Piglia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>223455</id>
+<title>Three Trapped Tigers</title>
+<title_without_series>Three Trapped Tigers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/223455.Three_Trapped_Tigers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403209034s/223455.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403209034m/223455.jpg]]></image_url>
+<num_pages>487</num_pages>
+<work>
+<id>83198</id>
+</work>
+<isbn>1564783790</isbn>
+<isbn13>9781564783790</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1167</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>49326</id>
+<name>Guillermo Cabrera Infante</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49326.Guillermo_Cabrera_Infante]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>454293</id>
+<title>Lands of Memory</title>
+<title_without_series>Lands of Memory</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/454293.Lands_of_Memory]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>442880</id>
+</work>
+<isbn>0811214834</isbn>
+<isbn13>9780811214834</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>151</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>254942</id>
+<name>Felisberto Hernández</name>
+<link><![CDATA[https://www.goodreads.com/author/show/254942.Felisberto_Hern_ndez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53413</id>
+<title>Hopscotch</title>
+<title_without_series>Hopscotch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53413.Hopscotch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1367728486s/53413.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1367728486m/53413.jpg]]></image_url>
+<num_pages>564</num_pages>
+<work>
+<id>1794732</id>
+</work>
+<isbn>0394752848</isbn>
+<isbn13>9780394752846</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>20780</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>25824</id>
+<name>Julio Cortázar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25824.Julio_Cort_zar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>71490</id>
+<title><![CDATA[The Adventures and Misadventures of Maqroll]]></title>
+<title_without_series><![CDATA[The Adventures and Misadventures of Maqroll]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/71490.The_Adventures_and_Misadventures_of_Maqroll]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320538164s/71490.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320538164m/71490.jpg]]></image_url>
+<num_pages>700</num_pages>
+<work>
+<id>69234</id>
+</work>
+<isbn>0940322919</isbn>
+<isbn13>9780940322912</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>955</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>29503</id>
+<name>Álvaro Mutis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29503._lvaro_Mutis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>821204</id>
+<title>Poemas y antipoemas</title>
+<title_without_series>Poemas y antipoemas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/821204.Poemas_y_antipoemas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1367226062s/821204.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1367226062m/821204.jpg]]></image_url>
+<num_pages>119</num_pages>
+<work>
+<id>807037</id>
+</work>
+<isbn>8437607779</isbn>
+<isbn13>9788437607771</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>701</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128195</id>
+<name>Nicanor Parra</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128195.Nicanor_Parra]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

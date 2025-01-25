@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>2179832</id>
+  <title>Bright Shiny Morning</title>
+  <isbn><![CDATA[0061573132]]></isbn>
+  <isbn13><![CDATA[9780061573132]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B002VBV1LI]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1415586680m/2179832.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1415586680s/2179832.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[One of the most celebrated and controversial authors in America delivers his first novel—a sweeping chronicle of contemporary Los Angeles that is bold, exhilarating, and utterly original.<br /><br />Dozens of characters pass across the reader's sight lines—some never to be seen again—but James Frey lingers on a handful of LA's lost souls and captures the dramatic narrative of their lives: a bright, ambitious young Mexican-American woman who allows her future to be undone by a moment of searing humiliation; a supremely narcissistic action-movie star whose passion for the unattainable object of his affection nearly destroys him; a couple, both nineteen years old, who flee their suffocating hometown and struggle to survive on the fringes of the great city; and an aging Venice Beach alcoholic whose life is turned upside down when a meth-addled teenage girl shows up half-dead outside the restroom he calls home.<br /><br />Throughout this strikingly powerful novel there is the relentless drumbeat of the millions of other stories that, taken as a whole, describe a city, a culture, and an age. A dazzling tour de force, <i>Bright Shiny Morning</i> illuminates the joys, horrors, and unexpected fortunes of life and death in Los Angeles.]]></description>
+  <work>
+  <id type="integer">3341228</id>
+  <books_count type="integer">44</books_count>
+  <best_book_id type="integer">2179832</best_book_id>
+  <reviews_count type="integer">20167</reviews_count>
+  <ratings_sum type="integer">44774</ratings_sum>
+  <ratings_count type="integer">11782</ratings_count>
+  <text_reviews_count type="integer">1397</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">12</original_publication_day>
+  <original_title>Bright Shiny Morning</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3406|4:4246|3:2832|2:966|1:332|total:11782</rating_dist>
+  <desc_user_id type="integer">-10</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.80</average_rating>
+  <num_pages><![CDATA[501]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10765]]></ratings_count>
+  <text_reviews_count><![CDATA[1270]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2179832.Bright_Shiny_Morning]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2179832.Bright_Shiny_Morning]]></link>
+  <authors>
+<author>
+<id>822</id>
+<name>James Frey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482524450p5/822.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482524450p2/822.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/822.James_Frey]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>260584</ratings_count>
+<text_reviews_count>16813</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/2179832.Bright_Shiny_Morning">Bright Shiny Morning Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0061573132&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/2179832.Bright_Shiny_Morning?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="592"/>
+      <shelf name="currently-reading" count="35"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="general-fiction" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="james-frey" count="13"/>
+      <shelf name="novels" count="13"/>
+      <shelf name="book-club" count="13"/>
+      <shelf name="drama" count="12"/>
+      <shelf name="usa" count="12"/>
+      <shelf name="california" count="10"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="favorites" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="audiobooks" count="9"/>
+      <shelf name="kindle" count="9"/>
+      <shelf name="adult-fiction" count="9"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="borrowed" count="8"/>
+      <shelf name="american" count="7"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="read-in-2009" count="6"/>
+      <shelf name="literature" count="6"/>
+      <shelf name="novel" count="6"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="nope" count="5"/>
+      <shelf name="read-in-2012" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="american-literature" count="5"/>
+      <shelf name="realistic-fiction" count="5"/>
+      <shelf name="read-2008" count="5"/>
+      <shelf name="favorite" count="4"/>
+      <shelf name="addiction" count="4"/>
+      <shelf name="english" count="4"/>
+      <shelf name="read-in-2011" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="hardcover" count="4"/>
+      <shelf name="abandoned" count="4"/>
+      <shelf name="non-fiction" count="4"/>
+      <shelf name="audio-books" count="4"/>
+      <shelf name="read-in-2008" count="4"/>
+      <shelf name="faves" count="4"/>
+      <shelf name="ryan-holiday" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="la" count="3"/>
+      <shelf name="read-2013" count="3"/>
+      <shelf name="on-my-shelf" count="3"/>
+      <shelf name="audio" count="3"/>
+      <shelf name="on-kindle" count="3"/>
+      <shelf name="have-it" count="3"/>
+      <shelf name="read-2011" count="3"/>
+      <shelf name="f" count="3"/>
+      <shelf name="nook" count="3"/>
+      <shelf name="to-read-fiction" count="3"/>
+      <shelf name="interesting" count="3"/>
+      <shelf name="on-my-bookshelf" count="3"/>
+      <shelf name="love" count="3"/>
+      <shelf name="read-in-2010" count="3"/>
+      <shelf name="modern-fiction" count="3"/>
+      <shelf name="never-finished" count="3"/>
+      <shelf name="read-2009" count="3"/>
+      <shelf name="book-club-books" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="books-i-own" count="2"/>
+      <shelf name="ebook" count="2"/>
+      <shelf name="calibre" count="2"/>
+      <shelf name="los-angeles" count="2"/>
+      <shelf name="literary-fiction" count="2"/>
+      <shelf name="maybe-to-read" count="2"/>
+      <shelf name="owned-not-read" count="2"/>
+      <shelf name="easy-read" count="2"/>
+      <shelf name="just-ok" count="2"/>
+      <shelf name="letteratura-americana" count="2"/>
+      <shelf name="read-in-2015" count="2"/>
+      <shelf name="on-the-bookshelf" count="2"/>
+      <shelf name="unread-owned" count="2"/>
+      <shelf name="purchased" count="2"/>
+      <shelf name="bookcase" count="2"/>
+      <shelf name="americana" count="2"/>
+      <shelf name="will-never-read" count="2"/>
+      <shelf name="hollywood" count="2"/>
+      <shelf name="listened-to" count="2"/>
+      <shelf name="2014-reads" count="2"/>
+      <shelf name="to-read-owned" count="2"/>
+      <shelf name="priority" count="2"/>
+      <shelf name="finished" count="2"/>
+      <shelf name="fiction-literature" count="2"/>
+      <shelf name="favorite-books" count="2"/>
+      <shelf name="books-to-read" count="2"/>
+      <shelf name="own-not-read" count="2"/>
+      <shelf name="read-fiction" count="2"/>
+      <shelf name="read-in-2013" count="2"/>
+      <shelf name="to-get" count="2"/>
+      <shelf name="shelf" count="2"/>
+      <shelf name="to-be-read" count="2"/>
+      <shelf name="read-next" count="2"/>
+      <shelf name="memoir" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>22911011</id>
+<title>Pfaueninsel</title>
+<title_without_series>Pfaueninsel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22911011-pfaueninsel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407921849s/22911011.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407921849m/22911011.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>42475568</id>
+</work>
+<isbn>3462045997</isbn>
+<isbn13>9783462045994</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>242</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>195583</id>
+<name>Thomas Hettche</name>
+<link><![CDATA[https://www.goodreads.com/author/show/195583.Thomas_Hettche]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6344587</id>
+<title>More Bloody Horowitz</title>
+<title_without_series>More Bloody Horowitz</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6344587-more-bloody-horowitz]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>126</num_pages>
+<work>
+<id>24897727</id>
+</work>
+<isbn>1406317004</isbn>
+<isbn13>9781406317008</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>143</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32590</id>
+<name>Anthony Horowitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32590.Anthony_Horowitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6589311</id>
+<title>Dance With Snakes</title>
+<title_without_series>Dance With Snakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6589311-dance-with-snakes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1259175114s/6589311.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1259175114m/6589311.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>6782877</id>
+</work>
+<isbn>189723161X</isbn>
+<isbn13>9781897231616</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>235</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>609209</id>
+<name>Horacio Castellanos Moya</name>
+<link><![CDATA[https://www.goodreads.com/author/show/609209.Horacio_Castellanos_Moya]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3026121</id>
+<title>McSweeney&apos;s #4</title>
+<title_without_series>McSweeney&apos;s #4</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3026121-mcsweeney-s-4]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3056695</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>112</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3371</id>
+<name>Dave Eggers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3371.Dave_Eggers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1295028</id>
+<title>Leather Folk</title>
+<title_without_series>Leather Folk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1295028.Leather_Folk]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1284148</id>
+</work>
+<isbn>1881943208</isbn>
+<isbn13>9781881943204</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>114</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>5806858</id>
+<name>Mark   Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5806858.Mark_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6990527</id>
+<title>Nice Recovery</title>
+<title_without_series>Nice Recovery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6990527-nice-recovery]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332617719s/6990527.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332617719m/6990527.jpg]]></image_url>
+<num_pages>247</num_pages>
+<work>
+<id>7232945</id>
+</work>
+<isbn>0670069175</isbn>
+<isbn13>9780670069170</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>247</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>87907</id>
+<name>Susan Juby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87907.Susan_Juby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6566</id>
+<title><![CDATA[John Saul: Three Terrifying Bestselling Novels: Suffer the Children; Punish the Sinners; Cry for the Strangers]]></title>
+<title_without_series><![CDATA[John Saul: Three Terrifying Bestselling Novels: Suffer the Children; Punish the Sinners; Cry for the Strangers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6566.John_Saul]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>678</num_pages>
+<work>
+<id>9829</id>
+</work>
+<isbn>0517182467</isbn>
+<isbn13>9780517182468</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>245</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4387</id>
+<name>John Saul</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4387.John_Saul]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>57545</id>
+<title><![CDATA[One Palestine, Complete: Jews and Arabs Under the British Mandate]]></title>
+<title_without_series><![CDATA[One Palestine, Complete: Jews and Arabs Under the British Mandate]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/57545.One_Palestine_Complete]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>56063</id>
+</work>
+<isbn>0805065873</isbn>
+<isbn13>9780805065879</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>390</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32472</id>
+<name>Tom Segev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32472.Tom_Segev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>87990</id>
+<title>The Dissident</title>
+<title_without_series>The Dissident</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/87990.The_Dissident]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>1182305</id>
+</work>
+<isbn>0060758716</isbn>
+<isbn13>9780060758714</isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>770</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>24358</id>
+<name>Nell Freudenberger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24358.Nell_Freudenberger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>595405</id>
+<title>Heart&apos;s Delight</title>
+<title_without_series>Heart&apos;s Delight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/595405.Heart_s_Delight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360777583s/595405.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360777583m/595405.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>582111</id>
+</work>
+<isbn>0689876777</isbn>
+<isbn13>9780689876776</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>888</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>323939</id>
+<name>Per Nilsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/323939.Per_Nilsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11820152</id>
+<title><![CDATA[Please God Let it Be Herpes: A Heartfelt Quest For Love and Companionship]]></title>
+<title_without_series><![CDATA[Please God Let it Be Herpes: A Heartfelt Quest For Love and Companionship]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11820152-please-god-let-it-be-herpes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>16774545</id>
+</work>
+<isbn>0451235711</isbn>
+<isbn13>9780451235718</isbn13>
+<average_rating>3.44</average_rating>
+<ratings_count>89</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4977812</id>
+<name>Carlos Kotkin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4977812.Carlos_Kotkin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>273540</id>
+<title>Savannah Comes Undone</title>
+<title_without_series>Savannah Comes Undone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/273540.Savannah_Comes_Undone]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404825573s/273540.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404825573m/273540.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>265230</id>
+</work>
+<isbn>0849944562</isbn>
+<isbn13>9780849944567</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>684</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>159447</id>
+<name>Denise Hildreth Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159447.Denise_Hildreth_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>242446</id>
+<title>Death And Nightingales</title>
+<title_without_series>Death And Nightingales</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/242446.Death_And_Nightingales]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>234873</id>
+</work>
+<isbn>074939868X</isbn>
+<isbn13>9780749398682</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>212</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>6</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>141831</id>
+<name>Eugene McCabe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/141831.Eugene_McCabe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13547399</id>
+<title><![CDATA[Black Heart on the Appalachian Trail]]></title>
+<title_without_series><![CDATA[Black Heart on the Appalachian Trail]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13547399-black-heart-on-the-appalachian-trail]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1420938167s/13547399.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1420938167m/13547399.jpg]]></image_url>
+<num_pages>195</num_pages>
+<work>
+<id>19112539</id>
+</work>
+<isbn>1439175616</isbn>
+<isbn13>9781439175613</isbn13>
+<average_rating>3.08</average_rating>
+<ratings_count>228</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>2938655</id>
+<name>T.J. Forrester</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2938655.T_J_Forrester]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10125238</id>
+<title>Adams Erbe</title>
+<title_without_series>Adams Erbe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10125238-adams-erbe]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1305999463s/10125238.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1305999463m/10125238.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>15023031</id>
+</work>
+<isbn>3257862075</isbn>
+<isbn13>9783257862072</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>277</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4558824</id>
+<name>Astrid Rosenfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4558824.Astrid_Rosenfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>96011</id>
+<title><![CDATA[Toussaint Louverture: A Biography]]></title>
+<title_without_series><![CDATA[Toussaint Louverture: A Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/96011.Toussaint_Louverture]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320427207s/96011.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320427207m/96011.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1716242</id>
+</work>
+<isbn>0375423370</isbn>
+<isbn13>9780375423376</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>105</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>30328</id>
+<name>Madison Smartt Bell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30328.Madison_Smartt_Bell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>317502</id>
+<title>Atomik Aztex</title>
+<title_without_series>Atomik Aztex</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/317502.Atomik_Aztex]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328774910s/317502.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328774910m/317502.jpg]]></image_url>
+<num_pages>203</num_pages>
+<work>
+<id>308306</id>
+</work>
+<isbn>0872864405</isbn>
+<isbn13>9780872864405</isbn13>
+<average_rating>3.42</average_rating>
+<ratings_count>204</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>182499</id>
+<name>Sesshu Foster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/182499.Sesshu_Foster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9911</id>
+<title>Already Dead</title>
+<title_without_series>Already Dead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9911.Already_Dead]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3010797</id>
+</work>
+<isbn>006092909X</isbn>
+<isbn13>9780060929091</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>2037</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6468</id>
+<name>Denis Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6468.Denis_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

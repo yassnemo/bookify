@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>42547</id>
+  <title><![CDATA[The Autobiography of Martin Luther King, Jr.]]></title>
+  <isbn><![CDATA[0446676500]]></isbn>
+  <isbn13><![CDATA[9780446676502]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00FOTREOM]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Grand Central Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Using Stanford University's voluminous collection of archival material, including previously unpublished writings, interviews, recordings, and correspondence, King scholar Clayborne Carson has constructed a remarkable first-person account of Dr. King's extraordinary life. Beginning with his boyhood, the book portrays King's education as a minister, his ascendancy as a leader of the Montgomery bus boycott, his pivotal role in the civil rights demonstrations in Washington, D.C., and his complex relationship with the Kennedy brothers, LBJ, Malcolm X, and numerous other leading figures of the day.]]></description>
+  <work>
+  <id type="integer">42030</id>
+  <books_count type="integer">40</books_count>
+  <best_book_id type="integer">42547</best_book_id>
+  <reviews_count type="integer">29677</reviews_count>
+  <ratings_sum type="integer">50158</ratings_sum>
+  <ratings_count type="integer">11625</ratings_count>
+  <text_reviews_count type="integer">413</text_reviews_count>
+  <original_publication_year type="integer">1986</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Autobiography of Martin Luther King, Jr.</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6117|4:3563|3:1550|2:276|1:119|total:11625</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.31</average_rating>
+  <num_pages><![CDATA[400]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11266]]></ratings_count>
+  <text_reviews_count><![CDATA[363]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/42547.The_Autobiography_of_Martin_Luther_King_Jr_]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/42547.The_Autobiography_of_Martin_Luther_King_Jr_]]></link>
+  <authors>
+<author>
+<id>23924</id>
+<name>Martin Luther King Jr.</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198518558p5/23924.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198518558p2/23924.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23924.Martin_Luther_King_Jr_]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>30832</ratings_count>
+<text_reviews_count>2016</text_reviews_count>
+</author>
+<author>
+<id>14555</id>
+<name>Clayborne Carson</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14555.Clayborne_Carson]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>13674</ratings_count>
+<text_reviews_count>589</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/42547.The_Autobiography_of_Martin_Luther_King_Jr_">The Autobiography of Martin Luther King, Jr. Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446676500&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/42547.The_Autobiography_of_Martin_Luther_King_Jr_?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="920"/>
+      <shelf name="biography" count="277"/>
+      <shelf name="history" count="158"/>
+      <shelf name="currently-reading" count="96"/>
+      <shelf name="biographies" count="69"/>
+      <shelf name="nonfiction" count="67"/>
+      <shelf name="autobiography" count="65"/>
+      <shelf name="african-american" count="47"/>
+      <shelf name="memoir" count="45"/>
+      <shelf name="favorites" count="44"/>
+      <shelf name="politics" count="44"/>
+      <shelf name="biography-memoir" count="33"/>
+      <shelf name="non-fiction" count="31"/>
+      <shelf name="race" count="21"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="civil-rights" count="17"/>
+      <shelf name="biography-autobiography" count="17"/>
+      <shelf name="owned" count="16"/>
+      <shelf name="american-history" count="16"/>
+      <shelf name="social-justice" count="14"/>
+      <shelf name="wish-list" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="memoirs" count="13"/>
+      <shelf name="bio" count="12"/>
+      <shelf name="memoir-biography" count="12"/>
+      <shelf name="default" count="11"/>
+      <shelf name="biographies-memoirs" count="11"/>
+      <shelf name="auto-biography" count="11"/>
+      <shelf name="political" count="10"/>
+      <shelf name="philosophy" count="9"/>
+      <shelf name="audiobooks" count="9"/>
+      <shelf name="religion" count="9"/>
+      <shelf name="autobiographies" count="9"/>
+      <shelf name="autobiography-memoir" count="8"/>
+      <shelf name="christian" count="8"/>
+      <shelf name="black-history" count="8"/>
+      <shelf name="leadership" count="8"/>
+      <shelf name="american" count="8"/>
+      <shelf name="classics" count="8"/>
+      <shelf name="to-read-non-fiction" count="8"/>
+      <shelf name="biographical" count="7"/>
+      <shelf name="bio-memoir" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="to-read-nonfiction" count="6"/>
+      <shelf name="black" count="6"/>
+      <shelf name="non-fiction-to-read" count="6"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="theology" count="5"/>
+      <shelf name="america" count="5"/>
+      <shelf name="african-american-studies" count="5"/>
+      <shelf name="audible" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="history-biography" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="20th-century" count="5"/>
+      <shelf name="science" count="5"/>
+      <shelf name="religious" count="5"/>
+      <shelf name="memoir-autobiography" count="5"/>
+      <shelf name="kindle" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="african-american-literature" count="5"/>
+      <shelf name="english" count="4"/>
+      <shelf name="black-lives-matter" count="4"/>
+      <shelf name="biography-autobiography-memoir" count="4"/>
+      <shelf name="school" count="4"/>
+      <shelf name="memoirs-biographies" count="4"/>
+      <shelf name="biographies-and-memoirs" count="4"/>
+      <shelf name="auto-biographies" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="history-politics" count="4"/>
+      <shelf name="martin-luther-king-jr" count="4"/>
+      <shelf name="african-american-lit" count="4"/>
+      <shelf name="social" count="4"/>
+      <shelf name="bios" count="4"/>
+      <shelf name="united-states" count="4"/>
+      <shelf name="historical" count="4"/>
+      <shelf name="sociology" count="4"/>
+      <shelf name="to-read-in-2017" count="3"/>
+      <shelf name="society" count="3"/>
+      <shelf name="knowledge" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="adult-non-fiction" count="3"/>
+      <shelf name="biografías" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="non-white-authors" count="3"/>
+      <shelf name="usa" count="3"/>
+      <shelf name="top-to-read" count="3"/>
+      <shelf name="human-rights" count="3"/>
+      <shelf name="martin-luther-king" count="3"/>
+      <shelf name="activism" count="3"/>
+      <shelf name="non-fiction-memoir" count="3"/>
+      <shelf name="mlk" count="3"/>
+      <shelf name="american-literature" count="3"/>
+      <shelf name="biographies-to-read" count="3"/>
+      <shelf name="to-listen" count="3"/>
+      <shelf name="nonviolence" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="biography-memoirs" count="3"/>
+      <shelf name="african-american-history" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17618</id>
+<title><![CDATA[W.E.B. Du Bois: Biography of a Race, 1868-1919]]></title>
+<title_without_series><![CDATA[W.E.B. Du Bois: Biography of a Race, 1868-1919]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17618.W_E_B_Du_Bois]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>735</num_pages>
+<work>
+<id>231091</id>
+</work>
+<isbn>0613630866</isbn>
+<isbn13>9780613630863</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1678</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10711</id>
+<name>David Levering Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10711.David_Levering_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27550</id>
+<title><![CDATA[Walking with the Wind: A Memoir of the Movement]]></title>
+<title_without_series><![CDATA[Walking with the Wind: A Memoir of the Movement]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27550.Walking_with_the_Wind]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403186088s/27550.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403186088m/27550.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>28164</id>
+</work>
+<isbn>0156007088</isbn>
+<isbn13>9780156007085</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>1658</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6429079</id>
+<name>John             Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6429079.John_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>203938</id>
+<title><![CDATA[Crusade for Justice: The Autobiography of Ida B. Wells]]></title>
+<title_without_series><![CDATA[Crusade for Justice: The Autobiography of Ida B. Wells]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/203938.Crusade_for_Justice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>466</num_pages>
+<work>
+<id>197333</id>
+</work>
+<isbn>0226893448</isbn>
+<isbn13>9780226893440</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>254</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>102474</id>
+<name>Ida B. Wells-Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/102474.Ida_B_Wells_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29222</id>
+<title><![CDATA[Lost Prophet: The Life and Times of Bayard Rustin]]></title>
+<title_without_series><![CDATA[Lost Prophet: The Life and Times of Bayard Rustin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29222.Lost_Prophet]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>592</num_pages>
+<work>
+<id>29687</id>
+</work>
+<isbn>0226142698</isbn>
+<isbn13>9780226142692</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>486</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1262</id>
+<name>John D&apos;Emilio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1262.John_D_Emilio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244549</id>
+<title><![CDATA[This Little Light of Mine: The Life of Fannie Lou Hamer]]></title>
+<title_without_series><![CDATA[This Little Light of Mine: The Life of Fannie Lou Hamer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244549.This_Little_Light_of_Mine]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>236933</id>
+</work>
+<isbn>0452270529</isbn>
+<isbn13>9780452270527</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>175</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>143030</id>
+<name>Kay Mills</name>
+<link><![CDATA[https://www.goodreads.com/author/show/143030.Kay_Mills]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>567720</id>
+<title><![CDATA[Freedom in Exile: The Autobiography of the Dalai Lama]]></title>
+<title_without_series><![CDATA[Freedom in Exile: The Autobiography of the Dalai Lama]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/567720.Freedom_in_Exile]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407706793s/567720.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407706793m/567720.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>209071</id>
+</work>
+<isbn>0060987014</isbn>
+<isbn13>9780060987015</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>3533</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>570218</id>
+<name>Dalai Lama XIV</name>
+<link><![CDATA[https://www.goodreads.com/author/show/570218.Dalai_Lama_XIV]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>125441</id>
+<title>An Autobiography</title>
+<title_without_series>An Autobiography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/125441.An_Autobiography]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1108101</id>
+</work>
+<isbn>0717806677</isbn>
+<isbn13>9780717806676</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>4273</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5863103</id>
+<name>Angela Y. Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5863103.Angela_Y_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>91682</id>
+<title>Revolutionary Suicide</title>
+<title_without_series>Revolutionary Suicide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/91682.Revolutionary_Suicide]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>333</num_pages>
+<work>
+<id>88451</id>
+</work>
+<isbn>0863163262</isbn>
+<isbn13>9780863163265</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>2532</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>52705</id>
+<name>Huey P. Newton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52705.Huey_P_Newton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31067</id>
+<title><![CDATA[Malcolm X Speaks: Selected Speeches and Statements]]></title>
+<title_without_series><![CDATA[Malcolm X Speaks: Selected Speeches and Statements]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31067.Malcolm_X_Speaks]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1299962170s/31067.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1299962170m/31067.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>31398</id>
+</work>
+<isbn>0802132138</isbn>
+<isbn13>9780802132130</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>4119</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>17435</id>
+<name>Malcolm X</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17435.Malcolm_X]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>275897</id>
+<title><![CDATA[Martin Luther King, Jr.: A Life]]></title>
+<title_without_series><![CDATA[Martin Luther King, Jr.: A Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/275897.Martin_Luther_King_Jr_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>975743</id>
+</work>
+<isbn>0143036483</isbn>
+<isbn13>9780143036487</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>428</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42167</id>
+<name>Marshall Frady</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42167.Marshall_Frady]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>448669</id>
+<title><![CDATA[Radio Free Dixie: Robert F. Williams and the Roots of Black Power]]></title>
+<title_without_series><![CDATA[Radio Free Dixie: Robert F. Williams and the Roots of Black Power]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/448669.Radio_Free_Dixie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>437325</id>
+</work>
+<isbn>0807849235</isbn>
+<isbn13>9780807849231</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>754</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1732</id>
+<name>Timothy B. Tyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1732.Timothy_B_Tyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152661</id>
+<title>The Big Sea</title>
+<title_without_series>The Big Sea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152661.The_Big_Sea]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379150583s/152661.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379150583m/152661.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>147351</id>
+</work>
+<isbn>0809015498</isbn>
+<isbn13>9780809015498</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>1054</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>36910</id>
+<name>Langston Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36910.Langston_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>242936</id>
+<title><![CDATA[The Mis-Education of the Negro]]></title>
+<title_without_series><![CDATA[The Mis-Education of the Negro]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/242936.The_Mis_Education_of_the_Negro]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>215</num_pages>
+<work>
+<id>235359</id>
+</work>
+<isbn>1564110419</isbn>
+<isbn13>9781564110411</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>5959</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>142122</id>
+<name>Carter G. Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142122.Carter_G_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>134222</id>
+<title><![CDATA[I May Not Get There with You: The True Martin Luther King, Jr]]></title>
+<title_without_series><![CDATA[I May Not Get There with You: The True Martin Luther King, Jr]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/134222.I_May_Not_Get_There_with_You]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>129311</id>
+</work>
+<isbn>068483037X</isbn>
+<isbn13>9780684830377</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>282</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>39751</id>
+<name>Michael Eric Dyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39751.Michael_Eric_Dyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>200217</id>
+<title><![CDATA[Ella Baker and the Black Freedom Movement: A Radical Democratic Vision]]></title>
+<title_without_series><![CDATA[Ella Baker and the Black Freedom Movement: A Radical Democratic Vision]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/200217.Ella_Baker_and_the_Black_Freedom_Movement]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421713905s/200217.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421713905m/200217.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>193700</id>
+</work>
+<isbn>0807856169</isbn>
+<isbn13>9780807856161</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>990</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>116764</id>
+<name>Barbara Ransby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/116764.Barbara_Ransby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1659305</id>
+<title><![CDATA[Bearing the Cross: Martin Luther King, JR., and the Southern Christian Leadership Conference]]></title>
+<title_without_series><![CDATA[Bearing the Cross: Martin Luther King, JR., and the Southern Christian Leadership Conference]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1659305.Bearing_the_Cross]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>800</num_pages>
+<work>
+<id>990589</id>
+</work>
+<isbn>0688166326</isbn>
+<isbn13>9780688166328</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>1445</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>160743</id>
+<name>David J. Garrow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/160743.David_J_Garrow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>913316</id>
+<title><![CDATA[A Taste of Power: A Black Woman's Story]]></title>
+<title_without_series><![CDATA[A Taste of Power: A Black Woman's Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/913316.A_Taste_of_Power]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320546746s/913316.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320546746m/913316.jpg]]></image_url>
+<num_pages>452</num_pages>
+<work>
+<id>898414</id>
+</work>
+<isbn>0385471076</isbn>
+<isbn13>9780385471077</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2777</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1245452</id>
+<name>Elaine  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1245452.Elaine_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>925958</id>
+<title><![CDATA[Time on Two Crosses: The Collected Writings of Bayard Rustin]]></title>
+<title_without_series><![CDATA[Time on Two Crosses: The Collected Writings of Bayard Rustin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/925958.Time_on_Two_Crosses]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328748239s/925958.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328748239m/925958.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>910963</id>
+</work>
+<isbn>1573441740</isbn>
+<isbn13>9781573441742</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>142</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>472455</id>
+<name>Bayard Rustin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/472455.Bayard_Rustin]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

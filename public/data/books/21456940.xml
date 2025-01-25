@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>21456940</id>
+  <title>1919</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[9789770932926]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1396549800m/21456940.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1396549800s/21456940.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>دار الشروق</publisher>
+  <language_code>ara</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[سيختطفك أحمد مراد في آلة زمن، ليهبط بك في حقبة تغلي فيها القاهرة بالأحداث.. وثبة زمنية إلى عالم متشابك يمسك المؤلف مقتدرًا بكل مفاتيحه؛ بين سعد زغلول وتعنت البريطانيين، قصة الوفد ومقهى «متاتيا» جماعة سرية تعمل تحت مقهى «ريش»، وعوالم البغاء المقنن.. شخصيات عديدة سوف تتعاطف معها أو تمقتها، أو تفعل الشيئين بلا تحفظ، بحوار مفعم بالحيوية حتى لتوشك على سماعه يتردد في أذنك، وتفاصيل تاريخية مضنية ودقيقة. سوف تدرك أن البعض ما زال مصرًّا على الجدية والإتقان]]></description>
+  <work>
+  <id type="integer">40771304</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">21456940</best_book_id>
+  <reviews_count type="integer">36534</reviews_count>
+  <ratings_sum type="integer">63308</ratings_sum>
+  <ratings_count type="integer">17337</ratings_count>
+  <text_reviews_count type="integer">2421</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>1919</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4520|4:5646|3:4620|2:1713|1:838|total:17337</rating_dist>
+  <desc_user_id type="integer">23827160</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.65</average_rating>
+  <num_pages><![CDATA[446]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[17333]]></ratings_count>
+  <text_reviews_count><![CDATA[2420]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/21456940-1919]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/21456940-1919]]></link>
+  <authors>
+<author>
+<id>1633682</id>
+<name>أحمد مراد</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227520027p5/1633682.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227520027p2/1633682.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1633682._]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>144741</ratings_count>
+<text_reviews_count>14741</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/21456940-1919">1919 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9789770932926&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/21456940-1919?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="13720"/>
+      <shelf name="currently-reading" count="1841"/>
+      <shelf name="روايات" count="109"/>
+      <shelf name="favorites" count="92"/>
+      <shelf name="novels" count="82"/>
+      <shelf name="أحمد-مراد" count="71"/>
+      <shelf name="احمد-مراد" count="71"/>
+      <shelf name="owned" count="62"/>
+      <shelf name="arabic" count="37"/>
+      <shelf name="1919" count="29"/>
+      <shelf name="pdf" count="28"/>
+      <shelf name="روايات-عربية" count="20"/>
+      <shelf name="arabic-novels" count="20"/>
+      <shelf name="finished" count="15"/>
+      <shelf name="arabic-books" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="تاريخ" count="13"/>
+      <shelf name="ahmed-morad" count="13"/>
+      <shelf name="history" count="12"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="رواية" count="9"/>
+      <shelf name="favourites" count="9"/>
+      <shelf name="historical-fiction" count="9"/>
+      <shelf name="أدب" count="9"/>
+      <shelf name="novel" count="9"/>
+      <shelf name="my-books" count="8"/>
+      <shelf name="historical" count="8"/>
+      <shelf name="ahmed-mourad" count="8"/>
+      <shelf name="مكتبتى" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="1" count="7"/>
+      <shelf name="mine" count="7"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="fiction" count="6"/>
+      <shelf name="في-مكتبتي" count="6"/>
+      <shelf name="أدب-عربي" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="books-i-have" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="عربي" count="5"/>
+      <shelf name="مكتبتي-الورقية" count="4"/>
+      <shelf name="روايات-عربيه" count="4"/>
+      <shelf name="politics" count="4"/>
+      <shelf name="سياسة" count="4"/>
+      <shelf name="روايات-تاريخية" count="4"/>
+      <shelf name="done" count="4"/>
+      <shelf name="favourite" count="4"/>
+      <shelf name="_" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="2" count="4"/>
+      <shelf name="arabic-literature" count="4"/>
+      <shelf name="want-to-buy" count="4"/>
+      <shelf name="ورقي" count="3"/>
+      <shelf name="ادب" count="3"/>
+      <shelf name="e-books" count="3"/>
+      <shelf name="finished-reading" count="3"/>
+      <shelf name="novels-روايات" count="3"/>
+      <shelf name="مكتبتي" count="3"/>
+      <shelf name="stories" count="3"/>
+      <shelf name="فى-مكتبتى" count="3"/>
+      <shelf name="احمد_مراد" count="3"/>
+      <shelf name="suspense" count="3"/>
+      <shelf name="finish" count="3"/>
+      <shelf name="favorite" count="3"/>
+      <shelf name="political" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="hard-copy" count="3"/>
+      <shelf name="to-get" count="3"/>
+      <shelf name="unfinished" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="my-favorite-books" count="2"/>
+      <shelf name="historic" count="2"/>
+      <shelf name="2016-reads" count="2"/>
+      <shelf name="on-my-shelf" count="2"/>
+      <shelf name="روايات-و-قصص" count="2"/>
+      <shelf name="أدب-معاصر" count="2"/>
+      <shelf name="مصر" count="2"/>
+      <shelf name="arabic-novel" count="2"/>
+      <shelf name="literature" count="2"/>
+      <shelf name="روايات-عربي" count="2"/>
+      <shelf name="gifts" count="2"/>
+      <shelf name="الفيل-الازرق" count="2"/>
+      <shelf name="لم-اكملها" count="2"/>
+      <shelf name="read-2014" count="2"/>
+      <shelf name="ahmed-murad" count="2"/>
+      <shelf name="i-have" count="2"/>
+      <shelf name="gave-up-on" count="2"/>
+      <shelf name="مراد" count="2"/>
+      <shelf name="bought" count="2"/>
+      <shelf name="2014-books" count="2"/>
+      <shelf name="روايات-novels" count="2"/>
+      <shelf name="have-it" count="2"/>
+      <shelf name="facebook" count="2"/>
+      <shelf name="favorite-books" count="2"/>
+      <shelf name="not-complete" count="2"/>
+      <shelf name="أدب-و-روايات" count="2"/>
+      <shelf name="owened" count="2"/>
+      <shelf name="3araby" count="2"/>
+      <shelf name="recommended" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>18387597</id>
+<title>2 ضباط</title>
+<title_without_series>2 ضباط</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18387597-2]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1377876467s/18387597.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1377876467m/18387597.jpg]]></image_url>
+<num_pages>520</num_pages>
+<work>
+<id>26008568</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>8866</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>3306075</id>
+<name>Essam Youssef</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3306075.Essam_Youssef]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17229930</id>
+<title>الليلة الثالثة والعشرون</title>
+<title_without_series>الليلة الثالثة والعشرون</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17229930]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1357764902s/17229930.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1357764902m/17229930.jpg]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>23744509</id>
+</work>
+<isbn></isbn>
+<isbn13>9789992195765</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>6182</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2664359</id>
+<name>تامر إبراهيم</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2664359._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20323547</id>
+<title>طغراء</title>
+<title_without_series>طغراء</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20323547]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388182025s/20323547.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388182025m/20323547.jpg]]></image_url>
+<num_pages>472</num_pages>
+<work>
+<id>28165644</id>
+</work>
+<isbn></isbn>
+<isbn13>9789775153401</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>2064</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5834109</id>
+<name>شيرين هنائي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5834109._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5971167</id>
+<title>غرفة العناية المركزة</title>
+<title_without_series>غرفة العناية المركزة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5971167]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1498628965s/5971167.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1498628965m/5971167.jpg]]></image_url>
+<num_pages>217</num_pages>
+<work>
+<id>26520334</id>
+</work>
+<isbn>9772832879</isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>2945</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2736801</id>
+<name>عزالدين شكري فشير</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2736801._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18323154</id>
+<title>المرحوم</title>
+<title_without_series>المرحوم</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18323154]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1376392753s/18323154.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1376392753m/18323154.jpg]]></image_url>
+<num_pages>362</num_pages>
+<work>
+<id>25843086</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.51</average_rating>
+<ratings_count>9021</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2838886</id>
+<name>حسن كمال</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2838886._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18664908</id>
+<title>محطة الرمل</title>
+<title_without_series>محطة الرمل</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18664908]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1381624121s/18664908.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1381624121m/18664908.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>26487929</id>
+</work>
+<isbn></isbn>
+<isbn13>9789776426283</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>2084</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>7340099</id>
+<name>Ahmed Salama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7340099.Ahmed_Salama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28047408</id>
+<title><![CDATA[إذاعة الأغاني: سيرة شخصية للغناء]]></title>
+<title_without_series><![CDATA[إذاعة الأغاني: سيرة شخصية للغناء]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28047408]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1448958931s/28047408.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1448958931m/28047408.jpg]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>48049055</id>
+</work>
+<isbn></isbn>
+<isbn13>9789776467392</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>2260</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1569475</id>
+<name>عمر طاهر</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1569475._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20492184</id>
+<title>الهول</title>
+<title_without_series>الهول</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20492184]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405348822s/20492184.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405348822m/20492184.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>33334377</id>
+</work>
+<isbn></isbn>
+<isbn13>9789776467064</isbn13>
+<average_rating>3.34</average_rating>
+<ratings_count>2675</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>1479015</id>
+<name>أحمد خالد توفيق</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1479015._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20409684</id>
+<title>كايا</title>
+<title_without_series>كايا</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20409684]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388582234s/20409684.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388582234m/20409684.jpg]]></image_url>
+<num_pages>446</num_pages>
+<work>
+<id>29200696</id>
+</work>
+<isbn></isbn>
+<isbn13>9789775153470</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>935</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>7429443</id>
+<name>سونيا بوماد</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7429443._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21519558</id>
+<title>جونتنامو</title>
+<title_without_series>جونتنامو</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21519558]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1396880693s/21519558.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1396880693m/21519558.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>40843147</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.38</average_rating>
+<ratings_count>3722</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1503841</id>
+<name>يوسف زيدان</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1503841._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20445843</id>
+<title>صولو</title>
+<title_without_series>صولو</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20445843]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1475862183s/20445843.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1475862183m/20445843.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>31347151</id>
+</work>
+<isbn>9786144257</isbn>
+<isbn13>9786144257593</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>993</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4466615</id>
+<name>نور عبدالمجيد</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4466615._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17343491</id>
+<title>التغريبة البلالية</title>
+<title_without_series>التغريبة البلالية</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17343491]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366396514s/17343491.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366396514m/17343491.jpg]]></image_url>
+<num_pages>203</num_pages>
+<work>
+<id>24081539</id>
+</work>
+<isbn></isbn>
+<isbn13>9789770931981</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>864</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1499778</id>
+<name>بلال فضل</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1499778._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3614157</id>
+<title>لا أحد ينام في الإسكندرية</title>
+<title_without_series>لا أحد ينام في الإسكندرية</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3614157]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>3819623</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>2805</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2979</id>
+<name>إبراهيم عبد المجيد</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2979._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13422740</id>
+<title>المرتد</title>
+<title_without_series>المرتد</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13422740]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>318</num_pages>
+<work>
+<id>18863460</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>6496</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3279601</id>
+<name>حسن الجندي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3279601._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7757141</id>
+<title>أنين</title>
+<title_without_series>أنين</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7757141]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>330</num_pages>
+<work>
+<id>10615837</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.40</average_rating>
+<ratings_count>1351</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2965992</id>
+<name>شريف ثابت</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2965992._]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

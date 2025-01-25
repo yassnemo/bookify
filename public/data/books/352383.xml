@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>352383</id>
+  <title>Antigone</title>
+  <isbn><![CDATA[041330860X]]></isbn>
+  <isbn13><![CDATA[9780413308603]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1960</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher></publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">823316</id>
+  <books_count type="integer">35</books_count>
+  <best_book_id type="integer">352383</best_book_id>
+  <reviews_count type="integer">17614</reviews_count>
+  <ratings_sum type="integer">48113</ratings_sum>
+  <ratings_count type="integer">12663</ratings_count>
+  <text_reviews_count type="integer">287</text_reviews_count>
+  <original_publication_year type="integer">1944</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Antigone</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3702|4:4285|3:3382|2:1023|1:271|total:12663</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.80</average_rating>
+  <num_pages><![CDATA[72]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10456]]></ratings_count>
+  <text_reviews_count><![CDATA[160]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/352383.Antigone]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/352383.Antigone]]></link>
+  <authors>
+<author>
+<id>5228</id>
+<name>Jean Anouilh</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263598623p5/5228.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263598623p2/5228.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5228.Jean_Anouilh]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>15883</ratings_count>
+<text_reviews_count>482</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/352383.Antigone">Antigone Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=041330860X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/352383.Antigone?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2697"/>
+      <shelf name="plays" count="294"/>
+      <shelf name="classics" count="246"/>
+      <shelf name="french" count="160"/>
+      <shelf name="drama" count="134"/>
+      <shelf name="favorites" count="124"/>
+      <shelf name="theatre" count="67"/>
+      <shelf name="théatre" count="66"/>
+      <shelf name="fiction" count="66"/>
+      <shelf name="théâtre" count="66"/>
+      <shelf name="school" count="61"/>
+      <shelf name="play" count="60"/>
+      <shelf name="currently-reading" count="51"/>
+      <shelf name="french-literature" count="46"/>
+      <shelf name="read-for-school" count="43"/>
+      <shelf name="classic" count="41"/>
+      <shelf name="france" count="36"/>
+      <shelf name="owned" count="35"/>
+      <shelf name="theater" count="33"/>
+      <shelf name="books-i-own" count="33"/>
+      <shelf name="read-in-french" count="32"/>
+      <shelf name="literature" count="28"/>
+      <shelf name="français" count="25"/>
+      <shelf name="francais" count="24"/>
+      <shelf name="20th-century" count="23"/>
+      <shelf name="classiques" count="23"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="french-lit" count="21"/>
+      <shelf name="mythology" count="20"/>
+      <shelf name="default" count="19"/>
+      <shelf name="school-books" count="18"/>
+      <shelf name="tragedy" count="16"/>
+      <shelf name="for-school" count="16"/>
+      <shelf name="classique" count="15"/>
+      <shelf name="french-books" count="12"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="french-classics" count="11"/>
+      <shelf name="college" count="11"/>
+      <shelf name="university" count="9"/>
+      <shelf name="read-in-school" count="9"/>
+      <shelf name="french-litterature" count="9"/>
+      <shelf name="adult" count="9"/>
+      <shelf name="historical" count="9"/>
+      <shelf name="teatro" count="8"/>
+      <shelf name="required-reading" count="8"/>
+      <shelf name="en-français" count="7"/>
+      <shelf name="translated" count="7"/>
+      <shelf name="littérature-française" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="in-french" count="7"/>
+      <shelf name="en-francais" count="7"/>
+      <shelf name="uni" count="6"/>
+      <shelf name="1940s" count="6"/>
+      <shelf name="history" count="6"/>
+      <shelf name="lu-en-français" count="6"/>
+      <shelf name="school-reads" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="faves" count="6"/>
+      <shelf name="retelling" count="5"/>
+      <shelf name="to-read-plays" count="5"/>
+      <shelf name="retellings" count="5"/>
+      <shelf name="klassiker" count="5"/>
+      <shelf name="favorite-books" count="5"/>
+      <shelf name="historical-fiction" count="5"/>
+      <shelf name="greek" count="5"/>
+      <shelf name="war" count="5"/>
+      <shelf name="on-my-shelf" count="4"/>
+      <shelf name="french-authors" count="4"/>
+      <shelf name="to-reread" count="4"/>
+      <shelf name="read-2014" count="4"/>
+      <shelf name="littérature" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="theatre-plays" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="favorite" count="4"/>
+      <shelf name="philosophy" count="4"/>
+      <shelf name="antiquité" count="4"/>
+      <shelf name="ma-bibliothèque" count="4"/>
+      <shelf name="european-literature" count="4"/>
+      <shelf name="bookshelf" count="4"/>
+      <shelf name="romans" count="4"/>
+      <shelf name="livres" count="4"/>
+      <shelf name="europe" count="4"/>
+      <shelf name="bibliothèque" count="4"/>
+      <shelf name="for-class" count="4"/>
+      <shelf name="classic-literature" count="4"/>
+      <shelf name="novels" count="4"/>
+      <shelf name="french-author" count="4"/>
+      <shelf name="scolaire" count="4"/>
+      <shelf name="assigned-reading" count="4"/>
+      <shelf name="wwii" count="4"/>
+      <shelf name="all-time-favorites" count="4"/>
+      <shelf name="high-school" count="4"/>
+      <shelf name="death" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="home" count="3"/>
+      <shelf name="childhood" count="3"/>
+      <shelf name="academic" count="3"/>
+      <shelf name="french-fiction" count="3"/>
+      <shelf name="school-read" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>189713</id>
+<title><![CDATA[La guerre de Troie n'aura pas lieu]]></title>
+<title_without_series><![CDATA[La guerre de Troie n'aura pas lieu]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/189713.La_guerre_de_Troie_n_aura_pas_lieu]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>183407</id>
+</work>
+<isbn>2038717133</isbn>
+<isbn13>9782038717136</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2265</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>110567</id>
+<name>Jean Giraudoux</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110567.Jean_Giraudoux]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>80275</id>
+<title><![CDATA[The Infernal Machine and Other Plays]]></title>
+<title_without_series><![CDATA[The Infernal Machine and Other Plays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/80275.The_Infernal_Machine_and_Other_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>412</num_pages>
+<work>
+<id>77516</id>
+</work>
+<isbn>0811200221</isbn>
+<isbn13>9780811200226</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1366</ratings_count>
+<publication_year>1964</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>23993</id>
+<name>Jean Cocteau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23993.Jean_Cocteau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>837812</id>
+<title>Andromaque</title>
+<title_without_series>Andromaque</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/837812.Andromaque]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329679404s/837812.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329679404m/837812.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>823394</id>
+</work>
+<isbn>2070409023</isbn>
+<isbn13>9782070409020</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>4459</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>15686</id>
+<name>Jean Racine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15686.Jean_Racine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>822338</id>
+<title><![CDATA[Huis clos, suivi de Les mouches]]></title>
+<title_without_series><![CDATA[Huis clos, suivi de Les mouches]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/822338.Huis_clos_suivi_de_Les_mouches]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1324652211s/822338.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1324652211m/822338.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>49574874</id>
+</work>
+<isbn>2070368076</isbn>
+<isbn13>9782070368075</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>6975</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>12</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1466</id>
+<name>Jean-Paul Sartre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1466.Jean_Paul_Sartre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>394487</id>
+<title>Lorenzaccio</title>
+<title_without_series>Lorenzaccio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/394487.Lorenzaccio]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1315606902s/394487.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1315606902m/394487.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>384015</id>
+</work>
+<isbn>2030347205</isbn>
+<isbn13>9782030347201</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>2215</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>224009</id>
+<name>Alfred de Musset</name>
+<link><![CDATA[https://www.goodreads.com/author/show/224009.Alfred_de_Musset]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27737</id>
+<title><![CDATA[La cantatrice chauve, suivi de La leçon]]></title>
+<title_without_series><![CDATA[La cantatrice chauve, suivi de La leçon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27737.La_cantatrice_chauve_suivi_de_La_le_on]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1341447674s/27737.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1341447674m/27737.jpg]]></image_url>
+<num_pages>190</num_pages>
+<work>
+<id>28335</id>
+</work>
+<isbn>2070362361</isbn>
+<isbn13>9782070362363</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>5576</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7689</id>
+<name>Eugène Ionesco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7689.Eug_ne_Ionesco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>857213</id>
+<title>Le Malade imaginaire</title>
+<title_without_series>Le Malade imaginaire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/857213.Le_Malade_imaginaire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>255</num_pages>
+<work>
+<id>1511258</id>
+</work>
+<isbn>2038716668</isbn>
+<isbn13>9782038716665</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>6310</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>29837</id>
+<name>Molière</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29837.Moli_re]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>315991</id>
+<title><![CDATA[Caligula; suivi de Le Malentendu]]></title>
+<title_without_series><![CDATA[Caligula; suivi de Le Malentendu]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/315991.Caligula_suivi_de_Le_Malentendu]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364337172s/315991.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364337172m/315991.jpg]]></image_url>
+<num_pages>245</num_pages>
+<work>
+<id>26415356</id>
+</work>
+<isbn>2070360644</isbn>
+<isbn13>9782070360642</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>746</ratings_count>
+<publication_year>1972</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>957894</id>
+<name>Albert Camus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/957894.Albert_Camus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>220092</id>
+<title><![CDATA[The Marriage of Figaro (Le Nozze Di Figaro): Vocal Score]]></title>
+<title_without_series><![CDATA[The Marriage of Figaro (Le Nozze Di Figaro): Vocal Score]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/220092.The_Marriage_of_Figaro_Le_Nozze_Di_Figaro_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1426466774s/220092.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1426466774m/220092.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>213106</id>
+</work>
+<isbn>0793512085</isbn>
+<isbn13></isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>3248</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>254845</id>
+<name>Lorenzo Da Ponte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/254845.Lorenzo_Da_Ponte]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>567023</id>
+<title><![CDATA[Le Barbier de Séville ou La Précaution Inutile]]></title>
+<title_without_series><![CDATA[Le Barbier de Séville ou La Précaution Inutile]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/567023.Le_Barbier_de_S_ville_ou_La_Pr_caution_Inutile]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>202</num_pages>
+<work>
+<id>930613</id>
+</work>
+<isbn>2070400034</isbn>
+<isbn13>9782070400034</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1098</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7814278</id>
+<name><![CDATA[Pierre-Augustin Caron de Beaumarchais]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/7814278.Pierre_Augustin_Caron_de_Beaumarchais]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>838127</id>
+<title>Horace</title>
+<title_without_series>Horace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/838127.Horace]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>823702</id>
+</work>
+<isbn>2035877350</isbn>
+<isbn13>9782035877352</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>632</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3015432</id>
+<name>Pierre Corneille</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3015432.Pierre_Corneille]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>316101</id>
+<title><![CDATA[Le jeu de l'amour et du hasard]]></title>
+<title_without_series><![CDATA[Le jeu de l'amour et du hasard]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/316101.Le_jeu_de_l_amour_et_du_hasard]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>145</num_pages>
+<work>
+<id>306931</id>
+</work>
+<isbn>2030345911</isbn>
+<isbn13>9782038700831</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>3107</ratings_count>
+<publication_year>1970</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7815558</id>
+<name>Pierre de Marivaux</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7815558.Pierre_de_Marivaux]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1246292</id>
+<title>Ruy Blas</title>
+<title_without_series>Ruy Blas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1246292.Ruy_Blas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1971441</id>
+</work>
+<isbn>2038717192</isbn>
+<isbn13>9782038717198</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>1522</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13661</id>
+<name>Victor Hugo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13661.Victor_Hugo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>386377</id>
+<title><![CDATA[Knock ou le triomphe de la médecine]]></title>
+<title_without_series><![CDATA[Knock ou le triomphe de la médecine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386377.Knock_ou_le_triomphe_de_la_m_decine]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1345586985s/386377.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1345586985m/386377.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>376030</id>
+</work>
+<isbn>2070360601</isbn>
+<isbn13>9782070360604</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>833</ratings_count>
+<publication_year>1972</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>112581</id>
+<name>Jules Romains</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112581.Jules_Romains]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

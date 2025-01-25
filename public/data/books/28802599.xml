@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>28802599</id>
+  <title>The Light of the Fireflies</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B016A31ZWC]]></asin>
+  <kindle_asin><![CDATA[B016A31ZWC]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[<b>A haunting and hopeful tale of discovering light in even the darkest of places.</b><br /><br />For his whole life, the boy has lived underground, in a basement with his parents, grandmother, sister, and brother. Before he was born, his family was disfigured by a fire. His sister wears a white mask to cover her burns.<br /><br />He spends his hours with his cactus, reading his book on insects, or touching the one ray of sunlight that filters in through a crack in the ceiling. Ever since his sister had a baby, everyone’s been acting very strangely. The boy begins to wonder why they never say who the father is, about what happened before his own birth, about why they’re shut away.<br /><br />A few days ago, some fireflies arrived in the basement. His grandma said, <i>There’s no creature more amazing than one that can make its own light.</i> That light makes the boy want to escape, to know the outside world. Problem is, all the doors are locked. And he doesn’t know how to get out.…]]></description>
+  <work>
+  <id type="integer">24952557</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">28802599</best_book_id>
+  <reviews_count type="integer">30448</reviews_count>
+  <ratings_sum type="integer">56652</ratings_sum>
+  <ratings_count type="integer">15069</ratings_count>
+  <text_reviews_count type="integer">1744</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4027|4:5534|3:3813|2:1247|1:448|total:15069</rating_dist>
+  <desc_user_id type="integer">11135517</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.76</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13837]]></ratings_count>
+  <text_reviews_count><![CDATA[1431]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/28802599-the-light-of-the-fireflies]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/28802599-the-light-of-the-fireflies]]></link>
+  <authors>
+<author>
+<id>5028226</id>
+<name>Paul Pen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1488970812p5/5028226.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1488970812p2/5028226.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5028226.Paul_Pen]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>15521</ratings_count>
+<text_reviews_count>1838</text_reviews_count>
+</author>
+<author>
+<id>7198935</id>
+<name>Simon Bruni</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487872157p5/7198935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487872157p2/7198935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7198935.Simon_Bruni]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>16768</ratings_count>
+<text_reviews_count>1707</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/28802599-the-light-of-the-fireflies">The Light of the Fireflies Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B016A31ZWC&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/28802599-the-light-of-the-fireflies?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11686"/>
+      <shelf name="currently-reading" count="1617"/>
+      <shelf name="kindle" count="143"/>
+      <shelf name="fiction" count="111"/>
+      <shelf name="mystery" count="80"/>
+      <shelf name="thriller" count="73"/>
+      <shelf name="kindle-first" count="70"/>
+      <shelf name="favorites" count="60"/>
+      <shelf name="owned" count="30"/>
+      <shelf name="book-club" count="29"/>
+      <shelf name="kindle-books" count="29"/>
+      <shelf name="contemporary" count="29"/>
+      <shelf name="read-in-2016" count="28"/>
+      <shelf name="kindle-unlimited" count="23"/>
+      <shelf name="audible" count="23"/>
+      <shelf name="horror" count="20"/>
+      <shelf name="read-2016" count="20"/>
+      <shelf name="books-i-own" count="20"/>
+      <shelf name="ebook" count="18"/>
+      <shelf name="ebooks" count="16"/>
+      <shelf name="suspense" count="16"/>
+      <shelf name="drama" count="13"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="2016-books" count="12"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="2016-reading-challenge" count="11"/>
+      <shelf name="on-kindle" count="11"/>
+      <shelf name="family" count="10"/>
+      <shelf name="mystery-thriller" count="10"/>
+      <shelf name="e-books" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="2016-read" count="9"/>
+      <shelf name="contemporary-fiction" count="9"/>
+      <shelf name="own-kindle" count="9"/>
+      <shelf name="general-fiction" count="9"/>
+      <shelf name="read-in-2017" count="8"/>
+      <shelf name="read-2017" count="8"/>
+      <shelf name="e-book" count="8"/>
+      <shelf name="adult" count="8"/>
+      <shelf name="audiobook" count="7"/>
+      <shelf name="young-adult" count="7"/>
+      <shelf name="books-read-in-2016" count="7"/>
+      <shelf name="kindle-to-read" count="7"/>
+      <shelf name="2016-reads" count="7"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="abandoned" count="7"/>
+      <shelf name="stand-alone" count="7"/>
+      <shelf name="favoritos" count="7"/>
+      <shelf name="2017-reads" count="6"/>
+      <shelf name="audio" count="6"/>
+      <shelf name="kindle-tbr" count="6"/>
+      <shelf name="amazon" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="on-my-kindle" count="6"/>
+      <shelf name="mystery-suspense" count="6"/>
+      <shelf name="thrillers" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="scifi-fantasy-horror" count="5"/>
+      <shelf name="thriller-suspense" count="5"/>
+      <shelf name="novels" count="5"/>
+      <shelf name="horror-thriller" count="5"/>
+      <shelf name="2016-challenge" count="5"/>
+      <shelf name="literary-fiction" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="own-on-kindle" count="5"/>
+      <shelf name="first-reads" count="5"/>
+      <shelf name="own-ebook" count="5"/>
+      <shelf name="owned-to-read" count="5"/>
+      <shelf name="spanish" count="5"/>
+      <shelf name="misterio" count="5"/>
+      <shelf name="audio-book" count="4"/>
+      <shelf name="mystery-thriller-horror" count="4"/>
+      <shelf name="gave-up" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="adult-fiction" count="4"/>
+      <shelf name="dark" count="4"/>
+      <shelf name="2016-book-challenge" count="4"/>
+      <shelf name="kindle-firsts" count="4"/>
+      <shelf name="freebie" count="4"/>
+      <shelf name="own-to-read" count="4"/>
+      <shelf name="kindle-first-reads" count="4"/>
+      <shelf name="owned-but-unread" count="4"/>
+      <shelf name="lista-de-deseos" count="4"/>
+      <shelf name="favorite-books" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="audio-books" count="3"/>
+      <shelf name="kindle-first-books" count="3"/>
+      <shelf name="terror" count="3"/>
+      <shelf name="purchased" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="unread" count="3"/>
+      <shelf name="amazon-freebies" count="3"/>
+      <shelf name="to-read-owned" count="3"/>
+      <shelf name="did-not-finish" count="3"/>
+      <shelf name="finished" count="3"/>
+      <shelf name="crime" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="ya" count="3"/>
+      <shelf name="to-read-kindle" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>17801134</id>
+<title>La canción secreta del mundo</title>
+<title_without_series>La canción secreta del mundo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17801134-la-canci-n-secreta-del-mundo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366040977s/17801134.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366040977m/17801134.jpg]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>24901878</id>
+</work>
+<isbn>8415709153</isbn>
+<isbn13>9788415709152</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>606</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3073582</id>
+<name>José Antonio Cotrina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3073582.Jos_Antonio_Cotrina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12995233</id>
+<title><![CDATA[El haiku de las palabras perdidas]]></title>
+<title_without_series><![CDATA[El haiku de las palabras perdidas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12995233-el-haiku-de-las-palabras-perdidas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330554562s/12995233.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330554562m/12995233.jpg]]></image_url>
+<num_pages>592</num_pages>
+<work>
+<id>18155558</id>
+</work>
+<isbn>8401352134</isbn>
+<isbn13>9788401352133</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>420</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3494453</id>
+<name>Andrés Pascual</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3494453.Andr_s_Pascual]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17970687</id>
+<title><![CDATA[Y entonces sucedió algo maravilloso]]></title>
+<title_without_series><![CDATA[Y entonces sucedió algo maravilloso]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17970687-y-entonces-sucedi-algo-maravilloso]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369936442s/17970687.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369936442m/17970687.jpg]]></image_url>
+<num_pages>387</num_pages>
+<work>
+<id>25190671</id>
+</work>
+<isbn></isbn>
+<isbn13>9788423346516</isbn13>
+<average_rating>3.40</average_rating>
+<ratings_count>149</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7102420</id>
+<name>Sonia Laredo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7102420.Sonia_Laredo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15729392</id>
+<title>Los días que nos separan</title>
+<title_without_series>Los días que nos separan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15729392-los-d-as-que-nos-separan]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1500480260s/15729392.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1500480260m/15729392.jpg]]></image_url>
+<num_pages>411</num_pages>
+<work>
+<id>21408314</id>
+</work>
+<isbn>8415750234</isbn>
+<isbn13>9788415750239</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>1615</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>6432932</id>
+<name>Laia  Soler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6432932.Laia_Soler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17842792</id>
+<title>Croquetas y wasaps</title>
+<title_without_series>Croquetas y wasaps</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17842792-croquetas-y-wasaps]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366794497s/17842792.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366794497m/17842792.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>24970995</id>
+</work>
+<isbn></isbn>
+<isbn13>9788467551907</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>630</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4749353</id>
+<name>Begoña Oro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4749353.Bego_a_Oro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15976871</id>
+<title>El tiempo que nos une</title>
+<title_without_series>El tiempo que nos une</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15976871-el-tiempo-que-nos-une]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1352958959s/15976871.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1352958959m/15976871.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>21728529</id>
+</work>
+<isbn>8483652528</isbn>
+<isbn13>9788483652527</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>145</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2903</id>
+<name>Alejandro Palomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2903.Alejandro_Palomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17372134</id>
+<title><![CDATA[Rasguños en la puerta (RELP #1)]]></title>
+<title_without_series>Rasguños en la puerta</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17372134-rasgu-os-en-la-puerta]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1373844437s/17372134.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1373844437m/17372134.jpg]]></image_url>
+<num_pages>642</num_pages>
+<work>
+<id>24158836</id>
+</work>
+<isbn>1484092139</isbn>
+<isbn13>9781484092132</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6937477</id>
+<name>Melisa S. Ramonda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6937477.Melisa_S_Ramonda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17671096</id>
+<title>Ojos azules en Kabul</title>
+<title_without_series>Ojos azules en Kabul</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17671096-ojos-azules-en-kabul]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364092311s/17671096.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364092311m/17671096.jpg]]></image_url>
+<num_pages>370</num_pages>
+<work>
+<id>24669507</id>
+</work>
+<isbn>8415750625</isbn>
+<isbn13>9788415750628</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>284</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5275593</id>
+<name>Anabel Botella</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5275593.Anabel_Botella]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17999567</id>
+<title><![CDATA[La corte de los espejos (La corte de los espejos, #1)]]></title>
+<title_without_series>La corte de los espejos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17999567-la-corte-de-los-espejos]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1371500414s/17999567.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1371500414m/17999567.jpg]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>25258454</id>
+</work>
+<isbn>8415831013</isbn>
+<isbn13>9788415831013</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>432</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7112050</id>
+<name>Concepción Perea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7112050.Concepci_n_Perea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26706264</id>
+<title>The Eagle Tree</title>
+<title_without_series>The Eagle Tree</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26706264-the-eagle-tree]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1457193082s/26706264.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1457193082m/26706264.jpg]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>46735942</id>
+</work>
+<isbn>1503936643</isbn>
+<isbn13>9781503936645</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>3526</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3343394</id>
+<name>Ned Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3343394.Ned_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17618932</id>
+<title>Enlazados</title>
+<title_without_series>Enlazados</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17618932-enlazados]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1363430514s/17618932.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1363430514m/17618932.jpg]]></image_url>
+<num_pages>270</num_pages>
+<work>
+<id>24584257</id>
+</work>
+<isbn></isbn>
+<isbn13>9788408112525</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>158</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6997770</id>
+<name>Carlos García Miranda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6997770.Carlos_Garc_a_Miranda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27277570</id>
+<title>Grave of Hummingbirds</title>
+<title_without_series>Grave of Hummingbirds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27277570-grave-of-hummingbirds]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1447709924s/27277570.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1447709924m/27277570.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>46189012</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>1778</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8007733</id>
+<name>Jennifer Skutelsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8007733.Jennifer_Skutelsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29482250</id>
+<title>Deliver Her</title>
+<title_without_series>Deliver Her</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29482250-deliver-her]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1457690256s/29482250.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1457690256m/29482250.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>47840343</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>8739</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14681790</id>
+<name>Patricia Perry Donovan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14681790.Patricia_Perry_Donovan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9512909</id>
+<title>Y pese a todo...</title>
+<title_without_series>Y pese a todo...</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9512909-y-pese-a-todo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411258689s/9512909.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411258689m/9512909.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>14398702</id>
+</work>
+<isbn>8493814318</isbn>
+<isbn13>9788493814311</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>357</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4409066</id>
+<name>Juan de Dios Garduño</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4409066.Juan_de_Dios_Gardu_o]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28235223</id>
+<title>The Oddfits</title>
+<title_without_series>The Oddfits</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28235223-the-oddfits]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1450467564s/28235223.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1450467564m/28235223.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>46023311</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>2295</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8159016</id>
+<name>Tiffany Tsao</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8159016.Tiffany_Tsao]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20525471</id>
+<title><![CDATA[The Uncanny Valley: Tales from a Lost Town]]></title>
+<title_without_series><![CDATA[The Uncanny Valley: Tales from a Lost Town]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20525471-the-uncanny-valley]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>141</num_pages>
+<work>
+<id>16312528</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1052</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>778281</id>
+<name>Gregory Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/778281.Gregory_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18599540</id>
+<title><![CDATA[Un minuto antes de la oscuridad]]></title>
+<title_without_series><![CDATA[Un minuto antes de la oscuridad]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18599540-un-minuto-antes-de-la-oscuridad]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382721571s/18599540.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382721571m/18599540.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>26365449</id>
+</work>
+<isbn>8415831218</isbn>
+<isbn13>9788415831211</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>155</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3316898</id>
+<name>Ismael Martínez Biurrun</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3316898.Ismael_Mart_nez_Biurrun]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13417349</id>
+<title>Il mio inverno a Zerolandia</title>
+<title_without_series>Il mio inverno a Zerolandia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13417349-il-mio-inverno-a-zerolandia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1326916672s/13417349.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1326916672m/13417349.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>18744803</id>
+</work>
+<isbn>8817055344</isbn>
+<isbn13>9788817055345</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>860</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5448024</id>
+<name>Paola Predicatori</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5448024.Paola_Predicatori]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

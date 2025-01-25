@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>2198274</id>
+  <title>The Monster of Florence</title>
+  <isbn><![CDATA[0446581194]]></isbn>
+  <isbn13><![CDATA[9780446581196]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003D87PPO]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1306075698m/2198274.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1306075698s/2198274.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In the nonfiction tradition of John Berendt ("Midnight in the Garden of Good and Evil") and Erik Larson ("The Devil in the White City"), <i>New York Times </i>bestselling author Douglas Preston presents a gripping account of crime and punishment in the lush hills surrounding Florence, Italy.<br />In 2000, Douglas Preston fulfilled a dream to move his family to Italy. Then he discovered that the olive grove in front of their 14th century farmhouse had been the scene of the most infamous double-murders in Italian history, committed by a serial killer known as the Monster of Florence. Preston, intrigued, meets Italian investigative journalist Mario Spezi to learn more. <i> </i>This is the true story of their search for--and identification of--the man they believe committed the crimes, and their chilling interview with him. And then, in a strange twist of fate, Preston and Spezi themselves become targets of the police investigation. Preston has his phone tapped, is interrogated, and told to leave the country. Spezi fares worse: he is thrown into Italy's grim Capanne prison, accused of being the Monster of Florence himself. Like one of Preston's thrillers, <i>The Monster Of Florence</i>, tells a remarkable and harrowing story involving murder, mutilation, and suicide-and at the center of it, Preston and Spezi, caught in a bizarre prosecutorial vendetta.]]></description>
+  <work>
+  <id type="integer">2204022</id>
+  <books_count type="integer">53</books_count>
+  <best_book_id type="integer">2198274</best_book_id>
+  <reviews_count type="integer">44060</reviews_count>
+  <ratings_sum type="integer">86820</ratings_sum>
+  <ratings_count type="integer">23333</ratings_count>
+  <text_reviews_count type="integer">2424</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Monster of Florence: A True Story</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5165|4:9176|3:6750|2:1799|1:443|total:23333</rating_dist>
+  <desc_user_id type="integer">39669069</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.72</average_rating>
+  <num_pages><![CDATA[322]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21568]]></ratings_count>
+  <text_reviews_count><![CDATA[2163]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2198274.The_Monster_of_Florence]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2198274.The_Monster_of_Florence]]></link>
+  <authors>
+<author>
+<id>12577</id>
+<name>Douglas Preston</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399043352p5/12577.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399043352p2/12577.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12577.Douglas_Preston]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>575850</ratings_count>
+<text_reviews_count>33711</text_reviews_count>
+</author>
+<author>
+<id>1620230</id>
+<name>Mario Spezi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1486065816p5/1620230.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1486065816p2/1620230.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1620230.Mario_Spezi]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>22478</ratings_count>
+<text_reviews_count>2316</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/2198274.The_Monster_of_Florence">The Monster of Florence Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446581194&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/2198274.The_Monster_of_Florence?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3188"/>
+      <shelf name="true-crime" count="574"/>
+      <shelf name="nonfiction" count="381"/>
+      <shelf name="mystery" count="200"/>
+      <shelf name="history" count="198"/>
+      <shelf name="non-fiction" count="136"/>
+      <shelf name="currently-reading" count="116"/>
+      <shelf name="favorites" count="107"/>
+      <shelf name="book-club" count="76"/>
+      <shelf name="books-i-own" count="66"/>
+      <shelf name="owned" count="64"/>
+      <shelf name="audio" count="51"/>
+      <shelf name="thriller" count="47"/>
+      <shelf name="audiobooks" count="46"/>
+      <shelf name="audiobook" count="44"/>
+      <shelf name="fiction" count="42"/>
+      <shelf name="crime" count="39"/>
+      <shelf name="historical" count="39"/>
+      <shelf name="mystery-thriller" count="36"/>
+      <shelf name="horror" count="36"/>
+      <shelf name="library" count="36"/>
+      <shelf name="default" count="29"/>
+      <shelf name="memoir" count="28"/>
+      <shelf name="kindle" count="24"/>
+      <shelf name="douglas-preston" count="23"/>
+      <shelf name="europe" count="21"/>
+      <shelf name="biography" count="21"/>
+      <shelf name="preston-child" count="21"/>
+      <shelf name="mysteries" count="21"/>
+      <shelf name="to-buy" count="21"/>
+      <shelf name="true" count="20"/>
+      <shelf name="italy" count="19"/>
+      <shelf name="audio-book" count="19"/>
+      <shelf name="abandoned" count="18"/>
+      <shelf name="audio-books" count="18"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="historical-fiction" count="17"/>
+      <shelf name="serial-killers" count="16"/>
+      <shelf name="murder" count="15"/>
+      <shelf name="read-in-2015" count="14"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="my-books" count="13"/>
+      <shelf name="read-in-2011" count="13"/>
+      <shelf name="non-fic" count="13"/>
+      <shelf name="to-read-non-fiction" count="12"/>
+      <shelf name="mystery-suspense" count="12"/>
+      <shelf name="adult-non-fiction" count="12"/>
+      <shelf name="read-in-2013" count="11"/>
+      <shelf name="serial-killer" count="11"/>
+      <shelf name="suspense" count="11"/>
+      <shelf name="adult" count="11"/>
+      <shelf name="truecrime" count="11"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="italian" count="10"/>
+      <shelf name="true-story" count="10"/>
+      <shelf name="florence" count="10"/>
+      <shelf name="bookclub" count="10"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="journalism" count="10"/>
+      <shelf name="own-to-read" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="serial" count="9"/>
+      <shelf name="travel" count="9"/>
+      <shelf name="unfinished" count="9"/>
+      <shelf name="library-book" count="9"/>
+      <shelf name="read-in-2014" count="8"/>
+      <shelf name="mystery-crime" count="8"/>
+      <shelf name="memoirs" count="8"/>
+      <shelf name="contemporary" count="8"/>
+      <shelf name="borrowed" count="8"/>
+      <shelf name="crime-mystery" count="8"/>
+      <shelf name="non-fiction-to-read" count="8"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="nonfic" count="7"/>
+      <shelf name="on-kindle" count="7"/>
+      <shelf name="calibre" count="7"/>
+      <shelf name="gave-up-on" count="7"/>
+      <shelf name="european-history" count="7"/>
+      <shelf name="read-in-2010" count="7"/>
+      <shelf name="books" count="7"/>
+      <shelf name="european" count="7"/>
+      <shelf name="preston-douglas" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="e-books" count="6"/>
+      <shelf name="read-2013" count="6"/>
+      <shelf name="to-read-owned" count="6"/>
+      <shelf name="narrative-nonfiction" count="6"/>
+      <shelf name="to-read-nonfiction" count="6"/>
+      <shelf name="hardcover" count="6"/>
+      <shelf name="detective" count="6"/>
+      <shelf name="historical-non-fiction" count="6"/>
+      <shelf name="listened-to" count="6"/>
+      <shelf name="have" count="6"/>
+      <shelf name="italia" count="6"/>
+      <shelf name="murder-mystery" count="6"/>
+      <shelf name="read-in-2009" count="6"/>
+      <shelf name="listened" count="6"/>
+      <shelf name="killer" count="6"/>
+      <shelf name="2000s" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>391280</id>
+<title><![CDATA[The Devil's Gentleman: Privilege, Poison, and the Trial That Ushered in the Twentieth Century]]></title>
+<title_without_series><![CDATA[The Devil's Gentleman: Privilege, Poison, and the Trial That Ushered in the Twentieth Century]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/391280.The_Devil_s_Gentleman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>494</num_pages>
+<work>
+<id>2753960</id>
+</work>
+<isbn>0345476794</isbn>
+<isbn13>9780345476791</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1352</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>51490</id>
+<name>Harold Schechter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51490.Harold_Schechter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7893331</id>
+<title><![CDATA[The Killer of Little Shepherds: A True Crime Story and the Birth of Forensic Science]]></title>
+<title_without_series><![CDATA[The Killer of Little Shepherds: A True Crime Story and the Birth of Forensic Science]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7893331-the-killer-of-little-shepherds]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320482175s/7893331.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320482175m/7893331.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>11126612</id>
+</work>
+<isbn>0307266192</isbn>
+<isbn13>9780307266194</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>3776</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>403230</id>
+<name>Douglas Starr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403230.Douglas_Starr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>89829</id>
+<title><![CDATA[Death at the Priory: Love, Sex, and Murder in Victorian England]]></title>
+<title_without_series><![CDATA[Death at the Priory: Love, Sex, and Murder in Victorian England]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/89829.Death_at_the_Priory]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>979180</id>
+</work>
+<isbn>0802139744</isbn>
+<isbn13>9780802139740</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>1265</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>51572</id>
+<name>James Ruddick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51572.James_Ruddick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>290594</id>
+<title><![CDATA[The Murder of Helen Jewett: The Life and Death of a Prostitute in Nineteenth-Century New York]]></title>
+<title_without_series><![CDATA[The Murder of Helen Jewett: The Life and Death of a Prostitute in Nineteenth-Century New York]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/290594.The_Murder_of_Helen_Jewett]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320493972s/290594.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320493972m/290594.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>281927</id>
+</work>
+<isbn>0679740759</isbn>
+<isbn13>9780679740759</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>864</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>6</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>14794</id>
+<name>Patricia Cline Cohen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14794.Patricia_Cline_Cohen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1069354</id>
+<title><![CDATA[The Italian Boy: A Tale of Murder and Body Snatching in 1830s London]]></title>
+<title_without_series><![CDATA[The Italian Boy: A Tale of Murder and Body Snatching in 1830s London]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1069354.The_Italian_Boy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312059095s/1069354.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312059095m/1069354.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>1056027</id>
+</work>
+<isbn>0805078495</isbn>
+<isbn13>9780805078497</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>571</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8421640</id>
+<name>Sarah    Wise</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8421640.Sarah_Wise]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7071759</id>
+<title><![CDATA[Flawless: Inside the Largest Diamond Heist in History]]></title>
+<title_without_series><![CDATA[Flawless: Inside the Largest Diamond Heist in History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7071759-flawless]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328768666s/7071759.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328768666m/7071759.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>7325300</id>
+</work>
+<isbn>1402766513</isbn>
+<isbn13>9781402766510</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1828</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3146497</id>
+<name>Scott Andrew Selby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3146497.Scott_Andrew_Selby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2845191</id>
+<title><![CDATA[American Eve: Evelyn Nesbit, Stanford White, the Birth of the "It" Girl and the Crime of the Century]]></title>
+<title_without_series><![CDATA[American Eve: Evelyn Nesbit, Stanford White, the Birth of the "It" Girl and the Crime of the Century]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2845191-american-eve]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1260718740s/2845191.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1260718740m/2845191.jpg]]></image_url>
+<num_pages>386</num_pages>
+<work>
+<id>2871310</id>
+</work>
+<isbn>1594489939</isbn>
+<isbn13>9781594489938</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>2189</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1236095</id>
+<name>Paula Uruburu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1236095.Paula_Uruburu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>604620</id>
+<title><![CDATA[Judgment Ridge: The True Story Behind the Dartmouth Murders]]></title>
+<title_without_series><![CDATA[Judgment Ridge: The True Story Behind the Dartmouth Murders]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/604620.Judgment_Ridge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>591178</id>
+</work>
+<isbn>0060008458</isbn>
+<isbn13>9780060008451</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>600</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>40202</id>
+<name>Dick Lehr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40202.Dick_Lehr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>165858</id>
+<title><![CDATA[Lizzie Borden: The Legend, the Truth, the Final Chapter]]></title>
+<title_without_series><![CDATA[Lizzie Borden: The Legend, the Truth, the Final Chapter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/165858.Lizzie_Borden]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>160148</id>
+</work>
+<isbn>0440213150</isbn>
+<isbn13>9780440213154</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>288</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9114</id>
+<name>Arnold Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9114.Arnold_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6353690</id>
+<title><![CDATA[The Devil's Dozen: How Cutting-Edge Forensics Took Down 12 Notorious Serial Killers]]></title>
+<title_without_series><![CDATA[The Devil's Dozen: How Cutting-Edge Forensics Took Down 12 Notorious Serial Killers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6353690-the-devil-s-dozen]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>6540289</id>
+</work>
+<isbn>0425226034</isbn>
+<isbn13>9780425226032</isbn13>
+<average_rating>3.39</average_rating>
+<ratings_count>430</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>24645</id>
+<name>Katherine Ramsland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24645.Katherine_Ramsland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94336</id>
+<title>Obsession</title>
+<title_without_series>Obsession</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94336.Obsession]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>821345</id>
+</work>
+<isbn>0671017047</isbn>
+<isbn13>9780671017040</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>2033</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54208</id>
+<name>John E. Douglas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54208.John_E_Douglas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10148600</id>
+<title><![CDATA[Jack the Ripper and Black Magic: Victorian Conspiracy Theories, Secret Societies and the Supernatural Mystique of the Whitechapel Murders]]></title>
+<title_without_series><![CDATA[Jack the Ripper and Black Magic: Victorian Conspiracy Theories, Secret Societies and the Supernatural Mystique of the Whitechapel Murders]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10148600-jack-the-ripper-and-black-magic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312037704s/10148600.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312037704m/10148600.jpg]]></image_url>
+<num_pages>236</num_pages>
+<work>
+<id>15046910</id>
+</work>
+<isbn>0786445475</isbn>
+<isbn13>9780786445479</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>69</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4564509</id>
+<name>Spiro Dimolianis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4564509.Spiro_Dimolianis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7912825</id>
+<title><![CDATA[The Fall of the House of Walworth: A Tale of Madness and Murder in Gilded Age America]]></title>
+<title_without_series><![CDATA[The Fall of the House of Walworth: A Tale of Madness and Murder in Gilded Age America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7912825-the-fall-of-the-house-of-walworth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317064093s/7912825.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317064093m/7912825.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>11195185</id>
+</work>
+<isbn>0805081151</isbn>
+<isbn13>9780805081152</isbn13>
+<average_rating>3.14</average_rating>
+<ratings_count>355</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>170117</id>
+<name>Geoffrey O&apos;Brien</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170117.Geoffrey_O_Brien]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>913356</id>
+<title><![CDATA[Satan's Circus: Murder, Vice, Police Corruption, and New York's Trial of the Century]]></title>
+<title_without_series><![CDATA[Satan's Circus: Murder, Vice, Police Corruption, and New York's Trial of the Century]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/913356.Satan_s_Circus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>449</num_pages>
+<work>
+<id>1475869</id>
+</work>
+<isbn>1400054710</isbn>
+<isbn13>9781400054718</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>656</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>74009</id>
+<name>Mike Dash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74009.Mike_Dash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>79085</id>
+<title><![CDATA[Whoever Fights Monsters: My Twenty Years Tracking Serial Killers for the FBI]]></title>
+<title_without_series><![CDATA[Whoever Fights Monsters: My Twenty Years Tracking Serial Killers for the FBI]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/79085.Whoever_Fights_Monsters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>289</num_pages>
+<work>
+<id>76363</id>
+</work>
+<isbn>0312950446</isbn>
+<isbn13>9780312950446</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>3758</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>44924</id>
+<name>Robert K. Ressler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44924.Robert_K_Ressler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12786</id>
+<title>The City of Falling Angels</title>
+<title_without_series>The City of Falling Angels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12786.The_City_of_Falling_Angels]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>414</num_pages>
+<work>
+<id>737109</id>
+</work>
+<isbn>0143036939</isbn>
+<isbn13>9780143036937</isbn13>
+<average_rating>3.52</average_rating>
+<ratings_count>12544</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4952</id>
+<name>John Berendt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4952.John_Berendt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6276307</id>
+<title><![CDATA[The Best American Crime Reporting 2009]]></title>
+<title_without_series><![CDATA[The Best American Crime Reporting 2009]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6276307-the-best-american-crime-reporting-2009]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6459790</id>
+</work>
+<isbn>0061490849</isbn>
+<isbn13>9780061490842</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>241</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>163130</id>
+<name>Jeffrey Toobin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163130.Jeffrey_Toobin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>791348</id>
+<title>Classic Crimes</title>
+<title_without_series>Classic Crimes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/791348.Classic_Crimes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320461257s/791348.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320461257m/791348.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>777332</id>
+</work>
+<isbn>0940322463</isbn>
+<isbn13>9780940322462</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>84</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>415093</id>
+<name>William Roughead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/415093.William_Roughead]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

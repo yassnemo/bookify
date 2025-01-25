@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13067</id>
+  <title>Flush</title>
+  <isbn><![CDATA[0375821821]]></isbn>
+  <isbn13><![CDATA[9780375821820]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">5912667</id>
+  <books_count type="integer">38</books_count>
+  <best_book_id type="integer">13067</best_book_id>
+  <reviews_count type="integer">32182</reviews_count>
+  <ratings_sum type="integer">84104</ratings_sum>
+  <ratings_count type="integer">21780</ratings_count>
+  <text_reviews_count type="integer">2067</text_reviews_count>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Flush</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6106|4:8382|3:5768|2:1218|1:306|total:21780</rating_dist>
+  <desc_user_id type="integer">-110</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[263]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[20087]]></ratings_count>
+  <text_reviews_count><![CDATA[1900]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13067.Flush]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13067.Flush]]></link>
+  <authors>
+<author>
+<id>8178</id>
+<name>Carl Hiaasen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208367876p5/8178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208367876p2/8178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8178.Carl_Hiaasen]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>399172</ratings_count>
+<text_reviews_count>30380</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13067.Flush">Flush Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375821821&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/13067.Flush?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="276"/>
+      <shelf name="young-adult" count="260"/>
+      <shelf name="fiction" count="202"/>
+      <shelf name="realistic-fiction" count="160"/>
+      <shelf name="mystery" count="138"/>
+      <shelf name="favorites" count="122"/>
+      <shelf name="ya" count="110"/>
+      <shelf name="humor" count="91"/>
+      <shelf name="childrens" count="72"/>
+      <shelf name="books-i-own" count="62"/>
+      <shelf name="middle-grade" count="61"/>
+      <shelf name="owned" count="54"/>
+      <shelf name="children" count="50"/>
+      <shelf name="children-s" count="48"/>
+      <shelf name="kids" count="46"/>
+      <shelf name="adventure" count="45"/>
+      <shelf name="carl-hiaasen" count="43"/>
+      <shelf name="florida" count="39"/>
+      <shelf name="environment" count="39"/>
+      <shelf name="audiobook" count="39"/>
+      <shelf name="audio" count="37"/>
+      <shelf name="juvenile" count="37"/>
+      <shelf name="childhood" count="36"/>
+      <shelf name="children-s-books" count="35"/>
+      <shelf name="audiobooks" count="35"/>
+      <shelf name="kids-books" count="33"/>
+      <shelf name="currently-reading" count="32"/>
+      <shelf name="middle-school" count="28"/>
+      <shelf name="funny" count="26"/>
+      <shelf name="library" count="25"/>
+      <shelf name="flush" count="25"/>
+      <shelf name="contemporary" count="25"/>
+      <shelf name="juvenile-fiction" count="25"/>
+      <shelf name="ya-fiction" count="23"/>
+      <shelf name="audio-book" count="20"/>
+      <shelf name="chapter-books" count="18"/>
+      <shelf name="school" count="18"/>
+      <shelf name="classroom-library" count="17"/>
+      <shelf name="family" count="17"/>
+      <shelf name="fyic" count="16"/>
+      <shelf name="default" count="16"/>
+      <shelf name="young-adult-fiction" count="16"/>
+      <shelf name="crime" count="16"/>
+      <shelf name="realistic" count="16"/>
+      <shelf name="i-want-that-pretty" count="15"/>
+      <shelf name="middle-grades" count="15"/>
+      <shelf name="books" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="childrens-books" count="14"/>
+      <shelf name="pollution" count="13"/>
+      <shelf name="i-own" count="13"/>
+      <shelf name="hiaasen" count="13"/>
+      <shelf name="teen" count="13"/>
+      <shelf name="animals" count="12"/>
+      <shelf name="audio-books" count="12"/>
+      <shelf name="7th-grade" count="12"/>
+      <shelf name="humour" count="12"/>
+      <shelf name="my-books" count="11"/>
+      <shelf name="childhood-books" count="11"/>
+      <shelf name="teen-fiction" count="11"/>
+      <shelf name="battle-of-the-books" count="11"/>
+      <shelf name="environmental" count="11"/>
+      <shelf name="youth" count="11"/>
+      <shelf name="ya-lit" count="11"/>
+      <shelf name="humorous" count="10"/>
+      <shelf name="children-s-literature" count="10"/>
+      <shelf name="nature" count="10"/>
+      <shelf name="children-s-lit" count="10"/>
+      <shelf name="childrens-lit" count="10"/>
+      <shelf name="2006" count="10"/>
+      <shelf name="summer-reading" count="9"/>
+      <shelf name="classroom" count="9"/>
+      <shelf name="book-club" count="9"/>
+      <shelf name="young-adult-lit" count="9"/>
+      <shelf name="novels" count="9"/>
+      <shelf name="contemporary-fiction" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="have" count="8"/>
+      <shelf name="read-in-2009" count="8"/>
+      <shelf name="6th-grade" count="8"/>
+      <shelf name="kid-lit" count="8"/>
+      <shelf name="listened-to" count="8"/>
+      <shelf name="childhood-favorites" count="7"/>
+      <shelf name="elementary" count="7"/>
+      <shelf name="3-stars" count="7"/>
+      <shelf name="read-in-7th-grade" count="7"/>
+      <shelf name="hilarious" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="comedy" count="7"/>
+      <shelf name="to-re-read" count="7"/>
+      <shelf name="mysteries" count="7"/>
+      <shelf name="j-fic" count="7"/>
+      <shelf name="kid-books" count="7"/>
+      <shelf name="conservation" count="6"/>
+      <shelf name="activism" count="6"/>
+      <shelf name="read-in-8th-grade" count="6"/>
+      <shelf name="tween" count="6"/>
+      <shelf name="read-in-2012" count="6"/>
+      <shelf name="my-bookshelf" count="6"/>
+      <shelf name="mystery-thriller" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>204101</id>
+<title>Chicken Boy</title>
+<title_without_series>Chicken Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/204101.Chicken_Boy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2705242</id>
+</work>
+<isbn>1416934820</isbn>
+<isbn13>9781416934820</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>1184</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>79632</id>
+<name>Frances O&apos;Roark Dowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79632.Frances_O_Roark_Dowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>904597</id>
+<title>Miracle on 49th Street</title>
+<title_without_series>Miracle on 49th Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/904597.Miracle_on_49th_Street]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309285394s/904597.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309285394m/904597.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>889751</id>
+</work>
+<isbn>0399244883</isbn>
+<isbn13>9780399244889</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3108</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2607</id>
+<name>Mike Lupica</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2607.Mike_Lupica]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6177287</id>
+<title>Operation Redwood</title>
+<title_without_series>Operation Redwood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6177287-operation-redwood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328813093s/6177287.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328813093m/6177287.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6357050</id>
+</work>
+<isbn>0810983540</isbn>
+<isbn13>9780810983540</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>615</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2814540</id>
+<name>S. Terrell French</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2814540.S_Terrell_French]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>225229</id>
+<title><![CDATA[I Am Not Joey Pigza (Joey Pigza, #4)]]></title>
+<title_without_series>I Am Not Joey Pigza</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/225229.I_Am_Not_Joey_Pigza]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317792400s/225229.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317792400m/225229.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>218137</id>
+</work>
+<isbn>0374399417</isbn>
+<isbn13>9780374399412</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>693</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>47312</id>
+<name>Jack Gantos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47312.Jack_Gantos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8098718</id>
+<title>Saraswati&apos;s Way</title>
+<title_without_series>Saraswati&apos;s Way</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8098718-saraswati-s-way]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317792821s/8098718.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317792821m/8098718.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12865484</id>
+</work>
+<isbn>0374364117</isbn>
+<isbn13>9780374364113</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>193</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3104347</id>
+<name>Monika Schröder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3104347.Monika_Schr_der]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7379310</id>
+<title><![CDATA[Sammy Keyes and the Wedding Crasher (Sammy Keyes, #13)]]></title>
+<title_without_series><![CDATA[Sammy Keyes and the Wedding Crasher]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7379310-sammy-keyes-and-the-wedding-crasher]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309721782s/7379310.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309721782m/7379310.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>9216687</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>893</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>12950</id>
+<name>Wendelin Van Draanen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12950.Wendelin_Van_Draanen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6137155</id>
+<title><![CDATA[Al Capone Shines My Shoes (Al Capone at Alcatraz, #2)]]></title>
+<title_without_series>Al Capone Shines My Shoes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6137155-al-capone-shines-my-shoes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>6533382</id>
+</work>
+<isbn>0803734603</isbn>
+<isbn13>9780803734609</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>6325</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>35634</id>
+<name>Gennifer Choldenko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35634.Gennifer_Choldenko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138047</id>
+<title>Project Mulberry</title>
+<title_without_series>Project Mulberry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138047.Project_Mulberry]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320483651s/138047.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320483651m/138047.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>2568657</id>
+</work>
+<isbn>0440421632</isbn>
+<isbn13>9780440421634</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>3103</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>61707</id>
+<name>Linda Sue Park</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61707.Linda_Sue_Park]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>963099</id>
+<title>Fish</title>
+<title_without_series>Fish</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/963099.Fish]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>948000</id>
+</work>
+<isbn>0385731809</isbn>
+<isbn13>9780385731805</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>579</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>843857</id>
+<name>L.S. Matthews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/843857.L_S_Matthews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>230992</id>
+<title>Millicent Min, Girl Genius</title>
+<title_without_series>Millicent Min, Girl Genius</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/230992.Millicent_Min_Girl_Genius]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867080s/230992.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867080m/230992.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>223724</id>
+</work>
+<isbn>0439771315</isbn>
+<isbn13>9780439771313</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>3837</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>135047</id>
+<name>Lisa Yee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/135047.Lisa_Yee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6760793</id>
+<title>Belly Up (FunJungle #1)</title>
+<title_without_series>Belly Up</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6760793-belly-up]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1267406352s/6760793.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1267406352m/6760793.jpg]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>6958059</id>
+</work>
+<isbn>1416987312</isbn>
+<isbn13>9781416987314</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>5043</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3040652</id>
+<name>Stuart Gibbs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3040652.Stuart_Gibbs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>198135</id>
+<title>Adam Canfield of the Slash</title>
+<title_without_series>Adam Canfield of the Slash</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/198135.Adam_Canfield_of_the_Slash]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1522790</id>
+</work>
+<isbn>0763627941</isbn>
+<isbn13>9780763627942</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>669</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>115458</id>
+<name>Michael Winerip</name>
+<link><![CDATA[https://www.goodreads.com/author/show/115458.Michael_Winerip]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>428035</id>
+<title>Each Little Bird that Sings</title>
+<title_without_series>Each Little Bird that Sings</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/428035.Each_Little_Bird_that_Sings]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328875934s/428035.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328875934m/428035.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>1149154</id>
+</work>
+<isbn>0152056572</isbn>
+<isbn13>9780152056575</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>5939</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>178856</id>
+<name>Deborah Wiles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178856.Deborah_Wiles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2927626</id>
+<title>Science Fair</title>
+<title_without_series>Science Fair</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2927626-science-fair]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>2944560</id>
+</work>
+<isbn>1423113241</isbn>
+<isbn13>9781423113249</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1493</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6245</id>
+<name>Dave Barry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6245.Dave_Barry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>361487</id>
+<title>Becoming Naomi León</title>
+<title_without_series>Becoming Naomi León</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/361487.Becoming_Naomi_Le_n]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>3007313</id>
+</work>
+<isbn>0439269970</isbn>
+<isbn13>9780439269971</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>10005</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1244538</id>
+<name>Pam Muñoz Ryan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1244538.Pam_Mu_oz_Ryan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>235125</id>
+<title>Things Hoped For (Things, #2)</title>
+<title_without_series>Things Hoped For</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/235125.Things_Hoped_For]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>227728</id>
+</work>
+<isbn>039924350X</isbn>
+<isbn13>9780399243509</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>3470</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>63095</id>
+<name>Andrew Clements</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63095.Andrew_Clements]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>368449</id>
+<title>Diamonds in the Shadow</title>
+<title_without_series>Diamonds in the Shadow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/368449.Diamonds_in_the_Shadow]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320482883s/368449.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320482883m/368449.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1441775</id>
+</work>
+<isbn>0385732619</isbn>
+<isbn13>9780385732611</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>1341</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9059</id>
+<name>Caroline B. Cooney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9059.Caroline_B_Cooney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>532474</id>
+<title><![CDATA[The Boy Who Saved Baseball (Cruz de la Cruz, #2)]]></title>
+<title_without_series>The Boy Who Saved Baseball</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/532474.The_Boy_Who_Saved_Baseball]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>520031</id>
+</work>
+<isbn>0142402869</isbn>
+<isbn13>9780142402863</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2035</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>294374</id>
+<name>John H. Ritter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/294374.John_H_Ritter]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

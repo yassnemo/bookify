@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34508</id>
+  <title>Interesting Times: The Play</title>
+  <isbn><![CDATA[0413772195]]></isbn>
+  <isbn13><![CDATA[9780413772190]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00354YA6I]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1387302457m/34508.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1387302457s/34508.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>4</publication_day>
+  <publisher>Bloomsbury Methuen Drama</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<div>A new stage adaptation of one of Pratchett's best-selling novels<br /><p>The Discworld's most inept wizard has been sent from Unseen University in Ankh-Morpork to the oppressive Agatean Empire to help some well-intentioned rebels overthrow the Emperor.<br /><br />He's assisted by toy-rabbit-wielding rebels, an army of terracotta warriors, a tax gatherer and a group of seven very elderly barbarian heroes lead by Cohen the Barbarian. Opposing him, though, is the evil and manipulative Lord Hong and his army of 750,000 men.<br /><br />Oh?Rincewind is also aided by Twoflower - Discworld's first tourist and the author of a subversive book, about his visit to Ankh-Morpork, which has inspired the rebels in their struggle for freedom.<br /><br />The book is called "What I Did On My Holidays".</p><p><br /> </p><br /></div>]]></description>
+  <work>
+  <id type="integer">34479</id>
+  <books_count type="integer">4</books_count>
+  <best_book_id type="integer">34508</best_book_id>
+  <reviews_count type="integer">23729</reviews_count>
+  <ratings_sum type="integer">78871</ratings_sum>
+  <ratings_count type="integer">19239</ratings_count>
+  <text_reviews_count type="integer">176</text_reviews_count>
+  <original_publication_year type="integer">1995</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Interesting Times</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7335|4:7242|3:3994|2:578|1:90|total:19239</rating_dist>
+  <desc_user_id type="integer">8269809</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[102]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Stage Adaptation]]></edition_information>
+  <ratings_count><![CDATA[19225]]></ratings_count>
+  <text_reviews_count><![CDATA[176]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34508.Interesting_Times]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34508.Interesting_Times]]></link>
+  <authors>
+<author>
+<id>19439</id>
+<name>Stephen Briggs</name>
+<role>Adaptor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19439.Stephen_Briggs]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>130953</ratings_count>
+<text_reviews_count>1655</text_reviews_count>
+</author>
+<author>
+<id>1654</id>
+<name>Terry Pratchett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235562205p5/1654.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235562205p2/1654.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>3194095</ratings_count>
+<text_reviews_count>102672</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34508.Interesting_Times">Interesting Times Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0413772195&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/34508.Interesting_Times?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="fantasy" count="880"/>
+      <shelf name="to-read" count="673"/>
+      <shelf name="discworld" count="243"/>
+      <shelf name="humor" count="152"/>
+      <shelf name="fiction" count="134"/>
+      <shelf name="terry-pratchett" count="125"/>
+      <shelf name="pratchett" count="103"/>
+      <shelf name="humour" count="72"/>
+      <shelf name="comedy" count="51"/>
+      <shelf name="favorites" count="50"/>
+      <shelf name="sci-fi-fantasy" count="44"/>
+      <shelf name="currently-reading" count="37"/>
+      <shelf name="series" count="26"/>
+      <shelf name="funny" count="26"/>
+      <shelf name="owned" count="23"/>
+      <shelf name="fantasy-sci-fi" count="21"/>
+      <shelf name="satire" count="17"/>
+      <shelf name="sci-fi" count="17"/>
+      <shelf name="science-fiction" count="14"/>
+      <shelf name="books-i-own" count="13"/>
+      <shelf name="scifi-fantasy" count="13"/>
+      <shelf name="comic-fantasy" count="12"/>
+      <shelf name="kindle" count="10"/>
+      <shelf name="science-fiction-fantasy" count="10"/>
+      <shelf name="magic" count="10"/>
+      <shelf name="audiobook" count="10"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="british" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="english" count="7"/>
+      <shelf name="high-fantasy" count="7"/>
+      <shelf name="wizards" count="6"/>
+      <shelf name="audio-books" count="6"/>
+      <shelf name="adult-fantasy" count="6"/>
+      <shelf name="speculative-fiction" count="6"/>
+      <shelf name="humorous" count="6"/>
+      <shelf name="sci-fi-and-fantasy" count="6"/>
+      <shelf name="plays" count="5"/>
+      <shelf name="sci-fifantasy" count="5"/>
+      <shelf name="humor-satire" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="pratchett-terry" count="5"/>
+      <shelf name="sf-fantasy" count="5"/>
+      <shelf name="sf-f" count="5"/>
+      <shelf name="novels" count="5"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="audiobooks" count="4"/>
+      <shelf name="20th-century" count="4"/>
+      <shelf name="fun" count="4"/>
+      <shelf name="re-read" count="4"/>
+      <shelf name="fantasy-fiction" count="4"/>
+      <shelf name="fantasy-and-sci-fi" count="4"/>
+      <shelf name="discworld-novels" count="4"/>
+      <shelf name="scifi" count="4"/>
+      <shelf name="terry-pratchett-discworld" count="3"/>
+      <shelf name="read-2012" count="3"/>
+      <shelf name="to-get" count="3"/>
+      <shelf name="comedic-fantasy" count="3"/>
+      <shelf name="young-adult" count="3"/>
+      <shelf name="fantasy-read" count="3"/>
+      <shelf name="fiction-fantasy" count="3"/>
+      <shelf name="terry-prachett" count="3"/>
+      <shelf name="favorite-authors" count="3"/>
+      <shelf name="public-library" count="3"/>
+      <shelf name="unread" count="3"/>
+      <shelf name="made-me-laugh" count="3"/>
+      <shelf name="fantasy-and-scifi" count="3"/>
+      <shelf name="read-in-english" count="3"/>
+      <shelf name="read-in-2010" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="novel" count="3"/>
+      <shelf name="do-not-own" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="disc-world" count="3"/>
+      <shelf name="sff" count="3"/>
+      <shelf name="parody" count="3"/>
+      <shelf name="e-books" count="3"/>
+      <shelf name="discworld-series" count="3"/>
+      <shelf name="pterry" count="3"/>
+      <shelf name="rincewind" count="3"/>
+      <shelf name="terry-pratchett-books" count="2"/>
+      <shelf name="fantastic" count="2"/>
+      <shelf name="pre-2012" count="2"/>
+      <shelf name="asia" count="2"/>
+      <shelf name="mythology" count="2"/>
+      <shelf name="fantasy-to-read" count="2"/>
+      <shelf name="fantastic-fantasy" count="2"/>
+      <shelf name="fun-fantasy" count="2"/>
+      <shelf name="discworld-terry-pratchett" count="2"/>
+      <shelf name="audible" count="2"/>
+      <shelf name="2004" count="2"/>
+      <shelf name="discworld-rincewind" count="2"/>
+      <shelf name="humorous-fantasy" count="2"/>
+      <shelf name="fantasy-comedy" count="2"/>
+      <shelf name="comedy-fantasy" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>479887</id>
+<user_position></user_position>
+<series>
+<id>99308</id>
+<title>
+<![CDATA[
+    Discworld Stage Adaptations
+]]>
+</title>
+<description>
+<![CDATA[
+    Stage adaptations of 15 Discworld novels have been published. The adaptations are by Stephen Briggs (apart from Lords and Ladies by Irana Brown), and were first produced by the Studio Theatre Club in Abingdon, Oxfordshire. They include adaptations of The Truth, Maskerade, Mort, Wyrd Sisters and Guards! Guards! Stage adaptations of Discworld novels have been performed on every continent in the world, including Antarctica.
+    A stage version of Eric, adapted for the stage by Scott Harrison and Lee Harris, was produced and performed by The Dreaming Theatre Company.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>9</series_works_count>
+<primary_work_count>9</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>47994</id>
+<title><![CDATA[The Last Continent (Discworld, #22; Rincewind #6)]]></title>
+<title_without_series>The Last Continent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47994.The_Last_Continent]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332672492s/47994.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332672492m/47994.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>583688</id>
+</work>
+<isbn>0552154180</isbn>
+<isbn13>9780552154185</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>38307</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1654</id>
+<name>Terry Pratchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

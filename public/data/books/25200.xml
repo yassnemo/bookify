@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25200</id>
+  <title>Silence</title>
+  <isbn><![CDATA[0800871863]]></isbn>
+  <isbn13><![CDATA[9780800871864]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1503294393m/25200.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1503294393s/25200.jpg</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Taplinger Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Beneath the light of the candle I am sitting with my hands on my knees, staring in front of me. And I keep turning over in my mind the thought that I am at the end of the earth, in a place which you do not know and which your whole lives through you will never visit.</i><br /><br />It is 1640 and Father Sebastian Rodrigues, an idealistic Jesuit priest, sets sale for Japan determined to help the brutally oppressed Christians there. He is also desperate to discover the truth about his former mentor, rumoured to have renounced his faith under torture. Rodrigues cannot believe the stories about a man he so revered, but as his journey takes him deeper into Japan and then into the hands of those who would crush his faith, he finds himself forced to make an impossible choice: whether to abandon his flock or his God.<br /><br />The recipient of the 1966 Tanizaki Prize, Silence is Shusaku Endo's most highly acclaimed work and has been called one of the twentieth century's finest novels. As empathetic as it is powerful, it is an astonishing exploration of faith and suffering and an award-winning classic.]]></description>
+  <work>
+  <id type="integer">1796157</id>
+  <books_count type="integer">109</books_count>
+  <best_book_id type="integer">25200</best_book_id>
+  <reviews_count type="integer">38752</reviews_count>
+  <ratings_sum type="integer">59874</ratings_sum>
+  <ratings_count type="integer">14608</ratings_count>
+  <text_reviews_count type="integer">2033</text_reviews_count>
+  <original_publication_year type="integer">1966</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>沈黙</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5519|4:5839|3:2541|2:591|1:118|total:14608</rating_dist>
+  <desc_user_id type="integer">69687335</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[294]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11944]]></ratings_count>
+  <text_reviews_count><![CDATA[1545]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25200.Silence]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25200.Silence]]></link>
+  <authors>
+<author>
+<id>14164</id>
+<name>Shūsaku Endō</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242087808p5/14164.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242087808p2/14164.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14164.Sh_saku_End_]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>21086</ratings_count>
+<text_reviews_count>2719</text_reviews_count>
+</author>
+<author>
+<id>14163</id>
+<name>William Johnston</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1392407717p5/14163.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1392407717p2/14163.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14163.William_Johnston]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>14811</ratings_count>
+<text_reviews_count>1920</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25200.Silence">Silence Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0800871863&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/25200.Silence?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1674"/>
+      <shelf name="fiction" count="757"/>
+      <shelf name="historical-fiction" count="411"/>
+      <shelf name="japan" count="300"/>
+      <shelf name="favorites" count="264"/>
+      <shelf name="japanese" count="178"/>
+      <shelf name="religion" count="155"/>
+      <shelf name="classics" count="111"/>
+      <shelf name="japanese-literature" count="102"/>
+      <shelf name="literature" count="93"/>
+      <shelf name="history" count="87"/>
+      <shelf name="historical" count="87"/>
+      <shelf name="owned" count="81"/>
+      <shelf name="novels" count="81"/>
+      <shelf name="christianity" count="78"/>
+      <shelf name="christian" count="64"/>
+      <shelf name="1001-books" count="59"/>
+      <shelf name="asia" count="57"/>
+      <shelf name="books-i-own" count="47"/>
+      <shelf name="japanese-lit" count="46"/>
+      <shelf name="novel" count="43"/>
+      <shelf name="book-club" count="41"/>
+      <shelf name="catholic" count="39"/>
+      <shelf name="read-in-2017" count="38"/>
+      <shelf name="to-buy" count="36"/>
+      <shelf name="religión" count="35"/>
+      <shelf name="faith" count="35"/>
+      <shelf name="library" count="35"/>
+      <shelf name="1001" count="34"/>
+      <shelf name="theology" count="32"/>
+      <shelf name="translated" count="31"/>
+      <shelf name="asian" count="29"/>
+      <shelf name="20th-century" count="29"/>
+      <shelf name="christian-fiction" count="28"/>
+      <shelf name="religious" count="28"/>
+      <shelf name="literary-fiction" count="28"/>
+      <shelf name="spirituality" count="28"/>
+      <shelf name="1001-import" count="24"/>
+      <shelf name="spiritual" count="22"/>
+      <shelf name="default" count="20"/>
+      <shelf name="classic" count="20"/>
+      <shelf name="to-read-fiction" count="19"/>
+      <shelf name="read-in-2016" count="18"/>
+      <shelf name="owned-books" count="18"/>
+      <shelf name="1001-books-to-read" count="18"/>
+      <shelf name="cultural" count="17"/>
+      <shelf name="asian-literature" count="17"/>
+      <shelf name="1001-books-to-read-before-you-die" count="17"/>
+      <shelf name="japanese-fiction" count="17"/>
+      <shelf name="adult-fiction" count="17"/>
+      <shelf name="read-2017" count="16"/>
+      <shelf name="audiobooks" count="16"/>
+      <shelf name="translation" count="16"/>
+      <shelf name="asian-lit" count="16"/>
+      <shelf name="2017-reading-challenge" count="15"/>
+      <shelf name="world-literature" count="15"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="school" count="15"/>
+      <shelf name="non-fiction" count="15"/>
+      <shelf name="1001-to-read" count="15"/>
+      <shelf name="Ásia" count="14"/>
+      <shelf name="adult" count="14"/>
+      <shelf name="general-fiction" count="14"/>
+      <shelf name="recommended" count="13"/>
+      <shelf name="audible" count="12"/>
+      <shelf name="fiction-historical" count="12"/>
+      <shelf name="contemporary" count="12"/>
+      <shelf name="college" count="12"/>
+      <shelf name="i-own" count="12"/>
+      <shelf name="philosophy" count="12"/>
+      <shelf name="east-asia" count="12"/>
+      <shelf name="2017-reads" count="11"/>
+      <shelf name="fiction-to-read" count="11"/>
+      <shelf name="in-translation" count="11"/>
+      <shelf name="religion-spirituality" count="11"/>
+      <shelf name="missions" count="11"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="2017-reading-list" count="10"/>
+      <shelf name="audiobook" count="10"/>
+      <shelf name="culture" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="personal-library" count="10"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="catholicism" count="10"/>
+      <shelf name="japanese-authors" count="10"/>
+      <shelf name="2017-books" count="9"/>
+      <shelf name="read-2016" count="9"/>
+      <shelf name="2016-books" count="9"/>
+      <shelf name="to-re-read" count="9"/>
+      <shelf name="1960s" count="9"/>
+      <shelf name="literary" count="9"/>
+      <shelf name="modern-fiction" count="9"/>
+      <shelf name="world" count="9"/>
+      <shelf name="catholic-fiction" count="9"/>
+      <shelf name="read-in-2015" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="book-to-movie" count="8"/>
+      <shelf name="cultural-japan" count="8"/>
+      <shelf name="guardian-1000" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>194642</id>
+<title>Some Prefer Nettles</title>
+<title_without_series>Some Prefer Nettles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/194642.Some_Prefer_Nettles]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1347770539s/194642.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1347770539m/194642.jpg]]></image_url>
+<num_pages>202</num_pages>
+<work>
+<id>801566</id>
+</work>
+<isbn>0679752692</isbn>
+<isbn13>9780679752691</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>2342</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6263</id>
+<name>Jun&apos;ichirō Tanizaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6263.Jun_ichir_Tanizaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>289991</id>
+<title>Black Rain</title>
+<title_without_series>Black Rain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/289991.Black_Rain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1201006</id>
+</work>
+<isbn>087011364X</isbn>
+<isbn13>9780870113642</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2473</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>110156</id>
+<name>Masuji Ibuse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110156.Masuji_Ibuse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>765932</id>
+<title><![CDATA[The Cape and Other Stories from the Japanese Ghetto]]></title>
+<title_without_series><![CDATA[The Cape and Other Stories from the Japanese Ghetto]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/765932.The_Cape_and_Other_Stories_from_the_Japanese_Ghetto]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>752000</id>
+</work>
+<isbn>1880656396</isbn>
+<isbn13>9781880656396</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>179</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>403773</id>
+<name>Kenji Nakagami</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403773.Kenji_Nakagami]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62774</id>
+<title>The Gate</title>
+<title_without_series>The Gate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62774.The_Gate]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328830560s/62774.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328830560m/62774.jpg]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>60971</id>
+</work>
+<isbn>0720612500</isbn>
+<isbn13>9780720612509</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>784</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16061597</id>
+<name>Sōseki Natsume</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16061597.S_seki_Natsume]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1140987</id>
+<title>Shipwrecks</title>
+<title_without_series>Shipwrecks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1140987.Shipwrecks]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382940969s/1140987.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382940969m/1140987.jpg]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>1128312</id>
+</work>
+<isbn>0156008351</isbn>
+<isbn13>9780156008358</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1356</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>70312</id>
+<name>Akira Yoshimura</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70312.Akira_Yoshimura]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>177404</id>
+<title>The Waiting Years</title>
+<title_without_series>The Waiting Years</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/177404.The_Waiting_Years]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>203</num_pages>
+<work>
+<id>535360</id>
+</work>
+<isbn>477002889X</isbn>
+<isbn13>9784770028891</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1117</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>103307</id>
+<name>Fumiko Enchi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103307.Fumiko_Enchi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>535316</id>
+<title><![CDATA[Teach Us to Outgrow Our Madness: Four Short Novels]]></title>
+<title_without_series><![CDATA[Teach Us to Outgrow Our Madness: Four Short Novels]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/535316.Teach_Us_to_Outgrow_Our_Madness]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328822588s/535316.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328822588m/535316.jpg]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>25940</id>
+</work>
+<isbn>080215185X</isbn>
+<isbn13>9780802151858</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1522</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>3439713</id>
+<name>Kenzaburō Ōe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3439713.Kenzabur_e]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>194740</id>
+<title>The Setting Sun</title>
+<title_without_series>The Setting Sun</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/194740.The_Setting_Sun]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>175</num_pages>
+<work>
+<id>2383902</id>
+</work>
+<isbn>0811200329</isbn>
+<isbn13>9780811200325</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>2944</ratings_count>
+<publication_year>1968</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>113561</id>
+<name>Osamu Dazai</name>
+<link><![CDATA[https://www.goodreads.com/author/show/113561.Osamu_Dazai]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>143440</id>
+<title>The Wild Geese</title>
+<title_without_series>The Wild Geese</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/143440.The_Wild_Geese]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328816052s/143440.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328816052m/143440.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>2551297</id>
+</work>
+<isbn>0804810702</isbn>
+<isbn13>9780804810708</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>944</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>12</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>8076648</id>
+<name>Ōgai Mori</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8076648._gai_Mori]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>63672</id>
+<title>The Diary of a Country Priest</title>
+<title_without_series>The Diary of a Country Priest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63672.The_Diary_of_a_Country_Priest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>1174195</id>
+</work>
+<isbn>0786709618</isbn>
+<isbn13>9780786709618</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1391</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>35812</id>
+<name>Georges Bernanos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35812.Georges_Bernanos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>64492</id>
+<title>Fires on the Plain</title>
+<title_without_series>Fires on the Plain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/64492.Fires_on_the_Plain]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364139249s/64492.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364139249m/64492.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>62604</id>
+</work>
+<isbn>0804813795</isbn>
+<isbn13>9780804813792</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>857</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>36351</id>
+<name>Shōhei Ōoka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36351.Sh_hei_oka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>748936</id>
+<title>The Twilight Years</title>
+<title_without_series>The Twilight Years</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/748936.The_Twilight_Years]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378740969s/748936.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378740969m/748936.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>735076</id>
+</work>
+<isbn>0870118528</isbn>
+<isbn13>9780870118524</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>147</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45895</id>
+<name>Sawako Ariyoshi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45895.Sawako_Ariyoshi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>186642</id>
+<title>The Tale of the Heike</title>
+<title_without_series>The Tale of the Heike</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/186642.The_Tale_of_the_Heike]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407812309s/186642.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407812309m/186642.jpg]]></image_url>
+<num_pages>489</num_pages>
+<work>
+<id>180416</id>
+</work>
+<isbn></isbn>
+<isbn13>9780804718035</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>859</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>237118</id>
+<title>Tales of Moonlight and Rain</title>
+<title_without_series>Tales of Moonlight and Rain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/237118.Tales_of_Moonlight_and_Rain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>235</num_pages>
+<work>
+<id>2711445</id>
+</work>
+<isbn>0231139128</isbn>
+<isbn13>9780231139120</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>1098</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7303145</id>
+<name>Ueda Akinari</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7303145.Ueda_Akinari]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>971986</id>
+<title><![CDATA[The Oxford Book of Japanese Short Stories]]></title>
+<title_without_series><![CDATA[The Oxford Book of Japanese Short Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/971986.The_Oxford_Book_of_Japanese_Short_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>956883</id>
+</work>
+<isbn>0192803727</isbn>
+<isbn13>9780192803726</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>364</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>490988</id>
+<name>Theodore W. Goossen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/490988.Theodore_W_Goossen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59950</id>
+<title>The Sound of the Mountain</title>
+<title_without_series>The Sound of the Mountain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59950.The_Sound_of_the_Mountain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>58337</id>
+</work>
+<isbn>0679762647</isbn>
+<isbn13>9780679762645</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>3744</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>8550</id>
+<name>Yasunari Kawabata</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8550.Yasunari_Kawabata]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>876637</id>
+<title>Kappa</title>
+<title_without_series>Kappa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/876637.Kappa]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1471780599s/876637.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1471780599m/876637.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>861976</id>
+</work>
+<isbn>080483251X</isbn>
+<isbn13>9780804832519</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1814</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5775185</id>
+<name>Ryūnosuke Akutagawa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5775185.Ry_nosuke_Akutagawa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10000</id>
+<title>The Face of Another</title>
+<title_without_series>The Face of Another</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10000.The_Face_of_Another]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320415026s/10000.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320415026m/10000.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>239907</id>
+</work>
+<isbn>0375726535</isbn>
+<isbn13>9780375726538</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>2278</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6526</id>
+<name>Kōbō Abe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6526.K_b_Abe]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

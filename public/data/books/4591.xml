@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>4591</id>
+  <title><![CDATA[Genome: the Autobiography of a Species in 23 Chapters]]></title>
+  <isbn><![CDATA[0060894083]]></isbn>
+  <isbn13><![CDATA[9780060894085]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B06Y6248H5]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The human genome, the complete set of genes housed in twenty-three pairs of chromosomes, is nothing less than an autobiography of our species. <br /><br />Spelled out in a billion three-letter words using the four-letter alphabet of DNA, the genome has been edited, abridged, altered and added to as it has been handed down, generation to generation, over more than three billion years. <br /><br />With the first draft of the human genome due to be published in 2000, we, this lucky generation, are the first beings who are able to read this extraordinary book and to gain hitherto unimaginable insights into what it means to be alive, to be human, to be conscious or to be ill. <br /><br />By picking one newly discovered gene from each of the twenty-three human chromosomes and telling its story, Matt Ridley recounts the history of our species and its ancestors from the dawn of life to the brink of future medicine. <br /><br />He finds genes that we share with bacteria, genes that distinguish us from chimpanzees, genes that can condemn us to cruel diseases, genes that may influence our intelligence, genes that enable us to use grammatical language, genes that guide the development of our bodies and our brains, genes that allow us to remember, genes that exhibit the strange alchemy of nature and nurture, genes that parasitise us for their own selfish ends, genes that battle with one another and genes that record the history of human migrations. <br /><br />From Huntington's disease to cancer, he explores the applications of genetics: the search for understanding and therapy, the horrors of eugenics and the philosophical implications for understanding the paradox of free will.<br /><br />Author Biography: Matt Ridley is a former scienceeditor, Washington correspondent and U.S., editor for the 'Economist'. He is the author of 'The Red Queen: Sex and the Evolution of Human Nature' and 'The Origins of Virtue: Human Instincts and the Evolution of Cooperation'. He lives in England with his wife and two children.]]></description>
+  <work>
+  <id type="integer">1987129</id>
+  <books_count type="integer">44</books_count>
+  <best_book_id type="integer">4591</best_book_id>
+  <reviews_count type="integer">56717</reviews_count>
+  <ratings_sum type="integer">76096</ratings_sum>
+  <ratings_count type="integer">18928</ratings_count>
+  <text_reviews_count type="integer">715</text_reviews_count>
+  <original_publication_year type="integer">1999</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Genome: The Autobiography of a Species in 23 Chapters</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6867|4:7202|3:3659|2:776|1:424|total:18928</rating_dist>
+  <desc_user_id type="integer">1525599</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.02</average_rating>
+  <num_pages><![CDATA[344]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[17694]]></ratings_count>
+  <text_reviews_count><![CDATA[588]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/4591.Genome]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/4591.Genome]]></link>
+  <authors>
+<author>
+<id>3151</id>
+<name>Matt Ridley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1228985862p5/3151.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1228985862p2/3151.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3151.Matt_Ridley]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>46787</ratings_count>
+<text_reviews_count>2378</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/4591.Genome">Genome Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060894083&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/4591.Genome?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2063"/>
+      <shelf name="science" count="1245"/>
+      <shelf name="currently-reading" count="1070"/>
+      <shelf name="non-fiction" count="594"/>
+      <shelf name="biology" count="231"/>
+      <shelf name="nonfiction" count="226"/>
+      <shelf name="genetics" count="108"/>
+      <shelf name="favorites" count="105"/>
+      <shelf name="evolution" count="98"/>
+      <shelf name="owned" count="80"/>
+      <shelf name="popular-science" count="50"/>
+      <shelf name="to-buy" count="48"/>
+      <shelf name="books-i-own" count="43"/>
+      <shelf name="history" count="36"/>
+      <shelf name="default" count="29"/>
+      <shelf name="medicine" count="26"/>
+      <shelf name="medical" count="25"/>
+      <shelf name="owned-books" count="24"/>
+      <shelf name="library" count="22"/>
+      <shelf name="to-read-non-fiction" count="20"/>
+      <shelf name="kindle" count="19"/>
+      <shelf name="wish-list" count="17"/>
+      <shelf name="علوم" count="13"/>
+      <shelf name="munger" count="13"/>
+      <shelf name="scientific" count="13"/>
+      <shelf name="evolutionary-biology" count="13"/>
+      <shelf name="a-year-of-books" count="12"/>
+      <shelf name="to-read-science" count="12"/>
+      <shelf name="science-biology" count="12"/>
+      <shelf name="to-read-nonfiction" count="12"/>
+      <shelf name="audiobook" count="12"/>
+      <shelf name="ciencia" count="11"/>
+      <shelf name="life-sciences" count="11"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="science-nature" count="11"/>
+      <shelf name="zuckerberg" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="pop-science" count="10"/>
+      <shelf name="science-books" count="10"/>
+      <shelf name="english" count="10"/>
+      <shelf name="sciences" count="10"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="science-technology" count="10"/>
+      <shelf name="charlie-munger" count="9"/>
+      <shelf name="non-fiction-science" count="9"/>
+      <shelf name="psychology" count="9"/>
+      <shelf name="genome" count="9"/>
+      <shelf name="non-fiction-to-read" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="nature" count="9"/>
+      <shelf name="reference" count="9"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="audiobooks" count="8"/>
+      <shelf name="ebook" count="8"/>
+      <shelf name="pop-sci" count="8"/>
+      <shelf name="anthropology" count="8"/>
+      <shelf name="health" count="8"/>
+      <shelf name="science-medicine" count="8"/>
+      <shelf name="mark-zuckerberg" count="7"/>
+      <shelf name="non" count="7"/>
+      <shelf name="كتب-علمية" count="7"/>
+      <shelf name="biologia" count="7"/>
+      <shelf name="nf-science" count="7"/>
+      <shelf name="interesting" count="7"/>
+      <shelf name="science-math" count="7"/>
+      <shelf name="non-fic" count="7"/>
+      <shelf name="school" count="7"/>
+      <shelf name="science-and-technology" count="7"/>
+      <shelf name="knowledge" count="6"/>
+      <shelf name="must-read" count="6"/>
+      <shelf name="did-not-finish" count="6"/>
+      <shelf name="abandoned" count="6"/>
+      <shelf name="science-and-math" count="6"/>
+      <shelf name="have" count="6"/>
+      <shelf name="bio" count="6"/>
+      <shelf name="audio" count="6"/>
+      <shelf name="science-to-read" count="6"/>
+      <shelf name="science-and-medicine" count="6"/>
+      <shelf name="science-non-fiction" count="6"/>
+      <shelf name="read-non-fiction" count="6"/>
+      <shelf name="education" count="6"/>
+      <shelf name="philosophy" count="6"/>
+      <shelf name="math-science" count="6"/>
+      <shelf name="science-genetics" count="5"/>
+      <shelf name="2016-challenge" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="tbr-nonfiction" count="5"/>
+      <shelf name="tbr" count="5"/>
+      <shelf name="pdf" count="5"/>
+      <shelf name="natural-sciences" count="5"/>
+      <shelf name="paused" count="5"/>
+      <shelf name="bought" count="5"/>
+      <shelf name="natural-science" count="5"/>
+      <shelf name="biology-evolution" count="5"/>
+      <shelf name="to-read-own" count="5"/>
+      <shelf name="nonfiction-science" count="5"/>
+      <shelf name="learning" count="5"/>
+      <shelf name="history-of-science" count="5"/>
+      <shelf name="book-club" count="5"/>
+      <shelf name="personal-library" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>540346</id>
+<title>DNA: The Secret of Life</title>
+<title_without_series>DNA: The Secret of Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/540346.DNA]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320518632s/540346.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320518632m/540346.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>527731</id>
+</work>
+<isbn>0375710078</isbn>
+<isbn13>9780375710070</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>2052</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>14313</id>
+<name>James D. Watson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14313.James_D_Watson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>222637</id>
+<title><![CDATA[The Seven Daughters of Eve: The Science That Reveals Our Genetic Ancestry]]></title>
+<title_without_series><![CDATA[The Seven Daughters of Eve: The Science That Reveals Our Genetic Ancestry]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/222637.The_Seven_Daughters_of_Eve]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>2826627</id>
+</work>
+<isbn>0393020185</isbn>
+<isbn13>9780393020182</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>5125</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>4713</id>
+<name>Bryan Sykes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4713.Bryan_Sykes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39093</id>
+<title><![CDATA[The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution]]></title>
+<title_without_series><![CDATA[The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39093.The_Making_of_the_Fittest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>3068530</id>
+</work>
+<isbn>0393061639</isbn>
+<isbn13>9780393061635</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>2272</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>22043</id>
+<name>Sean B. Carroll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22043.Sean_B_Carroll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>81788</id>
+<title><![CDATA[Why We Get Sick: The New Science of Darwinian Medicine]]></title>
+<title_without_series><![CDATA[Why We Get Sick: The New Science of Darwinian Medicine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/81788.Why_We_Get_Sick]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>78966</id>
+</work>
+<isbn>0679746749</isbn>
+<isbn13>9780679746744</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2066</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>46668</id>
+<name>Randolph M. Nesse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46668.Randolph_M_Nesse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>267838</id>
+<title><![CDATA[Mapping Human History: Genes, Race, and Our Common Origins]]></title>
+<title_without_series><![CDATA[Mapping Human History: Genes, Race, and Our Common Origins]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/267838.Mapping_Human_History]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2345009</id>
+</work>
+<isbn>0618352104</isbn>
+<isbn13>9780618352104</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>845</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8578320</id>
+<name>Steve  Olson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8578320.Steve_Olson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>248764</id>
+<title>Climbing Mount Improbable</title>
+<title_without_series>Climbing Mount Improbable</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/248764.Climbing_Mount_Improbable]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>1570273</id>
+</work>
+<isbn>0141026170</isbn>
+<isbn13>9780141026176</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>6796</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>1194</id>
+<name>Richard Dawkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1194.Richard_Dawkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>373571</id>
+<title><![CDATA[Life: A Natural History of the First Four Billion Years of Life on Earth]]></title>
+<title_without_series><![CDATA[Life: A Natural History of the First Four Billion Years of Life on Earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/373571.Life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403190266s/373571.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403190266m/373571.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>1120848</id>
+</work>
+<isbn>037570261X</isbn>
+<isbn13>9780375702617</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>2349</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>213020</id>
+<name>Richard Fortey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213020.Richard_Fortey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39001</id>
+<title><![CDATA[Power, Sex, Suicide: Mitochondria and the Meaning of Life]]></title>
+<title_without_series><![CDATA[Power, Sex, Suicide: Mitochondria and the Meaning of Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39001.Power_Sex_Suicide]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>354</num_pages>
+<work>
+<id>1466614</id>
+</work>
+<isbn>0199205647</isbn>
+<isbn13>9780199205646</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1704</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21987</id>
+<name>Nick Lane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21987.Nick_Lane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>815394</id>
+<title><![CDATA[Parasite Rex: Inside the Bizarre World of Nature's Most Dangerous Creatures]]></title>
+<title_without_series><![CDATA[Parasite Rex: Inside the Bizarre World of Nature's Most Dangerous Creatures]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/815394.Parasite_Rex]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1390166830s/815394.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1390166830m/815394.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>801317</id>
+</work>
+<isbn>074320011X</isbn>
+<isbn13>9780743200110</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>3896</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>12815</id>
+<name>Carl Zimmer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12815.Carl_Zimmer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>597067</id>
+<title>The Language of Genes</title>
+<title_without_series>The Language of Genes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/597067.The_Language_of_Genes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1285791451s/597067.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1285791451m/597067.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>583724</id>
+</work>
+<isbn>0385474288</isbn>
+<isbn13>9780385474283</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>314</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>25051</id>
+<name>Steve Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25051.Steve_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1120138</id>
+<title><![CDATA[The Origins of Life: From the Birth of Life to the Origin of Language]]></title>
+<title_without_series><![CDATA[The Origins of Life: From the Birth of Life to the Origin of Language]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1120138.The_Origins_of_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>1107209</id>
+</work>
+<isbn>0198504934</isbn>
+<isbn13>9780198504931</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>145</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>23574</id>
+<name>John Maynard Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23574.John_Maynard_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294368</id>
+<title><![CDATA[The Lives of a Cell: Notes of a Biology Watcher]]></title>
+<title_without_series><![CDATA[The Lives of a Cell: Notes of a Biology Watcher]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294368.The_Lives_of_a_Cell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>376566</id>
+</work>
+<isbn>0140047433</isbn>
+<isbn13>9780140047431</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>7230</ratings_count>
+<publication_year>1978</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>81675</id>
+<name>Lewis Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/81675.Lewis_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2068</id>
+<title><![CDATA[Darwin's Dangerous Idea: Evolution and the Meanings of Life]]></title>
+<title_without_series><![CDATA[Darwin's Dangerous Idea: Evolution and the Meanings of Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>588</num_pages>
+<work>
+<id>1835</id>
+</work>
+<isbn>068482471X</isbn>
+<isbn13>9780684824710</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>11300</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6952980</id>
+<name>Daniel C. Dennett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6952980.Daniel_C_Dennett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1455499</id>
+<title><![CDATA[Evolution: What the Fossils Say and Why It Matters]]></title>
+<title_without_series><![CDATA[Evolution: What the Fossils Say and Why It Matters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1455499.Evolution]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355081924s/1455499.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355081924m/1455499.jpg]]></image_url>
+<num_pages>408</num_pages>
+<work>
+<id>1446271</id>
+</work>
+<isbn>0231139624</isbn>
+<isbn13>9780231139625</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2357</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>286899</id>
+<name>Donald R. Prothero</name>
+<link><![CDATA[https://www.goodreads.com/author/show/286899.Donald_R_Prothero]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59028</id>
+<title><![CDATA[The Journey of Man: A Genetic Odyssey]]></title>
+<title_without_series><![CDATA[The Journey of Man: A Genetic Odyssey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59028.The_Journey_of_Man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>2522178</id>
+</work>
+<isbn>0812971469</isbn>
+<isbn13>9780812971460</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1080</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5403473</id>
+<name>Spencer Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5403473.Spencer_Wells]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

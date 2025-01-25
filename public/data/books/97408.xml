@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>97408</id>
+  <title>Perfect</title>
+  <isbn><![CDATA[1571316515]]></isbn>
+  <isbn13><![CDATA[9781571316516]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B005WKEVBC]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1328750860m/97408.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328750860s/97408.jpg</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>16</publication_day>
+  <publisher>Milkweed Editions</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Depicting with humor and insight the pressure to be outwardly perfect, this novel for ages 10-13 shows how one girl develops compassion for her own and others’ imperfections.<br /><br />For 13-year-old Isabelle Lee, whose father has recently died, everything's normal on the outside. Isabelle describes the scene at school with bemused accuracy--the self-important (but really not bad) English teacher, the boy that is constantly fixated on Ashley Barnum, the prettiest girl in class, and the dynamics of the lunchroom, where tables are turf in a all-eyes-open awareness of everybody's relative social position.<br /><br />But everything is not normal, really. Since the dealth of her father, Isabelle's family has only functioned on the surface. Her mother, who used to take care of herself, now wears only lumpy, ill-fitting clothes, cries all night, and has taken every picture of her dead husband and put them under her bed. Isabelle tries to make light of this, but the underlying tension is expressed in overeating and then binging. As the novel opens, Isabelle's little sister, April, has told their mother about Isabelle's problem. Isabelle is enrolled in group therapy. Who should show up there, too, but Ashley Barnum, the prettiest, most together girl in class.]]></description>
+  <work>
+  <id type="integer">93897</id>
+  <books_count type="integer">12</books_count>
+  <best_book_id type="integer">97408</best_book_id>
+  <reviews_count type="integer">19976</reviews_count>
+  <ratings_sum type="integer">43963</ratings_sum>
+  <ratings_count type="integer">11649</ratings_count>
+  <text_reviews_count type="integer">1106</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">16</original_publication_day>
+  <original_title>Perfect</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3347|4:3747|3:3362|2:961|1:232|total:11649</rating_dist>
+  <desc_user_id type="integer">1336770</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.77</average_rating>
+  <num_pages><![CDATA[172]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11498]]></ratings_count>
+  <text_reviews_count><![CDATA[1083]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/97408.Perfect]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/97408.Perfect]]></link>
+  <authors>
+<author>
+<id>55943</id>
+<name>Natasha Friend</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1214061277p5/55943.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1214061277p2/55943.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/55943.Natasha_Friend]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>25578</ratings_count>
+<text_reviews_count>2792</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/97408.Perfect">Perfect Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1571316515&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/97408.Perfect?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5973"/>
+      <shelf name="currently-reading" count="183"/>
+      <shelf name="young-adult" count="180"/>
+      <shelf name="ya" count="92"/>
+      <shelf name="realistic-fiction" count="78"/>
+      <shelf name="favorites" count="78"/>
+      <shelf name="books-i-own" count="71"/>
+      <shelf name="fiction" count="49"/>
+      <shelf name="eating-disorders" count="46"/>
+      <shelf name="owned" count="38"/>
+      <shelf name="contemporary" count="33"/>
+      <shelf name="mental-illness" count="32"/>
+      <shelf name="mental-health" count="29"/>
+      <shelf name="teen" count="25"/>
+      <shelf name="chick-lit" count="19"/>
+      <shelf name="realistic" count="16"/>
+      <shelf name="eating-disorder" count="15"/>
+      <shelf name="middle-school" count="15"/>
+      <shelf name="ed" count="15"/>
+      <shelf name="ya-lit" count="15"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="8th-grade" count="13"/>
+      <shelf name="ya-fiction" count="13"/>
+      <shelf name="i-own" count="13"/>
+      <shelf name="middle-grade" count="12"/>
+      <shelf name="7th-grade" count="12"/>
+      <shelf name="death" count="12"/>
+      <shelf name="young-adult-fiction" count="12"/>
+      <shelf name="coming-of-age" count="11"/>
+      <shelf name="friendship" count="11"/>
+      <shelf name="body-image" count="9"/>
+      <shelf name="default" count="8"/>
+      <shelf name="psychology" count="8"/>
+      <shelf name="teens" count="8"/>
+      <shelf name="natasha-friend" count="8"/>
+      <shelf name="7th-grade-books" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="teen-books" count="8"/>
+      <shelf name="family" count="8"/>
+      <shelf name="perfect" count="7"/>
+      <shelf name="favorite-books" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="school" count="7"/>
+      <shelf name="6th-grade" count="7"/>
+      <shelf name="ed-books" count="7"/>
+      <shelf name="bulimia" count="7"/>
+      <shelf name="drama" count="7"/>
+      <shelf name="stand-alone" count="6"/>
+      <shelf name="eating" count="6"/>
+      <shelf name="re-read" count="6"/>
+      <shelf name="series" count="6"/>
+      <shelf name="young-adult-lit" count="6"/>
+      <shelf name="abandoned" count="6"/>
+      <shelf name="teen-fiction" count="6"/>
+      <shelf name="grief" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="ya-books" count="5"/>
+      <shelf name="borrowed" count="5"/>
+      <shelf name="childhood" count="5"/>
+      <shelf name="classroom-library" count="5"/>
+      <shelf name="summer-reading" count="5"/>
+      <shelf name="3-stars" count="4"/>
+      <shelf name="stand-alones" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="psych" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="disorders" count="4"/>
+      <shelf name="loved" count="4"/>
+      <shelf name="teen-reads" count="4"/>
+      <shelf name="girls" count="4"/>
+      <shelf name="youngadult" count="4"/>
+      <shelf name="need" count="3"/>
+      <shelf name="shelfari-wishlist" count="3"/>
+      <shelf name="death-in-the-family" count="3"/>
+      <shelf name="reviewed" count="3"/>
+      <shelf name="read-in-2015" count="3"/>
+      <shelf name="golden-sower" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="ya-contemporary" count="3"/>
+      <shelf name="my-bookshelf" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="ana" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="read-in-middle-school" count="3"/>
+      <shelf name="amazing" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="read-in-2013" count="3"/>
+      <shelf name="contemporary-ya" count="3"/>
+      <shelf name="children" count="3"/>
+      <shelf name="romance" count="3"/>
+      <shelf name="therapy" count="3"/>
+      <shelf name="school-books" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="girly" count="3"/>
+      <shelf name="novels" count="3"/>
+      <shelf name="meh" count="3"/>
+      <shelf name="at-home" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>357616</id>
+<title>Massive</title>
+<title_without_series>Massive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/357616.Massive]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>347768</id>
+</work>
+<isbn>1416902074</isbn>
+<isbn13>9781416902072</isbn13>
+<average_rating>3.39</average_rating>
+<ratings_count>1851</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>204863</id>
+<name>Julia Bell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204863.Julia_Bell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2650398</id>
+<title>Looks</title>
+<title_without_series>Looks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2650398-looks]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2675140</id>
+</work>
+<isbn>0670061670</isbn>
+<isbn13>9780670061679</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>1264</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>672877</id>
+<name>Madeleine George</name>
+<link><![CDATA[https://www.goodreads.com/author/show/672877.Madeleine_George]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>776576</id>
+<title>Life in the Fat Lane</title>
+<title_without_series>Life in the Fat Lane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/776576.Life_in_the_Fat_Lane]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320512581s/776576.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320512581m/776576.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>609622</id>
+</work>
+<isbn>0440220297</isbn>
+<isbn13>9780440220299</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>2051</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>60154</id>
+<name>Cherie Bennett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60154.Cherie_Bennett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>642768</id>
+<title>Feeling For Bones</title>
+<title_without_series>Feeling For Bones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/642768.Feeling_For_Bones]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1396859168s/642768.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1396859168m/642768.jpg]]></image_url>
+<num_pages>348</num_pages>
+<work>
+<id>628950</id>
+</work>
+<isbn>080246288X</isbn>
+<isbn13>9780802462886</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>788</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>346270</id>
+<name>Bethany Pierce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/346270.Bethany_Pierce]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3203908</id>
+<title>Nothing</title>
+<title_without_series>Nothing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3203908-nothing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>3237236</id>
+</work>
+<isbn>073871304X</isbn>
+<isbn13>9780738713045</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>450</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>202762</id>
+<name>Robin Friedman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/202762.Robin_Friedman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4066164</id>
+<title>Diary of an Exercise Addict</title>
+<title_without_series>Diary of an Exercise Addict</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4066164-diary-of-an-exercise-addict]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328815157s/4066164.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328815157m/4066164.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>4113250</id>
+</work>
+<isbn>0762748966</isbn>
+<isbn13>9780762748969</isbn13>
+<average_rating>3.45</average_rating>
+<ratings_count>540</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1731687</id>
+<name>Peach Friedman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1731687.Peach_Friedman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16091457</id>
+<title>Thinspo</title>
+<title_without_series>Thinspo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16091457-thinspo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350442021s/16091457.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350442021m/16091457.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>21896379</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.38</average_rating>
+<ratings_count>323</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6518909</id>
+<name>Amy  Ellis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6518909.Amy_Ellis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>389624</id>
+<title>Diary of an Anorexic Girl</title>
+<title_without_series>Diary of an Anorexic Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/389624.Diary_of_an_Anorexic_Girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380857942s/389624.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380857942m/389624.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>379241</id>
+</work>
+<isbn>0849944058</isbn>
+<isbn13>9780849944055</isbn13>
+<average_rating>3.54</average_rating>
+<ratings_count>786</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>221557</id>
+<name>Morgan Menzie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/221557.Morgan_Menzie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>353465</id>
+<title>Hunger Point</title>
+<title_without_series>Hunger Point</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/353465.Hunger_Point]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>343674</id>
+</work>
+<isbn>0060989238</isbn>
+<isbn13>9780060989231</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>1704</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>202719</id>
+<name>Jillian Medoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/202719.Jillian_Medoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76329</id>
+<title>The Passion of Alice</title>
+<title_without_series>The Passion of Alice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76329.The_Passion_of_Alice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>73849</id>
+</work>
+<isbn>0553378619</isbn>
+<isbn13>9780553378610</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>490</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>43387</id>
+<name>Stephanie Grant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43387.Stephanie_Grant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6434528</id>
+<title>All of Me</title>
+<title_without_series>All of Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6434528-all-of-me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327317372s/6434528.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327317372m/6434528.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>6624050</id>
+</work>
+<isbn>0140377719</isbn>
+<isbn13>9780140377712</isbn13>
+<average_rating>3.51</average_rating>
+<ratings_count>103</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>178650</id>
+<name>Maureen Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178650.Maureen_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>468657</id>
+<title>Skinny</title>
+<title_without_series>Skinny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/468657.Skinny]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316728124s/468657.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316728124m/468657.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3162680</id>
+</work>
+<isbn>0802796087</isbn>
+<isbn13>9780802796080</isbn13>
+<average_rating>3.44</average_rating>
+<ratings_count>5524</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>262616</id>
+<name>Ibi Kaslik</name>
+<link><![CDATA[https://www.goodreads.com/author/show/262616.Ibi_Kaslik]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1180950</id>
+<title>Goodbye, Paper Doll</title>
+<title_without_series>Goodbye, Paper Doll</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1180950.Goodbye_Paper_Doll]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>155</num_pages>
+<work>
+<id>1168837</id>
+</work>
+<isbn>0451159438</isbn>
+<isbn13>9780451159434</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>157</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>543406</id>
+<name>Anne Snyder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/543406.Anne_Snyder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6114974</id>
+<title>Purge: Rehab Diaries</title>
+<title_without_series>Purge: Rehab Diaries</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6114974-purge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6293044</id>
+</work>
+<isbn>1580052746</isbn>
+<isbn13>9781580052740</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>1565</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2789720</id>
+<name>Nicole J. Johns</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2789720.Nicole_J_Johns]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>376127</id>
+<title>Stick Figure</title>
+<title_without_series>Stick Figure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/376127.Stick_Figure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1211589</id>
+</work>
+<isbn>0425178900</isbn>
+<isbn13>9780425178904</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>4367</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>201386</id>
+<name>Lori Gottlieb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/201386.Lori_Gottlieb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1648655</id>
+<title>Unwell</title>
+<title_without_series>Unwell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1648655.Unwell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>1643129</id>
+</work>
+<isbn>0595859267</isbn>
+<isbn13>9780595859269</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>327</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>761966</id>
+<name>Leslie Lipton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/761966.Leslie_Lipton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6545199</id>
+<title>After the Strawberry</title>
+<title_without_series>After the Strawberry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6545199-after-the-strawberry]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1255557318s/6545199.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1255557318m/6545199.jpg]]></image_url>
+<num_pages>520</num_pages>
+<work>
+<id>6737554</id>
+</work>
+<isbn>9780615288</isbn>
+<isbn13>9780615288697</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>259</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2960636</id>
+<name>Kathryn Pope</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2960636.Kathryn_Pope]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9529956</id>
+<title><![CDATA[Restricted: A Novel of Half-Truths]]></title>
+<title_without_series><![CDATA[Restricted: A Novel of Half-Truths]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9529956-restricted]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>14416055</id>
+</work>
+<isbn>145152160X</isbn>
+<isbn13>9781451521603</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>60</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4413363</id>
+<name>Jennifer Kinsel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4413363.Jennifer_Kinsel]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8073</id>
+  <title><![CDATA[Cloudy With a Chance of Meatballs]]></title>
+  <isbn><![CDATA[0689707495]]></isbn>
+  <isbn13><![CDATA[9780689707490]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B007Y9MM42]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1982</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The beloved, bestselling tale of edible weather is brought to life!<br /><br />If food dropped like rain from the sky, wouldn't it be marvelous! Or would it? It could, after all, be messy. And you'd have no choice. What if you didn't like what fell? Or what if too much came? Have you ever thought of what it might be like to be squashed flat by a pancake?]]></description>
+  <work>
+  <id type="integer">11045</id>
+  <books_count type="integer">28</books_count>
+  <best_book_id type="integer">8073</best_book_id>
+  <reviews_count type="integer">133562</reviews_count>
+  <ratings_sum type="integer">438287</ratings_sum>
+  <ratings_count type="integer">105545</ratings_count>
+  <text_reviews_count type="integer">1783</text_reviews_count>
+  <original_publication_year type="integer">1978</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Cloudy with a Chance of Meatballs</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:49693|4:30133|3:19496|2:4579|1:1644|total:105545</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.15</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[104702]]></ratings_count>
+  <text_reviews_count><![CDATA[1688]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8073.Cloudy_With_a_Chance_of_Meatballs]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8073.Cloudy_With_a_Chance_of_Meatballs]]></link>
+  <authors>
+<author>
+<id>5336</id>
+<name>Judi Barrett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269304682p5/5336.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269304682p2/5336.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5336.Judi_Barrett]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>111691</ratings_count>
+<text_reviews_count>2454</text_reviews_count>
+</author>
+<author>
+<id>78790</id>
+<name>Ron Barrett</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/78790.Ron_Barrett]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>110554</ratings_count>
+<text_reviews_count>2235</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8073.Cloudy_With_a_Chance_of_Meatballs">Cloudy With a Chance of Meatballs Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0689707495&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/8073.Cloudy_With_a_Chance_of_Meatballs?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="24025"/>
+      <shelf name="picture-books" count="1069"/>
+      <shelf name="childrens" count="833"/>
+      <shelf name="children-s-books" count="643"/>
+      <shelf name="children" count="531"/>
+      <shelf name="children-s" count="465"/>
+      <shelf name="favorites" count="322"/>
+      <shelf name="childrens-books" count="301"/>
+      <shelf name="kids" count="280"/>
+      <shelf name="fiction" count="266"/>
+      <shelf name="fantasy" count="232"/>
+      <shelf name="kids-books" count="232"/>
+      <shelf name="childhood" count="218"/>
+      <shelf name="picture-book" count="212"/>
+      <shelf name="currently-reading" count="196"/>
+      <shelf name="childhood-favorites" count="132"/>
+      <shelf name="humor" count="108"/>
+      <shelf name="food" count="105"/>
+      <shelf name="classics" count="98"/>
+      <shelf name="children-s-literature" count="92"/>
+      <shelf name="weather" count="78"/>
+      <shelf name="children-s-lit" count="77"/>
+      <shelf name="children-books" count="75"/>
+      <shelf name="childhood-books" count="68"/>
+      <shelf name="books-i-own" count="59"/>
+      <shelf name="owned" count="57"/>
+      <shelf name="children-s-picture-books" count="57"/>
+      <shelf name="childrens-lit" count="51"/>
+      <shelf name="kid-books" count="44"/>
+      <shelf name="picture" count="43"/>
+      <shelf name="picturebooks" count="39"/>
+      <shelf name="juvenile" count="37"/>
+      <shelf name="childrens-picture-books" count="36"/>
+      <shelf name="science" count="35"/>
+      <shelf name="imagination" count="33"/>
+      <shelf name="elementary" count="32"/>
+      <shelf name="childhood-reads" count="32"/>
+      <shelf name="library" count="32"/>
+      <shelf name="classic" count="32"/>
+      <shelf name="kid-lit" count="31"/>
+      <shelf name="favorite-children-s-books" count="30"/>
+      <shelf name="read-aloud" count="28"/>
+      <shelf name="kindergarten" count="27"/>
+      <shelf name="childrens-literature" count="27"/>
+      <shelf name="shelfari-favorites" count="26"/>
+      <shelf name="edrd-314" count="26"/>
+      <shelf name="default" count="26"/>
+      <shelf name="ece-3601" count="26"/>
+      <shelf name="for-the-kids" count="26"/>
+      <shelf name="modern-fantasy" count="25"/>
+      <shelf name="kid-s-books" count="25"/>
+      <shelf name="classroom" count="24"/>
+      <shelf name="young-adult" count="23"/>
+      <shelf name="funny" count="22"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="adventure" count="21"/>
+      <shelf name="pre-2000" count="21"/>
+      <shelf name="preschool" count="20"/>
+      <shelf name="my-childhood" count="20"/>
+      <shelf name="school" count="20"/>
+      <shelf name="nostalgia" count="20"/>
+      <shelf name="children-s-book" count="20"/>
+      <shelf name="storytime" count="20"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="02-fantasy" count="19"/>
+      <shelf name="movies" count="19"/>
+      <shelf name="read-alouds" count="19"/>
+      <shelf name="childhood-favs" count="18"/>
+      <shelf name="format-picture-book" count="17"/>
+      <shelf name="books-from-my-childhood" count="17"/>
+      <shelf name="youth" count="17"/>
+      <shelf name="311" count="16"/>
+      <shelf name="classroom-library" count="16"/>
+      <shelf name="childhood-memories" count="16"/>
+      <shelf name="movie" count="16"/>
+      <shelf name="children-s-classics" count="16"/>
+      <shelf name="children-s-fiction" count="16"/>
+      <shelf name="favorite-picture-books" count="16"/>
+      <shelf name="read-as-a-child" count="16"/>
+      <shelf name="own-it" count="16"/>
+      <shelf name="childhood-faves" count="15"/>
+      <shelf name="kiddos" count="15"/>
+      <shelf name="fantasy-science-fiction" count="15"/>
+      <shelf name="childrensbooks" count="15"/>
+      <shelf name="classroom-books" count="14"/>
+      <shelf name="favorite" count="14"/>
+      <shelf name="fun" count="14"/>
+      <shelf name="children-picture-books" count="14"/>
+      <shelf name="childrens-fiction" count="14"/>
+      <shelf name="elementary-school" count="14"/>
+      <shelf name="family" count="13"/>
+      <shelf name="read-as-a-kid" count="13"/>
+      <shelf name="illustrated" count="13"/>
+      <shelf name="favorite-books" count="13"/>
+      <shelf name="comedy" count="13"/>
+      <shelf name="children-young-adult" count="13"/>
+      <shelf name="ya" count="13"/>
+      <shelf name="kid-stuff" count="13"/>
+      <shelf name="kid" count="13"/>
+      <shelf name="childrens-book" count="13"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>443130</id>
+<user_position>1</user_position>
+<series>
+<id>91942</id>
+<title>
+<![CDATA[
+    Cloudy with a Chance of Meatballs
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>781498</id>
+<title><![CDATA[The Day Jimmy's Boa Ate the Wash]]></title>
+<title_without_series><![CDATA[The Day Jimmy's Boa Ate the Wash]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/781498.The_Day_Jimmy_s_Boa_Ate_the_Wash]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>767519</id>
+</work>
+<isbn>0140546235</isbn>
+<isbn13>9780140546231</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>17029</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>41476</id>
+<name>Trinka Hakes Noble</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41476.Trinka_Hakes_Noble]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>581409</id>
+<title>Strega Nona</title>
+<title_without_series>Strega Nona</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/581409.Strega_Nona]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1442720</id>
+</work>
+<isbn>8424133498</isbn>
+<isbn13>9788424133498</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>66358</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8725</id>
+<name>Tomie dePaola</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8725.Tomie_dePaola]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>858513</id>
+<title>Chrysanthemum</title>
+<title_without_series>Chrysanthemum</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/858513.Chrysanthemum]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2394502</id>
+</work>
+<isbn>0688147321</isbn>
+<isbn13>9780688147327</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>43921</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>147732</id>
+<title><![CDATA[Miss Nelson Is Missing! (Miss Nelson, #1)]]></title>
+<title_without_series>Miss Nelson Is Missing!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/147732.Miss_Nelson_Is_Missing_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>142568</id>
+</work>
+<isbn>0395401461</isbn>
+<isbn13>9780395401460</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>77518</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>66186</id>
+<name>Harry Allard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66186.Harry_Allard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>682920</id>
+<title><![CDATA[The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear]]></title>
+<title_without_series><![CDATA[The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/682920.The_Little_Mouse_the_Red_Ripe_Strawberry_and_the_Big_Hungry_Bear]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413750983s/682920.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413750983m/682920.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>8501</id>
+</work>
+<isbn>0859536599</isbn>
+<isbn13>9780859536592</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>31772</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3363</id>
+<name>Don    Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3363.Don_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>724174</id>
+<title><![CDATA[There's an Alligator under My Bed]]></title>
+<title_without_series><![CDATA[There's an Alligator under My Bed]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/724174.There_s_an_Alligator_under_My_Bed]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>710397</id>
+</work>
+<isbn>0803703740</isbn>
+<isbn13>9780803703742</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3060</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53292</id>
+<title>June 29, 1999</title>
+<title_without_series>June 29, 1999</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53292.June_29_1999]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1103316</id>
+</work>
+<isbn>0395727677</isbn>
+<isbn13>9780395727676</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1899</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>16461</id>
+<name>David Wiesner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16461.David_Wiesner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>857445</id>
+<title>Officer Buckle &amp; Gloria</title>
+<title_without_series>Officer Buckle &amp; Gloria</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/857445.Officer_Buckle_Gloria]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>325563</id>
+</work>
+<isbn>0399226168</isbn>
+<isbn13>9780399226168</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>25343</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26181</id>
+<name>Peggy Rathmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26181.Peggy_Rathmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99296</id>
+<title>Diary of a Worm</title>
+<title_without_series>Diary of a Worm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99296.Diary_of_a_Worm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>301388</id>
+</work>
+<isbn>006000150X</isbn>
+<isbn13>9780060001506</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>23436</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>815264</id>
+<title>Piggies</title>
+<title_without_series>Piggies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/815264.Piggies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>16</num_pages>
+<work>
+<id>277143</id>
+</work>
+<isbn>015202638X</isbn>
+<isbn13>9780152026387</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>3249</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3368</id>
+<name>Audrey Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3368.Audrey_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>474858</id>
+<title>A Bad Case of Stripes</title>
+<title_without_series>A Bad Case of Stripes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/474858.A_Bad_Case_of_Stripes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867924s/474858.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867924m/474858.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>177766</id>
+</work>
+<isbn>0439598389</isbn>
+<isbn13>9780439598385</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>52171</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94803</id>
+<title><![CDATA[Frog and Toad Together (Frog and Toad, #2)]]></title>
+<title_without_series>Frog and Toad Together</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94803.Frog_and_Toad_Together]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1231891</id>
+</work>
+<isbn>069401298X</isbn>
+<isbn13>9780694012985</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>34891</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>385250</id>
+<title><![CDATA[The Jolly Postman, or Other People's Letters]]></title>
+<title_without_series><![CDATA[The Jolly Postman, or Other People's Letters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/385250.The_Jolly_Postman_or_Other_People_s_Letters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>374972</id>
+</work>
+<isbn>0316020362</isbn>
+<isbn13>9780316020367</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>9978</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>49420</id>
+<name>Janet Ahlberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49420.Janet_Ahlberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>140181</id>
+<title>Zen Shorts</title>
+<title_without_series>Zen Shorts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/140181.Zen_Shorts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1301850228s/140181.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1301850228m/140181.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2015914</id>
+</work>
+<isbn>0439339111</isbn>
+<isbn13>9780439339117</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>11001</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12733</id>
+<name>Jon J. Muth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12733.Jon_J_Muth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>904812</id>
+<title>The Giant Jam Sandwich </title>
+<title_without_series>The Giant Jam Sandwich</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/904812.The_Giant_Jam_Sandwich]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>889963</id>
+</work>
+<isbn>0395442370</isbn>
+<isbn13>9780395442371</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>2067</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>4</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>58004</id>
+<name>John Vernon Lord</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58004.John_Vernon_Lord]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>364062</id>
+<title>Pancakes, Pancakes!</title>
+<title_without_series>Pancakes, Pancakes!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/364062.Pancakes_Pancakes_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>2995540</id>
+</work>
+<isbn>0689878338</isbn>
+<isbn13>9780689878336</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>1751</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>967494</id>
+<title>The Mitten</title>
+<title_without_series>The Mitten</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/967494.The_Mitten]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>952391</id>
+</work>
+<isbn>039921920X</isbn>
+<isbn13>9780399219207</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>67223</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>948638</id>
+<title><![CDATA[The Teacher from the Black Lagoon (Black Lagoon, #1)]]></title>
+<title_without_series><![CDATA[The Teacher from the Black Lagoon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/948638.The_Teacher_from_the_Black_Lagoon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>933563</id>
+</work>
+<isbn>0590419625</isbn>
+<isbn13>9780590419628</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>9879</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10034</id>
+<name>Mike Thaler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10034.Mike_Thaler]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

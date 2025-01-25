@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24790</id>
+  <title>Paula</title>
+  <isbn><![CDATA[849759388X]]></isbn>
+  <isbn13><![CDATA[9788497593885]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00H4H1G6Y]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1316284499m/24790.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1316284499s/24790.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>spa</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Paula es el libro más conmovedor, más personal y más íntimo de Isabel Allende. Junto al lecho en que agonizaba su hija Paula, la gran narradora chilena escribió la historia de su familia y de sí misma con el propósito de regalársela a Paula cuando ésta superara el dramático trance. El resultado se convirtió en un autorretrato de insólita emotividad y en una exquisita recreación de la sensibilidad de las mujeres de nuestra época.]]></description>
+  <work>
+  <id type="integer">419162</id>
+  <books_count type="integer">106</books_count>
+  <best_book_id type="integer">24790</best_book_id>
+  <reviews_count type="integer">40638</reviews_count>
+  <ratings_sum type="integer">95965</ratings_sum>
+  <ratings_count type="integer">23553</ratings_count>
+  <text_reviews_count type="integer">1447</text_reviews_count>
+  <original_publication_year type="integer">1994</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Paula</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9518|4:8076|3:4496|2:1120|1:343|total:23553</rating_dist>
+  <desc_user_id type="integer">32007247</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[432]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[19873]]></ratings_count>
+  <text_reviews_count><![CDATA[951]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24790.Paula]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24790.Paula]]></link>
+  <authors>
+<author>
+<id>2238</id>
+<name>Isabel Allende</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341879973p5/2238.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341879973p2/2238.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2238.Isabel_Allende]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>542809</ratings_count>
+<text_reviews_count>30910</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24790.Paula">Paula Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=849759388X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/24790.Paula?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3485"/>
+      <shelf name="favorites" count="267"/>
+      <shelf name="non-fiction" count="225"/>
+      <shelf name="memoir" count="199"/>
+      <shelf name="currently-reading" count="195"/>
+      <shelf name="biography" count="93"/>
+      <shelf name="fiction" count="91"/>
+      <shelf name="memoirs" count="80"/>
+      <shelf name="nonfiction" count="76"/>
+      <shelf name="owned" count="75"/>
+      <shelf name="isabel-allende" count="71"/>
+      <shelf name="books-i-own" count="49"/>
+      <shelf name="spanish" count="45"/>
+      <shelf name="latin-america" count="43"/>
+      <shelf name="default" count="37"/>
+      <shelf name="book-club" count="36"/>
+      <shelf name="novels" count="35"/>
+      <shelf name="to-buy" count="34"/>
+      <shelf name="chile" count="29"/>
+      <shelf name="owned-books" count="28"/>
+      <shelf name="biography-memoir" count="28"/>
+      <shelf name="autobiography" count="27"/>
+      <shelf name="novel" count="23"/>
+      <shelf name="latin-american" count="23"/>
+      <shelf name="روايات" count="21"/>
+      <shelf name="biographies" count="21"/>
+      <shelf name="allende" count="20"/>
+      <shelf name="south-america" count="20"/>
+      <shelf name="magical-realism" count="19"/>
+      <shelf name="literature" count="19"/>
+      <shelf name="favoritos" count="16"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="history" count="16"/>
+      <shelf name="favourites" count="15"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="favorite" count="14"/>
+      <shelf name="سيرة-ذاتية" count="13"/>
+      <shelf name="ebooks" count="13"/>
+      <shelf name="own-it" count="13"/>
+      <shelf name="women" count="13"/>
+      <shelf name="adult" count="13"/>
+      <shelf name="library" count="13"/>
+      <shelf name="kindle" count="12"/>
+      <shelf name="family" count="12"/>
+      <shelf name="drama" count="11"/>
+      <shelf name="narrativa" count="11"/>
+      <shelf name="abandoned" count="11"/>
+      <shelf name="finished" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="biblioteca" count="10"/>
+      <shelf name="latino" count="10"/>
+      <shelf name="latin-american-literature" count="10"/>
+      <shelf name="shelfari-favorites" count="9"/>
+      <shelf name="leidos" count="9"/>
+      <shelf name="pdf" count="9"/>
+      <shelf name="20th-century" count="9"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="favorite-books" count="9"/>
+      <shelf name="bookclub" count="9"/>
+      <shelf name="espanol" count="8"/>
+      <shelf name="leido" count="8"/>
+      <shelf name="memoir-bio" count="8"/>
+      <shelf name="romanzi" count="8"/>
+      <shelf name="did-not-finish" count="8"/>
+      <shelf name="america-latina" count="8"/>
+      <shelf name="classics" count="8"/>
+      <shelf name="translated" count="8"/>
+      <shelf name="home-library" count="7"/>
+      <shelf name="roman" count="7"/>
+      <shelf name="feminism" count="7"/>
+      <shelf name="latin-american-lit" count="7"/>
+      <shelf name="biographical" count="7"/>
+      <shelf name="español" count="7"/>
+      <shelf name="spanish-literature" count="7"/>
+      <shelf name="biografia" count="7"/>
+      <shelf name="memoir-autobiography" count="7"/>
+      <shelf name="south-american" count="7"/>
+      <shelf name="memoir-biography" count="7"/>
+      <shelf name="501-must-read-books" count="7"/>
+      <shelf name="latin" count="7"/>
+      <shelf name="read-in-2016" count="6"/>
+      <shelf name="female-authors" count="6"/>
+      <shelf name="boekenkast" count="6"/>
+      <shelf name="biografie" count="6"/>
+      <shelf name="women-authors" count="6"/>
+      <shelf name="favs" count="6"/>
+      <shelf name="meus" count="6"/>
+      <shelf name="to-re-read" count="6"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="i-own" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="all-time-favorites" count="6"/>
+      <shelf name="in-my-library" count="6"/>
+      <shelf name="hispanic" count="6"/>
+      <shelf name="latinoamérica" count="5"/>
+      <shelf name="e-books" count="5"/>
+      <shelf name="biography-memoirs" count="5"/>
+      <shelf name="autobiography-biography" count="5"/>
+      <shelf name="have" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>11204</id>
+<title>Something to Declare</title>
+<title_without_series>Something to Declare</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11204.Something_to_Declare]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>13731</id>
+</work>
+<isbn>0452280672</isbn>
+<isbn13>9780452280670</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>688</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7277</id>
+<name>Julia Alvarez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7277.Julia_Alvarez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1181999</id>
+<title><![CDATA[Nosotras que nos queremos tanto]]></title>
+<title_without_series><![CDATA[Nosotras que nos queremos tanto]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1181999.Nosotras_que_nos_queremos_tanto]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1315409272s/1181999.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1315409272m/1181999.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>1169907</id>
+</work>
+<isbn>9681903692</isbn>
+<isbn13>9789681903695</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1020</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34681</id>
+<name>Marcela Serrano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34681.Marcela_Serrano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4392</id>
+<title>Living to Tell the Tale</title>
+<title_without_series>Living to Tell the Tale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4392.Living_to_Tell_the_Tale]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413192532s/4392.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413192532m/4392.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>807825</id>
+</work>
+<isbn>0141019425</isbn>
+<isbn13>9780141019420</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>7310</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>13450</id>
+<name>Gabriel García Márquez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160431</id>
+<title><![CDATA[Isabel Allende: Vida y espíritus]]></title>
+<title_without_series><![CDATA[Isabel Allende: Vida y espíritus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160431.Isabel_Allende]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>154852</id>
+</work>
+<isbn>8401541050</isbn>
+<isbn13>9788401541056</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>173</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10098</id>
+<name>Celia Correas Zapata</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10098.Celia_Correas_Zapata]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3371637</id>
+<title>A Costa dos Murmúrios</title>
+<title_without_series>A Costa dos Murmúrios</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3371637-a-costa-dos-murm-rios]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>202936</id>
+</work>
+<isbn>8493264512</isbn>
+<isbn13>9788493264512</isbn13>
+<average_rating>3.34</average_rating>
+<ratings_count>274</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1001034</id>
+<name>Lídia Jorge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1001034.L_dia_Jorge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9160324</id>
+<title><![CDATA[Diario di un killer sentimentale]]></title>
+<title_without_series><![CDATA[Diario di un killer sentimentale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9160324-diario-di-un-killer-sentimentale]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356203343s/9160324.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356203343m/9160324.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1173342</id>
+</work>
+<isbn>8877469854</isbn>
+<isbn13>9788877469854</isbn13>
+<average_rating>3.36</average_rating>
+<ratings_count>2005</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1084267</id>
+<name>Luis Sepúlveda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1084267.Luis_Sep_lveda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1871903</id>
+<title><![CDATA[Era Bom Que Trocássemos Umas Ideias Sobre O Assunto]]></title>
+<title_without_series><![CDATA[Era Bom Que Trocássemos Umas Ideias Sobre O Assunto]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1871903.Era_Bom_Que_Troc_ssemos_Umas_Ideias_Sobre_O_Assunto]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>1872777</id>
+</work>
+<isbn>9722110195</isbn>
+<isbn13>9789722110198</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>265</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>546023</id>
+<name>Mário de Carvalho</name>
+<link><![CDATA[https://www.goodreads.com/author/show/546023.M_rio_de_Carvalho]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>67843</id>
+<title>Postman, The/ Il Postino</title>
+<title_without_series>Postman, The/ Il Postino</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67843.Postman_The_Il_Postino]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1390051</id>
+</work>
+<isbn>0786881275</isbn>
+<isbn13>9780786881277</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>6226</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59471</id>
+<name>Antonio Skármeta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59471.Antonio_Sk_rmeta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6507717</id>
+<title>Fanny Owen</title>
+<title_without_series>Fanny Owen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6507717-fanny-owen]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>6699329</id>
+</work>
+<isbn>8496075591</isbn>
+<isbn13></isbn13>
+<average_rating>3.34</average_rating>
+<ratings_count>186</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>768025</id>
+<name>Agustina Bessa-Luís</name>
+<link><![CDATA[https://www.goodreads.com/author/show/768025.Agustina_Bessa_Lu_s]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5938</id>
+<title>Memoirs</title>
+<title_without_series>Memoirs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5938.Memoirs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>378</num_pages>
+<work>
+<id>339107</id>
+</work>
+<isbn>028564811X</isbn>
+<isbn13>9780285648111</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>2379</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4026</id>
+<name>Pablo Neruda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4026.Pablo_Neruda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>312904</id>
+<title>The House on the Lagoon</title>
+<title_without_series>The House on the Lagoon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/312904.The_House_on_the_Lagoon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>303805</id>
+</work>
+<isbn>0452277078</isbn>
+<isbn13>9780452277076</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>861</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>83131</id>
+<name>Rosario Ferré</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83131.Rosario_Ferr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>414729</id>
+<title>The Dark Bride</title>
+<title_without_series>The Dark Bride</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/414729.The_Dark_Bride]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>163806</id>
+</work>
+<isbn>0060088958</isbn>
+<isbn13>9780060088958</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>766</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>33407</id>
+<name>Laura Restrepo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33407.Laura_Restrepo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4216250</id>
+<title>La donna della domenica</title>
+<title_without_series>La donna della domenica</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4216250-la-donna-della-domenica]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1351007630s/4216250.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1351007630m/4216250.jpg]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>4272699</id>
+</work>
+<isbn>8804499079</isbn>
+<isbn13>9788804499077</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>738</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37715</id>
+<name>Carlo Fruttero</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37715.Carlo_Fruttero]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>147039</id>
+<title><![CDATA[Dona Flor and Her Two Husbands]]></title>
+<title_without_series><![CDATA[Dona Flor and Her Two Husbands]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/147039.Dona_Flor_and_Her_Two_Husbands]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320520743s/147039.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320520743m/147039.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>913065</id>
+</work>
+<isbn>0307276643</isbn>
+<isbn13>9780307276643</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>5379</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>52683</id>
+<name>Jorge Amado</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52683.Jorge_Amado]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>576154</id>
+<title><![CDATA[Die gerettete Zunge: Geschichte einer Jugend]]></title>
+<title_without_series><![CDATA[Die gerettete Zunge: Geschichte einer Jugend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/576154.Die_gerettete_Zunge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>806963</id>
+</work>
+<isbn>3596220831</isbn>
+<isbn13>9783596220830</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>854</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6517</id>
+<name>Elias Canetti</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6517.Elias_Canetti]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>61030</id>
+<title><![CDATA[The Country Under My Skin: A Memoir of Love and War]]></title>
+<title_without_series><![CDATA[The Country Under My Skin: A Memoir of Love and War]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/61030.The_Country_Under_My_Skin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>380</num_pages>
+<work>
+<id>895846</id>
+</work>
+<isbn>1400032164</isbn>
+<isbn13>9781400032167</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>1484</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34329</id>
+<name>Gioconda Belli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34329.Gioconda_Belli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2169059</id>
+<title>الحزام</title>
+<title_without_series>الحزام</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2169059._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1371184853s/2169059.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1371184853m/2169059.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>2174678</id>
+</work>
+<isbn></isbn>
+<isbn13>9781855165670</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1738</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>984724</id>
+<name>Ahmad Abu Dahman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/984724.Ahmad_Abu_Dahman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>44147</id>
+<title><![CDATA[The Man Who Watched Trains Go By]]></title>
+<title_without_series><![CDATA[The Man Who Watched Trains Go By]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/44147.The_Man_Who_Watched_Trains_Go_By]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>203</num_pages>
+<work>
+<id>161221</id>
+</work>
+<isbn>1590171497</isbn>
+<isbn13>9781590171493</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>2127</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>9693</id>
+<name>Georges Simenon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9693.Georges_Simenon]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

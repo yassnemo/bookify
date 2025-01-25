@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13105</id>
+  <title><![CDATA[The Tenth Insight: Holding the Vision (Celestine Prophecy, #2)]]></title>
+  <isbn><![CDATA[0446674575]]></isbn>
+  <isbn13><![CDATA[9780446674577]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00GDFVVVS]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-CA</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Celestine Prophecy told of an ancient manuscript found in the rainforests of Peru which contained nine insights predicted to have a profound impact on the future of civilization. Although church and government fought to suppress this information, there were many individuals who risked their lives to spread its message. Now, with millions of people embracing these nine insights, the adventure that began with The Celestine Prophecy continues in the American Southeast where the narrator's friend has disappeared. The book explores the afterlife dimension, sexual energy and the spiritual history of the human race.In it's self-published edition, The Celestine Prophecy sold 100,000 copies, became a word-of-mouth bestseller and received tremendous praise from booksellers. The companion guide, The Celestine Prophecy: An Experiential Guide was a national bestseller, and has nearly 500,000 copies in print after 10 printings. A bestseller on five continents, The Celestine Prophecy has been on numerous bestseller lists. It hit #1 on many lists, including The Toronto Star, Globe Mail, and The New York Times.]]></description>
+  <work>
+  <id type="integer">2591755</id>
+  <books_count type="integer">80</books_count>
+  <best_book_id type="integer">13105</best_book_id>
+  <reviews_count type="integer">14075</reviews_count>
+  <ratings_sum type="integer">34266</ratings_sum>
+  <ratings_count type="integer">9488</ratings_count>
+  <text_reviews_count type="integer">347</text_reviews_count>
+  <original_publication_year type="integer">1996</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Tenth Insight </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2361|4:2858|3:2846|2:1068|1:355|total:9488</rating_dist>
+  <desc_user_id type="integer">16719249</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.61</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8797]]></ratings_count>
+  <text_reviews_count><![CDATA[308]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13105.The_Tenth_Insight]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13105.The_Tenth_Insight]]></link>
+  <authors>
+<author>
+<id>8203</id>
+<name>James Redfield</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209744700p5/8203.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209744700p2/8203.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8203.James_Redfield]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>102733</ratings_count>
+<text_reviews_count>4137</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13105.The_Tenth_Insight">The Tenth Insight Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446674575&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/13105.The_Tenth_Insight?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="645"/>
+      <shelf name="currently-reading" count="219"/>
+      <shelf name="spiritual" count="104"/>
+      <shelf name="spirituality" count="98"/>
+      <shelf name="philosophy" count="41"/>
+      <shelf name="new-age" count="36"/>
+      <shelf name="owned" count="29"/>
+      <shelf name="self-help" count="27"/>
+      <shelf name="books-i-own" count="26"/>
+      <shelf name="favorites" count="22"/>
+      <shelf name="fiction" count="21"/>
+      <shelf name="owned-books" count="16"/>
+      <shelf name="default" count="15"/>
+      <shelf name="adventure" count="13"/>
+      <shelf name="inspirational" count="12"/>
+      <shelf name="james-redfield" count="12"/>
+      <shelf name="religion" count="12"/>
+      <shelf name="novels" count="11"/>
+      <shelf name="mind-body-spirit" count="10"/>
+      <shelf name="series" count="9"/>
+      <shelf name="fantasy" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="nonfiction" count="8"/>
+      <shelf name="spiritual-fiction" count="7"/>
+      <shelf name="religion-spirituality" count="7"/>
+      <shelf name="novel" count="7"/>
+      <shelf name="non-fiction" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="esoteric" count="6"/>
+      <shelf name="other" count="5"/>
+      <shelf name="own-it" count="5"/>
+      <shelf name="metaphysical" count="5"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="metaphysics" count="4"/>
+      <shelf name="occult" count="4"/>
+      <shelf name="inspiring" count="4"/>
+      <shelf name="literature" count="4"/>
+      <shelf name="american" count="4"/>
+      <shelf name="personal-growth" count="4"/>
+      <shelf name="spiritualism" count="4"/>
+      <shelf name="life" count="4"/>
+      <shelf name="general-fiction" count="4"/>
+      <shelf name="have-read" count="4"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="scanned" count="3"/>
+      <shelf name="esoterie" count="3"/>
+      <shelf name="finished" count="3"/>
+      <shelf name="hardcover" count="3"/>
+      <shelf name="fiction-general" count="3"/>
+      <shelf name="spirituality-religion" count="3"/>
+      <shelf name="adult" count="3"/>
+      <shelf name="meditation" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="collection" count="3"/>
+      <shelf name="spirit" count="3"/>
+      <shelf name="spirtual" count="3"/>
+      <shelf name="religion-mythology" count="3"/>
+      <shelf name="philosophy-spirituality" count="3"/>
+      <shelf name="esoterica" count="3"/>
+      <shelf name="redfield" count="3"/>
+      <shelf name="spiritualist" count="2"/>
+      <shelf name="celestine-prophecy-series" count="2"/>
+      <shelf name="verhaal" count="2"/>
+      <shelf name="serie-celestine-prophecy-2" count="2"/>
+      <shelf name="bk-wk-bp2" count="2"/>
+      <shelf name="inspiratie" count="2"/>
+      <shelf name="english" count="2"/>
+      <shelf name="i-own-a-copy" count="2"/>
+      <shelf name="1990s" count="2"/>
+      <shelf name="tbr-pile" count="2"/>
+      <shelf name="new-age-spirituality" count="2"/>
+      <shelf name="duhovnost" count="2"/>
+      <shelf name="espiritualidade" count="2"/>
+      <shelf name="international-adult" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="reference" count="2"/>
+      <shelf name="dutch-translation" count="2"/>
+      <shelf name="soul-food" count="2"/>
+      <shelf name="sequel" count="2"/>
+      <shelf name="spiritual-and-inspirational" count="2"/>
+      <shelf name="home" count="2"/>
+      <shelf name="roman" count="2"/>
+      <shelf name="other-books" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="religious-spiritual" count="2"/>
+      <shelf name="religious" count="2"/>
+      <shelf name="owned-by-me" count="2"/>
+      <shelf name="celestine-prophecy" count="2"/>
+      <shelf name="spiritual-growth" count="2"/>
+      <shelf name="paranormal" count="2"/>
+      <shelf name="faith" count="2"/>
+      <shelf name="mystical" count="2"/>
+      <shelf name="contemporary-fiction" count="2"/>
+      <shelf name="have" count="2"/>
+      <shelf name="i-own-it" count="2"/>
+      <shelf name="2003" count="2"/>
+      <shelf name="inspiration" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>213901</id>
+<user_position>2</user_position>
+<series>
+<id>54230</id>
+<title>
+<![CDATA[
+    Celestine Prophecy
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>14</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>31222</id>
+<title><![CDATA[The Purpose of Your Life: Finding Your Place In The World Using Synchronicity, Intuition, And Uncommon Sense]]></title>
+<title_without_series><![CDATA[The Purpose of Your Life: Finding Your Place In The World Using Synchronicity, Intuition, And Uncommon Sense]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31222.The_Purpose_of_Your_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>31534</id>
+</work>
+<isbn>0688166253</isbn>
+<isbn13>9780688166250</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>217</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8204</id>
+<name>Carol Adrienne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8204.Carol_Adrienne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>997280</id>
+<title><![CDATA[Serpent of Light: Beyond 2012 the Movement of the Earth's Kundalini and the Rise of the Female Light, 1949 to 2013]]></title>
+<title_without_series><![CDATA[Serpent of Light: Beyond 2012 the Movement of the Earth's Kundalini and the Rise of the Female Light, 1949 to 2013]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/997280.Serpent_of_Light]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>270</num_pages>
+<work>
+<id>982773</id>
+</work>
+<isbn>1578634016</isbn>
+<isbn13>9781578634019</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>703</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>55573</id>
+<name>Drunvalo Melchizedek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55573.Drunvalo_Melchizedek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48663</id>
+<title><![CDATA[Friendship with God: An Uncommon Dialogue]]></title>
+<title_without_series><![CDATA[Friendship with God: An Uncommon Dialogue]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48663.Friendship_with_God]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>19026252</id>
+</work>
+<isbn>0425189848</isbn>
+<isbn13>9780425189849</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>1792</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9374</id>
+<name>Neale Donald Walsch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9374.Neale_Donald_Walsch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>417379</id>
+<title><![CDATA[Meditations for Women Who Do Too Much]]></title>
+<title_without_series><![CDATA[Meditations for Women Who Do Too Much]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/417379.Meditations_for_Women_Who_Do_Too_Much]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>406534</id>
+</work>
+<isbn>0062548662</isbn>
+<isbn13>9780062548665</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>406</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>160417</id>
+<name>Anne Wilson Schaef</name>
+<link><![CDATA[https://www.goodreads.com/author/show/160417.Anne_Wilson_Schaef]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294925</id>
+<title><![CDATA[Spirit Song: The Introduction of No-Eyes]]></title>
+<title_without_series><![CDATA[Spirit Song: The Introduction of No-Eyes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294925.Spirit_Song]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>286175</id>
+</work>
+<isbn>1878901613</isbn>
+<isbn13>9781878901613</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>465</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4921</id>
+<name>Mary Summer Rain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4921.Mary_Summer_Rain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>129350</id>
+<title>After Life</title>
+<title_without_series>After Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/129350.After_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>124575</id>
+</work>
+<isbn>1932128069</isbn>
+<isbn13>9781932128062</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>746</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72148</id>
+<name>John Edward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72148.John_Edward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>962541</id>
+<title><![CDATA[The Isaiah Effect: Decoding the Lost Science of Prayer and Prophecy]]></title>
+<title_without_series><![CDATA[The Isaiah Effect: Decoding the Lost Science of Prayer and Prophecy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/962541.The_Isaiah_Effect]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403189642s/962541.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403189642m/962541.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>947442</id>
+</work>
+<isbn>060980796X</isbn>
+<isbn13>9780609807965</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>767</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>25150</id>
+<name>Gregg Braden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25150.Gregg_Braden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>610694</id>
+<title>Angel Medicine</title>
+<title_without_series>Angel Medicine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/610694.Angel_Medicine]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>1698568</id>
+</work>
+<isbn>1401902359</isbn>
+<isbn13>9781401902353</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>658</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>79905</id>
+<name>Doreen Virtue</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79905.Doreen_Virtue]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>180914</id>
+<title><![CDATA[Wicca + Living Wicca + The Complete Book of Incense, Oils and Brews]]></title>
+<title_without_series><![CDATA[Wicca + Living Wicca + The Complete Book of Incense, Oils and Brews]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/180914.Wicca_Living_Wicca_The_Complete_Book_of_Incense_Oils_and_Brews]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1283041856s/180914.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1283041856m/180914.jpg]]></image_url>
+<num_pages>707</num_pages>
+<work>
+<id>42070586</id>
+</work>
+<isbn>0965073025</isbn>
+<isbn13>9780965073028</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>132</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3226</id>
+<name>Scott Cunningham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3226.Scott_Cunningham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>468667</id>
+<title>Manifest Your Destiny</title>
+<title_without_series>Manifest Your Destiny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/468667.Manifest_Your_Destiny]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1546407</id>
+</work>
+<isbn>0007160461</isbn>
+<isbn13>9780007160464</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>1803</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2960</id>
+<name>Wayne W. Dyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2960.Wayne_W_Dyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>614618</id>
+<title><![CDATA[The Eagle and the Rose: A Remarkable True Story]]></title>
+<title_without_series><![CDATA[The Eagle and the Rose: A Remarkable True Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/614618.The_Eagle_and_the_Rose]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344267806s/614618.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344267806m/614618.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>601060</id>
+</work>
+<isbn>0446677787</isbn>
+<isbn13>9780446677783</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1198</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>127103</id>
+<name>Rosemary Altea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127103.Rosemary_Altea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138894</id>
+<title><![CDATA[The Way of the Wizard: Twenty Spiritual Lessons for Creating the Life You Want]]></title>
+<title_without_series><![CDATA[The Way of the Wizard: Twenty Spiritual Lessons for Creating the Life You Want]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138894.The_Way_of_the_Wizard]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320461619s/138894.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320461619m/138894.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>66730</id>
+</work>
+<isbn>051770434X</isbn>
+<isbn13>9780517704349</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>4017</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>138207</id>
+<name>Deepak Chopra</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138207.Deepak_Chopra]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119762</id>
+<title><![CDATA[The Mind of the Soul: Responsible Choice]]></title>
+<title_without_series><![CDATA[The Mind of the Soul: Responsible Choice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119762.The_Mind_of_the_Soul]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>115307</id>
+</work>
+<isbn>0743254406</isbn>
+<isbn13>9780743254403</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>471</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26975</id>
+<name>Gary Zukav</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26975.Gary_Zukav]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12848</id>
+<title><![CDATA[Spiritwalker: Messages from the Future]]></title>
+<title_without_series><![CDATA[Spiritwalker: Messages from the Future]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12848.Spiritwalker]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>15104</id>
+</work>
+<isbn>0553378376</isbn>
+<isbn13>9780553378375</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>375</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8089</id>
+<name>Hank Wesselman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8089.Hank_Wesselman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>603917</id>
+<title><![CDATA[Earth: Pleiadian Keys to the Living Library]]></title>
+<title_without_series><![CDATA[Earth: Pleiadian Keys to the Living Library]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/603917.Earth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364138790s/603917.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364138790m/603917.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>590482</id>
+</work>
+<isbn>1879181215</isbn>
+<isbn13>9781879181212</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>448</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64205</id>
+<name>Barbara Marciniak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64205.Barbara_Marciniak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>570758</id>
+<title><![CDATA[The Re-enchantment of Everyday Life]]></title>
+<title_without_series><![CDATA[The Re-enchantment of Everyday Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/570758.The_Re_enchantment_of_Everyday_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1239901</id>
+</work>
+<isbn>0060928247</isbn>
+<isbn13>9780060928247</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>801</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1495208</id>
+<name>Thomas  Moore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1495208.Thomas_Moore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>253102</id>
+<title><![CDATA[Love is in the Earth: A Kaleidoscope of Crystals - The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom]]></title>
+<title_without_series><![CDATA[Love is in the Earth: A Kaleidoscope of Crystals - The Reference Book Describing the Metaphysical Properties of the Mineral Kingdom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/253102.Love_is_in_the_Earth]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>245264</id>
+</work>
+<isbn>0962819034</isbn>
+<isbn13>9780962819032</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>2501</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>147821</id>
+<name>Melody</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147821.Melody]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>389210</id>
+<title>The Journey Home</title>
+<title_without_series>The Journey Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/389210.The_Journey_Home]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>378827</id>
+</work>
+<isbn>1561705527</isbn>
+<isbn13>9781561705528</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>451</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>221319</id>
+<name>Lee Carroll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/221319.Lee_Carroll]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

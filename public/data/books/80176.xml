@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>80176</id>
+  <title>Winesburg, Ohio</title>
+  <isbn><![CDATA[0192839772]]></isbn>
+  <isbn13><![CDATA[9780192839770]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>Oxford University Press, USA</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Winesburg, Ohio (1919) is Sherwood Anderson's masterpiece, a cycle of short stories concerning life in a small town at the end of the nineteenth century. At the center is George Willard, a young reporter who becomes the confidant of the town's solitary figures. Anderson's stories influenced countless American writers including Hemingway, Faulkner, Updike, Oates and Carver. This new edition corrects errors made in earlier editions and takes into account major criticism and textual scholarship of the last several decades.]]></description>
+  <work>
+  <id type="integer">191520</id>
+  <books_count type="integer">383</books_count>
+  <best_book_id type="integer">80176</best_book_id>
+  <reviews_count type="integer">46328</reviews_count>
+  <ratings_sum type="integer">94961</ratings_sum>
+  <ratings_count type="integer">24758</ratings_count>
+  <text_reviews_count type="integer">1783</text_reviews_count>
+  <original_publication_year type="integer">1919</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Winesburg, Ohio: A Group of Tales of Ohio Small-Town Life</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7569|4:8686|3:6018|2:1833|1:652|total:24758</rating_dist>
+  <desc_user_id type="integer">44033866</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.84</average_rating>
+  <num_pages><![CDATA[240]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[20138]]></ratings_count>
+  <text_reviews_count><![CDATA[1205]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/80176.Winesburg_Ohio]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/80176.Winesburg_Ohio]]></link>
+  <authors>
+<author>
+<id>45645</id>
+<name>Sherwood Anderson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206470009p5/45645.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206470009p2/45645.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/45645.Sherwood_Anderson]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>29889</ratings_count>
+<text_reviews_count>2321</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/80176.Winesburg_Ohio">Winesburg, Ohio Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0192839772&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/80176.Winesburg_Ohio?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="fiction" count="804"/>
+      <shelf name="classics" count="679"/>
+      <shelf name="short-stories" count="595"/>
+      <shelf name="favorites" count="406"/>
+      <shelf name="classic" count="129"/>
+      <shelf name="literature" count="129"/>
+      <shelf name="american" count="117"/>
+      <shelf name="owned" count="117"/>
+      <shelf name="american-literature" count="80"/>
+      <shelf name="books-i-own" count="76"/>
+      <shelf name="kindle" count="73"/>
+      <shelf name="short-story" count="53"/>
+      <shelf name="modern-library-100" count="53"/>
+      <shelf name="20th-century" count="49"/>
+      <shelf name="literary-fiction" count="47"/>
+      <shelf name="american-lit" count="45"/>
+      <shelf name="novels" count="44"/>
+      <shelf name="school" count="44"/>
+      <shelf name="modern-library-top-100" count="43"/>
+      <shelf name="americana" count="36"/>
+      <shelf name="historical-fiction" count="35"/>
+      <shelf name="modern-library-100-best-novels" count="32"/>
+      <shelf name="library" count="31"/>
+      <shelf name="literary" count="31"/>
+      <shelf name="owned-books" count="30"/>
+      <shelf name="stories" count="30"/>
+      <shelf name="book-club" count="28"/>
+      <shelf name="to-buy" count="27"/>
+      <shelf name="1910s" count="26"/>
+      <shelf name="novel" count="25"/>
+      <shelf name="ohio" count="25"/>
+      <shelf name="usa" count="23"/>
+      <shelf name="classic-literature" count="23"/>
+      <shelf name="short-story-collections" count="23"/>
+      <shelf name="classic-fiction" count="22"/>
+      <shelf name="audiobooks" count="22"/>
+      <shelf name="america" count="21"/>
+      <shelf name="audio" count="21"/>
+      <shelf name="high-school" count="20"/>
+      <shelf name="unfinished" count="20"/>
+      <shelf name="adult" count="20"/>
+      <shelf name="english" count="19"/>
+      <shelf name="modernism" count="19"/>
+      <shelf name="shortstories" count="19"/>
+      <shelf name="college" count="19"/>
+      <shelf name="default" count="18"/>
+      <shelf name="racconti" count="18"/>
+      <shelf name="adult-fiction" count="18"/>
+      <shelf name="ebooks" count="17"/>
+      <shelf name="modern-library" count="17"/>
+      <shelf name="short-fiction" count="17"/>
+      <shelf name="ebook" count="17"/>
+      <shelf name="american-classics" count="17"/>
+      <shelf name="wish-list" count="16"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="to-read" count="15"/>
+      <shelf name="abandoned" count="15"/>
+      <shelf name="to-read-fiction" count="15"/>
+      <shelf name="classics-to-read" count="14"/>
+      <shelf name="midwest" count="14"/>
+      <shelf name="historical" count="14"/>
+      <shelf name="read-for-school" count="14"/>
+      <shelf name="general-fiction" count="14"/>
+      <shelf name="lit" count="14"/>
+      <shelf name="sherwood-anderson" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="school-books" count="13"/>
+      <shelf name="own-it" count="13"/>
+      <shelf name="favourites" count="13"/>
+      <shelf name="american-fiction" count="13"/>
+      <shelf name="audiobook" count="13"/>
+      <shelf name="classic-lit" count="12"/>
+      <shelf name="united-states" count="12"/>
+      <shelf name="to-read-classics" count="12"/>
+      <shelf name="recommended" count="12"/>
+      <shelf name="for-school" count="12"/>
+      <shelf name="100-best-novels" count="11"/>
+      <shelf name="didn-t-finish" count="11"/>
+      <shelf name="short-story-collection" count="11"/>
+      <shelf name="read-in-2012" count="10"/>
+      <shelf name="20th-century-lit" count="10"/>
+      <shelf name="collections" count="10"/>
+      <shelf name="modern-classics" count="10"/>
+      <shelf name="never-finished" count="10"/>
+      <shelf name="top-100" count="10"/>
+      <shelf name="home-library" count="10"/>
+      <shelf name="to-re-read" count="10"/>
+      <shelf name="did-not-finish" count="10"/>
+      <shelf name="re-read" count="10"/>
+      <shelf name="borrowed" count="10"/>
+      <shelf name="my-books" count="9"/>
+      <shelf name="fiction-to-read" count="9"/>
+      <shelf name="penguin-classics" count="9"/>
+      <shelf name="read-in-2010" count="9"/>
+      <shelf name="shorts" count="9"/>
+      <shelf name="short" count="9"/>
+      <shelf name="modern" count="9"/>
+      <shelf name="modern-fiction" count="9"/>
+      <shelf name="modern-library-100-best" count="9"/>
+      <shelf name="collection" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>126603</id>
+<title>Studs Lonigan</title>
+<title_without_series>Studs Lonigan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126603.Studs_Lonigan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>121922</id>
+</work>
+<isbn>1931082553</isbn>
+<isbn13>9781931082556</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1919</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6165</id>
+<name>James T. Farrell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6165.James_T_Farrell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11890</id>
+<title>The Wapshot Chronicle</title>
+<title_without_series>The Wapshot Chronicle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11890.The_Wapshot_Chronicle]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405912722s/11890.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405912722m/11890.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1527547</id>
+</work>
+<isbn>0060528877</isbn>
+<isbn13>9780060528874</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>5747</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7464</id>
+<name>John Cheever</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7464.John_Cheever]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>188454</id>
+<title>The Old Wives&apos; Tale</title>
+<title_without_series>The Old Wives&apos; Tale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/188454.The_Old_Wives_Tale]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1489465786s/188454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1489465786m/188454.jpg]]></image_url>
+<num_pages>565</num_pages>
+<work>
+<id>2248867</id>
+</work>
+<isbn>0375754903</isbn>
+<isbn13>9780375754906</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3373</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3314</id>
+<name>Arnold Bennett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3314.Arnold_Bennett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>778463</id>
+<title>Zuleika Dobson</title>
+<title_without_series>Zuleika Dobson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/778463.Zuleika_Dobson]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369859636s/778463.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369859636m/778463.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>942377</id>
+</work>
+<isbn>037575248X</isbn>
+<isbn13>9780375752483</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>3613</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>18985</id>
+<name>Max Beerbohm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18985.Max_Beerbohm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>126512</id>
+<title>The Way of All Flesh</title>
+<title_without_series>The Way of All Flesh</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126512.The_Way_of_All_Flesh]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328864358s/126512.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328864358m/126512.jpg]]></image_url>
+<num_pages>315</num_pages>
+<work>
+<id>575504</id>
+</work>
+<isbn>0486434664</isbn>
+<isbn13>9780486434667</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>6730</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>72703</id>
+<name>Samuel Butler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72703.Samuel_Butler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>188458</id>
+<title>A High Wind in Jamaica</title>
+<title_without_series>A High Wind in Jamaica</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/188458.A_High_Wind_in_Jamaica]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>2166961</id>
+</work>
+<isbn>0940322153</isbn>
+<isbn13>9780940322158</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>6689</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>295289</id>
+<name>Richard Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/295289.Richard_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16115</id>
+<title><![CDATA[A Dance to the Music of Time: 2nd Movement (A Dance to the Music of Time, #4-6)]]></title>
+<title_without_series><![CDATA[A Dance to the Music of Time: 2nd Movement]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16115.A_Dance_to_the_Music_of_Time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>722</num_pages>
+<work>
+<id>1844144</id>
+</work>
+<isbn>0226677168</isbn>
+<isbn13>9780226677163</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1073</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>9947</id>
+<name>Anthony Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9947.Anthony_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>261441</id>
+<title><![CDATA[USA: The 42nd Parallel / 1919 / The Big Money]]></title>
+<title_without_series><![CDATA[USA: The 42nd Parallel / 1919 / The Big Money]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/261441.USA]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309200622s/261441.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309200622m/261441.jpg]]></image_url>
+<num_pages>1312</num_pages>
+<work>
+<id>6503267</id>
+</work>
+<isbn>1883011140</isbn>
+<isbn13>9781883011147</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>4043</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4778</id>
+<name>John Dos Passos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4778.John_Dos_Passos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>126583</id>
+<title>Appointment in Samarra</title>
+<title_without_series>Appointment in Samarra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126583.Appointment_in_Samarra]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320446769s/126583.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320446769m/126583.jpg]]></image_url>
+<num_pages>251</num_pages>
+<work>
+<id>2555382</id>
+</work>
+<isbn>0375719202</isbn>
+<isbn13>9780375719202</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>11425</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>27991</id>
+<name>John O&apos;Hara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27991.John_O_Hara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18790</id>
+<title>The Portable Faulkner</title>
+<title_without_series>The Portable Faulkner</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18790.The_Portable_Faulkner]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>650</num_pages>
+<work>
+<id>20146</id>
+</work>
+<isbn>014243728X</isbn>
+<isbn13>9780142437285</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>724</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3535</id>
+<name>William Faulkner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3535.William_Faulkner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>127028</id>
+<title><![CDATA[The Magnificent Ambersons (The Growth Trilogy, #2)]]></title>
+<title_without_series>The Magnificent Ambersons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/127028.The_Magnificent_Ambersons]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>365539</id>
+</work>
+<isbn>1406935735</isbn>
+<isbn13>9781406935738</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>8131</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>73021</id>
+<name>Booth Tarkington</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73021.Booth_Tarkington]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>775366</id>
+<title>The Ambassadors</title>
+<title_without_series>The Ambassadors</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/775366.The_Ambassadors]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>1395409</id>
+</work>
+<isbn>0140432337</isbn>
+<isbn13>9780140432336</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>9770</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>159</id>
+<name>Henry James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159.Henry_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5135</id>
+<title>Point Counter Point</title>
+<title_without_series>Point Counter Point</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5135.Point_Counter_Point]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>954202</id>
+</work>
+<isbn>1564781313</isbn>
+<isbn13>9781564781314</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>8880</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3487</id>
+<name>Aldous Huxley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3487.Aldous_Huxley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11442</id>
+<title>Fires: Essays, Poems, Stories</title>
+<title_without_series>Fires: Essays, Poems, Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11442.Fires]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>1038751</id>
+</work>
+<isbn>0679722394</isbn>
+<isbn13>9780679722397</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>1790</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>6</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>7363</id>
+<name>Raymond Carver</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7363.Raymond_Carver]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11908</id>
+<title>The Adventures of Augie March</title>
+<title_without_series>The Adventures of Augie March</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11908.The_Adventures_of_Augie_March]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>586</num_pages>
+<work>
+<id>2453177</id>
+</work>
+<isbn>0143039571</isbn>
+<isbn13>9780143039570</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>13751</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4391</id>
+<name>Saul Bellow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4391.Saul_Bellow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>777824</id>
+<title>Parade&apos;s End</title>
+<title_without_series>Parade&apos;s End</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/777824.Parade_s_End]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1450231478s/777824.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1450231478m/777824.jpg]]></image_url>
+<num_pages>836</num_pages>
+<work>
+<id>2244425</id>
+</work>
+<isbn>0141186615</isbn>
+<isbn13>9780141186610</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>4536</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1209</id>
+<name>Ford Madox Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1209.Ford_Madox_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59091</id>
+<title><![CDATA[Tobacco Road (Brown Thrasher Books)]]></title>
+<title_without_series>Tobacco Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59091.Tobacco_Road]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369852920s/59091.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369852920m/59091.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1238780</id>
+</work>
+<isbn>082031661X</isbn>
+<isbn13>9780820316611</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>11781</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17326</id>
+<name>Erskine Caldwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17326.Erskine_Caldwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294459</id>
+<title><![CDATA[Miss Lonelyhearts / The Day of the Locust]]></title>
+<title_without_series><![CDATA[Miss Lonelyhearts / The Day of the Locust]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294459.Miss_Lonelyhearts_The_Day_of_the_Locust]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>236076</id>
+</work>
+<isbn>0811202151</isbn>
+<isbn13>9780811202152</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>8141</ratings_count>
+<publication_year>1969</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>65685</id>
+<name>Nathanael West</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65685.Nathanael_West]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

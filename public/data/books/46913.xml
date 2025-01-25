@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>46913</id>
+  <title>FRUiTS</title>
+  <isbn><![CDATA[0714840831]]></isbn>
+  <isbn13><![CDATA[9780714840833]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1431398203m/46913.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1431398203s/46913.jpg</small_image_url>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Phaidon Press, Ltd.</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">45984</id>
+  <books_count type="integer">1</books_count>
+  <best_book_id type="integer">46913</best_book_id>
+  <reviews_count type="integer">11803</reviews_count>
+  <ratings_sum type="integer">37027</ratings_sum>
+  <ratings_count type="integer">9402</ratings_count>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <original_publication_year type="integer">2001</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">6</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4012|4:2233|3:2045|2:788|1:324|total:9402</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.94</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[Softcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9402]]></ratings_count>
+  <text_reviews_count><![CDATA[64]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/46913.FRUiTS]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/46913.FRUiTS]]></link>
+  <authors>
+<author>
+<id>5660266</id>
+<name>Shoichi Aoki</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1449432555p5/5660266.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1449432555p2/5660266.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5660266.Shoichi_Aoki]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>10241</ratings_count>
+<text_reviews_count>94</text_reviews_count>
+</author>
+<author>
+<id>39821</id>
+<name>Mark Sanders</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/39821.Mark_Sanders]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>9457</ratings_count>
+<text_reviews_count>69</text_reviews_count>
+</author>
+<author>
+<id>3149813</id>
+<name>Shoich Aoki</name>
+<role>Photographer</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3149813.Shoich_Aoki]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>10236</ratings_count>
+<text_reviews_count>93</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/46913.FRUiTS">FRUiTS Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0714840831&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/46913.FRUiTS?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2300"/>
+      <shelf name="fashion" count="69"/>
+      <shelf name="art" count="57"/>
+      <shelf name="non-fiction" count="48"/>
+      <shelf name="photography" count="45"/>
+      <shelf name="japan" count="40"/>
+      <shelf name="nonfiction" count="20"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="art-books" count="13"/>
+      <shelf name="owned" count="12"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="japanese" count="8"/>
+      <shelf name="culture" count="7"/>
+      <shelf name="style" count="6"/>
+      <shelf name="currently-reading" count="6"/>
+      <shelf name="other" count="4"/>
+      <shelf name="travel" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="reference" count="4"/>
+      <shelf name="cultural-studies" count="4"/>
+      <shelf name="art-design" count="3"/>
+      <shelf name="default" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="pop-culture" count="3"/>
+      <shelf name="art-photography" count="3"/>
+      <shelf name="asia" count="3"/>
+      <shelf name="anthropology" count="3"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="fashion-books" count="2"/>
+      <shelf name="to-get" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="photos" count="2"/>
+      <shelf name="asian-stuff" count="2"/>
+      <shelf name="foreign" count="2"/>
+      <shelf name="scanned" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="collection" count="2"/>
+      <shelf name="arty" count="2"/>
+      <shelf name="art-design-fashion" count="2"/>
+      <shelf name="photo" count="2"/>
+      <shelf name="design" count="2"/>
+      <shelf name="asian" count="2"/>
+      <shelf name="design-fashion" count="1"/>
+      <shelf name="bookshelf-5" count="1"/>
+      <shelf name="non-fiction_art" count="1"/>
+      <shelf name="my-favorites" count="1"/>
+      <shelf name="tribus-urbanas" count="1"/>
+      <shelf name="read-in-high-school" count="1"/>
+      <shelf name="to-read-but-dont-own" count="1"/>
+      <shelf name="papierowe-angielski" count="1"/>
+      <shelf name="arts" count="1"/>
+      <shelf name="craft" count="1"/>
+      <shelf name="in-my-library-hardcopy" count="1"/>
+      <shelf name="costume" count="1"/>
+      <shelf name="fashioncostume" count="1"/>
+      <shelf name="picture-book-challenge-2016" count="1"/>
+      <shelf name="goodreads-challenge-2016" count="1"/>
+      <shelf name="coffee-table-books" count="1"/>
+      <shelf name="i-own-a-copy" count="1"/>
+      <shelf name="my-books-2016" count="1"/>
+      <shelf name="to-find" count="1"/>
+      <shelf name="makara-lending-library" count="1"/>
+      <shelf name="written-by-east-asian-men" count="1"/>
+      <shelf name="to-read-contemporary-nonfic" count="1"/>
+      <shelf name="read-non-fiction" count="1"/>
+      <shelf name="counterculture" count="1"/>
+      <shelf name="absurd" count="1"/>
+      <shelf name="image-heavy" count="1"/>
+      <shelf name="interior" count="1"/>
+      <shelf name="currently-own-copies" count="1"/>
+      <shelf name="buy-beg-borrow" count="1"/>
+      <shelf name="asian-books" count="1"/>
+      <shelf name="read-before-2012" count="1"/>
+      <shelf name="4-star" count="1"/>
+      <shelf name="costume-fashion" count="1"/>
+      <shelf name="shelfari-favorites" count="1"/>
+      <shelf name="photography-or-art-collection" count="1"/>
+      <shelf name="fashion-and-costumes" count="1"/>
+      <shelf name="japanophenia" count="1"/>
+      <shelf name="need-to-buy" count="1"/>
+      <shelf name="my-book-shelf" count="1"/>
+      <shelf name="artsy-books" count="1"/>
+      <shelf name="work-b-visible-project" count="1"/>
+      <shelf name="picturebook" count="1"/>
+      <shelf name="on-my-bookshelf" count="1"/>
+      <shelf name="japanese-in-english" count="1"/>
+      <shelf name="graphic-design-books-i-own" count="1"/>
+      <shelf name="from-my-public-library" count="1"/>
+      <shelf name="art-photography-etc" count="1"/>
+      <shelf name="日本" count="1"/>
+      <shelf name="wish-to-read" count="1"/>
+      <shelf name="tbr-pb" count="1"/>
+      <shelf name="photography-japan" count="1"/>
+      <shelf name="non-fiction-coffee-table" count="1"/>
+      <shelf name="maddys-books" count="1"/>
+      <shelf name="lovely-intriguing" count="1"/>
+      <shelf name="jennas-non-fiction" count="1"/>
+      <shelf name="in-dg-bookshelf" count="1"/>
+      <shelf name="fyi-reference" count="1"/>
+      <shelf name="fashion-and-art-books-read" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>301735</id>
+<user_position>1</user_position>
+<series>
+<id>67856</id>
+<title>
+<![CDATA[
+    Fruits
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>118777</id>
+<title>Gothic and Lolita</title>
+<title_without_series>Gothic and Lolita</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118777.Gothic_and_Lolita]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1409251341s/118777.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1409251341m/118777.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>114352</id>
+</work>
+<isbn>0714847852</isbn>
+<isbn13>9780714847856</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>548</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>68873</id>
+<name>Masayuki Yoshinaga</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68873.Masayuki_Yoshinaga]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>824107</id>
+<title>Tokyo: A Certain Style</title>
+<title_without_series>Tokyo: A Certain Style</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/824107.Tokyo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>809890</id>
+</work>
+<isbn>0811824233</isbn>
+<isbn13>9780811824231</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>226</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>87226</id>
+<name>Kyoichi Tsuzuki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87226.Kyoichi_Tsuzuki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>644986</id>
+<title><![CDATA[Street: The Nylon Book of Global Style]]></title>
+<title_without_series><![CDATA[Street: The Nylon Book of Global Style]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/644986.Street]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>631148</id>
+</work>
+<isbn>0789315017</isbn>
+<isbn13>9780789315014</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>317</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4112398</id>
+<name>Nylon Magazine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4112398.Nylon_Magazine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>435140</id>
+<title><![CDATA[Japanese Schoolgirl Inferno: Tokyo Teen Fashion Subculture Handbook]]></title>
+<title_without_series><![CDATA[Japanese Schoolgirl Inferno: Tokyo Teen Fashion Subculture Handbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/435140.Japanese_Schoolgirl_Inferno]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>424072</id>
+</work>
+<isbn>0811856909</isbn>
+<isbn13>9780811856904</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>201</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>245154</id>
+<name>Izumi Evers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/245154.Izumi_Evers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1070941</id>
+<title>Vivienne Westwood</title>
+<title_without_series>Vivienne Westwood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1070941.Vivienne_Westwood]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1057628</id>
+</work>
+<isbn>185177405X</isbn>
+<isbn13>9781851774050</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>182</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>24305</id>
+<name>Claire Wilcox</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24305.Claire_Wilcox]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>165053</id>
+<title><![CDATA[Graffiti World: Street Art from Five Continents]]></title>
+<title_without_series><![CDATA[Graffiti World: Street Art from Five Continents]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/165053.Graffiti_World]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1302039517s/165053.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1302039517m/165053.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>159363</id>
+</work>
+<isbn>0810949792</isbn>
+<isbn13>9780810949799</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>9090</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>79336</id>
+<name>Nicholas Ganz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79336.Nicholas_Ganz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>455718</id>
+<title><![CDATA[Fashion: The Collection of the Kyoto Costume Institute - A History from the 18th to the 20th Century]]></title>
+<title_without_series><![CDATA[Fashion: The Collection of the Kyoto Costume Institute - A History from the 18th to the 20th Century]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/455718.Fashion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>208281</id>
+</work>
+<isbn>0760782024</isbn>
+<isbn13>9780760782026</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1235</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>36476</id>
+<name>Akiko Fukai</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36476.Akiko_Fukai]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1598051</id>
+<title>The Tokyo Look Book</title>
+<title_without_series>The Tokyo Look Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1598051.The_Tokyo_Look_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>1591228</id>
+</work>
+<isbn>4770030614</isbn>
+<isbn13>9784770030610</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>138</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>950665</id>
+<name>Philomena Keet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/950665.Philomena_Keet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1998850</id>
+<title><![CDATA[Style Deficit Disorder: Harajuku Street Fashion - Tokyo]]></title>
+<title_without_series><![CDATA[Style Deficit Disorder: Harajuku Street Fashion - Tokyo]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1998850.Style_Deficit_Disorder]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2002656</id>
+</work>
+<isbn>0811857964</isbn>
+<isbn13>9780811857963</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>134</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>908162</id>
+<name>Tiffany Godoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/908162.Tiffany_Godoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6356356</id>
+<title><![CDATA[The Sartorialist (The Sartorialist, #1)]]></title>
+<title_without_series>The Sartorialist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6356356-the-sartorialist]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>6543072</id>
+</work>
+<isbn>0143116371</isbn>
+<isbn13>9780143116370</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2499</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>2882124</id>
+<name>Scott Schuman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2882124.Scott_Schuman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1780126</id>
+<title><![CDATA[Gothic & Lolita Bible, Volume 1]]></title>
+<title_without_series><![CDATA[Gothic & Lolita Bible, Volume 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1780126.Gothic_Lolita_Bible_Volume_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1778875</id>
+</work>
+<isbn>1427803471</isbn>
+<isbn13>9781427803474</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>144</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>513563</id>
+<name>Jenna Winterberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/513563.Jenna_Winterberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>651979</id>
+<title><![CDATA[The Corset: A Cultural History]]></title>
+<title_without_series><![CDATA[The Corset: A Cultural History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/651979.The_Corset]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>1466278</id>
+</work>
+<isbn>0300099533</isbn>
+<isbn13>9780300099539</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>335</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>64015</id>
+<name>Valerie Steele</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64015.Valerie_Steele]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>51251</id>
+<title>Existencilism</title>
+<title_without_series>Existencilism</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/51251.Existencilism]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>50016</id>
+</work>
+<isbn>0954170415</isbn>
+<isbn13>9780954170417</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>801</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>28811</id>
+<name>Banksy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28811.Banksy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2788699</id>
+<title><![CDATA[Natural Fashion: Tribal Decoration from Africa]]></title>
+<title_without_series><![CDATA[Natural Fashion: Tribal Decoration from Africa]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2788699-natural-fashion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>167</num_pages>
+<work>
+<id>2814466</id>
+</work>
+<isbn>0500543585</isbn>
+<isbn13>9780500543580</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>132</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3392321</id>
+<name>Hans W. Silvester</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3392321.Hans_W_Silvester]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>577025</id>
+<title><![CDATA[100 Years of Fashion Illustration]]></title>
+<title_without_series><![CDATA[100 Years of Fashion Illustration]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/577025.100_Years_of_Fashion_Illustration]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>563976</id>
+</work>
+<isbn>1856694623</isbn>
+<isbn13>9781856694629</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>731</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>315039</id>
+<name>Cally Blackman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/315039.Cally_Blackman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>600633</id>
+<title>1000 Tattoos</title>
+<title_without_series>1000 Tattoos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/600633.1000_Tattoos]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>587232</id>
+</work>
+<isbn>3822841072</isbn>
+<isbn13>9783822841075</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>280</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>326354</id>
+<name>Henk Schiffmacher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326354.Henk_Schiffmacher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15778</id>
+<title>The Art of Looking Sideways</title>
+<title_without_series>The Art of Looking Sideways</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>533</num_pages>
+<work>
+<id>17598</id>
+</work>
+<isbn>0714834491</isbn>
+<isbn13>9780714834498</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>5840</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>9763</id>
+<name>Alan Fletcher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9763.Alan_Fletcher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>361932</id>
+<title><![CDATA[Pop Surrealism: The Rise of Underground Art]]></title>
+<title_without_series><![CDATA[Pop Surrealism: The Rise of Underground Art]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/361932.Pop_Surrealism]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>352028</id>
+</work>
+<isbn>0867196181</isbn>
+<isbn13>9780867196184</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1631</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>207231</id>
+<name>Kirsten Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/207231.Kirsten_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

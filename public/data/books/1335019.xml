@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>1335019</id>
+  <title><![CDATA[Necronomicon: The Best Weird Tales]]></title>
+  <isbn><![CDATA[0575081562]]></isbn>
+  <isbn13><![CDATA[9780575081567]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B071XTWP7N]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1264059645m/1335019.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1264059645s/1335019.jpg</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Gollancz, Great Britain</publisher>
+  <language_code>en-GB</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Originally written for the pulp magazines of the 1920s and 1930s, H. P. Lovecraft's astonishing tales blend elements of horror, science fiction, and cosmology that are as powerful today as they were when first published. This tome presents original versions of many of his most harrowing stories, including the complete Cthulhu Mythos cycle, in order of publication.]]></description>
+  <work>
+  <id type="integer">1324548</id>
+  <books_count type="integer">44</books_count>
+  <best_book_id type="integer">1335019</best_book_id>
+  <reviews_count type="integer">26196</reviews_count>
+  <ratings_sum type="integer">40826</ratings_sum>
+  <ratings_count type="integer">9521</ratings_count>
+  <text_reviews_count type="integer">408</text_reviews_count>
+  <original_publication_year type="integer">1930</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Necronomicon</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4916|4:2959|3:1242|2:280|1:124|total:9521</rating_dist>
+  <desc_user_id type="integer">7726253</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.29</average_rating>
+  <num_pages><![CDATA[878]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[Commemorative Edition, first printing]]></edition_information>
+  <ratings_count><![CDATA[8345]]></ratings_count>
+  <text_reviews_count><![CDATA[308]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/1335019.Necronomicon]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/1335019.Necronomicon]]></link>
+  <authors>
+<author>
+<id>9494</id>
+<name>H.P. Lovecraft</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1299165714p5/9494.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1299165714p2/9494.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9494.H_P_Lovecraft]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>369984</ratings_count>
+<text_reviews_count>17380</text_reviews_count>
+</author>
+<author>
+<id>11210</id>
+<name>Les Edwards</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416166309p5/11210.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1416166309p2/11210.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11210.Les_Edwards]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>17666</ratings_count>
+<text_reviews_count>1173</text_reviews_count>
+</author>
+<author>
+<id>6943</id>
+<name>Stephen Jones</name>
+<role>Editor</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250876610p5/6943.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250876610p2/6943.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6943.Stephen_Jones]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>39813</ratings_count>
+<text_reviews_count>2044</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/1335019.Necronomicon">Necronomicon Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0575081562&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/1335019.Necronomicon?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="13370"/>
+      <shelf name="currently-reading" count="1859"/>
+      <shelf name="horror" count="562"/>
+      <shelf name="fantasy" count="196"/>
+      <shelf name="favorites" count="193"/>
+      <shelf name="fiction" count="156"/>
+      <shelf name="classics" count="120"/>
+      <shelf name="short-stories" count="115"/>
+      <shelf name="owned" count="106"/>
+      <shelf name="science-fiction" count="60"/>
+      <shelf name="books-i-own" count="47"/>
+      <shelf name="sci-fi" count="39"/>
+      <shelf name="gothic" count="38"/>
+      <shelf name="owned-books" count="28"/>
+      <shelf name="classic" count="27"/>
+      <shelf name="default" count="26"/>
+      <shelf name="lovecraft" count="25"/>
+      <shelf name="weird-fiction" count="24"/>
+      <shelf name="audible" count="23"/>
+      <shelf name="audiobook" count="22"/>
+      <shelf name="audio" count="20"/>
+      <shelf name="on-hold" count="18"/>
+      <shelf name="to-buy" count="18"/>
+      <shelf name="my-books" count="17"/>
+      <shelf name="mystery" count="17"/>
+      <shelf name="wish-list" count="16"/>
+      <shelf name="audiobooks" count="15"/>
+      <shelf name="cthulhu-mythos" count="15"/>
+      <shelf name="favourites" count="15"/>
+      <shelf name="lovecraftian" count="14"/>
+      <shelf name="h-p-lovecraft" count="14"/>
+      <shelf name="literature" count="14"/>
+      <shelf name="anthology" count="13"/>
+      <shelf name="my-library" count="13"/>
+      <shelf name="short-story" count="13"/>
+      <shelf name="supernatural" count="13"/>
+      <shelf name="novels" count="13"/>
+      <shelf name="occult" count="12"/>
+      <shelf name="unfinished" count="12"/>
+      <shelf name="anthologies" count="12"/>
+      <shelf name="library" count="11"/>
+      <shelf name="collection" count="11"/>
+      <shelf name="horror-thriller" count="11"/>
+      <shelf name="english" count="9"/>
+      <shelf name="books" count="9"/>
+      <shelf name="sci-fi-fantasy" count="9"/>
+      <shelf name="paranormal" count="8"/>
+      <shelf name="american-literature" count="8"/>
+      <shelf name="american" count="7"/>
+      <shelf name="short-story-collection" count="7"/>
+      <shelf name="dark" count="7"/>
+      <shelf name="scifi" count="7"/>
+      <shelf name="collections" count="7"/>
+      <shelf name="audio-books" count="6"/>
+      <shelf name="did-not-finish" count="6"/>
+      <shelf name="20th-century" count="6"/>
+      <shelf name="bookshelf" count="6"/>
+      <shelf name="partly-read" count="6"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="scifi-fantasy" count="6"/>
+      <shelf name="cthulhu" count="6"/>
+      <shelf name="have" count="6"/>
+      <shelf name="hp-lovecraft" count="6"/>
+      <shelf name="usa" count="6"/>
+      <shelf name="creepy" count="6"/>
+      <shelf name="sf" count="6"/>
+      <shelf name="to-read-owned" count="5"/>
+      <shelf name="terror" count="5"/>
+      <shelf name="abandoned" count="5"/>
+      <shelf name="to-read-fiction" count="5"/>
+      <shelf name="weird" count="5"/>
+      <shelf name="to-read-horror" count="5"/>
+      <shelf name="to-read-classics" count="5"/>
+      <shelf name="own-to-read" count="5"/>
+      <shelf name="personal-library" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="on-the-shelf" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="biblioteca" count="4"/>
+      <shelf name="shelf" count="4"/>
+      <shelf name="favourite-books" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="want-to-read" count="4"/>
+      <shelf name="unread" count="4"/>
+      <shelf name="short-fiction" count="4"/>
+      <shelf name="mythology" count="4"/>
+      <shelf name="in-english" count="4"/>
+      <shelf name="paused" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="sci-fi-and-fantasy" count="4"/>
+      <shelf name="half-read" count="4"/>
+      <shelf name="want-to-buy" count="4"/>
+      <shelf name="couldn-t-finish" count="4"/>
+      <shelf name="horror-suspense" count="4"/>
+      <shelf name="pulp" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="modern-classics" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>828878</id>
+<title><![CDATA[The Complete Chronicles of Conan]]></title>
+<title_without_series><![CDATA[The Complete Chronicles of Conan]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/828878.The_Complete_Chronicles_of_Conan]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1431298282s/828878.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1431298282m/828878.jpg]]></image_url>
+<num_pages>927</num_pages>
+<work>
+<id>146900</id>
+</work>
+<isbn>0575077662</isbn>
+<isbn13>9780575077669</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3178</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>66700</id>
+<name>Robert E. Howard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66700.Robert_E_Howard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>757068</id>
+<title>The Taint and Other Novellas</title>
+<title_without_series>The Taint and Other Novellas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/757068.The_Taint_and_Other_Novellas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>743181</id>
+</work>
+<isbn>1596061251</isbn>
+<isbn13>9781596061255</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>451</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>20602</id>
+<name>Brian Lumley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20602.Brian_Lumley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>806793</id>
+<title><![CDATA[The Dunwich Cycle: Where the Old Gods Wait (Cthulhu Cycle Book, #9)]]></title>
+<title_without_series><![CDATA[The Dunwich Cycle: Where the Old Gods Wait]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/806793.The_Dunwich_Cycle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>792737</id>
+</work>
+<isbn>156882047X</isbn>
+<isbn13>9781568820477</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>116</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9493</id>
+<name>Robert M. Price</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9493.Robert_M_Price]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11196925</id>
+<title>The Book of Cthulhu</title>
+<title_without_series>The Book of Cthulhu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11196925-the-book-of-cthulhu]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1310833264s/11196925.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1310833264m/11196925.jpg]]></image_url>
+<num_pages>529</num_pages>
+<work>
+<id>16121898</id>
+</work>
+<isbn>1597802328</isbn>
+<isbn13>9781597802321</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1674</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3036291</id>
+<name>Ross E. Lockhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3036291.Ross_E_Lockhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58972</id>
+<title><![CDATA[Necronomicon: The Wanderings of Alhazred (Necronomicon Series)]]></title>
+<title_without_series><![CDATA[Necronomicon: The Wanderings of Alhazred]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58972.Necronomicon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>57419</id>
+</work>
+<isbn>0738706272</isbn>
+<isbn13>9780738706276</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>758</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17967</id>
+<name>Donald Tyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17967.Donald_Tyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>219063</id>
+<title><![CDATA[The Encyclopedia Cthulhiana: A Guide to Lovecraftian Horror]]></title>
+<title_without_series><![CDATA[The Encyclopedia Cthulhiana: A Guide to Lovecraftian Horror]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/219063.The_Encyclopedia_Cthulhiana]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>423</num_pages>
+<work>
+<id>212101</id>
+</work>
+<isbn>1568821190</isbn>
+<isbn13>9781568821191</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>952</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33303</id>
+<name>Daniel Harms</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33303.Daniel_Harms]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>864386</id>
+<title>Tales of Unease</title>
+<title_without_series>Tales of Unease</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/864386.Tales_of_Unease]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333609136s/864386.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333609136m/864386.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>849795</id>
+</work>
+<isbn>1840224061</isbn>
+<isbn13>9781840224061</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>525</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2448</id>
+<name>Arthur Conan Doyle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6505011</id>
+<title>Lovecraft Unbound</title>
+<title_without_series>Lovecraft Unbound</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6505011-lovecraft-unbound]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403198265s/6505011.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403198265m/6505011.jpg]]></image_url>
+<num_pages>421</num_pages>
+<work>
+<id>6696594</id>
+</work>
+<isbn>1595821465</isbn>
+<isbn13>9781595821461</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2778</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>46138</id>
+<name>Ellen Datlow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46138.Ellen_Datlow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>320700</id>
+<title>Shadows over Innsmouth</title>
+<title_without_series>Shadows over Innsmouth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/320700.Shadows_over_Innsmouth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1293833116s/320700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1293833116m/320700.jpg]]></image_url>
+<num_pages>468</num_pages>
+<work>
+<id>3077645</id>
+</work>
+<isbn>0345444078</isbn>
+<isbn13>9780345444073</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>10734</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>6943</id>
+<name>Stephen Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6943.Stephen_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>108064</id>
+<title>Books of Blood, Volumes 4-6</title>
+<title_without_series>Books of Blood, Volumes 4-6</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/108064.Books_of_Blood_Volumes_4_6]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>452</num_pages>
+<work>
+<id>3319493</id>
+</work>
+<isbn>0747401659</isbn>
+<isbn13>9780747401650</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2999</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10366</id>
+<name>Clive Barker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10366.Clive_Barker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7069333</id>
+<title>HG Wells Classic Collection</title>
+<title_without_series>HG Wells Classic Collection</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7069333-hg-wells-classic-collection]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328835455s/7069333.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328835455m/7069333.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6489</id>
+</work>
+<isbn>0575095202</isbn>
+<isbn13>9780575095205</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>143</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16062930</id>
+<title>A Season in Carcosa</title>
+<title_without_series>A Season in Carcosa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16062930-a-season-in-carcosa]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349236706s/16062930.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349236706m/16062930.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>21851612</id>
+</work>
+<isbn>1937408000</isbn>
+<isbn13>9781937408008</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>372</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>5132157</id>
+<name>Joseph S. Pulver Sr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5132157.Joseph_S_Pulver_Sr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>620486</id>
+<title>Cthulhu 2000</title>
+<title_without_series>Cthulhu 2000</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/620486.Cthulhu_2000]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320395762s/620486.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320395762m/620486.jpg]]></image_url>
+<num_pages>398</num_pages>
+<work>
+<id>606860</id>
+</work>
+<isbn>0345422031</isbn>
+<isbn13>9780345422033</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>4309</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>57728</id>
+<name>Jim Turner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57728.Jim_Turner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11226926</id>
+<title><![CDATA[The White People and Other Weird Stories]]></title>
+<title_without_series><![CDATA[The White People and Other Weird Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11226926-the-white-people-and-other-weird-stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311702486s/11226926.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311702486m/11226926.jpg]]></image_url>
+<num_pages>377</num_pages>
+<work>
+<id>16152817</id>
+</work>
+<isbn>0143105590</isbn>
+<isbn13>9780143105596</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1658</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>33546</id>
+<name>Arthur Machen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33546.Arthur_Machen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10511555</id>
+<title>Dracula&apos;s Guest</title>
+<title_without_series>Dracula&apos;s Guest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10511555-dracula-s-guest]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382160897s/10511555.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382160897m/10511555.jpg]]></image_url>
+<num_pages>20</num_pages>
+<work>
+<id>23581745</id>
+</work>
+<isbn></isbn>
+<isbn13>2940012730848</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>4214</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6988</id>
+<name>Bram Stoker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6988.Bram_Stoker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>68840</id>
+<title><![CDATA[An H. P. Lovecraft Encyclopedia]]></title>
+<title_without_series><![CDATA[An H. P. Lovecraft Encyclopedia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/68840.An_H_P_Lovecraft_Encyclopedia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>364</num_pages>
+<work>
+<id>1295812</id>
+</work>
+<isbn>097487891X</isbn>
+<isbn13>9780974878911</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>107</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>406026</id>
+<name>S.T. Joshi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/406026.S_T_Joshi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15788399</id>
+<title>Shotguns v. Cthulhu</title>
+<title_without_series>Shotguns v. Cthulhu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15788399-shotguns-v-cthulhu]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344195449s/15788399.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344195449m/15788399.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>21508780</id>
+</work>
+<isbn>1908983019</isbn>
+<isbn13>9781908983015</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>130</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>22995</id>
+<name>Robin D. Laws</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22995.Robin_D_Laws]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1886928</id>
+<title>The Mask of Cthulhu</title>
+<title_without_series>The Mask of Cthulhu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1886928.The_Mask_of_Cthulhu]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>175</num_pages>
+<work>
+<id>1203150</id>
+</work>
+<isbn>0586041397</isbn>
+<isbn13>9780586041390</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>819</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20598</id>
+<name>August Derleth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20598.August_Derleth]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

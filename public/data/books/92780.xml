@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>92780</id>
+  <title>Cold Comfort Farm</title>
+  <isbn><![CDATA[0143039598]]></isbn>
+  <isbn13><![CDATA[9780143039594]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00ODEFPRM]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1416161594m/92780.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1416161594s/92780.jpg</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>28</publication_day>
+  <publisher>Penguin Classics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Winner of the 1933 Femina Vie Heureuse Prize, COLD COMFORT FARM is a wickedly funny portrait of British rural life in the 1930s. Flora Poste, a recently orphaned socialite, moves in with her country relatives, the gloomy Starkadders of Cold Comfort Farm, and becomes enmeshed in a web of violent emotions, despair, and scheming, until Flora manages to set things right.]]></description>
+  <work>
+  <id type="integer">847348</id>
+  <books_count type="integer">60</books_count>
+  <best_book_id type="integer">92780</best_book_id>
+  <reviews_count type="integer">62670</reviews_count>
+  <ratings_sum type="integer">130311</ratings_sum>
+  <ratings_count type="integer">33267</ratings_count>
+  <text_reviews_count type="integer">2520</text_reviews_count>
+  <original_publication_year type="integer">1932</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">8</original_publication_day>
+  <original_title>Cold Comfort Farm</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10883|4:12202|3:7465|2:1976|1:741|total:33267</rating_dist>
+  <desc_user_id type="integer">4426615</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.92</average_rating>
+  <num_pages><![CDATA[233]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Deluxe edition]]></edition_information>
+  <ratings_count><![CDATA[28280]]></ratings_count>
+  <text_reviews_count><![CDATA[1859]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/92780.Cold_Comfort_Farm]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/92780.Cold_Comfort_Farm]]></link>
+  <authors>
+<author>
+<id>53259</id>
+<name>Stella Gibbons</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1308615712p5/53259.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1308615712p2/53259.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/53259.Stella_Gibbons]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>37180</ratings_count>
+<text_reviews_count>3122</text_reviews_count>
+</author>
+<author>
+<id>5571</id>
+<name>Lynne Truss</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424915883p5/5571.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424915883p2/5571.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5571.Lynne_Truss]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>123577</ratings_count>
+<text_reviews_count>7968</text_reviews_count>
+</author>
+<author>
+<id>56952</id>
+<name>Roz Chast</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1413377985p5/56952.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1413377985p2/56952.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/56952.Roz_Chast]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>54413</ratings_count>
+<text_reviews_count>5915</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/92780.Cold_Comfort_Farm">Cold Comfort Farm Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0143039598&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/92780.Cold_Comfort_Farm?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3263"/>
+      <shelf name="fiction" count="882"/>
+      <shelf name="classics" count="822"/>
+      <shelf name="currently-reading" count="485"/>
+      <shelf name="humor" count="399"/>
+      <shelf name="favorites" count="338"/>
+      <shelf name="humour" count="173"/>
+      <shelf name="classic" count="168"/>
+      <shelf name="book-club" count="156"/>
+      <shelf name="1001-books" count="148"/>
+      <shelf name="british" count="127"/>
+      <shelf name="england" count="95"/>
+      <shelf name="historical-fiction" count="94"/>
+      <shelf name="owned" count="94"/>
+      <shelf name="1001" count="92"/>
+      <shelf name="favourites" count="85"/>
+      <shelf name="comedy" count="84"/>
+      <shelf name="literature" count="77"/>
+      <shelf name="books-i-own" count="75"/>
+      <shelf name="funny" count="73"/>
+      <shelf name="20th-century" count="68"/>
+      <shelf name="satire" count="67"/>
+      <shelf name="novels" count="63"/>
+      <shelf name="bbc-big-read" count="63"/>
+      <shelf name="1001-books-to-read-before-you-die" count="61"/>
+      <shelf name="library" count="55"/>
+      <shelf name="to-buy" count="46"/>
+      <shelf name="kindle" count="44"/>
+      <shelf name="historical" count="43"/>
+      <shelf name="modern-classics" count="41"/>
+      <shelf name="bbc-top-100" count="41"/>
+      <shelf name="wish-list" count="41"/>
+      <shelf name="1930s" count="39"/>
+      <shelf name="british-literature" count="39"/>
+      <shelf name="bookclub" count="39"/>
+      <shelf name="general-fiction" count="39"/>
+      <shelf name="adult-fiction" count="38"/>
+      <shelf name="literary-fiction" count="37"/>
+      <shelf name="novel" count="35"/>
+      <shelf name="adult" count="35"/>
+      <shelf name="romance" count="34"/>
+      <shelf name="brit-lit" count="33"/>
+      <shelf name="bbc-100" count="32"/>
+      <shelf name="1001-books-to-read" count="32"/>
+      <shelf name="1001-books-you-must-read-before-you" count="32"/>
+      <shelf name="1001-import" count="29"/>
+      <shelf name="english" count="29"/>
+      <shelf name="book-group" count="26"/>
+      <shelf name="uk" count="26"/>
+      <shelf name="abandoned" count="25"/>
+      <shelf name="ebook" count="23"/>
+      <shelf name="women-writers" count="23"/>
+      <shelf name="read-in-2016" count="22"/>
+      <shelf name="classic-fiction" count="22"/>
+      <shelf name="classic-literature" count="22"/>
+      <shelf name="1001-to-read" count="22"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="female-author" count="21"/>
+      <shelf name="humorous" count="21"/>
+      <shelf name="default" count="20"/>
+      <shelf name="100-books-to-read-before-you-die" count="20"/>
+      <shelf name="to-read-fiction" count="20"/>
+      <shelf name="bbc-list" count="20"/>
+      <shelf name="read-in-2014" count="19"/>
+      <shelf name="bbc-100-books" count="19"/>
+      <shelf name="british-lit" count="19"/>
+      <shelf name="bbc" count="19"/>
+      <shelf name="britain" count="19"/>
+      <shelf name="audio" count="18"/>
+      <shelf name="read-in-2011" count="17"/>
+      <shelf name="classics-to-read" count="17"/>
+      <shelf name="audiobook" count="17"/>
+      <shelf name="read-2016" count="16"/>
+      <shelf name="family" count="16"/>
+      <shelf name="female-authors" count="16"/>
+      <shelf name="parody" count="16"/>
+      <shelf name="to-read-classics" count="15"/>
+      <shelf name="100-books-to-read" count="15"/>
+      <shelf name="modern-classic" count="14"/>
+      <shelf name="stella-gibbons" count="14"/>
+      <shelf name="guardian-1000" count="14"/>
+      <shelf name="the-big-read" count="14"/>
+      <shelf name="my-library" count="13"/>
+      <shelf name="read-in-2012" count="13"/>
+      <shelf name="maybe" count="13"/>
+      <shelf name="europe" count="13"/>
+      <shelf name="bbc-book-challenge" count="13"/>
+      <shelf name="bbc-book-list" count="13"/>
+      <shelf name="book-club-books" count="13"/>
+      <shelf name="chick-lit" count="13"/>
+      <shelf name="read-in-2015" count="12"/>
+      <shelf name="read-in-2013" count="12"/>
+      <shelf name="penguin-classics" count="12"/>
+      <shelf name="english-literature" count="12"/>
+      <shelf name="contemporary" count="12"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="bbc-challenge" count="12"/>
+      <shelf name="women" count="12"/>
+      <shelf name="own-it" count="12"/>
+      <shelf name="dnf" count="11"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>270140</id>
+<user_position></user_position>
+<series>
+<id>62568</id>
+<title>
+<![CDATA[
+    Cold Comfort Farm
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>372812</id>
+<title><![CDATA[Love in a Cold Climate and Other Novels]]></title>
+<title_without_series><![CDATA[Love in a Cold Climate and Other Novels]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/372812.Love_in_a_Cold_Climate_and_Other_Novels]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>1756303</id>
+</work>
+<isbn>0141181494</isbn>
+<isbn13>9780141181493</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>2441</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11624</id>
+<name>Nancy Mitford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11624.Nancy_Mitford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>916856</id>
+<title><![CDATA[Miss Pettigrew Lives for a Day]]></title>
+<title_without_series><![CDATA[Miss Pettigrew Lives for a Day]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/916856.Miss_Pettigrew_Lives_for_a_Day]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1324206344s/916856.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1324206344m/916856.jpg]]></image_url>
+<num_pages>234</num_pages>
+<work>
+<id>2283295</id>
+</work>
+<isbn>190315510X</isbn>
+<isbn13>9781903155103</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>9991</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>468569</id>
+<name>Winifred Watson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/468569.Winifred_Watson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>249823</id>
+<title>Diary of a Provincial Lady</title>
+<title_without_series>Diary of a Provincial Lady</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/249823.Diary_of_a_Provincial_Lady]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408938782s/249823.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408938782m/249823.jpg]]></image_url>
+<num_pages>201</num_pages>
+<work>
+<id>242076</id>
+</work>
+<isbn>1853753688</isbn>
+<isbn13>9781853753688</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>2981</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1809030</id>
+<name>E.M. Delafield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1809030.E_M_Delafield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>60079</id>
+<title>Queen Lucia (Lucia, #1)</title>
+<title_without_series>Queen Lucia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/60079.Queen_Lucia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>625940</id>
+</work>
+<isbn>1592245889</isbn>
+<isbn13>9781592245888</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3427</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13479797</id>
+<name>E.F. Benson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13479797.E_F_Benson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>847987</id>
+<title>England, Their England </title>
+<title_without_series>England, Their England</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/847987.England_Their_England]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>833502</id>
+</work>
+<isbn>0330280414</isbn>
+<isbn13>9780330280419</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>246</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>439506</id>
+<name>A.G. Macdonell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/439506.A_G_Macdonell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>837278</id>
+<title><![CDATA[Augustus Carp, Esq. By Himself Being the Autobiography of a Really Good Man]]></title>
+<title_without_series><![CDATA[Augustus Carp, Esq. By Himself Being the Autobiography of a Really Good Man]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/837278.Augustus_Carp_Esq_By_Himself_Being_the_Autobiography_of_a_Really_Good_Man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>822869</id>
+</work>
+<isbn>1598180355</isbn>
+<isbn13>9781598180350</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>359</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3090151</id>
+<name>Henry H. Bashford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3090151.Henry_H_Bashford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1016243</id>
+<title>South Riding</title>
+<title_without_series>South Riding</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1016243.South_Riding]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378601923s/1016243.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378601923m/1016243.jpg]]></image_url>
+<num_pages>492</num_pages>
+<work>
+<id>1002367</id>
+</work>
+<isbn>0860689697</isbn>
+<isbn13>9780860689690</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1945</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>67319</id>
+<name>Winifred Holtby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67319.Winifred_Holtby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>880198</id>
+<title>The Polyglots</title>
+<title_without_series>The Polyglots</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/880198.The_Polyglots]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328703563s/880198.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328703563m/880198.jpg]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>865492</id>
+</work>
+<isbn>1853754455</isbn>
+<isbn13>9781853754456</isbn13>
+<average_rating>3.39</average_rating>
+<ratings_count>120</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4463522</id>
+<name>William Gerhardie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4463522.William_Gerhardie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>835437</id>
+<title>High Rising</title>
+<title_without_series>High Rising</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/835437.High_Rising]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>233</num_pages>
+<work>
+<id>821051</id>
+</work>
+<isbn>1559213051</isbn>
+<isbn13>9781559213059</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>1186</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>142160</id>
+<name>Angela Thirkell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142160.Angela_Thirkell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69517</id>
+<title>The Girls of Slender Means</title>
+<title_without_series>The Girls of Slender Means</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69517.The_Girls_of_Slender_Means]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>140</num_pages>
+<work>
+<id>976843</id>
+</work>
+<isbn>081121379X</isbn>
+<isbn13>9780811213790</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>3212</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>13093</id>
+<name>Muriel Spark</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13093.Muriel_Spark]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>535856</id>
+<title>The Diary of a Nobody</title>
+<title_without_series>The Diary of a Nobody</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/535856.The_Diary_of_a_Nobody]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>2164537</id>
+</work>
+<isbn>0192833278</isbn>
+<isbn13>9780192833273</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>9740</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>30762</id>
+<name>George Grossmith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30762.George_Grossmith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>178569</id>
+<title>Jane and Prudence</title>
+<title_without_series>Jane and Prudence</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/178569.Jane_and_Prudence]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1490642084s/178569.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1490642084m/178569.jpg]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>172509</id>
+</work>
+<isbn>1559212268</isbn>
+<isbn13>9781559212267</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>2522</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>104015</id>
+<name>Barbara Pym</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104015.Barbara_Pym]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>125190</id>
+<title><![CDATA[Swallows and Amazons (Swallows and Amazons, #1)]]></title>
+<title_without_series>Swallows and Amazons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/125190.Swallows_and_Amazons]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1277148503s/125190.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1277148503m/125190.jpg]]></image_url>
+<num_pages>315</num_pages>
+<work>
+<id>231599</id>
+</work>
+<isbn>087923573X</isbn>
+<isbn13>9780879235734</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>23069</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>72120</id>
+<name>Arthur Ransome</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72120.Arthur_Ransome]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107301</id>
+<title>A Town Like Alice</title>
+<title_without_series>A Town Like Alice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107301.A_Town_Like_Alice]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327957610s/107301.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327957610m/107301.jpg]]></image_url>
+<num_pages>359</num_pages>
+<work>
+<id>276591</id>
+</work>
+<isbn>1842323008</isbn>
+<isbn13>9781842323007</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>39738</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21477</id>
+<name>Nevil Shute</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21477.Nevil_Shute]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6552640</id>
+<title>Ennui</title>
+<title_without_series>Ennui</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6552640-ennui]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>260</num_pages>
+<work>
+<id>6745181</id>
+</work>
+<isbn>1409765539</isbn>
+<isbn13>9781409765530</isbn13>
+<average_rating>3.30</average_rating>
+<ratings_count>91</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>6</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>82939</id>
+<name>Maria Edgeworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/82939.Maria_Edgeworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>921359</id>
+<title><![CDATA[The Ragged Trousered Philanthropists]]></title>
+<title_without_series><![CDATA[The Ragged Trousered Philanthropists]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/921359.The_Ragged_Trousered_Philanthropists]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>906396</id>
+</work>
+<isbn>0586090363</isbn>
+<isbn13>9780586090367</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>5645</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>338068</id>
+<name>Robert Tressell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/338068.Robert_Tressell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>749399</id>
+<title>No Bed for Bacon</title>
+<title_without_series>No Bed for Bacon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/749399.No_Bed_for_Bacon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>735539</id>
+</work>
+<isbn>158579015X</isbn>
+<isbn13>9781585790159</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>143</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>50668</id>
+<name>Caryl Brahms</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50668.Caryl_Brahms]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

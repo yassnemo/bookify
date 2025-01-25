@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>759611</id>
+  <title><![CDATA[Brown Bear, Brown Bear, What Do You See?]]></title>
+  <isbn><![CDATA[0805047905]]></isbn>
+  <isbn13><![CDATA[9780805047905]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B06Y5WX1BK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Henry Holt and Co.</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Brown Bear, Brown Bear, What Do You See? is a children's picture book published in 1967. Written and illustrated by Bill Martin, Jr. and Eric Carle, the book is designed to help toddlers associate colors and meanings to objects.<br /><br />The book itself has little to no plot. Instead, the narrator asks various animals what they see with the response usually being another animal, the respondent is then asked what they themselves see, and the process is repeated. It features a Brown Bear, Red Bird, Yellow Duck, Blue Horse, Green Frog, Purple Cat, White Dog, Black Sheep, a Goldfish, a Teacher or a Mother, and Students or Children. The 1984 British edition of the book substitutes a monkey for the teacher. Carle explained that variations in text between editions (mostly on the last page) were due to Martin, and that he made new illustrations to go with the changes.]]></description>
+  <work>
+  <id type="integer">810506</id>
+  <books_count type="integer">77</books_count>
+  <best_book_id type="integer">759611</best_book_id>
+  <reviews_count type="integer">160916</reviews_count>
+  <ratings_sum type="integer">532466</ratings_sum>
+  <ratings_count type="integer">127204</ratings_count>
+  <text_reviews_count type="integer">2732</text_reviews_count>
+  <original_publication_year type="integer">1967</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Brown Bear, Brown Bear, What Do You See?</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:65012|4:31500|3:22302|2:6110|1:2280|total:127204</rating_dist>
+  <desc_user_id type="integer">5382135</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.19</average_rating>
+  <num_pages><![CDATA[24]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[25th Anniversary Edition]]></edition_information>
+  <ratings_count><![CDATA[125708]]></ratings_count>
+  <text_reviews_count><![CDATA[2568]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/759611.Brown_Bear_Brown_Bear_What_Do_You_See_]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/759611.Brown_Bear_Brown_Bear_What_Do_You_See_]]></link>
+  <authors>
+<author>
+<id>5086768</id>
+<name>Bill Martin Jr.</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411248095p5/5086768.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411248095p2/5086768.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5086768.Bill_Martin_Jr_]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>337985</ratings_count>
+<text_reviews_count>8478</text_reviews_count>
+</author>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224294488p5/3362.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224294488p2/3362.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>700088</ratings_count>
+<text_reviews_count>17210</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/759611.Brown_Bear_Brown_Bear_What_Do_You_See_">Brown Bear, Brown Bear, What Do You See? Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0805047905&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/759611.Brown_Bear_Brown_Bear_What_Do_You_See_?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="25603"/>
+      <shelf name="picture-books" count="1265"/>
+      <shelf name="childrens" count="1011"/>
+      <shelf name="children-s-books" count="918"/>
+      <shelf name="children" count="696"/>
+      <shelf name="children-s" count="605"/>
+      <shelf name="currently-reading" count="462"/>
+      <shelf name="childrens-books" count="426"/>
+      <shelf name="kids" count="414"/>
+      <shelf name="animals" count="385"/>
+      <shelf name="kids-books" count="328"/>
+      <shelf name="picture-book" count="324"/>
+      <shelf name="colors" count="259"/>
+      <shelf name="fiction" count="192"/>
+      <shelf name="childhood" count="189"/>
+      <shelf name="favorites" count="123"/>
+      <shelf name="classics" count="122"/>
+      <shelf name="board-books" count="113"/>
+      <shelf name="storytime" count="110"/>
+      <shelf name="children-s-literature" count="103"/>
+      <shelf name="children-s-lit" count="102"/>
+      <shelf name="children-books" count="101"/>
+      <shelf name="owned" count="85"/>
+      <shelf name="rhyming" count="83"/>
+      <shelf name="childhood-favorites" count="74"/>
+      <shelf name="kid-books" count="73"/>
+      <shelf name="preschool" count="69"/>
+      <shelf name="bears" count="68"/>
+      <shelf name="eric-carle" count="66"/>
+      <shelf name="childhood-books" count="65"/>
+      <shelf name="children-s-picture-books" count="61"/>
+      <shelf name="books-i-own" count="59"/>
+      <shelf name="poetry" count="58"/>
+      <shelf name="repetition" count="56"/>
+      <shelf name="default" count="51"/>
+      <shelf name="baby-books" count="51"/>
+      <shelf name="classic" count="51"/>
+      <shelf name="picture" count="49"/>
+      <shelf name="toddler" count="48"/>
+      <shelf name="childrens-lit" count="47"/>
+      <shelf name="picturebooks" count="46"/>
+      <shelf name="read-aloud" count="43"/>
+      <shelf name="board-book" count="42"/>
+      <shelf name="kindergarten" count="42"/>
+      <shelf name="childrens-picture-books" count="42"/>
+      <shelf name="baby" count="42"/>
+      <shelf name="early-childhood" count="41"/>
+      <shelf name="read-alouds" count="35"/>
+      <shelf name="pre-2000" count="34"/>
+      <shelf name="children-s-book" count="33"/>
+      <shelf name="story-time" count="33"/>
+      <shelf name="juvenile" count="33"/>
+      <shelf name="elementary" count="32"/>
+      <shelf name="kid-s-books" count="31"/>
+      <shelf name="sequencing" count="30"/>
+      <shelf name="favorite-children-s-books" count="30"/>
+      <shelf name="childrens-literature" count="29"/>
+      <shelf name="animal" count="28"/>
+      <shelf name="color" count="28"/>
+      <shelf name="childhood-reads" count="27"/>
+      <shelf name="kid-lit" count="26"/>
+      <shelf name="beginning-readers" count="25"/>
+      <shelf name="beginning-books" count="24"/>
+      <shelf name="for-the-kids" count="24"/>
+      <shelf name="ece-3601" count="23"/>
+      <shelf name="owned-books" count="23"/>
+      <shelf name="own-it" count="23"/>
+      <shelf name="favorite-picture-books" count="23"/>
+      <shelf name="for-kids" count="22"/>
+      <shelf name="toddler-storytime" count="20"/>
+      <shelf name="toddlers" count="20"/>
+      <shelf name="childrensbooks" count="20"/>
+      <shelf name="childrens-book" count="20"/>
+      <shelf name="school" count="19"/>
+      <shelf name="childhood-memories" count="19"/>
+      <shelf name="rhyme" count="19"/>
+      <shelf name="bill-martin-jr" count="19"/>
+      <shelf name="storytime-books" count="19"/>
+      <shelf name="library" count="19"/>
+      <shelf name="youth" count="19"/>
+      <shelf name="kiddos" count="19"/>
+      <shelf name="edrd-314" count="18"/>
+      <shelf name="classroom" count="18"/>
+      <shelf name="predictable" count="18"/>
+      <shelf name="books-from-my-childhood" count="18"/>
+      <shelf name="my-childhood" count="18"/>
+      <shelf name="storybook-showcase" count="17"/>
+      <shelf name="toddler-books" count="17"/>
+      <shelf name="picturebook" count="17"/>
+      <shelf name="children-s-books-read" count="17"/>
+      <shelf name="repetitive" count="16"/>
+      <shelf name="fantasy" count="16"/>
+      <shelf name="read-kids" count="16"/>
+      <shelf name="children-young-adult" count="16"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="young-children" count="16"/>
+      <shelf name="books-we-own" count="15"/>
+      <shelf name="childrens-picture" count="15"/>
+      <shelf name="read-to-me" count="15"/>
+      <shelf name="child" count="15"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>884823</id>
+<user_position>1</user_position>
+<series>
+<id>174396</id>
+<title>
+<![CDATA[
+    Bill Martin's Bears
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>556511</id>
+<title>The Very Busy Spider</title>
+<title_without_series>The Very Busy Spider</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/556511.The_Very_Busy_Spider]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>997631</id>
+</work>
+<isbn>0399229191</isbn>
+<isbn13>9780399229190</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>32014</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>201126</id>
+<title>We&apos;re Going on a Bear Hunt</title>
+<title_without_series>We&apos;re Going on a Bear Hunt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/201126.We_re_Going_on_a_Bear_Hunt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1974395</id>
+</work>
+<isbn>0689853491</isbn>
+<isbn13>9780689853494</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>34269</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2059918</id>
+<name>Michael Rosen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2059918.Michael_Rosen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>428080</id>
+<title>Pajama Time!</title>
+<title_without_series>Pajama Time!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/428080.Pajama_Time_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404581848s/428080.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404581848m/428080.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>768319</id>
+</work>
+<isbn>0761119752</isbn>
+<isbn13>9780761119753</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>9114</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>773276</id>
+<title>Good Night, Gorilla</title>
+<title_without_series>Good Night, Gorilla</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/773276.Good_Night_Gorilla]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2992071</id>
+</work>
+<isbn>0399230033</isbn>
+<isbn13>9780399230035</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>38716</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>2</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>26181</id>
+<name>Peggy Rathmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26181.Peggy_Rathmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>170502</id>
+<title><![CDATA[Lemons Are Not Red (Ala Notable Book(Awards)) (Neal Porter Books)]]></title>
+<title_without_series><![CDATA[Lemons Are Not Red (Ala Notable Book(Awards))]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/170502.Lemons_Are_Not_Red_Ala_Notable_Book_Awards_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316729274s/170502.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316729274m/170502.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2293027</id>
+</work>
+<isbn>1596431954</isbn>
+<isbn13>9781596431959</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1531</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>99360</id>
+<name>Laura Vaccaro Seeger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99360.Laura_Vaccaro_Seeger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>835495</id>
+<title>Time for Bed</title>
+<title_without_series>Time for Bed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/835495.Time_for_Bed]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>400452</id>
+</work>
+<isbn>0152010661</isbn>
+<isbn13>9780152010669</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>13793</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2131</id>
+<name>Mem Fox</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2131.Mem_Fox]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>734542</id>
+<title>Freight Train</title>
+<title_without_series>Freight Train</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/734542.Freight_Train]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2324679</id>
+</work>
+<isbn>0688149006</isbn>
+<isbn13>9780688149000</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>13726</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>36070</id>
+<name>Donald Crews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36070.Donald_Crews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114308</id>
+<title>Swimmy</title>
+<title_without_series>Swimmy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114308.Swimmy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2857646</id>
+</work>
+<isbn>0394826205</isbn>
+<isbn13>9780394826202</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>19475</ratings_count>
+<publication_year>1973</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>32804</id>
+<name>Leo Lionni</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32804.Leo_Lionni]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>770040</id>
+<title>Llama Llama Mad at Mama</title>
+<title_without_series>Llama Llama Mad at Mama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/770040.Llama_Llama_Mad_at_Mama]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>756099</id>
+</work>
+<isbn>0670062405</isbn>
+<isbn13>9780670062409</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>14301</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>227717</id>
+<name>Anna Dewdney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227717.Anna_Dewdney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>317813</id>
+<title>A Good Day</title>
+<title_without_series>A Good Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/317813.A_Good_Day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>308607</id>
+</work>
+<isbn>006114018X</isbn>
+<isbn13>9780061140181</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1765</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

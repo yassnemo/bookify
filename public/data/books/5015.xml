@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>5015</id>
+  <title>Saturday</title>
+  <isbn><![CDATA[1400076196]]></isbn>
+  <isbn13><![CDATA[9781400076192]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00354YA68]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>11</publication_day>
+  <publisher>Anchor</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Saturday, February 15, 2003. Henry Perowne is a contented man, a successful neurosurgeon, the devoted husband of Rosalind and the proud father of two grown-up children, one a promising poet, the other a talented blues musician. Unusually, he wakes before dawn, drawn to the window of his bedroom and filled with a growing unease. What troubles him as he looks out at the night sky is the state of the world, the impending war against Iraq, a gathering pessimism since 9/11 and a fear that his city, its openness and diversity, and his happy family life are under threat.<br /><br />Later, Perowne makes his way to his weekly squash game through London streets filled with hundreds of thousands of anti-war protestors. A minor car accident brings him into a confrontation with Baxter, a fidgety, aggressive young man, on the edge of violence. To Perowne's professional eye, there appears to be something profoundly wrong with him.<br /><br />Towards the end of a day rich in incident, a Saturday filled with thoughts of war and poetry, of music, mortality and love, Baxter appears at the Perowne home during a family reunion, with extraordinary consequences.]]></description>
+  <work>
+  <id type="integer">2307189</id>
+  <books_count type="integer">83</books_count>
+  <best_book_id type="integer">5015</best_book_id>
+  <reviews_count type="integer">75369</reviews_count>
+  <ratings_sum type="integer">178677</ratings_sum>
+  <ratings_count type="integer">49438</ratings_count>
+  <text_reviews_count type="integer">3460</text_reviews_count>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Saturday</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9795|4:18992|3:14213|2:4657|1:1781|total:49438</rating_dist>
+  <desc_user_id type="integer">23907076</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.61</average_rating>
+  <num_pages><![CDATA[289]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[45589]]></ratings_count>
+  <text_reviews_count><![CDATA[3056]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/5015.Saturday]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/5015.Saturday]]></link>
+  <authors>
+<author>
+<id>2408</id>
+<name>Ian McEwan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404240951p5/2408.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404240951p2/2408.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2408.Ian_McEwan]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>734616</ratings_count>
+<text_reviews_count>49277</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/5015.Saturday">Saturday Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1400076196&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/5015.Saturday?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4826"/>
+      <shelf name="fiction" count="228"/>
+      <shelf name="1001-books" count="224"/>
+      <shelf name="contemporary" count="164"/>
+      <shelf name="contemporary-fiction" count="125"/>
+      <shelf name="currently-reading" count="123"/>
+      <shelf name="1001" count="123"/>
+      <shelf name="british" count="120"/>
+      <shelf name="book-club" count="113"/>
+      <shelf name="literature" count="112"/>
+      <shelf name="1001-books-to-read-before-you-die" count="102"/>
+      <shelf name="literary-fiction" count="85"/>
+      <shelf name="english" count="70"/>
+      <shelf name="novel" count="64"/>
+      <shelf name="owned" count="59"/>
+      <shelf name="ian-mcewan" count="55"/>
+      <shelf name="library" count="52"/>
+      <shelf name="adult-fiction" count="51"/>
+      <shelf name="1001-books-to-read" count="48"/>
+      <shelf name="abandoned" count="47"/>
+      <shelf name="general-fiction" count="46"/>
+      <shelf name="british-literature" count="45"/>
+      <shelf name="favorites" count="42"/>
+      <shelf name="bookclub" count="41"/>
+      <shelf name="book-group" count="39"/>
+      <shelf name="21st-century" count="36"/>
+      <shelf name="favourites" count="35"/>
+      <shelf name="literary" count="33"/>
+      <shelf name="to-buy" count="30"/>
+      <shelf name="adult" count="30"/>
+      <shelf name="books-i-own" count="28"/>
+      <shelf name="1001-books-you-must-read-before-you" count="27"/>
+      <shelf name="1001-import" count="27"/>
+      <shelf name="audiobooks" count="27"/>
+      <shelf name="my-books" count="27"/>
+      <shelf name="modern-fiction" count="27"/>
+      <shelf name="ebook" count="26"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="2005" count="26"/>
+      <shelf name="kindle" count="23"/>
+      <shelf name="2000s" count="23"/>
+      <shelf name="1001-to-read" count="23"/>
+      <shelf name="brit-lit" count="22"/>
+      <shelf name="audio" count="22"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="drama" count="21"/>
+      <shelf name="english-literature" count="21"/>
+      <shelf name="9-11" count="21"/>
+      <shelf name="wish-list" count="21"/>
+      <shelf name="mcewan" count="21"/>
+      <shelf name="unread" count="18"/>
+      <shelf name="own-it" count="18"/>
+      <shelf name="read-in-2009" count="18"/>
+      <shelf name="london" count="17"/>
+      <shelf name="novels" count="17"/>
+      <shelf name="england" count="17"/>
+      <shelf name="suspense" count="17"/>
+      <shelf name="finished" count="17"/>
+      <shelf name="fiction-literature" count="17"/>
+      <shelf name="medicine" count="16"/>
+      <shelf name="roman" count="16"/>
+      <shelf name="did-not-finish" count="16"/>
+      <shelf name="borrowed" count="16"/>
+      <shelf name="british-fiction" count="16"/>
+      <shelf name="british-lit" count="16"/>
+      <shelf name="default" count="15"/>
+      <shelf name="books" count="15"/>
+      <shelf name="unfinished" count="15"/>
+      <shelf name="read-in-2015" count="14"/>
+      <shelf name="uni" count="14"/>
+      <shelf name="home-library" count="14"/>
+      <shelf name="ebooks" count="14"/>
+      <shelf name="contemporary-lit" count="14"/>
+      <shelf name="lit" count="14"/>
+      <shelf name="audio-books" count="14"/>
+      <shelf name="i-own" count="14"/>
+      <shelf name="classics" count="13"/>
+      <shelf name="school" count="13"/>
+      <shelf name="read-fiction" count="13"/>
+      <shelf name="modern" count="13"/>
+      <shelf name="war" count="12"/>
+      <shelf name="1001-list" count="12"/>
+      <shelf name="contemporary-literature" count="12"/>
+      <shelf name="1001-read" count="12"/>
+      <shelf name="didn-t-finish" count="12"/>
+      <shelf name="read-in-2012" count="11"/>
+      <shelf name="library-books" count="11"/>
+      <shelf name="britain" count="11"/>
+      <shelf name="europe" count="11"/>
+      <shelf name="own-to-read" count="11"/>
+      <shelf name="to-read-owned" count="11"/>
+      <shelf name="1001-books-you-must-read" count="11"/>
+      <shelf name="shelfari-favorites" count="10"/>
+      <shelf name="uk" count="10"/>
+      <shelf name="to-read-fiction" count="10"/>
+      <shelf name="thriller" count="10"/>
+      <shelf name="politics" count="10"/>
+      <shelf name="home" count="10"/>
+      <shelf name="book-club-reads" count="10"/>
+      <shelf name="e-book" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>3433301</id>
+<title>Adjunct: An Undigest</title>
+<title_without_series>Adjunct: An Undigest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3433301-adjunct]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>87</num_pages>
+<work>
+<id>3474305</id>
+</work>
+<isbn>1859332226</isbn>
+<isbn13>9781859332221</isbn13>
+<average_rating>3.10</average_rating>
+<ratings_count>131</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>267419</id>
+<name>Peter Manson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/267419.Peter_Manson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>118192</id>
+<title>Dining on Stones</title>
+<title_without_series>Dining on Stones</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118192.Dining_on_Stones]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331950396s/118192.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331950396m/118192.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1675547</id>
+</work>
+<isbn>0141014822</isbn>
+<isbn13>9780141014821</isbn13>
+<average_rating>3.21</average_rating>
+<ratings_count>154</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>6851</id>
+<name>Iain Sinclair</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6851.Iain_Sinclair]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>177983</id>
+<title>The Red Queen</title>
+<title_without_series>The Red Queen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/177983.The_Red_Queen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320398213s/177983.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320398213m/177983.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>2572992</id>
+</work>
+<isbn>0771029071</isbn>
+<isbn13>9780771029073</isbn13>
+<average_rating>3.18</average_rating>
+<ratings_count>1992</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>60750</id>
+<name>Margaret Drabble</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60750.Margaret_Drabble]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>277534</id>
+<title>The Light of Day</title>
+<title_without_series>The Light of Day</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/277534.The_Light_of_Day]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>1236225</id>
+</work>
+<isbn>1400032210</isbn>
+<isbn13>9781400032211</isbn13>
+<average_rating>3.36</average_rating>
+<ratings_count>1944</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3449</id>
+<name>Graham Swift</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3449.Graham_Swift]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>67719</id>
+<title>The Lambs of London</title>
+<title_without_series>The Lambs of London</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67719.The_Lambs_of_London]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>2307959</id>
+</work>
+<isbn>0385514611</isbn>
+<isbn13>9780385514613</isbn13>
+<average_rating>3.16</average_rating>
+<ratings_count>1499</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16881</id>
+<name>Peter Ackroyd</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16881.Peter_Ackroyd]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>683006</id>
+<title>In the Forest</title>
+<title_without_series>In the Forest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/683006.In_the_Forest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>217</num_pages>
+<work>
+<id>3081606</id>
+</work>
+<isbn>0297607324</isbn>
+<isbn13>9780297607328</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>1071</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7184</id>
+<name>Edna O&apos;Brien</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7184.Edna_O_Brien]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75400</id>
+<title>Slow Man</title>
+<title_without_series>Slow Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75400.Slow_Man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>265</num_pages>
+<work>
+<id>911609</id>
+</work>
+<isbn>0099490625</isbn>
+<isbn13>9780099490623</isbn13>
+<average_rating>3.42</average_rating>
+<ratings_count>6532</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4128</id>
+<name>J.M. Coetzee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4128.J_M_Coetzee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>925775</id>
+<title>Thursbitch</title>
+<title_without_series>Thursbitch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/925775.Thursbitch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320484654s/925775.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320484654m/925775.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>910780</id>
+</work>
+<isbn>1843430878</isbn>
+<isbn13>9781843430872</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>542</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>47991</id>
+<name>Alan Garner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47991.Alan_Garner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>79930</id>
+<title><![CDATA[That They May Face The Rising Sun]]></title>
+<title_without_series><![CDATA[That They May Face The Rising Sun]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/79930.That_They_May_Face_The_Rising_Sun]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408925153s/79930.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408925153m/79930.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1252866</id>
+</work>
+<isbn>0571212212</isbn>
+<isbn13>9780571212217</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1489</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>45497</id>
+<name>John McGahern</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45497.John_McGahern]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3664</id>
+<title>Shroud</title>
+<title_without_series>Shroud</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3664.Shroud]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>2675497</id>
+</work>
+<isbn>037572530X</isbn>
+<isbn13>9780375725302</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>1017</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>91</id>
+<name>John Banville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/91.John_Banville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1001309</id>
+<title>Islands</title>
+<title_without_series>Islands</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1001309.Islands]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876739s/1001309.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876739m/1001309.jpg]]></image_url>
+<num_pages>768</num_pages>
+<work>
+<id>986800</id>
+</work>
+<isbn>015101115X</isbn>
+<isbn13>9780151011155</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>300</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>284082</id>
+<name>Dan Sleigh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/284082.Dan_Sleigh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1136604</id>
+<title>Schooling</title>
+<title_without_series>Schooling</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1136604.Schooling]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330515270s/1136604.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330515270m/1136604.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>2982155</id>
+</work>
+<isbn>0385501382</isbn>
+<isbn13>9780385501385</isbn13>
+<average_rating>3.15</average_rating>
+<ratings_count>285</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>178669</id>
+<name>Heather McGowan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178669.Heather_McGowan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>124893</id>
+<title>Small Remedies</title>
+<title_without_series>Small Remedies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/124893.Small_Remedies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>324</num_pages>
+<work>
+<id>120278</id>
+</work>
+<isbn>0670892513</isbn>
+<isbn13>9780670892518</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>205</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>71952</id>
+<name>Shashi Deshpande</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71952.Shashi_Deshpande]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114550</id>
+<title>Vanishing Point</title>
+<title_without_series>Vanishing Point</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114550.Vanishing_Point]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327937400s/114550.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327937400m/114550.jpg]]></image_url>
+<num_pages>191</num_pages>
+<work>
+<id>110297</id>
+</work>
+<isbn>1593760108</isbn>
+<isbn13>9781593760106</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1070</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10747</id>
+<name>David Markson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10747.David_Markson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1022376</id>
+<title>The Colour</title>
+<title_without_series>The Colour</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1022376.The_Colour]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388883064s/1022376.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388883064m/1022376.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>1008507</id>
+</work>
+<isbn>0099425157</isbn>
+<isbn13>9780099425151</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>4077</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4183</id>
+<name>Rose Tremain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4183.Rose_Tremain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23050</id>
+<title>Gabriel&apos;s Gift</title>
+<title_without_series>Gabriel&apos;s Gift</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23050.Gabriel_s_Gift]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2217626</id>
+</work>
+<isbn>0743217136</isbn>
+<isbn13>9780743217132</isbn13>
+<average_rating>3.28</average_rating>
+<ratings_count>1151</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13081</id>
+<name>Hanif Kureishi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13081.Hanif_Kureishi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>659059</id>
+<title><![CDATA[Nineteen Seventy Seven (Red Riding, #2)]]></title>
+<title_without_series>Nineteen Seventy Seven</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/659059.Nineteen_Seventy_Seven]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>341</num_pages>
+<work>
+<id>906405</id>
+</work>
+<isbn>1852427442</isbn>
+<isbn13>9781852427443</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>2416</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>161893</id>
+<name>David Peace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/161893.David_Peace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>223669</id>
+<title>Spring Flowers, Spring Frost</title>
+<title_without_series>Spring Flowers, Spring Frost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/223669.Spring_Flowers_Spring_Frost]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369859385s/223669.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369859385m/223669.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2270068</id>
+</work>
+<isbn></isbn>
+<isbn13>9780099449836</isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>650</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>10838</id>
+<name>Ismail Kadare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10838.Ismail_Kadare]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

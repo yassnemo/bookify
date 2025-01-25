@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>225774</id>
+  <title>National Velvet</title>
+  <isbn><![CDATA[1405209496]]></isbn>
+  <isbn13><![CDATA[9781405209496]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Not Avail</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A butcher's daughter in a small Sussex town ends her nightly prayers with "Oh, God, give me horses, give me horses! Let me be the best rider in England!" The answer to 14-year-old Velvet Brown's plea materializes in the form of an unwanted piebald, raffled off in a village lottery, who turns out to be adept at jumping fences--exactly the sort of horse that could win the world's most famous steeplechase, the Grand National.<br />Richly atmospheric of rural life in England between the World Wars, <i>National Velvet</i> has enchanted generations of readers since its 1935 debut. The heroine's grit and determination, backed by the support of her eccentric and loving family, offer an inspiring example of the struggles and rewards of following a dream.<br /><br /><br />"The book is one that horse lovers of every age cannot fail to enjoy."--"The New York Times"<br /><br />"Humorous, charming, <i>National Velvet</i> is a little masterpiece."--"Time"<br /><br />"Put on your not-to-be-missed list."--"The New Yorker"]]></description>
+  <work>
+  <id type="integer">218676</id>
+  <books_count type="integer">54</books_count>
+  <best_book_id type="integer">225774</best_book_id>
+  <reviews_count type="integer">28763</reviews_count>
+  <ratings_sum type="integer">94834</ratings_sum>
+  <ratings_count type="integer">23164</ratings_count>
+  <text_reviews_count type="integer">195</text_reviews_count>
+  <original_publication_year type="integer">1935</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>National Velvet</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9854|4:7230|3:4811|2:942|1:327|total:23164</rating_dist>
+  <desc_user_id type="integer">2764643</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.09</average_rating>
+  <num_pages><![CDATA[245]]></num_pages>
+  <format><![CDATA[Unknown Binding]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[22689]]></ratings_count>
+  <text_reviews_count><![CDATA[133]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/225774.National_Velvet]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/225774.National_Velvet]]></link>
+  <authors>
+<author>
+<id>132132</id>
+<name>Enid Bagnold</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1258467627p5/132132.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1258467627p2/132132.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/132132.Enid_Bagnold]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>23490</ratings_count>
+<text_reviews_count>262</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/225774.National_Velvet">National Velvet Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1405209496&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/225774.National_Velvet?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4780"/>
+      <shelf name="classics" count="170"/>
+      <shelf name="fiction" count="125"/>
+      <shelf name="horses" count="122"/>
+      <shelf name="young-adult" count="101"/>
+      <shelf name="animals" count="81"/>
+      <shelf name="childrens" count="68"/>
+      <shelf name="currently-reading" count="48"/>
+      <shelf name="classic" count="45"/>
+      <shelf name="children" count="42"/>
+      <shelf name="horse-books" count="41"/>
+      <shelf name="books-i-own" count="41"/>
+      <shelf name="children-s" count="39"/>
+      <shelf name="children-s-books" count="39"/>
+      <shelf name="favorites" count="38"/>
+      <shelf name="owned" count="34"/>
+      <shelf name="childhood" count="33"/>
+      <shelf name="childhood-favorites" count="21"/>
+      <shelf name="ya" count="18"/>
+      <shelf name="historical-fiction" count="17"/>
+      <shelf name="horse" count="17"/>
+      <shelf name="childrens-books" count="16"/>
+      <shelf name="juvenile" count="16"/>
+      <shelf name="kids" count="15"/>
+      <shelf name="animal-stories" count="14"/>
+      <shelf name="kids-books" count="14"/>
+      <shelf name="children-s-literature" count="13"/>
+      <shelf name="childhood-books" count="13"/>
+      <shelf name="default" count="12"/>
+      <shelf name="historical" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="literature" count="10"/>
+      <shelf name="juvenile-fiction" count="10"/>
+      <shelf name="youth" count="10"/>
+      <shelf name="british" count="9"/>
+      <shelf name="children-s-classics" count="9"/>
+      <shelf name="children-s-lit" count="9"/>
+      <shelf name="children-s-fiction" count="8"/>
+      <shelf name="middle-grade" count="8"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="animal" count="7"/>
+      <shelf name="animal-books" count="7"/>
+      <shelf name="1" count="6"/>
+      <shelf name="horse-stories" count="6"/>
+      <shelf name="childhood-reads" count="6"/>
+      <shelf name="children-youth" count="6"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="children-young-adult" count="5"/>
+      <shelf name="1930s" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="england" count="5"/>
+      <shelf name="read-as-a-child" count="5"/>
+      <shelf name="general-fiction" count="5"/>
+      <shelf name="movies" count="5"/>
+      <shelf name="classic-literature" count="5"/>
+      <shelf name="british-literature" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="horse-fiction" count="4"/>
+      <shelf name="to-read-classics" count="4"/>
+      <shelf name="childrens-classics" count="4"/>
+      <shelf name="childrens-lit" count="4"/>
+      <shelf name="childhood-favorite" count="4"/>
+      <shelf name="when-i-was-a-kid" count="4"/>
+      <shelf name="equine" count="4"/>
+      <shelf name="childrens-literature" count="4"/>
+      <shelf name="from-my-childhood" count="4"/>
+      <shelf name="read-as-a-kid" count="4"/>
+      <shelf name="coming-of-age" count="4"/>
+      <shelf name="books-owned" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="read-alouds" count="3"/>
+      <shelf name="middle-grades" count="3"/>
+      <shelf name="animal-fiction" count="3"/>
+      <shelf name="britain" count="3"/>
+      <shelf name="horse-books-to-read" count="3"/>
+      <shelf name="mensa-7-8" count="3"/>
+      <shelf name="europe" count="3"/>
+      <shelf name="favorite-books" count="3"/>
+      <shelf name="book-to-movie" count="3"/>
+      <shelf name="childhood-memories" count="3"/>
+      <shelf name="ponies" count="3"/>
+      <shelf name="teen" count="3"/>
+      <shelf name="childrens-fiction" count="3"/>
+      <shelf name="books-i-read-as-a-kid" count="3"/>
+      <shelf name="books-i-read-as-a-child" count="3"/>
+      <shelf name="horse-racing" count="3"/>
+      <shelf name="teens" count="3"/>
+      <shelf name="when-i-was-young" count="3"/>
+      <shelf name="20th-century" count="3"/>
+      <shelf name="children-ya" count="3"/>
+      <shelf name="books-i-loved-as-a-kid" count="3"/>
+      <shelf name="childhood-faves" count="3"/>
+      <shelf name="novels" count="3"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="to-read-fiction" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="20th-century-fiction" count="2"/>
+      <shelf name="have" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>164542</id>
+<title>My Friend Flicka (Flicka, #1)</title>
+<title_without_series>My Friend Flicka</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164542.My_Friend_Flicka]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3022662</id>
+</work>
+<isbn>0060512628</isbn>
+<isbn13>9780060512620</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>25772</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>95600</id>
+<name>Mary O&apos;Hara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95600.Mary_O_Hara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>901311</id>
+<title>Black Gold</title>
+<title_without_series>Black Gold</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/901311.Black_Gold]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1464215206s/901311.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1464215206m/901311.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>3022627</id>
+</work>
+<isbn>0689715625</isbn>
+<isbn13>9780689715624</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>5461</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>10652</id>
+<name>Marguerite Henry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10652.Marguerite_Henry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>785597</id>
+<title>Old Bones the Wonder Horse</title>
+<title_without_series>Old Bones the Wonder Horse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/785597.Old_Bones_the_Wonder_Horse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>119</num_pages>
+<work>
+<id>771595</id>
+</work>
+<isbn>9011278925</isbn>
+<isbn13>9789011278929</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>3069</ratings_count>
+<publication_year>1956</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>289684</id>
+<name>Mildred Mastin Pace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/289684.Mildred_Mastin_Pace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>158930</id>
+<title>Man O&apos;War</title>
+<title_without_series>Man O&apos;War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/158930.Man_O_War]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311278014s/158930.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311278014m/158930.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>777763</id>
+</work>
+<isbn>0394860152</isbn>
+<isbn13>9780394860152</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>7932</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>16628</id>
+<name>Walter Farley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16628.Walter_Farley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>895886</id>
+<title>Lassie Come-Home</title>
+<title_without_series>Lassie Come-Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/895886.Lassie_Come_Home]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316130656s/895886.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316130656m/895886.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1065795</id>
+</work>
+<isbn>0805072063</isbn>
+<isbn13>9780805072068</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>19667</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9159</id>
+<name>Eric Knight</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9159.Eric_Knight]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>72707</id>
+<title>Lad: A Dog</title>
+<title_without_series>Lad: A Dog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/72707.Lad]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>70379</id>
+</work>
+<isbn>0517122863</isbn>
+<isbn13>9780517122860</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>7825</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>41141</id>
+<name>Albert Payson Terhune</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41141.Albert_Payson_Terhune]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>123170</id>
+<title>Big Red (Big Red, #1)</title>
+<title_without_series>Big Red</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/123170.Big_Red]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320551723s/123170.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320551723m/123170.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1206723</id>
+</work>
+<isbn>0553154346</isbn>
+<isbn13>9780553154344</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>16069</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>70978</id>
+<name>Jim Kjelgaard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70978.Jim_Kjelgaard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1035285</id>
+<title><![CDATA[A Horse Called Wonder (Thoroughbred, #1)]]></title>
+<title_without_series>A Horse Called Wonder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1035285.A_Horse_Called_Wonder]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>1021616</id>
+</work>
+<isbn>0061061204</isbn>
+<isbn13>9780061061202</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>6496</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>92523</id>
+<name>Joanna Campbell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92523.Joanna_Campbell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>833060</id>
+<title>Smoky the Cow Horse</title>
+<title_without_series>Smoky the Cow Horse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/833060.Smoky_the_Cow_Horse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>2914785</id>
+</work>
+<isbn>0689716826</isbn>
+<isbn13>9780689716829</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>5570</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>203311</id>
+<name>Will James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/203311.Will_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>109881</id>
+<title><![CDATA[Billy And Blaze: A Boy And His Pony]]></title>
+<title_without_series><![CDATA[Billy And Blaze: A Boy And His Pony]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109881.Billy_And_Blaze]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>105901</id>
+</work>
+<isbn>0689716087</isbn>
+<isbn13>9780689716089</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>2383</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>63597</id>
+<name>C.W. Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63597.C_W_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

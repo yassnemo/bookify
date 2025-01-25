@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23875</id>
+  <title><![CDATA[El coronel no tiene quien le escriba]]></title>
+  <isbn><![CDATA[0307350436]]></isbn>
+  <isbn13><![CDATA[9780307350435]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Plaza &amp; Janés</publisher>
+  <language_code>spa</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[El coronel no tiene quien le escriba fue escrita por Gabriel García Márquez durante su estancia en París, adonde había llegado como corresponsal de prensa y con la secreta intención de estudiar cine, a mediados de los años cincuenta. El cierre del periódico para el que trabajaba le sumió en la pobreza, mientras redactaba en tres versiones distintas esta excepcional novela, que fue rechazada por varios editores antes de su publicación. Tras el barroquismo faulkneriano de La hojarasca, esta segunda novela supone un paso hacia la ascesis, hacia la economía expresiva, y el estilo del escritor se hace más puro y transparente. Se trata también de una historia de injusticia y violencia: un viejo coronel retirado va al puerto todos los viernes a esperar la llegada de la carta oficial que responda a la justa reclamación de sus derechos por los servicios prestados a la patria. Pero la patria permanece muda...]]></description>
+  <work>
+  <id type="integer">40096204</id>
+  <books_count type="integer">177</books_count>
+  <best_book_id type="integer">23875</best_book_id>
+  <reviews_count type="integer">28542</reviews_count>
+  <ratings_sum type="integer">71512</ratings_sum>
+  <ratings_count type="integer">19278</ratings_count>
+  <text_reviews_count type="integer">919</text_reviews_count>
+  <original_publication_year type="integer">1961</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>El coronel no tiene quien le escriba</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4246|4:7395|3:5829|2:1407|1:401|total:19278</rating_dist>
+  <desc_user_id type="integer">38190302</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.71</average_rating>
+  <num_pages><![CDATA[104]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13222]]></ratings_count>
+  <text_reviews_count><![CDATA[450]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23875.El_coronel_no_tiene_quien_le_escriba]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23875.El_coronel_no_tiene_quien_le_escriba]]></link>
+  <authors>
+<author>
+<id>13450</id>
+<name>Gabriel García Márquez</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p5/13450.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p2/13450.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>1224090</ratings_count>
+<text_reviews_count>54188</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23875.El_coronel_no_tiene_quien_le_escriba">El coronel no tiene quien le escriba Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307350436&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/23875.El_coronel_no_tiene_quien_le_escriba?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1677"/>
+      <shelf name="currently-reading" count="237"/>
+      <shelf name="fiction" count="180"/>
+      <shelf name="spanish" count="94"/>
+      <shelf name="favorites" count="91"/>
+      <shelf name="classics" count="90"/>
+      <shelf name="owned" count="47"/>
+      <shelf name="latin-american-literature" count="40"/>
+      <shelf name="latin-america" count="38"/>
+      <shelf name="colombia" count="37"/>
+      <shelf name="literature" count="36"/>
+      <shelf name="español" count="35"/>
+      <shelf name="default" count="33"/>
+      <shelf name="books-i-own" count="33"/>
+      <shelf name="latin-american" count="32"/>
+      <shelf name="magical-realism" count="31"/>
+      <shelf name="novels" count="29"/>
+      <shelf name="novela" count="28"/>
+      <shelf name="short-stories" count="23"/>
+      <shelf name="novel" count="23"/>
+      <shelf name="nobel" count="22"/>
+      <shelf name="espanol" count="21"/>
+      <shelf name="literatura-latinoamericana" count="20"/>
+      <shelf name="20th-century" count="19"/>
+      <shelf name="colômbia" count="18"/>
+      <shelf name="1001-books" count="18"/>
+      <shelf name="nobel-prize" count="17"/>
+      <shelf name="classic" count="17"/>
+      <shelf name="to-buy" count="16"/>
+      <shelf name="school" count="16"/>
+      <shelf name="library" count="16"/>
+      <shelf name="روايات" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="gabriel-garcia-marquez" count="14"/>
+      <shelf name="spanish-literature" count="13"/>
+      <shelf name="narrativa" count="13"/>
+      <shelf name="my-library" count="13"/>
+      <shelf name="literatura" count="13"/>
+      <shelf name="1001" count="13"/>
+      <shelf name="read-in-spanish" count="12"/>
+      <shelf name="latin-american-lit" count="12"/>
+      <shelf name="read-in-2015" count="12"/>
+      <shelf name="south-america" count="12"/>
+      <shelf name="in-spanish" count="12"/>
+      <shelf name="gabriel-garcía-márquez" count="12"/>
+      <shelf name="en-español" count="12"/>
+      <shelf name="romance" count="11"/>
+      <shelf name="literary-fiction" count="11"/>
+      <shelf name="drama" count="11"/>
+      <shelf name="latinoamérica" count="10"/>
+      <shelf name="gabriel-garcía-marquez" count="10"/>
+      <shelf name="contemporary" count="10"/>
+      <shelf name="novelas" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="latinoamerica" count="10"/>
+      <shelf name="finished" count="10"/>
+      <shelf name="colombian" count="10"/>
+      <shelf name="clasicos" count="10"/>
+      <shelf name="biblioteca" count="10"/>
+      <shelf name="short-story" count="9"/>
+      <shelf name="read-for-school" count="9"/>
+      <shelf name="latinoamericanos" count="9"/>
+      <shelf name="latinoamericana" count="9"/>
+      <shelf name="clásicos" count="9"/>
+      <shelf name="read-in-2016" count="8"/>
+      <shelf name="novella" count="8"/>
+      <shelf name="magic-realism" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="ماركيز" count="7"/>
+      <shelf name="translated" count="7"/>
+      <shelf name="stand-alone" count="7"/>
+      <shelf name="pdf" count="7"/>
+      <shelf name="novellas" count="7"/>
+      <shelf name="marquez" count="7"/>
+      <shelf name="historical-fiction" count="7"/>
+      <shelf name="garcía-márquez" count="7"/>
+      <shelf name="foreign" count="7"/>
+      <shelf name="ebook" count="7"/>
+      <shelf name="colombian-literature" count="7"/>
+      <shelf name="books-in-spanish" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="world-literature" count="6"/>
+      <shelf name="south-american-literature" count="6"/>
+      <shelf name="south-american" count="6"/>
+      <shelf name="nobel-prize-winners" count="6"/>
+      <shelf name="nobel-prize-winner" count="6"/>
+      <shelf name="latino" count="6"/>
+      <shelf name="garcia-marquez" count="6"/>
+      <shelf name="gabriel-garcí-a-márquez" count="6"/>
+      <shelf name="ficción" count="6"/>
+      <shelf name="en-espanol" count="6"/>
+      <shelf name="castellano" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="3-stars" count="6"/>
+      <shelf name="read-in-2017" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="historical" count="5"/>
+      <shelf name="modern-classics" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>103204</id>
+<title>Two Lives and a Dream</title>
+<title_without_series>Two Lives and a Dream</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/103204.Two_Lives_and_a_Dream]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>99495</id>
+</work>
+<isbn>0226965295</isbn>
+<isbn13>9780226965291</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>254</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7732</id>
+<name>Marguerite Yourcenar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7732.Marguerite_Yourcenar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59504</id>
+<title>El siglo de las luces</title>
+<title_without_series>El siglo de las luces</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59504.El_siglo_de_las_luces]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354467957s/59504.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354467957m/59504.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>416</id>
+</work>
+<isbn>8432216976</isbn>
+<isbn13>9788432216978</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1615</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12551</id>
+<name>Alejo Carpentier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12551.Alejo_Carpentier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69878</id>
+<title>La tía Tula</title>
+<title_without_series>La tía Tula</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69878.La_t_a_Tula]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1498430971s/69878.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1498430971m/69878.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2793715</id>
+</work>
+<isbn>8481302597</isbn>
+<isbn13>9788481302592</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>1614</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>25536</id>
+<name>Miguel de Unamuno</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25536.Miguel_de_Unamuno]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2075382</id>
+<title>El Llano en llamas</title>
+<title_without_series>El Llano en llamas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2075382.El_Llano_en_llamas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1499029348s/2075382.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1499029348m/2075382.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2080630</id>
+</work>
+<isbn>9500718030</isbn>
+<isbn13>9789500718035</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>9160</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21778</id>
+<name>Juan Rulfo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21778.Juan_Rulfo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2514766</id>
+<title>Los recuerdos del porvenir</title>
+<title_without_series>Los recuerdos del porvenir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2514766.Los_recuerdos_del_porvenir]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404792418s/2514766.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404792418m/2514766.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>2522148</id>
+</work>
+<isbn>9682705673</isbn>
+<isbn13>9789682705670</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>817</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2420</id>
+<name>Elena Garro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2420.Elena_Garro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>822469</id>
+<title>Pantaleón y las visitadoras</title>
+<title_without_series>Pantaleón y las visitadoras</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/822469.Pantale_n_y_las_visitadoras]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332049736s/822469.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332049736m/822469.jpg]]></image_url>
+<num_pages>392</num_pages>
+<work>
+<id>2099767</id>
+</work>
+<isbn>8495501023</isbn>
+<isbn13>9788495501028</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>6194</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>22515</id>
+<name>Mario Vargas Llosa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22515.Mario_Vargas_Llosa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73723</id>
+<title>The President</title>
+<title_without_series>The President</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73723.The_President]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>286</num_pages>
+<work>
+<id>71336</id>
+</work>
+<isbn>0881339512</isbn>
+<isbn13>9780881339512</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2387</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>39087</id>
+<name>Miguel Ángel Asturias</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39087.Miguel_ngel_Asturias]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>430112</id>
+<title>Cinco horas con Mario</title>
+<title_without_series>Cinco horas con Mario</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/430112.Cinco_horas_con_Mario]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>419093</id>
+</work>
+<isbn>8423311309</isbn>
+<isbn13>9788423311309</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1763</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3325</id>
+<name>Miguel Delibes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3325.Miguel_Delibes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53414</id>
+<title>62: A Model Kit</title>
+<title_without_series>62: A Model Kit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53414.62]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1343888407s/53414.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1343888407m/53414.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>52090</id>
+</work>
+<isbn>0811214370</isbn>
+<isbn13>9780811214377</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>1701</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>25824</id>
+<name>Julio Cortázar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25824.Julio_Cort_zar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>86211</id>
+<title>Dos crímenes</title>
+<title_without_series>Dos crímenes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/86211.Dos_cr_menes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414947503s/86211.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414947503m/86211.jpg]]></image_url>
+<num_pages>211</num_pages>
+<work>
+<id>83197</id>
+</work>
+<isbn>9682705401</isbn>
+<isbn13>9789682705403</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1419</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>49325</id>
+<name>Jorge Ibargüengoitia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49325.Jorge_Ibarg_engoitia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>309205</id>
+<title>María</title>
+<title_without_series>María</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/309205.Mar_a]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1491090921s/309205.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1491090921m/309205.jpg]]></image_url>
+<num_pages>373</num_pages>
+<work>
+<id>300159</id>
+</work>
+<isbn>8437606101</isbn>
+<isbn13>9788437606101</isbn13>
+<average_rating>3.38</average_rating>
+<ratings_count>2768</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>178120</id>
+<name>Jorge Isaacs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178120.Jorge_Isaacs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>961341</id>
+<title>Los de abajo</title>
+<title_without_series>Los de abajo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/961341.Los_de_abajo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>750350</id>
+</work>
+<isbn>0140266216</isbn>
+<isbn13>9780140266214</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>5126</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>39083</id>
+<name>Mariano Azuela</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39083.Mariano_Azuela]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2544232</id>
+<title>Si te dicen que caí</title>
+<title_without_series>Si te dicen que caí</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2544232.Si_te_dicen_que_ca_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1266610851s/2544232.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1266610851m/2544232.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2551761</id>
+</work>
+<isbn>8401428149</isbn>
+<isbn13>9788401428142</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>314</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>39194</id>
+<name>Juan Marsé</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39194.Juan_Mars_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>71549</id>
+<title>The Family of Pascual Duarte</title>
+<title_without_series>The Family of Pascual Duarte</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/71549.The_Family_of_Pascual_Duarte]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>166</num_pages>
+<work>
+<id>1403524</id>
+</work>
+<isbn>1564783596</isbn>
+<isbn13>9781564783592</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>5359</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>34773</id>
+<name>Camilo José Cela</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34773.Camilo_Jos_Cela]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69787</id>
+<title>El astillero</title>
+<title_without_series>El astillero</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69787.El_astillero]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1386574751s/69787.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1386574751m/69787.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>67620</id>
+</work>
+<isbn>8437604338</isbn>
+<isbn13>9788437604336</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>866</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>39279</id>
+<name>Juan Carlos Onetti</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39279.Juan_Carlos_Onetti]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>257887</id>
+<title>La guaracha del Macho Camacho</title>
+<title_without_series>La guaracha del Macho Camacho</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/257887.La_guaracha_del_Macho_Camacho]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332118095s/257887.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332118095m/257887.jpg]]></image_url>
+<num_pages>313</num_pages>
+<work>
+<id>249944</id>
+</work>
+<isbn>8437618630</isbn>
+<isbn13>9788437618630</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>279</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4150138</id>
+<name>Luis Rafael Sánchez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4150138.Luis_Rafael_S_nchez]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

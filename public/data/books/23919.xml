@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>23919</id>
+  <title><![CDATA[The Complete Stories and Poems]]></title>
+  <isbn><![CDATA[0385074077]]></isbn>
+  <isbn13><![CDATA[9780385074070]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B007QPED7S]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1327942676m/23919.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327942676s/23919.jpg</small_image_url>
+  <publication_year>1984</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Doubleday &amp; Company, Inc.</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The life of American writer Edgar Allan Poe was characterized by a dramatic series of successes and failures, breakdowns and recoveries, personal gains and hopes dashed through, despite which he created some of the finest literature the world has ever known. Over time his works have influenced such major creative forces as the French poets Charles Baudelaire and Andre Gide, filmmaker D.W. Griffith and modern literary legend Allen Ginsberg. Best known for his poems and short fiction, Poe perfected the psychological thriller, invented the detective story, and rarely missed transporting the reader to his own supernatural realm. He has also been hailed posthumously as one of the finest literary critics of the nineteenth century. In Edgar Allan Poe: Complete Tales and Poems fans may indulge in all of Poe's most imaginative short-stories, including The Fall of the House of Usher, The Murders in Rue Morgue, The Tell-Tale Heart, Ligeia and Ms. In a Bottle. His complete early and miscellaneous poetic masterpieces are here also, including The Raven, Ulalume, Annabel Lee, Tamerlane, as well as select reviews and narratives.]]></description>
+  <work>
+  <id type="integer">30431</id>
+  <books_count type="integer">34</books_count>
+  <best_book_id type="integer">23919</best_book_id>
+  <reviews_count type="integer">246300</reviews_count>
+  <ratings_sum type="integer">700073</ratings_sum>
+  <ratings_count type="integer">160360</ratings_count>
+  <text_reviews_count type="integer">1055</text_reviews_count>
+  <original_publication_year type="integer">1849</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Complete Tales of Edgar Allan Poe</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:87248|4:49914|3:19028|2:2923|1:1247|total:160360</rating_dist>
+  <desc_user_id type="integer">17092697</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.37</average_rating>
+  <num_pages><![CDATA[821]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[160097]]></ratings_count>
+  <text_reviews_count><![CDATA[1045]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems]]></link>
+  <authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p5/4624490.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p2/4624490.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>1019832</ratings_count>
+<text_reviews_count>21641</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems">The Complete Stories and Poems Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385074077&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="78070"/>
+      <shelf name="currently-reading" count="2236"/>
+      <shelf name="classics" count="2032"/>
+      <shelf name="poetry" count="1645"/>
+      <shelf name="favorites" count="1221"/>
+      <shelf name="horror" count="1046"/>
+      <shelf name="fiction" count="785"/>
+      <shelf name="short-stories" count="565"/>
+      <shelf name="classic" count="335"/>
+      <shelf name="books-i-own" count="227"/>
+      <shelf name="owned" count="225"/>
+      <shelf name="mystery" count="225"/>
+      <shelf name="gothic" count="213"/>
+      <shelf name="literature" count="200"/>
+      <shelf name="fantasy" count="174"/>
+      <shelf name="rory-gilmore-reading-challenge" count="88"/>
+      <shelf name="owned-books" count="83"/>
+      <shelf name="favourites" count="80"/>
+      <shelf name="classic-literature" count="66"/>
+      <shelf name="poems" count="62"/>
+      <shelf name="american-literature" count="59"/>
+      <shelf name="to-buy" count="57"/>
+      <shelf name="american" count="54"/>
+      <shelf name="short-story" count="46"/>
+      <shelf name="rory-gilmore-challenge" count="45"/>
+      <shelf name="19th-century" count="44"/>
+      <shelf name="kindle" count="44"/>
+      <shelf name="edgar-allan-poe" count="40"/>
+      <shelf name="thriller" count="39"/>
+      <shelf name="rory-gilmore" count="34"/>
+      <shelf name="library" count="34"/>
+      <shelf name="adult" count="34"/>
+      <shelf name="all-time-favorites" count="33"/>
+      <shelf name="dark" count="33"/>
+      <shelf name="classic-fiction" count="32"/>
+      <shelf name="poe" count="32"/>
+      <shelf name="i-own" count="31"/>
+      <shelf name="rory-gilmore-reading-list" count="31"/>
+      <shelf name="my-books" count="29"/>
+      <shelf name="favorite-books" count="29"/>
+      <shelf name="school" count="29"/>
+      <shelf name="my-library" count="29"/>
+      <shelf name="american-lit" count="29"/>
+      <shelf name="classic-lit" count="28"/>
+      <shelf name="classics-to-read" count="28"/>
+      <shelf name="Ｆａｖｏｒｉｔｅｓ" count="27"/>
+      <shelf name="gilmore-girls" count="27"/>
+      <shelf name="the-classics" count="27"/>
+      <shelf name="short-story-collections" count="26"/>
+      <shelf name="anthology" count="25"/>
+      <shelf name="novels" count="25"/>
+      <shelf name="science-fiction" count="25"/>
+      <shelf name="paranormal" count="25"/>
+      <shelf name="favorite" count="24"/>
+      <shelf name="short-fiction" count="23"/>
+      <shelf name="literary" count="23"/>
+      <shelf name="halloween" count="22"/>
+      <shelf name="own-it" count="22"/>
+      <shelf name="english" count="22"/>
+      <shelf name="wish-list" count="22"/>
+      <shelf name="books" count="22"/>
+      <shelf name="adult-fiction" count="22"/>
+      <shelf name="mystery-thriller" count="22"/>
+      <shelf name="anthologies" count="21"/>
+      <shelf name="gothic-horror" count="21"/>
+      <shelf name="crime" count="20"/>
+      <shelf name="collections" count="20"/>
+      <shelf name="literary-fiction" count="19"/>
+      <shelf name="default" count="19"/>
+      <shelf name="stories" count="18"/>
+      <shelf name="collection" count="18"/>
+      <shelf name="must-read" count="18"/>
+      <shelf name="supernatural" count="18"/>
+      <shelf name="unfinished" count="17"/>
+      <shelf name="re-read" count="17"/>
+      <shelf name="partially-read" count="16"/>
+      <shelf name="suspense" count="16"/>
+      <shelf name="victorian" count="16"/>
+      <shelf name="historical-fiction" count="15"/>
+      <shelf name="general-fiction" count="15"/>
+      <shelf name="lit" count="14"/>
+      <shelf name="shelfari-favorites" count="14"/>
+      <shelf name="mysteries" count="14"/>
+      <shelf name="to-read-classics" count="14"/>
+      <shelf name="drama" count="14"/>
+      <shelf name="gilmore-girls-reading-list" count="14"/>
+      <shelf name="usa" count="14"/>
+      <shelf name="my-favorites" count="14"/>
+      <shelf name="american-classics" count="14"/>
+      <shelf name="scary" count="14"/>
+      <shelf name="spooky" count="13"/>
+      <shelf name="historical" count="13"/>
+      <shelf name="young-adult" count="13"/>
+      <shelf name="on-hold" count="13"/>
+      <shelf name="gilmore" count="13"/>
+      <shelf name="need-to-buy" count="13"/>
+      <shelf name="favorite-authors" count="13"/>
+      <shelf name="high-school" count="13"/>
+      <shelf name="personal-library" count="13"/>
+      <shelf name="horror-thriller" count="12"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>752144</id>
+<user_position>1-4</user_position>
+<series>
+<id>149275</id>
+<title>
+<![CDATA[
+    The Works of Edgar Allan Poe
+]]>
+</title>
+<description>
+<![CDATA[
+    The Ingram Edition (1874-1875)
+    Volumes I - IV
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>1</series_works_count>
+<primary_work_count>0</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>5289</id>
+<title>Complete Works of Oscar Wilde</title>
+<title_without_series>Complete Works of Oscar Wilde</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5289.Complete_Works_of_Oscar_Wilde]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1246</num_pages>
+<work>
+<id>21905772</id>
+</work>
+<isbn>0007144350</isbn>
+<isbn13>9780007144358</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>17959</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>569564</id>
+<title>The Complete Works</title>
+<title_without_series>The Complete Works</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/569564.The_Complete_Works]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327884293s/569564.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327884293m/569564.jpg]]></image_url>
+<num_pages>1248</num_pages>
+<work>
+<id>3000541</id>
+</work>
+<isbn>0517053616</isbn>
+<isbn13>9780517053614</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>46022</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8320840</id>
+<title><![CDATA[H.P. Lovecraft:  The Complete Fiction]]></title>
+<title_without_series><![CDATA[H.P. Lovecraft:  The Complete Fiction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8320840-h-p-lovecraft]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356128434s/8320840.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356128434m/8320840.jpg]]></image_url>
+<num_pages>1098</num_pages>
+<work>
+<id>12926020</id>
+</work>
+<isbn>1435122968</isbn>
+<isbn13>9781435122963</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>5421</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>9494</id>
+<name>H.P. Lovecraft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9494.H_P_Lovecraft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>95819</id>
+<title><![CDATA[The Poetry of Robert Frost (Collected Poems, Complete & Unabridged)]]></title>
+<title_without_series>The Poetry of Robert Frost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/95819.The_Poetry_of_Robert_Frost]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>607</num_pages>
+<work>
+<id>366182</id>
+</work>
+<isbn>0805005013</isbn>
+<isbn13>9780805005011</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>34347</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>7715</id>
+<name>Robert Frost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7715.Robert_Frost]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>112204</id>
+<title><![CDATA[The Complete Poems of Emily Dickinson]]></title>
+<title_without_series><![CDATA[The Complete Poems of Emily Dickinson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/112204.The_Complete_Poems_of_Emily_Dickinson]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1498347611s/112204.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1498347611m/112204.jpg]]></image_url>
+<num_pages>716</num_pages>
+<work>
+<id>1443553</id>
+</work>
+<isbn>0316184136</isbn>
+<isbn13>9780316184137</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>62165</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7440</id>
+<name>Emily Dickinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7440.Emily_Dickinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2600408</id>
+<title>Jane Austen: Seven Novels</title>
+<title_without_series>Jane Austen: Seven Novels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2600408-jane-austen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1443434293s/2600408.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1443434293m/2600408.jpg]]></image_url>
+<num_pages>1232</num_pages>
+<work>
+<id>40725685</id>
+</work>
+<isbn></isbn>
+<isbn13>9781435103191</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>2403</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1265</id>
+<name>Jane Austen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138134</id>
+<title>The Complete Poems</title>
+<title_without_series>The Complete Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138134.The_Complete_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1701632</id>
+</work>
+<isbn>0679601082</isbn>
+<isbn13>9780679601081</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>17892</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>11978</id>
+<name>John Keats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11978.John_Keats]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12307</id>
+<title>Hawthorne&apos;s Short Stories</title>
+<title_without_series>Hawthorne&apos;s Short Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12307.Hawthorne_s_Short_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>2150721</id>
+</work>
+<isbn>0394700155</isbn>
+<isbn13>9780394700151</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1117</ratings_count>
+<publication_year>1955</publication_year>
+<publication_month>5</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>7799</id>
+<name>Nathaniel Hawthorne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7799.Nathaniel_Hawthorne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>721012</id>
+<title><![CDATA[The Legend of Sleepy Hollow and Other Stories]]></title>
+<title_without_series><![CDATA[The Legend of Sleepy Hollow and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/721012.The_Legend_of_Sleepy_Hollow_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309285607s/721012.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309285607m/721012.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>18197624</id>
+</work>
+<isbn>014043769X</isbn>
+<isbn13>9780140437690</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>45528</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14268699</id>
+<name>Geoffrey Crayon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14268699.Geoffrey_Crayon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>128453</id>
+<title>Complete Works</title>
+<title_without_series>Complete Works</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/128453.Complete_Works]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>2095346</id>
+</work>
+<isbn>0060955503</isbn>
+<isbn13>9780060955502</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>7430</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>72605</id>
+<name>Arthur Rimbaud</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72605.Arthur_Rimbaud]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>492899</id>
+<title><![CDATA[Five Novels: Oliver Twist, A Christmas Carol, David Copperfield, A Tale of Two Cities, Great Expectations ]]></title>
+<title_without_series><![CDATA[Five Novels: Oliver Twist, A Christmas Carol, David Copperfield, A Tale of Two Cities, Great Expectations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/492899.Five_Novels]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1483</num_pages>
+<work>
+<id>481079</id>
+</work>
+<isbn>0760775001</isbn>
+<isbn13></isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>3275</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>70985</id>
+<title><![CDATA[Dracula's Guest and Other Weird Stories]]></title>
+<title_without_series><![CDATA[Dracula's Guest and Other Weird Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/70985.Dracula_s_Guest_and_Other_Weird_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>408</num_pages>
+<work>
+<id>46049979</id>
+</work>
+<isbn>0141441712</isbn>
+<isbn13>9780141441719</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>2470</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6988</id>
+<name>Bram Stoker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6988.Bram_Stoker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119239</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119239.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411634706s/119239.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411634706m/119239.jpg]]></image_url>
+<num_pages>864</num_pages>
+<work>
+<id>1697235</id>
+</work>
+<isbn>0140424504</isbn>
+<isbn13>9780140424508</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>11321</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>44407</id>
+<name>George Gordon Byron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44407.George_Gordon_Byron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22904</id>
+<title>The Complete Stories</title>
+<title_without_series>The Complete Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22904.The_Complete_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1223588017s/22904.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1223588017m/22904.jpg]]></image_url>
+<num_pages>486</num_pages>
+<work>
+<id>568437</id>
+</work>
+<isbn>0805210555</isbn>
+<isbn13>9780805210552</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>20548</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>5223</id>
+<name>Franz Kafka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5223.Franz_Kafka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92286</id>
+<title><![CDATA[Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born]]></title>
+<title_without_series><![CDATA[Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92286.Novels_1930_1942]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1068</num_pages>
+<work>
+<id>396603</id>
+</work>
+<isbn>1931082014</isbn>
+<isbn13>9781931082013</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>311</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>53013</id>
+<name>Dawn Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53013.Dawn_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>165251</id>
+<title><![CDATA[Song of the Simple Truth: The Complete Poems of Julia de Burgos]]></title>
+<title_without_series><![CDATA[Song of the Simple Truth: The Complete Poems of Julia de Burgos]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/165251.Song_of_the_Simple_Truth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1418364160s/165251.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1418364160m/165251.jpg]]></image_url>
+<num_pages>524</num_pages>
+<work>
+<id>159552</id>
+</work>
+<isbn>1880684241</isbn>
+<isbn13>9781880684245</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>426</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>96068</id>
+<name>Julia de Burgos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/96068.Julia_de_Burgos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>732562</id>
+<title><![CDATA[The Rime of the Ancient Mariner]]></title>
+<title_without_series><![CDATA[The Rime of the Ancient Mariner]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/732562.The_Rime_of_the_Ancient_Mariner]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1436976206s/732562.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1436976206m/732562.jpg]]></image_url>
+<num_pages>77</num_pages>
+<work>
+<id>678243</id>
+</work>
+<isbn>0486223051</isbn>
+<isbn13>9780486223056</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>39718</ratings_count>
+<publication_year>1970</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11525</id>
+<name>Samuel Taylor Coleridge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11525.Samuel_Taylor_Coleridge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>650775</id>
+<title>Collected Ghost Stories</title>
+<title_without_series>Collected Ghost Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/650775.Collected_Ghost_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2083711</id>
+</work>
+<isbn>1853268399</isbn>
+<isbn13>9781853268397</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>4793</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2995925</id>
+<name>M.R. James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2995925.M_R_James]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

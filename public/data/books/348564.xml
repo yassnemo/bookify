@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>348564</id>
+  <title><![CDATA[Flat Stanley (Flat Stanley, #1)]]></title>
+  <isbn><![CDATA[0060097914]]></isbn>
+  <isbn13><![CDATA[9780060097912]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00V8A20IQ]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[When Stanley Lambchop wakes up one morning, his brother, Arthur, is yelling. A bulletin board fell on Stanley during the night, and now he is only half an inch thick! Amazing things begin happening to him. Stanley gets rolled up, mailed, and flown like a kite. He even gets to help catch two dangerous art thieves. He may be flat, but he's a hero. This is the very first Flat Stanley adventure, updated with crisp new art.<br /><br />Supports the Common Core State Standards]]></description>
+  <work>
+  <id type="integer">1132</id>
+  <books_count type="integer">43</books_count>
+  <best_book_id type="integer">348564</best_book_id>
+  <reviews_count type="integer">16902</reviews_count>
+  <ratings_sum type="integer">46446</ratings_sum>
+  <ratings_count type="integer">12146</ratings_count>
+  <text_reviews_count type="integer">750</text_reviews_count>
+  <original_publication_year type="integer">1964</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Flat Stanley</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4176|4:3371|3:3247|2:989|1:363|total:12146</rating_dist>
+  <desc_user_id type="integer">3322023</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.82</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11084]]></ratings_count>
+  <text_reviews_count><![CDATA[616]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/348564.Flat_Stanley]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/348564.Flat_Stanley]]></link>
+  <authors>
+<author>
+<id>43329</id>
+<name>Jeff Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1283979126p5/43329.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1283979126p2/43329.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/43329.Jeff_Brown]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>25500</ratings_count>
+<text_reviews_count>1449</text_reviews_count>
+</author>
+<author>
+<id>53322</id>
+<name>Scott Nash</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1334086072p5/53322.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1334086072p2/53322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/53322.Scott_Nash]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>19931</ratings_count>
+<text_reviews_count>1676</text_reviews_count>
+</author>
+<author>
+<id>510052</id>
+<name>Macky Pamintuan</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1280173326p5/510052.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1280173326p2/510052.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/510052.Macky_Pamintuan]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>32830</ratings_count>
+<text_reviews_count>1981</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/348564.Flat_Stanley">Flat Stanley Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060097914&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/348564.Flat_Stanley?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2791"/>
+      <shelf name="childrens" count="151"/>
+      <shelf name="currently-reading" count="124"/>
+      <shelf name="fantasy" count="106"/>
+      <shelf name="children" count="106"/>
+      <shelf name="children-s-books" count="93"/>
+      <shelf name="picture-books" count="82"/>
+      <shelf name="children-s" count="80"/>
+      <shelf name="fiction" count="75"/>
+      <shelf name="kids" count="70"/>
+      <shelf name="02-fantasy" count="68"/>
+      <shelf name="february" count="53"/>
+      <shelf name="childrens-books" count="44"/>
+      <shelf name="chapter-books" count="43"/>
+      <shelf name="children-s-lit" count="42"/>
+      <shelf name="kids-books" count="38"/>
+      <shelf name="writing" count="37"/>
+      <shelf name="series" count="34"/>
+      <shelf name="children-s-literature" count="29"/>
+      <shelf name="flat-stanley" count="29"/>
+      <shelf name="childhood" count="26"/>
+      <shelf name="humor" count="22"/>
+      <shelf name="juvenile" count="22"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="family" count="20"/>
+      <shelf name="favorites" count="20"/>
+      <shelf name="childhood-books" count="19"/>
+      <shelf name="picture-book" count="19"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="default" count="18"/>
+      <shelf name="juvenile-fiction" count="18"/>
+      <shelf name="transitional-chapter" count="17"/>
+      <shelf name="chapter-book" count="17"/>
+      <shelf name="adventure" count="16"/>
+      <shelf name="read-aloud" count="16"/>
+      <shelf name="children-books" count="15"/>
+      <shelf name="classroom-library" count="14"/>
+      <shelf name="edrd-314" count="11"/>
+      <shelf name="library" count="11"/>
+      <shelf name="children-s-fiction" count="11"/>
+      <shelf name="childrens-literature" count="11"/>
+      <shelf name="home-library" count="10"/>
+      <shelf name="classic" count="10"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="classics" count="10"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="23-writing" count="9"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="school" count="9"/>
+      <shelf name="child-lit" count="9"/>
+      <shelf name="read-alouds" count="8"/>
+      <shelf name="kids-chapter-books" count="8"/>
+      <shelf name="kids-to-read" count="8"/>
+      <shelf name="early-chapter-books" count="8"/>
+      <shelf name="children-s-chapter-books" count="8"/>
+      <shelf name="childrens-lit" count="8"/>
+      <shelf name="funny" count="8"/>
+      <shelf name="march" count="7"/>
+      <shelf name="for-the-kids" count="7"/>
+      <shelf name="childhood-reads" count="7"/>
+      <shelf name="1st-grade" count="7"/>
+      <shelf name="children-s-book" count="7"/>
+      <shelf name="books-we-own" count="7"/>
+      <shelf name="3rd-grade" count="7"/>
+      <shelf name="childhood-favorites" count="7"/>
+      <shelf name="children-s-picture-books" count="6"/>
+      <shelf name="my-childhood" count="6"/>
+      <shelf name="elementary-school" count="6"/>
+      <shelf name="beginning-chapter-books" count="6"/>
+      <shelf name="read-for-school" count="6"/>
+      <shelf name="humorous" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="siblings" count="6"/>
+      <shelf name="transitional" count="6"/>
+      <shelf name="library-book" count="6"/>
+      <shelf name="paperback" count="6"/>
+      <shelf name="1001-children-s-books" count="6"/>
+      <shelf name="first-chapter-books" count="6"/>
+      <shelf name="kiddos" count="5"/>
+      <shelf name="kid-books" count="5"/>
+      <shelf name="2nd-grade" count="5"/>
+      <shelf name="favorite-children-s-books" count="5"/>
+      <shelf name="brothers" count="5"/>
+      <shelf name="books-for-children" count="5"/>
+      <shelf name="classroom" count="5"/>
+      <shelf name="youth" count="5"/>
+      <shelf name="3-5" count="5"/>
+      <shelf name="read-with-kids" count="5"/>
+      <shelf name="young-adult" count="5"/>
+      <shelf name="childrens-chapter-books" count="5"/>
+      <shelf name="caleb" count="4"/>
+      <shelf name="series-flat-stanley" count="4"/>
+      <shelf name="for-kids" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="febuary" count="4"/>
+      <shelf name="books-for-kids" count="4"/>
+      <shelf name="picture" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="transitional-chapter-books" count="4"/>
+      <shelf name="first-chapter" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>251590</id>
+<user_position>1</user_position>
+<series>
+<id>59524</id>
+<title>
+<![CDATA[
+    Flat Stanley
+]]>
+</title>
+<description>
+<![CDATA[
+    Make sure to catch all the Flat Stanley Series, including the Original: https://www.goodreads.com/series/59524-flat-stanley and the Worldwide Adventures: https://www.goodreads.com/series/67380-flat-stanley-s-worldwide-adventures as well as the I Can Read (Level 2) Series: https://www.goodreads.com/series/127470-flat-stanley---i-can-read-level-2
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>14</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>570353</id>
+<title><![CDATA[The Mystery of the Stolen Diamonds (Cam Jansen Mysteries, #1)]]></title>
+<title_without_series><![CDATA[The Mystery of the Stolen Diamonds]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/570353.The_Mystery_of_the_Stolen_Diamonds]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2815159</id>
+</work>
+<isbn>0142400106</isbn>
+<isbn13>9780142400104</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>4055</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15856</id>
+<name>David A. Adler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15856.David_A_Adler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3077977</id>
+<title><![CDATA[Never Glue Your Friends to Chairs (Roscoe Riley Rules, #1)]]></title>
+<title_without_series><![CDATA[Never Glue Your Friends to Chairs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3077977-never-glue-your-friends-to-chairs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3241908</id>
+</work>
+<isbn>0061148814</isbn>
+<isbn13>9780061148811</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2235</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1036736</id>
+<name>Katherine Applegate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1036736.Katherine_Applegate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>857828</id>
+<title>Mouse Soup</title>
+<title_without_series>Mouse Soup</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/857828.Mouse_Soup]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>731675</id>
+</work>
+<isbn>0064440419</isbn>
+<isbn13>9780064440417</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>4447</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>632544</id>
+<title><![CDATA[Horrible Harry in Room 2B (Horrible Harry, #1)]]></title>
+<title_without_series>Horrible Harry in Room 2B</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/632544.Horrible_Harry_in_Room_2B]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>2251177</id>
+</work>
+<isbn>0140385525</isbn>
+<isbn13>9780140385526</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3278</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>58140</id>
+<name>Suzy Kline</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58140.Suzy_Kline]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>409163</id>
+<title><![CDATA[Civil War on Sunday (Magic Tree House, #21)]]></title>
+<title_without_series>Civil War on Sunday</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/409163.Civil_War_on_Sunday]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320560744s/409163.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320560744m/409163.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>448604</id>
+</work>
+<isbn>067989067X</isbn>
+<isbn13>9780679890676</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>6283</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>578</id>
+<name>Mary Pope Osborne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/578.Mary_Pope_Osborne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>660100</id>
+<title>That Pesky Rat</title>
+<title_without_series>That Pesky Rat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/660100.That_Pesky_Rat]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408940224s/660100.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408940224m/660100.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1715081</id>
+</work>
+<isbn>1841212768</isbn>
+<isbn13>9781841212760</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>412</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42016</id>
+<name>Lauren Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42016.Lauren_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>579228</id>
+<title><![CDATA[Stink: The Incredible Shrinking Kid (Stink, #1)]]></title>
+<title_without_series><![CDATA[Stink: The Incredible Shrinking Kid]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/579228.Stink]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>1024673</id>
+</work>
+<isbn>0763628913</isbn>
+<isbn13>9780763628918</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>8520</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>13589</id>
+<name>Megan McDonald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13589.Megan_McDonald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>816658</id>
+<title>The Littles Go Exploring</title>
+<title_without_series>The Littles Go Exploring</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/816658.The_Littles_Go_Exploring]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360057805s/816658.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360057805m/816658.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1730345</id>
+</work>
+<isbn>0590465961</isbn>
+<isbn13>9780590465960</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>652</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>146239</id>
+<name>John Lawrence Peterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/146239.John_Lawrence_Peterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2989993</id>
+<title><![CDATA[The Snow Day from the Black Lagoon]]></title>
+<title_without_series><![CDATA[The Snow Day from the Black Lagoon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2989993-the-snow-day-from-the-black-lagoon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>63</num_pages>
+<work>
+<id>3020452</id>
+</work>
+<isbn>0545017661</isbn>
+<isbn13>9780545017664</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>138</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>10034</id>
+<name>Mike Thaler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10034.Mike_Thaler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9114244</id>
+<title><![CDATA[The Flying Chinese Wonders (Flat Stanley's Worldwide Adventures #7)]]></title>
+<title_without_series>The Flying Chinese Wonders</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9114244-the-flying-chinese-wonders]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>81</num_pages>
+<work>
+<id>13992776</id>
+</work>
+<isbn>006143003X</isbn>
+<isbn13>9780061430039</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>159</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4574346</id>
+<name>Josh Greenhut</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4574346.Josh_Greenhut]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1321560</id>
+<title><![CDATA[Ricky Ricotta Y El Poderoso Robot (Ricky Ricotta, #1)]]></title>
+<title_without_series><![CDATA[Ricky Ricotta Y El Poderoso Robot]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1321560.Ricky_Ricotta_Y_El_Poderoso_Robot]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867587s/1321560.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867587m/1321560.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>3311246</id>
+</work>
+<isbn>043955117X</isbn>
+<isbn13>9780439551175</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1491</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33280</id>
+<name>Dav Pilkey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33280.Dav_Pilkey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1973573</id>
+<title>Horrid Henry</title>
+<title_without_series>Horrid Henry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1973573.Horrid_Henry]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330486849s/1973573.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330486849m/1973573.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1976840</id>
+</work>
+<isbn>1858810701</isbn>
+<isbn13>9781858810706</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1646</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17390</id>
+<name>Francesca Simon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17390.Francesca_Simon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>961949</id>
+<title>Nate the Great</title>
+<title_without_series>Nate the Great</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/961949.Nate_the_Great]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320442854s/961949.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320442854m/961949.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>3198978</id>
+</work>
+<isbn>044046126X</isbn>
+<isbn13>9780440461265</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>11035</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>4</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2394</id>
+<name>Marjorie Weinman Sharmat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2394.Marjorie_Weinman_Sharmat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>820863</id>
+<title><![CDATA[Henry and Mudge - The First Book (Henry and Mudge, #1)]]></title>
+<title_without_series><![CDATA[Henry and Mudge - The First Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/820863.Henry_and_Mudge_The_First_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1589622</id>
+</work>
+<isbn>0689810059</isbn>
+<isbn13>9780689810053</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>5152</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5411</id>
+<name>Cynthia Rylant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5411.Cynthia_Rylant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>894136</id>
+<title><![CDATA[The Lighthouse Keeper's Lunch (Picture Books)]]></title>
+<title_without_series>The Lighthouse Keeper&apos;s Lunch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/894136.The_Lighthouse_Keeper_s_Lunch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>879341</id>
+</work>
+<isbn>0590551752</isbn>
+<isbn13>9780590551755</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>362</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>459045</id>
+<name>Ronda Armitage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/459045.Ronda_Armitage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>271310</id>
+<title><![CDATA[A Necklace of Raindrops and Other Stories]]></title>
+<title_without_series><![CDATA[A Necklace of Raindrops and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/271310.A_Necklace_of_Raindrops_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>84</num_pages>
+<work>
+<id>3123253</id>
+</work>
+<isbn>044041850X</isbn>
+<isbn13>9780440418504</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>891</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>12075</id>
+<name>Joan Aiken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12075.Joan_Aiken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1068563</id>
+<title><![CDATA[Tooth Trouble (Ready, Freddy! #1)]]></title>
+<title_without_series>Tooth Trouble</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1068563.Tooth_Trouble]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867674s/1068563.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867674m/1068563.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1055229</id>
+</work>
+<isbn>0439555965</isbn>
+<isbn13>9780439555968</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1700</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>63060</id>
+<name>Abby Klein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63060.Abby_Klein]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

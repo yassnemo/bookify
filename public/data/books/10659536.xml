@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10659536</id>
+  <title>Every Thing on It</title>
+  <isbn><![CDATA[0061998168]]></isbn>
+  <isbn13><![CDATA[9780061998164]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1331416624m/10659536.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1331416624s/10659536.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>20</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<strong>From <em>New York Times</em> bestselling Shel Silverstein, celebrated creator of <em>Where the Sidewalk Ends</em>, <em>A Light in the Attic</em>, and <em>Falling Up</em>, comes an amazing collection of never-before-published poems and drawings.</strong><br /><br />Have you ever read a book with everything on it? Well, here it is! You will say Hi-ho for the toilet troll, get tongue-tied with Stick-a-Tongue-Out-Sid, play a highly unusual horn, and experience the joys of growing down.<br /><br />What's that? You have a case of the Lovetobutcants? Impossible! Just come on in and let the magic of Shel Silverstein bend your brain and open your heart.<br /><br />And don't miss <em>Runny Babbit Returns</em>, the new book from Shel Silverstein!]]></description>
+  <work>
+  <id type="integer">15568720</id>
+  <books_count type="integer">10</books_count>
+  <best_book_id type="integer">10659536</best_book_id>
+  <reviews_count type="integer">22757</reviews_count>
+  <ratings_sum type="integer">51028</ratings_sum>
+  <ratings_count type="integer">11635</ratings_count>
+  <text_reviews_count type="integer">533</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Every Thing On It</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6712|4:3141|3:1437|2:248|1:97|total:11635</rating_dist>
+  <desc_user_id type="integer">175283</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.39</average_rating>
+  <num_pages><![CDATA[208]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11552]]></ratings_count>
+  <text_reviews_count><![CDATA[511]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10659536-every-thing-on-it]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10659536-every-thing-on-it]]></link>
+  <authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>2225166</ratings_count>
+<text_reviews_count>30899</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10659536-every-thing-on-it">Every Thing on It Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0061998168&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/10659536-every-thing-on-it?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="154"/>
+      <shelf name="currently-reading" count="121"/>
+      <shelf name="childrens" count="112"/>
+      <shelf name="humor" count="78"/>
+      <shelf name="children" count="66"/>
+      <shelf name="favorites" count="64"/>
+      <shelf name="children-s" count="47"/>
+      <shelf name="children-s-books" count="45"/>
+      <shelf name="shel-silverstein" count="39"/>
+      <shelf name="books-i-own" count="35"/>
+      <shelf name="owned" count="34"/>
+      <shelf name="kids" count="34"/>
+      <shelf name="fiction" count="34"/>
+      <shelf name="childrens-books" count="29"/>
+      <shelf name="kids-books" count="22"/>
+      <shelf name="poems" count="22"/>
+      <shelf name="picture-books" count="21"/>
+      <shelf name="childhood" count="20"/>
+      <shelf name="classics" count="19"/>
+      <shelf name="library" count="18"/>
+      <shelf name="poetry" count="17"/>
+      <shelf name="juvenile" count="16"/>
+      <shelf name="non-fiction" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="ya" count="13"/>
+      <shelf name="children-s-literature" count="13"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="young-adult" count="12"/>
+      <shelf name="children-s-lit" count="12"/>
+      <shelf name="funny" count="12"/>
+      <shelf name="childhood-favorites" count="12"/>
+      <shelf name="default" count="11"/>
+      <shelf name="my-books" count="11"/>
+      <shelf name="nonfiction" count="11"/>
+      <shelf name="children-s-poetry" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="childrens-poetry" count="10"/>
+      <shelf name="read-in-2012" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="want-to-own" count="8"/>
+      <shelf name="kid-books" count="8"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="want" count="7"/>
+      <shelf name="children-books" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="comedy" count="6"/>
+      <shelf name="library-books" count="6"/>
+      <shelf name="childrens-fiction" count="6"/>
+      <shelf name="illustrated" count="5"/>
+      <shelf name="for-the-kids" count="5"/>
+      <shelf name="5-stars" count="5"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="juvenile-fiction" count="5"/>
+      <shelf name="rhyme" count="5"/>
+      <shelf name="picture-book" count="5"/>
+      <shelf name="read-alouds" count="5"/>
+      <shelf name="read-with-the-kids" count="5"/>
+      <shelf name="elementary" count="5"/>
+      <shelf name="middle-grade" count="5"/>
+      <shelf name="childhood-books" count="5"/>
+      <shelf name="kid-stuff" count="5"/>
+      <shelf name="kid-lit" count="5"/>
+      <shelf name="shelfari-favorites" count="4"/>
+      <shelf name="stand-alone" count="4"/>
+      <shelf name="poem" count="4"/>
+      <shelf name="personal-library" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="on-my-shelf" count="4"/>
+      <shelf name="humorous" count="4"/>
+      <shelf name="read-2012" count="4"/>
+      <shelf name="mine" count="4"/>
+      <shelf name="humour" count="4"/>
+      <shelf name="j-non-fiction" count="4"/>
+      <shelf name="collection" count="3"/>
+      <shelf name="shel" count="3"/>
+      <shelf name="2014-2015-school-year" count="3"/>
+      <shelf name="kids-read" count="3"/>
+      <shelf name="شعر" count="3"/>
+      <shelf name="reread" count="3"/>
+      <shelf name="poetry-to-read" count="3"/>
+      <shelf name="own-unread" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="favorite-books" count="3"/>
+      <shelf name="silverstein" count="3"/>
+      <shelf name="owned-unread" count="3"/>
+      <shelf name="middle-school" count="3"/>
+      <shelf name="books-i-have" count="3"/>
+      <shelf name="american" count="3"/>
+      <shelf name="buy" count="3"/>
+      <shelf name="books-for-my-classroom" count="3"/>
+      <shelf name="40-book-challenge" count="3"/>
+      <shelf name="kids-stuff" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="fun" count="3"/>
+      <shelf name="favorite-authors" count="3"/>
+      <shelf name="read-aloud" count="3"/>
+      <shelf name="library-book" count="3"/>
+      <shelf name="already-own" count="3"/>
+      <shelf name="books" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>9371035</id>
+<title><![CDATA[Lemonade: and Other Poems Squeezed from a Single Word]]></title>
+<title_without_series><![CDATA[Lemonade: and Other Poems Squeezed from a Single Word]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9371035-lemonade]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316131791s/9371035.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316131791m/9371035.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>14254584</id>
+</work>
+<isbn>1596435410</isbn>
+<isbn13>9781596435414</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>606</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>117128</id>
+<name>Bob Raczka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/117128.Bob_Raczka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10967391</id>
+<title>BookSpeak!: Poems about Books</title>
+<title_without_series>BookSpeak!: Poems about Books</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10967391-bookspeak]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328836681s/10967391.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328836681m/10967391.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>15885369</id>
+</work>
+<isbn>0547223005</isbn>
+<isbn13>9780547223001</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>669</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>30326</id>
+<name>Laura Purdie Salas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30326.Laura_Purdie_Salas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13097677</id>
+<title>I&apos;ve Lost My Hippopotamus</title>
+<title_without_series>I&apos;ve Lost My Hippopotamus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13097677-i-ve-lost-my-hippopotamus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>18269883</id>
+</work>
+<isbn>0062014579</isbn>
+<isbn13>9780062014573</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>270</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>20775</id>
+<name>Jack Prelutsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20775.Jack_Prelutsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14553491</id>
+<title><![CDATA[A Strange Place to Call Home: The World's Most Dangerous Habitats & the Animals That Call Them Home]]></title>
+<title_without_series><![CDATA[A Strange Place to Call Home: The World's Most Dangerous Habitats & the Animals That Call Them Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14553491-a-strange-place-to-call-home]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1340780355s/14553491.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1340780355m/14553491.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>20196199</id>
+</work>
+<isbn>1452101205</isbn>
+<isbn13>9781452101200</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>215</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>6210</id>
+<name>Marilyn Singer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6210.Marilyn_Singer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8411631</id>
+<title><![CDATA[Won-Ton: A Cat Tale Told in Haiku]]></title>
+<title_without_series><![CDATA[Won-Ton: A Cat Tale Told in Haiku]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8411631-won-ton]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>13273083</id>
+</work>
+<isbn>0805089950</isbn>
+<isbn13>9780805089950</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1777</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>37718</id>
+<name>Lee Wardlaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37718.Lee_Wardlaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10182327</id>
+<title>I Am the Book</title>
+<title_without_series>I Am the Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10182327-i-am-the-book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>31</num_pages>
+<work>
+<id>15081327</id>
+</work>
+<isbn>0823421198</isbn>
+<isbn13>9780823421190</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>347</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>140859</id>
+<name>Lee Bennett Hopkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/140859.Lee_Bennett_Hopkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6256845</id>
+<title><![CDATA[Orangutan Tongs: Poems to Tangle Your Tongue]]></title>
+<title_without_series><![CDATA[Orangutan Tongs: Poems to Tangle Your Tongue]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6256845-orangutan-tongs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365984878s/6256845.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365984878m/6256845.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6439949</id>
+</work>
+<isbn>1423103157</isbn>
+<isbn13>9781423103158</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>198</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>87516</id>
+<name>Jon Agee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87516.Jon_Agee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12908947</id>
+<title><![CDATA[Outside Your Window: A First Book of Nature]]></title>
+<title_without_series><![CDATA[Outside Your Window: A First Book of Nature]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12908947-outside-your-window]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333579108s/12908947.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333579108m/12908947.jpg]]></image_url>
+<num_pages>108</num_pages>
+<work>
+<id>18063654</id>
+</work>
+<isbn>076365549X</isbn>
+<isbn13>9780763655495</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>528</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>22935</id>
+<name>Nicola Davies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22935.Nicola_Davies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13181135</id>
+<title><![CDATA[Forget-Me-Nots: Poems to Learn by Heart]]></title>
+<title_without_series><![CDATA[Forget-Me-Nots: Poems to Learn by Heart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13181135-forget-me-nots]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>18361387</id>
+</work>
+<isbn>031612947X</isbn>
+<isbn13>9780316129473</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>226</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>17544</id>
+<name>Mary Ann Hoberman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17544.Mary_Ann_Hoberman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18166919</id>
+<title><![CDATA[Firefly July A Year of Very Short Poems]]></title>
+<title_without_series><![CDATA[Firefly July A Year of Very Short Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18166919-firefly-july-a-year-of-very-short-poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384015361s/18166919.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384015361m/18166919.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>25533118</id>
+</work>
+<isbn>0763648426</isbn>
+<isbn13>9780763648428</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1146</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>121117</id>
+<name>Paul B. Janeczko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/121117.Paul_B_Janeczko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13330406</id>
+<title><![CDATA[National Geographic Book of Animal Poetry: 200 Poems with Photographs That Squeak, Soar, and Roar!]]></title>
+<title_without_series><![CDATA[National Geographic Book of Animal Poetry: 200 Poems with Photographs That Squeak, Soar, and Roar!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13330406-national-geographic-book-of-animal-poetry]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333580261s/13330406.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333580261m/13330406.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>18538045</id>
+</work>
+<isbn>1426310544</isbn>
+<isbn13>9781426310546</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>427</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>2360</id>
+<name>J. Patrick Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2360.J_Patrick_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12225924</id>
+<title><![CDATA[The President's Stuck in the Bathtub: Poems About the Presidents]]></title>
+<title_without_series><![CDATA[The President's Stuck in the Bathtub: Poems About the Presidents]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12225924-the-president-s-stuck-in-the-bathtub]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344679198s/12225924.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344679198m/12225924.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>17199422</id>
+</work>
+<isbn>054718221X</isbn>
+<isbn13>9780547182216</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>240</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>4701756</id>
+<name>Susan Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4701756.Susan_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18636916</id>
+<title><![CDATA[Winter Bees & Other Poems of the Cold]]></title>
+<title_without_series><![CDATA[Winter Bees & Other Poems of the Cold]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18636916-winter-bees-other-poems-of-the-cold]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1389671516s/18636916.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1389671516m/18636916.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>26433704</id>
+</work>
+<isbn>0547906501</isbn>
+<isbn13>9780547906508</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>870</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>386001</id>
+<name>Joyce Sidman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/386001.Joyce_Sidman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9796853</id>
+<title>A Dazzling Display of Dogs</title>
+<title_without_series>A Dazzling Display of Dogs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9796853-a-dazzling-display-of-dogs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1373937489s/9796853.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1373937489m/9796853.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>14686991</id>
+</work>
+<isbn>1582463433</isbn>
+<isbn13>9781582463438</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>169</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4234</id>
+<name>Betsy Franco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4234.Betsy_Franco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9992486</id>
+<title><![CDATA[Peaceful Pieces: Poems and Quilts About Peace]]></title>
+<title_without_series><![CDATA[Peaceful Pieces: Poems and Quilts About Peace]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9992486-peaceful-pieces]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316638541s/9992486.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316638541m/9992486.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>14887282</id>
+</work>
+<isbn>0805089969</isbn>
+<isbn13>9780805089967</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>241</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>168585</id>
+<name>Anna Grossnickle Hines</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168585.Anna_Grossnickle_Hines]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>397637</id>
+<title><![CDATA[Comets, Stars, the Moon, and Mars: Space Poems and Paintings]]></title>
+<title_without_series><![CDATA[Comets, Stars, the Moon, and Mars: Space Poems and Paintings]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/397637.Comets_Stars_the_Moon_and_Mars]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1288877909s/397637.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1288877909m/397637.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>387100</id>
+</work>
+<isbn>0152053727</isbn>
+<isbn13>9780152053727</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>390</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>93394</id>
+<name>Douglas Florian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93394.Douglas_Florian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8510752</id>
+<title><![CDATA[Emma Dilemma: Big Sister Poems]]></title>
+<title_without_series><![CDATA[Emma Dilemma: Big Sister Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8510752-emma-dilemma]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>13376985</id>
+</work>
+<isbn>0618428429</isbn>
+<isbn13>9780618428427</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>340</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>236959</id>
+<name>Kristine O&apos;Connell George</name>
+<link><![CDATA[https://www.goodreads.com/author/show/236959.Kristine_O_Connell_George]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1901077</id>
+<title><![CDATA[Tap Dancing on the Roof: Sijo (Poems)]]></title>
+<title_without_series>Tap Dancing on the Roof: Sijo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1901077.Tap_Dancing_on_the_Roof]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1902757</id>
+</work>
+<isbn>0618234837</isbn>
+<isbn13>9780618234837</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>317</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>61707</id>
+<name>Linda Sue Park</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61707.Linda_Sue_Park]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

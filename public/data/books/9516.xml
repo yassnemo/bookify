@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9516</id>
+  <title><![CDATA[Persepolis: The Story of a Childhood (Persepolis, #1)]]></title>
+  <isbn><![CDATA[037571457X]]></isbn>
+  <isbn13><![CDATA[9780375714573]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1425871473m/9516.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1425871473s/9516.jpg</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Pantheon</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A <i>New York Times</i> Notable Book<br />A <i>Time Magazine</i> “Best Comix of the Year”<br />A <i>San Francisco Chronicle </i>and <i>Los Angeles Times</i> Best-seller<br /><br />Wise, funny, and heartbreaking, <i>Persepolis</i> is Marjane Satrapi’s memoir of growing up in Iran during the Islamic Revolution. In powerful black-and-white comic strip images, Satrapi tells the story of her life in Tehran from ages six to fourteen, years that saw the overthrow of the Shah’s regime, the triumph of the Islamic Revolution, and the devastating effects of war with Iraq. The intelligent and outspoken only child of committed Marxists and the great-granddaughter of one of Iran’s last emperors, Marjane bears witness to a childhood uniquely entwined with the history of her country.<br /><br /><i>Persepolis</i> paints an unforgettable portrait of daily life in Iran and of the bewildering contradictions between home life and public life. Marjane’s child’s-eye view of dethroned emperors, state-sanctioned whippings, and heroes of the revolution allows us to learn as she does the history of this fascinating country and of her own extraordinary family. Intensely personal, profoundly political, and wholly original, <i>Persepolis</i> is at once a story of growing up and a reminder of the human cost of war and political repression. It shows how we carry on, with laughter and tears, in the face of absurdity. And, finally, it introduces us to an irresistible little girl with whom we cannot help but fall in love.]]></description>
+  <work>
+  <id type="integer">3303888</id>
+  <books_count type="integer">39</books_count>
+  <best_book_id type="integer">9516</best_book_id>
+  <reviews_count type="integer">193932</reviews_count>
+  <ratings_sum type="integer">507364</ratings_sum>
+  <ratings_count type="integer">120055</ratings_count>
+  <text_reviews_count type="integer">6600</text_reviews_count>
+  <original_publication_year type="integer">2000</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Persepolis</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:53544|4:45508|3:16744|2:3121|1:1138|total:120055</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.23</average_rating>
+  <num_pages><![CDATA[153]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[117191]]></ratings_count>
+  <text_reviews_count><![CDATA[6273]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9516.Persepolis]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9516.Persepolis]]></link>
+  <authors>
+<author>
+<id>6238</id>
+<name>Marjane Satrapi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1303646506p5/6238.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1303646506p2/6238.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6238.Marjane_Satrapi]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>321210</ratings_count>
+<text_reviews_count>16876</text_reviews_count>
+</author>
+<author>
+<id>3043169</id>
+<name>Mattias Ripa</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3043169.Mattias_Ripa]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>188721</ratings_count>
+<text_reviews_count>11011</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9516.Persepolis">Persepolis Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=037571457X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/9516.Persepolis?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="59759"/>
+      <shelf name="graphic-novels" count="3597"/>
+      <shelf name="graphic-novel" count="2138"/>
+      <shelf name="non-fiction" count="1468"/>
+      <shelf name="favorites" count="1287"/>
+      <shelf name="comics" count="1286"/>
+      <shelf name="memoir" count="1182"/>
+      <shelf name="currently-reading" count="1056"/>
+      <shelf name="nonfiction" count="757"/>
+      <shelf name="biography" count="553"/>
+      <shelf name="history" count="491"/>
+      <shelf name="young-adult" count="464"/>
+      <shelf name="memoirs" count="325"/>
+      <shelf name="fiction" count="317"/>
+      <shelf name="graphic" count="310"/>
+      <shelf name="middle-east" count="308"/>
+      <shelf name="iran" count="305"/>
+      <shelf name="ya" count="259"/>
+      <shelf name="book-club" count="241"/>
+      <shelf name="comics-graphic-novels" count="235"/>
+      <shelf name="graphic-novels-comics" count="229"/>
+      <shelf name="autobiography" count="226"/>
+      <shelf name="owned" count="208"/>
+      <shelf name="school" count="203"/>
+      <shelf name="books-i-own" count="195"/>
+      <shelf name="biography-memoir" count="183"/>
+      <shelf name="historical" count="181"/>
+      <shelf name="coming-of-age" count="166"/>
+      <shelf name="feminism" count="159"/>
+      <shelf name="war" count="143"/>
+      <shelf name="historical-fiction" count="138"/>
+      <shelf name="comic" count="138"/>
+      <shelf name="politics" count="128"/>
+      <shelf name="comics-and-graphic-novels" count="121"/>
+      <shelf name="library" count="121"/>
+      <shelf name="graphic-novels-and-comics" count="118"/>
+      <shelf name="series" count="118"/>
+      <shelf name="adult" count="116"/>
+      <shelf name="religion" count="97"/>
+      <shelf name="favourites" count="96"/>
+      <shelf name="graphicnovels" count="91"/>
+      <shelf name="memoir-biography" count="89"/>
+      <shelf name="comic-books" count="88"/>
+      <shelf name="read-for-school" count="88"/>
+      <shelf name="to-buy" count="82"/>
+      <shelf name="women" count="80"/>
+      <shelf name="for-school" count="79"/>
+      <shelf name="biographies" count="77"/>
+      <shelf name="contemporary" count="74"/>
+      <shelf name="female-author" count="67"/>
+      <shelf name="multicultural" count="65"/>
+      <shelf name="teen" count="63"/>
+      <shelf name="school-books" count="60"/>
+      <shelf name="owned-books" count="58"/>
+      <shelf name="comix" count="58"/>
+      <shelf name="read-in-2016" count="57"/>
+      <shelf name="islam" count="55"/>
+      <shelf name="feminist" count="54"/>
+      <shelf name="art" count="53"/>
+      <shelf name="french" count="51"/>
+      <shelf name="bookclub" count="51"/>
+      <shelf name="borrowed" count="50"/>
+      <shelf name="high-school" count="48"/>
+      <shelf name="read-in-2015" count="47"/>
+      <shelf name="novel" count="47"/>
+      <shelf name="graphicnovel" count="46"/>
+      <shelf name="family" count="45"/>
+      <shelf name="asia" count="45"/>
+      <shelf name="read-in-2014" count="44"/>
+      <shelf name="biographical" count="44"/>
+      <shelf name="our-shared-shelf" count="43"/>
+      <shelf name="classics" count="43"/>
+      <shelf name="international" count="43"/>
+      <shelf name="female-authors" count="42"/>
+      <shelf name="college" count="42"/>
+      <shelf name="read-in-2017" count="41"/>
+      <shelf name="banned-books" count="40"/>
+      <shelf name="library-books" count="40"/>
+      <shelf name="sequential-art" count="40"/>
+      <shelf name="political" count="40"/>
+      <shelf name="ya-lit" count="39"/>
+      <shelf name="graphic-novels-manga" count="38"/>
+      <shelf name="illustrated" count="38"/>
+      <shelf name="bio-memoir" count="36"/>
+      <shelf name="graphics" count="36"/>
+      <shelf name="diversity" count="35"/>
+      <shelf name="2000s" count="35"/>
+      <shelf name="iranian" count="35"/>
+      <shelf name="wish-list" count="35"/>
+      <shelf name="read-in-2013" count="34"/>
+      <shelf name="literature" count="34"/>
+      <shelf name="9th-grade" count="33"/>
+      <shelf name="biographies-memoirs" count="33"/>
+      <shelf name="comic-graphic-novel" count="33"/>
+      <shelf name="translation" count="33"/>
+      <shelf name="culture" count="32"/>
+      <shelf name="translated" count="32"/>
+      <shelf name="cultural" count="32"/>
+      <shelf name="poc" count="32"/>
+      <shelf name="women-authors" count="32"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>166088</id>
+<user_position>1-2</user_position>
+<series>
+<id>45795</id>
+<title>
+<![CDATA[
+    Persepolis
+]]>
+</title>
+<description>
+<![CDATA[
+    The original four volumes of Persepolis are in French.
+    
+    They were originally published in English in two volumes, which were later republished as The Complete Persepolis.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>548934</id>
+<title><![CDATA[Pedro and Me: Friendship, Loss, and What I Learned]]></title>
+<title_without_series><![CDATA[Pedro and Me: Friendship, Loss, and What I Learned]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/548934.Pedro_and_Me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312028063s/548934.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312028063m/548934.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>536182</id>
+</work>
+<isbn>0805064036</isbn>
+<isbn13>9780805064032</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2158</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>4822</id>
+<name>Judd Winick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4822.Judd_Winick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>82882</id>
+<title>The Rabbi&apos;s Cat</title>
+<title_without_series>The Rabbi&apos;s Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/82882.The_Rabbi_s_Cat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>1381374</id>
+</work>
+<isbn>0375422811</isbn>
+<isbn13>9780375422812</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>4875</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>26392</id>
+<name>Joann Sfar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26392.Joann_Sfar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>349348</id>
+<title>Cancer Vixen</title>
+<title_without_series>Cancer Vixen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/349348.Cancer_Vixen]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>574092</id>
+</work>
+<isbn>0307263576</isbn>
+<isbn13>9780307263575</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>1214</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>200450</id>
+<name>Marisa Acocella Marchetto</name>
+<link><![CDATA[https://www.goodreads.com/author/show/200450.Marisa_Acocella_Marchetto]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29011</id>
+<title>One Hundred Demons</title>
+<title_without_series>One Hundred Demons</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29011.One_Hundred_Demons]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1393946113s/29011.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1393946113m/29011.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2781696</id>
+</work>
+<isbn>1570614598</isbn>
+<isbn13>9781570614590</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>6386</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>11646</id>
+<name>Lynda Barry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11646.Lynda_Barry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>769712</id>
+<title>Palestine</title>
+<title_without_series>Palestine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/769712.Palestine]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327884409s/769712.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327884409m/769712.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>755771</id>
+</work>
+<isbn>156097432X</isbn>
+<isbn13>9781560974321</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>10956</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>32468</id>
+<name>Joe Sacco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32468.Joe_Sacco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17210471</id>
+<title>Saints (Boxers &amp; Saints, #2)</title>
+<title_without_series>Saints</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17210471-saints]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1359199657s/17210471.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1359199657m/17210471.jpg]]></image_url>
+<num_pages>170</num_pages>
+<work>
+<id>23691810</id>
+</work>
+<isbn>1596436891</isbn>
+<isbn13>9781596436893</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>10201</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>68959</id>
+<name>Gene Luen Yang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68959.Gene_Luen_Yang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15197</id>
+<title><![CDATA[Maus II: A Survivor's Tale: And Here My Troubles Began (Maus, #2)]]></title>
+<title_without_series><![CDATA[Maus II: A Survivor's Tale: And Here My Troubles Began]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15197.Maus_II]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327887479s/15197.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327887479m/15197.jpg]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>1782551</id>
+</work>
+<isbn>0679729771</isbn>
+<isbn13>9780679729778</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>91370</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5117</id>
+<name>Art Spiegelman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5117.Art_Spiegelman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>80834</id>
+<title><![CDATA[Pyongyang: A Journey in North Korea]]></title>
+<title_without_series><![CDATA[Pyongyang: A Journey in North Korea]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/80834.Pyongyang]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327884533s/80834.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327884533m/80834.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>204166</id>
+</work>
+<isbn>1897299214</isbn>
+<isbn13>9781897299210</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>14590</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>46027</id>
+<name>Guy Delisle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46027.Guy_Delisle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>156703</id>
+<title>Stuck Rubber Baby</title>
+<title_without_series>Stuck Rubber Baby</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/156703.Stuck_Rubber_Baby]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>1259455</id>
+</work>
+<isbn>1563892553</isbn>
+<isbn13>9781563892554</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>3256</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>90669</id>
+<name>Howard Cruse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90669.Howard_Cruse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1782504</id>
+<title><![CDATA[The Magical Life of Long Tack Sam: An Illustrated Memoir]]></title>
+<title_without_series><![CDATA[The Magical Life of Long Tack Sam: An Illustrated Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1782504.The_Magical_Life_of_Long_Tack_Sam]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>170</num_pages>
+<work>
+<id>1781353</id>
+</work>
+<isbn>1594482640</isbn>
+<isbn13>9781594482649</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>592</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>816004</id>
+<name>Ann Marie Fleming</name>
+<link><![CDATA[https://www.goodreads.com/author/show/816004.Ann_Marie_Fleming]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39916</id>
+<title>Epileptic</title>
+<title_without_series>Epileptic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39916.Epileptic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>1018527</id>
+</work>
+<isbn>0375714685</isbn>
+<isbn13>9780375714689</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>10957</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6884287</id>
+<name>David B.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6884287.David_B_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8501710</id>
+<title><![CDATA[Vietnamerica: A Family's Journey]]></title>
+<title_without_series><![CDATA[Vietnamerica: A Family's Journey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8501710-vietnamerica]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320532072s/8501710.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320532072m/8501710.jpg]]></image_url>
+<num_pages>281</num_pages>
+<work>
+<id>13367641</id>
+</work>
+<isbn>0345508726</isbn>
+<isbn13>9780345508720</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1263</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4097010</id>
+<name>G.B. Tran</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4097010.G_B_Tran]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>438068</id>
+<title><![CDATA[Berlin, Vol. 1: City of Stones]]></title>
+<title_without_series><![CDATA[Berlin, Vol. 1: City of Stones]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/438068.Berlin_Vol_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>212</num_pages>
+<work>
+<id>426929</id>
+</work>
+<isbn>1896597297</isbn>
+<isbn13>9781896597294</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>4155</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>85213</id>
+<name>Jason Lutes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85213.Jason_Lutes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6407014</id>
+<title>Stitches</title>
+<title_without_series>Stitches</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6407014-stitches]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327728261s/6407014.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327728261m/6407014.jpg]]></image_url>
+<num_pages>329</num_pages>
+<work>
+<id>6595917</id>
+</work>
+<isbn>0393068579</isbn>
+<isbn13>9780393068573</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>18786</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>104017</id>
+<name>David Small</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104017.David_Small]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11311549</id>
+<title>The Silence of Our Friends</title>
+<title_without_series>The Silence of Our Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11311549-the-silence-of-our-friends]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316731249s/11311549.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316731249m/11311549.jpg]]></image_url>
+<num_pages>201</num_pages>
+<work>
+<id>16239481</id>
+</work>
+<isbn>1596436182</isbn>
+<isbn13>9781596436183</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>2693</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>286614</id>
+<name>Mark Long</name>
+<link><![CDATA[https://www.goodreads.com/author/show/286614.Mark_Long]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4930396</id>
+<title>A Drifting Life</title>
+<title_without_series>A Drifting Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4930396-a-drifting-life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327878934s/4930396.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327878934m/4930396.jpg]]></image_url>
+<num_pages>856</num_pages>
+<work>
+<id>4996024</id>
+</work>
+<isbn>1897299745</isbn>
+<isbn13>9781897299746</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2280</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>30068</id>
+<name>Yoshihiro Tatsumi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30068.Yoshihiro_Tatsumi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160065</id>
+<title><![CDATA[Buddha, Vol. 5: Deer Park (Buddha, #5)]]></title>
+<title_without_series>Buddha, Vol. 5: Deer Park</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160065.Buddha_Vol_5]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320555448s/160065.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320555448m/160065.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>223450</id>
+</work>
+<isbn>1932234470</isbn>
+<isbn13>9781932234473</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2302</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>29482</id>
+<name>Osamu Tezuka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29482.Osamu_Tezuka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1641695</id>
+<title>Laika</title>
+<title_without_series>Laika</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1641695.Laika]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317066931s/1641695.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317066931m/1641695.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2540092</id>
+</work>
+<isbn>1596431016</isbn>
+<isbn13>9781596431010</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>4486</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>213936</id>
+<name>Nick Abadzis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/213936.Nick_Abadzis]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>53064</id>
+  <title><![CDATA[Death in Venice and Other Tales]]></title>
+  <isbn><![CDATA[0141181737]]></isbn>
+  <isbn13><![CDATA[9780141181738]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00MXCX02I]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1309376701m/53064.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1309376701s/53064.jpg</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Penguin Classics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Featuring his world-famous masterpiece, "Death in Venice," this new collection of Nobel laureate Thomas Mann's stories and novellas reveals his artistic evolution. In this new, widely acclaimed translation that restores the controversial passages that were cut out of the original English version, "Death in Venice" tells about a ruinous quest for love and beauty amid degenerating splendor. Gustav von Aschenbach, a successful but lonely author, travels to the Queen of the Adriatic in search of an elusive spiritual fulfillment that turns into his erotic doom. Spellbound by a beautiful Polish boy, he finds himself fettered to this hypnotic city of sun-drenched sensuality and eerie physical decay. Also included in this volume are eleven other stories by Mann: "Tonio Kroger," "Gladius Dei," "The Blood of the Walsungs," "The Will for Happiness," "Little Herr Friedmann," "Tobias Mindernickel," "Little Lizzy," "Tristan," "The Starvelings," "The Wunderkind," and "Harsh Hour." All of the stories collected here display Mann's inimitable use of irony, his subtle characterizations, and superb, complex plots.]]></description>
+  <work>
+  <id type="integer">3458170</id>
+  <books_count type="integer">62</books_count>
+  <best_book_id type="integer">53064</best_book_id>
+  <reviews_count type="integer">28054</reviews_count>
+  <ratings_sum type="integer">61462</ratings_sum>
+  <ratings_count type="integer">15888</ratings_count>
+  <text_reviews_count type="integer">607</text_reviews_count>
+  <original_publication_year type="integer">1911</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Der Tod in Venedig</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4844|4:5851|3:3798|2:1049|1:346|total:15888</rating_dist>
+  <desc_user_id type="integer">34227088</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.87</average_rating>
+  <num_pages><![CDATA[384]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11886]]></ratings_count>
+  <text_reviews_count><![CDATA[323]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/53064.Death_in_Venice_and_Other_Tales]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/53064.Death_in_Venice_and_Other_Tales]]></link>
+  <authors>
+<author>
+<id>19405</id>
+<name>Thomas Mann</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430109860p5/19405.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430109860p2/19405.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19405.Thomas_Mann]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>109786</ratings_count>
+<text_reviews_count>5779</text_reviews_count>
+</author>
+<author>
+<id>10749</id>
+<name>Joachim Neugroschel</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10749.Joachim_Neugroschel]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>91422</ratings_count>
+<text_reviews_count>3140</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/53064.Death_in_Venice_and_Other_Tales">Death in Venice and Other Tales Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0141181737&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/53064.Death_in_Venice_and_Other_Tales?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9170"/>
+      <shelf name="fiction" count="442"/>
+      <shelf name="classics" count="355"/>
+      <shelf name="currently-reading" count="343"/>
+      <shelf name="short-stories" count="232"/>
+      <shelf name="german" count="132"/>
+      <shelf name="favorites" count="126"/>
+      <shelf name="literature" count="99"/>
+      <shelf name="owned" count="78"/>
+      <shelf name="german-literature" count="76"/>
+      <shelf name="classic" count="60"/>
+      <shelf name="germany" count="51"/>
+      <shelf name="books-i-own" count="44"/>
+      <shelf name="20th-century" count="44"/>
+      <shelf name="german-lit" count="39"/>
+      <shelf name="1001-books" count="37"/>
+      <shelf name="1001" count="37"/>
+      <shelf name="lgbt" count="34"/>
+      <shelf name="default" count="27"/>
+      <shelf name="literary-fiction" count="27"/>
+      <shelf name="italy" count="27"/>
+      <shelf name="short-story" count="25"/>
+      <shelf name="novels" count="23"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="nobel-prize" count="19"/>
+      <shelf name="library" count="19"/>
+      <shelf name="translation" count="17"/>
+      <shelf name="1001-books-to-read-before-you-die" count="17"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="novel" count="17"/>
+      <shelf name="nobel" count="16"/>
+      <shelf name="venice" count="15"/>
+      <shelf name="literary" count="15"/>
+      <shelf name="translated" count="14"/>
+      <shelf name="novellas" count="14"/>
+      <shelf name="modernism" count="14"/>
+      <shelf name="stories" count="13"/>
+      <shelf name="school" count="13"/>
+      <shelf name="queer" count="13"/>
+      <shelf name="novella" count="13"/>
+      <shelf name="classic-literature" count="13"/>
+      <shelf name="europe" count="12"/>
+      <shelf name="translations" count="12"/>
+      <shelf name="my-library" count="12"/>
+      <shelf name="gay" count="12"/>
+      <shelf name="european" count="12"/>
+      <shelf name="1001-books-you-must-read-before-you" count="12"/>
+      <shelf name="short" count="11"/>
+      <shelf name="classic-fiction" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="mann" count="10"/>
+      <shelf name="lit" count="10"/>
+      <shelf name="modern-classics" count="10"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="deutsch" count="9"/>
+      <shelf name="drama" count="9"/>
+      <shelf name="short-fiction" count="9"/>
+      <shelf name="glbt" count="9"/>
+      <shelf name="collection" count="9"/>
+      <shelf name="1910s" count="9"/>
+      <shelf name="lgbtq" count="9"/>
+      <shelf name="unread" count="8"/>
+      <shelf name="in-translation" count="8"/>
+      <shelf name="20th-century-literature" count="8"/>
+      <shelf name="nobel-laureates" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="european-lit" count="8"/>
+      <shelf name="book-club" count="8"/>
+      <shelf name="world-literature" count="8"/>
+      <shelf name="short-story-collections" count="8"/>
+      <shelf name="romance" count="7"/>
+      <shelf name="shorts" count="7"/>
+      <shelf name="modernist" count="7"/>
+      <shelf name="german-classics" count="7"/>
+      <shelf name="collections" count="7"/>
+      <shelf name="nobel-prize-winners" count="7"/>
+      <shelf name="to-read-fiction" count="7"/>
+      <shelf name="university" count="6"/>
+      <shelf name="modern" count="6"/>
+      <shelf name="german-fiction" count="6"/>
+      <shelf name="german-austrian" count="6"/>
+      <shelf name="general-fiction" count="6"/>
+      <shelf name="classic-lit" count="6"/>
+      <shelf name="adult-fiction" count="6"/>
+      <shelf name="1001-books-you-must-read" count="6"/>
+      <shelf name="short-stories-novellas" count="6"/>
+      <shelf name="lit-german" count="6"/>
+      <shelf name="penguin-classics" count="6"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="college" count="6"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="joseph-campbell-reading-list" count="5"/>
+      <shelf name="history" count="5"/>
+      <shelf name="finished" count="5"/>
+      <shelf name="thomas" count="5"/>
+      <shelf name="school-books" count="5"/>
+      <shelf name="philosophy" count="5"/>
+      <shelf name="shortstories" count="5"/>
+      <shelf name="modern-fiction" count="5"/>
+      <shelf name="literature-german" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>330264</id>
+<title><![CDATA[The Marquise of O— and Other Stories]]></title>
+<title_without_series><![CDATA[The Marquise of O— and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/330264.The_Marquise_of_O_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1289888018s/330264.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1289888018m/330264.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>320839</id>
+</work>
+<isbn>0140443592</isbn>
+<isbn13>9780140443592</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1575</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54427</id>
+<name>Heinrich von Kleist</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54427.Heinrich_von_Kleist]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69881</id>
+<title>The Stories of Heinrich Böll</title>
+<title_without_series>The Stories of Heinrich Böll</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69881.The_Stories_of_Heinrich_B_ll]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327230264s/69881.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327230264m/69881.jpg]]></image_url>
+<num_pages>690</num_pages>
+<work>
+<id>131445</id>
+</work>
+<isbn>0810112078</isbn>
+<isbn13>9780810112070</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>385</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>39326</id>
+<name>Heinrich Böll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39326.Heinrich_B_ll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>999513</id>
+<title>Simplicissimus</title>
+<title_without_series>Simplicissimus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/999513.Simplicissimus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349140020s/999513.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349140020m/999513.jpg]]></image_url>
+<num_pages>434</num_pages>
+<work>
+<id>1998527</id>
+</work>
+<isbn>1903517427</isbn>
+<isbn13>9781903517420</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>1453</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>348771</id>
+<name><![CDATA[Hans Jakob Christoffel von Grimmelshausen]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/348771.Hans_Jakob_Christoffel_von_Grimmelshausen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1147020</id>
+<title>Professor Unrat</title>
+<title_without_series>Professor Unrat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1147020.Professor_Unrat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1134476</id>
+</work>
+<isbn>3499100355</isbn>
+<isbn13>9783499100352</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>1856</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45710</id>
+<name>Heinrich Mann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45710.Heinrich_Mann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160313</id>
+<title>Selected Stories</title>
+<title_without_series>Selected Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160313.Selected_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320472249s/160313.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320472249m/160313.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>2360312</id>
+</work>
+<isbn>0940322986</isbn>
+<isbn13>9780940322981</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>1096</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>16073</id>
+<name>Robert Walser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16073.Robert_Walser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>775155</id>
+<title>The Flounder</title>
+<title_without_series>The Flounder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/775155.The_Flounder]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382942559s/775155.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382942559m/775155.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>1420991</id>
+</work>
+<isbn>0156319357</isbn>
+<isbn13>9780156319355</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>1206</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>749461</id>
+<name>Günter Grass</name>
+<link><![CDATA[https://www.goodreads.com/author/show/749461.G_nter_Grass]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>551454</id>
+<title>Tales of Hoffmann</title>
+<title_without_series>Tales of Hoffmann</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/551454.Tales_of_Hoffmann]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403507208s/551454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403507208m/551454.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>538695</id>
+</work>
+<isbn>0140443924</isbn>
+<isbn13>9780140443929</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1510</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>7267068</id>
+<name>E.T.A. Hoffmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7267068.E_T_A_Hoffmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29718</id>
+<title><![CDATA[The Confusions of Young Törless]]></title>
+<title_without_series><![CDATA[The Confusions of Young Törless]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29718.The_Confusions_of_Young_T_rless]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309376853s/29718.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309376853m/29718.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>836296</id>
+</work>
+<isbn>0142180009</isbn>
+<isbn13>9780142180006</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>4858</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16747</id>
+<name>Robert Musil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16747.Robert_Musil]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>93405</id>
+<title><![CDATA[The Notebooks of Malte Laurids Brigge]]></title>
+<title_without_series><![CDATA[The Notebooks of Malte Laurids Brigge]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/93405.The_Notebooks_of_Malte_Laurids_Brigge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>237</num_pages>
+<work>
+<id>314321</id>
+</work>
+<isbn>0393308812</isbn>
+<isbn13>9780393308815</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5310</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>7906</id>
+<name>Rainer Maria Rilke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7906.Rainer_Maria_Rilke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14707</id>
+<title>Faust, Part Two</title>
+<title_without_series>Faust, Part Two</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14707.Faust_Part_Two]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>21921961</id>
+</work>
+<isbn>0192836366</isbn>
+<isbn13>9780192836366</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>3606</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>285217</id>
+<name>Johann Wolfgang von Goethe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/285217.Johann_Wolfgang_von_Goethe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>238367</id>
+<title>The Sleepwalkers</title>
+<title_without_series>The Sleepwalkers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/238367.The_Sleepwalkers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>648</num_pages>
+<work>
+<id>363195</id>
+</work>
+<isbn>0679764062</isbn>
+<isbn13>9780679764069</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>950</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>15386</id>
+<name>Hermann Broch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15386.Hermann_Broch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>243381</id>
+<title>Berlin Alexanderplatz</title>
+<title_without_series>Berlin Alexanderplatz</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/243381.Berlin_Alexanderplatz]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298025058s/243381.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298025058m/243381.jpg]]></image_url>
+<num_pages>457</num_pages>
+<work>
+<id>1473268</id>
+</work>
+<isbn>3423002956</isbn>
+<isbn13>9783423002950</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4652</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45706</id>
+<name>Alfred Döblin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45706.Alfred_D_blin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>730376</id>
+<title>Vertigo</title>
+<title_without_series>Vertigo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/730376.Vertigo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>263</num_pages>
+<work>
+<id>17952092</id>
+</work>
+<isbn>0811214850</isbn>
+<isbn13>9780811214858</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>2772</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>6580622</id>
+<name>W.G. Sebald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6580622.W_G_Sebald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25737</id>
+<title><![CDATA[The Collected Stories of Isaac Bashevis Singer]]></title>
+<title_without_series><![CDATA[The Collected Stories of Isaac Bashevis Singer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25737.The_Collected_Stories_of_Isaac_Bashevis_Singer]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>26458</id>
+</work>
+<isbn>0374517886</isbn>
+<isbn13>9780374517885</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>1529</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14444</id>
+<name>Isaac Bashevis Singer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14444.Isaac_Bashevis_Singer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>287505</id>
+<title>The German Lesson</title>
+<title_without_series>The German Lesson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/287505.The_German_Lesson]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1353183560s/287505.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1353183560m/287505.jpg]]></image_url>
+<num_pages>470</num_pages>
+<work>
+<id>278937</id>
+</work>
+<isbn>0811209822</isbn>
+<isbn13>9780811209823</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1758</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>45787</id>
+<name>Siegfried Lenz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45787.Siegfried_Lenz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19235177</id>
+<title><![CDATA[Clarissa Harlowe; or the history of a young lady - Volume 1 (of 9)]]></title>
+<title_without_series><![CDATA[Clarissa Harlowe; or the history of a young lady - Volume 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19235177-clarissa-harlowe-or-the-history-of-a-young-lady---volume-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>36331593</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.23</average_rating>
+<ratings_count>104</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17505</id>
+<name>Samuel Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17505.Samuel_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>74186</id>
+<title>Man in the Holocene</title>
+<title_without_series>Man in the Holocene</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/74186.Man_in_the_Holocene]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1218643</id>
+</work>
+<isbn>0156569523</isbn>
+<isbn13>9780156569521</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>1093</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6530</id>
+<name>Max Frisch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6530.Max_Frisch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>310720</id>
+<title><![CDATA[White Walls: Collected Stories]]></title>
+<title_without_series><![CDATA[White Walls: Collected Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/310720.White_Walls]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320436277s/310720.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320436277m/310720.jpg]]></image_url>
+<num_pages>404</num_pages>
+<work>
+<id>301654</id>
+</work>
+<isbn>1590171977</isbn>
+<isbn13>9781590171974</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>348</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64625</id>
+<name>Tatyana Tolstaya</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64625.Tatyana_Tolstaya]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

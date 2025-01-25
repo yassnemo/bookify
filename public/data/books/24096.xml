@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24096</id>
+  <title>Leonardo&apos;s Notebooks</title>
+  <isbn><![CDATA[1579124577]]></isbn>
+  <isbn13><![CDATA[9781579124571]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0112OZ08Y]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Black Dog &amp; Leventhal</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>An all-new, jewel-like, reader-friendly format gives new life to this relaunch of an international best-seller.</b><br /><br /><br /><br />Leonardo da Vinci—artist, inventor, and prototypical Renaissance man—is a perennial source of fascination because of his astonishing intellect and boundless curiosity about the natural and man-made world. During his life he created numerous works of art and kept voluminous notebooks that detailed his artistic and intellectual pursuits.<br /><br /><br /><br />The collection of writings and art in this magnificent book are drawn from his notebooks. The book organizes his wide range of interests into subjects such as human figures, light and shade, perspective and visual perception, anatomy, botany and landscape, geography, the physical sciences and astronomy, architecture, sculpture, and inventions. Nearly every piece of writing throughout the book is keyed to the piece of artwork it describes.<br /><br /><br /><br />The writing and art is selected by art historian H. Anna Suh, who provides fascinating commentary and insight into the material, making <i>Leonardo's Notebooks</i> an exquisite single-volume compendium celebrating his enduring genius.]]></description>
+  <work>
+  <id type="integer">25010</id>
+  <books_count type="integer">82</books_count>
+  <best_book_id type="integer">24096</best_book_id>
+  <reviews_count type="integer">83996</reviews_count>
+  <ratings_sum type="integer">110412</ratings_sum>
+  <ratings_count type="integer">27828</ratings_count>
+  <text_reviews_count type="integer">114</text_reviews_count>
+  <original_publication_year type="integer">1519</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:12097|4:7482|3:5018|2:1714|1:1517|total:27828</rating_dist>
+  <desc_user_id type="integer">16125182</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.97</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[26649]]></ratings_count>
+  <text_reviews_count><![CDATA[69]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24096.Leonardo_s_Notebooks]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24096.Leonardo_s_Notebooks]]></link>
+  <authors>
+<author>
+<id>13560</id>
+<name>Leonardo da Vinci</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399080979p5/13560.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399080979p2/13560.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13560.Leonardo_da_Vinci]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>38611</ratings_count>
+<text_reviews_count>358</text_reviews_count>
+</author>
+<author>
+<id>13559</id>
+<name>H. Anna Suh</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13559.H_Anna_Suh]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>27016</ratings_count>
+<text_reviews_count>93</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24096.Leonardo_s_Notebooks">Leonardo&#39;s Notebooks Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1579124577&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/24096.Leonardo_s_Notebooks?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="57668"/>
+      <shelf name="currently-reading" count="380"/>
+      <shelf name="art" count="299"/>
+      <shelf name="non-fiction" count="147"/>
+      <shelf name="history" count="112"/>
+      <shelf name="science" count="66"/>
+      <shelf name="classics" count="65"/>
+      <shelf name="biography" count="42"/>
+      <shelf name="favorites" count="40"/>
+      <shelf name="nonfiction" count="40"/>
+      <shelf name="owned" count="33"/>
+      <shelf name="philosophy" count="31"/>
+      <shelf name="kindle" count="30"/>
+      <shelf name="reference" count="28"/>
+      <shelf name="art-history" count="26"/>
+      <shelf name="to-buy" count="25"/>
+      <shelf name="books-i-own" count="22"/>
+      <shelf name="art-books" count="17"/>
+      <shelf name="renaissance" count="15"/>
+      <shelf name="wish-list" count="14"/>
+      <shelf name="biographies" count="12"/>
+      <shelf name="italian" count="12"/>
+      <shelf name="classic" count="11"/>
+      <shelf name="italy" count="11"/>
+      <shelf name="creativity" count="10"/>
+      <shelf name="historical" count="8"/>
+      <shelf name="default" count="8"/>
+      <shelf name="library" count="8"/>
+      <shelf name="leonardo-da-vinci" count="8"/>
+      <shelf name="ebook" count="8"/>
+      <shelf name="memoir" count="7"/>
+      <shelf name="to-read-non-fiction" count="7"/>
+      <shelf name="drawing" count="7"/>
+      <shelf name="kindle-books" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="great-books" count="6"/>
+      <shelf name="leonardo" count="6"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="own-it" count="5"/>
+      <shelf name="classic-literature" count="5"/>
+      <shelf name="da-vinci" count="5"/>
+      <shelf name="amazon" count="5"/>
+      <shelf name="vinci" count="5"/>
+      <shelf name="biography-memoir" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="da" count="5"/>
+      <shelf name="unread" count="5"/>
+      <shelf name="technology" count="4"/>
+      <shelf name="academic" count="4"/>
+      <shelf name="arts" count="4"/>
+      <shelf name="unfinished" count="4"/>
+      <shelf name="art-and-design" count="4"/>
+      <shelf name="italian-literature" count="4"/>
+      <shelf name="notebooks" count="4"/>
+      <shelf name="must-read" count="4"/>
+      <shelf name="history-biography" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="e-books" count="4"/>
+      <shelf name="16th-century" count="4"/>
+      <shelf name="artist" count="4"/>
+      <shelf name="etc" count="4"/>
+      <shelf name="literature" count="4"/>
+      <shelf name="european" count="4"/>
+      <shelf name="general" count="4"/>
+      <shelf name="fiction" count="4"/>
+      <shelf name="paintings" count="4"/>
+      <shelf name="artists" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="archive" count="3"/>
+      <shelf name="owned-unread" count="3"/>
+      <shelf name="engineering" count="3"/>
+      <shelf name="own-to-read" count="3"/>
+      <shelf name="collection" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="oxford-world-s-classics" count="3"/>
+      <shelf name="1" count="3"/>
+      <shelf name="to-get" count="3"/>
+      <shelf name="memoirs" count="3"/>
+      <shelf name="art-architecture" count="3"/>
+      <shelf name="a" count="3"/>
+      <shelf name="european-literature" count="3"/>
+      <shelf name="miscellaneous" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="medieval" count="3"/>
+      <shelf name="drawings" count="3"/>
+      <shelf name="art-to-read" count="3"/>
+      <shelf name="sketchbooks" count="3"/>
+      <shelf name="knowledge" count="3"/>
+      <shelf name="calibre" count="3"/>
+      <shelf name="15th-century" count="3"/>
+      <shelf name="painters" count="3"/>
+      <shelf name="by" count="3"/>
+      <shelf name="monographs" count="3"/>
+      <shelf name="individual" count="3"/>
+      <shelf name="techniques" count="3"/>
+      <shelf name="1452-1519" count="3"/>
+      <shelf name="instruction" count="3"/>
+      <shelf name="general-non-fiction" count="3"/>
+      <shelf name="painting" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>557668</id>
+<title><![CDATA[Rembrandt, 1606-1669: The Mystery of the Revealed Form]]></title>
+<title_without_series><![CDATA[Rembrandt, 1606-1669: The Mystery of the Revealed Form]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/557668.Rembrandt_1606_1669]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>544849</id>
+</work>
+<isbn>3822863203</isbn>
+<isbn13>9783822863206</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>3497</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>187384</id>
+<name>Michael Bockemühl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/187384.Michael_Bockem_hl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7780</id>
+<title>The Secret Art of Dr. Seuss</title>
+<title_without_series>The Secret Art of Dr. Seuss</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7780.The_Secret_Art_of_Dr_Seuss]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320429156s/7780.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320429156m/7780.jpg]]></image_url>
+<num_pages>95</num_pages>
+<work>
+<id>10830</id>
+</work>
+<isbn>0679434488</isbn>
+<isbn13>9780679434481</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>8470</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40129</id>
+<title><![CDATA[Leonardo da Vinci: Flights of the Mind]]></title>
+<title_without_series><![CDATA[Leonardo da Vinci: Flights of the Mind]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40129.Leonardo_da_Vinci]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>502</num_pages>
+<work>
+<id>39815</id>
+</work>
+<isbn>0143036122</isbn>
+<isbn13>9780143036128</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1042</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>11158</id>
+<name>Charles Nicholl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11158.Charles_Nicholl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>56912</id>
+<title><![CDATA[The Judgment of Paris: The Revolutionary Decade That Gave the World Impressionism]]></title>
+<title_without_series><![CDATA[The Judgment of Paris: The Revolutionary Decade That Gave the World Impressionism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/56912.The_Judgment_of_Paris]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1283019</id>
+</work>
+<isbn>0802715168</isbn>
+<isbn13>9780802715166</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>10843</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26293</id>
+<name>Ross King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26293.Ross_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>364101</id>
+<title>ARh+</title>
+<title_without_series>ARh+</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/364101.ARh_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2935085</id>
+</work>
+<isbn>382289642X</isbn>
+<isbn13>9783822896426</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>5562</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>196979</id>
+<name>H.R. Giger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/196979.H_R_Giger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>360148</id>
+<title><![CDATA[History of Italian Renaissance Art: Painting, Sculpture, Architecture]]></title>
+<title_without_series><![CDATA[History of Italian Renaissance Art: Painting, Sculpture, Architecture]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/360148.History_of_Italian_Renaissance_Art]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>350264</id>
+</work>
+<isbn>0133920933</isbn>
+<isbn13>9780133920932</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>940</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>206146</id>
+<name>Frederick Hartt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/206146.Frederick_Hartt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10677213</id>
+<title>Van Gogh: The Life</title>
+<title_without_series>Van Gogh: The Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10677213-van-gogh]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411005913s/10677213.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411005913m/10677213.jpg]]></image_url>
+<num_pages>950</num_pages>
+<work>
+<id>15586908</id>
+</work>
+<isbn>0375507485</isbn>
+<isbn13>9780375507489</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>14029</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>89509</id>
+<name>Steven Naifeh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89509.Steven_Naifeh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>198511</id>
+<title>Dear Theo</title>
+<title_without_series>Dear Theo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/198511.Dear_Theo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>192026</id>
+</work>
+<isbn>0452275040</isbn>
+<isbn13>9780452275041</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>9769</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34583</id>
+<name>Vincent van Gogh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34583.Vincent_van_Gogh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>233389</id>
+<title>The Lives of the Artists</title>
+<title_without_series>The Lives of the Artists</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/233389.The_Lives_of_the_Artists]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>616</num_pages>
+<work>
+<id>790136</id>
+</work>
+<isbn>019283410X</isbn>
+<isbn13>9780192834102</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>18753</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>136635</id>
+<name>Giorgio Vasari</name>
+<link><![CDATA[https://www.goodreads.com/author/show/136635.Giorgio_Vasari]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32525</id>
+<title>Art Through the Ages </title>
+<title_without_series>Art Through the Ages</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32525.Art_Through_the_Ages]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1166071</id>
+</work>
+<isbn>0155050907</isbn>
+<isbn13>9780155050907</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>26208</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3927056</id>
+<name>Helen Gardner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3927056.Helen_Gardner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>373028</id>
+<title>Art in Renaissance Italy</title>
+<title_without_series>Art in Renaissance Italy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/373028.Art_in_Renaissance_Italy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1637817</id>
+</work>
+<isbn>1856694399</isbn>
+<isbn13>9781856694391</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>278</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>103326</id>
+<name>John T. Paoletti</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103326.John_T_Paoletti]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>207781</id>
+<title><![CDATA[The Art Spirit: Notes, Articles, Fragments of Letters and Talks to Students, Bearing on the Concept and Technique of Picture Making, the Study of Art (Icon Editions)]]></title>
+<title_without_series><![CDATA[The Art Spirit: Notes, Articles, Fragments of Letters and Talks to Students, Bearing on the Concept and Technique of Picture Making, the Study of Art]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/207781.The_Art_Spirit]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>284</num_pages>
+<work>
+<id>437807</id>
+</work>
+<isbn>0064301389</isbn>
+<isbn13>9780064301381</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>16569</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>112030</id>
+<name>Robert Henri</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112030.Robert_Henri]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>113834</id>
+<title>The Story of Painting</title>
+<title_without_series>The Story of Painting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/113834.The_Story_of_Painting]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355046716s/113834.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355046716m/113834.jpg]]></image_url>
+<num_pages>736</num_pages>
+<work>
+<id>109603</id>
+</work>
+<isbn>0789468050</isbn>
+<isbn13>9780789468055</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3385</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>65987</id>
+<name>Wendy Beckett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65987.Wendy_Beckett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3359595</id>
+<title><![CDATA[The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren]]></title>
+<title_without_series><![CDATA[The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3359595-the-man-who-made-vermeers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328834298s/3359595.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328834298m/3359595.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>3398780</id>
+</work>
+<isbn>0151013411</isbn>
+<isbn13>9780151013418</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>6198</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1418486</id>
+<name>Jonathan Lopez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1418486.Jonathan_Lopez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>400343</id>
+<title>Rembrandt&apos;s Eyes</title>
+<title_without_series>Rembrandt&apos;s Eyes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/400343.Rembrandt_s_Eyes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>768</num_pages>
+<work>
+<id>490764</id>
+</work>
+<isbn>0713993847</isbn>
+<isbn13>9780713993844</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>1915</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>695</id>
+<name>Simon Schama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/695.Simon_Schama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>245700</id>
+<title>The Art of Amy Brown</title>
+<title_without_series>The Art of Amy Brown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/245700.The_Art_of_Amy_Brown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328765892s/245700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328765892m/245700.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>238058</id>
+</work>
+<isbn>0974461229</isbn>
+<isbn13>9780974461229</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>8725</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88916</id>
+<name>Amy Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88916.Amy_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1239548</id>
+<title>Michelangelo</title>
+<title_without_series>Michelangelo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1239548.Michelangelo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>348</num_pages>
+<work>
+<id>1228213</id>
+</work>
+<isbn>0064301486</isbn>
+<isbn13>9780064301480</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>162</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>88343</id>
+<name>Howard Hibbard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88343.Howard_Hibbard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1347239</id>
+<title><![CDATA[Arcimboldo (Taschen Basic Art)]]></title>
+<title_without_series>Arcimboldo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1347239.Arcimboldo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1336888</id>
+</work>
+<isbn>3822896381</isbn>
+<isbn13>9783822896389</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1738</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>326369</id>
+<name>Werner Kriegeskorte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326369.Werner_Kriegeskorte]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

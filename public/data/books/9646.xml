@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9646</id>
+  <title>Homage to Catalonia</title>
+  <isbn><![CDATA[0156421178]]></isbn>
+  <isbn13><![CDATA[9780156421171]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B002RI9XHO]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1394868278m/9646.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1394868278s/9646.jpg</small_image_url>
+  <publication_year>1980</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>22</publication_day>
+  <publisher>Harcourt, Inc.(Harvest Book)</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In 1936 Orwell went to Spain to report on the Civil War and instead joined the fight against the Fascists. This famous account describes the war and Orwell’s experiences. Introduction by Lionel Trilling.]]></description>
+  <work>
+  <id type="integer">2566499</id>
+  <books_count type="integer">151</books_count>
+  <best_book_id type="integer">9646</best_book_id>
+  <reviews_count type="integer">54692</reviews_count>
+  <ratings_sum type="integer">107351</ratings_sum>
+  <ratings_count type="integer">25926</ratings_count>
+  <text_reviews_count type="integer">1501</text_reviews_count>
+  <original_publication_year type="integer">1938</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Homage to Catalonia</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10059|4:10542|3:4414|2:735|1:176|total:25926</rating_dist>
+  <desc_user_id type="integer">30347884</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.14</average_rating>
+  <num_pages><![CDATA[232]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[22259]]></ratings_count>
+  <text_reviews_count><![CDATA[1153]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9646.Homage_to_Catalonia]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9646.Homage_to_Catalonia]]></link>
+  <authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>4323863</ratings_count>
+<text_reviews_count>92422</text_reviews_count>
+</author>
+<author>
+<id>2116</id>
+<name>Lionel Trilling</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1333775687p5/2116.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1333775687p2/2116.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2116.Lionel_Trilling]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>23418</ratings_count>
+<text_reviews_count>1297</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9646.Homage_to_Catalonia">Homage to Catalonia Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0156421178&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/9646.Homage_to_Catalonia?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="23997"/>
+      <shelf name="currently-reading" count="1171"/>
+      <shelf name="history" count="899"/>
+      <shelf name="non-fiction" count="769"/>
+      <shelf name="favorites" count="308"/>
+      <shelf name="politics" count="281"/>
+      <shelf name="nonfiction" count="231"/>
+      <shelf name="war" count="210"/>
+      <shelf name="memoir" count="192"/>
+      <shelf name="biography" count="180"/>
+      <shelf name="spain" count="169"/>
+      <shelf name="classics" count="160"/>
+      <shelf name="fiction" count="124"/>
+      <shelf name="literature" count="87"/>
+      <shelf name="clàssics" count="83"/>
+      <shelf name="anarchism" count="82"/>
+      <shelf name="owned" count="78"/>
+      <shelf name="autobiography" count="77"/>
+      <shelf name="spanish-civil-war" count="72"/>
+      <shelf name="journalism" count="66"/>
+      <shelf name="travel" count="62"/>
+      <shelf name="orwell" count="58"/>
+      <shelf name="british" count="57"/>
+      <shelf name="memoirs" count="54"/>
+      <shelf name="george-orwell" count="49"/>
+      <shelf name="biography-memoir" count="48"/>
+      <shelf name="english" count="48"/>
+      <shelf name="20th-century" count="46"/>
+      <shelf name="to-buy" count="43"/>
+      <shelf name="classic" count="43"/>
+      <shelf name="historical" count="42"/>
+      <shelf name="europe" count="39"/>
+      <shelf name="books-i-own" count="37"/>
+      <shelf name="political" count="36"/>
+      <shelf name="default" count="33"/>
+      <shelf name="european-history" count="31"/>
+      <shelf name="novels" count="30"/>
+      <shelf name="favourites" count="30"/>
+      <shelf name="kindle" count="29"/>
+      <shelf name="military" count="27"/>
+      <shelf name="communism" count="26"/>
+      <shelf name="1930s" count="25"/>
+      <shelf name="owned-books" count="24"/>
+      <shelf name="library" count="24"/>
+      <shelf name="wish-list" count="24"/>
+      <shelf name="socialism" count="24"/>
+      <shelf name="english-literature" count="24"/>
+      <shelf name="memoir-biography" count="23"/>
+      <shelf name="british-literature" count="23"/>
+      <shelf name="audiobook" count="23"/>
+      <shelf name="to-read-non-fiction" count="18"/>
+      <shelf name="spanish" count="18"/>
+      <shelf name="biographies" count="17"/>
+      <shelf name="biographical" count="17"/>
+      <shelf name="audiobooks" count="16"/>
+      <shelf name="uk" count="16"/>
+      <shelf name="military-history" count="15"/>
+      <shelf name="england" count="14"/>
+      <shelf name="audio" count="13"/>
+      <shelf name="my-library" count="13"/>
+      <shelf name="historical-fiction" count="13"/>
+      <shelf name="unfinished" count="13"/>
+      <shelf name="barcelona" count="13"/>
+      <shelf name="modern-classics" count="13"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="anarchy" count="13"/>
+      <shelf name="classic-literature" count="12"/>
+      <shelf name="fascism" count="12"/>
+      <shelf name="to-read-nonfiction" count="12"/>
+      <shelf name="essays" count="12"/>
+      <shelf name="shelfari-favorites" count="11"/>
+      <shelf name="biography-autobiography" count="11"/>
+      <shelf name="world-history" count="11"/>
+      <shelf name="history-politics" count="11"/>
+      <shelf name="spanish-history" count="11"/>
+      <shelf name="lit" count="11"/>
+      <shelf name="autobiographical" count="11"/>
+      <shelf name="politica" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="reportage" count="10"/>
+      <shelf name="political-science" count="10"/>
+      <shelf name="favorite-books" count="10"/>
+      <shelf name="civil" count="10"/>
+      <shelf name="novel" count="10"/>
+      <shelf name="read-in-2016" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="home-library" count="9"/>
+      <shelf name="warfare" count="9"/>
+      <shelf name="revolution" count="9"/>
+      <shelf name="british-lit" count="9"/>
+      <shelf name="20th-century-history" count="9"/>
+      <shelf name="recommended" count="9"/>
+      <shelf name="next" count="8"/>
+      <shelf name="read-in-2014" count="8"/>
+      <shelf name="autobiography-memoir" count="8"/>
+      <shelf name="non-fic" count="8"/>
+      <shelf name="catalonia" count="8"/>
+      <shelf name="have" count="8"/>
+      <shelf name="non-fiction-to-read" count="8"/>
+      <shelf name="home" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>309382</id>
+<title>The Spanish Civil War</title>
+<title_without_series>The Spanish Civil War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/309382.The_Spanish_Civil_War]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1120</num_pages>
+<work>
+<id>3332058</id>
+</work>
+<isbn>0141011610</isbn>
+<isbn13>9780141011615</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>675</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>57922</id>
+<name>Hugh Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57922.Hugh_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42660</id>
+<title><![CDATA[The Battle for Spain: The Spanish Civil War 1936-1939]]></title>
+<title_without_series><![CDATA[The Battle for Spain: The Spanish Civil War 1936-1939]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42660.The_Battle_for_Spain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>1501340</id>
+</work>
+<isbn>014303765X</isbn>
+<isbn13>9780143037651</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>3149</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3407</id>
+<name>Antony Beevor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3407.Antony_Beevor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>781350</id>
+<title><![CDATA[The Spanish Civil War: Reaction, Revolution, and Revenge]]></title>
+<title_without_series><![CDATA[The Spanish Civil War: Reaction, Revolution, and Revenge]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/781350.The_Spanish_Civil_War]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>767371</id>
+</work>
+<isbn>0393329879</isbn>
+<isbn13>9780393329872</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>448</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>199757</id>
+<name>Paul Preston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/199757.Paul_Preston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>189954</id>
+<title>Memoirs of a Revolutionary</title>
+<title_without_series>Memoirs of a Revolutionary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/189954.Memoirs_of_a_Revolutionary]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>446</num_pages>
+<work>
+<id>183632</id>
+</work>
+<isbn>0877458278</isbn>
+<isbn13>9780877458272</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>399</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>45383</id>
+<name>Victor Serge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45383.Victor_Serge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>450577</id>
+<title><![CDATA[Free Women of Spain: Anarchism and the Struggle for the Emancipation of Women]]></title>
+<title_without_series><![CDATA[Free Women of Spain: Anarchism and the Struggle for the Emancipation of Women]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/450577.Free_Women_of_Spain]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328696865s/450577.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328696865m/450577.jpg]]></image_url>
+<num_pages>281</num_pages>
+<work>
+<id>439217</id>
+</work>
+<isbn>1902593960</isbn>
+<isbn13>9781902593968</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>222</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1464950</id>
+<name>Martha A. Ackelsberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1464950.Martha_A_Ackelsberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>312964</id>
+<title><![CDATA[The Spanish Anarchists: The Heroic Years 1868-1936]]></title>
+<title_without_series><![CDATA[The Spanish Anarchists: The Heroic Years 1868-1936]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/312964.The_Spanish_Anarchists]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328019413s/312964.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328019413m/312964.jpg]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>303864</id>
+</work>
+<isbn>187317604X</isbn>
+<isbn13>9781873176047</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>274</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>34299</id>
+<name>Murray Bookchin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34299.Murray_Bookchin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>51353</id>
+<title><![CDATA[Anarcho-Syndicalism: Theory and Practice]]></title>
+<title_without_series><![CDATA[Anarcho-Syndicalism: Theory and Practice]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/51353.Anarcho_Syndicalism]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>50117</id>
+</work>
+<isbn>1902593928</isbn>
+<isbn13>9781902593920</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>828</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>28903</id>
+<name>Rudolf Rocker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28903.Rudolf_Rocker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>880355</id>
+<title><![CDATA[Demanding the Impossible: A History of Anarchism]]></title>
+<title_without_series><![CDATA[Demanding the Impossible: A History of Anarchism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/880355.Demanding_the_Impossible]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>767</num_pages>
+<work>
+<id>865649</id>
+</work>
+<isbn>0006862454</isbn>
+<isbn13>9780006862451</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>735</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5244798</id>
+<name>Peter   Marshall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5244798.Peter_Marshall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1019332</id>
+<title><![CDATA[As I Walked Out One Midsummer Morning]]></title>
+<title_without_series><![CDATA[As I Walked Out One Midsummer Morning]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1019332.As_I_Walked_Out_One_Midsummer_Morning]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356443977s/1019332.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356443977m/1019332.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1005456</id>
+</work>
+<isbn>0140033181</isbn>
+<isbn13>9780140033182</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>3191</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>79787</id>
+<name>Laurie Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79787.Laurie_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>52042</id>
+<title>Ten Days that Shook the World</title>
+<title_without_series>Ten Days that Shook the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/52042.Ten_Days_that_Shook_the_World]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328863932s/52042.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328863932m/52042.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>3370836</id>
+</work>
+<isbn>0486452409</isbn>
+<isbn13>9780486452401</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>3162</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>29365</id>
+<name>John   Reed</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29365.John_Reed]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>61007</id>
+<title><![CDATA[No Gods No Masters: An Anthology of Anarchism]]></title>
+<title_without_series><![CDATA[No Gods No Masters: An Anthology of Anarchism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/61007.No_Gods_No_Masters]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328694317s/61007.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328694317m/61007.jpg]]></image_url>
+<num_pages>700</num_pages>
+<work>
+<id>59335</id>
+</work>
+<isbn>1904859259</isbn>
+<isbn13>9781904859253</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>466</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>237988</id>
+<name>Daniel Guérin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/237988.Daniel_Gu_rin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>855492</id>
+<title><![CDATA[Durruti in the Spanish Revolution]]></title>
+<title_without_series><![CDATA[Durruti in the Spanish Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/855492.Durruti_in_the_Spanish_Revolution]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328694334s/855492.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328694334m/855492.jpg]]></image_url>
+<num_pages>800</num_pages>
+<work>
+<id>840982</id>
+</work>
+<isbn>190485950X</isbn>
+<isbn13>9781904859505</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>126</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33564</id>
+<name>Abel Paz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33564.Abel_Paz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>51306</id>
+<title>Mutual Aid</title>
+<title_without_series>Mutual Aid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/51306.Mutual_Aid]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>236</num_pages>
+<work>
+<id>1635591</id>
+</work>
+<isbn>1426414595</isbn>
+<isbn13>9781426414596</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>1268</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>34296</id>
+<name>Pyotr Kropotkin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34296.Pyotr_Kropotkin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1368756</id>
+<title><![CDATA[Black Flame: The Revolutionary Class Politics of Anarchism and Syndicalism (Counter-Power vol 1)]]></title>
+<title_without_series><![CDATA[Black Flame: The Revolutionary Class Politics of Anarchism and Syndicalism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1368756.Black_Flame]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>395</num_pages>
+<work>
+<id>1358589</id>
+</work>
+<isbn>190485916X</isbn>
+<isbn13>9781904859161</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>195</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8280560</id>
+<name>Michael   Schmidt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8280560.Michael_Schmidt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>188378</id>
+<title>The Anatomy of Fascism</title>
+<title_without_series>The Anatomy of Fascism</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/188378.The_Anatomy_of_Fascism]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>182092</id>
+</work>
+<isbn>1400033918</isbn>
+<isbn13>9781400033911</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>979</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>109748</id>
+<name>Robert O. Paxton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/109748.Robert_O_Paxton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27699</id>
+<title>Living My Life, Vol. 2</title>
+<title_without_series>Living My Life, Vol. 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27699.Living_My_Life_Vol_2]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328865566s/27699.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328865566m/27699.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>15340500</id>
+</work>
+<isbn>0486225445</isbn>
+<isbn13>9780486225449</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>316</ratings_count>
+<publication_year>1970</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15591</id>
+<name>Emma Goldman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15591.Emma_Goldman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>694282</id>
+<title>To the Finland Station</title>
+<title_without_series>To the Finland Station</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/694282.To_the_Finland_Station]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320440378s/694282.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320440378m/694282.jpg]]></image_url>
+<num_pages>507</num_pages>
+<work>
+<id>428032</id>
+</work>
+<isbn>1590170334</isbn>
+<isbn13>9781590170335</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>912</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4173</id>
+<name>Edmund Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4173.Edmund_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30551</id>
+<title>Why Orwell Matters</title>
+<title_without_series>Why Orwell Matters</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30551.Why_Orwell_Matters]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413946593s/30551.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413946593m/30551.jpg]]></image_url>
+<num_pages>211</num_pages>
+<work>
+<id>30914</id>
+</work>
+<isbn>0465030505</isbn>
+<isbn13>9780465030507</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>2607</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>3956</id>
+<name>Christopher Hitchens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3956.Christopher_Hitchens]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

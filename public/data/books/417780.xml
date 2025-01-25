@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>417780</id>
+  <title><![CDATA[Why Mosquitoes Buzz in People's Ears]]></title>
+  <isbn><![CDATA[0140549056]]></isbn>
+  <isbn13><![CDATA[9780140549058]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1992</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Puffin Books</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["In this Caldecott Medal winner, Mosquito tells a story that causes a jungle disaster. "Elegance has become the Dillons' hallmark. . . . Matching the art is Aardema's uniquely onomatopoeic text . . . An impressive showpiece."<br /><i>-Booklist</i>, starred review.<br /><br /><b>Winner of Caldecott Medal in 1976 and the Brooklyn Art Books for Children Award in 1977.</b>]]></description>
+  <work>
+  <id type="integer">408381</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">417780</best_book_id>
+  <reviews_count type="integer">26000</reviews_count>
+  <ratings_sum type="integer">84947</ratings_sum>
+  <ratings_count type="integer">21192</ratings_count>
+  <text_reviews_count type="integer">1037</text_reviews_count>
+  <original_publication_year type="integer">1975</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Why Mosquitoes Buzz in People's Ears: A West African Tale</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8746|4:6195|3:4495|2:1196|1:560|total:21192</rating_dist>
+  <desc_user_id type="integer">-9</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.01</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[20651]]></ratings_count>
+  <text_reviews_count><![CDATA[916]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/417780.Why_Mosquitoes_Buzz_in_People_s_Ears]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/417780.Why_Mosquitoes_Buzz_in_People_s_Ears]]></link>
+  <authors>
+<author>
+<id>28558</id>
+<name>Verna Aardema</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1205347558p5/28558.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1205347558p2/28558.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28558.Verna_Aardema]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>24452</ratings_count>
+<text_reviews_count>1468</text_reviews_count>
+</author>
+<author>
+<id>135088</id>
+<name>Leo Dillon</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/135088.Leo_Dillon]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>33704</ratings_count>
+<text_reviews_count>2936</text_reviews_count>
+</author>
+<author>
+<id>236648</id>
+<name>Diane Dillon</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/236648.Diane_Dillon]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>33883</ratings_count>
+<text_reviews_count>2984</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/417780.Why_Mosquitoes_Buzz_in_People_s_Ears">Why Mosquitoes Buzz in People&#39;s Ears Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140549056&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/417780.Why_Mosquitoes_Buzz_in_People_s_Ears?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3373"/>
+      <shelf name="picture-books" count="439"/>
+      <shelf name="caldecott" count="212"/>
+      <shelf name="childrens" count="185"/>
+      <shelf name="children-s-books" count="175"/>
+      <shelf name="picture-book" count="165"/>
+      <shelf name="children" count="147"/>
+      <shelf name="children-s" count="124"/>
+      <shelf name="folklore" count="85"/>
+      <shelf name="africa" count="77"/>
+      <shelf name="animals" count="73"/>
+      <shelf name="fiction" count="69"/>
+      <shelf name="multicultural" count="66"/>
+      <shelf name="caldecott-winner" count="66"/>
+      <shelf name="currently-reading" count="63"/>
+      <shelf name="kids" count="62"/>
+      <shelf name="caldecott-medal" count="58"/>
+      <shelf name="childrens-books" count="57"/>
+      <shelf name="traditional-literature" count="49"/>
+      <shelf name="caldecott-winners" count="48"/>
+      <shelf name="children-s-literature" count="47"/>
+      <shelf name="kids-books" count="42"/>
+      <shelf name="fantasy" count="41"/>
+      <shelf name="folktale" count="38"/>
+      <shelf name="folktales" count="35"/>
+      <shelf name="caldecott-books" count="30"/>
+      <shelf name="favorites" count="29"/>
+      <shelf name="children-s-lit" count="27"/>
+      <shelf name="311-books" count="23"/>
+      <shelf name="caldecott-award" count="22"/>
+      <shelf name="childhood" count="22"/>
+      <shelf name="fairy-tales" count="21"/>
+      <shelf name="picturebooks" count="21"/>
+      <shelf name="children-s-picture-books" count="19"/>
+      <shelf name="classics" count="17"/>
+      <shelf name="folk-tales" count="17"/>
+      <shelf name="award-winners" count="17"/>
+      <shelf name="childrens-lit" count="17"/>
+      <shelf name="classroom-library" count="16"/>
+      <shelf name="default" count="15"/>
+      <shelf name="read-aloud" count="15"/>
+      <shelf name="childrens-picture-books" count="15"/>
+      <shelf name="traditional" count="14"/>
+      <shelf name="award-winning" count="14"/>
+      <shelf name="folk" count="14"/>
+      <shelf name="edci-311" count="13"/>
+      <shelf name="caldecotts" count="13"/>
+      <shelf name="caldecott-challenge" count="13"/>
+      <shelf name="childhood-favorites" count="13"/>
+      <shelf name="childrens-literature" count="13"/>
+      <shelf name="picture" count="13"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="01-folklore" count="12"/>
+      <shelf name="cause-and-effect" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="culture" count="12"/>
+      <shelf name="african" count="12"/>
+      <shelf name="juvenile" count="12"/>
+      <shelf name="children-s-book" count="12"/>
+      <shelf name="preschool" count="11"/>
+      <shelf name="children-books" count="11"/>
+      <shelf name="illustrated" count="10"/>
+      <shelf name="cultural" count="10"/>
+      <shelf name="caldecott-medal-winners" count="10"/>
+      <shelf name="insects" count="10"/>
+      <shelf name="caldecott-medal-winner" count="9"/>
+      <shelf name="traditional-lit" count="9"/>
+      <shelf name="caldecott-award-winners" count="9"/>
+      <shelf name="folk-tale" count="9"/>
+      <shelf name="2nd-grade" count="8"/>
+      <shelf name="kindergarten" count="8"/>
+      <shelf name="book-awards" count="8"/>
+      <shelf name="award-winner" count="8"/>
+      <shelf name="school" count="8"/>
+      <shelf name="multicultural-literature" count="8"/>
+      <shelf name="childhood-books" count="8"/>
+      <shelf name="level-n" count="7"/>
+      <shelf name="bugs" count="7"/>
+      <shelf name="fables" count="7"/>
+      <shelf name="kid-s-books" count="7"/>
+      <shelf name="read-alouds" count="7"/>
+      <shelf name="african-american" count="7"/>
+      <shelf name="classic" count="7"/>
+      <shelf name="nonfiction" count="7"/>
+      <shelf name="rdg-291" count="6"/>
+      <shelf name="1st-grade" count="6"/>
+      <shelf name="nature" count="6"/>
+      <shelf name="t-l-307" count="6"/>
+      <shelf name="illustrations" count="6"/>
+      <shelf name="realistic-fiction" count="6"/>
+      <shelf name="other-award" count="6"/>
+      <shelf name="children-literature" count="6"/>
+      <shelf name="onomatopoeia" count="6"/>
+      <shelf name="folk-and-fairy-tales" count="6"/>
+      <shelf name="kid-lit" count="6"/>
+      <shelf name="books-i-own" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="kid-books" count="6"/>
+      <shelf name="childrens-book" count="6"/>
+      <shelf name="book-selection" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>515324</id>
+<title><![CDATA[Ashanti to Zulu: African Traditions]]></title>
+<title_without_series><![CDATA[Ashanti to Zulu: African Traditions]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/515324.Ashanti_to_Zulu]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>503279</id>
+</work>
+<isbn>0140546049</isbn>
+<isbn13>9780140546040</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1962</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>286293</id>
+<name>Margaret Musgrove</name>
+<link><![CDATA[https://www.goodreads.com/author/show/286293.Margaret_Musgrove]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>950069</id>
+<title>A Story, a Story</title>
+<title_without_series>A Story, a Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/950069.A_Story_a_Story]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>578665</id>
+</work>
+<isbn>0689712014</isbn>
+<isbn13>9780689712012</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>2572</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>26332</id>
+<name>Gail E. Haley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26332.Gail_E_Haley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>630761</id>
+<title>Always Room for One More</title>
+<title_without_series>Always Room for One More</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/630761.Always_Room_for_One_More]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379150833s/630761.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379150833m/630761.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>146962</id>
+</work>
+<isbn>0805003304</isbn>
+<isbn13>9780805003307</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1466</ratings_count>
+<publication_year>1972</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>88021</id>
+<name>Sorche Nic Leodhas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88021.Sorche_Nic_Leodhas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>647669</id>
+<title>Arrow to the Sun</title>
+<title_without_series>Arrow to the Sun</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/647669.Arrow_to_the_Sun]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1240339</id>
+</work>
+<isbn>0140502114</isbn>
+<isbn13>9780140502114</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>4825</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>35271</id>
+<name>Gerald McDermott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35271.Gerald_McDermott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1166049</id>
+<title>Duffy and the Devil</title>
+<title_without_series>Duffy and the Devil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1166049.Duffy_and_the_Devil]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379150799s/1166049.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379150799m/1166049.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1153735</id>
+</work>
+<isbn>0374418977</isbn>
+<isbn13>9780374418977</isbn13>
+<average_rating>3.40</average_rating>
+<ratings_count>806</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>194227</id>
+<name>Harve Zemach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194227.Harve_Zemach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>925216</id>
+<title><![CDATA[Why the Sun and the Moon Live in the Sky]]></title>
+<title_without_series><![CDATA[Why the Sun and the Moon Live in the Sky]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/925216.Why_the_Sun_and_the_Moon_Live_in_the_Sky]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1440635</id>
+</work>
+<isbn>0395539633</isbn>
+<isbn13>9780395539637</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>576</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>472110</id>
+<name>Elphinstone Dayrell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/472110.Elphinstone_Dayrell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>197443</id>
+<title>Once a Mouse...</title>
+<title_without_series>Once a Mouse...</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/197443.Once_a_Mouse_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3232327</id>
+</work>
+<isbn>0689713436</isbn>
+<isbn13>9780689713439</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>2228</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>112477</id>
+<name>Marcia Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112477.Marcia_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1918702</id>
+<title><![CDATA[Lon Po Po: A Red-Riding Hood Story from China]]></title>
+<title_without_series><![CDATA[Lon Po Po: A Red-Riding Hood Story from China]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1918702.Lon_Po_Po]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1265127897s/1918702.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1265127897m/1918702.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>339327</id>
+</work>
+<isbn>0399216197</isbn>
+<isbn13>9780399216190</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>14554</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15420</id>
+<name>Ed Young</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15420.Ed_Young]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>845403</id>
+<title><![CDATA[Mufaro's Beautiful Daughters: An African Tale]]></title>
+<title_without_series><![CDATA[Mufaro's Beautiful Daughters: An African Tale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/845403.Mufaro_s_Beautiful_Daughters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>94898</id>
+</work>
+<isbn>0688040454</isbn>
+<isbn13>9780688040451</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>16702</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37260</id>
+<name>John Steptoe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37260.John_Steptoe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99791</id>
+<title>Golem</title>
+<title_without_series>Golem</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99791.Golem]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3028524</id>
+</work>
+<isbn>0395726182</isbn>
+<isbn13>9780395726181</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>3093</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>57508</id>
+<name>David Wisniewski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57508.David_Wisniewski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>616833</id>
+<title>Smoky Night</title>
+<title_without_series>Smoky Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/616833.Smoky_Night]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2513256</id>
+</work>
+<isbn>0152018840</isbn>
+<isbn13>9780152018849</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>6122</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19126</id>
+<name>Eve Bunting</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19126.Eve_Bunting]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>539082</id>
+<title><![CDATA[The Fool of the World and the Flying Ship]]></title>
+<title_without_series><![CDATA[The Fool of the World and the Flying Ship]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/539082.The_Fool_of_the_World_and_the_Flying_Ship]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311985010s/539082.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311985010m/539082.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>526470</id>
+</work>
+<isbn>0374424381</isbn>
+<isbn13>9780374424381</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1587</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72120</id>
+<name>Arthur Ransome</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72120.Arthur_Ransome]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1769580</id>
+<title>Frog Went a-Courtin&apos;</title>
+<title_without_series>Frog Went a-Courtin&apos;</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1769580.Frog_Went_a_Courtin_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>237478</id>
+</work>
+<isbn>0156339005</isbn>
+<isbn13>9780156339001</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>1771</ratings_count>
+<publication_year>1972</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>79274</id>
+<name>John Langstaff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79274.John_Langstaff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>225274</id>
+<title>Song and Dance Man</title>
+<title_without_series>Song and Dance Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/225274.Song_and_Dance_Man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2197412</id>
+</work>
+<isbn>0394893301</isbn>
+<isbn13>9780394893303</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>7840</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>131819</id>
+<name>Karen Ackerman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/131819.Karen_Ackerman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>242079</id>
+<title>Drummer Hoff</title>
+<title_without_series>Drummer Hoff</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/242079.Drummer_Hoff]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2258608</id>
+</work>
+<isbn>1416908331</isbn>
+<isbn13>9781416908333</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1999</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>606510</id>
+<name>Barbara Emberley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/606510.Barbara_Emberley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119297</id>
+<title><![CDATA[The Girl Who Loved Wild Horses]]></title>
+<title_without_series><![CDATA[The Girl Who Loved Wild Horses]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119297.The_Girl_Who_Loved_Wild_Horses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>114867</id>
+</work>
+<isbn>0689845049</isbn>
+<isbn13>9780689845048</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>8071</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5863</id>
+<name>Paul Goble</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5863.Paul_Goble]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>645090</id>
+<title>May I Bring a Friend?</title>
+<title_without_series>May I Bring a Friend?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/645090.May_I_Bring_a_Friend_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>631252</id>
+</work>
+<isbn>0689713533</isbn>
+<isbn13>9780689713538</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>4119</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>232179</id>
+<name>Beatrice Schenk De Regniers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232179.Beatrice_Schenk_De_Regniers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>278435</id>
+<title>The Funny Little Woman</title>
+<title_without_series>The Funny Little Woman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/278435.The_Funny_Little_Woman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>270054</id>
+</work>
+<isbn>0140547533</isbn>
+<isbn13>9780140547535</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>2941</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>2</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>46204</id>
+<name>Arlene Mosel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46204.Arlene_Mosel]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

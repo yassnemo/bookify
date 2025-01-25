@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12914</id>
+  <title>The Aeneid</title>
+  <isbn><![CDATA[0679729526]]></isbn>
+  <isbn13><![CDATA[9780679729525]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00LZYHSDC]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1990</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>16</publication_day>
+  <publisher>Vintage</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Aeneid (play /əˈniːɪd/; Latin: Aeneis [ajˈneːis]—the title is Greek in form: genitive case Aeneidos) is a Latin epic poem, written by Virgil from 29 to 19 BCE, that tells the legendary story of Aeneas, a Trojan who travelled to Italy, where he became the ancestor of the Romans. It is composed of roughly 10,000 lines in dactylic hexameter. The first six of the poem's twelve books tell the story of Aeneas's wanderings from Troy to Italy, and the poem's second half tells of the Trojans' ultimately victorious war upon the Latins, under whose name Aeneas and his Trojan followers are destined to be subsumed.<br /><br />The hero Aeneas was already known to Greco-Roman legend and myth, having been a character in the Iliad; Virgil took the disconnected tales of Aeneas' wanderings, his vague association with the foundation of Rome and a personage of no fixed characteristics other than a scrupulous piety, and fashioned this into a compelling founding myth or nationalist epic that at once tied Rome to the legends of Troy, glorified traditional Roman virtues and legitimized the Julio-Claudian dynasty as descendants of the founders, heroes and gods of Rome and Troy.<br /><br />The Aeneid can be divided into two halves based on the disparate subject matter of Books 1–6 (Aeneas' journey to Latium in Italy) and Books 7–12 (the war in Latium). These two halves are commonly regarded as reflecting Virgil's ambition to rival Homer by treating both the Odyssey's wandering theme and the Iliad's warfare themes.[1] This is, however, a rough correspondence, the limitations of which should be borne in mind]]></description>
+  <work>
+  <id type="integer">288738</id>
+  <books_count type="integer">830</books_count>
+  <best_book_id type="integer">12914</best_book_id>
+  <reviews_count type="integer">140518</reviews_count>
+  <ratings_sum type="integer">325294</ratings_sum>
+  <ratings_count type="integer">85412</ratings_count>
+  <text_reviews_count type="integer">1805</text_reviews_count>
+  <original_publication_year type="integer">-17</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Æneis</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:24813|4:28935|3:23694|2:6437|1:1533|total:85412</rating_dist>
+  <desc_user_id type="integer">885584</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[442]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[75100]]></ratings_count>
+  <text_reviews_count><![CDATA[906]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12914.The_Aeneid]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12914.The_Aeneid]]></link>
+  <authors>
+<author>
+<id>919</id>
+<name>Virgil</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1390671626p5/919.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1390671626p2/919.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/919.Virgil]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>93202</ratings_count>
+<text_reviews_count>2254</text_reviews_count>
+</author>
+<author>
+<id>573688</id>
+<name>Robert Fitzgerald</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/573688.Robert_Fitzgerald]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>140863</ratings_count>
+<text_reviews_count>3051</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12914.The_Aeneid">The Aeneid Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679729526&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/12914.The_Aeneid?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="42714"/>
+      <shelf name="classics" count="3276"/>
+      <shelf name="currently-reading" count="1806"/>
+      <shelf name="poetry" count="1572"/>
+      <shelf name="fiction" count="749"/>
+      <shelf name="mythology" count="534"/>
+      <shelf name="classic" count="406"/>
+      <shelf name="favorites" count="404"/>
+      <shelf name="owned" count="402"/>
+      <shelf name="literature" count="384"/>
+      <shelf name="history" count="254"/>
+      <shelf name="books-i-own" count="252"/>
+      <shelf name="school" count="197"/>
+      <shelf name="epic" count="179"/>
+      <shelf name="classical" count="138"/>
+      <shelf name="default" count="135"/>
+      <shelf name="ancient" count="126"/>
+      <shelf name="fantasy" count="122"/>
+      <shelf name="classic-literature" count="112"/>
+      <shelf name="read-for-school" count="104"/>
+      <shelf name="owned-books" count="104"/>
+      <shelf name="college" count="101"/>
+      <shelf name="roman" count="97"/>
+      <shelf name="latin" count="94"/>
+      <shelf name="historical-fiction" count="94"/>
+      <shelf name="antiquity" count="84"/>
+      <shelf name="clàssics" count="83"/>
+      <shelf name="epics" count="83"/>
+      <shelf name="epic-poetry" count="82"/>
+      <shelf name="rome" count="79"/>
+      <shelf name="ancient-rome" count="74"/>
+      <shelf name="my-library" count="72"/>
+      <shelf name="classical-literature" count="72"/>
+      <shelf name="library" count="68"/>
+      <shelf name="historical" count="67"/>
+      <shelf name="for-school" count="66"/>
+      <shelf name="war" count="57"/>
+      <shelf name="school-books" count="56"/>
+      <shelf name="adventure" count="56"/>
+      <shelf name="ancient-literature" count="52"/>
+      <shelf name="ancient-classics" count="49"/>
+      <shelf name="philosophy" count="49"/>
+      <shelf name="classical-studies" count="48"/>
+      <shelf name="italy" count="48"/>
+      <shelf name="ancient-history" count="47"/>
+      <shelf name="classics-to-read" count="45"/>
+      <shelf name="to-buy" count="45"/>
+      <shelf name="classic-lit" count="45"/>
+      <shelf name="my-books" count="41"/>
+      <shelf name="to-read-classics" count="41"/>
+      <shelf name="translated" count="40"/>
+      <shelf name="myth" count="40"/>
+      <shelf name="home-library" count="39"/>
+      <shelf name="high-school" count="39"/>
+      <shelf name="great-books" count="39"/>
+      <shelf name="unfinished" count="36"/>
+      <shelf name="translation" count="36"/>
+      <shelf name="university" count="35"/>
+      <shelf name="own-it" count="35"/>
+      <shelf name="kindle" count="32"/>
+      <shelf name="required-reading" count="32"/>
+      <shelf name="poesia" count="31"/>
+      <shelf name="favourites" count="31"/>
+      <shelf name="the-classics" count="31"/>
+      <shelf name="adult" count="28"/>
+      <shelf name="school-reads" count="28"/>
+      <shelf name="novels" count="28"/>
+      <shelf name="non-fiction" count="28"/>
+      <shelf name="greek" count="28"/>
+      <shelf name="greco-roman" count="28"/>
+      <shelf name="academic" count="27"/>
+      <shelf name="ancient-world" count="26"/>
+      <shelf name="lit" count="26"/>
+      <shelf name="partially-read" count="26"/>
+      <shelf name="i-own" count="26"/>
+      <shelf name="school-reading" count="25"/>
+      <shelf name="literary" count="25"/>
+      <shelf name="classical-antiquity" count="24"/>
+      <shelf name="roman-literature" count="24"/>
+      <shelf name="personal-library" count="24"/>
+      <shelf name="drama" count="24"/>
+      <shelf name="classic-fiction" count="24"/>
+      <shelf name="virgil" count="22"/>
+      <shelf name="translations" count="22"/>
+      <shelf name="plays" count="22"/>
+      <shelf name="bookshelf" count="21"/>
+      <shelf name="uni" count="20"/>
+      <shelf name="audio" count="20"/>
+      <shelf name="greek-mythology" count="20"/>
+      <shelf name="world-literature" count="20"/>
+      <shelf name="in-translation" count="20"/>
+      <shelf name="adult-fiction" count="20"/>
+      <shelf name="western-canon" count="19"/>
+      <shelf name="on-hold" count="18"/>
+      <shelf name="ancient-greece" count="18"/>
+      <shelf name="ebook" count="18"/>
+      <shelf name="latin-literature" count="18"/>
+      <shelf name="italian" count="18"/>
+      <shelf name="abandoned" count="17"/>
+      <shelf name="ebooks" count="17"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>3945</id>
+        <document_url>
+          http://feedbooks.com/book/3076.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>89220</id>
+<title>The Complete Poems</title>
+<title_without_series>The Complete Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/89220.The_Complete_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>195</num_pages>
+<work>
+<id>86110</id>
+</work>
+<isbn>0192835874</isbn>
+<isbn13>9780192835871</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>6865</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>51220</id>
+<name>Catullus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51220.Catullus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1519</id>
+<title><![CDATA[The Oresteia  (Ορέστεια, #1-3)]]></title>
+<title_without_series>The Oresteia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1519.The_Oresteia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391822282s/1519.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391822282m/1519.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>2378</id>
+</work>
+<isbn>0140443339</isbn>
+<isbn13>9780140443332</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>28193</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>990</id>
+<name>Aeschylus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/990.Aeschylus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>132873</id>
+<title>The Sixteen Satires</title>
+<title_without_series>The Sixteen Satires</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/132873.The_Sixteen_Satires]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1398897163s/132873.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1398897163m/132873.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>127998</id>
+</work>
+<isbn>0140447040</isbn>
+<isbn13>9780140447040</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1921</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>5838650</id>
+<name>Juvenal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5838650.Juvenal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2310219</id>
+<title>The Odes of Horace</title>
+<title_without_series>The Odes of Horace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2310219.The_Odes_of_Horace]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1428177262s/2310219.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1428177262m/2310219.jpg]]></image_url>
+<num_pages>343</num_pages>
+<work>
+<id>2316635</id>
+</work>
+<isbn>0374224250</isbn>
+<isbn13>9780374224257</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>542</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3341504</id>
+<name>Horace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3341504.Horace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1715</id>
+<title>Metamorphoses</title>
+<title_without_series>Metamorphoses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1715.Metamorphoses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>723</num_pages>
+<work>
+<id>2870411</id>
+</work>
+<isbn>014044789X</isbn>
+<isbn13>9780140447897</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>47980</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1127</id>
+<name>Ovid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1127.Ovid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>168214</id>
+<title>The Satyricon</title>
+<title_without_series>The Satyricon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/168214.The_Satyricon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>162443</id>
+</work>
+<isbn>0192839527</isbn>
+<isbn13>9780192839527</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>5264</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>7900823</id>
+<name>Petronius Arbiter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7900823.Petronius_Arbiter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>195769</id>
+<title><![CDATA[The Way Things Are: The De Rerum Natura]]></title>
+<title_without_series><![CDATA[The Way Things Are: The De Rerum Natura]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/195769.The_Way_Things_Are]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1383167169s/195769.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1383167169m/195769.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>189338</id>
+</work>
+<isbn>025320125X</isbn>
+<isbn13>9780253201256</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>8928</ratings_count>
+<publication_year>1968</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8143161</id>
+<name>Titus Lucretius Carus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8143161.Titus_Lucretius_Carus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>80081</id>
+<title>The Golden Ass</title>
+<title_without_series>The Golden Ass</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/80081.The_Golden_Ass]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327654203s/80081.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327654203m/80081.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1741202</id>
+</work>
+<isbn>0253200369</isbn>
+<isbn13>9780253200365</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>9301</ratings_count>
+<publication_year>1962</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7929831</id>
+<name>Apuleius</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7929831.Apuleius]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>168501</id>
+<title>Pharsalia: The Civil War</title>
+<title_without_series>Pharsalia: The Civil War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/168501.Pharsalia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411255307s/168501.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411255307m/168501.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>63349</id>
+</work>
+<isbn>0192839497</isbn>
+<isbn13>9780192839497</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>891</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>134043</id>
+<name>Marcus Annaeus Lucanus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134043.Marcus_Annaeus_Lucanus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>68542</id>
+<title><![CDATA[The Early History of Rome: (The History of Rome, #1-5)]]></title>
+<title_without_series>The Early History of Rome:</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/68542.The_Early_History_of_Rome]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311645504s/68542.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311645504m/68542.jpg]]></image_url>
+<num_pages>488</num_pages>
+<work>
+<id>323201</id>
+</work>
+<isbn>0140448098</isbn>
+<isbn13>9780140448092</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>6628</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>14577687</id>
+<name>Livy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14577687.Livy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1463</id>
+<title><![CDATA[Euripides V: Electra / The Phoenician Women / The Bacchae]]></title>
+<title_without_series><![CDATA[Euripides V: Electra / The Phoenician Women / The Bacchae]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1463.Euripides_V]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>227</num_pages>
+<work>
+<id>6286528</id>
+</work>
+<isbn>0226307840</isbn>
+<isbn13>9780226307848</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>3090</ratings_count>
+<publication_year>1969</publication_year>
+<publication_month>1</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>973</id>
+<name>Euripides</name>
+<link><![CDATA[https://www.goodreads.com/author/show/973.Euripides]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27418</id>
+<title>Theogony/Works and Days</title>
+<title_without_series>Theogony/Works and Days</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27418.Theogony_Works_and_Days]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>79</num_pages>
+<work>
+<id>2241338</id>
+</work>
+<isbn>0192839411</isbn>
+<isbn13>9780192839411</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>8861</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>1691</id>
+<name>Hesiod</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1691.Hesiod]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>757383</id>
+<title>The Portable Dante</title>
+<title_without_series>The Portable Dante</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/757383.The_Portable_Dante]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>654</num_pages>
+<work>
+<id>743496</id>
+</work>
+<isbn>0140231145</isbn>
+<isbn13>9780140231144</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>827</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5031312</id>
+<name>Dante Alighieri</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031312.Dante_Alighieri]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>448718</id>
+<title>The Annals of Imperial Rome</title>
+<title_without_series>The Annals of Imperial Rome</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/448718.The_Annals_of_Imperial_Rome]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1283909422s/448718.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1283909422m/448718.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1746266</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>6452</ratings_count>
+<publication_year>1959</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2936846</id>
+<name>Tacitus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2936846.Tacitus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>235719</id>
+<title>Poems and Fragments</title>
+<title_without_series>Poems and Fragments</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/235719.Poems_and_Fragments]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>68</num_pages>
+<work>
+<id>1456006</id>
+</work>
+<isbn>0872205916</isbn>
+<isbn13>9780872205918</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>2020</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59712</id>
+<name>Sappho</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59712.Sappho]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>242296</id>
+<title>Frogs and Other Plays</title>
+<title_without_series>Frogs and Other Plays</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/242296.Frogs_and_Other_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>236</num_pages>
+<work>
+<id>234728</id>
+</work>
+<isbn>0140449698</isbn>
+<isbn13>9780140449693</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>657</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1011</id>
+<name>Aristophanes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1011.Aristophanes]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

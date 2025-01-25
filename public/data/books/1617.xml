@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>1617</id>
+  <title>Night (The Night Trilogy #1)</title>
+  <isbn><![CDATA[0374500010]]></isbn>
+  <isbn13><![CDATA[9780374500016]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B007TQ9PK4]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1473495285m/1617.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1473495285s/1617.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Night</i> is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps. This new translation by Marion Wiesel, Elie's wife and frequent translator, presents this seminal memoir in the language and spirit truest to the author's original intent. And in a substantive new preface, Elie reflects on the enduring importance of Night and his lifelong, passionate dedication to ensuring that the world never forgets man's capacity for inhumanity to man.<br /><br /><i>Night</i> offers much more than a litany of the daily terrors, everyday perversions, and rampant sadism at Auschwitz and Buchenwald; it also eloquently addresses many of the philosophical as well as personal questions implicit in any serious consideration of what the Holocaust was, what it meant, and what its legacy is and will be.]]></description>
+  <work>
+  <id type="integer">265616</id>
+  <books_count type="integer">109</books_count>
+  <best_book_id type="integer">1617</best_book_id>
+  <reviews_count type="integer">992398</reviews_count>
+  <ratings_sum type="integer">3043952</ratings_sum>
+  <ratings_count type="integer">708469</ratings_count>
+  <text_reviews_count type="integer">22013</text_reviews_count>
+  <original_publication_year type="integer">1958</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Un di Velt Hot Geshvign</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:361123|4:230396|3:90626|2:18551|1:7773|total:708469</rating_dist>
+  <desc_user_id type="integer">5433361</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.30</average_rating>
+  <num_pages><![CDATA[120]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[First Printing Edition]]></edition_information>
+  <ratings_count><![CDATA[691791]]></ratings_count>
+  <text_reviews_count><![CDATA[20491]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/1617.Night]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/1617.Night]]></link>
+  <authors>
+<author>
+<id>1049</id>
+<name>Elie Wiesel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p5/1049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1255518412p2/1049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>745977</ratings_count>
+<text_reviews_count>25291</text_reviews_count>
+</author>
+<author>
+<id>329396</id>
+<name>Marion Wiesel</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/329396.Marion_Wiesel]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>702649</ratings_count>
+<text_reviews_count>21312</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/1617.Night">Night Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374500010&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/1617.Night?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="51054"/>
+      <shelf name="non-fiction" count="5705"/>
+      <shelf name="currently-reading" count="4704"/>
+      <shelf name="favorites" count="3917"/>
+      <shelf name="classics" count="3905"/>
+      <shelf name="history" count="2936"/>
+      <shelf name="nonfiction" count="2742"/>
+      <shelf name="school" count="1229"/>
+      <shelf name="historical" count="1088"/>
+      <shelf name="memoirs" count="951"/>
+      <shelf name="books-i-own" count="895"/>
+      <shelf name="fiction" count="772"/>
+      <shelf name="wwii" count="716"/>
+      <shelf name="owned" count="709"/>
+      <shelf name="historical-fiction" count="662"/>
+      <shelf name="read-for-school" count="637"/>
+      <shelf name="classic" count="605"/>
+      <shelf name="autobiography" count="580"/>
+      <shelf name="memoir" count="440"/>
+      <shelf name="for-school" count="438"/>
+      <shelf name="school-books" count="415"/>
+      <shelf name="literature" count="412"/>
+      <shelf name="biography-memoir" count="401"/>
+      <shelf name="world-war-ii" count="374"/>
+      <shelf name="high-school" count="359"/>
+      <shelf name="young-adult" count="315"/>
+      <shelf name="adult" count="313"/>
+      <shelf name="jewish" count="310"/>
+      <shelf name="book-club" count="298"/>
+      <shelf name="series" count="292"/>
+      <shelf name="ww2" count="271"/>
+      <shelf name="biographies" count="263"/>
+      <shelf name="biography" count="253"/>
+      <shelf name="to-buy" count="242"/>
+      <shelf name="owned-books" count="239"/>
+      <shelf name="library" count="236"/>
+      <shelf name="memoir-biography" count="208"/>
+      <shelf name="world-war-2" count="198"/>
+      <shelf name="school-reads" count="191"/>
+      <shelf name="holocaust" count="187"/>
+      <shelf name="re-read" count="175"/>
+      <shelf name="rory-gilmore-reading-challenge" count="158"/>
+      <shelf name="europe" count="155"/>
+      <shelf name="school-reading" count="155"/>
+      <shelf name="audiobook" count="154"/>
+      <shelf name="favourites" count="150"/>
+      <shelf name="religion" count="146"/>
+      <shelf name="my-library" count="146"/>
+      <shelf name="required-reading" count="143"/>
+      <shelf name="all-time-favorites" count="143"/>
+      <shelf name="read-in-school" count="135"/>
+      <shelf name="my-books" count="133"/>
+      <shelf name="judaism" count="133"/>
+      <shelf name="war" count="131"/>
+      <shelf name="default" count="129"/>
+      <shelf name="novels" count="128"/>
+      <shelf name="survival" count="123"/>
+      <shelf name="read-in-2016" count="122"/>
+      <shelf name="favorite-books" count="120"/>
+      <shelf name="audiobooks" count="111"/>
+      <shelf name="i-own" count="110"/>
+      <shelf name="ya" count="107"/>
+      <shelf name="5-stars" count="105"/>
+      <shelf name="biographies-memoirs" count="103"/>
+      <shelf name="biography-autobiography" count="102"/>
+      <shelf name="biographical" count="99"/>
+      <shelf name="wish-list" count="99"/>
+      <shelf name="oprah-s-book-club" count="98"/>
+      <shelf name="kindle" count="97"/>
+      <shelf name="to-re-read" count="96"/>
+      <shelf name="oprah" count="94"/>
+      <shelf name="shelfari-favorites" count="92"/>
+      <shelf name="germany" count="91"/>
+      <shelf name="genocide" count="90"/>
+      <shelf name="audio" count="90"/>
+      <shelf name="rory-gilmore-challenge" count="89"/>
+      <shelf name="autobiography-memoir" count="89"/>
+      <shelf name="own-it" count="88"/>
+      <shelf name="middle-school" count="85"/>
+      <shelf name="elie-wiesel" count="82"/>
+      <shelf name="read-in-2014" count="81"/>
+      <shelf name="bio" count="81"/>
+      <shelf name="read-in-2015" count="80"/>
+      <shelf name="made-me-cry" count="80"/>
+      <shelf name="books" count="79"/>
+      <shelf name="night" count="76"/>
+      <shelf name="classic-literature" count="76"/>
+      <shelf name="books-for-school" count="76"/>
+      <shelf name="horror" count="75"/>
+      <shelf name="bio-memoir" count="75"/>
+      <shelf name="read-in-2017" count="73"/>
+      <shelf name="rory-gilmore" count="73"/>
+      <shelf name="read-again" count="71"/>
+      <shelf name="death" count="70"/>
+      <shelf name="historical-non-fiction" count="70"/>
+      <shelf name="my-favorites" count="70"/>
+      <shelf name="contemporary" count="69"/>
+      <shelf name="reread" count="69"/>
+      <shelf name="read-in-2013" count="68"/>
+      <shelf name="philosophy" count="68"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>187331</id>
+<user_position>1</user_position>
+<series>
+<id>50228</id>
+<title>
+<![CDATA[
+    The Night Trilogy
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>494320</id>
+<title><![CDATA[In My Hands: Memories of a Holocaust Rescuer]]></title>
+<title_without_series><![CDATA[In My Hands: Memories of a Holocaust Rescuer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/494320.In_My_Hands]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320440794s/494320.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320440794m/494320.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1246600</id>
+</work>
+<isbn>0553494112</isbn>
+<isbn13>9780553494112</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>9662</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6285503</id>
+<name>Irene Gut Opdyke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6285503.Irene_Gut_Opdyke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>163363</id>
+<title>All But My Life: A Memoir</title>
+<title_without_series>All But My Life: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/163363.All_But_My_Life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316131452s/163363.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316131452m/163363.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1526762</id>
+</work>
+<isbn>0809015803</isbn>
+<isbn13>9780809015801</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>14120</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>94775</id>
+<name>Gerda Weissmann Klein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94775.Gerda_Weissmann_Klein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>112286</id>
+<title><![CDATA[The Lost: A Search for Six of Six Million]]></title>
+<title_without_series><![CDATA[The Lost: A Search for Six of Six Million]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/112286.The_Lost]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>3140269</id>
+</work>
+<isbn>0060542977</isbn>
+<isbn13>9780060542979</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>4139</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>6225</id>
+<name>Daniel Mendelsohn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6225.Daniel_Mendelsohn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5984399</id>
+<title><![CDATA[A Lucky Child: A Memoir of Surviving Auschwitz as a Young Boy]]></title>
+<title_without_series><![CDATA[A Lucky Child: A Memoir of Surviving Auschwitz as a Young Boy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5984399-a-lucky-child]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344270699s/5984399.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344270699m/5984399.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6158087</id>
+</work>
+<isbn>0316043400</isbn>
+<isbn13>9780316043403</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>6471</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>50110</id>
+<name>Thomas Buergenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50110.Thomas_Buergenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>178991</id>
+<title><![CDATA[...I never saw another butterfly...]]></title>
+<title_without_series><![CDATA[...I never saw another butterfly...]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/178991._I_never_saw_another_butterfly_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320534916s/178991.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320534916m/178991.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>172923</id>
+</work>
+<isbn>0805210156</isbn>
+<isbn13>9780805210156</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>1925</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>104293</id>
+<name>Hana Volavková</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104293.Hana_Volavkov_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>228244</id>
+<title><![CDATA[This Way for the Gas, Ladies and Gentlemen]]></title>
+<title_without_series><![CDATA[This Way for the Gas, Ladies and Gentlemen]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/228244.This_Way_for_the_Gas_Ladies_and_Gentlemen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1361813564s/228244.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1361813564m/228244.jpg]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>221052</id>
+</work>
+<isbn>0140186247</isbn>
+<isbn13>9780140186246</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>5156</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>11</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>133522</id>
+<name>Tadeusz Borowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/133522.Tadeusz_Borowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15197</id>
+<title><![CDATA[Maus II: A Survivor's Tale: And Here My Troubles Began (Maus, #2)]]></title>
+<title_without_series><![CDATA[Maus II: A Survivor's Tale: And Here My Troubles Began]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15197.Maus_II]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327887479s/15197.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327887479m/15197.jpg]]></image_url>
+<num_pages>136</num_pages>
+<work>
+<id>1782551</id>
+</work>
+<isbn>0679729771</isbn>
+<isbn13>9780679729778</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>91369</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5117</id>
+<name>Art Spiegelman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5117.Art_Spiegelman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1371745</id>
+<title>Thanks to My Mother</title>
+<title_without_series>Thanks to My Mother</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1371745.Thanks_to_My_Mother]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1361606</id>
+</work>
+<isbn>0141305967</isbn>
+<isbn13>9780141305967</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1887</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>651011</id>
+<name>Schoschana Rabinovici</name>
+<link><![CDATA[https://www.goodreads.com/author/show/651011.Schoschana_Rabinovici]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>647492</id>
+<title><![CDATA[Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland]]></title>
+<title_without_series><![CDATA[Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/647492.Ordinary_Men]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387867571s/647492.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387867571m/647492.jpg]]></image_url>
+<num_pages>271</num_pages>
+<work>
+<id>633637</id>
+</work>
+<isbn>0060995068</isbn>
+<isbn13>9780060995065</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>6883</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>99126</id>
+<name>Christopher R. Browning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99126.Christopher_R_Browning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>268306</id>
+<title><![CDATA[Four Perfect Pebbles: A Holocaust Story]]></title>
+<title_without_series><![CDATA[Four Perfect Pebbles: A Holocaust Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/268306.Four_Perfect_Pebbles]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>260102</id>
+</work>
+<isbn>0380731886</isbn>
+<isbn13>9780380731886</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>4193</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>26643</id>
+<name>Lila Perl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26643.Lila_Perl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6648391</id>
+<title><![CDATA[Surviving the Angel of Death: The Story of a Mengele Twin in Auschwitz]]></title>
+<title_without_series><![CDATA[Surviving the Angel of Death: The Story of a Mengele Twin in Auschwitz]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6648391-surviving-the-angel-of-death]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355050095s/6648391.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355050095m/6648391.jpg]]></image_url>
+<num_pages>141</num_pages>
+<work>
+<id>6842947</id>
+</work>
+<isbn>1933718285</isbn>
+<isbn13>9781933718286</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>2512</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>194846</id>
+<name>Eva Mozes Kor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194846.Eva_Mozes_Kor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>263919</id>
+<title>The Cage</title>
+<title_without_series>The Cage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/263919.The_Cage]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>1150022</id>
+</work>
+<isbn>068981321X</isbn>
+<isbn13>9780689813214</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>4678</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>154108</id>
+<name>Ruth Minsky Sender</name>
+<link><![CDATA[https://www.goodreads.com/author/show/154108.Ruth_Minsky_Sender]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>133782</id>
+<title><![CDATA[The Sunflower: On the Possibilities and Limits of Forgiveness]]></title>
+<title_without_series><![CDATA[The Sunflower: On the Possibilities and Limits of Forgiveness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/133782.The_Sunflower]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1430167762s/133782.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1430167762m/133782.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>128877</id>
+</work>
+<isbn>0805210601</isbn>
+<isbn13>9780805210606</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>5814</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>77190</id>
+<name>Simon Wiesenthal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77190.Simon_Wiesenthal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>428223</id>
+<title><![CDATA[The Invisible Wall: A Love Story That Broke Barriers]]></title>
+<title_without_series><![CDATA[The Invisible Wall: A Love Story That Broke Barriers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/428223.The_Invisible_Wall]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>297</num_pages>
+<work>
+<id>2989134</id>
+</work>
+<isbn>0345495802</isbn>
+<isbn13>9780345495808</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>10814</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>241371</id>
+<name>Harry Bernstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/241371.Harry_Bernstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6176</id>
+<title>The Drowned and the Saved</title>
+<title_without_series>The Drowned and the Saved</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6176.The_Drowned_and_the_Saved]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>170</num_pages>
+<work>
+<id>1427999</id>
+</work>
+<isbn>0349100470</isbn>
+<isbn13>9780349100470</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3891</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4187</id>
+<name>Primo Levi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4187.Primo_Levi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1070138</id>
+<title><![CDATA[The Good Old Days: The Holocaust as Seen by Its Perpetrators and Bystanders]]></title>
+<title_without_series><![CDATA[The Good Old Days: The Holocaust as Seen by Its Perpetrators and Bystanders]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1070138.The_Good_Old_Days]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1056818</id>
+</work>
+<isbn>1568521332</isbn>
+<isbn13>9781568521336</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>437</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>329831</id>
+<name>Ernst Klee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/329831.Ernst_Klee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73698</id>
+<title><![CDATA[Neighbors: The Destruction of the Jewish Community in Jedwabne, Poland]]></title>
+<title_without_series><![CDATA[Neighbors: The Destruction of the Jewish Community in Jedwabne, Poland]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73698.Neighbors]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>71317</id>
+</work>
+<isbn>0142002402</isbn>
+<isbn13>9780142002407</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1632</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>115926</id>
+<name>Jan Tomasz Gross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/115926.Jan_Tomasz_Gross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>48834</id>
+<title>I Have Lived a Thousand Years</title>
+<title_without_series>I Have Lived a Thousand Years</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/48834.I_Have_Lived_a_Thousand_Years]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>234</num_pages>
+<work>
+<id>194624</id>
+</work>
+<isbn>0689823959</isbn>
+<isbn13>9780689823954</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>16419</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>27420</id>
+<name>Livia E. Bitton-Jackson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27420.Livia_E_Bitton_Jackson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

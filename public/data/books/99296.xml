@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>99296</id>
+  <title>Diary of a Worm</title>
+  <isbn><![CDATA[006000150X]]></isbn>
+  <isbn13><![CDATA[9780060001506]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>14</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This is the diary . . . of a worm. Surprisingly, a worm not that different from you or me: He lives with his parents, plays with his friends, and even goes to school. But unlike you or me, he never has to take a bath, he gets to eat his homework, and because he doesn't have legs, he just can't do the hokey pokey -- no matter how hard he tries. Oh, and his head looks a lot like his rear end.<p><br /><br />Doreen Cronin, the <i>New York Times</i> best-selling author of <i>Click, Clack, Moo</i> and <i>Giggle, Giggle, Quack</i>, teams up with illustrator Harry Bliss for this hysterical journal about the daily doings and the hidden world of a lovable underground dweller.</p>]]></description>
+  <work>
+  <id type="integer">301388</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">99296</best_book_id>
+  <reviews_count type="integer">27638</reviews_count>
+  <ratings_sum type="integer">98310</ratings_sum>
+  <ratings_count type="integer">23437</ratings_count>
+  <text_reviews_count type="integer">691</text_reviews_count>
+  <original_publication_year type="integer">1996</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Diary of a Worm</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11514|4:6603|3:4010|2:988|1:322|total:23437</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.19</average_rating>
+  <num_pages><![CDATA[40]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[23334]]></ratings_count>
+  <text_reviews_count><![CDATA[670]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/99296.Diary_of_a_Worm]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/99296.Diary_of_a_Worm]]></link>
+  <authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272642080p5/3162.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272642080p2/3162.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>157017</ratings_count>
+<text_reviews_count>7115</text_reviews_count>
+</author>
+<author>
+<id>1068076</id>
+<name>Harry Bliss</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272994820p5/1068076.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272994820p2/1068076.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1068076.Harry_Bliss]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>42045</ratings_count>
+<text_reviews_count>2514</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/99296.Diary_of_a_Worm">Diary of a Worm Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=006000150X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/99296.Diary_of_a_Worm?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3101"/>
+      <shelf name="picture-books" count="531"/>
+      <shelf name="childrens" count="184"/>
+      <shelf name="children-s-books" count="178"/>
+      <shelf name="picture-book" count="132"/>
+      <shelf name="children-s" count="107"/>
+      <shelf name="children" count="106"/>
+      <shelf name="kids" count="79"/>
+      <shelf name="childrens-books" count="78"/>
+      <shelf name="humor" count="75"/>
+      <shelf name="fiction" count="57"/>
+      <shelf name="kids-books" count="56"/>
+      <shelf name="animals" count="54"/>
+      <shelf name="currently-reading" count="53"/>
+      <shelf name="science" count="46"/>
+      <shelf name="favorites" count="44"/>
+      <shelf name="children-s-literature" count="41"/>
+      <shelf name="fantasy" count="37"/>
+      <shelf name="children-s-lit" count="30"/>
+      <shelf name="children-s-picture-books" count="30"/>
+      <shelf name="children-books" count="26"/>
+      <shelf name="02-fantasy" count="25"/>
+      <shelf name="funny" count="25"/>
+      <shelf name="picturebooks" count="24"/>
+      <shelf name="bugs" count="20"/>
+      <shelf name="worms" count="18"/>
+      <shelf name="kid-books" count="18"/>
+      <shelf name="default" count="17"/>
+      <shelf name="diary" count="17"/>
+      <shelf name="read-aloud" count="17"/>
+      <shelf name="writing" count="16"/>
+      <shelf name="childhood" count="15"/>
+      <shelf name="childrens-picture-books" count="15"/>
+      <shelf name="nature" count="14"/>
+      <shelf name="school" count="14"/>
+      <shelf name="picture" count="14"/>
+      <shelf name="insects" count="13"/>
+      <shelf name="doreen-cronin" count="13"/>
+      <shelf name="friendship" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="classroom-books" count="12"/>
+      <shelf name="childrens-lit" count="12"/>
+      <shelf name="juvenile" count="12"/>
+      <shelf name="owned" count="11"/>
+      <shelf name="kid-lit" count="11"/>
+      <shelf name="kindergarten" count="10"/>
+      <shelf name="ece-3601" count="10"/>
+      <shelf name="classroom" count="10"/>
+      <shelf name="classroom-library" count="10"/>
+      <shelf name="family" count="9"/>
+      <shelf name="storytime" count="9"/>
+      <shelf name="1st-grade" count="9"/>
+      <shelf name="edrd-314" count="8"/>
+      <shelf name="childhood-books" count="8"/>
+      <shelf name="story-time" count="8"/>
+      <shelf name="childrensbooks" count="8"/>
+      <shelf name="read-alouds" count="8"/>
+      <shelf name="format-picture-book" count="7"/>
+      <shelf name="2nd-grade" count="7"/>
+      <shelf name="preschool" count="7"/>
+      <shelf name="children-s-book" count="7"/>
+      <shelf name="elementary" count="7"/>
+      <shelf name="humorous" count="7"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="favorite-picture-books" count="7"/>
+      <shelf name="311" count="6"/>
+      <shelf name="children-s-picture-book" count="6"/>
+      <shelf name="children-s-books-read" count="6"/>
+      <shelf name="series" count="6"/>
+      <shelf name="comedy" count="6"/>
+      <shelf name="mentor-texts" count="6"/>
+      <shelf name="kids-picture-books" count="6"/>
+      <shelf name="picture-books-read" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="for-the-kids" count="6"/>
+      <shelf name="childrens-literature" count="6"/>
+      <shelf name="shelfari-favorites" count="5"/>
+      <shelf name="adventure" count="5"/>
+      <shelf name="contemporary-fiction" count="5"/>
+      <shelf name="childrens-picture-book" count="5"/>
+      <shelf name="modern-fantasy" count="5"/>
+      <shelf name="friends" count="5"/>
+      <shelf name="children-s-fiction" count="5"/>
+      <shelf name="picture-books-fiction" count="5"/>
+      <shelf name="childrens-fiction" count="5"/>
+      <shelf name="childhood-favorites" count="5"/>
+      <shelf name="favorite-childrens-books" count="5"/>
+      <shelf name="el-230" count="4"/>
+      <shelf name="emma" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="23-writing" count="4"/>
+      <shelf name="march" count="4"/>
+      <shelf name="bugs-insects" count="4"/>
+      <shelf name="g-fantasy" count="4"/>
+      <shelf name="my-childhood" count="4"/>
+      <shelf name="home" count="4"/>
+      <shelf name="mentor-text" count="4"/>
+      <shelf name="concept-book" count="4"/>
+      <shelf name="childhood-memories" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>358919</id>
+<user_position></user_position>
+<series>
+<id>76889</id>
+<title>
+<![CDATA[
+    Diary of a...
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>889744</id>
+<title><![CDATA[Dear Mrs. LaRue: Letters from Obedience School]]></title>
+<title_without_series><![CDATA[Dear Mrs. LaRue: Letters from Obedience School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/889744.Dear_Mrs_LaRue]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328869236s/889744.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328869236m/889744.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>614921</id>
+</work>
+<isbn>0439206634</isbn>
+<isbn13>9780439206631</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>7146</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>46994</id>
+<name>Mark Teague</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46994.Mark_Teague]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>197513</id>
+<title><![CDATA[Edwina, The Dinosaur Who Didn't Know She Was Extinct]]></title>
+<title_without_series><![CDATA[Edwina, The Dinosaur Who Didn't Know She Was Extinct]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/197513.Edwina_The_Dinosaur_Who_Didn_t_Know_She_Was_Extinct]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1278431048s/197513.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1278431048m/197513.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>191053</id>
+</work>
+<isbn>0786837489</isbn>
+<isbn13>9780786837489</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4815</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>888779</id>
+<title>Wiggling Worms at Work</title>
+<title_without_series>Wiggling Worms at Work</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/888779.Wiggling_Worms_at_Work]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>874028</id>
+</work>
+<isbn>0064451992</isbn>
+<isbn13>9780064451994</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>137</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>12</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>79354</id>
+<name>Wendy Pfeffer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79354.Wendy_Pfeffer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>562763</id>
+<title><![CDATA[Scaredy Squirrel (Scaredy Squirrel)]]></title>
+<title_without_series>Scaredy Squirrel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/562763.Scaredy_Squirrel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>549907</id>
+</work>
+<isbn>1553379594</isbn>
+<isbn13>9781553379591</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>12017</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>308542</id>
+<name>Mélanie Watt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/308542.M_lanie_Watt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1342905</id>
+<title>Froggy&apos;s Baby Sister</title>
+<title_without_series>Froggy&apos;s Baby Sister</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1342905.Froggy_s_Baby_Sister]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309210228s/1342905.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309210228m/1342905.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3017849</id>
+</work>
+<isbn>0142403423</isbn>
+<isbn13>9780142403426</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>443</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>39781</id>
+<name>Jonathan London</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39781.Jonathan_London]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>667169</id>
+<title>The Great Fuzz Frenzy</title>
+<title_without_series>The Great Fuzz Frenzy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/667169.The_Great_Fuzz_Frenzy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328877022s/667169.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328877022m/667169.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>653218</id>
+</work>
+<isbn>0152046267</isbn>
+<isbn13>9780152046262</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>2837</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>22372</id>
+<name>Janet Stevens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22372.Janet_Stevens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7746175</id>
+<title>Yucky Worms</title>
+<title_without_series>Yucky Worms</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7746175-yucky-worms]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320539597s/7746175.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320539597m/7746175.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>10571696</id>
+</work>
+<isbn>0763644463</isbn>
+<isbn13>9780763644468</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>443</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>32157</id>
+<name>Vivian French</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32157.Vivian_French]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1197646</id>
+<title>Parts (Parts, #1)</title>
+<title_without_series>Parts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1197646.Parts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2988563</id>
+</work>
+<isbn>0140565337</isbn>
+<isbn13>9780140565331</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>10776</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11446</id>
+<name>Tedd Arnold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11446.Tedd_Arnold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3375373</id>
+<title>Too Many Toys</title>
+<title_without_series>Too Many Toys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3375373-too-many-toys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328844373s/3375373.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328844373m/3375373.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3414908</id>
+</work>
+<isbn>0439490294</isbn>
+<isbn13>9780439490290</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>3688</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21346</id>
+<name>David Shannon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21346.David_Shannon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>858514</id>
+<title>Wemberly Worried</title>
+<title_without_series>Wemberly Worried</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/858514.Wemberly_Worried]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415584914s/858514.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415584914m/858514.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1705201</id>
+</work>
+<isbn>0688170277</isbn>
+<isbn13>9780688170271</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>14507</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3071614</id>
+<title>Michael Recycle</title>
+<title_without_series>Michael Recycle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3071614-michael-recycle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3102634</id>
+</work>
+<isbn>1600102247</isbn>
+<isbn13>9781600102240</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>258</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1315220</id>
+<name>Ellie Bethel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1315220.Ellie_Bethel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1297810</id>
+<title>I Stink!</title>
+<title_without_series>I Stink!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1297810.I_Stink_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>816631</id>
+</work>
+<isbn>0060298480</isbn>
+<isbn13>9780060298487</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>4086</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>6986</id>
+<name>Kate McMullan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6986.Kate_McMullan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>961711</id>
+<title>I Wanna Iguana</title>
+<title_without_series>I Wanna Iguana</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/961711.I_Wanna_Iguana]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309204840s/961711.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309204840m/961711.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>946612</id>
+</work>
+<isbn>0399237178</isbn>
+<isbn13>9780399237171</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>4658</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>482062</id>
+<name>Karen Kaufman Orloff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/482062.Karen_Kaufman_Orloff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>819667</id>
+<title>Snowmen at Night</title>
+<title_without_series>Snowmen at Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/819667.Snowmen_at_Night]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1215900</id>
+</work>
+<isbn>0803725507</isbn>
+<isbn13>9780803725508</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>15861</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>307885</id>
+<name>Caralyn Buehner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/307885.Caralyn_Buehner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18005</id>
+<title>How I Became a Pirate</title>
+<title_without_series>How I Became a Pirate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18005.How_I_Became_a_Pirate]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>1878218</id>
+</work>
+<isbn>0152018484</isbn>
+<isbn13>9780152018481</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>21620</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10899</id>
+<name>Melinda Long</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10899.Melinda_Long]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3308834</id>
+<title>Bats at the Library</title>
+<title_without_series>Bats at the Library</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3308834-bats-at-the-library]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1279029016s/3308834.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1279029016m/3308834.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3346049</id>
+</work>
+<isbn>061899923X</isbn>
+<isbn13>9780618999231</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>4193</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>77079</id>
+<name>Brian Lies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77079.Brian_Lies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1158184</id>
+<title><![CDATA[Dear Deer: A Book of Homophones]]></title>
+<title_without_series><![CDATA[Dear Deer: A Book of Homophones]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1158184.Dear_Deer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317064683s/1158184.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317064683m/1158184.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1145783</id>
+</work>
+<isbn>0805081046</isbn>
+<isbn13>9780805081046</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1317</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>73492</id>
+<name>Gene Barretta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73492.Gene_Barretta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244115</id>
+<title><![CDATA[Skippyjon Jones in Mummy Trouble (Skippyjon Jones, #3)]]></title>
+<title_without_series><![CDATA[Skippyjon Jones in Mummy Trouble]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244115.Skippyjon_Jones_in_Mummy_Trouble]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2264278</id>
+</work>
+<isbn>0525477543</isbn>
+<isbn13>9780525477549</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>11317</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>78407</id>
+<name>Judy Schachner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78407.Judy_Schachner]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

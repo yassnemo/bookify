@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>366522</id>
+  <title>P.S. I Love You</title>
+  <isbn><![CDATA[0786890754]]></isbn>
+  <isbn13><![CDATA[9780786890750]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B002SZAU1Y]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Hachette Books</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<p>A novel about holding on, letting go, and learning to love again.</p><p>Now in paperback, the endearing novel that captured readers' hearts and introduced a fresh new voice in women's fiction Cecelia Ahern.</p> <p>Holly couldn't live without her husband Gerry, until the day she had to. They were the kind of young couple who could finish each other's sentences. When Gerry succumbs to a terminal illness and dies, 30-year-old Holly is set adrift, unable to pick up the pieces. But with the help of a series of letters her husband left her before he died and a little nudging from an eccentric assortment of family and friends, she learns to laugh, overcome her fears, and discover a world she never knew existed.</p> <p>The kind of enchanting novel with cross-generational appeal that comes along once in a great while, <i>PS, I Love You</i> is a captivating love letter to the world!</p>]]></description>
+  <work>
+  <id type="integer">2742631</id>
+  <books_count type="integer">165</books_count>
+  <best_book_id type="integer">366522</best_book_id>
+  <reviews_count type="integer">441957</reviews_count>
+  <ratings_sum type="integer">1136676</ratings_sum>
+  <ratings_count type="integer">283587</ratings_count>
+  <text_reviews_count type="integer">7074</text_reviews_count>
+  <original_publication_year type="integer">2003</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>PS, I Love You</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:113081|4:90158|3:56974|2:16343|1:7031|total:283587</rating_dist>
+  <desc_user_id type="integer">35151003</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.01</average_rating>
+  <num_pages><![CDATA[470]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[263079]]></ratings_count>
+  <text_reviews_count><![CDATA[5156]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/366522.P_S_I_Love_You]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/366522.P_S_I_Love_You]]></link>
+  <authors>
+<author>
+<id>7116</id>
+<name>Cecelia Ahern</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p5/7116.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p2/7116.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7116.Cecelia_Ahern]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>581751</ratings_count>
+<text_reviews_count>34112</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/366522.P_S_I_Love_You">P.S. I Love You Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0786890754&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/366522.P_S_I_Love_You?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="141161"/>
+      <shelf name="currently-reading" count="2592"/>
+      <shelf name="romance" count="1800"/>
+      <shelf name="chick-lit" count="1666"/>
+      <shelf name="favorites" count="1292"/>
+      <shelf name="fiction" count="993"/>
+      <shelf name="books-i-own" count="637"/>
+      <shelf name="owned" count="424"/>
+      <shelf name="contemporary" count="372"/>
+      <shelf name="chicklit" count="213"/>
+      <shelf name="adult" count="201"/>
+      <shelf name="cecelia-ahern" count="190"/>
+      <shelf name="owned-books" count="173"/>
+      <shelf name="favourites" count="172"/>
+      <shelf name="contemporary-romance" count="142"/>
+      <shelf name="love" count="137"/>
+      <shelf name="my-books" count="134"/>
+      <shelf name="chic-lit" count="128"/>
+      <shelf name="drama" count="126"/>
+      <shelf name="adult-fiction" count="122"/>
+      <shelf name="default" count="100"/>
+      <shelf name="i-own" count="100"/>
+      <shelf name="to-buy" count="98"/>
+      <shelf name="ireland" count="94"/>
+      <shelf name="library" count="91"/>
+      <shelf name="movies" count="84"/>
+      <shelf name="made-me-cry" count="75"/>
+      <shelf name="novels" count="67"/>
+      <shelf name="contemporary-fiction" count="66"/>
+      <shelf name="contempor​ary" count="65"/>
+      <shelf name="my-library" count="64"/>
+      <shelf name="book-club" count="64"/>
+      <shelf name="english" count="64"/>
+      <shelf name="movie" count="63"/>
+      <shelf name="general-fiction" count="57"/>
+      <shelf name="kindle" count="56"/>
+      <shelf name="romantic" count="55"/>
+      <shelf name="ebooks" count="54"/>
+      <shelf name="book-to-movie" count="53"/>
+      <shelf name="borrowed" count="52"/>
+      <shelf name="novel" count="52"/>
+      <shelf name="favorite" count="50"/>
+      <shelf name="death" count="49"/>
+      <shelf name="tear-jerker" count="49"/>
+      <shelf name="ebook" count="46"/>
+      <shelf name="wish-list" count="46"/>
+      <shelf name="young-adult" count="46"/>
+      <shelf name="realistic-fiction" count="45"/>
+      <shelf name="stand-alone" count="45"/>
+      <shelf name="love-stories" count="45"/>
+      <shelf name="books" count="44"/>
+      <shelf name="irish" count="44"/>
+      <shelf name="love-story" count="43"/>
+      <shelf name="5-stars" count="43"/>
+      <shelf name="grief" count="41"/>
+      <shelf name="shelfari-favorites" count="40"/>
+      <shelf name="audiobook" count="39"/>
+      <shelf name="own-it" count="38"/>
+      <shelf name="have" count="34"/>
+      <shelf name="read-in-2011" count="33"/>
+      <shelf name="cecilia-ahern" count="32"/>
+      <shelf name="sub" count="31"/>
+      <shelf name="bookshelf" count="31"/>
+      <shelf name="favorite-books" count="31"/>
+      <shelf name="humor" count="31"/>
+      <shelf name="maybe" count="30"/>
+      <shelf name="on-my-shelf" count="30"/>
+      <shelf name="mine" count="30"/>
+      <shelf name="books-to-movies" count="30"/>
+      <shelf name="womens-fiction" count="29"/>
+      <shelf name="e-book" count="29"/>
+      <shelf name="read-in-2008" count="29"/>
+      <shelf name="standalone" count="28"/>
+      <shelf name="read-in-2014" count="27"/>
+      <shelf name="paperback" count="27"/>
+      <shelf name="e-books" count="27"/>
+      <shelf name="books-i-have" count="27"/>
+      <shelf name="girly" count="27"/>
+      <shelf name="on-my-bookshelf" count="27"/>
+      <shelf name="did-not-finish" count="27"/>
+      <shelf name="seen-the-movie" count="26"/>
+      <shelf name="audiobooks" count="26"/>
+      <shelf name="all-time-favorites" count="26"/>
+      <shelf name="read-in-2016" count="25"/>
+      <shelf name="favourite-books" count="25"/>
+      <shelf name="unfinished" count="25"/>
+      <shelf name="read-in-english" count="25"/>
+      <shelf name="tbr" count="25"/>
+      <shelf name="faves" count="25"/>
+      <shelf name="4-stars" count="24"/>
+      <shelf name="roman" count="23"/>
+      <shelf name="friendship" count="23"/>
+      <shelf name="read-in-2009" count="23"/>
+      <shelf name="finished" count="23"/>
+      <shelf name="family" count="23"/>
+      <shelf name="read-in-2015" count="22"/>
+      <shelf name="stand-alones" count="22"/>
+      <shelf name="my-bookshelf" count="22"/>
+      <shelf name="tear-jerkers" count="22"/>
+      <shelf name="dnf" count="22"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1617875</id>
+<title>My Best Friend&apos;s Girl</title>
+<title_without_series>My Best Friend&apos;s Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1617875.My_Best_Friend_s_Girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1363730538s/1617875.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1363730538m/1617875.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>701268</id>
+</work>
+<isbn>0385341326</isbn>
+<isbn13>9780385341325</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>17080</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>38651</id>
+<name>Dorothy Koomson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38651.Dorothy_Koomson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>165030</id>
+<title><![CDATA[Anybody Out There? (Walsh Family, #4)]]></title>
+<title_without_series>Anybody Out There?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/165030.Anybody_Out_There_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358594290s/165030.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358594290m/165030.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1568693</id>
+</work>
+<isbn>0061240850</isbn>
+<isbn13>9780061240850</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>47719</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6104</id>
+<name>Marian Keyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6104.Marian_Keyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>82449</id>
+<title>Best of Friends</title>
+<title_without_series>Best of Friends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/82449.Best_of_Friends]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>1462717</id>
+</work>
+<isbn>0743490258</isbn>
+<isbn13>9780743490252</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>2050</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12952</id>
+<name>Cathy Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12952.Cathy_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1032295</id>
+<title>Lucy in the Sky</title>
+<title_without_series>Lucy in the Sky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1032295.Lucy_in_the_Sky]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328707137s/1032295.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328707137m/1032295.jpg]]></image_url>
+<num_pages>390</num_pages>
+<work>
+<id>1018573</id>
+</work>
+<isbn>1847390439</isbn>
+<isbn13>9781847390431</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>5987</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>515155</id>
+<name>Paige Toon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/515155.Paige_Toon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>652183</id>
+<title>Going Home</title>
+<title_without_series>Going Home</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/652183.Going_Home]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2165387</id>
+</work>
+<isbn>1416503951</isbn>
+<isbn13>9781416503958</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>2711</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>292599</id>
+<name>Harriet Evans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292599.Harriet_Evans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7537072</id>
+<title>I Heart Paris (I Heart, #3)</title>
+<title_without_series>I Heart Paris</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7537072-i-heart-paris]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1279480650s/7537072.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1279480650m/7537072.jpg]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>9796474</id>
+</work>
+<isbn>0007357265</isbn>
+<isbn13>9780007357260</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>8568</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>2824597</id>
+<name>Lindsey Kelk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2824597.Lindsey_Kelk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42005</id>
+<title>Miranda&apos;s Big Mistake</title>
+<title_without_series>Miranda&apos;s Big Mistake</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42005.Miranda_s_Big_Mistake]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>475</num_pages>
+<work>
+<id>2998928</id>
+</work>
+<isbn>0747261318</isbn>
+<isbn13>9780747261315</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>6942</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>23625</id>
+<name>Jill Mansell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23625.Jill_Mansell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>442961</id>
+<title>Stately Pursuits</title>
+<title_without_series>Stately Pursuits</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/442961.Stately_Pursuits]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320396847s/442961.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320396847m/442961.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>2841965</id>
+</work>
+<isbn>0099446685</isbn>
+<isbn13>9780099446682</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>3248</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>86097</id>
+<name>Katie Fforde</name>
+<link><![CDATA[https://www.goodreads.com/author/show/86097.Katie_Fforde]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>241846</id>
+<title>A Girl&apos;s Best Friend</title>
+<title_without_series>A Girl&apos;s Best Friend</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/241846.A_Girl_s_Best_Friend]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>2750082</id>
+</work>
+<isbn>0060562773</isbn>
+<isbn13>9780060562779</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>1801</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>73067</id>
+<name>Elizabeth Young</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73067.Elizabeth_Young]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>351711</id>
+<title>The Chocolate Lovers&apos; Club</title>
+<title_without_series>The Chocolate Lovers&apos; Club</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/351711.The_Chocolate_Lovers_Club]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1276965034s/351711.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1276965034m/351711.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>341941</id>
+</work>
+<isbn>0755335821</isbn>
+<isbn13>9780755335824</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>4630</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>120535</id>
+<name>Carole Matthews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/120535.Carole_Matthews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2477825</id>
+<title>The Ten Best Days of My Life</title>
+<title_without_series>The Ten Best Days of My Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2477825.The_Ten_Best_Days_of_My_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>2485025</id>
+</work>
+<isbn>0452289408</isbn>
+<isbn13>9780452289406</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>1303</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>128849</id>
+<name>Adena Halpern</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128849.Adena_Halpern]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1998200</id>
+<title>Pack Up the Moon</title>
+<title_without_series>Pack Up the Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1998200.Pack_Up_the_Moon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356491737s/1998200.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356491737m/1998200.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2001994</id>
+</work>
+<isbn>1842232533</isbn>
+<isbn13>9781842232538</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2091</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>762121</id>
+<name>Anna McPartlin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/762121.Anna_McPartlin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>835155</id>
+<title>See Jane Date</title>
+<title_without_series>See Jane Date</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/835155.See_Jane_Date]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>283</num_pages>
+<work>
+<id>124782</id>
+</work>
+<isbn>0373250118</isbn>
+<isbn13>9780373250110</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>9434</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>74506</id>
+<name>Melissa Senate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74506.Melissa_Senate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>604599</id>
+<title>From Here to Maternity</title>
+<title_without_series>From Here to Maternity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/604599.From_Here_to_Maternity]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1416766511s/604599.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1416766511m/604599.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>1206333</id>
+</work>
+<isbn>1844880680</isbn>
+<isbn13>9781844880683</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>580</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>749455</id>
+<name>Sinéad Moriarty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/749455.Sin_ad_Moriarty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>905885</id>
+<title>Be Careful What You Wish For</title>
+<title_without_series>Be Careful What You Wish For</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/905885.Be_Careful_What_You_Wish_For]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415581652s/905885.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415581652m/905885.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>891031</id>
+</work>
+<isbn>0340841125</isbn>
+<isbn13>9780340841129</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>13644</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>292656</id>
+<name>Alexandra Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292656.Alexandra_Potter]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

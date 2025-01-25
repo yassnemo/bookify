@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>5695</id>
+  <title>Demons</title>
+  <isbn><![CDATA[0679734511]]></isbn>
+  <isbn13><![CDATA[9780679734512]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B06Y29F7L2]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1386958613m/5695.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1386958613s/5695.jpg</small_image_url>
+  <publication_year>1995</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Vintage</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Inspired by the true story of a political murder that horrified Russians in 1869, Fyodor Dostoevsky conceived of Demons as a "novel-pamphlet" in which he would say everything about the plague of materialist ideology that he saw infecting his native land. What emerged was a prophetic and ferociously funny masterpiece of ideology and murder in pre-revolutionary Russia.<br />~penguinrandomhouse.com]]></description>
+  <work>
+  <id type="integer">1487216</id>
+  <books_count type="integer">455</books_count>
+  <best_book_id type="integer">5695</best_book_id>
+  <reviews_count type="integer">75555</reviews_count>
+  <ratings_sum type="integer">109714</ratings_sum>
+  <ratings_count type="integer">25785</ratings_count>
+  <text_reviews_count type="integer">958</text_reviews_count>
+  <original_publication_year type="integer">1872</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Бесы</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:12710|4:8302|3:3691|2:801|1:281|total:25785</rating_dist>
+  <desc_user_id type="integer">2766374</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[768]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[20640]]></ratings_count>
+  <text_reviews_count><![CDATA[545]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/5695.Demons]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/5695.Demons]]></link>
+  <authors>
+<author>
+<id>3137322</id>
+<name>Fyodor Dostoyevsky</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489064524p5/3137322.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489064524p2/3137322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>1021521</ratings_count>
+<text_reviews_count>40898</text_reviews_count>
+</author>
+<author>
+<id>3357</id>
+<name>Richard Pevear</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560792p5/3357.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560792p2/3357.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3357.Richard_Pevear]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>304485</ratings_count>
+<text_reviews_count>14735</text_reviews_count>
+</author>
+<author>
+<id>3358</id>
+<name>Larissa Volokhonsky</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560740p5/3358.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560740p2/3358.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3358.Larissa_Volokhonsky]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>301426</ratings_count>
+<text_reviews_count>14441</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/5695.Demons">Demons Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679734511&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/5695.Demons?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3492"/>
+      <shelf name="favorites" count="362"/>
+      <shelf name="russian-literature" count="306"/>
+      <shelf name="literature" count="211"/>
+      <shelf name="russia" count="188"/>
+      <shelf name="currently-reading" count="176"/>
+      <shelf name="russian-lit" count="136"/>
+      <shelf name="philosophy" count="102"/>
+      <shelf name="fiction" count="90"/>
+      <shelf name="19th-century" count="84"/>
+      <shelf name="rory-gilmore-challenge" count="82"/>
+      <shelf name="1001-books" count="79"/>
+      <shelf name="books-i-own" count="70"/>
+      <shelf name="to-buy" count="69"/>
+      <shelf name="1001" count="60"/>
+      <shelf name="classics" count="54"/>
+      <shelf name="gilmore-girls" count="54"/>
+      <shelf name="rory-gilmore-reading-list" count="51"/>
+      <shelf name="novel" count="47"/>
+      <shelf name="owned-books" count="43"/>
+      <shelf name="russian" count="42"/>
+      <shelf name="classic-literature" count="40"/>
+      <shelf name="favourites" count="38"/>
+      <shelf name="dostoevsky" count="38"/>
+      <shelf name="1001-books-to-read-before-you-die" count="33"/>
+      <shelf name="kindle" count="31"/>
+      <shelf name="classics-to-read" count="30"/>
+      <shelf name="fyodor-dostoyevsky" count="28"/>
+      <shelf name="russians" count="28"/>
+      <shelf name="literary-fiction" count="27"/>
+      <shelf name="russian-classics" count="26"/>
+      <shelf name="1001-import" count="25"/>
+      <shelf name="ebook" count="22"/>
+      <shelf name="gilmore" count="22"/>
+      <shelf name="gilmore-girls-reading-list" count="22"/>
+      <shelf name="wish-list" count="21"/>
+      <shelf name="historical-fiction" count="21"/>
+      <shelf name="classic-fiction" count="21"/>
+      <shelf name="to-read-fiction" count="21"/>
+      <shelf name="my-library" count="21"/>
+      <shelf name="classici" count="20"/>
+      <shelf name="abandoned" count="20"/>
+      <shelf name="1001-books-to-read" count="19"/>
+      <shelf name="ebooks" count="18"/>
+      <shelf name="the-rory-gilmore-reading-challenge" count="18"/>
+      <shelf name="to-read-classics" count="18"/>
+      <shelf name="my-books" count="18"/>
+      <shelf name="unread" count="18"/>
+      <shelf name="e-book" count="18"/>
+      <shelf name="owned" count="17"/>
+      <shelf name="letteratura-russa" count="17"/>
+      <shelf name="gilmore-challenge" count="17"/>
+      <shelf name="rory-gilmore-book-challenge" count="17"/>
+      <shelf name="translated" count="17"/>
+      <shelf name="must-read" count="16"/>
+      <shelf name="unfinished" count="16"/>
+      <shelf name="literature-russian" count="15"/>
+      <shelf name="rory-gilmore-book-list" count="15"/>
+      <shelf name="translation" count="15"/>
+      <shelf name="literary" count="15"/>
+      <shelf name="classic-lit" count="15"/>
+      <shelf name="classic" count="14"/>
+      <shelf name="dostoyevsky" count="14"/>
+      <shelf name="gilmore-girls-reading-challenge" count="14"/>
+      <shelf name="rory" count="14"/>
+      <shelf name="1800s" count="14"/>
+      <shelf name="1001-to-read" count="14"/>
+      <shelf name="history" count="13"/>
+      <shelf name="historical" count="13"/>
+      <shelf name="lit" count="13"/>
+      <shelf name="i-own" count="13"/>
+      <shelf name="rory-gilmore-reading-challenge" count="12"/>
+      <shelf name="novels" count="12"/>
+      <shelf name="russian-authors" count="12"/>
+      <shelf name="political" count="12"/>
+      <shelf name="favorite" count="12"/>
+      <shelf name="nihilism" count="12"/>
+      <shelf name="general-fiction" count="12"/>
+      <shelf name="default" count="11"/>
+      <shelf name="rory-gilmore-list" count="11"/>
+      <shelf name="books" count="11"/>
+      <shelf name="e-books" count="11"/>
+      <shelf name="19th-century-literature" count="11"/>
+      <shelf name="1001-books-you-must-read-before-you" count="11"/>
+      <shelf name="rory-gilmore" count="10"/>
+      <shelf name="russian-classic" count="10"/>
+      <shelf name="in-translation" count="10"/>
+      <shelf name="narrativa" count="10"/>
+      <shelf name="russa" count="9"/>
+      <shelf name="drama" count="9"/>
+      <shelf name="rory-challenge" count="9"/>
+      <shelf name="rory-gilmore-books" count="9"/>
+      <shelf name="on-hold" count="9"/>
+      <shelf name="my-ebooks" count="9"/>
+      <shelf name="favourite" count="9"/>
+      <shelf name="world-literature" count="9"/>
+      <shelf name="finished" count="8"/>
+      <shelf name="bookshelf" count="8"/>
+      <shelf name="100-best-books-of-all-time" count="8"/>
+      <shelf name="biblioteca" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>616052</id>
+<title>On the Eve</title>
+<title_without_series>On the Eve</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/616052.On_the_Eve]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2578778</id>
+</work>
+<isbn>1426450435</isbn>
+<isbn13>9781426450433</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>2148</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>410680</id>
+<name>Ivan Turgenev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410680.Ivan_Turgenev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>204185</id>
+<title><![CDATA[The Enchanted Wanderer: Selected Tales]]></title>
+<title_without_series><![CDATA[The Enchanted Wanderer: Selected Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/204185.The_Enchanted_Wanderer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320451479s/204185.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320451479m/204185.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>197575</id>
+</work>
+<isbn>0812966961</isbn>
+<isbn13>9780812966961</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1280</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>24952</id>
+<name>Nikolai Leskov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24952.Nikolai_Leskov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4988505</id>
+<title><![CDATA[Dostoevsky: A Writer in His Time]]></title>
+<title_without_series><![CDATA[Dostoevsky: A Writer in His Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4988505-dostoevsky]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>959</num_pages>
+<work>
+<id>5054386</id>
+</work>
+<isbn>0691128197</isbn>
+<isbn13>9780691128191</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>427</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>11328</id>
+<name>Joseph Frank</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11328.Joseph_Frank]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>724925</id>
+<title><![CDATA[The Fall of the Athenian Empire]]></title>
+<title_without_series><![CDATA[The Fall of the Athenian Empire]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/724925.The_Fall_of_the_Athenian_Empire]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>288090</id>
+</work>
+<isbn>0801499844</isbn>
+<isbn13>9780801499845</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>175</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>12805</id>
+<name>Donald Kagan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12805.Donald_Kagan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>50269</id>
+<title>The Sebastopol Sketches</title>
+<title_without_series>The Sebastopol Sketches</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/50269.The_Sebastopol_Sketches]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1441248297s/50269.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1441248297m/50269.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2279930</id>
+</work>
+<isbn>0140444688</isbn>
+<isbn13>9780140444681</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>1563</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128382</id>
+<name>Leo Tolstoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128382.Leo_Tolstoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23791</id>
+<title>Ward No. 6 and Other Stories</title>
+<title_without_series>Ward No. 6 and Other Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23791.Ward_No_6_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328851149s/23791.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328851149m/23791.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>2086250</id>
+</work>
+<isbn>1593080034</isbn>
+<isbn13>9781593080037</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>6500</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5031025</id>
+<name>Anton Chekhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031025.Anton_Chekhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>162259</id>
+<title>The Petty Demon</title>
+<title_without_series>The Petty Demon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162259.The_Petty_Demon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1340739669s/162259.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1340739669m/162259.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>787723</id>
+</work>
+<isbn>0882338080</isbn>
+<isbn13>9780882338088</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1093</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>94099</id>
+<name>Fyodor Sologub</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94099.Fyodor_Sologub]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>125842</id>
+<title><![CDATA[A Bolt from the Blue and Other Essays]]></title>
+<title_without_series><![CDATA[A Bolt from the Blue and Other Essays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/125842.A_Bolt_from_the_Blue_and_Other_Essays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>121207</id>
+</work>
+<isbn>1590170105</isbn>
+<isbn13>9781590170106</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>362</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7305</id>
+<name>Mary McCarthy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7305.Mary_McCarthy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>196865</id>
+<title>Demon</title>
+<title_without_series>Demon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/196865.Demon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1423271115s/196865.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1423271115m/196865.jpg]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>3318243</id>
+</work>
+<isbn>1853993166</isbn>
+<isbn13>9781853993169</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>3414</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15538</id>
+<name>Mikhail Lermontov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15538.Mikhail_Lermontov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>229733</id>
+<title>The White Guard</title>
+<title_without_series>The White Guard</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/229733.The_White_Guard]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330427738s/229733.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330427738m/229733.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>2682802</id>
+</work>
+<isbn>0099490668</isbn>
+<isbn13>9780099490661</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>8573</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3873</id>
+<name>Mikhail Bulgakov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3873.Mikhail_Bulgakov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92286</id>
+<title><![CDATA[Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born]]></title>
+<title_without_series><![CDATA[Novels, 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92286.Novels_1930_1942]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1068</num_pages>
+<work>
+<id>396603</id>
+</work>
+<isbn>1931082014</isbn>
+<isbn13>9781931082013</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>311</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>53013</id>
+<name>Dawn Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53013.Dawn_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28381</id>
+<title>Dead Souls</title>
+<title_without_series>Dead Souls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28381.Dead_Souls]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387201057s/28381.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387201057m/28381.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>1001298</id>
+</work>
+<isbn>0140448071</isbn>
+<isbn13>9780140448078</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>47695</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>232932</id>
+<name>Nikolai Gogol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232932.Nikolai_Gogol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>97381</id>
+<title><![CDATA[The Queen of Spades and Other Stories]]></title>
+<title_without_series><![CDATA[The Queen of Spades and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/97381.The_Queen_of_Spades_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>23962542</id>
+</work>
+<isbn>0192839543</isbn>
+<isbn13>9780192839541</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>5721</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>16070</id>
+<name>Alexander Pushkin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16070.Alexander_Pushkin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1038223</id>
+<title>Brigadoon (Vocal Score)</title>
+<title_without_series>Brigadoon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1038223.Brigadoon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>1024583</id>
+</work>
+<isbn>0769202225</isbn>
+<isbn13>9780769202228</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1693</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5221</id>
+<name>Alan Jay Lerner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5221.Alan_Jay_Lerner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>254308</id>
+<title>Oblomov</title>
+<title_without_series>Oblomov</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/254308.Oblomov]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456384296s/254308.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456384296m/254308.jpg]]></image_url>
+<num_pages>586</num_pages>
+<work>
+<id>1192093</id>
+</work>
+<isbn>1933480092</isbn>
+<isbn13>9781933480091</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21024</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5326370</id>
+<name>Ivan Goncharov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5326370.Ivan_Goncharov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>184913</id>
+<title>Petersburg</title>
+<title_without_series>Petersburg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/184913.Petersburg]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>3538</id>
+</work>
+<isbn>0253202191</isbn>
+<isbn13>9780253202192</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3413</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>13997171</id>
+<name>Andrei Bely</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13997171.Andrei_Bely]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>1990</id>
+  <title>Martin Chuzzlewit</title>
+  <isbn><![CDATA[0140436146]]></isbn>
+  <isbn13><![CDATA[9780140436143]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0084BZU48]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1334392783m/1990.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1334392783s/1990.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Set partly in the United States, this novel includes a searing satire on mid-nineteenth-century America. <i>Martin Chuzzlewit</i> is the story of two Chuzzlewits, Martin and Jonas, who have inherited the characteristic Chuzzlewit selfishness. It contrasts their diverse fates: moral redemption and worldly success for one and increasingly desperate crime for the other.]]></description>
+  <work>
+  <id type="integer">901325</id>
+  <books_count type="integer">311</books_count>
+  <best_book_id type="integer">1990</best_book_id>
+  <reviews_count type="integer">24966</reviews_count>
+  <ratings_sum type="integer">48342</ratings_sum>
+  <ratings_count type="integer">12643</ratings_count>
+  <text_reviews_count type="integer">425</text_reviews_count>
+  <original_publication_year type="integer">1844</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Life and Adventures of Martin Chuzzlewit</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3822|4:4411|3:3134|2:910|1:366|total:12643</rating_dist>
+  <desc_user_id type="integer">4121679</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.82</average_rating>
+  <num_pages><![CDATA[830]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11788]]></ratings_count>
+  <text_reviews_count><![CDATA[298]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/1990.Martin_Chuzzlewit]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/1990.Martin_Chuzzlewit]]></link>
+  <authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p5/239579.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p2/239579.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>2487016</ratings_count>
+<text_reviews_count>66651</text_reviews_count>
+</author>
+<author>
+<id>1340</id>
+<name>Patricia Ingham</name>
+<role>Annotations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1340.Patricia_Ingham]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>27024</ratings_count>
+<text_reviews_count>1294</text_reviews_count>
+</author>
+<author>
+<id>3128534</id>
+<name>Hablot Knight Browne</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1303071797p5/3128534.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1303071797p2/3128534.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3128534.Hablot_Knight_Browne]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>730836</ratings_count>
+<text_reviews_count>13587</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/1990.Martin_Chuzzlewit">Martin Chuzzlewit Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140436146&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/1990.Martin_Chuzzlewit?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="classics" count="572"/>
+      <shelf name="fiction" count="245"/>
+      <shelf name="to-read" count="182"/>
+      <shelf name="dickens" count="122"/>
+      <shelf name="classic" count="98"/>
+      <shelf name="1001-books" count="83"/>
+      <shelf name="charles-dickens" count="71"/>
+      <shelf name="literature" count="63"/>
+      <shelf name="owned" count="60"/>
+      <shelf name="kindle" count="56"/>
+      <shelf name="books-i-own" count="50"/>
+      <shelf name="19th-century" count="50"/>
+      <shelf name="1001" count="48"/>
+      <shelf name="victorian" count="44"/>
+      <shelf name="british" count="41"/>
+      <shelf name="1001-books-to-read-before-you-die" count="35"/>
+      <shelf name="1001-import" count="31"/>
+      <shelf name="classic-literature" count="29"/>
+      <shelf name="favorites" count="28"/>
+      <shelf name="historical-fiction" count="28"/>
+      <shelf name="default" count="26"/>
+      <shelf name="british-literature" count="24"/>
+      <shelf name="currently-reading" count="23"/>
+      <shelf name="1001-books-to-read" count="23"/>
+      <shelf name="english-literature" count="23"/>
+      <shelf name="england" count="22"/>
+      <shelf name="to-buy" count="20"/>
+      <shelf name="owned-books" count="19"/>
+      <shelf name="1001-to-read" count="19"/>
+      <shelf name="library" count="17"/>
+      <shelf name="1001-books-you-must-read-before-you" count="17"/>
+      <shelf name="novels" count="17"/>
+      <shelf name="brit-lit" count="16"/>
+      <shelf name="classic-fiction" count="15"/>
+      <shelf name="english" count="15"/>
+      <shelf name="1800s" count="14"/>
+      <shelf name="penguin-english-library" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="literary-fiction" count="13"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="novel" count="11"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="victorian-literature" count="11"/>
+      <shelf name="audio" count="11"/>
+      <shelf name="classics-to-read" count="11"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="british-lit" count="9"/>
+      <shelf name="satire" count="9"/>
+      <shelf name="wish-list" count="9"/>
+      <shelf name="nineteenth-century" count="8"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="audiobook" count="8"/>
+      <shelf name="to-read-fiction" count="8"/>
+      <shelf name="to-read-classics" count="8"/>
+      <shelf name="1001-books-you-must-read" count="8"/>
+      <shelf name="uk" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="historical" count="7"/>
+      <shelf name="adult-fiction" count="7"/>
+      <shelf name="literary" count="7"/>
+      <shelf name="comedy" count="7"/>
+      <shelf name="general-fiction" count="7"/>
+      <shelf name="e-books" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="1840s" count="6"/>
+      <shelf name="guardian-1000" count="6"/>
+      <shelf name="to-read-own" count="6"/>
+      <shelf name="favorite-authors" count="6"/>
+      <shelf name="i-own" count="6"/>
+      <shelf name="audible" count="6"/>
+      <shelf name="penguin-classics" count="6"/>
+      <shelf name="humor" count="6"/>
+      <shelf name="home-library" count="6"/>
+      <shelf name="bookshelf" count="5"/>
+      <shelf name="19th-century-literature" count="5"/>
+      <shelf name="on-kindle" count="5"/>
+      <shelf name="1001-before-you-die" count="5"/>
+      <shelf name="romance" count="5"/>
+      <shelf name="tbr" count="5"/>
+      <shelf name="19th-century-lit" count="5"/>
+      <shelf name="on-hold" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="19th-century-fiction" count="5"/>
+      <shelf name="classici" count="5"/>
+      <shelf name="victorians" count="5"/>
+      <shelf name="public-domain" count="5"/>
+      <shelf name="britain" count="5"/>
+      <shelf name="guardian-comedy" count="5"/>
+      <shelf name="history" count="5"/>
+      <shelf name="humour" count="5"/>
+      <shelf name="unfinished" count="5"/>
+      <shelf name="2016-reads" count="4"/>
+      <shelf name="to-read-owned" count="4"/>
+      <shelf name="tbr-classics" count="4"/>
+      <shelf name="kindle-tbr" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="classics-tbr" count="4"/>
+      <shelf name="english-classics" count="4"/>
+      <shelf name="own-to-read" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>374352</id>
+<title>Phineas Finn (Palliser, #2)</title>
+<title_without_series>Phineas Finn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/374352.Phineas_Finn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1367808569s/374352.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1367808569m/374352.jpg]]></image_url>
+<num_pages>752</num_pages>
+<work>
+<id>513486</id>
+</work>
+<isbn>0140430857</isbn>
+<isbn13>9780140430851</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>5109</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>20524</id>
+<name>Anthony Trollope</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20524.Anthony_Trollope]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1323787</id>
+<title>Born in Exile</title>
+<title_without_series>Born in Exile</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1323787.Born_in_Exile]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1342995857s/1323787.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1342995857m/1323787.jpg]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>1313193</id>
+</work>
+<isbn>140680942X</isbn>
+<isbn13>9781406809428</isbn13>
+<average_rating>3.54</average_rating>
+<ratings_count>259</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4532116</id>
+<name>George Gissing</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4532116.George_Gissing]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>467111</id>
+<title>The Hand of Ethelberta</title>
+<title_without_series>The Hand of Ethelberta</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/467111.The_Hand_of_Ethelberta]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>2046749</id>
+</work>
+<isbn>0140435026</isbn>
+<isbn13>9780140435023</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>2675</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>15905</id>
+<name>Thomas Hardy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15905.Thomas_Hardy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>866301</id>
+<title>Felix Holt: The Radical</title>
+<title_without_series>Felix Holt: The Radical</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/866301.Felix_Holt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>545</num_pages>
+<work>
+<id>1513414</id>
+</work>
+<isbn>0140434356</isbn>
+<isbn13>9780140434354</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>2973</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>173</id>
+<name>George Eliot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173.George_Eliot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>139888</id>
+<title>Barry Lyndon</title>
+<title_without_series>Barry Lyndon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/139888.Barry_Lyndon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3095962</id>
+</work>
+<isbn>1406808466</isbn>
+<isbn13>9781406808469</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>1403</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3953</id>
+<name>William Makepeace Thackeray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3953.William_Makepeace_Thackeray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>93218</id>
+<title>Albigenses</title>
+<title_without_series>Albigenses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/93218.Albigenses]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1259401621s/93218.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1259401621m/93218.jpg]]></image_url>
+<num_pages>994</num_pages>
+<work>
+<id>89872</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.14</average_rating>
+<ratings_count>49</ratings_count>
+<publication_year>1824</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6523516</id>
+<name>Charles Robert Maturin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6523516.Charles_Robert_Maturin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>728760</id>
+<title>Ormond</title>
+<title_without_series>Ormond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/728760.Ormond]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>2282876</id>
+</work>
+<isbn>0140436448</isbn>
+<isbn13>9780140436440</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>161</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>82939</id>
+<name>Maria Edgeworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/82939.Maria_Edgeworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>223175</id>
+<title>The Master of Ballantrae</title>
+<title_without_series>The Master of Ballantrae</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/223175.The_Master_of_Ballantrae]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>2366193</id>
+</work>
+<isbn>0543896722</isbn>
+<isbn13>9780543896728</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>4536</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>854076</id>
+<name>Robert Louis Stevenson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>415836</id>
+<title><![CDATA[The Expedition of Humphry Clinker]]></title>
+<title_without_series><![CDATA[The Expedition of Humphry Clinker]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/415836.The_Expedition_of_Humphry_Clinker]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344373373s/415836.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344373373m/415836.jpg]]></image_url>
+<num_pages>414</num_pages>
+<work>
+<id>502618</id>
+</work>
+<isbn>0140430210</isbn>
+<isbn13>9780140430219</isbn13>
+<average_rating>3.44</average_rating>
+<ratings_count>2383</ratings_count>
+<publication_year>1967</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5878896</id>
+<name>Tobias Smollett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5878896.Tobias_Smollett]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

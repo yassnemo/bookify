@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>34941</id>
+  <title><![CDATA[Star Wars - Episode I: The Phantom Menace]]></title>
+  <isbn><![CDATA[0099409968]]></isbn>
+  <isbn13><![CDATA[9780099409960]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00A0JJVHE]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2000</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>2</publication_day>
+  <publisher>Arrow</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A long time ago in a galaxy far, far away, an evil legacy long believed dead is stirring. Now the dark side of the Force threatens to overwhelm the light, and only an ancient Jedi prophecy stands between hope and doom for the entire galaxy.</b><br /><br />On the green, unspoiled world of Naboo, Jedi Master Qui-Gon Jinn and his apprentice, Obi-Wan Kenobi, arrive to protect the realm’s young queen as she seeks a diplomatic solution to end the siege of her planet by Trade Federation warships. At the same time, on desert-swept Tatooine, a slave boy named Anakin Skywalker, who possesses a strange ability for understanding the “rightness” of things, toils by day and dreams by night—of becoming a Jedi Knight and finding a way to win freedom for himself and his beloved mother. It will be the unexpected meeting of Jedi, Queen, and a gifted boy that will mark the start of a drama that will become legend.]]></description>
+  <work>
+  <id type="integer">3304766</id>
+  <books_count type="integer">71</books_count>
+  <best_book_id type="integer">34941</best_book_id>
+  <reviews_count type="integer">20608</reviews_count>
+  <ratings_sum type="integer">46507</ratings_sum>
+  <ratings_count type="integer">13111</ratings_count>
+  <text_reviews_count type="integer">507</text_reviews_count>
+  <original_publication_year type="integer">1999</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Phantom Menace</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2970|4:3679|3:4409|2:1661|1:392|total:13111</rating_dist>
+  <desc_user_id type="integer">37727426</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.55</average_rating>
+  <num_pages><![CDATA[255]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11604]]></ratings_count>
+  <text_reviews_count><![CDATA[374]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/34941.Star_Wars_Episode_I]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/34941.Star_Wars_Episode_I]]></link>
+  <authors>
+<author>
+<id>9629</id>
+<name>Terry Brooks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1280785812p5/9629.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1280785812p2/9629.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9629.Terry_Brooks]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>658176</ratings_count>
+<text_reviews_count>16856</text_reviews_count>
+</author>
+<author>
+<id>3231</id>
+<name>George Lucas</name>
+<role>Story &amp; Screenplay</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1458677946p5/3231.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1458677946p2/3231.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3231.George_Lucas]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>76163</ratings_count>
+<text_reviews_count>2743</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/34941.Star_Wars_Episode_I">Star Wars - Episode I Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0099409968&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/34941.Star_Wars_Episode_I?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4292"/>
+      <shelf name="star-wars" count="1126"/>
+      <shelf name="science-fiction" count="403"/>
+      <shelf name="sci-fi" count="359"/>
+      <shelf name="currently-reading" count="219"/>
+      <shelf name="fiction" count="156"/>
+      <shelf name="fantasy" count="120"/>
+      <shelf name="owned" count="94"/>
+      <shelf name="default" count="93"/>
+      <shelf name="books-i-own" count="65"/>
+      <shelf name="scifi" count="60"/>
+      <shelf name="starwars" count="36"/>
+      <shelf name="terry-brooks" count="36"/>
+      <shelf name="sci-fi-fantasy" count="36"/>
+      <shelf name="adventure" count="32"/>
+      <shelf name="star-wars-canon" count="30"/>
+      <shelf name="favorites" count="28"/>
+      <shelf name="star-wars-legends" count="26"/>
+      <shelf name="owned-books" count="24"/>
+      <shelf name="series" count="18"/>
+      <shelf name="novels" count="17"/>
+      <shelf name="space-opera" count="17"/>
+      <shelf name="media-tie-in" count="15"/>
+      <shelf name="books" count="14"/>
+      <shelf name="sf" count="14"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="library" count="13"/>
+      <shelf name="space" count="13"/>
+      <shelf name="science-fiction-fantasy" count="13"/>
+      <shelf name="wars" count="13"/>
+      <shelf name="star-wars-books" count="13"/>
+      <shelf name="movies" count="12"/>
+      <shelf name="star-wars-read" count="12"/>
+      <shelf name="audiobook" count="12"/>
+      <shelf name="science" count="12"/>
+      <shelf name="fantasy-sci-fi" count="11"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="star" count="11"/>
+      <shelf name="scifi-fantasy" count="11"/>
+      <shelf name="sw" count="10"/>
+      <shelf name="adult" count="10"/>
+      <shelf name="young-adult" count="10"/>
+      <shelf name="hardcover" count="9"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="aliens" count="8"/>
+      <shelf name="sci-fi-and-fantasy" count="8"/>
+      <shelf name="novelization" count="8"/>
+      <shelf name="movie" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="bookshelf" count="7"/>
+      <shelf name="re-read" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="star_wars" count="6"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="star-wars-owned" count="6"/>
+      <shelf name="fantasy-science-fiction" count="6"/>
+      <shelf name="unread" count="6"/>
+      <shelf name="ebook" count="6"/>
+      <shelf name="classics" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="sciencefiction" count="6"/>
+      <shelf name="action-adventure" count="6"/>
+      <shelf name="star-wars-eu" count="6"/>
+      <shelf name="star-wars-novels" count="6"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="star-wars-to-read" count="5"/>
+      <shelf name="borrowed" count="5"/>
+      <shelf name="home-library" count="5"/>
+      <shelf name="own-physical" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="childhood" count="5"/>
+      <shelf name="books-owned" count="5"/>
+      <shelf name="movie-books" count="5"/>
+      <shelf name="adaptation" count="5"/>
+      <shelf name="finished" count="5"/>
+      <shelf name="war" count="5"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="action" count="5"/>
+      <shelf name="german" count="5"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="tie-in" count="5"/>
+      <shelf name="2-stars" count="4"/>
+      <shelf name="other" count="4"/>
+      <shelf name="novelizations" count="4"/>
+      <shelf name="personal-library" count="4"/>
+      <shelf name="paperback" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="adult-fiction" count="4"/>
+      <shelf name="fantascienza" count="4"/>
+      <shelf name="brooks-terry" count="4"/>
+      <shelf name="novel" count="4"/>
+      <shelf name="novelisations" count="4"/>
+      <shelf name="read-star-wars" count="4"/>
+      <shelf name="movie-tie-in" count="4"/>
+      <shelf name="science-fantasy" count="4"/>
+      <shelf name="brooks" count="4"/>
+      <shelf name="my-collection" count="4"/>
+      <shelf name="science-fiction-and-fantasy" count="4"/>
+      <shelf name="mine" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>166101</id>
+<user_position>1</user_position>
+<series>
+<id>41262</id>
+<title>
+<![CDATA[
+    Star Wars: Novelizations
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>432419</id>
+<user_position></user_position>
+<series>
+<id>89929</id>
+<title>
+<![CDATA[
+    Star Wars Legends
+]]>
+</title>
+<description>
+<![CDATA[
+    This is in chronological order for the convenience of all Star Wars fans out there! This is a comprehensive list, including kids, young adult and adult novels, all set in the Star Wars Legends universe. Canonical works are not included except for the movie novelizations.
+]]>
+</description>
+<note>
+<![CDATA[
+    To Goodreads librarians, please think very carefully before changing this list. There is no other comprehensive list like this in existence.
+]]>
+</note>
+<series_works_count>346</series_works_count>
+<primary_work_count>346</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>320361</id>
+<title><![CDATA[Star Wars - Episode II: Attack of the Clones]]></title>
+<title_without_series><![CDATA[Star Wars - Episode II: Attack of the Clones]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/320361.Star_Wars_Episode_II]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355056001s/320361.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355056001m/320361.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>558004</id>
+</work>
+<isbn>0099410575</isbn>
+<isbn13>9780099410577</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>7518</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1023510</id>
+<name>R.A. Salvatore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1023510.R_A_Salvatore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35458</id>
+<title><![CDATA[Star Wars: Episode III - Revenge of the Sith]]></title>
+<title_without_series><![CDATA[Star Wars: Episode III - Revenge of the Sith]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35458.Star_Wars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>476816</id>
+</work>
+<isbn>0345428838</isbn>
+<isbn13>9780345428837</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>10757</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1567394</id>
+<name>Matthew Woodring Stover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1567394.Matthew_Woodring_Stover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>413043</id>
+<title><![CDATA[Shadow Hunter (Star Wars: Darth Maul, #2)]]></title>
+<title_without_series>Shadow Hunter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/413043.Shadow_Hunter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333577597s/413043.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333577597m/413043.jpg]]></image_url>
+<num_pages>332</num_pages>
+<work>
+<id>1116086</id>
+</work>
+<isbn>0345435419</isbn>
+<isbn13>9780345435415</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>4405</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>12537</id>
+<name>Michael Reaves</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12537.Michael_Reaves]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>758614</id>
+<title>Rogue Planet (Star Wars)</title>
+<title_without_series>Rogue Planet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/758614.Rogue_Planet]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320467624s/758614.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320467624m/758614.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>2510169</id>
+</work>
+<isbn>0345435400</isbn>
+<isbn13>9780345435408</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>4898</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16024</id>
+<name>Greg Bear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16024.Greg_Bear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77236</id>
+<title>Return of the Jedi</title>
+<title_without_series>Return of the Jedi</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77236.Return_of_the_Jedi]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335064532s/77236.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335064532m/77236.jpg]]></image_url>
+<num_pages>181</num_pages>
+<work>
+<id>1408100</id>
+</work>
+<isbn>0345307674</isbn>
+<isbn13>9780345307675</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>7796</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20035</id>
+<name>James Kahn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20035.James_Kahn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35149</id>
+<title>The Approaching Storm</title>
+<title_without_series>The Approaching Storm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35149.The_Approaching_Storm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>2105545</id>
+</work>
+<isbn>0345443004</isbn>
+<isbn13>9780345443007</isbn13>
+<average_rating>3.52</average_rating>
+<ratings_count>3883</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11735</id>
+<name>Alan Dean Foster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11735.Alan_Dean_Foster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>387506</id>
+<title><![CDATA[Cloak of Deception (Star Wars)]]></title>
+<title_without_series>Cloak of Deception</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/387506.Cloak_of_Deception]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>1016812</id>
+</work>
+<isbn>0099439972</isbn>
+<isbn13>9780099439974</isbn13>
+<average_rating>3.44</average_rating>
+<ratings_count>3818</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>9346</id>
+<name>James Luceno</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9346.James_Luceno]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>35464</id>
+<title>The Cestus Deception</title>
+<title_without_series>The Cestus Deception</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/35464.The_Cestus_Deception]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>398</num_pages>
+<work>
+<id>3165217</id>
+</work>
+<isbn>0099472627</isbn>
+<isbn13>9780099472629</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>3279</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>20058</id>
+<name>Steven Barnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20058.Steven_Barnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2919938</id>
+<title><![CDATA[The Clone Wars (Star Wars: The Clone Wars, #1)]]></title>
+<title_without_series>The Clone Wars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2919938-the-clone-wars]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320436801s/2919938.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320436801m/2919938.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>2947171</id>
+</work>
+<isbn>034550898X</isbn>
+<isbn13>9780345508980</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>2277</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>12672</id>
+<name>Karen Traviss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12672.Karen_Traviss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77111</id>
+<title><![CDATA[The Empire Strikes Back (Star Wars - Episode V)]]></title>
+<title_without_series>The Empire Strikes Back</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77111.The_Empire_Strikes_Back]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335122639s/77111.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335122639m/77111.jpg]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>2512960</id>
+</work>
+<isbn>0345283929</isbn>
+<isbn13></isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>9690</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20034</id>
+<name>Donald F. Glut</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20034.Donald_F_Glut]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>320346</id>
+<title><![CDATA[Balance Point (Star Wars: The New Jedi Order, #6)]]></title>
+<title_without_series>Balance Point</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/320346.Balance_Point]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330833461s/320346.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330833461m/320346.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>311099</id>
+</work>
+<isbn>009941029X</isbn>
+<isbn13>9780099410294</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>7187</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>111948</id>
+<name>Kathy Tyers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/111948.Kathy_Tyers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>320347</id>
+<title><![CDATA[Conquest (Edge of Victory, #1) (Star Wars: The New Jedi Order, #7)]]></title>
+<title_without_series><![CDATA[Conquest (Edge of Victory, #1)]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/320347.Conquest_Edge_of_Victory_1_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403184941s/320347.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403184941m/320347.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1776613</id>
+</work>
+<isbn>0345428641</isbn>
+<isbn13>9780345428646</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>6218</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>12949</id>
+<name>Greg Keyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12949.Greg_Keyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>55546</id>
+<title><![CDATA[Remnant (Force Heretic, #1) (Star Wars: The New Jedi Order, #15)]]></title>
+<title_without_series>Remnant (Force Heretic, #1)</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/55546.Remnant_Force_Heretic_1_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403181057s/55546.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403181057m/55546.jpg]]></image_url>
+<num_pages>413</num_pages>
+<work>
+<id>54132</id>
+</work>
+<isbn>0345428706</isbn>
+<isbn13>9780345428707</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>4896</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>31321</id>
+<name>Sean Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31321.Sean_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3108764</id>
+<title><![CDATA[Wild Space (Star Wars: The Clone Wars, #2)]]></title>
+<title_without_series>Wild Space</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3108764-wild-space]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>3140025</id>
+</work>
+<isbn>0345509013</isbn>
+<isbn13>9780345509017</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1492</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>87306</id>
+<name>Karen Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87306.Karen_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160987</id>
+<title><![CDATA[The Unseen Queen (Star Wars: Dark Nest, #2)]]></title>
+<title_without_series>The Unseen Queen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160987.The_Unseen_Queen]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>3250574</id>
+</work>
+<isbn>034546303X</isbn>
+<isbn13>9780345463036</isbn13>
+<average_rating>3.47</average_rating>
+<ratings_count>3512</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>8154</id>
+<name>Troy Denning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8154.Troy_Denning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>192523</id>
+<title>Outbound Flight (Star Wars)</title>
+<title_without_series>Outbound Flight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/192523.Outbound_Flight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405546347s/192523.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405546347m/192523.jpg]]></image_url>
+<num_pages>420</num_pages>
+<work>
+<id>556530</id>
+</work>
+<isbn>034545684X</isbn>
+<isbn13>9780345456847</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>9248</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>12479</id>
+<name>Timothy Zahn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12479.Timothy_Zahn]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

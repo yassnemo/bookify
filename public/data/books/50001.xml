@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>50001</id>
+  <title><![CDATA[The Complete Guide to Middle-Earth]]></title>
+  <isbn><![CDATA[0345465296]]></isbn>
+  <isbn13><![CDATA[9780345465290]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>Del Rey</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Now in a gorgeous new hardcover format with a four-color map of Middle-earth, this is the completely revised guide to every creature, place, and event from the great fantasy epic.]]></description>
+  <work>
+  <id type="integer">1347757</id>
+  <books_count type="integer">22</books_count>
+  <best_book_id type="integer">50001</best_book_id>
+  <reviews_count type="integer">18202</reviews_count>
+  <ratings_sum type="integer">45572</ratings_sum>
+  <ratings_count type="integer">10940</ratings_count>
+  <text_reviews_count type="integer">73</text_reviews_count>
+  <original_publication_year type="integer">1974</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">12</original_publication_day>
+  <original_title>The Complete Guide to Middle-Earth</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5346|4:2914|3:2031|2:444|1:205|total:10940</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.17</average_rating>
+  <num_pages><![CDATA[592]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10285]]></ratings_count>
+  <text_reviews_count><![CDATA[42]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/50001.The_Complete_Guide_to_Middle_Earth]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/50001.The_Complete_Guide_to_Middle_Earth]]></link>
+  <authors>
+<author>
+<id>14602227</id>
+<name>Robert Foster</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14602227.Robert_Foster]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>10988</ratings_count>
+<text_reviews_count>74</text_reviews_count>
+</author>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role>Based On Work by</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6303833</ratings_count>
+<text_reviews_count>94352</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/50001.The_Complete_Guide_to_Middle_Earth">The Complete Guide to Middle-Earth Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0345465296&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/50001.The_Complete_Guide_to_Middle_Earth?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6722"/>
+      <shelf name="fantasy" count="308"/>
+      <shelf name="tolkien" count="102"/>
+      <shelf name="reference" count="98"/>
+      <shelf name="owned" count="58"/>
+      <shelf name="fiction" count="57"/>
+      <shelf name="non-fiction" count="49"/>
+      <shelf name="default" count="46"/>
+      <shelf name="currently-reading" count="33"/>
+      <shelf name="books-i-own" count="28"/>
+      <shelf name="middle-earth" count="23"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="nonfiction" count="14"/>
+      <shelf name="sci-fi-fantasy" count="12"/>
+      <shelf name="lotr" count="12"/>
+      <shelf name="j-r-r-tolkien" count="10"/>
+      <shelf name="classics" count="10"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="books" count="9"/>
+      <shelf name="literature" count="8"/>
+      <shelf name="lord-of-the-rings" count="7"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="fantasy-sci-fi" count="7"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="high-fantasy" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="epic-fantasy" count="6"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="adventure" count="6"/>
+      <shelf name="scifi-fantasy" count="4"/>
+      <shelf name="books-about-books" count="4"/>
+      <shelf name="unread" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="series" count="4"/>
+      <shelf name="fiction-fantasy" count="4"/>
+      <shelf name="rings" count="4"/>
+      <shelf name="lord" count="4"/>
+      <shelf name="sf-fantasy" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="not-read" count="4"/>
+      <shelf name="terra-di-mezzo" count="3"/>
+      <shelf name="own-to-read" count="3"/>
+      <shelf name="jrr-tolkien" count="3"/>
+      <shelf name="lisa" count="3"/>
+      <shelf name="possessions" count="3"/>
+      <shelf name="young-adult" count="3"/>
+      <shelf name="sure" count="3"/>
+      <shelf name="spinoff" count="3"/>
+      <shelf name="essentials" count="3"/>
+      <shelf name="canon" count="3"/>
+      <shelf name="fantasia" count="3"/>
+      <shelf name="1" count="3"/>
+      <shelf name="companion-books" count="3"/>
+      <shelf name="speculative-fiction" count="3"/>
+      <shelf name="science-fiction-fantasy" count="3"/>
+      <shelf name="fantasy-to-read" count="3"/>
+      <shelf name="reference-books" count="3"/>
+      <shelf name="guide" count="3"/>
+      <shelf name="middle" count="3"/>
+      <shelf name="earth" count="3"/>
+      <shelf name="fantasy-tolkien" count="3"/>
+      <shelf name="science-fiction" count="3"/>
+      <shelf name="classic" count="3"/>
+      <shelf name="tolkien-related" count="3"/>
+      <shelf name="paperback" count="3"/>
+      <shelf name="foster" count="3"/>
+      <shelf name="science-fiction-and-fantasy" count="3"/>
+      <shelf name="german" count="3"/>
+      <shelf name="meine-bücher" count="2"/>
+      <shelf name="on-my-bookshelf" count="2"/>
+      <shelf name="barcelona" count="2"/>
+      <shelf name="have" count="2"/>
+      <shelf name="caja-6" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="maybe" count="2"/>
+      <shelf name="on-my-shelves" count="2"/>
+      <shelf name="read-non-mm" count="2"/>
+      <shelf name="unread-tolkien" count="2"/>
+      <shelf name="history" count="2"/>
+      <shelf name="j-r-r-tolkein" count="2"/>
+      <shelf name="guide-manuali" count="2"/>
+      <shelf name="fantascienza-fantasy" count="2"/>
+      <shelf name="fiction-fantasy-and-science-fiction" count="2"/>
+      <shelf name="robert-s-book-shelf" count="2"/>
+      <shelf name="pau" count="2"/>
+      <shelf name="cataloged" count="2"/>
+      <shelf name="author-tolkien" count="2"/>
+      <shelf name="world-building" count="2"/>
+      <shelf name="tolkien-sekundär" count="2"/>
+      <shelf name="read-2013" count="2"/>
+      <shelf name="scifi-and-fantasy" count="2"/>
+      <shelf name="biblioteca-tolkien" count="2"/>
+      <shelf name="not-interested" count="2"/>
+      <shelf name="favorite-fantasy" count="2"/>
+      <shelf name="want" count="2"/>
+      <shelf name="my-collection" count="2"/>
+      <shelf name="literary-reference" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>633909</id>
+<user_position></user_position>
+<series>
+<id>58083</id>
+<title>
+<![CDATA[
+    Middle-Earth Universe
+]]>
+</title>
+<description>
+<![CDATA[
+    Includes:
+    * <a href="http://www.goodreads.com/series/66175-the-lord-of-the-rings">The Lord of the Rings</a>
+    * <a href="http://www.goodreads.com/series/58079-unfinished-tales">Unfinished Tales</a>
+    * <a href="http://www.goodreads.com/series/45924-the-history-of-middle-earth">The History of Middle-Earth</a>
+]]>
+</description>
+<note>
+<![CDATA[
+    Listed in publication order. This is not a series, it is a setting.
+]]>
+</note>
+<series_works_count>46</series_works_count>
+<primary_work_count>25</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>67996</id>
+<title><![CDATA[The Peoples of Middle-earth (The History of Middle-earth, #12)]]></title>
+<title_without_series>The Peoples of Middle-earth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67996.The_Peoples_of_Middle_earth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365256168s/67996.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365256168m/67996.jpg]]></image_url>
+<num_pages>482</num_pages>
+<work>
+<id>2369020</id>
+</work>
+<isbn>0261103482</isbn>
+<isbn13>9780261103481</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>4168</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>8</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92003</id>
+<title>The Atlas of Middle-Earth</title>
+<title_without_series>The Atlas of Middle-Earth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92003.The_Atlas_of_Middle_Earth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1452027305s/92003.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1452027305m/92003.jpg]]></image_url>
+<num_pages>210</num_pages>
+<work>
+<id>1502479</id>
+</work>
+<isbn>0618126996</isbn>
+<isbn13>9780618126996</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>10361</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11590</id>
+<name>Karen Wynn Fonstad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11590.Karen_Wynn_Fonstad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2330</id>
+<title><![CDATA[The Languages of Tolkien's Middle-Earth]]></title>
+<title_without_series><![CDATA[The Languages of Tolkien's Middle-Earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2330.The_Languages_of_Tolkien_s_Middle_Earth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1438367035s/2330.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1438367035m/2330.jpg]]></image_url>
+<num_pages>207</num_pages>
+<work>
+<id>6341</id>
+</work>
+<isbn>0395291305</isbn>
+<isbn13>9780395291306</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>4404</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>5</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>1583</id>
+<name>Ruth S. Noel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1583.Ruth_S_Noel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19293</id>
+<title><![CDATA[Tolkien: The Illustrated Encyclopaedia]]></title>
+<title_without_series><![CDATA[Tolkien: The Illustrated Encyclopaedia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19293.Tolkien]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>20569</id>
+</work>
+<isbn>0684839792</isbn>
+<isbn13>9780684839790</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>3953</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4945</id>
+<name>David Day</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4945.David_Day]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>938210</id>
+<title>The Journeys of Frodo</title>
+<title_without_series>The Journeys of Frodo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/938210.The_Journeys_of_Frodo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>923185</id>
+</work>
+<isbn>0261102672</isbn>
+<isbn13>9780261102675</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>937</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>477896</id>
+<name>Barbara Strachey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/477896.Barbara_Strachey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7340</id>
+<title><![CDATA[The Maps of Tolkien's Middle-earth]]></title>
+<title_without_series><![CDATA[The Maps of Tolkien's Middle-earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7340.The_Maps_of_Tolkien_s_Middle_earth]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>10468</id>
+</work>
+<isbn>061839110X</isbn>
+<isbn13>9780618391103</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>7428</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4941</id>
+<name>Brian Sibley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4941.Brian_Sibley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23588</id>
+<title><![CDATA[J.R.R. Tolkien: Artist and Illustrator]]></title>
+<title_without_series><![CDATA[J.R.R. Tolkien: Artist and Illustrator]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23588.J_R_R_Tolkien]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>24535</id>
+</work>
+<isbn>0618083618</isbn>
+<isbn13>9780618083619</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>7897</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>9498</id>
+<name>Wayne G. Hammond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9498.Wayne_G_Hammond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>564204</id>
+<title><![CDATA[The Road to Middle-Earth: How J.R.R. Tolkien Created A New Mythology]]></title>
+<title_without_series><![CDATA[The Road to Middle-Earth: How J.R.R. Tolkien Created A New Mythology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/564204.The_Road_to_Middle_Earth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382939841s/564204.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382939841m/564204.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>551321</id>
+</work>
+<isbn>0618257608</isbn>
+<isbn13>9780618257607</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>5548</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>5288510</id>
+<name>Tom Shippey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5288510.Tom_Shippey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23662</id>
+<title>The Tolkien Companion</title>
+<title_without_series>The Tolkien Companion</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23662.The_Tolkien_Companion]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>531</num_pages>
+<work>
+<id>24605</id>
+</work>
+<isbn>0517146487</isbn>
+<isbn13>9780517146484</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>733</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7737564</id>
+<name>J.E.A. Tyler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7737564.J_E_A_Tyler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92016</id>
+<title><![CDATA[The Origins of Tolkien's Middle-Earth for Dummies]]></title>
+<title_without_series><![CDATA[The Origins of Tolkien's Middle-Earth for Dummies]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92016.The_Origins_of_Tolkien_s_Middle_Earth_for_Dummies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>338</num_pages>
+<work>
+<id>88752</id>
+</work>
+<isbn>0764541862</isbn>
+<isbn13>9780764541865</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>622</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>344621</id>
+<name>Greg Harvey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/344621.Greg_Harvey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16906</id>
+<title><![CDATA[Splintered Light: Logos and Language in Tolkien's World]]></title>
+<title_without_series><![CDATA[Splintered Light: Logos and Language in Tolkien's World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16906.Splintered_Light]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>18548</id>
+</work>
+<isbn>0873387449</isbn>
+<isbn13>9780873387446</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>927</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10269</id>
+<name>Verlyn Flieger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10269.Verlyn_Flieger]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

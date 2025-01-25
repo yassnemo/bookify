@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>19314</id>
+  <title>Ronia, the Robber&apos;s Daughter</title>
+  <isbn><![CDATA[0140317201]]></isbn>
+  <isbn13><![CDATA[9780140317206]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1451632787m/19314.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1451632787s/19314.jpg</small_image_url>
+  <publication_year>1985</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Puffin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Ronia, who lives with her father and his band of robbers in a castle in the woods, causes trouble when she befriends the son of a rival robber chieftain.]]></description>
+  <work>
+  <id type="integer">2056506</id>
+  <books_count type="integer">96</books_count>
+  <best_book_id type="integer">19314</best_book_id>
+  <reviews_count type="integer">27733</reviews_count>
+  <ratings_sum type="integer">78514</ratings_sum>
+  <ratings_count type="integer">18366</ratings_count>
+  <text_reviews_count type="integer">581</text_reviews_count>
+  <original_publication_year type="integer">1981</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Ronja Rövardotter</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9064|4:6057|3:2623|2:475|1:147|total:18366</rating_dist>
+  <desc_user_id type="integer">20538609</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.27</average_rating>
+  <num_pages><![CDATA[176]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[14473]]></ratings_count>
+  <text_reviews_count><![CDATA[367]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/19314.Ronia_the_Robber_s_Daughter]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/19314.Ronia_the_Robber_s_Daughter]]></link>
+  <authors>
+<author>
+<id>410653</id>
+<name>Astrid Lindgren</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194544214p5/410653.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194544214p2/410653.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/410653.Astrid_Lindgren]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>268821</ratings_count>
+<text_reviews_count>6434</text_reviews_count>
+</author>
+<author>
+<id>56041</id>
+<name>Patricia Crampton</name>
+<role>Translation</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/56041.Patricia_Crampton]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>25760</ratings_count>
+<text_reviews_count>498</text_reviews_count>
+</author>
+<author>
+<id>6603</id>
+<name>Trina Schart Hyman</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372538777p5/6603.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372538777p2/6603.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6603.Trina_Schart_Hyman]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>72339</ratings_count>
+<text_reviews_count>3486</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/19314.Ronia_the_Robber_s_Daughter">Ronia, the Robber&#39;s Daughter Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140317201&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/19314.Ronia_the_Robber_s_Daughter?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="favorites" count="398"/>
+      <shelf name="fantasy" count="315"/>
+      <shelf name="children" count="313"/>
+      <shelf name="childhood" count="161"/>
+      <shelf name="fiction" count="156"/>
+      <shelf name="classics" count="153"/>
+      <shelf name="children-s-books" count="141"/>
+      <shelf name="childrens-books" count="111"/>
+      <shelf name="currently-reading" count="108"/>
+      <shelf name="books-i-own" count="96"/>
+      <shelf name="children-s" count="96"/>
+      <shelf name="swedish" count="89"/>
+      <shelf name="kids" count="85"/>
+      <shelf name="adventure" count="75"/>
+      <shelf name="favourites" count="69"/>
+      <shelf name="young-adult" count="64"/>
+      <shelf name="owned" count="63"/>
+      <shelf name="scandinavian" count="57"/>
+      <shelf name="children-books" count="38"/>
+      <shelf name="childhood-books" count="38"/>
+      <shelf name="classic" count="32"/>
+      <shelf name="to-read" count="31"/>
+      <shelf name="kinderbücher" count="30"/>
+      <shelf name="middle-grade" count="30"/>
+      <shelf name="owned-books" count="29"/>
+      <shelf name="childrens-literature" count="28"/>
+      <shelf name="read-more-than-once" count="27"/>
+      <shelf name="childhood-memories" count="25"/>
+      <shelf name="kinderboeken" count="25"/>
+      <shelf name="german" count="24"/>
+      <shelf name="children-s-literature" count="24"/>
+      <shelf name="children-s-lit" count="23"/>
+      <shelf name="youth" count="23"/>
+      <shelf name="astrid-lindgren" count="23"/>
+      <shelf name="ya" count="23"/>
+      <shelf name="kids-books" count="22"/>
+      <shelf name="childhood-favorites" count="22"/>
+      <shelf name="sweden" count="20"/>
+      <shelf name="childhood-favourites" count="20"/>
+      <shelf name="novels" count="20"/>
+      <shelf name="re-read" count="19"/>
+      <shelf name="20th-century" count="18"/>
+      <shelf name="read-as-a-child" count="18"/>
+      <shelf name="nordic" count="17"/>
+      <shelf name="childrens-lit" count="17"/>
+      <shelf name="swedish-literature" count="17"/>
+      <shelf name="historical-fiction" count="16"/>
+      <shelf name="female-author" count="15"/>
+      <shelf name="5-stars" count="14"/>
+      <shelf name="kinderbuch" count="14"/>
+      <shelf name="barnebøker" count="14"/>
+      <shelf name="1980s" count="14"/>
+      <shelf name="kid-lit" count="14"/>
+      <shelf name="kinder" count="13"/>
+      <shelf name="nostalgia" count="13"/>
+      <shelf name="favourite" count="13"/>
+      <shelf name="historical" count="13"/>
+      <shelf name="read-in-german" count="13"/>
+      <shelf name="scandinavia" count="13"/>
+      <shelf name="fairy-tales" count="12"/>
+      <shelf name="dutch" count="12"/>
+      <shelf name="lastenkirjat" count="12"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="read-in-swedish" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="all-time-favorites" count="12"/>
+      <shelf name="svenska" count="11"/>
+      <shelf name="novel" count="11"/>
+      <shelf name="scandinavian-literature" count="11"/>
+      <shelf name="fairytales" count="11"/>
+      <shelf name="children-s-book" count="11"/>
+      <shelf name="childhood-reads" count="11"/>
+      <shelf name="default" count="10"/>
+      <shelf name="female-protagonist" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="my-childhood" count="10"/>
+      <shelf name="books-from-my-childhood" count="10"/>
+      <shelf name="women" count="9"/>
+      <shelf name="lasteraamatud" count="9"/>
+      <shelf name="read-aloud" count="9"/>
+      <shelf name="books-for-children" count="9"/>
+      <shelf name="read-alouds" count="9"/>
+      <shelf name="favourite-books" count="9"/>
+      <shelf name="reread" count="9"/>
+      <shelf name="juvenile" count="9"/>
+      <shelf name="all-time-favourites" count="9"/>
+      <shelf name="favorite" count="9"/>
+      <shelf name="translation" count="8"/>
+      <shelf name="europe" count="8"/>
+      <shelf name="borrowed" count="8"/>
+      <shelf name="children-s-fiction" count="8"/>
+      <shelf name="swedish-books" count="7"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="friendship" count="7"/>
+      <shelf name="for-kids" count="7"/>
+      <shelf name="kids-and-ya" count="7"/>
+      <shelf name="children-young-adult" count="7"/>
+      <shelf name="scandinavian-lit" count="7"/>
+      <shelf name="deutsch" count="7"/>
+      <shelf name="translated" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1148052</id>
+<title>Die kleine Hexe</title>
+<title_without_series>Die kleine Hexe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1148052.Die_kleine_Hexe]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334150369s/1148052.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334150369m/1148052.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2799480</id>
+</work>
+<isbn>352210580X</isbn>
+<isbn13>9783522105804</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>6933</ratings_count>
+<publication_year>1957</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>127314</id>
+<name>Otfried Preußler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127314.Otfried_Preu_ler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>468837</id>
+<title>Jim Knopf und die Wilde 13</title>
+<title_without_series>Jim Knopf und die Wilde 13</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/468837.Jim_Knopf_und_die_Wilde_13]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1375813974s/468837.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1375813974m/468837.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>457176</id>
+</work>
+<isbn>3522149904</isbn>
+<isbn13>9783522149907</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>2406</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15619</id>
+<name>Michael Ende</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15619.Michael_Ende]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>157551</id>
+<title>Oh, wie schön ist Panama</title>
+<title_without_series>Oh, wie schön ist Panama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/157551.Oh_wie_sch_n_ist_Panama]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>152037</id>
+</work>
+<isbn>3407805330</isbn>
+<isbn13>9783407805331</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>4340</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>91148</id>
+<name>Janosch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/91148.Janosch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>443103</id>
+<title><![CDATA[Moominland Midwinter (The Moomins, #6)]]></title>
+<title_without_series>Moominland Midwinter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/443103.Moominland_Midwinter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1443655520s/443103.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1443655520m/443103.jpg]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>215575</id>
+</work>
+<isbn>0713639806</isbn>
+<isbn13>9780713639803</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>5916</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>45230</id>
+<name>Tove Jansson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45230.Tove_Jansson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>887010</id>
+<title>Das doppelte Lottchen</title>
+<title_without_series>Das doppelte Lottchen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/887010.Das_doppelte_Lottchen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380821301s/887010.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380821301m/887010.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>872268</id>
+</work>
+<isbn>3791530119</isbn>
+<isbn13>9783791530116</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>6625</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6519</id>
+<name>Erich Kästner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6519.Erich_K_stner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>708465</id>
+<title>Die rote Zora und ihre Bande</title>
+<title_without_series>Die rote Zora und ihre Bande</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/708465.Die_rote_Zora_und_ihre_Bande]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>694739</id>
+</work>
+<isbn>3794101227</isbn>
+<isbn13>9783794101221</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1782</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>377591</id>
+<name>Kurt Held</name>
+<link><![CDATA[https://www.goodreads.com/author/show/377591.Kurt_Held]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2149879</id>
+<title><![CDATA[Pettersson kriegt Weihnachtsbesuch]]></title>
+<title_without_series><![CDATA[Pettersson kriegt Weihnachtsbesuch]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2149879.Pettersson_kriegt_Weihnachtsbesuch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>2155376</id>
+</work>
+<isbn>3789161748</isbn>
+<isbn13>9783789161742</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>606</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>229085</id>
+<name>Sven Nordqvist</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229085.Sven_Nordqvist]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>634521</id>
+<title>De rode prinses</title>
+<title_without_series>De rode prinses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/634521.De_rode_prinses]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1271331080s/634521.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1271331080m/634521.jpg]]></image_url>
+<num_pages>127</num_pages>
+<work>
+<id>620809</id>
+</work>
+<isbn>9025105777</isbn>
+<isbn13>9789025105778</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>329</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>342373</id>
+<name>Paul Biegel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/342373.Paul_Biegel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2190133</id>
+<title>Karius und Baktus</title>
+<title_without_series>Karius und Baktus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2190133.Karius_und_Baktus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456409282s/2190133.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456409282m/2190133.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2195855</id>
+</work>
+<isbn>3570016943</isbn>
+<isbn13>9783570016947</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>841</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>992882</id>
+<name>Thorbjørn Egner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/992882.Thorbj_rn_Egner]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>95420</id>
+  <title>Personal History</title>
+  <isbn><![CDATA[0375701044]]></isbn>
+  <isbn13><![CDATA[9780375701047]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1320504681m/95420.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1320504681s/95420.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">695094</id>
+  <books_count type="integer">22</books_count>
+  <best_book_id type="integer">95420</best_book_id>
+  <reviews_count type="integer">24309</reviews_count>
+  <ratings_sum type="integer">59195</ratings_sum>
+  <ratings_count type="integer">14336</ratings_count>
+  <text_reviews_count type="integer">751</text_reviews_count>
+  <original_publication_year type="integer">1997</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Personal History</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6008|4:5197|3:2360|2:516|1:255|total:14336</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.13</average_rating>
+  <num_pages><![CDATA[642]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13722]]></ratings_count>
+  <text_reviews_count><![CDATA[671]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/95420.Personal_History]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/95420.Personal_History]]></link>
+  <authors>
+<author>
+<id>54931</id>
+<name>Katharine Graham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371404590p5/54931.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371404590p2/54931.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/54931.Katharine_Graham]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>14578</ratings_count>
+<text_reviews_count>777</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/95420.Personal_History">Personal History Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375701044&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/95420.Personal_History?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3909"/>
+      <shelf name="non-fiction" count="185"/>
+      <shelf name="currently-reading" count="136"/>
+      <shelf name="memoir" count="135"/>
+      <shelf name="biography" count="83"/>
+      <shelf name="history" count="77"/>
+      <shelf name="favorites" count="76"/>
+      <shelf name="autobiography" count="68"/>
+      <shelf name="biographies" count="48"/>
+      <shelf name="biography-memoir" count="39"/>
+      <shelf name="journalism" count="33"/>
+      <shelf name="politics" count="30"/>
+      <shelf name="owned" count="27"/>
+      <shelf name="nonfiction" count="24"/>
+      <shelf name="pulitzer" count="22"/>
+      <shelf name="women" count="18"/>
+      <shelf name="memoirs" count="15"/>
+      <shelf name="bio" count="14"/>
+      <shelf name="book-group" count="14"/>
+      <shelf name="memoir-biography" count="13"/>
+      <shelf name="book-club" count="12"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="default" count="11"/>
+      <shelf name="library" count="11"/>
+      <shelf name="biography-autobiography" count="11"/>
+      <shelf name="american-history" count="11"/>
+      <shelf name="pulitzer-prize" count="10"/>
+      <shelf name="biographies-memoirs" count="10"/>
+      <shelf name="bookclub" count="10"/>
+      <shelf name="business" count="9"/>
+      <shelf name="abandoned" count="9"/>
+      <shelf name="autobiographies" count="9"/>
+      <shelf name="feminism" count="8"/>
+      <shelf name="bio-memoir" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="watergate" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="memoir-autobiography" count="7"/>
+      <shelf name="political" count="7"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="to-read-nonfiction" count="6"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="all-time-favorites" count="6"/>
+      <shelf name="adult-non-fiction" count="6"/>
+      <shelf name="100-best-business-books" count="5"/>
+      <shelf name="40-before-40" count="5"/>
+      <shelf name="bios" count="5"/>
+      <shelf name="biographical" count="5"/>
+      <shelf name="autobiography-memoir" count="5"/>
+      <shelf name="personal-library" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="book-club-books" count="5"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="auto-biography" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="have" count="4"/>
+      <shelf name="female-author" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="autobiography-biography" count="4"/>
+      <shelf name="washington" count="4"/>
+      <shelf name="recommended" count="4"/>
+      <shelf name="media" count="4"/>
+      <shelf name="bookshelf" count="4"/>
+      <shelf name="book-group-books" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="audio" count="4"/>
+      <shelf name="american" count="4"/>
+      <shelf name="america" count="4"/>
+      <shelf name="adult-nonfiction" count="4"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="biographies-and-memoirs" count="3"/>
+      <shelf name="pulitzer-biography" count="3"/>
+      <shelf name="law" count="3"/>
+      <shelf name="ambition" count="3"/>
+      <shelf name="stopped-reading" count="3"/>
+      <shelf name="biography-memoirs" count="3"/>
+      <shelf name="writing" count="3"/>
+      <shelf name="pulitzer-prize-winners" count="3"/>
+      <shelf name="non-fiction-to-read" count="3"/>
+      <shelf name="washington-dc" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="pulitzers" count="3"/>
+      <shelf name="rory-gilmore-book-challenge" count="3"/>
+      <shelf name="on-my-bookshelf" count="3"/>
+      <shelf name="40-books-to-read-before-turning-40" count="3"/>
+      <shelf name="40-to-read-before-40" count="3"/>
+      <shelf name="rory-gilmore-challenge" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="rory-gilmore" count="3"/>
+      <shelf name="strong-women" count="3"/>
+      <shelf name="to-read-non-fiction" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="want-to-read" count="3"/>
+      <shelf name="on-hold" count="3"/>
+      <shelf name="historical" count="3"/>
+      <shelf name="united-states" count="3"/>
+      <shelf name="leadership" count="3"/>
+      <shelf name="20th-century" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>346220</id>
+<title><![CDATA[A Good Life: Newspapering and Other Adventures]]></title>
+<title_without_series><![CDATA[A Good Life: Newspapering and Other Adventures]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/346220.A_Good_Life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415006028s/346220.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415006028m/346220.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>336520</id>
+</work>
+<isbn>0684825236</isbn>
+<isbn13>9780684825236</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>742</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>194425</id>
+<name>Ben Bradlee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194425.Ben_Bradlee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5267</id>
+<title>Edith Wharton</title>
+<title_without_series>Edith Wharton</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5267.Edith_Wharton]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>748829</id>
+</work>
+<isbn>0880640200</isbn>
+<isbn13>9780880640206</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>284</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>145662</id>
+<name>R.W.B. Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/145662.R_W_B_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>674181</id>
+<title>Madam Secretary: A Memoir</title>
+<title_without_series>Madam Secretary: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/674181.Madam_Secretary]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>660193</id>
+</work>
+<isbn>1401359620</isbn>
+<isbn13>9781401359621</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>5842</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>63111</id>
+<name>Madeleine K. Albright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63111.Madeleine_K_Albright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1558473</id>
+<title>Benjamin Franklin</title>
+<title_without_series>Benjamin Franklin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1558473.Benjamin_Franklin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>864</num_pages>
+<work>
+<id>1550976</id>
+</work>
+<isbn>0140152601</isbn>
+<isbn13>9780140152609</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>231</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4178376</id>
+<name>Carl Van Doren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4178376.Carl_Van_Doren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20663740</id>
+<title>Eleanor and Franklin</title>
+<title_without_series>Eleanor and Franklin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20663740-eleanor-and-franklin]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392029904s/20663740.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392029904m/20663740.jpg]]></image_url>
+<num_pages>1008</num_pages>
+<work>
+<id>2567726</id>
+</work>
+<isbn>0393349756</isbn>
+<isbn13>9780393349757</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>2230</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>29297</id>
+<name>Joseph P. Lash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29297.Joseph_P_Lash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>272507</id>
+<title>Lindbergh</title>
+<title_without_series>Lindbergh</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/272507.Lindbergh]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>262763</id>
+</work>
+<isbn>0425170411</isbn>
+<isbn13>9780425170410</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2722</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>158063</id>
+<name>A. Scott Berg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/158063.A_Scott_Berg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>783268</id>
+<title>John Keats</title>
+<title_without_series>John Keats</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/783268.John_Keats]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>780</num_pages>
+<work>
+<id>527995</id>
+</work>
+<isbn>0674478258</isbn>
+<isbn13>9780674478251</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>122</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>204381</id>
+<name>Walter Jackson Bate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204381.Walter_Jackson_Bate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>70426</id>
+<title><![CDATA[Front Row at the White House : My Life and Times]]></title>
+<title_without_series><![CDATA[Front Row at the White House : My Life and Times]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/70426.Front_Row_at_the_White_House_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>68241</id>
+</work>
+<isbn>0684868091</isbn>
+<isbn13>9780684868097</isbn13>
+<average_rating>3.54</average_rating>
+<ratings_count>412</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>39732</id>
+<name>Helen Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39732.Helen_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>193461</id>
+<title>Memoirs, 1925-1950</title>
+<title_without_series>Memoirs, 1925-1950</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/193461.Memoirs_1925_1950]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>596</num_pages>
+<work>
+<id>187090</id>
+</work>
+<isbn>0394716248</isbn>
+<isbn13>9780394716244</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>192</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>43812</id>
+<name>George F. Kennan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43812.George_F_Kennan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>88612</id>
+<title>Growing Up</title>
+<title_without_series>Growing Up</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88612.Growing_Up]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>85515</id>
+</work>
+<isbn>0451168380</isbn>
+<isbn13>9780451168382</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>5401</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1392861</id>
+<name>Russell Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1392861.Russell_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>334050</id>
+<title><![CDATA[Khrushchev: The Man and His Era]]></title>
+<title_without_series><![CDATA[Khrushchev: The Man and His Era]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/334050.Khrushchev]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>896</num_pages>
+<work>
+<id>1084727</id>
+</work>
+<isbn>0393324842</isbn>
+<isbn13>9780393324846</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>837</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>104203</id>
+<name>William Taubman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104203.William_Taubman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>123978</id>
+<title>Harriet Beecher Stowe</title>
+<title_without_series>Harriet Beecher Stowe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/123978.Harriet_Beecher_Stowe]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369152237s/123978.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369152237m/123978.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>119389</id>
+</work>
+<isbn>0195096398</isbn>
+<isbn13>9780195096392</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>89</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>71381</id>
+<name>Joan D. Hedrick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71381.Joan_D_Hedrick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>108457</id>
+<title><![CDATA[The Most Famous Man in America: The Biography of Henry Ward Beecher]]></title>
+<title_without_series><![CDATA[The Most Famous Man in America: The Biography of Henry Ward Beecher]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/108457.The_Most_Famous_Man_in_America]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320442378s/108457.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320442378m/108457.jpg]]></image_url>
+<num_pages>527</num_pages>
+<work>
+<id>4158</id>
+</work>
+<isbn>0385513976</isbn>
+<isbn13>9780385513975</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>730</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>62780</id>
+<name>Debby Applegate</name>
+<link><![CDATA[https://www.goodreads.com/author/show/62780.Debby_Applegate]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107430</id>
+<title>The Road from Coorain</title>
+<title_without_series>The Road from Coorain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107430.The_Road_from_Coorain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>390926</id>
+</work>
+<isbn>0679724362</isbn>
+<isbn13>9780679724360</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>9277</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>21163</id>
+<name>Jill Ker Conway</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21163.Jill_Ker_Conway]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>177145</id>
+<title><![CDATA[Fortunate Son: The Healing of a Vietnam Vet]]></title>
+<title_without_series><![CDATA[Fortunate Son: The Healing of a Vietnam Vet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/177145.Fortunate_Son]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>171136</id>
+</work>
+<isbn>0802136907</isbn>
+<isbn13>9780802136909</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>556</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>103217</id>
+<name>Lewis B. Puller Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103217.Lewis_B_Puller_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2278003</id>
+<title><![CDATA[Counselor: A Life at the Edge of History]]></title>
+<title_without_series><![CDATA[Counselor: A Life at the Edge of History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2278003.Counselor]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>2284116</id>
+</work>
+<isbn>0060798718</isbn>
+<isbn13>9780060798710</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>934</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>1026551</id>
+<name>Theodore C. Sorensen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1026551.Theodore_C_Sorensen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>441333</id>
+<title>Henry James: A Life</title>
+<title_without_series>Henry James: A Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/441333.Henry_James]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328419524s/441333.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328419524m/441333.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>132301</id>
+</work>
+<isbn>0006548687</isbn>
+<isbn13>9780006548683</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>187</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>921548</id>
+<name>Leon Edel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/921548.Leon_Edel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>591435</id>
+<title><![CDATA[The Life and Times of Cotton Mather]]></title>
+<title_without_series><![CDATA[The Life and Times of Cotton Mather]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/591435.The_Life_and_Times_of_Cotton_Mather]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>578182</id>
+</work>
+<isbn>1566492068</isbn>
+<isbn13>9781566492065</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>61</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>16935</id>
+<name>Kenneth Silverman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16935.Kenneth_Silverman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

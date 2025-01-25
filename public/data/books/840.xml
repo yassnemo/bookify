@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>840</id>
+  <title>The Design of Everyday Things</title>
+  <isbn><![CDATA[0465067107]]></isbn>
+  <isbn13><![CDATA[9780465067107]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>19</publication_day>
+  <publisher>Basic Books</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Anyone who designs anything to be used by humans -- from physical objects to computer programs to conceptual tools -- must read this book, and it is an equally tremendous read for anyone who has to use anything created by another human. It could forever change how you experience and interact with your physical surroundings, open your eyes to the perversity of bad design and the desirability of good design, and raise your expectations about how things <i>should</i> be designed.<br /><br />B &amp; W photographs and illustrations throughout.]]></description>
+  <work>
+  <id type="integer">18518</id>
+  <books_count type="integer">38</books_count>
+  <best_book_id type="integer">840</best_book_id>
+  <reviews_count type="integer">48213</reviews_count>
+  <ratings_sum type="integer">63633</ratings_sum>
+  <ratings_count type="integer">15225</ratings_count>
+  <text_reviews_count type="integer">1194</text_reviews_count>
+  <original_publication_year type="integer">1988</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Psychology of Everyday Things</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6294|4:6030|3:2329|2:484|1:88|total:15225</rating_dist>
+  <desc_user_id type="integer">4540718</desc_user_id>
+  <default_chaptering_book_id type="integer">16867</default_chaptering_book_id>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[240]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11856]]></ratings_count>
+  <text_reviews_count><![CDATA[926]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things]]></link>
+  <authors>
+<author>
+<id>552</id>
+<name>Donald A. Norman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227363427p5/552.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227363427p2/552.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/552.Donald_A_Norman]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>19874</ratings_count>
+<text_reviews_count>1460</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things">The Design of Everyday Things Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0465067107&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="16424"/>
+      <shelf name="currently-reading" count="2403"/>
+      <shelf name="design" count="615"/>
+      <shelf name="non-fiction" count="328"/>
+      <shelf name="favorites" count="151"/>
+      <shelf name="ux" count="142"/>
+      <shelf name="nonfiction" count="125"/>
+      <shelf name="business" count="112"/>
+      <shelf name="tech" count="73"/>
+      <shelf name="art" count="63"/>
+      <shelf name="psychology" count="56"/>
+      <shelf name="science" count="54"/>
+      <shelf name="ux-design" count="52"/>
+      <shelf name="product-management" count="51"/>
+      <shelf name="to-buy" count="51"/>
+      <shelf name="owned" count="49"/>
+      <shelf name="engineering" count="49"/>
+      <shelf name="personal-mba" count="48"/>
+      <shelf name="art-design" count="38"/>
+      <shelf name="work" count="33"/>
+      <shelf name="graphic-design" count="32"/>
+      <shelf name="programming" count="31"/>
+      <shelf name="books-i-own" count="29"/>
+      <shelf name="technology" count="28"/>
+      <shelf name="design-books" count="27"/>
+      <shelf name="to-read-non-fiction" count="24"/>
+      <shelf name="creativity" count="24"/>
+      <shelf name="product" count="24"/>
+      <shelf name="game-design" count="24"/>
+      <shelf name="kindle" count="23"/>
+      <shelf name="on-hold" count="23"/>
+      <shelf name="web-design" count="23"/>
+      <shelf name="ux-books" count="22"/>
+      <shelf name="user-experience" count="21"/>
+      <shelf name="wish-list" count="20"/>
+      <shelf name="design-thinking" count="20"/>
+      <shelf name="career" count="20"/>
+      <shelf name="interaction-design" count="19"/>
+      <shelf name="software" count="19"/>
+      <shelf name="philosophy" count="19"/>
+      <shelf name="product-design" count="18"/>
+      <shelf name="unfinished" count="18"/>
+      <shelf name="hci" count="18"/>
+      <shelf name="technical" count="17"/>
+      <shelf name="abandoned" count="17"/>
+      <shelf name="art-and-design" count="17"/>
+      <shelf name="ebook" count="16"/>
+      <shelf name="ui-ux" count="16"/>
+      <shelf name="owned-books" count="16"/>
+      <shelf name="computer-science" count="15"/>
+      <shelf name="reference" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="english" count="15"/>
+      <shelf name="to-read-nonfiction" count="15"/>
+      <shelf name="learning" count="15"/>
+      <shelf name="default" count="14"/>
+      <shelf name="partially-read" count="14"/>
+      <shelf name="pmba" count="14"/>
+      <shelf name="academic" count="14"/>
+      <shelf name="education" count="13"/>
+      <shelf name="professional" count="12"/>
+      <shelf name="persuasion" count="12"/>
+      <shelf name="software-development" count="12"/>
+      <shelf name="audiobook" count="12"/>
+      <shelf name="have" count="12"/>
+      <shelf name="other" count="12"/>
+      <shelf name="industrial-design" count="12"/>
+      <shelf name="to-read-2017" count="11"/>
+      <shelf name="knowledge" count="11"/>
+      <shelf name="my-books" count="11"/>
+      <shelf name="to-read-design" count="11"/>
+      <shelf name="recommended" count="11"/>
+      <shelf name="design-ux" count="11"/>
+      <shelf name="professional-development" count="11"/>
+      <shelf name="architecture" count="11"/>
+      <shelf name="usability" count="10"/>
+      <shelf name="to-read-business" count="10"/>
+      <shelf name="architecture-design" count="10"/>
+      <shelf name="must-read" count="10"/>
+      <shelf name="research" count="10"/>
+      <shelf name="school" count="10"/>
+      <shelf name="history" count="10"/>
+      <shelf name="business-books" count="10"/>
+      <shelf name="shelfari-wishlist" count="9"/>
+      <shelf name="next" count="9"/>
+      <shelf name="pm" count="9"/>
+      <shelf name="work-related" count="9"/>
+      <shelf name="nonfiction-to-read" count="9"/>
+      <shelf name="computing" count="9"/>
+      <shelf name="general" count="9"/>
+      <shelf name="marketing" count="9"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="development" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="classics" count="9"/>
+      <shelf name="cs" count="8"/>
+      <shelf name="ux-reading-list" count="8"/>
+      <shelf name="audible" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>289062</id>
+<title><![CDATA[About Face 3: The Essentials of Interaction Design]]></title>
+<title_without_series><![CDATA[About Face 3: The Essentials of Interaction Design]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/289062.About_Face_3]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>610</num_pages>
+<work>
+<id>280443</id>
+</work>
+<isbn>0470084111</isbn>
+<isbn13>9780470084113</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>2370</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16770</id>
+<name>Alan Cooper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16770.Alan_Cooper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>130730</id>
+<title><![CDATA[Universal Principles of Design: 100 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach Through Design]]></title>
+<title_without_series><![CDATA[Universal Principles of Design: 100 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach Through Design]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/130730.Universal_Principles_of_Design]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328754391s/130730.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328754391m/130730.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>125913</id>
+</work>
+<isbn>1592530079</isbn>
+<isbn13>9781592530076</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3855</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>75232</id>
+<name>William Lidwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75232.William_Lidwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3296910</id>
+<title><![CDATA[Web Form Design: Filling in the Blanks]]></title>
+<title_without_series><![CDATA[Web Form Design: Filling in the Blanks]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3296910-web-form-design]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328342635s/3296910.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328342635m/3296910.jpg]]></image_url>
+<num_pages>226</num_pages>
+<work>
+<id>3333608</id>
+</work>
+<isbn>1933820241</isbn>
+<isbn13>9781933820248</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1595</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>338694</id>
+<name>Luke Wroblewski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/338694.Luke_Wroblewski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1867</id>
+<title><![CDATA[The Elements of User Experience: User-Centered Design for the Web]]></title>
+<title_without_series><![CDATA[The Elements of User Experience: User-Centered Design for the Web]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1867.The_Elements_of_User_Experience]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>5985</id>
+</work>
+<isbn>0735712026</isbn>
+<isbn13>9780735712027</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2679</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1255</id>
+<name>Jesse James Garrett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1255.Jesse_James_Garrett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>344726</id>
+<title><![CDATA[The Humane Interface: New Directions for Designing Interactive Systems]]></title>
+<title_without_series><![CDATA[The Humane Interface: New Directions for Designing Interactive Systems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/344726.The_Humane_Interface]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>335055</id>
+</work>
+<isbn>0201379376</isbn>
+<isbn13>9780201379372</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>789</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>197760</id>
+<name>Jef Raskin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/197760.Jef_Raskin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>980280</id>
+<title><![CDATA[Sketching User Experiences:  Getting the Design Right and the Right Design]]></title>
+<title_without_series><![CDATA[Sketching User Experiences:  Getting the Design Right and the Right Design]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/980280.Sketching_User_Experiences]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>443</num_pages>
+<work>
+<id>965169</id>
+</work>
+<isbn>0123740371</isbn>
+<isbn13>9780123740373</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1747</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>494245</id>
+<name>Bill Buxton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/494245.Bill_Buxton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18197267</id>
+<title><![CDATA[Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability]]></title>
+<title_without_series><![CDATA[Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384736553s/18197267.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384736553m/18197267.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>561281</id>
+</work>
+<isbn>0321965515</isbn>
+<isbn13>9780321965516</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>14764</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>2298</id>
+<name>Steve Krug</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2298.Steve_Krug]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>258476</id>
+<title><![CDATA[Designing Interactions [With CDROM]]]></title>
+<title_without_series><![CDATA[Designing Interactions [With CDROM]]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/258476.Designing_Interactions_With_CDROM_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>250523</id>
+</work>
+<isbn>0262134748</isbn>
+<isbn13>9780262134743</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1799</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>151057</id>
+<name>Bill Moggridge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/151057.Bill_Moggridge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8564020</id>
+<title><![CDATA[Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules]]></title>
+<title_without_series><![CDATA[Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8564020-designing-with-the-mind-in-mind]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355822484s/8564020.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355822484m/8564020.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>13432501</id>
+</work>
+<isbn>0080963021</isbn>
+<isbn13>9780080963020</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>1010</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>16658951</id>
+<name><![CDATA[Jeff                                                 Johnson]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/16658951.Jeff_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1868</id>
+<title><![CDATA[Observing the User Experience: A Practitioner's Guide to User Research]]></title>
+<title_without_series><![CDATA[Observing the User Experience: A Practitioner's Guide to User Research]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1868.Observing_the_User_Experience]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>5986</id>
+</work>
+<isbn>1558609237</isbn>
+<isbn13>9781558609235</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>462</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>1256</id>
+<name>Mike Kuniavsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1256.Mike_Kuniavsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>56837</id>
+<title><![CDATA[Communicating Design: Developing Web Site Documentation for Design and Planning]]></title>
+<title_without_series><![CDATA[Communicating Design: Developing Web Site Documentation for Design and Planning]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/56837.Communicating_Design]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>55376</id>
+</work>
+<isbn>0321392353</isbn>
+<isbn13>9780321392350</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>948</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4523671</id>
+<name>Dan M. Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4523671.Dan_M_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>992311</id>
+<title><![CDATA[Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests]]></title>
+<title_without_series><![CDATA[Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/992311.Handbook_of_Usability_Testing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>330</num_pages>
+<work>
+<id>977806</id>
+</work>
+<isbn>0471594032</isbn>
+<isbn13>9780471594031</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>390</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>366559</id>
+<name>Jeffrey Rubin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/366559.Jeffrey_Rubin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>344724</id>
+<title><![CDATA[Designing Interfaces: Patterns for Effective Interaction Design]]></title>
+<title_without_series><![CDATA[Designing Interfaces: Patterns for Effective Interaction Design]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/344724.Designing_Interfaces]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384259305s/344724.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384259305m/344724.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>335053</id>
+</work>
+<isbn>0596008031</isbn>
+<isbn13>9780596008031</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1346</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>197758</id>
+<name>Jenifer Tidwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/197758.Jenifer_Tidwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2875137</id>
+<title><![CDATA[Mental Models: Aligning Design Strategy with Human Behavior]]></title>
+<title_without_series><![CDATA[Mental Models: Aligning Design Strategy with Human Behavior]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2875137-mental-models]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328309329s/2875137.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328309329m/2875137.jpg]]></image_url>
+<num_pages>299</num_pages>
+<work>
+<id>2901300</id>
+</work>
+<isbn>1933820063</isbn>
+<isbn13>9781933820064</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>679</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1246713</id>
+<name>Indi Young</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1246713.Indi_Young]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>70132</id>
+<title><![CDATA[Information Architecture for the World Wide Web: Designing Large-Scale Web Sites]]></title>
+<title_without_series><![CDATA[Information Architecture for the World Wide Web: Designing Large-Scale Web Sites]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/70132.Information_Architecture_for_the_World_Wide_Web]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328834902s/70132.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328834902m/70132.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>67949</id>
+</work>
+<isbn>0596527349</isbn>
+<isbn13>9780596527341</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2606</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>39503</id>
+<name>Peter Morville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39503.Peter_Morville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10778139</id>
+<title><![CDATA[100 Things Every Designer Needs to Know about People]]></title>
+<title_without_series><![CDATA[100 Things Every Designer Needs to Know about People]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10778139-100-things-every-designer-needs-to-know-about-people]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>15689990</id>
+</work>
+<isbn>0321767535</isbn>
+<isbn13>9780321767530</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>2689</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1893922</id>
+<name>Susan M. Weinschenk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1893922.Susan_M_Weinschenk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17746</id>
+<title><![CDATA[Visual Explanations: Images and Quantities, Evidence and Narrative]]></title>
+<title_without_series><![CDATA[Visual Explanations: Images and Quantities, Evidence and Narrative]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17746.Visual_Explanations]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>19274</id>
+</work>
+<isbn>0961392126</isbn>
+<isbn13>9780961392123</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>2376</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10775</id>
+<name>Edward R. Tufte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10775.Edward_R_Tufte]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8881346</id>
+<title><![CDATA[Simple and Usable Web, Mobile, and Interaction Design]]></title>
+<title_without_series><![CDATA[Simple and Usable Web, Mobile, and Interaction Design]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8881346-simple-and-usable-web-mobile-and-interaction-design]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>13757173</id>
+</work>
+<isbn>0321703545</isbn>
+<isbn13>9780321703545</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>535</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4199000</id>
+<name>Giles Colborne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4199000.Giles_Colborne]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

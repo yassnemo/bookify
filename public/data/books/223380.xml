@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>223380</id>
+  <title><![CDATA[Stories of Your Life and Others]]></title>
+  <isbn><![CDATA[0330426648]]></isbn>
+  <isbn13><![CDATA[9780330426640]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00L2EQODK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1356138316m/223380.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1356138316s/223380.jpg</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>Small Beer Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[<div>Ted Chiang's first published story, "<i>Tower of Babylon</i>," won the Nebula Award in 1990. Subsequent stories have won the Asimov's SF Magazine reader poll, a second Nebula Award, the Theodore Sturgeon Memorial Award, and the Sidewise Award for alternate history. He won the John W. Campbell Award for Best New Writer in 1992. Story for story, he is the most honored young writer in modern SF.<br /><br />Now, collected here for the first time are all seven of this extraordinary writer's stories so far-plus an eighth story written especially for this volume.<br /><br />What if men built a tower from Earth to Heaven-and broke through to Heaven's other side? What if we discovered that the fundamentals of mathematics were arbitrary and inconsistent? What if there were a science of naming things that calls life into being from inanimate matter? What if exposure to an alien language forever changed our perception of time? What if all the beliefs of fundamentalist Christianity were literally true, and the sight of sinners being swallowed into fiery pits were a routine event on city streets? These are the kinds of outrageous questions posed by the stories of Ted Chiang. Stories of your life . . . and others.<br /></div>]]></description>
+  <work>
+  <id type="integer">216334</id>
+  <books_count type="integer">60</books_count>
+  <best_book_id type="integer">223380</best_book_id>
+  <reviews_count type="integer">63407</reviews_count>
+  <ratings_sum type="integer">105250</ratings_sum>
+  <ratings_count type="integer">24656</ratings_count>
+  <text_reviews_count type="integer">3534</text_reviews_count>
+  <original_publication_year type="integer">2002</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Stories of Your Life and Others </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11672|4:8912|3:3264|2:642|1:166|total:24656</rating_dist>
+  <desc_user_id type="integer">171430</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.27</average_rating>
+  <num_pages><![CDATA[281]]></num_pages>
+  <format><![CDATA[ebook]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16289]]></ratings_count>
+  <text_reviews_count><![CDATA[2078]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others]]></link>
+  <authors>
+<author>
+<id>130698</id>
+<name>Ted Chiang</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399023404p5/130698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399023404p2/130698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/130698.Ted_Chiang]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>45024</ratings_count>
+<text_reviews_count>5945</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others">Stories of Your Life and Others Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0330426648&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="815"/>
+      <shelf name="fiction" count="740"/>
+      <shelf name="sci-fi" count="326"/>
+      <shelf name="short-stories" count="315"/>
+      <shelf name="fantasy" count="244"/>
+      <shelf name="science-fiction" count="189"/>
+      <shelf name="favorites" count="146"/>
+      <shelf name="owned" count="107"/>
+      <shelf name="kindle" count="85"/>
+      <shelf name="sci-fi-fantasy" count="85"/>
+      <shelf name="speculative-fiction" count="82"/>
+      <shelf name="ebook" count="82"/>
+      <shelf name="anthology" count="78"/>
+      <shelf name="short-story" count="72"/>
+      <shelf name="read-in-2017" count="67"/>
+      <shelf name="library" count="61"/>
+      <shelf name="to-buy" count="58"/>
+      <shelf name="book-club" count="56"/>
+      <shelf name="short-fiction" count="55"/>
+      <shelf name="sword-and-laser" count="53"/>
+      <shelf name="scifi" count="52"/>
+      <shelf name="books-i-own" count="47"/>
+      <shelf name="collection" count="47"/>
+      <shelf name="short-story-collections" count="47"/>
+      <shelf name="philosophy" count="43"/>
+      <shelf name="currently-reading" count="42"/>
+      <shelf name="short-story-collection" count="42"/>
+      <shelf name="read-in-2016" count="42"/>
+      <shelf name="science" count="41"/>
+      <shelf name="audiobook" count="40"/>
+      <shelf name="anthologies" count="37"/>
+      <shelf name="favourites" count="36"/>
+      <shelf name="read-2017" count="33"/>
+      <shelf name="sff" count="33"/>
+      <shelf name="ebooks" count="31"/>
+      <shelf name="collections" count="29"/>
+      <shelf name="stories" count="29"/>
+      <shelf name="to-read-fiction" count="28"/>
+      <shelf name="american" count="27"/>
+      <shelf name="english" count="26"/>
+      <shelf name="shorts" count="26"/>
+      <shelf name="wish-list" count="26"/>
+      <shelf name="owned-books" count="25"/>
+      <shelf name="science-fiction-fantasy" count="25"/>
+      <shelf name="abandoned" count="24"/>
+      <shelf name="audiobooks" count="24"/>
+      <shelf name="sci-fi-and-fantasy" count="24"/>
+      <shelf name="ciencia-ficcion" count="23"/>
+      <shelf name="ciencia-ficción" count="23"/>
+      <shelf name="speculative" count="23"/>
+      <shelf name="fantasy-sci-fi" count="22"/>
+      <shelf name="default" count="21"/>
+      <shelf name="audio" count="21"/>
+      <shelf name="on-hold" count="21"/>
+      <shelf name="literature" count="21"/>
+      <shelf name="short" count="20"/>
+      <shelf name="read-2016" count="19"/>
+      <shelf name="shortstories" count="18"/>
+      <shelf name="sf" count="17"/>
+      <shelf name="maybe" count="17"/>
+      <shelf name="e-book" count="16"/>
+      <shelf name="dnf" count="16"/>
+      <shelf name="recommended" count="16"/>
+      <shelf name="reviewed" count="15"/>
+      <shelf name="audible" count="15"/>
+      <shelf name="religion" count="15"/>
+      <shelf name="sf-fantasy" count="15"/>
+      <shelf name="fantascienza" count="15"/>
+      <shelf name="fantasy-scifi" count="15"/>
+      <shelf name="21st-century" count="15"/>
+      <shelf name="borrowed" count="15"/>
+      <shelf name="short-stories-novellas" count="14"/>
+      <shelf name="2016-reads" count="14"/>
+      <shelf name="sword-laser" count="14"/>
+      <shelf name="language" count="14"/>
+      <shelf name="adult-fiction" count="14"/>
+      <shelf name="aliens" count="14"/>
+      <shelf name="sf-f" count="14"/>
+      <shelf name="adult" count="13"/>
+      <shelf name="to-read-2017" count="13"/>
+      <shelf name="unfinished" count="13"/>
+      <shelf name="5-stars" count="13"/>
+      <shelf name="novels" count="13"/>
+      <shelf name="favorite" count="13"/>
+      <shelf name="fiction-to-read" count="12"/>
+      <shelf name="to-reread" count="12"/>
+      <shelf name="priority" count="12"/>
+      <shelf name="bookclub" count="12"/>
+      <shelf name="steampunk" count="11"/>
+      <shelf name="re-read" count="11"/>
+      <shelf name="contemporary" count="11"/>
+      <shelf name="movie" count="11"/>
+      <shelf name="have" count="11"/>
+      <shelf name="e-books" count="11"/>
+      <shelf name="linguistics" count="11"/>
+      <shelf name="2017-reading-challenge" count="10"/>
+      <shelf name="2017-reading-list" count="10"/>
+      <shelf name="relatos" count="10"/>
+      <shelf name="paused" count="10"/>
+      <shelf name="to-read-sci-fi" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>156783</id>
+<title>Axiomatic</title>
+<title_without_series>Axiomatic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/156783.Axiomatic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1287341765s/156783.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1287341765m/156783.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1270534</id>
+</work>
+<isbn>0061052655</isbn>
+<isbn13>9780061052651</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2748</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32699</id>
+<name>Greg Egan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32699.Greg_Egan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2819368</id>
+<title>Pump Six and Other Stories</title>
+<title_without_series>Pump Six and Other Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2819368-pump-six-and-other-stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391343246s/2819368.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391343246m/2819368.jpg]]></image_url>
+<num_pages>239</num_pages>
+<work>
+<id>2845301</id>
+</work>
+<isbn>159780133X</isbn>
+<isbn13>9781597801331</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>6501</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1226977</id>
+<name>Paolo Bacigalupi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1226977.Paolo_Bacigalupi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>189109</id>
+<title><![CDATA[Mothers & Other Monsters: Stories]]></title>
+<title_without_series><![CDATA[Mothers & Other Monsters: Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/189109.Mothers_Other_Monsters]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344672307s/189109.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344672307m/189109.jpg]]></image_url>
+<num_pages>271</num_pages>
+<work>
+<id>182819</id>
+</work>
+<isbn>1931520194</isbn>
+<isbn13>9781931520195</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>394</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>110206</id>
+<name>Maureen F. McHugh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110206.Maureen_F_McHugh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8130322</id>
+<title><![CDATA[What I Didn't See: and Other Stories]]></title>
+<title_without_series><![CDATA[What I Didn't See: and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8130322-what-i-didn-t-see]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328690139s/8130322.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328690139m/8130322.jpg]]></image_url>
+<num_pages>197</num_pages>
+<work>
+<id>12926074</id>
+</work>
+<isbn>1931520682</isbn>
+<isbn13>9781931520683</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>566</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>1448</id>
+<name>Karen Joy Fowler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1448.Karen_Joy_Fowler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27059</id>
+<title>Her Smoke Rose Up Forever</title>
+<title_without_series>Her Smoke Rose Up Forever</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27059.Her_Smoke_Rose_Up_Forever]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395145994s/27059.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395145994m/27059.jpg]]></image_url>
+<num_pages>508</num_pages>
+<work>
+<id>27713</id>
+</work>
+<isbn>1892391201</isbn>
+<isbn13>9781892391209</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>2661</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9860453</id>
+<name>James Tiptree Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9860453.James_Tiptree_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7767483</id>
+<title><![CDATA[Leviathan Wept and Other Stories]]></title>
+<title_without_series><![CDATA[Leviathan Wept and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7767483-leviathan-wept-and-other-stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10649365</id>
+</work>
+<isbn>1596062657</isbn>
+<isbn13>9781596062658</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>162</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13557729</id>
+<name>Daniel Abraham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13557729.Daniel_Abraham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>68021</id>
+<title><![CDATA[The Birthday of the World and Other Stories]]></title>
+<title_without_series><![CDATA[The Birthday of the World and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/68021.The_Birthday_of_the_World_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410139500s/68021.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410139500m/68021.jpg]]></image_url>
+<num_pages>362</num_pages>
+<work>
+<id>639316</id>
+</work>
+<isbn>0060509066</isbn>
+<isbn13>9780060509064</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2880</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>874602</id>
+<name>Ursula K. Le Guin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12814346</id>
+<title>Fountain of Age: Stories</title>
+<title_without_series>Fountain of Age: Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12814346-fountain-of-age]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328586726s/12814346.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328586726m/12814346.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>17963630</id>
+</work>
+<isbn>1931520453</isbn>
+<isbn13>9781931520454</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>182</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>21158</id>
+<name>Nancy Kress</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21158.Nancy_Kress]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>424609</id>
+<title><![CDATA[Feeling Very Strange: The Slipstream Anthology]]></title>
+<title_without_series><![CDATA[Feeling Very Strange: The Slipstream Anthology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/424609.Feeling_Very_Strange]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1500262655s/424609.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1500262655m/424609.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>413701</id>
+</work>
+<isbn>189239135X</isbn>
+<isbn13>9781892391353</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>485</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>73418</id>
+<name>James Patrick Kelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73418.James_Patrick_Kelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2894583</id>
+<title>The Best of Michael Swanwick</title>
+<title_without_series>The Best of Michael Swanwick</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2894583-the-best-of-michael-swanwick]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>469</num_pages>
+<work>
+<id>2920896</id>
+</work>
+<isbn>1596061782</isbn>
+<isbn13>9781596061781</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>226</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>14454</id>
+<name>Michael Swanwick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14454.Michael_Swanwick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>206662</id>
+<title>Air</title>
+<title_without_series>Air</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/206662.Air]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1422921175s/206662.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1422921175m/206662.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>250148</id>
+</work>
+<isbn>0312261217</isbn>
+<isbn13>9780312261214</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>2023</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>50408</id>
+<name>Geoff Ryman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50408.Geoff_Ryman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6661321</id>
+<title><![CDATA[The Very Best of Fantasy & Science Fiction: Sixtieth Anniversary Anthology]]></title>
+<title_without_series><![CDATA[The Very Best of Fantasy & Science Fiction: Sixtieth Anniversary Anthology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6661321-the-very-best-of-fantasy-science-fiction]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395145840s/6661321.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395145840m/6661321.jpg]]></image_url>
+<num_pages>475</num_pages>
+<work>
+<id>6856092</id>
+</work>
+<isbn>1892391910</isbn>
+<isbn13>9781892391919</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>193</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>285730</id>
+<name>Gordon Van Gelder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/285730.Gordon_Van_Gelder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3373828</id>
+<title>The Drowned Life</title>
+<title_without_series>The Drowned Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3373828-the-drowned-life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>3413340</id>
+</work>
+<isbn>0061435066</isbn>
+<isbn13>9780061435065</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>401</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>19305</id>
+<name>Jeffrey Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19305.Jeffrey_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>68010</id>
+<title><![CDATA[The Winds of Marble Arch and Other Stories]]></title>
+<title_without_series><![CDATA[The Winds of Marble Arch and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/68010.The_Winds_of_Marble_Arch_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>600</num_pages>
+<work>
+<id>65939</id>
+</work>
+<isbn>1596061103</isbn>
+<isbn13>9781596061101</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>841</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14032</id>
+<name>Connie Willis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14032.Connie_Willis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12970063</id>
+<title><![CDATA[At the Mouth of the River of Bees: Stories]]></title>
+<title_without_series><![CDATA[At the Mouth of the River of Bees: Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12970063-at-the-mouth-of-the-river-of-bees]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334077488s/12970063.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334077488m/12970063.jpg]]></image_url>
+<num_pages>297</num_pages>
+<work>
+<id>19190783</id>
+</work>
+<isbn>1931520801</isbn>
+<isbn13>9781931520805</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1507</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>110153</id>
+<name>Kij Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110153.Kij_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>534595</id>
+<title><![CDATA[Kalpa Imperial: The Greatest Empire That Never Was]]></title>
+<title_without_series><![CDATA[Kalpa Imperial: The Greatest Empire That Never Was]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/534595.Kalpa_Imperial]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354903256s/534595.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354903256m/534595.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>184641</id>
+</work>
+<isbn>1931520054</isbn>
+<isbn13>9781931520058</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>552</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>111214</id>
+<name>Angélica Gorodischer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/111214.Ang_lica_Gorodischer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20001</id>
+<title><![CDATA[Interfictions: An Anthology of Interstitial Writing]]></title>
+<title_without_series><![CDATA[Interfictions: An Anthology of Interstitial Writing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20001.Interfictions]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>21199</id>
+</work>
+<isbn>1931520240</isbn>
+<isbn13>9781931520249</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>203</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>24</id>
+<name>Delia Sherman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24.Delia_Sherman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94702</id>
+<title>The Mount</title>
+<title_without_series>The Mount</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94702.The_Mount]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331748403s/94702.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331748403m/94702.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1631644</id>
+</work>
+<isbn>0142403024</isbn>
+<isbn13>9780142403020</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>1108</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>54462</id>
+<name>Carol Emshwiller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54462.Carol_Emshwiller]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

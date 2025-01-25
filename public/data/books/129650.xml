@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>129650</id>
+  <title><![CDATA[Mastering the Art of French Cooking]]></title>
+  <isbn><![CDATA[0375413405]]></isbn>
+  <isbn13><![CDATA[9780375413407]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1333577773m/129650.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1333577773s/129650.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">2897158</id>
+  <books_count type="integer">19</books_count>
+  <best_book_id type="integer">129650</best_book_id>
+  <reviews_count type="integer">66320</reviews_count>
+  <ratings_sum type="integer">152766</ratings_sum>
+  <ratings_count type="integer">35320</ratings_count>
+  <text_reviews_count type="integer">434</text_reviews_count>
+  <original_publication_year type="integer">1961</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Mastering the Art of French Cooking</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:19606|4:9758|3:4423|2:902|1:631|total:35320</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.33</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[34059]]></ratings_count>
+  <text_reviews_count><![CDATA[362]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/129650.Mastering_the_Art_of_French_Cooking]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/129650.Mastering_the_Art_of_French_Cooking]]></link>
+  <authors>
+<author>
+<id>3465</id>
+<name>Julia Child</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1345004268p5/3465.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1345004268p2/3465.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3465.Julia_Child]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>138369</ratings_count>
+<text_reviews_count>7481</text_reviews_count>
+</author>
+<author>
+<id>74555</id>
+<name>Simone Beck</name>
+<role>Contributor</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263027685p5/74555.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263027685p2/74555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/74555.Simone_Beck]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>42342</ratings_count>
+<text_reviews_count>506</text_reviews_count>
+</author>
+<author>
+<id>74554</id>
+<name>Louisette Bertholle</name>
+<role>Contributor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/74554.Louisette_Bertholle]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>36169</ratings_count>
+<text_reviews_count>472</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/129650.Mastering_the_Art_of_French_Cooking">Mastering the Art of French Cooking Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375413405&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/129650.Mastering_the_Art_of_French_Cooking?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4211"/>
+      <shelf name="cookbooks" count="190"/>
+      <shelf name="cooking" count="104"/>
+      <shelf name="currently-reading" count="44"/>
+      <shelf name="food" count="41"/>
+      <shelf name="cookbook" count="32"/>
+      <shelf name="to-buy" count="29"/>
+      <shelf name="non-fiction" count="28"/>
+      <shelf name="favorites" count="16"/>
+      <shelf name="books-i-own" count="14"/>
+      <shelf name="food-and-drink" count="12"/>
+      <shelf name="library" count="11"/>
+      <shelf name="reference" count="10"/>
+      <shelf name="kitchen" count="10"/>
+      <shelf name="nonfiction" count="9"/>
+      <shelf name="default" count="9"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="french" count="8"/>
+      <shelf name="cook-books" count="8"/>
+      <shelf name="cook" count="8"/>
+      <shelf name="my-cookbooks" count="7"/>
+      <shelf name="cookbooks-to-read" count="7"/>
+      <shelf name="france" count="6"/>
+      <shelf name="personal-library" count="6"/>
+      <shelf name="cookbooks-food" count="6"/>
+      <shelf name="classic" count="5"/>
+      <shelf name="home" count="5"/>
+      <shelf name="food-drink" count="5"/>
+      <shelf name="to-read-cookbooks" count="5"/>
+      <shelf name="gastronomy" count="5"/>
+      <shelf name="cooking-baking" count="5"/>
+      <shelf name="food-books" count="5"/>
+      <shelf name="cooking-and-food" count="5"/>
+      <shelf name="food-related" count="5"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="julia-child" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="food-cooking" count="4"/>
+      <shelf name="cocina" count="4"/>
+      <shelf name="to-read-cooking" count="4"/>
+      <shelf name="abandoned" count="4"/>
+      <shelf name="cookbooks-i-love" count="4"/>
+      <shelf name="cookbooks-i-want" count="4"/>
+      <shelf name="non-fiction-to-read" count="4"/>
+      <shelf name="cooking-french" count="4"/>
+      <shelf name="to-get" count="4"/>
+      <shelf name="recipes" count="4"/>
+      <shelf name="i-own" count="4"/>
+      <shelf name="food-and-wine" count="4"/>
+      <shelf name="cooking-books" count="3"/>
+      <shelf name="america-reads" count="3"/>
+      <shelf name="75-best-books-of-the-past-75-years" count="3"/>
+      <shelf name="shelfari-wishlist" count="3"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="recipe-books" count="3"/>
+      <shelf name="food-and-cooking" count="3"/>
+      <shelf name="female-authors" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="40-before-40" count="3"/>
+      <shelf name="cookbooks-to-buy" count="3"/>
+      <shelf name="chef" count="3"/>
+      <shelf name="lifestyle" count="3"/>
+      <shelf name="francophile" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="paris" count="3"/>
+      <shelf name="wanted" count="3"/>
+      <shelf name="to-buy-cooking" count="3"/>
+      <shelf name="nonfic" count="3"/>
+      <shelf name="cookin" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="travel" count="3"/>
+      <shelf name="gift" count="3"/>
+      <shelf name="cookbooks-food-writing" count="3"/>
+      <shelf name="book" count="3"/>
+      <shelf name="favorite-cookbooks" count="3"/>
+      <shelf name="french-cooking" count="3"/>
+      <shelf name="reference-books" count="3"/>
+      <shelf name="foodies" count="3"/>
+      <shelf name="cookbook-french" count="3"/>
+      <shelf name="american" count="3"/>
+      <shelf name="in-the-kitchen" count="3"/>
+      <shelf name="other" count="2"/>
+      <shelf name="culinary" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="misc" count="2"/>
+      <shelf name="ebooks" count="2"/>
+      <shelf name="food-and-drinks" count="2"/>
+      <shelf name="cucina" count="2"/>
+      <shelf name="cookery" count="2"/>
+      <shelf name="cook-book" count="2"/>
+      <shelf name="reference-book" count="2"/>
+      <shelf name="diy" count="2"/>
+      <shelf name="kitchen-shelf" count="2"/>
+      <shelf name="my-cookery-books" count="2"/>
+      <shelf name="eating" count="2"/>
+      <shelf name="3-food-healthy-life" count="2"/>
+      <shelf name="non-fic" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>362341</id>
+<user_position>1</user_position>
+<series>
+<id>77378</id>
+<title>
+<![CDATA[
+    Mastering the Art of French Cooking
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>154556</id>
+<title>The French Laundry Cookbook</title>
+<title_without_series>The French Laundry Cookbook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/154556.The_French_Laundry_Cookbook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356064390s/154556.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356064390m/154556.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>149177</id>
+</work>
+<isbn>1579651267</isbn>
+<isbn13>9781579651268</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>7457</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45203</id>
+<name>Thomas Keller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45203.Thomas_Keller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>137599</id>
+<title>French Provincial Cooking</title>
+<title_without_series>French Provincial Cooking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/137599.French_Provincial_Cooking]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>132622</id>
+</work>
+<isbn>0141181532</isbn>
+<isbn13>9780141181530</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1591</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12090</id>
+<name>Elizabeth David</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12090.Elizabeth_David]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1369510</id>
+<title><![CDATA[The Classic Italian Cook Book: The Art of Italian Cooking and the Italian Art of Eating]]></title>
+<title_without_series><![CDATA[The Classic Italian Cook Book: The Art of Italian Cooking and the Italian Art of Eating]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1369510.The_Classic_Italian_Cook_Book]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1223627726s/1369510.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1223627726m/1369510.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1359352</id>
+</work>
+<isbn>0394405102</isbn>
+<isbn13>9780394405100</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>1271</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11713</id>
+<name>Marcella Hazan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11713.Marcella_Hazan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>291405</id>
+<title>The Splendid Table</title>
+<title_without_series>The Splendid Table</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/291405.The_Splendid_Table]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>282723</id>
+</work>
+<isbn>0688089631</isbn>
+<isbn13>9780688089634</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>649</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>168610</id>
+<name>Lynne Rossetto Kasper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168610.Lynne_Rossetto_Kasper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164427</id>
+<title><![CDATA[Charcuterie: The Craft of Salting, Smoking, and Curing]]></title>
+<title_without_series><![CDATA[Charcuterie: The Craft of Salting, Smoking, and Curing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164427.Charcuterie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>158744</id>
+</work>
+<isbn>0393058298</isbn>
+<isbn13>9780393058291</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>3420</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>13623</id>
+<name>Michael Ruhlman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13623.Michael_Ruhlman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>136599</id>
+<title>The Silver Spoon</title>
+<title_without_series>The Silver Spoon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/136599.The_Silver_Spoon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360462391s/136599.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360462391m/136599.jpg]]></image_url>
+<num_pages>1264</num_pages>
+<work>
+<id>131649</id>
+</work>
+<isbn>0714845310</isbn>
+<isbn13>9780714845319</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>7752</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1377209</id>
+<name>Clelia D&apos;Onofrio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1377209.Clelia_D_Onofrio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>815612</id>
+<title><![CDATA[Larousse Gastronomique: The World's Greatest Culinary Encyclopedia]]></title>
+<title_without_series><![CDATA[Larousse Gastronomique: The World's Greatest Culinary Encyclopedia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/815612.Larousse_Gastronomique]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1360</num_pages>
+<work>
+<id>801534</id>
+</work>
+<isbn>0609609718</isbn>
+<isbn13>9780609609712</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>5380</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4422818</id>
+<name>Larousse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4422818.Larousse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152723</id>
+<title><![CDATA[The Zuni Cafe Cookbook: A Compendium of Recipes and Cooking Lessons from San Francisco's Beloved Restaurant]]></title>
+<title_without_series><![CDATA[The Zuni Cafe Cookbook: A Compendium of Recipes and Cooking Lessons from San Francisco's Beloved Restaurant]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152723.The_Zuni_Cafe_Cookbook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1386606914s/152723.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1386606914m/152723.jpg]]></image_url>
+<num_pages>552</num_pages>
+<work>
+<id>147413</id>
+</work>
+<isbn>0393020436</isbn>
+<isbn13>9780393020434</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2836</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>88326</id>
+<name>Judy Rodgers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88326.Judy_Rodgers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>383480</id>
+<title>Mexico One Plate At A Time</title>
+<title_without_series>Mexico One Plate At A Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/383480.Mexico_One_Plate_At_A_Time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>373245</id>
+</work>
+<isbn>068484186X</isbn>
+<isbn13>9780684841861</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>2042</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>91791</id>
+<name>Rick Bayless</name>
+<link><![CDATA[https://www.goodreads.com/author/show/91791.Rick_Bayless]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>184649</id>
+<title><![CDATA[Baking with Julia: Sift, Knead, Flute, Flour, and Savor...]]></title>
+<title_without_series><![CDATA[Baking with Julia: Sift, Knead, Flute, Flour, and Savor...]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/184649.Baking_with_Julia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>178470</id>
+</work>
+<isbn></isbn>
+<isbn13>9780688146573</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>7489</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>3465</id>
+<name>Julia Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3465.Julia_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152708</id>
+<title>Chez Panisse Cafe Cookbook</title>
+<title_without_series>Chez Panisse Cafe Cookbook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152708.Chez_Panisse_Cafe_Cookbook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407107507s/152708.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407107507m/152708.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>147398</id>
+</work>
+<isbn>0060175834</isbn>
+<isbn13>9780060175832</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>2087</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88314</id>
+<name>Alice Waters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88314.Alice_Waters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1077516</id>
+<title><![CDATA[Jacques Pépin's Complete Techniques: Featuring More Than 1,000 Cooking Methods and Recipes,  in Thousands of  Step-by-Step Photographs]]></title>
+<title_without_series><![CDATA[Jacques Pépin's Complete Techniques: Featuring More Than 1,000 Cooking Methods and Recipes,  in Thousands of  Step-by-Step Photographs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1077516.Jacques_P_pin_s_Complete_Techniques]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1064232</id>
+</work>
+<isbn>1579121659</isbn>
+<isbn13>9781579121655</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>1556</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>311750</id>
+<name>Jacques Pépin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/311750.Jacques_P_pin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>273669</id>
+<title><![CDATA[The Escoffier Cookbook and Guide to the Fine Art of Cookery: For Connoisseurs, Chefs, Epicures Complete With 2973 Recipes]]></title>
+<title_without_series><![CDATA[The Escoffier Cookbook and Guide to the Fine Art of Cookery: For Connoisseurs, Chefs, Epicures Complete With 2973 Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/273669.The_Escoffier_Cookbook_and_Guide_to_the_Fine_Art_of_Cookery]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403179349s/273669.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403179349m/273669.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>265359</id>
+</work>
+<isbn>0517506629</isbn>
+<isbn13>9780517506622</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>1016</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>159516</id>
+<name>Auguste Escoffier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159516.Auguste_Escoffier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>545911</id>
+<title>Beard on Bread</title>
+<title_without_series>Beard on Bread</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/545911.Beard_on_Bread]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>2744590</id>
+</work>
+<isbn>0679755047</isbn>
+<isbn13>9780679755043</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>2644</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>175556</id>
+<name>James Beard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/175556.James_Beard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6677742</id>
+<title><![CDATA[The Pleasures of Cooking for One]]></title>
+<title_without_series><![CDATA[The Pleasures of Cooking for One]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6677742-the-pleasures-of-cooking-for-one]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320494097s/6677742.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320494097m/6677742.jpg]]></image_url>
+<num_pages>273</num_pages>
+<work>
+<id>6872897</id>
+</work>
+<isbn>0307270726</isbn>
+<isbn13>9780307270726</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1026</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>437416</id>
+<name>Judith Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/437416.Judith_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3886</id>
+<title>The Bon Appetit Cookbook  </title>
+<title_without_series>The Bon Appetit Cookbook</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3886.The_Bon_Appetit_Cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42131880</id>
+</work>
+<isbn>0764596861</isbn>
+<isbn13>9780764596865</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1424</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2650</id>
+<name>Barbara Fairchild</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2650.Barbara_Fairchild]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>509287</id>
+<title><![CDATA[Mario Batali Simple Italian Food: Recipes from My Two Villages]]></title>
+<title_without_series><![CDATA[Mario Batali Simple Italian Food: Recipes from My Two Villages]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/509287.Mario_Batali_Simple_Italian_Food]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320393926s/509287.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320393926m/509287.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>497304</id>
+</work>
+<isbn>0609603000</isbn>
+<isbn13>9780609603000</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>80487</id>
+<name>Mario Batali</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80487.Mario_Batali]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

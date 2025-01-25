@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>141935</id>
+  <title><![CDATA[Curious George Visits the Library]]></title>
+  <isbn><![CDATA[0618065687]]></isbn>
+  <isbn13><![CDATA[9780618065684]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003X09YLA]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">136898</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">141935</best_book_id>
+  <reviews_count type="integer">11645</reviews_count>
+  <ratings_sum type="integer">45185</ratings_sum>
+  <ratings_count type="integer">10634</ratings_count>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <original_publication_year type="integer">2003</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Curious George Visits the Library</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5715|4:2489|3:1928|2:368|1:134|total:10634</rating_dist>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10566]]></ratings_count>
+  <text_reviews_count><![CDATA[65]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/141935.Curious_George_Visits_the_Library]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/141935.Curious_George_Visits_the_Library]]></link>
+  <authors>
+<author>
+<id>6608</id>
+<name>Margret Rey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202524847p5/6608.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202524847p2/6608.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6608.Margret_Rey]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>135732</ratings_count>
+<text_reviews_count>1909</text_reviews_count>
+</author>
+<author>
+<id>967839</id>
+<name>H.A. Rey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1222103242p5/967839.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1222103242p2/967839.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/967839.H_A_Rey]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>301593</ratings_count>
+<text_reviews_count>4001</text_reviews_count>
+</author>
+<author>
+<id>168587</id>
+<name>Martha Weston</name>
+<role>Illustrations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/168587.Martha_Weston]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>17324</ratings_count>
+<text_reviews_count>397</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/141935.Curious_George_Visits_the_Library">Curious George Visits the Library Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0618065687&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/141935.Curious_George_Visits_the_Library?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="712"/>
+      <shelf name="picture-books" count="77"/>
+      <shelf name="childrens" count="61"/>
+      <shelf name="children-s-books" count="42"/>
+      <shelf name="children-s" count="35"/>
+      <shelf name="kids" count="30"/>
+      <shelf name="curious-george" count="25"/>
+      <shelf name="kids-books" count="23"/>
+      <shelf name="children" count="22"/>
+      <shelf name="childrens-books" count="20"/>
+      <shelf name="library" count="19"/>
+      <shelf name="fiction" count="18"/>
+      <shelf name="picture-book" count="16"/>
+      <shelf name="animals" count="9"/>
+      <shelf name="classics" count="8"/>
+      <shelf name="series" count="8"/>
+      <shelf name="children-books" count="7"/>
+      <shelf name="picturebooks" count="7"/>
+      <shelf name="childhood" count="6"/>
+      <shelf name="currently-reading" count="5"/>
+      <shelf name="favorites" count="5"/>
+      <shelf name="kid-books" count="5"/>
+      <shelf name="children-s-picture-books" count="5"/>
+      <shelf name="children-s-literature" count="4"/>
+      <shelf name="school" count="4"/>
+      <shelf name="child" count="4"/>
+      <shelf name="kid-s-books" count="4"/>
+      <shelf name="owned" count="4"/>
+      <shelf name="1000-books-before-kindergarten" count="3"/>
+      <shelf name="spanish" count="3"/>
+      <shelf name="libraries" count="3"/>
+      <shelf name="juvenile" count="3"/>
+      <shelf name="kindergarten" count="3"/>
+      <shelf name="monkey" count="3"/>
+      <shelf name="children-s-lit" count="3"/>
+      <shelf name="read-to-kids" count="3"/>
+      <shelf name="kid" count="3"/>
+      <shelf name="books-i-own" count="3"/>
+      <shelf name="read-to-me" count="3"/>
+      <shelf name="library-related" count="3"/>
+      <shelf name="preschool" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="kids-have" count="2"/>
+      <shelf name="read-to-son" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="children-s-fiction" count="2"/>
+      <shelf name="september" count="2"/>
+      <shelf name="plot-doorway" count="2"/>
+      <shelf name="character-doorway" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="unread" count="2"/>
+      <shelf name="2015-reads" count="2"/>
+      <shelf name="hope" count="2"/>
+      <shelf name="humor" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="read-in-2014" count="2"/>
+      <shelf name="classroom" count="2"/>
+      <shelf name="bella" count="2"/>
+      <shelf name="sarah" count="2"/>
+      <shelf name="preschool-storytime" count="2"/>
+      <shelf name="read-childrens-books" count="2"/>
+      <shelf name="5-star" count="2"/>
+      <shelf name="children-s-books-read" count="2"/>
+      <shelf name="favorite-children-s-books" count="2"/>
+      <shelf name="picture" count="2"/>
+      <shelf name="elementary" count="2"/>
+      <shelf name="libraries-and-librarians" count="2"/>
+      <shelf name="community" count="2"/>
+      <shelf name="read-with-kids" count="2"/>
+      <shelf name="classroom-books" count="2"/>
+      <shelf name="books-we-own" count="2"/>
+      <shelf name="charlotte" count="2"/>
+      <shelf name="kiddo-books" count="2"/>
+      <shelf name="kid-stuff" count="2"/>
+      <shelf name="librarian" count="2"/>
+      <shelf name="monkeys" count="2"/>
+      <shelf name="young-adult" count="2"/>
+      <shelf name="childhood-favorites" count="2"/>
+      <shelf name="trinity-s-books-she-owns" count="1"/>
+      <shelf name="storytime-and-read-alouds" count="1"/>
+      <shelf name="ms-vickrey-collection" count="1"/>
+      <shelf name="community-workers" count="1"/>
+      <shelf name="the-selection" count="1"/>
+      <shelf name="olivias-1000-books" count="1"/>
+      <shelf name="school-b2" count="1"/>
+      <shelf name="jennings-books" count="1"/>
+      <shelf name="my-library" count="1"/>
+      <shelf name="read-with-ariana" count="1"/>
+      <shelf name="storytime-librarytheme" count="1"/>
+      <shelf name="education" count="1"/>
+      <shelf name="mrs-geisler-classroom" count="1"/>
+      <shelf name="storytime" count="1"/>
+      <shelf name="princess-nina-s-book-club" count="1"/>
+      <shelf name="henry-read" count="1"/>
+      <shelf name="read-to-m-c" count="1"/>
+      <shelf name="books-for-benji" count="1"/>
+      <shelf name="gracen" count="1"/>
+      <shelf name="clara-jane" count="1"/>
+      <shelf name="read-kid" count="1"/>
+      <shelf name="cecil-s-books" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>313159</id>
+<user_position></user_position>
+<series>
+<id>69662</id>
+<title>
+<![CDATA[
+    Curious George New Adventures
+]]>
+</title>
+<description>
+<![CDATA[
+    See also <a href=http://www.goodreads.com/series/69661-curious-george-original-adventures>Curious George Original Adventures</a> and <a href=http://www.goodreads.com/series/69663-curious-george-board-books>Curious George Board Books</a>.
+]]>
+</description>
+<note>
+<![CDATA[
+    List assembled from information provided here: http://kidsbookseries.com/series/curiousgeorgenew/index.html
+]]>
+</note>
+<series_works_count>47</series_works_count>
+<primary_work_count>47</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>291364</id>
+<title>Curious George Rides a Bike</title>
+<title_without_series>Curious George Rides a Bike</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/291364.Curious_George_Rides_a_Bike]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>561807</id>
+</work>
+<isbn>1844285073</isbn>
+<isbn13>9781844285075</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>15682</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>967839</id>
+<name>H.A. Rey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/967839.H_A_Rey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1129315</id>
+<title><![CDATA[The Berenstain Bears' Trouble at School]]></title>
+<title_without_series><![CDATA[The Berenstain Bears' Trouble at School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1129315.The_Berenstain_Bears_Trouble_at_School]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344369313s/1129315.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344369313m/1129315.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2437545</id>
+</work>
+<isbn>039487336X</isbn>
+<isbn13>9780394873367</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>15703</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>615244</id>
+<title>Clifford The Small Red Puppy</title>
+<title_without_series>Clifford The Small Red Puppy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/615244.Clifford_The_Small_Red_Puppy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328866862s/615244.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328866862m/615244.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>4042820</id>
+</work>
+<isbn>0439725267</isbn>
+<isbn13>9780439725262</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>9705</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>73337</id>
+<name>Norman Bridwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73337.Norman_Bridwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>821018</id>
+<title>Just Grandma and Me</title>
+<title_without_series>Just Grandma and Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/821018.Just_Grandma_and_Me]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>620002</id>
+</work>
+<isbn>0307118932</isbn>
+<isbn13>9780307118936</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>8200</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>760168</id>
+<title><![CDATA[Just Me in the Tub (Mercer Mayer's Little Critter)]]></title>
+<title_without_series>Just Me in the Tub</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/760168.Just_Me_in_the_Tub]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>22</num_pages>
+<work>
+<id>746265</id>
+</work>
+<isbn>0613026667</isbn>
+<isbn13>9780613026666</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>17390</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>140067</id>
+<name>Gina Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/140067.Gina_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>180616</id>
+<title>Pinocchio</title>
+<title_without_series>Pinocchio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/180616.Pinocchio]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320443495s/180616.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320443495m/180616.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>21888943</id>
+</work>
+<isbn>0736421521</isbn>
+<isbn13>9780736421522</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>9027</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>3510823</id>
+<name>Walt Disney Company</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3510823.Walt_Disney_Company]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>64133</id>
+<title><![CDATA[The Magic School Bus Makes a Rainbow: A Book About Color]]></title>
+<title_without_series><![CDATA[The Magic School Bus Makes a Rainbow: A Book About Color]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/64133.The_Magic_School_Bus_Makes_a_Rainbow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2741645</id>
+</work>
+<isbn>0590922513</isbn>
+<isbn13>9780590922517</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>2691</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>22504</id>
+<name>Joanna Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22504.Joanna_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>431365</id>
+<title><![CDATA[Arthur's Eyes (Arthur Adventure Series)]]></title>
+<title_without_series>Arthur&apos;s Eyes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/431365.Arthur_s_Eyes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344271893s/431365.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344271893m/431365.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2891373</id>
+</work>
+<isbn>0316110698</isbn>
+<isbn13>9780316110693</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>8826</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>25031</id>
+<name>Marc Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25031.Marc_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2163541</id>
+<title>Franklin Is Bossy</title>
+<title_without_series>Franklin Is Bossy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2163541.Franklin_Is_Bossy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2169068</id>
+</work>
+<isbn>0590477579</isbn>
+<isbn13>9780590477574</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>2962</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>22367</id>
+<name>Paulette Bourgeois</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22367.Paulette_Bourgeois]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>52309</id>
+  <title><![CDATA[The Autobiography of Benjamin Franklin]]></title>
+  <isbn><![CDATA[0743255062]]></isbn>
+  <isbn13><![CDATA[9780743255066]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01IVQY9S8]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Touchstone</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<p> "The first book to belong permanently to literature. It created a man." <br /> -- From the Introduction </p><p> Few men could compare to Benjamin Franklin. Virtually self-taught, he excelled as an athlete, a man of letters, a printer, a scientist, a wit, an inventor, an editor, and a writer, and he was probably the most successful diplomat in American history. David Hume hailed him as the first great philosopher and great man of letters in the New World. </p><p>Written initially to guide his son, Franklin's autobiography is a lively, spellbinding account of his unique and eventful life. Stylistically his best work, it has become a classic in world literature, one to inspire and delight readers everywhere.</p>]]></description>
+  <work>
+  <id type="integer">598905</id>
+  <books_count type="integer">834</books_count>
+  <best_book_id type="integer">52309</best_book_id>
+  <reviews_count type="integer">115171</reviews_count>
+  <ratings_sum type="integer">165170</ratings_sum>
+  <ratings_count type="integer">43166</ratings_count>
+  <text_reviews_count type="integer">2160</text_reviews_count>
+  <original_publication_year type="integer">1791</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:13198|4:15173|3:10383|2:2927|1:1485|total:43166</rating_dist>
+  <desc_user_id type="integer">2665705</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[160]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[33101]]></ratings_count>
+  <text_reviews_count><![CDATA[1480]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin]]></link>
+  <authors>
+<author>
+<id>289513</id>
+<name>Benjamin Franklin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215314094p5/289513.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215314094p2/289513.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/289513.Benjamin_Franklin]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>50367</ratings_count>
+<text_reviews_count>2772</text_reviews_count>
+</author>
+<author>
+<id>63906</id>
+<name>Lewis Leary</name>
+<role>Introduction</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/63906.Lewis_Leary]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>33132</ratings_count>
+<text_reviews_count>1486</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin">The Autobiography of Benjamin Franklin Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0743255062&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="biography" count="1087"/>
+      <shelf name="nonfiction" count="355"/>
+      <shelf name="autobiography" count="295"/>
+      <shelf name="kindle" count="270"/>
+      <shelf name="biographies" count="260"/>
+      <shelf name="to-read" count="138"/>
+      <shelf name="favorites" count="138"/>
+      <shelf name="owned" count="137"/>
+      <shelf name="american-history" count="137"/>
+      <shelf name="politics" count="95"/>
+      <shelf name="biography-memoir" count="85"/>
+      <shelf name="books-i-own" count="81"/>
+      <shelf name="memoirs" count="62"/>
+      <shelf name="school" count="59"/>
+      <shelf name="biography-autobiography" count="58"/>
+      <shelf name="ebook" count="54"/>
+      <shelf name="biographical" count="49"/>
+      <shelf name="bio" count="48"/>
+      <shelf name="philosophy" count="46"/>
+      <shelf name="18th-century" count="38"/>
+      <shelf name="american-literature" count="37"/>
+      <shelf name="literature" count="35"/>
+      <shelf name="kindle-books" count="34"/>
+      <shelf name="harvard-classics" count="34"/>
+      <shelf name="default" count="33"/>
+      <shelf name="owned-books" count="33"/>
+      <shelf name="memoir-biography" count="33"/>
+      <shelf name="business" count="32"/>
+      <shelf name="audiobook" count="31"/>
+      <shelf name="ebooks" count="30"/>
+      <shelf name="my-library" count="28"/>
+      <shelf name="non-fiction" count="27"/>
+      <shelf name="library" count="26"/>
+      <shelf name="self-help" count="26"/>
+      <shelf name="benjamin-franklin" count="25"/>
+      <shelf name="america" count="25"/>
+      <shelf name="history-american" count="25"/>
+      <shelf name="audiobooks" count="24"/>
+      <shelf name="american-revolution" count="24"/>
+      <shelf name="to-read-non-fiction" count="23"/>
+      <shelf name="college" count="23"/>
+      <shelf name="to-buy" count="22"/>
+      <shelf name="history-biography" count="22"/>
+      <shelf name="political" count="21"/>
+      <shelf name="biographies-memoirs" count="20"/>
+      <shelf name="biography-and-memoir" count="20"/>
+      <shelf name="personal-library" count="20"/>
+      <shelf name="my-books" count="19"/>
+      <shelf name="leadership" count="19"/>
+      <shelf name="bios" count="19"/>
+      <shelf name="book-club" count="19"/>
+      <shelf name="american-lit" count="19"/>
+      <shelf name="audio" count="18"/>
+      <shelf name="auto-biographies" count="18"/>
+      <shelf name="founding-fathers" count="18"/>
+      <shelf name="us-history" count="18"/>
+      <shelf name="for-school" count="18"/>
+      <shelf name="on-kindle" count="17"/>
+      <shelf name="e-book" count="17"/>
+      <shelf name="history" count="16"/>
+      <shelf name="unfinished" count="16"/>
+      <shelf name="classics" count="15"/>
+      <shelf name="self-improvement" count="15"/>
+      <shelf name="biography-memoirs" count="15"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="read-for-school" count="14"/>
+      <shelf name="adult" count="14"/>
+      <shelf name="english" count="14"/>
+      <shelf name="memoir-autobiography" count="14"/>
+      <shelf name="usa" count="14"/>
+      <shelf name="own-it" count="13"/>
+      <shelf name="have" count="13"/>
+      <shelf name="audible" count="13"/>
+      <shelf name="autobiographical" count="13"/>
+      <shelf name="biographies-and-memoirs" count="13"/>
+      <shelf name="school-books" count="13"/>
+      <shelf name="art-of-manliness" count="12"/>
+      <shelf name="kindle-to-read" count="12"/>
+      <shelf name="on-my-kindle" count="12"/>
+      <shelf name="personal-development" count="12"/>
+      <shelf name="people" count="12"/>
+      <shelf name="unread" count="12"/>
+      <shelf name="1700s" count="12"/>
+      <shelf name="fiction" count="12"/>
+      <shelf name="educational" count="12"/>
+      <shelf name="e-books" count="12"/>
+      <shelf name="colonial-america" count="12"/>
+      <shelf name="books" count="12"/>
+      <shelf name="bio-memoir" count="12"/>
+      <shelf name="inspirational" count="11"/>
+      <shelf name="well-educated-mind" count="11"/>
+      <shelf name="abandoned" count="11"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="i-own" count="11"/>
+      <shelf name="to-read-history" count="11"/>
+      <shelf name="to-read-nonfiction" count="10"/>
+      <shelf name="digital" count="10"/>
+      <shelf name="amazon" count="10"/>
+      <shelf name="didn-t-finish" count="10"/>
+      <shelf name="maybe" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>530748</id>
+<title><![CDATA[Essential Manners for Men: What to Do, When to Do It, and Why]]></title>
+<title_without_series><![CDATA[Essential Manners for Men: What to Do, When to Do It, and Why]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/530748.Essential_Manners_for_Men]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>518376</id>
+</work>
+<isbn>0060539801</isbn>
+<isbn13>9780060539801</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>759</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>105457</id>
+<name>Peter  Post</name>
+<link><![CDATA[https://www.goodreads.com/author/show/105457.Peter_Post]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>82896</id>
+<title>The Education of Henry Adams</title>
+<title_without_series>The Education of Henry Adams</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/82896.The_Education_of_Henry_Adams]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1315117472s/82896.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1315117472m/82896.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3212304</id>
+</work>
+<isbn>1406802786</isbn>
+<isbn13>9781406802788</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>2514</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>20404</id>
+<name>Henry Adams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20404.Henry_Adams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6213314</id>
+<title>The Life of Abraham Lincoln</title>
+<title_without_series>The Life of Abraham Lincoln</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6213314-the-life-of-abraham-lincoln]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328108064s/6213314.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328108064m/6213314.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6393877</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1733</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>241969</id>
+<name>Henry Ketcham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/241969.Henry_Ketcham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>572243</id>
+<title>Strenuous Life</title>
+<title_without_series>Strenuous Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/572243.Strenuous_Life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328756745s/572243.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328756745m/572243.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>559271</id>
+</work>
+<isbn>1557091420</isbn>
+<isbn13>9781557091420</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>674</ratings_count>
+<publication_year>1970</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>44567</id>
+<name>Theodore Roosevelt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44567.Theodore_Roosevelt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3311228</id>
+<title>The Young Man&apos;s Guide</title>
+<title_without_series>The Young Man&apos;s Guide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3311228-the-young-man-s-guide]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3348447</id>
+</work>
+<isbn>1437806813</isbn>
+<isbn13>9781437806816</isbn13>
+<average_rating>3.51</average_rating>
+<ratings_count>521</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>349146</id>
+<name>William A. Alcott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/349146.William_A_Alcott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1074893</id>
+<title><![CDATA[The Frontier in American History]]></title>
+<title_without_series><![CDATA[The Frontier in American History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1074893.The_Frontier_in_American_History]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867631s/1074893.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867631m/1074893.jpg]]></image_url>
+<num_pages>348</num_pages>
+<work>
+<id>784486</id>
+</work>
+<isbn>0486291677</isbn>
+<isbn13>9780486291673</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>971</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2756695</id>
+<name>Frederick Jackson Turner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2756695.Frederick_Jackson_Turner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1241764</id>
+<title><![CDATA[The Real Thomas Jefferson: The True Story of America's Philosopher of Freedom]]></title>
+<title_without_series><![CDATA[The Real Thomas Jefferson: The True Story of America's Philosopher of Freedom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1241764.The_Real_Thomas_Jefferson]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>709</num_pages>
+<work>
+<id>1230450</id>
+</work>
+<isbn>0880800062</isbn>
+<isbn13>9780880800068</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>997</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>391557</id>
+<name>Andrew M. Allison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/391557.Andrew_M_Allison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>826885</id>
+<title>American Boys Handy Book</title>
+<title_without_series>American Boys Handy Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/826885.American_Boys_Handy_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>441</num_pages>
+<work>
+<id>812611</id>
+</work>
+<isbn>0879234490</isbn>
+<isbn13>9780879234492</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>987</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1527190</id>
+<name>Daniel Carter Beard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1527190.Daniel_Carter_Beard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107284</id>
+<title><![CDATA[Seek: Reports from the Edges of America and Beyond]]></title>
+<title_without_series><![CDATA[Seek: Reports from the Edges of America and Beyond]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107284.Seek]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>25025979</id>
+</work>
+<isbn>0060930470</isbn>
+<isbn13>9780060930479</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1166</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>6468</id>
+<name>Denis Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6468.Denis_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4529814</id>
+<title>Samuel Adams: A Life</title>
+<title_without_series>Samuel Adams: A Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4529814-samuel-adams]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>339</num_pages>
+<work>
+<id>4579016</id>
+</work>
+<isbn>0743299116</isbn>
+<isbn13>9780743299114</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>1357</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1888597</id>
+<name>Ira Stoll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1888597.Ira_Stoll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1719304</id>
+<title>The Crisis</title>
+<title_without_series>The Crisis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1719304.The_Crisis]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369307646s/1719304.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369307646m/1719304.jpg]]></image_url>
+<num_pages>502</num_pages>
+<work>
+<id>1716650</id>
+</work>
+<isbn>1426418361</isbn>
+<isbn13>9781426418365</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2834066</id>
+<name>Winston  Churchill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2834066.Winston_Churchill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>913719</id>
+<title><![CDATA[The Book of Deeds of Arms and of Chivalry]]></title>
+<title_without_series><![CDATA[The Book of Deeds of Arms and of Chivalry]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/913719.The_Book_of_Deeds_of_Arms_and_of_Chivalry]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369161706s/913719.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369161706m/913719.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>898817</id>
+</work>
+<isbn>027101881X</isbn>
+<isbn13>9780271018812</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>419</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>4</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>51133</id>
+<name>Christine de Pizan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51133.Christine_de_Pizan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40929</id>
+<title><![CDATA[The Rise of Theodore Roosevelt]]></title>
+<title_without_series><![CDATA[The Rise of Theodore Roosevelt]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40929.The_Rise_of_Theodore_Roosevelt]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1452010007s/40929.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1452010007m/40929.jpg]]></image_url>
+<num_pages>780</num_pages>
+<work>
+<id>40514</id>
+</work>
+<isbn>0375756787</isbn>
+<isbn13>9780375756788</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>28453</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>23013</id>
+<name>Edmund Morris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23013.Edmund_Morris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>38775</id>
+<title><![CDATA[Autobiography of Thomas Jefferson]]></title>
+<title_without_series><![CDATA[Autobiography of Thomas Jefferson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/38775.Autobiography_of_Thomas_Jefferson]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>2333226</id>
+</work>
+<isbn>0486442896</isbn>
+<isbn13>9780486442891</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>648</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1673</id>
+<name>Thomas Jefferson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1673.Thomas_Jefferson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>110331</id>
+<title>The Federalist Papers</title>
+<title_without_series>The Federalist Papers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/110331.The_Federalist_Papers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327865541s/110331.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327865541m/110331.jpg]]></image_url>
+<num_pages>688</num_pages>
+<work>
+<id>707252</id>
+</work>
+<isbn>0451528816</isbn>
+<isbn13>9780451528810</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>28040</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>51287</id>
+<name>Alexander Hamilton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51287.Alexander_Hamilton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>83169</id>
+<title><![CDATA[Boy Scouts of America : The Official Handbook for Boys (Reprint of Original 1911 Edition)]]></title>
+<title_without_series><![CDATA[Boy Scouts of America : The Official Handbook for Boys]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83169.Boy_Scouts_of_America_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328756846s/83169.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328756846m/83169.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>51613052</id>
+</work>
+<isbn>1557094411</isbn>
+<isbn13>9781557094414</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>290</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>47515</id>
+<name>Boy Scouts of America</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47515.Boy_Scouts_of_America]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2971</id>
+<title><![CDATA[The Autobiography of Mark Twain]]></title>
+<title_without_series><![CDATA[The Autobiography of Mark Twain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2971.The_Autobiography_of_Mark_Twain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>508</num_pages>
+<work>
+<id>16302762</id>
+</work>
+<isbn>0060955422</isbn>
+<isbn13>9780060955427</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>2508</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>1244</id>
+<name>Mark Twain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>729379</id>
+<title><![CDATA[Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson]]></title>
+<title_without_series><![CDATA[Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/729379.Narrative_of_the_Captivity_and_Restoration_of_Mrs_Mary_Rowlandson]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>715579</id>
+</work>
+<isbn>1406944017</isbn>
+<isbn13>9781406944013</isbn13>
+<average_rating>2.91</average_rating>
+<ratings_count>1847</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>142495</id>
+<name>Mary Rowlandson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142495.Mary_Rowlandson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

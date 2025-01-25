@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12996</id>
+  <title>Othello</title>
+  <isbn><![CDATA[0743477553]]></isbn>
+  <isbn13><![CDATA[9780743477550]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B005R7DK8K]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1459795105m/12996.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1459795105s/12996.jpg</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>1</publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In Othello, Shakespeare creates a powerful drama of a marriage that begins with fascination (between the exotic Moor Othello and the Venetian lady Desdemona), with elopement, and with intense mutual devotion and that ends precipitately with jealous rage and violent deaths. He sets this story in the romantic world of the Mediterranean, moving the action from Venice to the island of Cyprus and giving it an even more exotic coloring with stories of Othello's African past. Shakespeare builds so many differences into his hero and heroine—differences of race, of age, of cultural background—that one should not, perhaps, be surprised that the marriage ends disastrously. But most people who see or read the play feel that the love that the play presents between Othello and Desdemona is so strong that it would have overcome all these differences were it not for the words and actions of Othello's standard-bearer, Iago, who hates Othello and sets out to destroy him by destroying his love for Desdemona. As Othello succumbs to Iago's insinuations that Desdemona is unfaithful, fascination—which dominates the early acts of the play—turns to horror, especially for the audience. We are confronted by spectacles of a generous and trusting Othello in the grip of Iago's schemes; of an innocent Desdemona, who has given herself up entirely to her love for Othello only to be subjected to his horrifying verbal and physical assaults, the outcome of Othello's mistaken convictions about her faithlessness.]]></description>
+  <work>
+  <id type="integer">995103</id>
+  <books_count type="integer">1053</books_count>
+  <best_book_id type="integer">12996</best_book_id>
+  <reviews_count type="integer">371494</reviews_count>
+  <ratings_sum type="integer">995549</ratings_sum>
+  <ratings_count type="integer">256891</ratings_count>
+  <text_reviews_count type="integer">4337</text_reviews_count>
+  <original_publication_year type="integer">1603</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Tragedy of Othello, The Moor of Venice</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:78945|4:92134|3:64947|2:16582|1:4283|total:256891</rating_dist>
+  <desc_user_id type="integer">12342179</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.88</average_rating>
+  <num_pages><![CDATA[314]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[238992]]></ratings_count>
+  <text_reviews_count><![CDATA[3214]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12996.Othello]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12996.Othello]]></link>
+  <authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>5097983</ratings_count>
+<text_reviews_count>81655</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12996.Othello">Othello Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0743477553&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/12996.Othello?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="classics" count="6830"/>
+      <shelf name="currently-reading" count="4342"/>
+      <shelf name="plays" count="4264"/>
+      <shelf name="to-read" count="2403"/>
+      <shelf name="shakespeare" count="2090"/>
+      <shelf name="drama" count="1594"/>
+      <shelf name="fiction" count="1434"/>
+      <shelf name="favorites" count="1349"/>
+      <shelf name="classic" count="1049"/>
+      <shelf name="school" count="747"/>
+      <shelf name="owned" count="556"/>
+      <shelf name="literature" count="527"/>
+      <shelf name="theatre" count="433"/>
+      <shelf name="read-for-school" count="356"/>
+      <shelf name="poetry" count="350"/>
+      <shelf name="for-school" count="284"/>
+      <shelf name="tragedy" count="281"/>
+      <shelf name="school-books" count="256"/>
+      <shelf name="british" count="231"/>
+      <shelf name="theater" count="208"/>
+      <shelf name="english" count="197"/>
+      <shelf name="high-school" count="197"/>
+      <shelf name="classic-literature" count="181"/>
+      <shelf name="owned-books" count="180"/>
+      <shelf name="romance" count="170"/>
+      <shelf name="british-literature" count="156"/>
+      <shelf name="college" count="140"/>
+      <shelf name="rory-gilmore-reading-challenge" count="139"/>
+      <shelf name="favourites" count="135"/>
+      <shelf name="english-literature" count="135"/>
+      <shelf name="william-shakespeare" count="122"/>
+      <shelf name="teatro" count="121"/>
+      <shelf name="17th-century" count="113"/>
+      <shelf name="adult" count="112"/>
+      <shelf name="school-reads" count="112"/>
+      <shelf name="historical-fiction" count="111"/>
+      <shelf name="kindle" count="108"/>
+      <shelf name="default" count="106"/>
+      <shelf name="historical" count="102"/>
+      <shelf name="school-reading" count="101"/>
+      <shelf name="my-library" count="100"/>
+      <shelf name="classic-lit" count="98"/>
+      <shelf name="i-own" count="83"/>
+      <shelf name="classics-to-read" count="83"/>
+      <shelf name="library" count="82"/>
+      <shelf name="brit-lit" count="82"/>
+      <shelf name="rory-gilmore-challenge" count="81"/>
+      <shelf name="read-in-school" count="81"/>
+      <shelf name="university" count="75"/>
+      <shelf name="required-reading" count="75"/>
+      <shelf name="british-lit" count="75"/>
+      <shelf name="rory-gilmore" count="73"/>
+      <shelf name="my-books" count="68"/>
+      <shelf name="the-classics" count="65"/>
+      <shelf name="to-buy" count="64"/>
+      <shelf name="italy" count="61"/>
+      <shelf name="my-ebooks" count="56"/>
+      <shelf name="re-read" count="56"/>
+      <shelf name="uni" count="55"/>
+      <shelf name="read-in-2015" count="54"/>
+      <shelf name="read-in-2016" count="53"/>
+      <shelf name="england" count="53"/>
+      <shelf name="classic-fiction" count="53"/>
+      <shelf name="to-read-classics" count="52"/>
+      <shelf name="jealousy" count="52"/>
+      <shelf name="english-lit" count="52"/>
+      <shelf name="rory-gilmore-reading-list" count="51"/>
+      <shelf name="renaissance" count="49"/>
+      <shelf name="read-in-english" count="48"/>
+      <shelf name="ebook" count="45"/>
+      <shelf name="ebooks" count="45"/>
+      <shelf name="books-for-school" count="45"/>
+      <shelf name="poetry-and-plays" count="45"/>
+      <shelf name="novels" count="45"/>
+      <shelf name="for-class" count="45"/>
+      <shelf name="read-in-high-school" count="45"/>
+      <shelf name="read-in-2014" count="44"/>
+      <shelf name="gilmore-girls" count="44"/>
+      <shelf name="own-it" count="43"/>
+      <shelf name="assigned-reading" count="43"/>
+      <shelf name="literary" count="42"/>
+      <shelf name="personal-library" count="41"/>
+      <shelf name="classics-read" count="41"/>
+      <shelf name="uk" count="38"/>
+      <shelf name="lit" count="38"/>
+      <shelf name="audiobook" count="37"/>
+      <shelf name="bookshelf" count="37"/>
+      <shelf name="race" count="37"/>
+      <shelf name="books" count="36"/>
+      <shelf name="europe" count="36"/>
+      <shelf name="home-library" count="36"/>
+      <shelf name="drama-plays" count="35"/>
+      <shelf name="reread" count="35"/>
+      <shelf name="read-for-class" count="34"/>
+      <shelf name="othello" count="33"/>
+      <shelf name="to-re-read" count="32"/>
+      <shelf name="history" count="32"/>
+      <shelf name="borrowed" count="32"/>
+      <shelf name="literary-fiction" count="31"/>
+      <shelf name="plays-and-poetry" count="31"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>3796</id>
+        <document_url>
+          http://feedbooks.com/book/2941.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>18525</id>
+<title>Dr. Faustus</title>
+<title_without_series>Dr. Faustus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18525.Dr_Faustus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392156779s/18525.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392156779m/18525.jpg]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>756664</id>
+</work>
+<isbn>0486282082</isbn>
+<isbn13>9780486282084</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>45029</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11155</id>
+<name>Christopher Marlowe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11155.Christopher_Marlowe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>752900</id>
+<title>Medea</title>
+<title_without_series>Medea</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/752900.Medea]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328868366s/752900.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328868366m/752900.jpg]]></image_url>
+<num_pages>47</num_pages>
+<work>
+<id>2936587</id>
+</work>
+<isbn>0486275485</isbn>
+<isbn13>9780486275482</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>42975</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>973</id>
+<name>Euripides</name>
+<link><![CDATA[https://www.goodreads.com/author/show/973.Euripides]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>539282</id>
+<title>Fences (The Century Cycle #6)</title>
+<title_without_series>Fences</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/539282.Fences]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1481833774s/539282.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1481833774m/539282.jpg]]></image_url>
+<num_pages>101</num_pages>
+<work>
+<id>60745</id>
+</work>
+<isbn>0452264014</isbn>
+<isbn13>9780452264014</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>12846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13944</id>
+<name>August Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13944.August_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>374188</id>
+<title>Ghosts</title>
+<title_without_series>Ghosts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/374188.Ghosts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>42007178</id>
+</work>
+<isbn>1420927957</isbn>
+<isbn13>9781420927955</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>9192</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2730977</id>
+<name>Henrik Ibsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2730977.Henrik_Ibsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>95833</id>
+<title>M. Butterfly</title>
+<title_without_series>M. Butterfly</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/95833.M_Butterfly]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>93</num_pages>
+<work>
+<id>1820443</id>
+</work>
+<isbn>0822207125</isbn>
+<isbn13>9780822207122</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>8864</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>55111</id>
+<name>David Henry Hwang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55111.David_Henry_Hwang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>148313</id>
+<title><![CDATA[Oedipus at Colonus (The Theban Plays, #2)]]></title>
+<title_without_series>Oedipus at Colonus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/148313.Oedipus_at_Colonus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>143129</id>
+</work>
+<isbn>0195135040</isbn>
+<isbn13>9780195135046</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>7051</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1002</id>
+<name>Sophocles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1002.Sophocles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>295771</id>
+<title>The Revenger&apos;s Tragedy</title>
+<title_without_series>The Revenger&apos;s Tragedy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/295771.The_Revenger_s_Tragedy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>286997</id>
+</work>
+<isbn>1419180460</isbn>
+<isbn13>9781419180460</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>2122</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>22584</id>
+<name>Thomas Middleton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22584.Thomas_Middleton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1519</id>
+<title><![CDATA[The Oresteia  (Ορέστεια, #1-3)]]></title>
+<title_without_series>The Oresteia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1519.The_Oresteia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391822282s/1519.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391822282m/1519.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>2378</id>
+</work>
+<isbn>0140443339</isbn>
+<isbn13>9780140443332</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>28193</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>990</id>
+<name>Aeschylus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/990.Aeschylus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>327775</id>
+<title>Frogs</title>
+<title_without_series>Frogs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/327775.Frogs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>70</num_pages>
+<work>
+<id>1385872</id>
+</work>
+<isbn>1406936723</isbn>
+<isbn13>9781406936728</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>4503</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1011</id>
+<name>Aristophanes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1011.Aristophanes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10868</id>
+<title><![CDATA[Picasso at the Lapin Agile and Other Plays]]></title>
+<title_without_series><![CDATA[Picasso at the Lapin Agile and Other Plays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10868.Picasso_at_the_Lapin_Agile_and_Other_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>150</num_pages>
+<work>
+<id>1288057</id>
+</work>
+<isbn>0802135234</isbn>
+<isbn13>9780802135230</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3345</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7103</id>
+<name>Steve Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7103.Steve_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17910</id>
+<title>Travesties</title>
+<title_without_series>Travesties</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17910.Travesties]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1176902</id>
+</work>
+<isbn>0802150896</isbn>
+<isbn13>9780802150899</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>2318</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>293</id>
+<name>Tom Stoppard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/293.Tom_Stoppard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>494785</id>
+<title>The Duchess of Malfi</title>
+<title_without_series>The Duchess of Malfi</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/494785.The_Duchess_of_Malfi]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>134</num_pages>
+<work>
+<id>1172625</id>
+</work>
+<isbn>0393900916</isbn>
+<isbn13>9780393900910</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>9833</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>39090</id>
+<name>John Webster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39090.John_Webster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47164</id>
+<title><![CDATA[The Norton Anthology of English Literature, Volume 1: The Middle Ages through the Restoration & the Eighteenth Century]]></title>
+<title_without_series><![CDATA[The Norton Anthology of English Literature, Volume 1: The Middle Ages through the Restoration & the Eighteenth Century]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47164.The_Norton_Anthology_of_English_Literature_Volume_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>3072</num_pages>
+<work>
+<id>889481</id>
+</work>
+<isbn>0393925315</isbn>
+<isbn13>9780393925319</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>7923</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>28115</id>
+<name>M.H. Abrams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28115.M_H_Abrams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>116504</id>
+<title>Metamorphoses</title>
+<title_without_series>Metamorphoses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/116504.Metamorphoses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>100</num_pages>
+<work>
+<id>112189</id>
+</work>
+<isbn>0810119803</isbn>
+<isbn13>9780810119802</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1980</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>53414</id>
+<name>Mary Zimmerman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53414.Mary_Zimmerman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12142</id>
+<title><![CDATA[Seven Plays: Buried Child / Curse of the Starving Class / The Tooth of Crime / La Turista / Tongues / Savage Love / True West]]></title>
+<title_without_series><![CDATA[Seven Plays: Buried Child / Curse of the Starving Class / The Tooth of Crime / La Turista / Tongues / Savage Love / True West]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12142.Seven_Plays]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1432910842s/12142.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1432910842m/12142.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>14484</id>
+</work>
+<isbn>0553346113</isbn>
+<isbn13>9780553346114</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>4504</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7713</id>
+<name>Sam Shepard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7713.Sam_Shepard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>795387</id>
+<title>Mrs. Warren&apos;s Profession</title>
+<title_without_series>Mrs. Warren&apos;s Profession</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/795387.Mrs_Warren_s_Profession]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>60</num_pages>
+<work>
+<id>1345212</id>
+</work>
+<isbn>159605980X</isbn>
+<isbn13>9781596059801</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>3876</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>150720</id>
+<title>Proof</title>
+<title_without_series>Proof</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/150720.Proof]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1417605435s/150720.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1417605435m/150720.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1632</id>
+</work>
+<isbn>0571199976</isbn>
+<isbn13>9780571199976</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>14035</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>87028</id>
+<name>David Auburn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87028.David_Auburn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>52822</id>
+<title><![CDATA[The Misanthrope, Tartuffe, and Other Plays]]></title>
+<title_without_series><![CDATA[The Misanthrope, Tartuffe, and Other Plays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/52822.The_Misanthrope_Tartuffe_and_Other_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>2176698</id>
+</work>
+<isbn>0192833413</isbn>
+<isbn13>9780192833419</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>917</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>29837</id>
+<name>Molière</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29837.Moli_re]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

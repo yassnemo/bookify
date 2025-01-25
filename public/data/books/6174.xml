@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>6174</id>
+  <title>Survival in Auschwitz</title>
+  <isbn><![CDATA[0684826801]]></isbn>
+  <isbn13><![CDATA[9780684826806]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1414374949m/6174.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1414374949s/6174.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In 1943, Primo Levi, a twenty-five-year-old chemist and "Italian citizen of Jewish race," was arrested by Italian fascists and deported from his native Turin to Auschwitz. Survival in Auschwitz is Levi's classic account of his ten months in the German death camp, a harrowing story of systematic cruelty and miraculous endurance. Remarkable for its simplicity, restraint, compassion, and even wit, Survival in Auschwitz remains a lasting testament to the indestructibility of the human spirit.]]></description>
+  <work>
+  <id type="integer">851110</id>
+  <books_count type="integer">135</books_count>
+  <best_book_id type="integer">6174</best_book_id>
+  <reviews_count type="integer">77154</reviews_count>
+  <ratings_sum type="integer">140438</ratings_sum>
+  <ratings_count type="integer">32844</ratings_count>
+  <text_reviews_count type="integer">1186</text_reviews_count>
+  <original_publication_year type="integer">1947</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Se questo è un uomo</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:16171|4:11075|3:4441|2:803|1:354|total:32844</rating_dist>
+  <desc_user_id type="integer">10085285</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.28</average_rating>
+  <num_pages><![CDATA[187]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[25633]]></ratings_count>
+  <text_reviews_count><![CDATA[718]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/6174.Survival_in_Auschwitz]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/6174.Survival_in_Auschwitz]]></link>
+  <authors>
+<author>
+<id>4187</id>
+<name>Primo Levi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397346875p5/4187.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397346875p2/4187.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4187.Primo_Levi]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>63104</ratings_count>
+<text_reviews_count>3107</text_reviews_count>
+</author>
+<author>
+<id>1756476</id>
+<name>Stuart J. Woolf</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1756476.Stuart_J_Woolf]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>35652</ratings_count>
+<text_reviews_count>1243</text_reviews_count>
+</author>
+<author>
+<id>463</id>
+<name>Philip Roth</name>
+<role>Afterword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399886959p5/463.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399886959p2/463.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/463.Philip_Roth]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>297194</ratings_count>
+<text_reviews_count>20740</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/6174.Survival_in_Auschwitz">Survival in Auschwitz Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0684826801&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/6174.Survival_in_Auschwitz?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="796"/>
+      <shelf name="jewish" count="52"/>
+      <shelf name="biographies" count="34"/>
+      <shelf name="college" count="30"/>
+      <shelf name="currently-reading" count="27"/>
+      <shelf name="library" count="27"/>
+      <shelf name="non-fiction" count="22"/>
+      <shelf name="holocaust-literature" count="22"/>
+      <shelf name="memoir-biography" count="21"/>
+      <shelf name="world-war-two" count="19"/>
+      <shelf name="adult" count="19"/>
+      <shelf name="european-history" count="19"/>
+      <shelf name="history" count="17"/>
+      <shelf name="historical-fiction" count="17"/>
+      <shelf name="philosophy" count="17"/>
+      <shelf name="judaism" count="16"/>
+      <shelf name="school-books" count="16"/>
+      <shelf name="biography" count="15"/>
+      <shelf name="wwii-holocaust" count="14"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="pal" count="13"/>
+      <shelf name="bio" count="13"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="to-read-non-fiction" count="13"/>
+      <shelf name="translated" count="13"/>
+      <shelf name="memoirs-biographies" count="13"/>
+      <shelf name="religion" count="13"/>
+      <shelf name="biblioteca" count="12"/>
+      <shelf name="my-books" count="12"/>
+      <shelf name="histoire" count="12"/>
+      <shelf name="translation" count="12"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="read-in-2015" count="11"/>
+      <shelf name="french" count="11"/>
+      <shelf name="non-fictie" count="11"/>
+      <shelf name="memoir-bio" count="11"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="bio-memoir" count="11"/>
+      <shelf name="biographies-memoirs" count="11"/>
+      <shelf name="read-in-2013" count="10"/>
+      <shelf name="1001-books-to-read-before-you-die" count="10"/>
+      <shelf name="1940s" count="10"/>
+      <shelf name="school-reads" count="10"/>
+      <shelf name="holocaust-lit" count="10"/>
+      <shelf name="have" count="10"/>
+      <shelf name="the-holocaust" count="10"/>
+      <shelf name="holocaust-genocide" count="9"/>
+      <shelf name="autobiography-memoir" count="9"/>
+      <shelf name="psychology" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="classics" count="8"/>
+      <shelf name="memoir" count="8"/>
+      <shelf name="historical-non-fiction" count="8"/>
+      <shelf name="ww-ii" count="8"/>
+      <shelf name="memoirs-and-biographies" count="8"/>
+      <shelf name="international" count="8"/>
+      <shelf name="history-politics" count="8"/>
+      <shelf name="european" count="8"/>
+      <shelf name="historia" count="8"/>
+      <shelf name="holocausto" count="8"/>
+      <shelf name="tbr" count="8"/>
+      <shelf name="biographical" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="holocaust-books" count="8"/>
+      <shelf name="read-2016" count="7"/>
+      <shelf name="italian-authors" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="e-book" count="7"/>
+      <shelf name="re-read" count="7"/>
+      <shelf name="romans" count="7"/>
+      <shelf name="read-in-french" count="7"/>
+      <shelf name="biographies-and-memoirs" count="7"/>
+      <shelf name="autobiographie" count="7"/>
+      <shelf name="to-read-nonfiction" count="7"/>
+      <shelf name="horror" count="7"/>
+      <shelf name="jewish-literature" count="7"/>
+      <shelf name="in-translation" count="7"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="holocaust-studies" count="7"/>
+      <shelf name="biography-memoirs" count="7"/>
+      <shelf name="shelfari-wishlist" count="6"/>
+      <shelf name="1001-books-you-must-read-before-you" count="6"/>
+      <shelf name="paperback" count="6"/>
+      <shelf name="true-story" count="6"/>
+      <shelf name="não-ficção" count="6"/>
+      <shelf name="for-class" count="6"/>
+      <shelf name="colecção-mil-folhas" count="6"/>
+      <shelf name="classiques" count="6"/>
+      <shelf name="biografia" count="6"/>
+      <shelf name="français" count="6"/>
+      <shelf name="world-history" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="non-fiction-to-read" count="6"/>
+      <shelf name="non-fiction-history" count="6"/>
+      <shelf name="auto-biographies" count="6"/>
+      <shelf name="required-reading" count="6"/>
+      <shelf name="autobiography-biography" count="6"/>
+      <shelf name="adult-non-fiction" count="6"/>
+      <shelf name="biography-autobiography-memoir" count="6"/>
+      <shelf name="bookshelf" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>626720</id>
+<user_position>1</user_position>
+<series>
+<id>127541</id>
+<title>
+<![CDATA[
+    Auschwitz Trilogy
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>6</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>647492</id>
+<title><![CDATA[Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland]]></title>
+<title_without_series><![CDATA[Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/647492.Ordinary_Men]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387867571s/647492.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387867571m/647492.jpg]]></image_url>
+<num_pages>271</num_pages>
+<work>
+<id>633637</id>
+</work>
+<isbn>0060995068</isbn>
+<isbn13>9780060995065</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>6883</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>99126</id>
+<name>Christopher R. Browning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99126.Christopher_R_Browning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>229458</id>
+<title><![CDATA[Dry Tears: The Story of a Lost Childhood]]></title>
+<title_without_series><![CDATA[Dry Tears: The Story of a Lost Childhood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/229458.Dry_Tears]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298049131s/229458.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298049131m/229458.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>916442</id>
+</work>
+<isbn>0195035003</isbn>
+<isbn13>9780195035001</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>343</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>134154</id>
+<name>Nechama Tec</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134154.Nechama_Tec]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73291</id>
+<title><![CDATA[Eyewitness Auschwitz: Three Years in the Gas Chambers]]></title>
+<title_without_series><![CDATA[Eyewitness Auschwitz: Three Years in the Gas Chambers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73291.Eyewitness_Auschwitz]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>70936</id>
+</work>
+<isbn>1566632714</isbn>
+<isbn13>9781566632713</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>3858</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>5463855</id>
+<name>Filip Müller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5463855.Filip_M_ller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>818991</id>
+<title><![CDATA[The Destruction of the European Jews]]></title>
+<title_without_series><![CDATA[The Destruction of the European Jews]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/818991.The_Destruction_of_the_European_Jews]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>1799209</id>
+</work>
+<isbn>0841909105</isbn>
+<isbn13>9780841909106</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1057</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>114185</id>
+<name>Raul Hilberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114185.Raul_Hilberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>328586</id>
+<title><![CDATA[Auschwitz: True Tales from a Grotesque Land]]></title>
+<title_without_series><![CDATA[Auschwitz: True Tales from a Grotesque Land]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/328586.Auschwitz]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>197</num_pages>
+<work>
+<id>319208</id>
+</work>
+<isbn>0807841609</isbn>
+<isbn13>9780807841600</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>1745</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>188635</id>
+<name>Sara Nomberg-Przytyk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/188635.Sara_Nomberg_Przytyk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>339757</id>
+<title>Auschwitz and After</title>
+<title_without_series>Auschwitz and After</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/339757.Auschwitz_and_After]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>330146</id>
+</work>
+<isbn>0300070578</isbn>
+<isbn13>9780300070576</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>764</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>138593</id>
+<name>Charlotte Delbo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138593.Charlotte_Delbo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>692474</id>
+<title><![CDATA[Nazi Germany and the Jews: The Years of Extermination, 1939-1945]]></title>
+<title_without_series><![CDATA[Nazi Germany and the Jews: The Years of Extermination, 1939-1945]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/692474.Nazi_Germany_and_the_Jews]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>870</num_pages>
+<work>
+<id>678812</id>
+</work>
+<isbn>0060190434</isbn>
+<isbn13>9780060190439</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>1057</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>480589</id>
+<name>Saul Friedländer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/480589.Saul_Friedl_nder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>419940</id>
+<title><![CDATA[War and Genocide: A Concise History of the Holocaust]]></title>
+<title_without_series><![CDATA[War and Genocide: A Concise History of the Holocaust]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/419940.War_and_Genocide]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>263</num_pages>
+<work>
+<id>409080</id>
+</work>
+<isbn>0847696316</isbn>
+<isbn13>9780847696314</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>849</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>133214</id>
+<name>Doris L. Bergen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/133214.Doris_L_Bergen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>775198</id>
+<title>I Escaped from Auschwitz</title>
+<title_without_series>I Escaped from Auschwitz</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/775198.I_Escaped_from_Auschwitz]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>447</num_pages>
+<work>
+<id>761237</id>
+</work>
+<isbn>1569802327</isbn>
+<isbn13>9781569802328</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>2305</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>349408</id>
+<name>Rudolf Vrba</name>
+<link><![CDATA[https://www.goodreads.com/author/show/349408.Rudolf_Vrba]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>562714</id>
+<title><![CDATA[Into That Darkness: An Examination of Conscience]]></title>
+<title_without_series><![CDATA[Into That Darkness: An Examination of Conscience]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/562714.Into_That_Darkness]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320530779s/562714.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320530779m/562714.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>2605252</id>
+</work>
+<isbn>0394710355</isbn>
+<isbn13>9780394710358</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1679</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13436</id>
+<name>Gitta Sereny</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13436.Gitta_Sereny]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>887213</id>
+<title><![CDATA[Diary of Dawid Sierakowiak: Five Notebooks from the Lodz Ghetto]]></title>
+<title_without_series><![CDATA[Diary of Dawid Sierakowiak: Five Notebooks from the Lodz Ghetto]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/887213.Diary_of_Dawid_Sierakowiak]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>872471</id>
+</work>
+<isbn>0195122852</isbn>
+<isbn13>9780195122855</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>310</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>456030</id>
+<name>Dawid Sierakowiak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/456030.Dawid_Sierakowiak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>339760</id>
+<title><![CDATA[The Dentist of Auschwitz: A Memoir]]></title>
+<title_without_series><![CDATA[The Dentist of Auschwitz: A Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/339760.The_Dentist_of_Auschwitz]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>330148</id>
+</work>
+<isbn>0813190126</isbn>
+<isbn13>9780813190129</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>850</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>194838</id>
+<name>Benjamin Jacobs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194838.Benjamin_Jacobs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>228244</id>
+<title><![CDATA[This Way for the Gas, Ladies and Gentlemen]]></title>
+<title_without_series><![CDATA[This Way for the Gas, Ladies and Gentlemen]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/228244.This_Way_for_the_Gas_Ladies_and_Gentlemen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1361813564s/228244.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1361813564m/228244.jpg]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>221052</id>
+</work>
+<isbn>0140186247</isbn>
+<isbn13>9780140186246</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>5156</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>11</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>133522</id>
+<name>Tadeusz Borowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/133522.Tadeusz_Borowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73698</id>
+<title><![CDATA[Neighbors: The Destruction of the Jewish Community in Jedwabne, Poland]]></title>
+<title_without_series><![CDATA[Neighbors: The Destruction of the Jewish Community in Jedwabne, Poland]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73698.Neighbors]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>71317</id>
+</work>
+<isbn>0142002402</isbn>
+<isbn13>9780142002407</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1632</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>115926</id>
+<name>Jan Tomasz Gross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/115926.Jan_Tomasz_Gross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1120969</id>
+<title>Notes from the Warsaw Ghetto</title>
+<title_without_series>Notes from the Warsaw Ghetto</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1120969.Notes_from_the_Warsaw_Ghetto]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>369</num_pages>
+<work>
+<id>1108050</id>
+</work>
+<isbn>1596873310</isbn>
+<isbn13>9781596873315</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>421</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>552031</id>
+<name>Emmanuel Ringelblum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/552031.Emmanuel_Ringelblum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>347658</id>
+<title><![CDATA[Still Alive: A Holocaust Girlhood Remembered]]></title>
+<title_without_series><![CDATA[Still Alive: A Holocaust Girlhood Remembered]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/347658.Still_Alive]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1453617003s/347658.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1453617003m/347658.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>337948</id>
+</work>
+<isbn>1558614362</isbn>
+<isbn13>9781558614369</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1131</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>184417</id>
+<name>Ruth Klüger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/184417.Ruth_Kl_ger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1119377</id>
+<title><![CDATA[The Righteous: The Unsung Heroes of the Holocaust]]></title>
+<title_without_series><![CDATA[The Righteous: The Unsung Heroes of the Holocaust]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1119377.The_Righteous]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312061444s/1119377.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312061444m/1119377.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1106446</id>
+</work>
+<isbn>0805062602</isbn>
+<isbn13>9780805062601</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>349</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5792</id>
+<name>Martin  Gilbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5792.Martin_Gilbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>190572</id>
+<title><![CDATA[I Will Bear Witness 1942-45 A Diary of the Nazi Years]]></title>
+<title_without_series><![CDATA[I Will Bear Witness 1942-45 A Diary of the Nazi Years]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/190572.I_Will_Bear_Witness_1942_45_A_Diary_of_the_Nazi_Years]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320451451s/190572.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320451451m/190572.jpg]]></image_url>
+<num_pages>576</num_pages>
+<work>
+<id>184244</id>
+</work>
+<isbn>0375756973</isbn>
+<isbn13>9780375756979</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1098</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>90845</id>
+<name>Victor Klemperer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90845.Victor_Klemperer]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

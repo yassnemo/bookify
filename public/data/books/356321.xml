@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>356321</id>
+  <title>The Story of Babar</title>
+  <isbn><![CDATA[0394805755]]></isbn>
+  <isbn13><![CDATA[9780394805757]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00ZT63QCE]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1353333493m/356321.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1353333493s/356321.jpg</small_image_url>
+  <publication_year>1937</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Random House Books for Young Readers</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The classic first story about literature’s most beloved pachyderm. After his mother is killed by a hunter, Babar avoids capture by escaping to the city, where he is befriended by the kindly Old Lady. He becomes educated and cultured and, upon his return to the great forest, is crowned King of the Elephants. Translated from Jean de Brunhoff's original French, the adventures of the world's most popular elephant and his friends have enchanted generations. Delightfully amusing illustrations make this short collection of classic Babar tales a book to treasure for children young and old.]]></description>
+  <work>
+  <id type="integer">2682241</id>
+  <books_count type="integer">43</books_count>
+  <best_book_id type="integer">356321</best_book_id>
+  <reviews_count type="integer">59913</reviews_count>
+  <ratings_sum type="integer">208521</ratings_sum>
+  <ratings_count type="integer">51173</ratings_count>
+  <text_reviews_count type="integer">328</text_reviews_count>
+  <original_publication_year type="integer">1931</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Histoire de Babar, le petit éléphant</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:22437|4:14475|3:10847|2:2481|1:933|total:51173</rating_dist>
+  <desc_user_id type="integer">19821046</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[56]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[51002]]></ratings_count>
+  <text_reviews_count><![CDATA[306]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/356321.The_Story_of_Babar]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/356321.The_Story_of_Babar]]></link>
+  <authors>
+<author>
+<id>4788791</id>
+<name>Jean de Brunhoff</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4788791.Jean_de_Brunhoff]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>70770</ratings_count>
+<text_reviews_count>529</text_reviews_count>
+</author>
+<author>
+<id>3448760</id>
+<name>Merle S. Haas</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3448760.Merle_S_Haas]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>54252</ratings_count>
+<text_reviews_count>379</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/356321.The_Story_of_Babar">The Story of Babar Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0394805755&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/356321.The_Story_of_Babar?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6583"/>
+      <shelf name="childrens" count="455"/>
+      <shelf name="picture-books" count="404"/>
+      <shelf name="children-s" count="326"/>
+      <shelf name="children" count="325"/>
+      <shelf name="children-s-books" count="324"/>
+      <shelf name="kids" count="159"/>
+      <shelf name="fiction" count="152"/>
+      <shelf name="childhood" count="145"/>
+      <shelf name="classics" count="137"/>
+      <shelf name="childrens-books" count="119"/>
+      <shelf name="picture-book" count="87"/>
+      <shelf name="kids-books" count="79"/>
+      <shelf name="favorites" count="69"/>
+      <shelf name="animals" count="64"/>
+      <shelf name="childhood-favorites" count="54"/>
+      <shelf name="children-s-literature" count="50"/>
+      <shelf name="classic" count="45"/>
+      <shelf name="children-s-lit" count="41"/>
+      <shelf name="childhood-books" count="38"/>
+      <shelf name="french" count="34"/>
+      <shelf name="fantasy" count="32"/>
+      <shelf name="currently-reading" count="31"/>
+      <shelf name="childrens-lit" count="29"/>
+      <shelf name="children-books" count="28"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="series" count="21"/>
+      <shelf name="children-s-picture-books" count="21"/>
+      <shelf name="elephants" count="19"/>
+      <shelf name="childhood-reads" count="18"/>
+      <shelf name="favorite-children-s-books" count="18"/>
+      <shelf name="picture" count="17"/>
+      <shelf name="juvenile" count="17"/>
+      <shelf name="france" count="16"/>
+      <shelf name="read-as-a-child" count="16"/>
+      <shelf name="kid-books" count="16"/>
+      <shelf name="childrens-fiction" count="14"/>
+      <shelf name="youth" count="14"/>
+      <shelf name="children-s-classics" count="13"/>
+      <shelf name="books-from-my-childhood" count="13"/>
+      <shelf name="childhood-memories" count="13"/>
+      <shelf name="childrens-picture-books" count="13"/>
+      <shelf name="my-childhood" count="13"/>
+      <shelf name="illustrated" count="13"/>
+      <shelf name="childhood-favourites" count="13"/>
+      <shelf name="children-young-adult" count="13"/>
+      <shelf name="kid-lit" count="13"/>
+      <shelf name="nostalgia" count="12"/>
+      <shelf name="children-s-fiction" count="12"/>
+      <shelf name="read-as-a-kid" count="12"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="children-s-book" count="12"/>
+      <shelf name="preschool" count="11"/>
+      <shelf name="library" count="11"/>
+      <shelf name="school" count="11"/>
+      <shelf name="1001-childrens-books" count="11"/>
+      <shelf name="picturebooks" count="11"/>
+      <shelf name="from-my-childhood" count="11"/>
+      <shelf name="books-i-own" count="11"/>
+      <shelf name="for-the-kids" count="11"/>
+      <shelf name="adventure" count="10"/>
+      <shelf name="kid-s-books" count="10"/>
+      <shelf name="kiddos" count="10"/>
+      <shelf name="20th-century" count="10"/>
+      <shelf name="children-ya" count="10"/>
+      <shelf name="elementary" count="9"/>
+      <shelf name="babar" count="9"/>
+      <shelf name="young-children" count="9"/>
+      <shelf name="elephant" count="8"/>
+      <shelf name="childhood-classics" count="8"/>
+      <shelf name="read-alouds" count="8"/>
+      <shelf name="childrens-literature" count="8"/>
+      <shelf name="read-kids" count="7"/>
+      <shelf name="translated" count="7"/>
+      <shelf name="children-fiction" count="7"/>
+      <shelf name="childhood-favorite" count="7"/>
+      <shelf name="read-aloud" count="7"/>
+      <shelf name="animal" count="7"/>
+      <shelf name="young-adult" count="7"/>
+      <shelf name="1930s" count="7"/>
+      <shelf name="all-time-favorites" count="7"/>
+      <shelf name="childrensbooks" count="7"/>
+      <shelf name="childhood-faves" count="7"/>
+      <shelf name="mensa-k-3" count="6"/>
+      <shelf name="kindergarten" count="6"/>
+      <shelf name="childrens-classics" count="6"/>
+      <shelf name="young-readers" count="6"/>
+      <shelf name="books-from-childhood" count="6"/>
+      <shelf name="literature" count="6"/>
+      <shelf name="europe" count="6"/>
+      <shelf name="family" count="6"/>
+      <shelf name="1001-children-s-books" count="6"/>
+      <shelf name="kid-stuff" count="6"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="francais" count="6"/>
+      <shelf name="childrens-young-adult" count="6"/>
+      <shelf name="for-children" count="6"/>
+      <shelf name="favorite-childrens-books" count="6"/>
+      <shelf name="ya" count="6"/>
+      <shelf name="childrens-book" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>445332</id>
+<user_position>1</user_position>
+<series>
+<id>92354</id>
+<title>
+<![CDATA[
+    Babar
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>171</series_works_count>
+<primary_work_count>164</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>782854</id>
+<title>Eloise </title>
+<title_without_series>Eloise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/782854.Eloise]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>65</num_pages>
+<work>
+<id>768864</id>
+</work>
+<isbn>067122350X</isbn>
+<isbn13>9780671223502</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>20386</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>73310</id>
+<name>Kay Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73310.Kay_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>492812</id>
+<title>Angelina Ballerina</title>
+<title_without_series>Angelina Ballerina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/492812.Angelina_Ballerina]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3023970</id>
+</work>
+<isbn>0670060267</isbn>
+<isbn13>9780670060269</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>8784</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6021</id>
+<name>Katharine Holabird</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6021.Katharine_Holabird]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>206090</id>
+<title><![CDATA[Mad About Madeline: The Complete Tales]]></title>
+<title_without_series><![CDATA[Mad About Madeline: The Complete Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/206090.Mad_About_Madeline]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>199455</id>
+</work>
+<isbn>0670888168</isbn>
+<isbn13>9780670888160</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>3493</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64280</id>
+<name>Ludwig Bemelmans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64280.Ludwig_Bemelmans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>808853</id>
+<title><![CDATA[The Complete Adventures of Curious George]]></title>
+<title_without_series><![CDATA[The Complete Adventures of Curious George]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/808853.The_Complete_Adventures_of_Curious_George]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>251371</id>
+</work>
+<isbn>0618164413</isbn>
+<isbn13>9780618164417</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>39816</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>6608</id>
+<name>Margret Rey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6608.Margret_Rey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>313375</id>
+<title>What Do People Do All Day?</title>
+<title_without_series>What Do People Do All Day?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/313375.What_Do_People_Do_All_Day_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320394066s/313375.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320394066m/313375.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>304268</id>
+</work>
+<isbn>0394818237</isbn>
+<isbn13>9780394818238</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>10572</ratings_count>
+<publication_year>1968</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13901</id>
+<name>Richard Scarry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13901.Richard_Scarry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>372638</id>
+<title>Lyle, Lyle, Crocodile</title>
+<title_without_series>Lyle, Lyle, Crocodile</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/372638.Lyle_Lyle_Crocodile]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>3080688</id>
+</work>
+<isbn>0395137209</isbn>
+<isbn13>9780395137208</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>24415</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>55758</id>
+<name>Bernard Waber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55758.Bernard_Waber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>189182</id>
+<title>The Story About Ping</title>
+<title_without_series>The Story About Ping</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/189182.The_Story_About_Ping]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>802423</id>
+</work>
+<isbn>0448421658</isbn>
+<isbn13>9780448421650</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>36764</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>110255</id>
+<name>Marjorie Flack</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110255.Marjorie_Flack]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>153542</id>
+<title><![CDATA[Mike Mulligan and His Steam Shovel]]></title>
+<title_without_series><![CDATA[Mike Mulligan and His Steam Shovel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/153542.Mike_Mulligan_and_His_Steam_Shovel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1069773</id>
+</work>
+<isbn>0395169615</isbn>
+<isbn13>9780395169612</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>43753</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15450</id>
+<name>Virginia Lee Burton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15450.Virginia_Lee_Burton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>201146</id>
+<title>Little Bear</title>
+<title_without_series>Little Bear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/201146.Little_Bear]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1318518124s/201146.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1318518124m/201146.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>506009</id>
+</work>
+<isbn>0590319671</isbn>
+<isbn13>9780590319676</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>47569</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8722</id>
+<name>Else Holmelund Minarik</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8722.Else_Holmelund_Minarik]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>906541</id>
+<title>Bedtime for Frances</title>
+<title_without_series>Bedtime for Frances</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/906541.Bedtime_for_Frances]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2127174</id>
+</work>
+<isbn>0064434516</isbn>
+<isbn13>9780064434515</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>23122</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>9</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>12076</id>
+<name>Russell Hoban</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12076.Russell_Hoban]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160629</id>
+<title><![CDATA[A Bear Called Paddington (Paddington, #1)]]></title>
+<title_without_series>A Bear Called Paddington</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160629.A_Bear_Called_Paddington]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1393784912s/160629.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1393784912m/160629.jpg]]></image_url>
+<num_pages>159</num_pages>
+<work>
+<id>1544060</id>
+</work>
+<isbn>0007174160</isbn>
+<isbn13>9780007174164</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>64054</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>70993</id>
+<name>Michael Bond</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70993.Michael_Bond]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>375711</id>
+<title>The Tale of Mr. Jeremy Fisher</title>
+<title_without_series>The Tale of Mr. Jeremy Fisher</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/375711.The_Tale_of_Mr_Jeremy_Fisher]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1447721945s/375711.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1447721945m/375711.jpg]]></image_url>
+<num_pages>57</num_pages>
+<work>
+<id>2979802</id>
+</work>
+<isbn>0723247765</isbn>
+<isbn13>9780723247760</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>9859</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>11593</id>
+<name>Beatrix Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11593.Beatrix_Potter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1001896</id>
+<title>The Real Mother Goose</title>
+<title_without_series>The Real Mother Goose</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1001896.The_Real_Mother_Goose]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>818039</id>
+</work>
+<isbn>0590225170</isbn>
+<isbn13>9780590225175</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>32055</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>48966</id>
+<name>Blanche Fisher Wright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48966.Blanche_Fisher_Wright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>833535</id>
+<title>George and Martha</title>
+<title_without_series>George and Martha</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/833535.George_and_Martha]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>46151575</id>
+</work>
+<isbn>0395199727</isbn>
+<isbn13>9780395199725</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3696</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>27881</id>
+<name>James  Marshall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27881.James_Marshall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>404398</id>
+<title>Children of the Forest</title>
+<title_without_series>Children of the Forest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/404398.Children_of_the_Forest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>393770</id>
+</work>
+<isbn>0863154972</isbn>
+<isbn13>9780863154973</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>972</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>163381</id>
+<name>Elsa Beskow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163381.Elsa_Beskow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>375901</id>
+<title>Frédéric</title>
+<title_without_series>Frédéric</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/375901.Fr_d_ric]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329956148s/375901.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329956148m/375901.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1920769</id>
+</work>
+<isbn>2211065899</isbn>
+<isbn13>9782211065894</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>17485</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32804</id>
+<name>Leo Lionni</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32804.Leo_Lionni]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2643238</id>
+<title>The Cow Who Fell in the Canal</title>
+<title_without_series>The Cow Who Fell in the Canal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2643238-the-cow-who-fell-in-the-canal]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1372537811s/2643238.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1372537811m/2643238.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2667974</id>
+</work>
+<isbn>0749704977</isbn>
+<isbn13>9780749704971</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>366</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>77247</id>
+<name>Phyllis Krasilovsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77247.Phyllis_Krasilovsky]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

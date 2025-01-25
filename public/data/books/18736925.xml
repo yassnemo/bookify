@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18736925</id>
+  <title><![CDATA[Capital in the Twenty-First Century]]></title>
+  <isbn><![CDATA[067443000X]]></isbn>
+  <isbn13><![CDATA[9780674430006]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>10</publication_day>
+  <publisher>Belknap Press</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[What are the grand dynamics that drive the accumulation and distribution of capital? Questions about the long-term evolution of inequality, the concentration of wealth, and the prospects for economic growth lie at the heart of political economy. But satisfactory answers have been hard to find for lack of adequate data and clear guiding theories. In Capital in the Twenty-First Century, "Thomas Piketty analyzes a unique collection of data from twenty countries, ranging as far back as the eighteenth century, to uncover key economic and social patterns. His findings will transform debate and set the agenda for the next generation of thought about wealth and inequality.<br /><br />Piketty shows that modern economic growth and the diffusion of knowledge have allowed us to avoid inequalities on the apocalyptic scale predicted by Karl Marx. But we have not modified the deep structures of capital and inequality as much as we thought in the optimistic decades following World War II. The main driver of inequality--the tendency of returns on capital to exceed the rate of economic growth--today threatens to generate extreme inequalities that stir discontent and undermine democratic values. But economic trends are not acts of God. Political action has curbed dangerous inequalities in the past, Piketty says, and may do so again.<br /><br />A work of extraordinary ambition, originality, and rigor, Capital in the Twenty-First Century "reorients our understanding of economic history and confronts us with sobering lessons for today.]]></description>
+  <work>
+  <id type="integer">26224121</id>
+  <books_count type="integer">68</books_count>
+  <best_book_id type="integer">18736925</best_book_id>
+  <reviews_count type="integer">65761</reviews_count>
+  <ratings_sum type="integer">60586</ratings_sum>
+  <ratings_count type="integer">15100</ratings_count>
+  <text_reviews_count type="integer">1365</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Le capital au XXIe siècle </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5654|4:5662|3:2575|2:734|1:475|total:15100</rating_dist>
+  <desc_user_id type="integer">7492276</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.01</average_rating>
+  <num_pages><![CDATA[685]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13060]]></ratings_count>
+  <text_reviews_count><![CDATA[1207]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century]]></link>
+  <authors>
+<author>
+<id>795282</id>
+<name>Thomas Piketty</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1398785388p5/795282.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1398785388p2/795282.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/795282.Thomas_Piketty]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>16252</ratings_count>
+<text_reviews_count>1520</text_reviews_count>
+</author>
+<author>
+<id>45406</id>
+<name>Arthur Goldhammer</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442451799p5/45406.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442451799p2/45406.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/45406.Arthur_Goldhammer]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>18009</ratings_count>
+<text_reviews_count>1585</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century">Capital in the Twenty-First Century Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=067443000X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3982"/>
+      <shelf name="economics" count="1259"/>
+      <shelf name="non-fiction" count="742"/>
+      <shelf name="currently-reading" count="467"/>
+      <shelf name="history" count="303"/>
+      <shelf name="politics" count="291"/>
+      <shelf name="nonfiction" count="253"/>
+      <shelf name="business" count="230"/>
+      <shelf name="economy" count="102"/>
+      <shelf name="finance" count="99"/>
+      <shelf name="owned" count="74"/>
+      <shelf name="favorites" count="67"/>
+      <shelf name="to-buy" count="55"/>
+      <shelf name="abandoned" count="51"/>
+      <shelf name="philosophy" count="51"/>
+      <shelf name="econ" count="40"/>
+      <shelf name="science" count="38"/>
+      <shelf name="to-read-non-fiction" count="38"/>
+      <shelf name="wish-list" count="37"/>
+      <shelf name="sociology" count="37"/>
+      <shelf name="audiobook" count="36"/>
+      <shelf name="library" count="36"/>
+      <shelf name="on-hold" count="33"/>
+      <shelf name="kindle" count="33"/>
+      <shelf name="political" count="33"/>
+      <shelf name="audible" count="31"/>
+      <shelf name="inequality" count="29"/>
+      <shelf name="ebook" count="29"/>
+      <shelf name="french" count="29"/>
+      <shelf name="default" count="27"/>
+      <shelf name="audiobooks" count="27"/>
+      <shelf name="capitalism" count="27"/>
+      <shelf name="unfinished" count="26"/>
+      <shelf name="economics-finance" count="26"/>
+      <shelf name="non-fiction-to-read" count="26"/>
+      <shelf name="to-read-nonfiction" count="26"/>
+      <shelf name="political-economy" count="25"/>
+      <shelf name="economia" count="24"/>
+      <shelf name="economía" count="24"/>
+      <shelf name="social-science" count="23"/>
+      <shelf name="business-economics" count="23"/>
+      <shelf name="political-science" count="22"/>
+      <shelf name="society" count="21"/>
+      <shelf name="did-not-finish" count="18"/>
+      <shelf name="paused" count="18"/>
+      <shelf name="books-i-own" count="18"/>
+      <shelf name="owned-books" count="16"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="development" count="15"/>
+      <shelf name="business-books" count="15"/>
+      <shelf name="academic" count="15"/>
+      <shelf name="didn-t-finish" count="14"/>
+      <shelf name="21st-century" count="14"/>
+      <shelf name="politics-economics" count="14"/>
+      <shelf name="finance-economics" count="14"/>
+      <shelf name="investing" count="13"/>
+      <shelf name="my-books" count="13"/>
+      <shelf name="social-sciences" count="13"/>
+      <shelf name="contemporary" count="13"/>
+      <shelf name="current-affairs" count="13"/>
+      <shelf name="economic-history" count="13"/>
+      <shelf name="money" count="13"/>
+      <shelf name="economic" count="12"/>
+      <shelf name="france" count="12"/>
+      <shelf name="e-book" count="12"/>
+      <shelf name="policy" count="11"/>
+      <shelf name="partially-read" count="11"/>
+      <shelf name="audio" count="11"/>
+      <shelf name="read-in-2014" count="11"/>
+      <shelf name="financial" count="11"/>
+      <shelf name="interesting" count="11"/>
+      <shelf name="business-finance" count="11"/>
+      <shelf name="must-read" count="10"/>
+      <shelf name="bill-gates" count="10"/>
+      <shelf name="economie" count="10"/>
+      <shelf name="education" count="10"/>
+      <shelf name="europe" count="10"/>
+      <shelf name="theory" count="10"/>
+      <shelf name="poverty" count="10"/>
+      <shelf name="economics-business" count="10"/>
+      <shelf name="never-finished" count="9"/>
+      <shelf name="stopped-reading" count="9"/>
+      <shelf name="économie" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="maybe" count="9"/>
+      <shelf name="business-and-economics" count="9"/>
+      <shelf name="non-fic" count="9"/>
+      <shelf name="summer-2014" count="9"/>
+      <shelf name="to-purchase" count="9"/>
+      <shelf name="essay" count="9"/>
+      <shelf name="not-finished" count="8"/>
+      <shelf name="social" count="8"/>
+      <shelf name="politique" count="8"/>
+      <shelf name="capital" count="8"/>
+      <shelf name="work" count="8"/>
+      <shelf name="research" count="8"/>
+      <shelf name="finance-and-economics" count="8"/>
+      <shelf name="economics-politics" count="8"/>
+      <shelf name="current-events" count="8"/>
+      <shelf name="english" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>13484866</id>
+<title><![CDATA[Austerity: The History of a Dangerous Idea]]></title>
+<title_without_series><![CDATA[Austerity: The History of a Dangerous Idea]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13484866-austerity]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1359981823s/13484866.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1359981823m/13484866.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>19020215</id>
+</work>
+<isbn>019982830X</isbn>
+<isbn13>9780199828302</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>836</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>30518</id>
+<name>Mark Blyth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30518.Mark_Blyth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244904</id>
+<title>The New Industrial State</title>
+<title_without_series>The New Industrial State</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244904.The_New_Industrial_State]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2085732</id>
+</work>
+<isbn>0691131414</isbn>
+<isbn13>9780691131412</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>318</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>23458</id>
+<name>John Kenneth Galbraith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23458.John_Kenneth_Galbraith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17942017</id>
+<title><![CDATA[The Great Escape: Health, Wealth, and the Origins of Inequality]]></title>
+<title_without_series><![CDATA[The Great Escape: Health, Wealth, and the Origins of Inequality]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17942017-the-great-escape]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1381304685s/17942017.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1381304685m/17942017.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>25154203</id>
+</work>
+<isbn>1400847966</isbn>
+<isbn13>9781400847969</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>816</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>170788</id>
+<name>Angus Deaton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170788.Angus_Deaton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16685439</id>
+<title><![CDATA[The Price of Inequality: How Today's Divided Society Endangers Our Future]]></title>
+<title_without_series><![CDATA[The Price of Inequality: How Today's Divided Society Endangers Our Future]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16685439-the-price-of-inequality]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365989032s/16685439.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365989032m/16685439.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>19319742</id>
+</work>
+<isbn>0393345068</isbn>
+<isbn13>9780393345063</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>5567</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>6426</id>
+<name>Joseph E. Stiglitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6426.Joseph_E_Stiglitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7316687</id>
+<title>A Companion to Marx&apos;s Capital</title>
+<title_without_series>A Companion to Marx&apos;s Capital</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7316687-a-companion-to-marx-s-capital]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1373997013s/7316687.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1373997013m/7316687.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>8858828</id>
+</work>
+<isbn>1844673588</isbn>
+<isbn13>9781844673582</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1110</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>61592</id>
+<name>David Harvey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61592.David_Harvey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20575435</id>
+<title><![CDATA[Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy]]></title>
+<title_without_series><![CDATA[Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20575435-political-order-and-political-decay]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403560044s/20575435.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403560044m/20575435.jpg]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>39843441</id>
+</work>
+<isbn>0374227357</isbn>
+<isbn13>9780374227357</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1692</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>32633</id>
+<name>Francis Fukuyama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32633.Francis_Fukuyama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15811560</id>
+<title><![CDATA[After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead]]></title>
+<title_without_series><![CDATA[After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15811560-after-the-music-stopped]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355917711s/15811560.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355917711m/15811560.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>21536824</id>
+</work>
+<isbn>1594205302</isbn>
+<isbn13>9781594205309</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1175</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>95232</id>
+<name>Alan S. Blinder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95232.Alan_S_Blinder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13166634</id>
+<title>Great Divergence, The</title>
+<title_without_series>Great Divergence, The</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13166634-great-divergence-the]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344312919s/13166634.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344312919m/13166634.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>18345857</id>
+</work>
+<isbn>160819633X</isbn>
+<isbn13>9781608196333</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>403</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>577948</id>
+<name>Timothy Noah</name>
+<link><![CDATA[https://www.goodreads.com/author/show/577948.Timothy_Noah]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23502970</id>
+<title>Inequality: What Can Be Done?</title>
+<title_without_series>Inequality: What Can Be Done?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23502970-inequality]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421710300s/23502970.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421710300m/23502970.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>43107644</id>
+</work>
+<isbn>0674504763</isbn>
+<isbn13>9780674504769</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>212</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>150633</id>
+<name>Anthony B. Atkinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150633.Anthony_B_Atkinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18210744</id>
+<title><![CDATA[The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor]]></title>
+<title_without_series><![CDATA[The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18210744-the-tyranny-of-experts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1375754369s/18210744.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1375754369m/18210744.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>25632089</id>
+</work>
+<isbn>0465031250</isbn>
+<isbn13>9780465031252</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>650</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>18855</id>
+<name>William Easterly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18855.William_Easterly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53981</id>
+<title><![CDATA[The Great Transformation: The Political and Economic Origins of Our Time]]></title>
+<title_without_series><![CDATA[The Great Transformation: The Political and Economic Origins of Our Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53981.The_Great_Transformation]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>360</num_pages>
+<work>
+<id>1997401</id>
+</work>
+<isbn>080705643X</isbn>
+<isbn13>9780807056431</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>2798</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>30514</id>
+<name>Karl Polanyi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30514.Karl_Polanyi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18526683</id>
+<title><![CDATA[House of Debt: How They (and You) Caused the Great Recession, and How We Can Prevent It from Happening Again]]></title>
+<title_without_series><![CDATA[House of Debt: How They (and You) Caused the Great Recession, and How We Can Prevent It from Happening Again]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18526683-house-of-debt]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414558467s/18526683.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414558467m/18526683.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>26232034</id>
+</work>
+<isbn>022608194X</isbn>
+<isbn13>9780226081946</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>490</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>7279759</id>
+<name>Atif Mian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7279759.Atif_Mian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17121868</id>
+<title><![CDATA[The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order]]></title>
+<title_without_series><![CDATA[The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17121868-the-battle-of-bretton-woods]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1381752708s/17121868.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1381752708m/17121868.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>23507242</id>
+</work>
+<isbn>1400846579</isbn>
+<isbn13>9781400846573</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>397</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>311027</id>
+<name>Benn Steil</name>
+<link><![CDATA[https://www.goodreads.com/author/show/311027.Benn_Steil]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7354453</id>
+<title><![CDATA[I.O.U.: Why Everyone Owes Everyone and No One Can Pay]]></title>
+<title_without_series><![CDATA[I.O.U.: Why Everyone Owes Everyone and No One Can Pay]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7354453-i-o-u]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>9125356</id>
+</work>
+<isbn>1439169845</isbn>
+<isbn13>9781439169841</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>1809</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33359</id>
+<name>John Lanchester</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33359.John_Lanchester]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1032019</id>
+<title><![CDATA[Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism]]></title>
+<title_without_series><![CDATA[Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1032019.Bad_Samaritans]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312041078s/1032019.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312041078m/1032019.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1018297</id>
+</work>
+<isbn>1596913991</isbn>
+<isbn13>9781596913998</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>2811</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>95227</id>
+<name>Ha-Joon Chang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95227.Ha_Joon_Chang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22500958</id>
+<title><![CDATA[The Age of Acquiescence: The Life and Death of American Resistance to Organized Wealth and Power]]></title>
+<title_without_series><![CDATA[The Age of Acquiescence: The Life and Death of American Resistance to Organized Wealth and Power]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22500958-the-age-of-acquiescence]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403537068s/22500958.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403537068m/22500958.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>41947714</id>
+</work>
+<isbn>0316185434</isbn>
+<isbn13>9780316185431</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>274</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>347686</id>
+<name>Steve Fraser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/347686.Steve_Fraser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6167162</id>
+<title><![CDATA[Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism]]></title>
+<title_without_series><![CDATA[Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6167162-animal-spirits]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>6346556</id>
+</work>
+<isbn>0691142335</isbn>
+<isbn13>9780691142333</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>3283</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1404728</id>
+<name>George A. Akerlof</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1404728.George_A_Akerlof]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11415678</id>
+<title><![CDATA[The Global Minotaur: America, the True Origins of the Financial Crisis and the Future of the World Economy]]></title>
+<title_without_series><![CDATA[The Global Minotaur: America, the True Origins of the Financial Crisis and the Future of the World Economy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11415678-the-global-minotaur]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320384318s/11415678.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320384318m/11415678.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>16348606</id>
+</work>
+<isbn>1780320140</isbn>
+<isbn13>9781780320144</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>1057</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>405898</id>
+<name>Yanis Varoufakis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/405898.Yanis_Varoufakis]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

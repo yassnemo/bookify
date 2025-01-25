@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24215</id>
+  <title><![CDATA[Alice's Adventures in Wonderland: A Pop-Up Adaptation]]></title>
+  <isbn><![CDATA[0689847432]]></isbn>
+  <isbn13><![CDATA[9780689847431]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Little Simon</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">18485762</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">24215</best_book_id>
+  <reviews_count type="integer">24235</reviews_count>
+  <ratings_sum type="integer">92613</ratings_sum>
+  <ratings_count type="integer">21391</ratings_count>
+  <text_reviews_count type="integer">100</text_reviews_count>
+  <original_publication_year type="integer">2003</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11897|4:5673|3:3047|2:521|1:253|total:21391</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.33</average_rating>
+  <num_pages><![CDATA[12]]></num_pages>
+  <format><![CDATA[Novelty Book]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21163]]></ratings_count>
+  <text_reviews_count><![CDATA[73]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24215.Alice_s_Adventures_in_Wonderland]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24215.Alice_s_Adventures_in_Wonderland]]></link>
+  <authors>
+<author>
+<id>14765007</id>
+<name>Robert Sabuda</name>
+<role>Adaptor, Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1467828368p5/14765007.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1467828368p2/14765007.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14765007.Robert_Sabuda]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>30737</ratings_count>
+<text_reviews_count>927</text_reviews_count>
+</author>
+<author>
+<id>8164</id>
+<name>Lewis Carroll</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192735053p5/8164.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192735053p2/8164.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8164.Lewis_Carroll]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>1003118</ratings_count>
+<text_reviews_count>23245</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24215.Alice_s_Adventures_in_Wonderland">Alice&#39;s Adventures in Wonderland Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0689847432&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/24215.Alice_s_Adventures_in_Wonderland?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2653"/>
+      <shelf name="classics" count="65"/>
+      <shelf name="fantasy" count="48"/>
+      <shelf name="childrens" count="39"/>
+      <shelf name="favorites" count="36"/>
+      <shelf name="children-s-books" count="35"/>
+      <shelf name="children" count="31"/>
+      <shelf name="children-s" count="27"/>
+      <shelf name="fiction" count="24"/>
+      <shelf name="picture-books" count="23"/>
+      <shelf name="pop-up" count="21"/>
+      <shelf name="classic" count="20"/>
+      <shelf name="childrens-books" count="18"/>
+      <shelf name="currently-reading" count="16"/>
+      <shelf name="childhood" count="15"/>
+      <shelf name="pop-up-books" count="15"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="kids" count="13"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="default" count="11"/>
+      <shelf name="adventure" count="10"/>
+      <shelf name="children-s-literature" count="10"/>
+      <shelf name="picture-book" count="9"/>
+      <shelf name="alice" count="9"/>
+      <shelf name="00-in-class" count="6"/>
+      <shelf name="pop-ups" count="6"/>
+      <shelf name="children-s-lit" count="5"/>
+      <shelf name="art" count="5"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="literature" count="4"/>
+      <shelf name="childhood-books" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="picturebooks" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="alice-in-wonderland" count="4"/>
+      <shelf name="11-in-class" count="3"/>
+      <shelf name="wonderland" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="fairy-tales" count="3"/>
+      <shelf name="junior" count="3"/>
+      <shelf name="young-adult" count="3"/>
+      <shelf name="sci-fi-fantasy" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="kids-books" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="graphic" count="3"/>
+      <shelf name="childhood-favorites" count="3"/>
+      <shelf name="wonderland-books" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="potential-reading-log" count="2"/>
+      <shelf name="owned-picture-books" count="2"/>
+      <shelf name="lewis-carroll" count="2"/>
+      <shelf name="shelfari-wishlist" count="2"/>
+      <shelf name="scanned" count="2"/>
+      <shelf name="novels" count="2"/>
+      <shelf name="early-childhood" count="2"/>
+      <shelf name="alice-books" count="2"/>
+      <shelf name="beautiful" count="2"/>
+      <shelf name="4-star" count="2"/>
+      <shelf name="england" count="2"/>
+      <shelf name="british-literature" count="2"/>
+      <shelf name="nonsense" count="2"/>
+      <shelf name="tales" count="2"/>
+      <shelf name="pop-up-book" count="2"/>
+      <shelf name="ya" count="2"/>
+      <shelf name="children-s-book" count="2"/>
+      <shelf name="younger-books" count="2"/>
+      <shelf name="juvenile-fiction" count="2"/>
+      <shelf name="popups" count="2"/>
+      <shelf name="graphic-novel" count="2"/>
+      <shelf name="before-2006" count="2"/>
+      <shelf name="read-with-kids" count="1"/>
+      <shelf name="moma" count="1"/>
+      <shelf name="hardcover" count="1"/>
+      <shelf name="lts-art-books-box" count="1"/>
+      <shelf name="keeping" count="1"/>
+      <shelf name="aiw" count="1"/>
+      <shelf name="books-we-need" count="1"/>
+      <shelf name="cendul" count="1"/>
+      <shelf name="a-book-read-05-to-09" count="1"/>
+      <shelf name="cis-men" count="1"/>
+      <shelf name="british-lit" count="1"/>
+      <shelf name="own-and-read" count="1"/>
+      <shelf name="my-book-collection" count="1"/>
+      <shelf name="read-with-my-little-man" count="1"/>
+      <shelf name="sophies-books" count="1"/>
+      <shelf name="scarlett" count="1"/>
+      <shelf name="album-ilustrado" count="1"/>
+      <shelf name="have-it" count="1"/>
+      <shelf name="books-for-teaching" count="1"/>
+      <shelf name="packed-away-box-2" count="1"/>
+      <shelf name="bbc-big-read-200" count="1"/>
+      <shelf name="easter-2017" count="1"/>
+      <shelf name="bbc-big-read-top-100" count="1"/>
+      <shelf name="wide-reading-columbia-38-2610" count="1"/>
+      <shelf name="living-room" count="1"/>
+      <shelf name="kwantes-boekenkast" count="1"/>
+      <shelf name="jp" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>638559</id>
+<title><![CDATA[The Royal Book of Oz (Oz, #15)]]></title>
+<title_without_series>The Royal Book of Oz</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/638559.The_Royal_Book_of_Oz]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1277951006s/638559.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1277951006m/638559.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>624788</id>
+</work>
+<isbn>0486417662</isbn>
+<isbn13>9780486417660</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>6005</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>33936</id>
+<name>Ruth Plumly Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33936.Ruth_Plumly_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1785289</id>
+<title><![CDATA[Encyclopedia Mythologica: Fairies and Magical Creatures Pop-Up]]></title>
+<title_without_series><![CDATA[Encyclopedia Mythologica: Fairies and Magical Creatures Pop-Up]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1785289.Encyclopedia_Mythologica]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320468801s/1785289.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320468801m/1785289.jpg]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>1784168</id>
+</work>
+<isbn>0763631728</isbn>
+<isbn13>9780763631727</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>250</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>11353</id>
+<name>Matthew Reinhart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11353.Matthew_Reinhart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13576190</id>
+<title><![CDATA[Chained to the Barbarian (Palace Brides #2)]]></title>
+<title_without_series>Chained to the Barbarian</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13576190-chained-to-the-barbarian]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333473499s/13576190.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333473499m/13576190.jpg]]></image_url>
+<num_pages>283</num_pages>
+<work>
+<id>19158562</id>
+</work>
+<isbn>0373306423</isbn>
+<isbn13>9780373306428</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>61</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>74120</id>
+<name>Carol Townend</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74120.Carol_Townend]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18868</id>
+<title>Mommy?</title>
+<title_without_series>Mommy?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18868.Mommy_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>20221</id>
+</work>
+<isbn>0439880505</isbn>
+<isbn13>9780439880503</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>795</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4489</id>
+<name>Maurice Sendak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4489.Maurice_Sendak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7505716</id>
+<title><![CDATA[Alice's Adventures in Wonderland & Other Stories]]></title>
+<title_without_series><![CDATA[Alice's Adventures in Wonderland & Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7505716-alice-s-adventures-in-wonderland-other-stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1459762532s/7505716.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1459762532m/7505716.jpg]]></image_url>
+<num_pages>1165</num_pages>
+<work>
+<id>9686589</id>
+</work>
+<isbn>1435122941</isbn>
+<isbn13>9781435122949</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>25617</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>8164</id>
+<name>Lewis Carroll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8164.Lewis_Carroll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3095038</id>
+<title>ABC3D</title>
+<title_without_series>ABC3D</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3095038-abc3d]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312059058s/3095038.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312059058m/3095038.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>3126181</id>
+</work>
+<isbn>1596434252</isbn>
+<isbn13>9781596434257</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>596</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>1323716</id>
+<name>Marion Bataille</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1323716.Marion_Bataille]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13557637</id>
+<title>Snap</title>
+<title_without_series>Snap</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13557637-snap]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333032573s/13557637.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333032573m/13557637.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>19129795</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>23</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>5782479</id>
+<name>Steven Bredice</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5782479.Steven_Bredice]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>556766</id>
+<title>Around the World in 80 Days</title>
+<title_without_series>Around the World in 80 Days</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/556766.Around_the_World_in_80_Days]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328858853s/556766.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328858853m/556766.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>24254411</id>
+</work>
+<isbn>1402736894</isbn>
+<isbn13>9781402736896</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>611</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19892</id>
+<name>Deanna McFadden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19892.Deanna_McFadden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13010688</id>
+<title>Convergent Space</title>
+<title_without_series>Convergent Space</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13010688-convergent-space]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329413280s/13010688.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329413280m/13010688.jpg]]></image_url>
+<num_pages>370</num_pages>
+<work>
+<id>18172364</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.51</average_rating>
+<ratings_count>235</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>5314650</id>
+<name>John-Paul Cleary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5314650.John_Paul_Cleary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>263230</id>
+<title>The Pop-Up Book of Phobias</title>
+<title_without_series>The Pop-Up Book of Phobias</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/263230.The_Pop_Up_Book_of_Phobias]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>255166</id>
+</work>
+<isbn>0688171958</isbn>
+<isbn13>9780688171957</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>451</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7186900</id>
+<name>Gary   Greenberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7186900.Gary_Greenberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6404408</id>
+<title><![CDATA[Big Frog Can't Fit In: A pop out book]]></title>
+<title_without_series><![CDATA[Big Frog Can't Fit In: A pop out book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6404408-big-frog-can-t-fit-in]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6593270</id>
+</work>
+<isbn>1423114361</isbn>
+<isbn13>9781423114369</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>444</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13624146</id>
+<title>Pharaoh&apos;s Son</title>
+<title_without_series>Pharaoh&apos;s Son</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13624146-pharaoh-s-son]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335549650s/13624146.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335549650m/13624146.jpg]]></image_url>
+<num_pages>462</num_pages>
+<work>
+<id>1090974</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>61</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>544887</id>
+<name>Diana Wilder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/544887.Diana_Wilder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11338679</id>
+<title><![CDATA[I Know Not (The Legacy of Fox Crow, #1)]]></title>
+<title_without_series>I Know Not</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11338679-i-know-not]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327432999s/11338679.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327432999m/11338679.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>16267331</id>
+</work>
+<isbn>1937051102</isbn>
+<isbn13>9781937051105</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>639</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>1156556</id>
+<name>James Daniel Ross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1156556.James_Daniel_Ross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>478356</id>
+<title>Santa Mouse</title>
+<title_without_series>Santa Mouse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/478356.Santa_Mouse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>466790</id>
+</work>
+<isbn>0760703558</isbn>
+<isbn13>9780760703557</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>593</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8202518</id>
+<name>Michael Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8202518.Michael_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17312490</id>
+<title><![CDATA[The Ballad of Bad Jack (Slab City Blues #4)]]></title>
+<title_without_series>The Ballad of Bad Jack</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17312490-the-ballad-of-bad-jack]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1359730470s/17312490.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1359730470m/17312490.jpg]]></image_url>
+<num_pages>100</num_pages>
+<work>
+<id>23977179</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>262</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5804101</id>
+<name>Anthony  Ryan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5804101.Anthony_Ryan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6320684</id>
+<title>Three John Silence Stories</title>
+<title_without_series>Three John Silence Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6320684-three-john-silence-stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>914649</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>119</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>38840</id>
+<name>Algernon Blackwood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38840.Algernon_Blackwood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11203841</id>
+<title><![CDATA[Jade (Book of Deacon Sidequests, #1)]]></title>
+<title_without_series>Jade</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11203841-jade]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1464315021s/11203841.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1464315021m/11203841.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>16129015</id>
+</work>
+<isbn>1452373205</isbn>
+<isbn13>9781452373201</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>801</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>4106222</id>
+<name>Joseph R. Lallo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4106222.Joseph_R_Lallo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14408610</id>
+<title><![CDATA[Jezebel's Ladder (Jezebel's Ladder, #1)]]></title>
+<title_without_series>Jezebel&apos;s Ladder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14408610-jezebel-s-ladder]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>17575493</id>
+</work>
+<isbn>1466320508</isbn>
+<isbn13>9781466320505</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>165</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4729212</id>
+<name>Scott Rhine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4729212.Scott_Rhine]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>27333</id>
+  <title>Silent Spring</title>
+  <isbn><![CDATA[0618249060]]></isbn>
+  <isbn13><![CDATA[9780618249060]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Rachel Carson’s Silent Spring was first published in three serialized excerpts in the New Yorker in June of 1962. The book appeared in September of that year and the outcry that followed its publication forced the banning of DDT and spurred revolutionary changes in the laws affecting our air, land, and water. Carson’s passionate concern for the future of our planet reverberated powerfully throughout the world, and her eloquent book was instrumental in launching the environmental movement. It is without question one of the landmark books of the twentieth century.]]></description>
+  <work>
+  <id type="integer">880193</id>
+  <books_count type="integer">74</books_count>
+  <best_book_id type="integer">27333</best_book_id>
+  <reviews_count type="integer">64620</reviews_count>
+  <ratings_sum type="integer">99918</ratings_sum>
+  <ratings_count type="integer">25355</ratings_count>
+  <text_reviews_count type="integer">1416</text_reviews_count>
+  <original_publication_year type="integer">1962</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Silent Spring</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8476|4:9437|3:5518|2:1312|1:612|total:25355</rating_dist>
+  <desc_user_id type="integer">47867602</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.94</average_rating>
+  <num_pages><![CDATA[378]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[24048]]></ratings_count>
+  <text_reviews_count><![CDATA[1219]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/27333.Silent_Spring]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/27333.Silent_Spring]]></link>
+  <authors>
+<author>
+<id>15332</id>
+<name>Rachel Carson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397487410p5/15332.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397487410p2/15332.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15332.Rachel_Carson]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>30863</ratings_count>
+<text_reviews_count>1895</text_reviews_count>
+</author>
+<author>
+<id>11596</id>
+<name>Linda Lear</name>
+<role>Introduction</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11596.Linda_Lear]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>27006</ratings_count>
+<text_reviews_count>1605</text_reviews_count>
+</author>
+<author>
+<id>31624</id>
+<name>Edward O. Wilson</name>
+<role>Afterword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227367019p5/31624.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1227367019p2/31624.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/31624.Edward_O_Wilson]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>53276</ratings_count>
+<text_reviews_count>3900</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/27333.Silent_Spring">Silent Spring Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0618249060&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/27333.Silent_Spring?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="non-fiction" count="1118"/>
+      <shelf name="to-read" count="526"/>
+      <shelf name="nonfiction" count="503"/>
+      <shelf name="environment" count="401"/>
+      <shelf name="science" count="357"/>
+      <shelf name="classics" count="272"/>
+      <shelf name="nature" count="254"/>
+      <shelf name="currently-reading" count="172"/>
+      <shelf name="favorites" count="169"/>
+      <shelf name="environmental" count="123"/>
+      <shelf name="ecology" count="106"/>
+      <shelf name="biology" count="83"/>
+      <shelf name="politics" count="82"/>
+      <shelf name="owned" count="81"/>
+      <shelf name="books-i-own" count="79"/>
+      <shelf name="sustainability" count="54"/>
+      <shelf name="environmentalism" count="54"/>
+      <shelf name="classic" count="45"/>
+      <shelf name="library" count="41"/>
+      <shelf name="history" count="33"/>
+      <shelf name="to-buy" count="33"/>
+      <shelf name="school" count="31"/>
+      <shelf name="natural-history" count="30"/>
+      <shelf name="book-club" count="29"/>
+      <shelf name="health" count="28"/>
+      <shelf name="100-books-to-read-in-a-lifetime" count="26"/>
+      <shelf name="wish-list" count="26"/>
+      <shelf name="green" count="25"/>
+      <shelf name="science-nature" count="25"/>
+      <shelf name="amazon-100" count="24"/>
+      <shelf name="conservation" count="23"/>
+      <shelf name="to-read-non-fiction" count="23"/>
+      <shelf name="default" count="21"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="philosophy" count="21"/>
+      <shelf name="american" count="21"/>
+      <shelf name="animals" count="20"/>
+      <shelf name="fiction" count="20"/>
+      <shelf name="read-for-school" count="19"/>
+      <shelf name="political" count="19"/>
+      <shelf name="environmental-science" count="18"/>
+      <shelf name="college" count="18"/>
+      <shelf name="unfinished" count="18"/>
+      <shelf name="nature-environment" count="18"/>
+      <shelf name="kindle" count="17"/>
+      <shelf name="public-health" count="17"/>
+      <shelf name="activism" count="17"/>
+      <shelf name="100-books" count="16"/>
+      <shelf name="20th-century" count="16"/>
+      <shelf name="to-read-nonfiction" count="16"/>
+      <shelf name="nature-writing" count="16"/>
+      <shelf name="did-not-finish" count="15"/>
+      <shelf name="popular-science" count="15"/>
+      <shelf name="abandoned" count="15"/>
+      <shelf name="female-author" count="14"/>
+      <shelf name="adult" count="14"/>
+      <shelf name="reference" count="14"/>
+      <shelf name="my-library" count="13"/>
+      <shelf name="1960s" count="13"/>
+      <shelf name="women-authors" count="13"/>
+      <shelf name="social-justice" count="13"/>
+      <shelf name="women" count="12"/>
+      <shelf name="own-it" count="12"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="non-fic" count="12"/>
+      <shelf name="food" count="12"/>
+      <shelf name="to-read-science" count="11"/>
+      <shelf name="environmental-history" count="11"/>
+      <shelf name="own-to-read" count="11"/>
+      <shelf name="american-history" count="11"/>
+      <shelf name="amazon-top-100" count="10"/>
+      <shelf name="maybe" count="10"/>
+      <shelf name="home-library" count="10"/>
+      <shelf name="for-school" count="10"/>
+      <shelf name="nature-science" count="10"/>
+      <shelf name="school-books" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="non-fiction-to-read" count="10"/>
+      <shelf name="academic" count="10"/>
+      <shelf name="social-issues" count="10"/>
+      <shelf name="want-to-read" count="10"/>
+      <shelf name="science-and-nature" count="10"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="education" count="10"/>
+      <shelf name="chemistry" count="10"/>
+      <shelf name="amazon-s-100-books-to-read-in-a-lif" count="9"/>
+      <shelf name="female-authors" count="9"/>
+      <shelf name="summer-reading" count="9"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="environmental-studies" count="9"/>
+      <shelf name="outdoors" count="9"/>
+      <shelf name="research" count="9"/>
+      <shelf name="urban-planning" count="9"/>
+      <shelf name="audiobook" count="9"/>
+      <shelf name="agriculture" count="9"/>
+      <shelf name="historical" count="9"/>
+      <shelf name="eco" count="9"/>
+      <shelf name="100-books-to-read" count="8"/>
+      <shelf name="audible" count="8"/>
+      <shelf name="literature" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>199359</id>
+<title>The End of Nature</title>
+<title_without_series>The End of Nature</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/199359.The_End_of_Nature]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1308224</id>
+</work>
+<isbn>0812976088</isbn>
+<isbn13>9780812976083</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>2200</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>43861</id>
+<name>Bill McKibben</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43861.Bill_McKibben]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>104286</id>
+<title><![CDATA[Earth in the Balance: Ecology and the Human Spirit]]></title>
+<title_without_series><![CDATA[Earth in the Balance: Ecology and the Human Spirit]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/104286.Earth_in_the_Balance]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1390183</id>
+</work>
+<isbn>1594866376</isbn>
+<isbn13>9781594866371</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>1194</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5658</id>
+<name>Al Gore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5658.Al_Gore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>183756</id>
+<title><![CDATA[Living Downstream: A Scientist's Personal Investigation of Cancer and the Environment]]></title>
+<title_without_series><![CDATA[Living Downstream: A Scientist's Personal Investigation of Cancer and the Environment]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/183756.Living_Downstream]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>177588</id>
+</work>
+<isbn>0375700994</isbn>
+<isbn13>9780375700996</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>630</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>79156</id>
+<name>Sandra Steingraber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79156.Sandra_Steingraber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25118</id>
+<title><![CDATA[Uncommon Ground: Rethinking the Human Place in Nature]]></title>
+<title_without_series><![CDATA[Uncommon Ground: Rethinking the Human Place in Nature]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25118.Uncommon_Ground]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>25868</id>
+</work>
+<isbn>0393315118</isbn>
+<isbn13>9780393315110</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>593</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>14110</id>
+<name>William Cronon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14110.William_Cronon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>274198</id>
+<title><![CDATA[Our Stolen Future: Are We Threatening Our Fertility, Intelligence and Survival? A Scientific Detective Story]]></title>
+<title_without_series><![CDATA[Our Stolen Future: Are We Threatening Our Fertility, Intelligence and Survival? A Scientific Detective Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/274198.Our_Stolen_Future]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>265874</id>
+</work>
+<isbn>0452274141</isbn>
+<isbn13>9780452274143</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>607</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>159816</id>
+<name>Theo Colborn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159816.Theo_Colborn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>210404</id>
+<title><![CDATA[A Sand County Almanac and Sketches Here and There]]></title>
+<title_without_series><![CDATA[A Sand County Almanac and Sketches Here and There]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>269</num_pages>
+<work>
+<id>321811</id>
+</work>
+<isbn>0195007778</isbn>
+<isbn13>9780195007770</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>19153</ratings_count>
+<publication_year>1968</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>43828</id>
+<name>Aldo Leopold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/43828.Aldo_Leopold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>274230</id>
+<title><![CDATA[Gaia: A New Look at Life on Earth]]></title>
+<title_without_series><![CDATA[Gaia: A New Look at Life on Earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/274230.Gaia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>1085074</id>
+</work>
+<isbn>0192862189</isbn>
+<isbn13>9780192862181</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>1133</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>145416</id>
+<name>James E. Lovelock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/145416.James_E_Lovelock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>139048</id>
+<title><![CDATA[Earth in Mind: On Education, Environment, and the Human Prospect]]></title>
+<title_without_series><![CDATA[Earth in Mind: On Education, Environment, and the Human Prospect]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/139048.Earth_in_Mind]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>2176853</id>
+</work>
+<isbn>1559634952</isbn>
+<isbn13>9781559634953</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>464</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>80381</id>
+<name>David W. Orr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80381.David_W_Orr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>183829</id>
+<title>The Future Of Life</title>
+<title_without_series>The Future Of Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/183829.The_Future_Of_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>1757283</id>
+</work>
+<isbn>0349115796</isbn>
+<isbn13>9780349115795</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2078</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>31624</id>
+<name>Edward O. Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31624.Edward_O_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17971</id>
+<title><![CDATA[The Eternal Frontier: An Ecological History of North America and Its Peoples]]></title>
+<title_without_series><![CDATA[The Eternal Frontier: An Ecological History of North America and Its Peoples]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17971.The_Eternal_Frontier]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>19459</id>
+</work>
+<isbn>0802138888</isbn>
+<isbn13>9780802138880</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>524</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>27157</id>
+<name>Tim Flannery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27157.Tim_Flannery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2288031</id>
+<title><![CDATA[Where the Wild Things Were: Life, Death, and Ecological Wreckage in a Land of Vanishing Predators]]></title>
+<title_without_series><![CDATA[Where the Wild Things Were: Life, Death, and Ecological Wreckage in a Land of Vanishing Predators]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2288031.Where_the_Wild_Things_Were]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>2294238</id>
+</work>
+<isbn>1596912995</isbn>
+<isbn13>9781596912991</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1450</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1030374</id>
+<name>William Stolzenburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1030374.William_Stolzenburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>340490</id>
+<title><![CDATA[Nature's Economy: A History of Ecological Ideas]]></title>
+<title_without_series><![CDATA[Nature's Economy: A History of Ecological Ideas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/340490.Nature_s_Economy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1400835981s/340490.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1400835981m/340490.jpg]]></image_url>
+<num_pages>526</num_pages>
+<work>
+<id>1929386</id>
+</work>
+<isbn>0521468345</isbn>
+<isbn13>9780521468343</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>196</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>40821</id>
+<name>Donald Worster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40821.Donald_Worster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>181395</id>
+<title><![CDATA[The Tree: A Natural History of What Trees Are, How They Live & Why They Matter]]></title>
+<title_without_series><![CDATA[The Tree: A Natural History of What Trees Are, How They Live & Why They Matter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/181395.The_Tree]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2123067</id>
+</work>
+<isbn>1400050367</isbn>
+<isbn13>9781400050369</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>1056</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>105753</id>
+<name>Colin Tudge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/105753.Colin_Tudge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>239980</id>
+<title><![CDATA[Wilderness and the American Mind]]></title>
+<title_without_series><![CDATA[Wilderness and the American Mind]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/239980.Wilderness_and_the_American_Mind]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>1862743</id>
+</work>
+<isbn>0300091222</isbn>
+<isbn13>9780300091229</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1316</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>140439</id>
+<name>Roderick Nash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/140439.Roderick_Nash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>248755</id>
+<title><![CDATA[The Sacred Balance: Rediscovering Our Place in Nature]]></title>
+<title_without_series><![CDATA[The Sacred Balance: Rediscovering Our Place in Nature]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/248755.The_Sacred_Balance]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328760434s/248755.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328760434m/248755.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>241031</id>
+</work>
+<isbn>1550549634</isbn>
+<isbn13>9781550549638</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>942</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>145364</id>
+<name>David Suzuki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/145364.David_Suzuki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46279</id>
+<title><![CDATA[The Everglades: River of Grass]]></title>
+<title_without_series><![CDATA[The Everglades: River of Grass]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46279.The_Everglades]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>45413</id>
+</work>
+<isbn>1561641359</isbn>
+<isbn13>9781561641352</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>357</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>25894</id>
+<name>Marjory Stoneman Douglas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25894.Marjory_Stoneman_Douglas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>89997</id>
+<title><![CDATA[The Ecology of Commerce: A Declaration of Sustainability]]></title>
+<title_without_series><![CDATA[The Ecology of Commerce: A Declaration of Sustainability]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/89997.The_Ecology_of_Commerce]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>228968</id>
+</work>
+<isbn>0887307043</isbn>
+<isbn13>9780887307041</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1735</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>445</id>
+<name>Paul Hawken</name>
+<link><![CDATA[https://www.goodreads.com/author/show/445.Paul_Hawken]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13330929</id>
+<title><![CDATA[On a Farther Shore: The Life and Legacy of Rachel Carson, Author of Silent Spring]]></title>
+<title_without_series><![CDATA[On a Farther Shore: The Life and Legacy of Rachel Carson, Author of Silent Spring]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13330929-on-a-farther-shore]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333576577s/13330929.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333576577m/13330929.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>19098500</id>
+</work>
+<isbn>030746220X</isbn>
+<isbn13>9780307462206</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>525</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>187042</id>
+<name>William Souder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/187042.William_Souder]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

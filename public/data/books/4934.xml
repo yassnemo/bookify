@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>4934</id>
+  <title>The Brothers Karamazov</title>
+  <isbn><![CDATA[0374528373]]></isbn>
+  <isbn13><![CDATA[9780374528379]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B004ZM10OE]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1427728126m/4934.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1427728126s/4934.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>14</publication_day>
+  <publisher>Farrar, Straus and Giroux</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The award-winning translation of Dostoevsky's last and greatest novel.<br /><br /><i>The Brothers Karamazov</i> is a passionate philosophical novel set in 19th century Russia, that enters deeply into the ethical debates of God, free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, and reason, set against a modernizing Russia.]]></description>
+  <work>
+  <id type="integer">3393910</id>
+  <books_count type="integer">1072</books_count>
+  <best_book_id type="integer">4934</best_book_id>
+  <reviews_count type="integer">421382</reviews_count>
+  <ratings_sum type="integer">767243</ratings_sum>
+  <ratings_count type="integer">178254</ratings_count>
+  <text_reviews_count type="integer">7652</text_reviews_count>
+  <original_publication_year type="integer">1880</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Братья Карамазовы</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:95788|4:51476|3:22759|2:5891|1:2340|total:178254</rating_dist>
+  <desc_user_id type="integer">39780639</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.30</average_rating>
+  <num_pages><![CDATA[796]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[155920]]></ratings_count>
+  <text_reviews_count><![CDATA[5455]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov]]></link>
+  <authors>
+<author>
+<id>3137322</id>
+<name>Fyodor Dostoyevsky</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489064524p5/3137322.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489064524p2/3137322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>1021489</ratings_count>
+<text_reviews_count>40897</text_reviews_count>
+</author>
+<author>
+<id>3357</id>
+<name>Richard Pevear</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560792p5/3357.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560792p2/3357.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3357.Richard_Pevear]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>304477</ratings_count>
+<text_reviews_count>14735</text_reviews_count>
+</author>
+<author>
+<id>3358</id>
+<name>Larissa Volokhonsky</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560740p5/3358.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301560740p2/3358.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3358.Larissa_Volokhonsky]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>301418</ratings_count>
+<text_reviews_count>14441</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov">The Brothers Karamazov Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374528373&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="classics" count="5424"/>
+      <shelf name="favorites" count="3453"/>
+      <shelf name="russian" count="1217"/>
+      <shelf name="literature" count="986"/>
+      <shelf name="russian-literature" count="845"/>
+      <shelf name="russia" count="652"/>
+      <shelf name="philosophy" count="630"/>
+      <shelf name="books-i-own" count="454"/>
+      <shelf name="to-read" count="443"/>
+      <shelf name="russian-lit" count="405"/>
+      <shelf name="currently-reading" count="353"/>
+      <shelf name="19th-century" count="287"/>
+      <shelf name="to-buy" count="262"/>
+      <shelf name="classic-literature" count="218"/>
+      <shelf name="favourites" count="209"/>
+      <shelf name="kindle" count="202"/>
+      <shelf name="owned-books" count="194"/>
+      <shelf name="1001-books" count="193"/>
+      <shelf name="religion" count="187"/>
+      <shelf name="clàssics" count="173"/>
+      <shelf name="historical-fiction" count="168"/>
+      <shelf name="default" count="161"/>
+      <shelf name="classics-to-read" count="161"/>
+      <shelf name="library" count="140"/>
+      <shelf name="to-read-classics" count="129"/>
+      <shelf name="1001" count="127"/>
+      <shelf name="abandoned" count="126"/>
+      <shelf name="literary-fiction" count="124"/>
+      <shelf name="my-library" count="123"/>
+      <shelf name="unfinished" count="120"/>
+      <shelf name="to-read-fiction" count="114"/>
+      <shelf name="classic-fiction" count="112"/>
+      <shelf name="my-ebooks" count="107"/>
+      <shelf name="on-hold" count="95"/>
+      <shelf name="dostoevsky" count="91"/>
+      <shelf name="wish-list" count="90"/>
+      <shelf name="re-read" count="87"/>
+      <shelf name="ebooks" count="86"/>
+      <shelf name="existentialism" count="86"/>
+      <shelf name="literary" count="85"/>
+      <shelf name="my-books" count="84"/>
+      <shelf name="book-club" count="84"/>
+      <shelf name="russian-classics" count="82"/>
+      <shelf name="translated" count="82"/>
+      <shelf name="to-re-read" count="79"/>
+      <shelf name="must-read" count="78"/>
+      <shelf name="favorite-books" count="76"/>
+      <shelf name="historical" count="75"/>
+      <shelf name="fiction" count="73"/>
+      <shelf name="lit" count="72"/>
+      <shelf name="audiobook" count="70"/>
+      <shelf name="crime" count="69"/>
+      <shelf name="did-not-finish" count="69"/>
+      <shelf name="1001-books-to-read-before-you-die" count="68"/>
+      <shelf name="all-time-favorites" count="67"/>
+      <shelf name="psychology" count="65"/>
+      <shelf name="adult-fiction" count="65"/>
+      <shelf name="classic-lit" count="65"/>
+      <shelf name="to-reread" count="64"/>
+      <shelf name="audiobooks" count="63"/>
+      <shelf name="russians" count="60"/>
+      <shelf name="fiction-to-read" count="59"/>
+      <shelf name="fyodor-dostoyevsky" count="58"/>
+      <shelf name="translation" count="58"/>
+      <shelf name="general-fiction" count="57"/>
+      <shelf name="own-it" count="57"/>
+      <shelf name="adult" count="57"/>
+      <shelf name="i-own" count="57"/>
+      <shelf name="books" count="56"/>
+      <shelf name="audio" count="54"/>
+      <shelf name="mystery" count="52"/>
+      <shelf name="favorite" count="52"/>
+      <shelf name="world-literature" count="50"/>
+      <shelf name="school" count="50"/>
+      <shelf name="never-finished" count="50"/>
+      <shelf name="bookshelf" count="48"/>
+      <shelf name="classici" count="47"/>
+      <shelf name="home-library" count="47"/>
+      <shelf name="e-book" count="46"/>
+      <shelf name="fiction-literature" count="46"/>
+      <shelf name="1001-books-you-must-read-before-you" count="46"/>
+      <shelf name="russian-authors" count="46"/>
+      <shelf name="1800s" count="45"/>
+      <shelf name="didn-t-finish" count="44"/>
+      <shelf name="romance" count="44"/>
+      <shelf name="christianity" count="43"/>
+      <shelf name="family" count="43"/>
+      <shelf name="shelfari-favorites" count="41"/>
+      <shelf name="fiction-classics" count="41"/>
+      <shelf name="partially-read" count="41"/>
+      <shelf name="personal-library" count="40"/>
+      <shelf name="favourite" count="39"/>
+      <shelf name="audible" count="39"/>
+      <shelf name="drama" count="39"/>
+      <shelf name="philosophical" count="37"/>
+      <shelf name="europe" count="37"/>
+      <shelf name="own-to-read" count="37"/>
+      <shelf name="literature-russian" count="36"/>
+      <shelf name="history" count="36"/>
+      <shelf name="psychological" count="35"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1057265</id>
+<user_position>1-2</user_position>
+<series>
+<id>169736</id>
+<title>
+<![CDATA[
+    The Brothers Karamazov
+]]>
+</title>
+<description>
+<![CDATA[
+    The Brothers Karamazov (Братья Карамазовы) is the final novel by the Russian author Fyodor Dostoyevsky. Dostoyevsky spent nearly two years writing The Brothers Karamazov, which was published as a serial in The Russian Messenger and completed in November 1880. The author died less than four months after its publication.
+    
+    The Brothers Karamazov is a passionate philosophical novel set in 19th century Russia, that enters deeply into the ethical debates of God, free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, judgement, and reason, set against a modernizing Russia, with a plot which revolves around the subject of patricide. Dostoyevsky composed much of the novel in Staraya Russa, which inspired the main setting. Since its publication, it has been acclaimed as one of the supreme achievements in world literature.
+]]>
+</description>
+<note>
+<![CDATA[
+    الإخوة كارامازوف in Arabic.
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+      <public_document>
+        <id>691</id>
+        <document_url>
+          http://feedbooks.com/book/180.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>655</id>
+<title><![CDATA[The Death of Ivan Ilych And Other Stories]]></title>
+<title_without_series><![CDATA[The Death of Ivan Ilych And Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/655.The_Death_of_Ivan_Ilych_And_Other_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411268674s/655.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411268674m/655.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>47254548</id>
+</work>
+<isbn>0451528808</isbn>
+<isbn13>9780451528803</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>9714</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128382</id>
+<name>Leo Tolstoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128382.Leo_Tolstoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28458</id>
+<title><![CDATA[Sketches from a Hunter's Album]]></title>
+<title_without_series><![CDATA[Sketches from a Hunter's Album]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28458.Sketches_from_a_Hunter_s_Album]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>403</num_pages>
+<work>
+<id>535003</id>
+</work>
+<isbn>0140445226</isbn>
+<isbn13>9780140445220</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>5572</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>410680</id>
+<name>Ivan Turgenev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410680.Ivan_Turgenev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>87332</id>
+<title><![CDATA[The Four Major Plays: The Seagull / Uncle Vanya / Three Sisters / Cherry Orchard]]></title>
+<title_without_series><![CDATA[The Four Major Plays: The Seagull / Uncle Vanya / Three Sisters / Cherry Orchard]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/87332.The_Four_Major_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>2347086</id>
+</work>
+<isbn>1566636264</isbn>
+<isbn13>9781566636261</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1491</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5031025</id>
+<name>Anton Chekhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031025.Anton_Chekhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27822</id>
+<title>Eugene Onegin</title>
+<title_without_series>Eugene Onegin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27822.Eugene_Onegin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1795311</id>
+</work>
+<isbn>0192838997</isbn>
+<isbn13>9780192838995</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>37966</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>16070</id>
+<name>Alexander Pushkin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16070.Alexander_Pushkin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28381</id>
+<title>Dead Souls</title>
+<title_without_series>Dead Souls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28381.Dead_Souls]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387201057s/28381.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387201057m/28381.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>1001298</id>
+</work>
+<isbn>0140448071</isbn>
+<isbn13>9780140448078</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>47694</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>232932</id>
+<name>Nikolai Gogol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232932.Nikolai_Gogol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16631</id>
+<title>Steppenwolf</title>
+<title_without_series>Steppenwolf</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16631.Steppenwolf]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57612</id>
+</work>
+<isbn>0140282580</isbn>
+<isbn13>9780140282580</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>97341</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1113469</id>
+<name>Hermann Hesse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1113469.Hermann_Hesse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>78024</id>
+<title>And Quiet Flows the Don</title>
+<title_without_series>And Quiet Flows the Don</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/78024.And_Quiet_Flows_the_Don]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1444113702s/78024.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1444113702m/78024.jpg]]></image_url>
+<num_pages>1408</num_pages>
+<work>
+<id>2591018</id>
+</work>
+<isbn>0460878905</isbn>
+<isbn13>9780460878906</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>8311</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>44202</id>
+<name>Mikhail Sholokhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44202.Mikhail_Sholokhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>88077</id>
+<title>The Magic Mountain</title>
+<title_without_series>The Magic Mountain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88077.The_Magic_Mountain]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403170928s/88077.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403170928m/88077.jpg]]></image_url>
+<num_pages>706</num_pages>
+<work>
+<id>647489</id>
+</work>
+<isbn>0679772871</isbn>
+<isbn13>9780679772873</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>25314</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19405</id>
+<name>Thomas Mann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19405.Thomas_Mann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>229733</id>
+<title>The White Guard</title>
+<title_without_series>The White Guard</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/229733.The_White_Guard]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330427738s/229733.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330427738m/229733.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>2682802</id>
+</work>
+<isbn>0099490668</isbn>
+<isbn13>9780099490661</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>8573</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3873</id>
+<name>Mikhail Bulgakov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3873.Mikhail_Bulgakov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>88432</id>
+<title>Life and Fate</title>
+<title_without_series>Life and Fate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88432.Life_and_Fate]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320447178s/88432.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320447178m/88432.jpg]]></image_url>
+<num_pages>864</num_pages>
+<work>
+<id>2435598</id>
+</work>
+<isbn>0099506165</isbn>
+<isbn13>9780099506164</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>5159</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>19595</id>
+<name>Vasily Grossman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19595.Vasily_Grossman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>254308</id>
+<title>Oblomov</title>
+<title_without_series>Oblomov</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/254308.Oblomov]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456384296s/254308.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456384296m/254308.jpg]]></image_url>
+<num_pages>586</num_pages>
+<work>
+<id>1192093</id>
+</work>
+<isbn>1933480092</isbn>
+<isbn13>9781933480091</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21021</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5326370</id>
+<name>Ivan Goncharov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5326370.Ivan_Goncharov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>204185</id>
+<title><![CDATA[The Enchanted Wanderer: Selected Tales]]></title>
+<title_without_series><![CDATA[The Enchanted Wanderer: Selected Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/204185.The_Enchanted_Wanderer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320451479s/204185.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320451479m/204185.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>197575</id>
+</work>
+<isbn>0812966961</isbn>
+<isbn13>9780812966961</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1280</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>24952</id>
+<name>Nikolai Leskov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24952.Nikolai_Leskov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28405</id>
+<title><![CDATA[Time Regained (In Search of Lost Time, #7)]]></title>
+<title_without_series>Time Regained</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28405.Time_Regained]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1295311074s/28405.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1295311074m/28405.jpg]]></image_url>
+<num_pages>784</num_pages>
+<work>
+<id>849134</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>3587</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>233619</id>
+<name>Marcel Proust</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233619.Marcel_Proust]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

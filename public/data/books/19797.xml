@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>19797</id>
+  <title>The Power of Art</title>
+  <isbn><![CDATA[0061176109]]></isbn>
+  <isbn13><![CDATA[9780061176104]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>10</publication_day>
+  <publisher>Ecco</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["Great art has dreadful manners," Simon Schama observes wryly at the start of his epic and explosive exploration of the power, and whole point, of art. "The hushed reverence of the gallery can fool you into believing masterpieces are polite things; visions that soothe, charm and beguile, but actually they are thugs. Merciless and wily, the greatest paintings grab you in a headlock, rough up your composure, and then proceed in short order to re-arrange your sense of reality. . . ."<br /><br />With the same disarming force, <em>The Power of Art</em> propels us on an eye-opening, breathtaking odyssey, zooming in on eight extraordinary masterpieces, from Caravaggio's <em>David and Goliath</em> to Picasso's <em>Guernica</em>. Jolting us far from the comfort zone of the hushed art gallery, Schama closes in on intense make-or-break turning points in the lives of eight great artists who, under extreme stress, created something unprecedented, altering the course of art forever.<br /><br />The embattled heroes—Caravaggio, Bernini, Rembrandt, David, Turner, Van Gogh, Picasso and Rothko—each in his own resolute way, faced crisis with steadfast defiance, pitting passion and conviction against scorn and short-sightedness. The masterpieces they created challenged convention, shattered complacency, shifted awareness and changed the way we look at the world.<br /><br />With vivid storytelling and powerfully evocative descriptive passages, Schama explores the dynamic personalities of the artists and the spirit of the times they lived through, capturing the flamboyant theatre of bourgeois life in Amsterdam, the passion and paranoia of Revolutionary Paris, and the carnage and pathos of Civil War Spain.<br /><br />Most compelling of all, <em>The Power of Art</em> traces the extraordinary evolution of eight "eye-popping" world-class works of art. Created in a bolt of illumination, such works "tell us something about how the world is, how it is to be inside our skins, that no more prosaic source of wisdom can deliver. And when they do that, they answer, irrefutably and majestically, the nagging question of every reluctant art-conscript . . . 'OK, OK, but what's art really for?'"]]></description>
+  <work>
+  <id type="integer">20998</id>
+  <books_count type="integer">11</books_count>
+  <best_book_id type="integer">19797</best_book_id>
+  <reviews_count type="integer">27615</reviews_count>
+  <ratings_sum type="integer">52299</ratings_sum>
+  <ratings_count type="integer">13504</ratings_count>
+  <text_reviews_count type="integer">86</text_reviews_count>
+  <original_publication_year type="integer">2006</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Power of Art</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5328|4:3487|3:2950|2:1122|1:617|total:13504</rating_dist>
+  <desc_user_id type="integer">4792415</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.87</average_rating>
+  <num_pages><![CDATA[448]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13430]]></ratings_count>
+  <text_reviews_count><![CDATA[77]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/19797.The_Power_of_Art]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/19797.The_Power_of_Art]]></link>
+  <authors>
+<author>
+<id>695</id>
+<name>Simon Schama</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250448182p5/695.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250448182p2/695.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/695.Simon_Schama]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>29718</ratings_count>
+<text_reviews_count>1290</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/19797.The_Power_of_Art">The Power of Art Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0061176109&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/19797.The_Power_of_Art?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="14383"/>
+      <shelf name="art" count="216"/>
+      <shelf name="currently-reading" count="95"/>
+      <shelf name="non-fiction" count="62"/>
+      <shelf name="art-history" count="41"/>
+      <shelf name="history" count="40"/>
+      <shelf name="nonfiction" count="20"/>
+      <shelf name="favorites" count="14"/>
+      <shelf name="art-books" count="13"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="arts" count="7"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="default" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="to-read-art" count="4"/>
+      <shelf name="philosophy" count="4"/>
+      <shelf name="biography" count="4"/>
+      <shelf name="kunst" count="4"/>
+      <shelf name="art-criticism" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="art-and-art-history" count="4"/>
+      <shelf name="reference" count="4"/>
+      <shelf name="on-art" count="3"/>
+      <shelf name="art-artists" count="3"/>
+      <shelf name="design" count="3"/>
+      <shelf name="art-and-artists" count="3"/>
+      <shelf name="creativity" count="3"/>
+      <shelf name="arty" count="2"/>
+      <shelf name="art-and-aesthetics" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="1" count="2"/>
+      <shelf name="asap" count="2"/>
+      <shelf name="art-and-photography" count="2"/>
+      <shelf name="essays" count="2"/>
+      <shelf name="unclassified" count="2"/>
+      <shelf name="artists" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="artsy" count="2"/>
+      <shelf name="art-to-read" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="art-related" count="2"/>
+      <shelf name="interested-in" count="2"/>
+      <shelf name="coffee-table" count="2"/>
+      <shelf name="art-theory" count="2"/>
+      <shelf name="art-history-to-read" count="2"/>
+      <shelf name="art-and-design" count="2"/>
+      <shelf name="the-continent" count="2"/>
+      <shelf name="to-read-nonfiction" count="2"/>
+      <shelf name="art-art-history" count="2"/>
+      <shelf name="criticism" count="2"/>
+      <shelf name="the-arts" count="2"/>
+      <shelf name="english" count="2"/>
+      <shelf name="art-and-art-study" count="1"/>
+      <shelf name="the-good-one" count="1"/>
+      <shelf name="k" count="1"/>
+      <shelf name="work" count="1"/>
+      <shelf name="art-world" count="1"/>
+      <shelf name="health-growth-art" count="1"/>
+      <shelf name="fashion" count="1"/>
+      <shelf name="books-to-check" count="1"/>
+      <shelf name="essay-memoir-nonfiction" count="1"/>
+      <shelf name="enjoyed-never-finished" count="1"/>
+      <shelf name="priority-ish" count="1"/>
+      <shelf name="raymond" count="1"/>
+      <shelf name="b" count="1"/>
+      <shelf name="mulbet-bookshop" count="1"/>
+      <shelf name="philosophical" count="1"/>
+      <shelf name="historical" count="1"/>
+      <shelf name="wishlist-nonfiction" count="1"/>
+      <shelf name="non-fiction-art-history" count="1"/>
+      <shelf name="art-book-reference" count="1"/>
+      <shelf name="read-in-2017" count="1"/>
+      <shelf name="contemporary-culture" count="1"/>
+      <shelf name="ars-artis" count="1"/>
+      <shelf name="abc" count="1"/>
+      <shelf name="vertaling" count="1"/>
+      <shelf name="herlezen" count="1"/>
+      <shelf name="gelezen-in-2017" count="1"/>
+      <shelf name="eigen-boekenkast" count="1"/>
+      <shelf name="cultuur" count="1"/>
+      <shelf name="boeiend" count="1"/>
+      <shelf name="must-read-not-owned" count="1"/>
+      <shelf name="essays-nonfiction" count="1"/>
+      <shelf name="art-comics-manga" count="1"/>
+      <shelf name="creativity-and-art-making" count="1"/>
+      <shelf name="art-architecture" count="1"/>
+      <shelf name="notable-covers" count="1"/>
+      <shelf name="rack-1" count="1"/>
+      <shelf name="2000-s" count="1"/>
+      <shelf name="to-read-don-t-own" count="1"/>
+      <shelf name="1-my-extra-longlist" count="1"/>
+      <shelf name="a-r-t-about-many" count="1"/>
+      <shelf name="ملهومش-ترجمة-للعربية" count="1"/>
+      <shelf name="work-books" count="1"/>
+      <shelf name="spazhouse-recommendations" count="1"/>
+      <shelf name="recommendations" count="1"/>
+      <shelf name="perhaps-later" count="1"/>
+      <shelf name="graphic-and-art-design" count="1"/>
+      <shelf name="history-biography" count="1"/>
+      <shelf name="have-bought-have-to-read" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>568966</id>
+<title>How Art Made the World</title>
+<title_without_series>How Art Made the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/568966.How_Art_Made_the_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>556021</id>
+</work>
+<isbn>0465081827</isbn>
+<isbn13>9780465081820</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>170</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>14031789</id>
+<name>Nigel Spivey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14031789.Nigel_Spivey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>113834</id>
+<title>The Story of Painting</title>
+<title_without_series>The Story of Painting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/113834.The_Story_of_Painting]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355046716s/113834.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355046716m/113834.jpg]]></image_url>
+<num_pages>736</num_pages>
+<work>
+<id>109603</id>
+</work>
+<isbn>0789468050</isbn>
+<isbn13>9780789468055</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3385</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>65987</id>
+<name>Wendy Beckett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65987.Wendy_Beckett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>127629</id>
+<title><![CDATA[The Accidental Masterpiece: On the Art of Life and Vice Versa]]></title>
+<title_without_series><![CDATA[The Accidental Masterpiece: On the Art of Life and Vice Versa]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/127629.The_Accidental_Masterpiece]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309282644s/127629.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309282644m/127629.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>122907</id>
+</work>
+<isbn>0143037331</isbn>
+<isbn13>9780143037330</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2702</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>73236</id>
+<name>Michael Kimmelman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73236.Michael_Kimmelman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3359595</id>
+<title><![CDATA[The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren]]></title>
+<title_without_series><![CDATA[The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3359595-the-man-who-made-vermeers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328834298s/3359595.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328834298m/3359595.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>3398780</id>
+</work>
+<isbn>0151013411</isbn>
+<isbn13>9780151013418</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>6198</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1418486</id>
+<name>Jonathan Lopez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1418486.Jonathan_Lopez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>56912</id>
+<title><![CDATA[The Judgment of Paris: The Revolutionary Decade That Gave the World Impressionism]]></title>
+<title_without_series><![CDATA[The Judgment of Paris: The Revolutionary Decade That Gave the World Impressionism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/56912.The_Judgment_of_Paris]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1283019</id>
+</work>
+<isbn>0802715168</isbn>
+<isbn13>9780802715166</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>10843</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26293</id>
+<name>Ross King</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26293.Ross_King]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>98374</id>
+<title><![CDATA[M: The Man Who Became Caravaggio]]></title>
+<title_without_series><![CDATA[M: The Man Who Became Caravaggio]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/98374.M]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312008019s/98374.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312008019m/98374.jpg]]></image_url>
+<num_pages>570</num_pages>
+<work>
+<id>94832</id>
+</work>
+<isbn>0312274742</isbn>
+<isbn13>9780312274740</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>4451</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>16350</id>
+<name>Peter Robb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16350.Peter_Robb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5788390</id>
+<title><![CDATA[The Art Instinct: Beauty, Pleasure, and Human Evolution]]></title>
+<title_without_series><![CDATA[The Art Instinct: Beauty, Pleasure, and Human Evolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5788390-the-art-instinct]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312062064s/5788390.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312062064m/5788390.jpg]]></image_url>
+<num_pages>278</num_pages>
+<work>
+<id>5960332</id>
+</work>
+<isbn>1596914017</isbn>
+<isbn13>9781596914018</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>1618</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>1418487</id>
+<name>Denis Dutton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1418487.Denis_Dutton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>814662</id>
+<title><![CDATA[Painting and Experience in Fifteenth-Century Italy: A Primer in the Social History of Pictorial Style (Oxford Paperbacks)]]></title>
+<title_without_series><![CDATA[Painting and Experience in Fifteenth-Century Italy: A Primer in the Social History of Pictorial Style]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/814662.Painting_and_Experience_in_Fifteenth_Century_Italy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>800586</id>
+</work>
+<isbn>019282144X</isbn>
+<isbn13>9780192821447</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>1837</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>7</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>142464</id>
+<name>Michael Baxandall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142464.Michael_Baxandall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>75291</id>
+<title>Art as Experience</title>
+<title_without_series>Art as Experience</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/75291.Art_as_Experience]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>72829</id>
+</work>
+<isbn>0399531971</isbn>
+<isbn13>9780399531972</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>4490</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>42738</id>
+<name>John Dewey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42738.John_Dewey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>227605</id>
+<title>Isms: Understanding Art</title>
+<title_without_series>Isms: Understanding Art</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/227605.Isms]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421784696s/227605.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421784696m/227605.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>220456</id>
+</work>
+<isbn>0789312093</isbn>
+<isbn13>9780789312099</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>419</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>133201</id>
+<name>Stephen Little</name>
+<link><![CDATA[https://www.goodreads.com/author/show/133201.Stephen_Little]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1347239</id>
+<title><![CDATA[Arcimboldo (Taschen Basic Art)]]></title>
+<title_without_series>Arcimboldo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1347239.Arcimboldo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1336888</id>
+</work>
+<isbn>3822896381</isbn>
+<isbn13>9783822896389</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1738</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>326369</id>
+<name>Werner Kriegeskorte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326369.Werner_Kriegeskorte]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>179101</id>
+<title><![CDATA[Vitamin D: New Perspectives in Drawing]]></title>
+<title_without_series><![CDATA[Vitamin D: New Perspectives in Drawing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/179101.Vitamin_D]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411775719s/179101.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411775719m/179101.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>173028</id>
+</work>
+<isbn>0714845450</isbn>
+<isbn13>9780714845456</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>4678</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>104353</id>
+<name>Emma Dexter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104353.Emma_Dexter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>257257</id>
+<title>The 20th Century Art Book</title>
+<title_without_series>The 20th Century Art Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/257257.The_20th_Century_Art_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>249321</id>
+</work>
+<isbn>0714847984</isbn>
+<isbn13>9780714847986</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>10101</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6456394</id>
+<name>Phaidon Press</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6456394.Phaidon_Press]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2671</id>
+<title>The Painted Word</title>
+<title_without_series>The Painted Word</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2671.The_Painted_Word]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350668236s/2671.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350668236m/2671.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6617</id>
+</work>
+<isbn>0553380656</isbn>
+<isbn13>9780553380651</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>4737</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3083854</id>
+<name>Tom Wolfe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3083854.Tom_Wolfe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>124646</id>
+<title><![CDATA[But is It Art?: An Introduction to Art Theory]]></title>
+<title_without_series><![CDATA[But is It Art?: An Introduction to Art Theory]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/124646.But_is_It_Art_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>523125</id>
+</work>
+<isbn>0192853678</isbn>
+<isbn13>9780192853677</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>1286</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>53388</id>
+<name>Cynthia A. Freeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53388.Cynthia_A_Freeland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>306099</id>
+<title><![CDATA[Nothing If Not Critical: Selected Essays on Art and Artists]]></title>
+<title_without_series><![CDATA[Nothing If Not Critical: Selected Essays on Art and Artists]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/306099.Nothing_If_Not_Critical]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>2790096</id>
+</work>
+<isbn>014016524X</isbn>
+<isbn13>9780140165241</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>731</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>48890</id>
+<name>Robert Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48890.Robert_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>224625</id>
+<title><![CDATA[Vitamin P: New Perspectives in Painting]]></title>
+<title_without_series><![CDATA[Vitamin P: New Perspectives in Painting]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/224625.Vitamin_P]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>217546</id>
+</work>
+<isbn>0714844462</isbn>
+<isbn13>9780714844466</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>3399</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>118930</id>
+<name>Barry Schwabsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/118930.Barry_Schwabsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>165053</id>
+<title><![CDATA[Graffiti World: Street Art from Five Continents]]></title>
+<title_without_series><![CDATA[Graffiti World: Street Art from Five Continents]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/165053.Graffiti_World]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1302039517s/165053.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1302039517m/165053.jpg]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>159363</id>
+</work>
+<isbn>0810949792</isbn>
+<isbn13>9780810949799</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>9090</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>79336</id>
+<name>Nicholas Ganz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79336.Nicholas_Ganz]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18461986</id>
+  <title>Deep (Stage Dive, #4)</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00JCX1RJE]]></asin>
+  <kindle_asin><![CDATA[B00M43ZYMK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1397676461m/18461986.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1397676461s/18461986.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>St. Martin's Griffin</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[<b>Don't miss a beat with the fourth and final novel in the <i>USA Today </i>bestselling Stage Dive series from Kylie Scott.<br /><br /></b>Positive. With two little lines on a pregnancy test, everything in Lizzy Rollins' ordinary life is about to change forever. And all because of one big mistake in Vegas with Ben Nicholson, the irresistibly sexy bass player for Stage Dive. So what if Ben's the only man she's ever met who can make her feel completely safe, cherished, and out of control with desire at the same time? Lizzy knows the gorgeous rock star isn't looking for anything more permanent than a good time, no matter how much she wishes differently.<br /><br />Ben knows Lizzy is off limits. Completely and utterly. She's his best friend's little sister now, and no matter how hot the chemistry is between them, no matter how sweet and sexy she is, he's not going to go there. But when Ben is forced to keep the one girl he's always had a weakness for out of trouble in Sin City, he quickly learns that what happens in Vegas, doesn't always stay there. Now he and Lizzie are connected in the deepest way possible... but will it lead to a connection of the heart?<br />]]></description>
+  <work>
+  <id type="integer">26116275</id>
+  <books_count type="integer">29</books_count>
+  <best_book_id type="integer">18461986</best_book_id>
+  <reviews_count type="integer">51661</reviews_count>
+  <ratings_sum type="integer">114706</ratings_sum>
+  <ratings_count type="integer">28027</ratings_count>
+  <text_reviews_count type="integer">2625</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">10</original_publication_day>
+  <original_title>Deep</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10805|4:10663|3:5172|2:1126|1:261|total:28027</rating_dist>
+  <desc_user_id type="integer">4567226</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.09</average_rating>
+  <num_pages><![CDATA[271]]></num_pages>
+  <format><![CDATA[Kindle Edition]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[25601]]></ratings_count>
+  <text_reviews_count><![CDATA[2365]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18461986-deep]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18461986-deep]]></link>
+  <authors>
+<author>
+<id>6476625</id>
+<name>Kylie Scott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1486448069p5/6476625.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1486448069p2/6476625.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6476625.Kylie_Scott]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>206458</ratings_count>
+<text_reviews_count>20050</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18461986-deep">Deep Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00JCX1RJE&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/18461986-deep?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="romance" count="651"/>
+      <shelf name="favorites" count="327"/>
+      <shelf name="currently-reading" count="283"/>
+      <shelf name="contemporary" count="248"/>
+      <shelf name="contemporary-romance" count="245"/>
+      <shelf name="series" count="234"/>
+      <shelf name="music" count="176"/>
+      <shelf name="rock-star" count="125"/>
+      <shelf name="read-in-2015" count="122"/>
+      <shelf name="rock-stars" count="111"/>
+      <shelf name="rockstar" count="95"/>
+      <shelf name="read-2015" count="90"/>
+      <shelf name="adult" count="90"/>
+      <shelf name="kylie-scott" count="84"/>
+      <shelf name="to-read" count="79"/>
+      <shelf name="musicians" count="78"/>
+      <shelf name="kindle" count="77"/>
+      <shelf name="rockers" count="76"/>
+      <shelf name="audiobook" count="72"/>
+      <shelf name="rockstars" count="71"/>
+      <shelf name="funny" count="64"/>
+      <shelf name="erotica" count="62"/>
+      <shelf name="pregnancy" count="58"/>
+      <shelf name="2015-reads" count="54"/>
+      <shelf name="musician" count="53"/>
+      <shelf name="ebook" count="53"/>
+      <shelf name="arc" count="43"/>
+      <shelf name="friends-to-lovers" count="43"/>
+      <shelf name="alpha-male" count="43"/>
+      <shelf name="favourites" count="41"/>
+      <shelf name="library" count="41"/>
+      <shelf name="books-i-own" count="40"/>
+      <shelf name="fiction" count="40"/>
+      <shelf name="2015-read" count="38"/>
+      <shelf name="march-2015" count="38"/>
+      <shelf name="audio" count="38"/>
+      <shelf name="rocker" count="36"/>
+      <shelf name="erotic-romance" count="34"/>
+      <shelf name="favorite-series" count="33"/>
+      <shelf name="ebooks" count="33"/>
+      <shelf name="netgalley" count="31"/>
+      <shelf name="chick-lit" count="31"/>
+      <shelf name="bad-boys" count="30"/>
+      <shelf name="part-of-a-series" count="30"/>
+      <shelf name="rock-star-romance" count="30"/>
+      <shelf name="stage-dive" count="30"/>
+      <shelf name="rockstar-romance" count="29"/>
+      <shelf name="rock" count="28"/>
+      <shelf name="na" count="28"/>
+      <shelf name="romance-contemporary" count="26"/>
+      <shelf name="drama" count="26"/>
+      <shelf name="famous" count="25"/>
+      <shelf name="bad-boy" count="25"/>
+      <shelf name="4-stars" count="24"/>
+      <shelf name="steamy" count="24"/>
+      <shelf name="erotic" count="24"/>
+      <shelf name="audible" count="23"/>
+      <shelf name="hea" count="23"/>
+      <shelf name="2015-releases" count="23"/>
+      <shelf name="tattoos" count="23"/>
+      <shelf name="audiobooks" count="22"/>
+      <shelf name="humor" count="22"/>
+      <shelf name="3-stars" count="21"/>
+      <shelf name="read-in-2017" count="20"/>
+      <shelf name="forbidden-love" count="20"/>
+      <shelf name="celebrity" count="20"/>
+      <shelf name="book-boyfriends" count="20"/>
+      <shelf name="must-read" count="20"/>
+      <shelf name="adult-romance" count="19"/>
+      <shelf name="2015-reading-challenge" count="19"/>
+      <shelf name="angst" count="19"/>
+      <shelf name="book-boyfriend" count="19"/>
+      <shelf name="band" count="18"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="2016-reads" count="17"/>
+      <shelf name="college" count="17"/>
+      <shelf name="5-stars" count="17"/>
+      <shelf name="adult-fiction" count="17"/>
+      <shelf name="2015-books" count="17"/>
+      <shelf name="rock-n-roll" count="17"/>
+      <shelf name="e-books" count="17"/>
+      <shelf name="2015-release" count="17"/>
+      <shelf name="new-adult" count="16"/>
+      <shelf name="owned" count="16"/>
+      <shelf name="hot" count="16"/>
+      <shelf name="e-book" count="16"/>
+      <shelf name="new-adult-romance" count="16"/>
+      <shelf name="rock-band" count="16"/>
+      <shelf name="read-2017" count="15"/>
+      <shelf name="default" count="15"/>
+      <shelf name="family" count="15"/>
+      <shelf name="audio-book" count="14"/>
+      <shelf name="owned-books" count="14"/>
+      <shelf name="baby" count="14"/>
+      <shelf name="favorite-authors" count="14"/>
+      <shelf name="standalone" count="14"/>
+      <shelf name="rocker-romance" count="14"/>
+      <shelf name="favorite" count="14"/>
+      <shelf name="not-out-yet" count="14"/>
+      <shelf name="love" count="14"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>546544</id>
+<user_position>4</user_position>
+<series>
+<id>105846</id>
+<title>
+<![CDATA[
+    Stage Dive
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>23149165</id>
+<title>Chaos (Mayhem, #3)</title>
+<title_without_series>Chaos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23149165-chaos]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1430330410s/23149165.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1430330410m/23149165.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>42694595</id>
+</work>
+<isbn>0062379704</isbn>
+<isbn13>9780062379702</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>3200</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>9878015</id>
+<name>Jamie Shaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9878015.Jamie_Shaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17610219</id>
+<title><![CDATA[Rock My Body (Black Falcon, #4)]]></title>
+<title_without_series>Rock My Body</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17610219-rock-my-body]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1385148159s/17610219.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1385148159m/17610219.jpg]]></image_url>
+<num_pages>315</num_pages>
+<work>
+<id>24570704</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4485</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>6540645</id>
+<name>Michelle A. Valentine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6540645.Michelle_A_Valentine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17881466</id>
+<title><![CDATA[Strings of the Heart (Runaway Train, #3)]]></title>
+<title_without_series>Strings of the Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17881466-strings-of-the-heart]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1386441923s/17881466.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1386441923m/17881466.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>25042303</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>8115</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>6546441</id>
+<name>Katie Ashley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6546441.Katie_Ashley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21793754</id>
+<title><![CDATA[The Rockers' Babies (The Rocker, #6)]]></title>
+<title_without_series>The Rockers&apos; Babies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21793754-the-rockers-babies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>25540370</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>5356</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6906208</id>
+<name>Terri Anne Browning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6906208.Terri_Anne_Browning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18809474</id>
+<title>Back-Up (Back-Up, #1)</title>
+<title_without_series>Back-Up</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18809474-back-up]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384631998s/18809474.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384631998m/18809474.jpg]]></image_url>
+<num_pages>392</num_pages>
+<work>
+<id>25747631</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>7125</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>7203641</id>
+<name>A.M. Madden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7203641.A_M_Madden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17899089</id>
+<title>Insider (Exodus End, #1)</title>
+<title_without_series>Insider</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17899089-insider]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1431214614s/17899089.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1431214614m/17899089.jpg]]></image_url>
+<num_pages>487</num_pages>
+<work>
+<id>25072595</id>
+</work>
+<isbn></isbn>
+<isbn13>9781939276186</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>5017</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>4062698</id>
+<name>Olivia Cunning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4062698.Olivia_Cunning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20530956</id>
+<title>Rowdy (Marked Men, #5)</title>
+<title_without_series>Rowdy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20530956-rowdy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1400702711s/20530956.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1400702711m/20530956.jpg]]></image_url>
+<num_pages>332</num_pages>
+<work>
+<id>27633691</id>
+</work>
+<isbn>0062333054</isbn>
+<isbn13>9780062333056</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>18293</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>6875794</id>
+<name>Jay Crownover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6875794.Jay_Crownover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17792239</id>
+<title>To the Max (Bowen Boys, #3)</title>
+<title_without_series>To the Max</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17792239-to-the-max]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1422972438s/17792239.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1422972438m/17792239.jpg]]></image_url>
+<num_pages>366</num_pages>
+<work>
+<id>24885897</id>
+</work>
+<isbn></isbn>
+<isbn13>9781623007676</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>2224</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>4994153</id>
+<name>Elle Aycart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4994153.Elle_Aycart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18392752</id>
+<title><![CDATA[The Slayer (Untamed Hearts, #2)]]></title>
+<title_without_series>The Slayer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18392752-the-slayer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1422361869s/18392752.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1422361869m/18392752.jpg]]></image_url>
+<num_pages>495</num_pages>
+<work>
+<id>26015594</id>
+</work>
+<isbn>1623008794</isbn>
+<isbn13>9781623008796</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>2379</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>4340854</id>
+<name>Kele Moon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4340854.Kele_Moon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18214301</id>
+<title><![CDATA[Hard Rock Arrangement (The Lonely Kings, #1)]]></title>
+<title_without_series>Hard Rock Arrangement</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18214301-hard-rock-arrangement]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1374167477s/18214301.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1374167477m/18214301.jpg]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>25638890</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>2798</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6586130</id>
+<name>Ava Lore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6586130.Ava_Lore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18802240</id>
+<title><![CDATA[Born Wrong (Hard Rock Roots, #5)]]></title>
+<title_without_series>Born Wrong</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18802240-born-wrong]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1394348046s/18802240.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1394348046m/18802240.jpg]]></image_url>
+<num_pages>257</num_pages>
+<work>
+<id>26729590</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1310</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>6432984</id>
+<name>C.M. Stunich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6432984.C_M_Stunich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17335212</id>
+<title><![CDATA[Taming the Storm (The Storm, #3)]]></title>
+<title_without_series>Taming the Storm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17335212-taming-the-storm]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392968013s/17335212.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392968013m/17335212.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>24067128</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>10678</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4838933</id>
+<name>Samantha Towle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4838933.Samantha_Towle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17668303</id>
+<title><![CDATA[Hidden in the Stars (Falling Stars, #2)]]></title>
+<title_without_series>Hidden in the Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17668303-hidden-in-the-stars]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1436213057s/17668303.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1436213057m/17668303.jpg]]></image_url>
+<num_pages>407</num_pages>
+<work>
+<id>24664164</id>
+</work>
+<isbn>1514788624</isbn>
+<isbn13>9781514788622</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>374</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>6470181</id>
+<name>Sadie Grubor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6470181.Sadie_Grubor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22067087</id>
+<title><![CDATA[Be My Hero (Forbidden Men, #3)]]></title>
+<title_without_series>Be My Hero</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22067087-be-my-hero]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404396928s/22067087.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404396928m/22067087.jpg]]></image_url>
+<num_pages>377</num_pages>
+<work>
+<id>41399025</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>9300</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3213942</id>
+<name>Linda Kage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3213942.Linda_Kage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18068436</id>
+<title><![CDATA[Louder Than Love (Love & Steel, #1)]]></title>
+<title_without_series>Louder Than Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18068436-louder-than-love]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1372775617s/18068436.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1372775617m/18068436.jpg]]></image_url>
+<num_pages>343</num_pages>
+<work>
+<id>25363623</id>
+</work>
+<isbn></isbn>
+<isbn13>9781101634790</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>1791</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>7131525</id>
+<name>Jessica Topper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7131525.Jessica_Topper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18366676</id>
+<title><![CDATA[Irresistible Refrain (Tempest, #1; Black Cat Records, #4)]]></title>
+<title_without_series>Irresistible Refrain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18366676-irresistible-refrain]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378359053s/18366676.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378359053m/18366676.jpg]]></image_url>
+<num_pages>390</num_pages>
+<work>
+<id>25972668</id>
+</work>
+<isbn>1492228451</isbn>
+<isbn13>9781492228455</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>916</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5835506</id>
+<name>Michelle Mankin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5835506.Michelle_Mankin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18039392</id>
+<title><![CDATA[Passionate Addiction (Reckless Beat, #2)]]></title>
+<title_without_series>Passionate Addiction</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18039392-passionate-addiction]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1452421251s/18039392.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1452421251m/18039392.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>25312356</id>
+</work>
+<isbn>149351055X</isbn>
+<isbn13>9781493510559</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1517</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6534710</id>
+<name>Eden Summers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6534710.Eden_Summers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22457959</id>
+<title><![CDATA[Shattered by You (Tear Asunder, #3)]]></title>
+<title_without_series>Shattered by You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22457959-shattered-by-you]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1433428211s/22457959.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1433428211m/22457959.jpg]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>41891746</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>3392</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>7246093</id>
+<name>Nashoda Rose</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7246093.Nashoda_Rose]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

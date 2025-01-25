@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22995</id>
+  <title>La casa de Bernarda Alba</title>
+  <isbn><![CDATA[1585101435]]></isbn>
+  <isbn13><![CDATA[9781585101436]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B004GXB2WW]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1328758570m/22995.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328758570s/22995.jpg</small_image_url>
+  <publication_year>1945</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Focus</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Focus Student Editions are designed for Spanish language courses in literature and culture. Prepared with non-native Spanish speakers in mind, these editions include an introduction (in Spanish), the complete work, and linguistic and cultural notes in Spanish, a current bibliography and study questions.<br /><br />This Focus student edition is a Spanish drama of women in the villages of Spain. The play centers on the events of a house in Andalusia during a period of mourning, in which Bernarda Alba wields total control over her five daughters.]]></description>
+  <work>
+  <id type="integer">1144595</id>
+  <books_count type="integer">140</books_count>
+  <best_book_id type="integer">22995</best_book_id>
+  <reviews_count type="integer">17081</reviews_count>
+  <ratings_sum type="integer">45491</ratings_sum>
+  <ratings_count type="integer">12074</ratings_count>
+  <text_reviews_count type="integer">420</text_reviews_count>
+  <original_publication_year type="integer">1945</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>La casa de Bernarda Alba</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3216|4:4275|3:3393|2:942|1:248|total:12074</rating_dist>
+  <desc_user_id type="integer">11465652</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.77</average_rating>
+  <num_pages><![CDATA[96]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9615]]></ratings_count>
+  <text_reviews_count><![CDATA[258]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22995.La_casa_de_Bernarda_Alba]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22995.La_casa_de_Bernarda_Alba]]></link>
+  <authors>
+<author>
+<id>44150</id>
+<name>Federico García Lorca</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287259251p5/44150.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287259251p2/44150.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/44150.Federico_Garc_a_Lorca]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>49537</ratings_count>
+<text_reviews_count>2037</text_reviews_count>
+</author>
+<author>
+<id>88860</id>
+<name>Antonio Sobejano-Moran</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/88860.Antonio_Sobejano_Moran]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>9766</ratings_count>
+<text_reviews_count>262</text_reviews_count>
+</author>
+<author>
+<id>13062</id>
+<name>Paola Bianco</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13062.Paola_Bianco]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>9635</ratings_count>
+<text_reviews_count>260</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22995.La_casa_de_Bernarda_Alba">La casa de Bernarda Alba Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1585101435&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/22995.La_casa_de_Bernarda_Alba?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="158"/>
+      <shelf name="plays" count="88"/>
+      <shelf name="favorites" count="88"/>
+      <shelf name="theatre" count="73"/>
+      <shelf name="classics" count="70"/>
+      <shelf name="school" count="51"/>
+      <shelf name="teatro" count="48"/>
+      <shelf name="spain" count="41"/>
+      <shelf name="play" count="38"/>
+      <shelf name="spanish" count="33"/>
+      <shelf name="theater" count="32"/>
+      <shelf name="owned" count="31"/>
+      <shelf name="espaňol" count="28"/>
+      <shelf name="clásicos" count="26"/>
+      <shelf name="currently-reading" count="25"/>
+      <shelf name="clasicos" count="25"/>
+      <shelf name="fiction" count="24"/>
+      <shelf name="books-i-own" count="24"/>
+      <shelf name="literature" count="21"/>
+      <shelf name="for-school" count="19"/>
+      <shelf name="read-for-school" count="17"/>
+      <shelf name="drama" count="16"/>
+      <shelf name="spanish-literature" count="14"/>
+      <shelf name="classic" count="14"/>
+      <shelf name="spanish-lit" count="13"/>
+      <shelf name="spanish-language" count="12"/>
+      <shelf name="20th-century" count="11"/>
+      <shelf name="class" count="11"/>
+      <shelf name="literatura-espanola" count="10"/>
+      <shelf name="literatura-española" count="10"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="read-in-spanish" count="9"/>
+      <shelf name="re-read" count="8"/>
+      <shelf name="books" count="7"/>
+      <shelf name="favoritos" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="adult" count="7"/>
+      <shelf name="foreign-language" count="7"/>
+      <shelf name="college" count="7"/>
+      <shelf name="default" count="6"/>
+      <shelf name="uni" count="6"/>
+      <shelf name="university" count="6"/>
+      <shelf name="high-school" count="6"/>
+      <shelf name="school-books" count="5"/>
+      <shelf name="read-in-2016" count="5"/>
+      <shelf name="in-spanish" count="5"/>
+      <shelf name="obras-de-teatro" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="romance" count="5"/>
+      <shelf name="en-español" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="biblioteca" count="5"/>
+      <shelf name="tragedy" count="5"/>
+      <shelf name="feminism" count="5"/>
+      <shelf name="literatura" count="5"/>
+      <shelf name="women" count="5"/>
+      <shelf name="federico-garcia-lorca" count="5"/>
+      <shelf name="en-espanol" count="5"/>
+      <shelf name="shelfari-favorites" count="4"/>
+      <shelf name="school-reads" count="4"/>
+      <shelf name="hispanic-literature" count="4"/>
+      <shelf name="نمایشنامه" count="4"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="spanish-authors" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="teatre" count="4"/>
+      <shelf name="spanish-classics" count="4"/>
+      <shelf name="school-reading" count="4"/>
+      <shelf name="novels" count="4"/>
+      <shelf name="spanish-read" count="4"/>
+      <shelf name="historical" count="4"/>
+      <shelf name="literatura-espa-ola" count="4"/>
+      <shelf name="leídos" count="4"/>
+      <shelf name="world-literature" count="4"/>
+      <shelf name="castellano" count="4"/>
+      <shelf name="assigned-reading" count="4"/>
+      <shelf name="instituto" count="3"/>
+      <shelf name="1940s" count="3"/>
+      <shelf name="estantería" count="3"/>
+      <shelf name="favs" count="3"/>
+      <shelf name="2015-reading-challenge" count="3"/>
+      <shelf name="3-stars" count="3"/>
+      <shelf name="españa" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="theatrical-plays" count="3"/>
+      <shelf name="stand-alone" count="3"/>
+      <shelf name="translation" count="3"/>
+      <shelf name="on-my-shelf" count="3"/>
+      <shelf name="libros" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="lecturas-obligatorias" count="3"/>
+      <shelf name="modern" count="3"/>
+      <shelf name="espanha" count="3"/>
+      <shelf name="literatura-espanhola" count="3"/>
+      <shelf name="hispanic" count="3"/>
+      <shelf name="escuela" count="3"/>
+      <shelf name="hispanoamericana" count="3"/>
+      <shelf name="espa-ol" count="3"/>
+      <shelf name="read-in-2012" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>63627</id>
+<title>El Burlador De Sevilla</title>
+<title_without_series>El Burlador De Sevilla</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63627.El_Burlador_De_Sevilla]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>61793</id>
+</work>
+<isbn>8423918866</isbn>
+<isbn13>9788423918867</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>2350</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32312</id>
+<name>Tirso de Molina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32312.Tirso_de_Molina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>64503</id>
+<title>San Manuel Bueno, mártir</title>
+<title_without_series>San Manuel Bueno, mártir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/64503.San_Manuel_Bueno_m_rtir]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>184397</id>
+</work>
+<isbn>8423919102</isbn>
+<isbn13>9788423919109</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>3772</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>25536</id>
+<name>Miguel de Unamuno</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25536.Miguel_de_Unamuno]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>63894</id>
+<title><![CDATA[Historia de una escalera / Las meninas]]></title>
+<title_without_series><![CDATA[Historia de una escalera / Las meninas]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63894.Historia_de_una_escalera_Las_meninas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>62045</id>
+</work>
+<isbn>8423918106</isbn>
+<isbn13>9788423918102</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>353</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8013</id>
+<name>Antonio Buero Vallejo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8013.Antonio_Buero_Vallejo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>916114</id>
+<title>La vida es sueño</title>
+<title_without_series>La vida es sueño</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/916114.La_vida_es_sue_o]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1341266100s/916114.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1341266100m/916114.jpg]]></image_url>
+<num_pages>207</num_pages>
+<work>
+<id>41702</id>
+</work>
+<isbn>8437600928</isbn>
+<isbn13>9788437600925</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>10144</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>227771</id>
+<name>Pedro Calderón de la Barca</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227771.Pedro_Calder_n_de_la_Barca]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>264384</id>
+<title>Fuenteovejuna</title>
+<title_without_series>Fuenteovejuna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/264384.Fuenteovejuna]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>256296</id>
+</work>
+<isbn>9507399194</isbn>
+<isbn13>9789507399190</isbn13>
+<average_rating>3.54</average_rating>
+<ratings_count>4357</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>35771</id>
+<name>Lope de Vega</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35771.Lope_de_Vega]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>420260</id>
+<title>El cuarto de atrás</title>
+<title_without_series>El cuarto de atrás</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/420260.El_cuarto_de_atr_s]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332118895s/420260.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332118895m/420260.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>409394</id>
+</work>
+<isbn>8423311015</isbn>
+<isbn13>9788423311019</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>39195</id>
+<name>Carmen Martín Gaite</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39195.Carmen_Mart_n_Gaite]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>877693</id>
+<title>Don Juan Tenorio</title>
+<title_without_series>Don Juan Tenorio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/877693.Don_Juan_Tenorio]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>219</num_pages>
+<work>
+<id>863021</id>
+</work>
+<isbn>8437602130</isbn>
+<isbn13>9788437602134</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>3864</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>174590</id>
+<name>José Zorrilla</name>
+<link><![CDATA[https://www.goodreads.com/author/show/174590.Jos_Zorrilla]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>65213</id>
+<title>Luces de bohemia: Esperpento</title>
+<title_without_series>Luces de bohemia: Esperpento</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/65213.Luces_de_bohemia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1486332769s/65213.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1486332769m/65213.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1854248</id>
+</work>
+<isbn>8423918017</isbn>
+<isbn13>9788423918010</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>3517</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>34632</id>
+<name>Ramón María del Valle-Inclán</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34632.Ram_n_Mar_a_del_Valle_Incl_n]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>144611</id>
+<title>Campos de Castilla</title>
+<title_without_series>Campos de Castilla</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/144611.Campos_de_Castilla]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>139526</id>
+</work>
+<isbn>843760866X</isbn>
+<isbn13>9788437608662</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1461</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34610</id>
+<name>Antonio Machado</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34610.Antonio_Machado]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1357327</id>
+<title>Tiempo de silencio</title>
+<title_without_series>Tiempo de silencio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1357327.Tiempo_de_silencio]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1347056</id>
+</work>
+<isbn>8432203777</isbn>
+<isbn13>9788432203770</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>1197</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>59357</id>
+<name>Luis Martín-Santos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59357.Luis_Mart_n_Santos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>74854</id>
+<title>La dama del alba</title>
+<title_without_series>La dama del alba</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/74854.La_dama_del_alba]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>186746</id>
+</work>
+<isbn>8437604656</isbn>
+<isbn13>9788437604657</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1534</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17374</id>
+<name>Alejandro Casona</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17374.Alejandro_Casona]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1639333</id>
+<title>El estudiante de Salamanca</title>
+<title_without_series>El estudiante de Salamanca</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1639333.El_estudiante_de_Salamanca]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1633647</id>
+</work>
+<isbn>8441000522</isbn>
+<isbn13>9788441000520</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>485</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>758104</id>
+<name>José de Espronceda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/758104.Jos_de_Espronceda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69413</id>
+<title>La Regenta</title>
+<title_without_series>La Regenta</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69413.La_Regenta]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405436155s/69413.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405436155m/69413.jpg]]></image_url>
+<num_pages>1024</num_pages>
+<work>
+<id>67266</id>
+</work>
+<isbn>8497936620</isbn>
+<isbn13>9788497936620</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>2263</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>5780534</id>
+<name>Leopoldo Alas &apos;&apos;Clarín&apos;&apos;</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5780534.Leopoldo_Alas_Clar_n_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>873472</id>
+<title>Rimas y leyendas</title>
+<title_without_series>Rimas y leyendas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/873472.Rimas_y_leyendas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>837550</id>
+</work>
+<isbn>8421824732</isbn>
+<isbn13>9788421824733</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>5949</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34575</id>
+<name>Gustavo Adolfo Bécquer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34575.Gustavo_Adolfo_B_cquer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>751667</id>
+<title>Libro de Buen Amor</title>
+<title_without_series>Libro de Buen Amor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/751667.Libro_de_Buen_Amor]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>737800</id>
+</work>
+<isbn>8489163480</isbn>
+<isbn13>9788489163485</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>1511</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6543714</id>
+<name><![CDATA[Juan Ruiz (Arcipreste de Hita)]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/6543714.Juan_Ruiz_Arcipreste_de_Hita_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62779</id>
+<title>Nada</title>
+<title_without_series>Nada</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62779.Nada]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>833895</id>
+</work>
+<isbn>1843433028</isbn>
+<isbn13>9781843433026</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>5814</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>35245</id>
+<name>Carmen Laforet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35245.Carmen_Laforet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>61794</id>
+<title><![CDATA[La vida del Lazarillo de Tormes]]></title>
+<title_without_series><![CDATA[La vida del Lazarillo de Tormes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/61794.La_vida_del_Lazarillo_de_Tormes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>362</id>
+</work>
+<isbn>8489163413</isbn>
+<isbn13>9788489163416</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>12466</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2341676</id>
+<title>Tres sombreros de copa</title>
+<title_without_series>Tres sombreros de copa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2341676.Tres_sombreros_de_copa]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1282573860s/2341676.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1282573860m/2341676.jpg]]></image_url>
+<num_pages>152</num_pages>
+<work>
+<id>2348371</id>
+</work>
+<isbn>8437601797</isbn>
+<isbn13>9788437601793</isbn13>
+<average_rating>3.39</average_rating>
+<ratings_count>1694</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>34622</id>
+<name>Miguel Mihura</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34622.Miguel_Mihura]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

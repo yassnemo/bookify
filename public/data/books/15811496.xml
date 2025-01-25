@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>15811496</id>
+  <title><![CDATA[Cooked: A Natural History of Transformation]]></title>
+  <isbn><![CDATA[1594204217]]></isbn>
+  <isbn13><![CDATA[9781594204210]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00AM7E4P8]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1350939053m/15811496.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1350939053s/15811496.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>23</publication_day>
+  <publisher>The Penguin Press HC</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>
+  <i>Fire, water, air, earth—our most trusted food expert recounts the story of his culinary education</i>
+</b><br /><br /> In <i>Cooked</i>, Michael Pollan explores the previously uncharted territory of his own kitchen. Here, he discovers the enduring power of the four classical elements—fire, water, air, and earth—to transform the stuff of nature into delicious things to eat and drink. Apprenticing himself to a succession of culinary masters, Pollan learns how to grill with fire, cook with liquid, bake bread, and ferment everything from cheese to beer. In the course of his journey, he discovers that the cook occupies a special place in the world, standing squarely between nature and culture. Both realms are transformed by cooking, and so, in the process, is the cook.<br /><br /> Each section of <i>Cooked</i> tracks Pollan’s effort to master a single classic recipe using one of the four elements. A North Carolina barbecue pit master tutors him in the primal magic of fire; a Chez Panisse–trained cook schools him in the art of braising; a celebrated baker teaches him how air transforms grain and water into a fragrant loaf of bread; and finally, several mad-genius “fermentos” (a tribe that includes brewers, cheese makers, and all kinds of picklers) reveal how fungi and bacteria can perform the most amazing alchemies of all. The reader learns alongside Pollan, but the lessons move beyond the practical to become an investigation of how cooking involves us in a web of social and ecological relationships: with plants and animals, the soil, farmers, our history and culture, and, of course, the people our cooking nourishes and delights. Cooking, above all, connects us.<br /><br /> The effects of not cooking are similarly far reaching. Relying upon corporations to process our food means we consume huge quantities of fat, sugar, and salt; disrupt an essential link to the natural world; and weaken our relationships with family and friends. In fact, <i>Cooked</i> argues, taking back control of cooking may be the single most important step anyone can take to help make the American food system healthier and more sustainable. Reclaiming cooking as an act of enjoyment and self-reliance, learning to perform the magic of these everyday transformations, opens the door to a more nourishing life.<br /><br /><br />]]></description>
+  <work>
+  <id type="integer">21536760</id>
+  <books_count type="integer">30</books_count>
+  <best_book_id type="integer">15811496</best_book_id>
+  <reviews_count type="integer">47583</reviews_count>
+  <ratings_sum type="integer">69196</ratings_sum>
+  <ratings_count type="integer">17364</ratings_count>
+  <text_reviews_count type="integer">1739</text_reviews_count>
+  <original_publication_year type="integer">2013</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Cooked: A Natural History of Transformation </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6054|4:6722|3:3301|2:848|1:439|total:17364</rating_dist>
+  <desc_user_id type="integer">-44</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.99</average_rating>
+  <num_pages><![CDATA[468]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16087]]></ratings_count>
+  <text_reviews_count><![CDATA[1609]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/15811496-cooked]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/15811496-cooked]]></link>
+  <authors>
+<author>
+<id>2121</id>
+<name>Michael Pollan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366396171p5/2121.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366396171p2/2121.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2121.Michael_Pollan]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>340596</ratings_count>
+<text_reviews_count>28618</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/15811496-cooked">Cooked Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594204217&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/15811496-cooked?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="734"/>
+      <shelf name="history" count="100"/>
+      <shelf name="food" count="74"/>
+      <shelf name="favorites" count="64"/>
+      <shelf name="non-fiction" count="63"/>
+      <shelf name="cookbooks" count="50"/>
+      <shelf name="foodie" count="50"/>
+      <shelf name="nutrition" count="49"/>
+      <shelf name="food-writing" count="36"/>
+      <shelf name="abandoned" count="35"/>
+      <shelf name="owned" count="34"/>
+      <shelf name="nonfiction" count="33"/>
+      <shelf name="to-buy" count="31"/>
+      <shelf name="book-club" count="30"/>
+      <shelf name="library" count="28"/>
+      <shelf name="food-cooking" count="27"/>
+      <shelf name="food-and-drink" count="25"/>
+      <shelf name="read-2013" count="24"/>
+      <shelf name="did-not-finish" count="24"/>
+      <shelf name="food-books" count="23"/>
+      <shelf name="unfinished" count="22"/>
+      <shelf name="didn-t-finish" count="22"/>
+      <shelf name="to-read-non-fiction" count="21"/>
+      <shelf name="kindle" count="21"/>
+      <shelf name="read-in-2013" count="20"/>
+      <shelf name="adult" count="19"/>
+      <shelf name="science" count="18"/>
+      <shelf name="cooking" count="18"/>
+      <shelf name="ebook" count="17"/>
+      <shelf name="culinary" count="17"/>
+      <shelf name="audio-book" count="16"/>
+      <shelf name="wish-list" count="16"/>
+      <shelf name="to-read-nonfiction" count="16"/>
+      <shelf name="read-in-2014" count="15"/>
+      <shelf name="ebooks" count="14"/>
+      <shelf name="audible" count="14"/>
+      <shelf name="food-related" count="14"/>
+      <shelf name="health" count="12"/>
+      <shelf name="food-nutrition" count="12"/>
+      <shelf name="cooking-food" count="12"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="audiobook" count="11"/>
+      <shelf name="books-i-own" count="11"/>
+      <shelf name="to-read-food" count="11"/>
+      <shelf name="memoir" count="11"/>
+      <shelf name="non-fic" count="11"/>
+      <shelf name="nonfic" count="10"/>
+      <shelf name="food-health" count="10"/>
+      <shelf name="owned-books" count="10"/>
+      <shelf name="food-and-cooking" count="10"/>
+      <shelf name="biology" count="10"/>
+      <shelf name="environment" count="10"/>
+      <shelf name="michael-pollan" count="9"/>
+      <shelf name="default" count="9"/>
+      <shelf name="anthropology" count="9"/>
+      <shelf name="couldn-t-finish" count="9"/>
+      <shelf name="food-history" count="9"/>
+      <shelf name="gave-up" count="8"/>
+      <shelf name="never-finished" count="8"/>
+      <shelf name="listened-to" count="8"/>
+      <shelf name="philosophy" count="8"/>
+      <shelf name="food-politics" count="8"/>
+      <shelf name="essays" count="8"/>
+      <shelf name="own-it" count="8"/>
+      <shelf name="cookbooks-food" count="8"/>
+      <shelf name="adult-nonfiction" count="8"/>
+      <shelf name="non-fiction-to-read" count="8"/>
+      <shelf name="read-2014" count="7"/>
+      <shelf name="health-fitness" count="7"/>
+      <shelf name="cookbook" count="7"/>
+      <shelf name="recommended" count="7"/>
+      <shelf name="journalism" count="7"/>
+      <shelf name="adult-non-fiction" count="7"/>
+      <shelf name="food-and-nutrition" count="7"/>
+      <shelf name="read-2015" count="6"/>
+      <shelf name="dnf" count="6"/>
+      <shelf name="food-lit" count="6"/>
+      <shelf name="healthy-eating" count="6"/>
+      <shelf name="food-diet" count="6"/>
+      <shelf name="food-culture" count="6"/>
+      <shelf name="listened" count="6"/>
+      <shelf name="cookery" count="6"/>
+      <shelf name="nook" count="6"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="2013-reads" count="6"/>
+      <shelf name="to-get" count="6"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="social-science" count="5"/>
+      <shelf name="gastronomy" count="5"/>
+      <shelf name="barbecue" count="5"/>
+      <shelf name="biography-memoir" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="wellness" count="5"/>
+      <shelf name="ecology" count="5"/>
+      <shelf name="library-books" count="5"/>
+      <shelf name="natural-history" count="5"/>
+      <shelf name="book-group" count="5"/>
+      <shelf name="borrowed" count="5"/>
+      <shelf name="general-non-fiction" count="5"/>
+      <shelf name="sustainability" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>18667790</id>
+<title><![CDATA[The Third Plate: Field Notes on the Future of Food]]></title>
+<title_without_series><![CDATA[The Third Plate: Field Notes on the Future of Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18667790-the-third-plate]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1394997914s/18667790.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1394997914m/18667790.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>26493453</id>
+</work>
+<isbn>1594204071</isbn>
+<isbn13>9781594204074</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>3267</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>491170</id>
+<name>Dan Barber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/491170.Dan_Barber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16058189</id>
+<title><![CDATA[Pandora's Lunchbox: How Processed Food Took Over the American Meal]]></title>
+<title_without_series><![CDATA[Pandora's Lunchbox: How Processed Food Took Over the American Meal]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16058189-pandora-s-lunchbox]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410978241s/16058189.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410978241m/16058189.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>21844445</id>
+</work>
+<isbn>1451666756</isbn>
+<isbn13>9781451666755</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1771</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6544772</id>
+<name>Melanie Warner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6544772.Melanie_Warner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13547854</id>
+<title><![CDATA[The American Way of Eating: Undercover at Walmart, Applebee's, Farm Fields and the Dinner Table]]></title>
+<title_without_series><![CDATA[The American Way of Eating: Undercover at Walmart, Applebee's, Farm Fields and the Dinner Table]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13547854-the-american-way-of-eating]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344662805s/13547854.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344662805m/13547854.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>18237827</id>
+</work>
+<isbn>1439171963</isbn>
+<isbn13>9781439171967</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>2975</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>5336697</id>
+<name>Tracie McMillan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5336697.Tracie_McMillan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13586945</id>
+<title><![CDATA[Foodopoly: The Battle Over the Future of Food and Farming in America]]></title>
+<title_without_series><![CDATA[Foodopoly: The Battle Over the Future of Food and Farming in America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13586945-foodopoly]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1351663813s/13586945.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1351663813m/13586945.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>19174297</id>
+</work>
+<isbn>159558790X</isbn>
+<isbn13>9781595587909</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>226</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>12</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>2764706</id>
+<name>Wenonah Hauter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2764706.Wenonah_Hauter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6058223</id>
+<title><![CDATA[Just Food: Where Locavores Get It Wrong and How We Can Truly Eat Responsibly]]></title>
+<title_without_series><![CDATA[Just Food: Where Locavores Get It Wrong and How We Can Truly Eat Responsibly]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6058223-just-food]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344266449s/6058223.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344266449m/6058223.jpg]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>6234338</id>
+</work>
+<isbn>031603374X</isbn>
+<isbn13>9780316033749</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>539</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8561921</id>
+<name>James McWilliams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8561921.James_McWilliams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14359357</id>
+<title><![CDATA[Taste, Memory: Forgotten Foods, Lost Flavors, and Why They Matter]]></title>
+<title_without_series><![CDATA[Taste, Memory: Forgotten Foods, Lost Flavors, and Why They Matter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14359357-taste-memory]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1390170274s/14359357.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1390170274m/14359357.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>20001298</id>
+</work>
+<isbn>1603584404</isbn>
+<isbn13>9781603584401</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>80</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>606236</id>
+<name>David Buchanan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/606236.David_Buchanan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6316356</id>
+<title><![CDATA[Bringing it to the Table: On Farming and Food]]></title>
+<title_without_series><![CDATA[Bringing it to the Table: On Farming and Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6316356-bringing-it-to-the-table]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>234</num_pages>
+<work>
+<id>6501620</id>
+</work>
+<isbn>158243543X</isbn>
+<isbn13>9781582435435</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>1345</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>8567</id>
+<name>Wendell Berry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8567.Wendell_Berry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11521956</id>
+<title><![CDATA[Folks, This Ain't Normal: A Farmer's Advice for Happier Hens, Healthier People, and a Better World]]></title>
+<title_without_series><![CDATA[Folks, This Ain't Normal: A Farmer's Advice for Happier Hens, Healthier People, and a Better World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11521956-folks-this-ain-t-normal]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311272277s/11521956.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311272277m/11521956.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>16459074</id>
+</work>
+<isbn>0892968192</isbn>
+<isbn13>9780892968190</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>2722</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2623</id>
+<name>Joel Salatin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2623.Joel_Salatin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13719872</id>
+<title><![CDATA[Bet the Farm: How Food Stopped Being Food]]></title>
+<title_without_series><![CDATA[Bet the Farm: How Food Stopped Being Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13719872-bet-the-farm]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384259131s/13719872.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384259131m/13719872.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>19352558</id>
+</work>
+<isbn>0470631929</isbn>
+<isbn13>9780470631928</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>232</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>124759</id>
+<name>Frederick Kaufman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/124759.Frederick_Kaufman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13613646</id>
+<title><![CDATA[A History of Food in 100 Recipes]]></title>
+<title_without_series><![CDATA[A History of Food in 100 Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13613646-a-history-of-food-in-100-recipes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335182244s/13613646.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335182244m/13613646.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>19213660</id>
+</work>
+<isbn>0007411995</isbn>
+<isbn13>9780007411993</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>438</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5822032</id>
+<name>William Sitwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5822032.William_Sitwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1492777</id>
+<title><![CDATA[Kitchen Literacy: How We Lost Knowledge of Where Food Comes from and Why We Need to Get It Back]]></title>
+<title_without_series><![CDATA[Kitchen Literacy: How We Lost Knowledge of Where Food Comes from and Why We Need to Get It Back]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1492777.Kitchen_Literacy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328749914s/1492777.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328749914m/1492777.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1484057</id>
+</work>
+<isbn>1597261440</isbn>
+<isbn13>9781597261449</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>328</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>233932</id>
+<name>Ann Vileisis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233932.Ann_Vileisis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6851796</id>
+<title><![CDATA[The Town That Food Saved: How One Community Found Vitality in Local Food]]></title>
+<title_without_series><![CDATA[The Town That Food Saved: How One Community Found Vitality in Local Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6851796-the-town-that-food-saved]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312027813s/6851796.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312027813m/6851796.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>7064880</id>
+</work>
+<isbn>1605296864</isbn>
+<isbn13>9781605296869</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>802</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>3</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>172014</id>
+<name>Ben Hewitt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/172014.Ben_Hewitt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13587130</id>
+<title><![CDATA[Consider the Fork: A History of How We Cook and Eat]]></title>
+<title_without_series><![CDATA[Consider the Fork: A History of How We Cook and Eat]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13587130-consider-the-fork]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344733081s/13587130.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344733081m/13587130.jpg]]></image_url>
+<num_pages>327</num_pages>
+<work>
+<id>19174482</id>
+</work>
+<isbn>046502176X</isbn>
+<isbn13>9780465021765</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>5915</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>247908</id>
+<name>Bee Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/247908.Bee_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2015924</id>
+<title><![CDATA[Stuffed And Starved: Markets, Power And The Hidden Battle For The World Food System]]></title>
+<title_without_series><![CDATA[Stuffed And Starved: Markets, Power And The Hidden Battle For The World Food System]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2015924.Stuffed_And_Starved]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358743145s/2015924.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358743145m/2015924.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>2251220</id>
+</work>
+<isbn>1846270103</isbn>
+<isbn13>9781846270109</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1827</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>915989</id>
+<name>Raj Patel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/915989.Raj_Patel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>345923</id>
+<title><![CDATA[Something from the Oven: Reinventing Dinner in 1950s America]]></title>
+<title_without_series><![CDATA[Something from the Oven: Reinventing Dinner in 1950s America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/345923.Something_from_the_Oven]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>1286243</id>
+</work>
+<isbn>014303491X</isbn>
+<isbn13>9780143034919</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>578</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>95546</id>
+<name>Laura Shapiro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95546.Laura_Shapiro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13792608</id>
+<title><![CDATA[Roots: The Definitive Compendium with more than 225 Recipes]]></title>
+<title_without_series><![CDATA[Roots: The Definitive Compendium with more than 225 Recipes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13792608-roots]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349722528s/13792608.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349722528m/13792608.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>19426484</id>
+</work>
+<isbn>0811878376</isbn>
+<isbn13>9780811878371</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>308</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>17983</id>
+<name>Diane Morgan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17983.Diane_Morgan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5070865</id>
+<title><![CDATA[The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America]]></title>
+<title_without_series><![CDATA[The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5070865-the-food-of-a-younger-land]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>398</num_pages>
+<work>
+<id>5137531</id>
+</work>
+<isbn>1594488657</isbn>
+<isbn13>9781594488658</isbn13>
+<average_rating>3.43</average_rating>
+<ratings_count>1910</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>1847</id>
+<name>Mark Kurlansky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1847.Mark_Kurlansky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10529697</id>
+<title><![CDATA[The Table Comes First: Family, France, and the Meaning of Food]]></title>
+<title_without_series><![CDATA[The Table Comes First: Family, France, and the Meaning of Food]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10529697-the-table-comes-first]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333576524s/10529697.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333576524m/10529697.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>15435964</id>
+</work>
+<isbn>030739901X</isbn>
+<isbn13>9780307399014</isbn13>
+<average_rating>3.31</average_rating>
+<ratings_count>881</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4747</id>
+<name>Adam Gopnik</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4747.Adam_Gopnik]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

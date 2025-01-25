@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>765193</id>
+  <title>Amazing Grace</title>
+  <isbn><![CDATA[0803710402]]></isbn>
+  <isbn13><![CDATA[9780803710405]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Grace loves stories, whether they're from books, movies, or the kind her grandmother tells. So when she gets a chance to play a part in Peter Pan, she knows exactly who she wants to be.]]></description>
+  <work>
+  <id type="integer">1831295</id>
+  <books_count type="integer">29</books_count>
+  <best_book_id type="integer">765193</best_book_id>
+  <reviews_count type="integer">14191</reviews_count>
+  <ratings_sum type="integer">47900</ratings_sum>
+  <ratings_count type="integer">11066</ratings_count>
+  <text_reviews_count type="integer">667</text_reviews_count>
+  <original_publication_year type="integer">1991</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Amazing Grace</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6031|4:3112|3:1541|2:292|1:90|total:11066</rating_dist>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.33</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10961]]></ratings_count>
+  <text_reviews_count><![CDATA[637]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/765193.Amazing_Grace]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/765193.Amazing_Grace]]></link>
+  <authors>
+<author>
+<id>23138</id>
+<name>Mary Hoffman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219711538p5/23138.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219711538p2/23138.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23138.Mary_Hoffman]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>47506</ratings_count>
+<text_reviews_count>2716</text_reviews_count>
+</author>
+<author>
+<id>251724</id>
+<name>Caroline Binch</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/251724.Caroline_Binch]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>11284</ratings_count>
+<text_reviews_count>710</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/765193.Amazing_Grace">Amazing Grace Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0803710402&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/765193.Amazing_Grace?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2335"/>
+      <shelf name="picture-books" count="227"/>
+      <shelf name="children-s-books" count="102"/>
+      <shelf name="multicultural" count="95"/>
+      <shelf name="picture-book" count="87"/>
+      <shelf name="childrens" count="79"/>
+      <shelf name="realistic-fiction" count="70"/>
+      <shelf name="children" count="59"/>
+      <shelf name="children-s" count="53"/>
+      <shelf name="family" count="45"/>
+      <shelf name="african-american" count="40"/>
+      <shelf name="currently-reading" count="32"/>
+      <shelf name="kids" count="32"/>
+      <shelf name="childrens-books" count="32"/>
+      <shelf name="imagination" count="28"/>
+      <shelf name="fiction" count="25"/>
+      <shelf name="kids-books" count="23"/>
+      <shelf name="diversity" count="23"/>
+      <shelf name="children-s-literature" count="20"/>
+      <shelf name="self-esteem" count="19"/>
+      <shelf name="311" count="18"/>
+      <shelf name="favorites" count="18"/>
+      <shelf name="read-aloud" count="18"/>
+      <shelf name="social-emotional" count="17"/>
+      <shelf name="edci-311" count="15"/>
+      <shelf name="children-s-picture-books" count="15"/>
+      <shelf name="school" count="15"/>
+      <shelf name="format-picture-book" count="14"/>
+      <shelf name="inspirational" count="14"/>
+      <shelf name="children-books" count="14"/>
+      <shelf name="contemporary-realistic-fiction" count="13"/>
+      <shelf name="children-s-lit" count="13"/>
+      <shelf name="confidence" count="12"/>
+      <shelf name="read-alouds" count="12"/>
+      <shelf name="childhood" count="12"/>
+      <shelf name="perseverance" count="11"/>
+      <shelf name="default" count="10"/>
+      <shelf name="race" count="9"/>
+      <shelf name="historical-fiction" count="9"/>
+      <shelf name="picture" count="9"/>
+      <shelf name="pre-2000" count="9"/>
+      <shelf name="childrens-picture-books" count="9"/>
+      <shelf name="social-studies" count="8"/>
+      <shelf name="emotions" count="8"/>
+      <shelf name="picturebooks" count="8"/>
+      <shelf name="amazing-grace" count="7"/>
+      <shelf name="multicultural-text-set" count="7"/>
+      <shelf name="self-confidence" count="7"/>
+      <shelf name="elementary" count="7"/>
+      <shelf name="feelings" count="7"/>
+      <shelf name="multi-cultural" count="7"/>
+      <shelf name="kid-s-books" count="7"/>
+      <shelf name="girls" count="7"/>
+      <shelf name="peer-instructor" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="love" count="6"/>
+      <shelf name="contemporary-fiction" count="6"/>
+      <shelf name="acceptance" count="6"/>
+      <shelf name="friendship" count="6"/>
+      <shelf name="grace" count="6"/>
+      <shelf name="childrens-literature" count="6"/>
+      <shelf name="list-of-betterment" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="g-contemp-realistic-fic" count="5"/>
+      <shelf name="cultural" count="5"/>
+      <shelf name="311-books" count="5"/>
+      <shelf name="classroom-books" count="5"/>
+      <shelf name="classroom-library" count="5"/>
+      <shelf name="culture" count="5"/>
+      <shelf name="multiculturalism" count="5"/>
+      <shelf name="1001-childrens-books" count="5"/>
+      <shelf name="fantasy" count="5"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="gender" count="5"/>
+      <shelf name="friends" count="5"/>
+      <shelf name="black-history-month" count="4"/>
+      <shelf name="multicultural-books" count="4"/>
+      <shelf name="edrd-314" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="kiddos" count="4"/>
+      <shelf name="mentor-texts" count="4"/>
+      <shelf name="realistic" count="4"/>
+      <shelf name="realism" count="4"/>
+      <shelf name="kid-books" count="4"/>
+      <shelf name="black-history" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="adventure" count="4"/>
+      <shelf name="classics" count="4"/>
+      <shelf name="equality" count="4"/>
+      <shelf name="inspiration" count="4"/>
+      <shelf name="1001-children-s-books" count="4"/>
+      <shelf name="racism" count="4"/>
+      <shelf name="multicultural-literature" count="4"/>
+      <shelf name="reading-rainbow" count="4"/>
+      <shelf name="childrensbooks" count="4"/>
+      <shelf name="to-buy" count="4"/>
+      <shelf name="read-in-2017" count="3"/>
+      <shelf name="realistic-fiction-5" count="3"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="strong-girls" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>703631</id>
+<user_position></user_position>
+<series>
+<id>140098</id>
+<title>
+<![CDATA[
+    Grace
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>111027</id>
+<title>Tar Beach</title>
+<title_without_series>Tar Beach</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/111027.Tar_Beach]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320528529s/111027.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320528529m/111027.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>106948</id>
+</work>
+<isbn>0517885441</isbn>
+<isbn13>9780517885444</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>7088</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>8441611</id>
+<name>Faith Ringgold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8441611.Faith_Ringgold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1235546</id>
+<title>I Love My Hair!</title>
+<title_without_series>I Love My Hair!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1235546.I_Love_My_Hair_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1224176</id>
+</work>
+<isbn>0316522759</isbn>
+<isbn13>9780316522755</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1278</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>116503</id>
+<name>Natasha Anastasia Tarpley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/116503.Natasha_Anastasia_Tarpley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>443621</id>
+<title>Chicken Sunday</title>
+<title_without_series>Chicken Sunday</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/443621.Chicken_Sunday]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2997896</id>
+</work>
+<isbn>0698116151</isbn>
+<isbn13>9780698116153</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4564</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>46688</id>
+<name>Patricia Polacco</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46688.Patricia_Polacco]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14403</id>
+<title>The Story of Ruby Bridges</title>
+<title_without_series>The Story of Ruby Bridges</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14403.The_Story_of_Ruby_Bridges]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1952010</id>
+</work>
+<isbn>0439598443</isbn>
+<isbn13>9780439598446</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>9914</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8942</id>
+<name>Robert Coles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8942.Robert_Coles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>821292</id>
+<title>My Name Is Yoon</title>
+<title_without_series>My Name Is Yoon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/821292.My_Name_Is_Yoon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316737622s/821292.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316737622m/821292.jpg]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>807125</id>
+</work>
+<isbn>0374351147</isbn>
+<isbn13>9780374351144</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>2124</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>304665</id>
+<name>Helen Recorvits</name>
+<link><![CDATA[https://www.goodreads.com/author/show/304665.Helen_Recorvits]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>310385</id>
+<title>Freedom Summer</title>
+<title_without_series>Freedom Summer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/310385.Freedom_Summer]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1319000</id>
+</work>
+<isbn>068987829X</isbn>
+<isbn13>9780689878299</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>2081</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>178856</id>
+<name>Deborah Wiles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/178856.Deborah_Wiles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>199617</id>
+<title>Flossie and the Fox</title>
+<title_without_series>Flossie and the Fox</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/199617.Flossie_and_the_Fox]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2254094</id>
+</work>
+<isbn>0803702507</isbn>
+<isbn13>9780803702509</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>635</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>70744</id>
+<name>Patricia C. McKissack</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70744.Patricia_C_McKissack]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1030796</id>
+<title>Fred Stays With Me!</title>
+<title_without_series>Fred Stays With Me!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1030796.Fred_Stays_With_Me_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344268063s/1030796.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344268063m/1030796.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1017053</id>
+</work>
+<isbn>0316882690</isbn>
+<isbn13>9780316882699</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1418</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>209820</id>
+<name>Nancy Coffelt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/209820.Nancy_Coffelt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1371962</id>
+<title><![CDATA[Mini Mia and Her Darling Uncle]]></title>
+<title_without_series><![CDATA[Mini Mia and Her Darling Uncle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1371962.Mini_Mia_and_Her_Darling_Uncle]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312052629s/1371962.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312052629m/1371962.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1361826</id>
+</work>
+<isbn>9129667348</isbn>
+<isbn13>9789129667349</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>639</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>222712</id>
+<name>Pija Lindenbaum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/222712.Pija_Lindenbaum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19600</id>
+<title>The Colors of Us</title>
+<title_without_series>The Colors of Us</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19600.The_Colors_of_Us]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>259318</id>
+</work>
+<isbn>0805071636</isbn>
+<isbn13>9780805071634</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>879</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11733</id>
+<name>Karen Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11733.Karen_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6629316</id>
+<title>Big Red Lollipop</title>
+<title_without_series>Big Red Lollipop</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6629316-big-red-lollipop]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1308058336s/6629316.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1308058336m/6629316.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>6823661</id>
+</work>
+<isbn>0670062871</isbn>
+<isbn13>9780670062874</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2588</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>331593</id>
+<name>Rukhsana Khan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/331593.Rukhsana_Khan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>129771</id>
+<title>The Other Side</title>
+<title_without_series>The Other Side</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/129771.The_Other_Side]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311279727s/129771.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311279727m/129771.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>264086</id>
+</work>
+<isbn>0399231161</isbn>
+<isbn13>9780399231162</isbn13>
+<average_rating>4.49</average_rating>
+<ratings_count>5672</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114331</id>
+<title>Peter&apos;s Chair</title>
+<title_without_series>Peter&apos;s Chair</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114331.Peter_s_Chair]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1654438</id>
+</work>
+<isbn>1931016070</isbn>
+<isbn13>9781931016070</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>3089</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>29671</id>
+<name>Ezra Jack Keats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29671.Ezra_Jack_Keats]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>315882</id>
+<title><![CDATA[Henry's Freedom Box: A True Story from the Underground Railroad]]></title>
+<title_without_series><![CDATA[Henry's Freedom Box: A True Story from the Underground Railroad]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/315882.Henry_s_Freedom_Box]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867106s/315882.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867106m/315882.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>306713</id>
+</work>
+<isbn>043977733X</isbn>
+<isbn13>9780439777339</isbn13>
+<average_rating>4.46</average_rating>
+<ratings_count>11351</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12930</id>
+<name>Ellen Levine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12930.Ellen_Levine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40792</id>
+<title>One Tiny Turtle</title>
+<title_without_series>One Tiny Turtle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40792.One_Tiny_Turtle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>40377</id>
+</work>
+<isbn>0763623113</isbn>
+<isbn13>9780763623111</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>426</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>22935</id>
+<name>Nicola Davies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22935.Nicola_Davies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>211600</id>
+<title>Jamela&apos;s Dress</title>
+<title_without_series>Jamela&apos;s Dress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/211600.Jamela_s_Dress]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312056503s/211600.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312056503m/211600.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>565249</id>
+</work>
+<isbn>0374437203</isbn>
+<isbn13>9780374437206</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>253</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>123899</id>
+<name>Niki Daly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/123899.Niki_Daly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>835202</id>
+<title>A Chair for My Mother</title>
+<title_without_series>A Chair for My Mother</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/835202.A_Chair_for_My_Mother]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3346189</id>
+</work>
+<isbn>0688040748</isbn>
+<isbn13>9780688040741</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>20082</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>48969</id>
+<name>Vera B. Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48969.Vera_B_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>160943</id>
+<title><![CDATA[Martin's Big Words: The Life of Dr. Martin Luther King Jr.]]></title>
+<title_without_series><![CDATA[Martin's Big Words: The Life of Dr. Martin Luther King Jr.]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/160943.Martin_s_Big_Words]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>645566</id>
+</work>
+<isbn>0786807148</isbn>
+<isbn13>9780786807147</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>8862</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33156</id>
+<name>Doreen Rappaport</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33156.Doreen_Rappaport]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

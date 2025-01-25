@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>37190</id>
+  <title>The Tale of Despereaux</title>
+  <isbn><![CDATA[0763625299]]></isbn>
+  <isbn13><![CDATA[9780763625290]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00UANAXL8]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Candlewick Press</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>A brave mouse, a covetous rat, a wishful serving girl, and a princess named Pea come together in Kate DiCamillo's Newbery Medal–winning tale.</b><br /><br />Welcome to the story of Despereaux Tilling, a mouse who is in love with music, stories, and a princess named Pea. It is also the story of a rat called Roscuro, who lives in the darkness and covets a world filled with light. And it is the story of Miggery Sow, a slow-witted serving girl who harbors a simple, impossible wish. These three characters are about to embark on a journey that will lead them down into a horrible dungeon, up into a glittering castle, and, ultimately, into each other's lives. What happens then? As Kate DiCamillo would say: Reader, it is your destiny to find out.]]></description>
+  <work>
+  <id type="integer">1508178</id>
+  <books_count type="integer">91</books_count>
+  <best_book_id type="integer">37190</best_book_id>
+  <reviews_count type="integer">165529</reviews_count>
+  <ratings_sum type="integer">482308</ratings_sum>
+  <ratings_count type="integer">120536</ratings_count>
+  <text_reviews_count type="integer">8375</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title> The Tale of Despereaux</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:44677|4:41648|3:25840|2:6440|1:1931|total:120536</rating_dist>
+  <desc_user_id type="integer">15822735</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.00</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[113176]]></ratings_count>
+  <text_reviews_count><![CDATA[7352]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/37190.The_Tale_of_Despereaux]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/37190.The_Tale_of_Despereaux]]></link>
+  <authors>
+<author>
+<id>13663</id>
+<name>Kate DiCamillo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402414985p5/13663.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402414985p2/13663.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13663.Kate_DiCamillo]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>468526</ratings_count>
+<text_reviews_count>38859</text_reviews_count>
+</author>
+<author>
+<id>121656</id>
+<name>Timothy Basil Ering</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403556292p5/121656.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403556292p2/121656.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/121656.Timothy_Basil_Ering]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>119816</ratings_count>
+<text_reviews_count>8470</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/37190.The_Tale_of_Despereaux">The Tale of Despereaux Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0763625299&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/37190.The_Tale_of_Despereaux?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="29496"/>
+      <shelf name="fantasy" count="1900"/>
+      <shelf name="favorites" count="1226"/>
+      <shelf name="currently-reading" count="1031"/>
+      <shelf name="childrens" count="923"/>
+      <shelf name="fiction" count="854"/>
+      <shelf name="children" count="695"/>
+      <shelf name="children-s" count="553"/>
+      <shelf name="young-adult" count="500"/>
+      <shelf name="children-s-books" count="462"/>
+      <shelf name="newbery" count="452"/>
+      <shelf name="books-i-own" count="442"/>
+      <shelf name="middle-grade" count="407"/>
+      <shelf name="animals" count="379"/>
+      <shelf name="kids" count="337"/>
+      <shelf name="owned" count="334"/>
+      <shelf name="adventure" count="324"/>
+      <shelf name="childrens-books" count="249"/>
+      <shelf name="childhood" count="221"/>
+      <shelf name="juvenile" count="197"/>
+      <shelf name="classics" count="187"/>
+      <shelf name="kids-books" count="180"/>
+      <shelf name="children-s-literature" count="177"/>
+      <shelf name="children-s-lit" count="177"/>
+      <shelf name="ya" count="175"/>
+      <shelf name="juvenile-fiction" count="156"/>
+      <shelf name="read-aloud" count="124"/>
+      <shelf name="newbery-medal" count="118"/>
+      <shelf name="chapter-books" count="102"/>
+      <shelf name="owned-books" count="101"/>
+      <shelf name="newbery-award" count="101"/>
+      <shelf name="newbery-winners" count="100"/>
+      <shelf name="newberry" count="97"/>
+      <shelf name="audiobook" count="96"/>
+      <shelf name="childrens-lit" count="95"/>
+      <shelf name="audio" count="94"/>
+      <shelf name="fairy-tale" count="91"/>
+      <shelf name="library" count="90"/>
+      <shelf name="childrens-literature" count="88"/>
+      <shelf name="fairy-tales" count="87"/>
+      <shelf name="youth" count="81"/>
+      <shelf name="school" count="81"/>
+      <shelf name="childhood-books" count="76"/>
+      <shelf name="childhood-favorites" count="73"/>
+      <shelf name="children-s-fiction" count="73"/>
+      <shelf name="read-alouds" count="72"/>
+      <shelf name="audiobooks" count="72"/>
+      <shelf name="default" count="71"/>
+      <shelf name="novels" count="69"/>
+      <shelf name="award-winners" count="67"/>
+      <shelf name="award-winner" count="63"/>
+      <shelf name="middle-school" count="62"/>
+      <shelf name="kid-lit" count="61"/>
+      <shelf name="my-books" count="59"/>
+      <shelf name="kate-dicamillo" count="57"/>
+      <shelf name="i-own" count="56"/>
+      <shelf name="childrens-fiction" count="56"/>
+      <shelf name="my-library" count="54"/>
+      <shelf name="mice" count="54"/>
+      <shelf name="children-books" count="52"/>
+      <shelf name="elementary" count="51"/>
+      <shelf name="fantasy-sci-fi" count="50"/>
+      <shelf name="kid-books" count="50"/>
+      <shelf name="read-for-school" count="49"/>
+      <shelf name="favourites" count="47"/>
+      <shelf name="animal-fiction" count="47"/>
+      <shelf name="book-club" count="46"/>
+      <shelf name="friendship" count="45"/>
+      <shelf name="newbery-winner" count="45"/>
+      <shelf name="all-time-favorites" count="45"/>
+      <shelf name="audio-books" count="44"/>
+      <shelf name="classroom-library" count="43"/>
+      <shelf name="newbery-medal-winners" count="43"/>
+      <shelf name="childhood-reads" count="43"/>
+      <shelf name="favorite-books" count="43"/>
+      <shelf name="own-it" count="43"/>
+      <shelf name="animal" count="42"/>
+      <shelf name="classic" count="41"/>
+      <shelf name="newbery-books" count="40"/>
+      <shelf name="kindle" count="39"/>
+      <shelf name="re-read" count="39"/>
+      <shelf name="books" count="38"/>
+      <shelf name="shelfari-favorites" count="37"/>
+      <shelf name="newbery-award-winners" count="37"/>
+      <shelf name="4th-grade" count="37"/>
+      <shelf name="animal-stories" count="37"/>
+      <shelf name="school-books" count="35"/>
+      <shelf name="movie" count="35"/>
+      <shelf name="young-readers" count="35"/>
+      <shelf name="classroom" count="34"/>
+      <shelf name="libs-642" count="33"/>
+      <shelf name="5th-grade" count="33"/>
+      <shelf name="borrowed" count="33"/>
+      <shelf name="children-young-adult" count="33"/>
+      <shelf name="ya-fiction" count="33"/>
+      <shelf name="favorite" count="32"/>
+      <shelf name="junior-fiction" count="32"/>
+      <shelf name="children-s-chapter-books" count="31"/>
+      <shelf name="elementary-school" count="31"/>
+      <shelf name="newberry-winners" count="31"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>607931</id>
+<title><![CDATA[Good Masters! Sweet Ladies!: Voices from a Medieval Village]]></title>
+<title_without_series><![CDATA[Good Masters! Sweet Ladies!: Voices from a Medieval Village]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/607931.Good_Masters_Sweet_Ladies_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320407671s/607931.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320407671m/607931.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>594437</id>
+</work>
+<isbn>0763615781</isbn>
+<isbn13>9780763615789</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>6723</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>116504</id>
+<name>Laura Amy Schlitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/116504.Laura_Amy_Schlitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24300</id>
+<title><![CDATA[Poppy (Tales of Dimwood Forest, #1)]]></title>
+<title_without_series>Poppy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24300.Poppy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408926899s/24300.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408926899m/24300.jpg]]></image_url>
+<num_pages>163</num_pages>
+<work>
+<id>3160700</id>
+</work>
+<isbn>0689837186</isbn>
+<isbn13>9780689837180</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>6418</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>10105</id>
+<name>Avi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10105.Avi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24686</id>
+<title>Toys Go Out</title>
+<title_without_series>Toys Go Out</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24686.Toys_Go_Out]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>25521</id>
+</work>
+<isbn>0375836047</isbn>
+<isbn13>9780375836046</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>3341</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13899</id>
+<name>Emily Jenkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13899.Emily_Jenkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62151</id>
+<title><![CDATA[The Higher Power of Lucky (The Hard Pan Trilogy, #1)]]></title>
+<title_without_series>The Higher Power of Lucky</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62151.The_Higher_Power_of_Lucky]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>60390</id>
+</work>
+<isbn>1416901949</isbn>
+<isbn13>9781416901945</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>11393</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>34940</id>
+<name>Susan Patron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34940.Susan_Patron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>39980</id>
+<title><![CDATA[A Year Down Yonder (A Long Way from Chicago, #2)]]></title>
+<title_without_series>A Year Down Yonder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/39980.A_Year_Down_Yonder]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>39678</id>
+</work>
+<isbn>0142300705</isbn>
+<isbn13>9780142300701</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>24366</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>22414</id>
+<name>Richard Peck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22414.Richard_Peck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2768169</id>
+<title>The Underneath</title>
+<title_without_series>The Underneath</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2768169-the-underneath]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>2793892</id>
+</work>
+<isbn>1416950583</isbn>
+<isbn13>9781416950585</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>8567</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>29011</id>
+<name>Kathi Appelt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29011.Kathi_Appelt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>530582</id>
+<title><![CDATA[A Visit to William Blake's Inn: Poems for Innocent and Experienced Travelers]]></title>
+<title_without_series><![CDATA[A Visit to William Blake's Inn: Poems for Innocent and Experienced Travelers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/530582.A_Visit_to_William_Blake_s_Inn]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>1799679</id>
+</work>
+<isbn>0152938222</isbn>
+<isbn13>9780152938222</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>2550</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13454</id>
+<name>Nancy Willard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13454.Nancy_Willard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43475</id>
+<title>Criss Cross</title>
+<title_without_series>Criss Cross</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43475.Criss_Cross]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>337</num_pages>
+<work>
+<id>42904</id>
+</work>
+<isbn>0060092726</isbn>
+<isbn13>9780060092726</isbn13>
+<average_rating>3.34</average_rating>
+<ratings_count>7453</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>24446</id>
+<name>Lynne Rae Perkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24446.Lynne_Rae_Perkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>403722</id>
+<title>Missing May</title>
+<title_without_series>Missing May</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/403722.Missing_May]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328867960s/403722.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328867960m/403722.jpg]]></image_url>
+<num_pages>89</num_pages>
+<work>
+<id>2856953</id>
+</work>
+<isbn>0439613833</isbn>
+<isbn13>9780439613835</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>10603</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5411</id>
+<name>Cynthia Rylant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5411.Cynthia_Rylant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1116594</id>
+<title>...And Now Miguel</title>
+<title_without_series>...And Now Miguel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1116594._And_Now_Miguel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>166140</id>
+</work>
+<isbn>006440143X</isbn>
+<isbn13>9780064401432</isbn13>
+<average_rating>3.45</average_rating>
+<ratings_count>2695</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>4</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>65864</id>
+<name>Joseph Krumgold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65864.Joseph_Krumgold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>785453</id>
+<title>A Single Shard</title>
+<title_without_series>A Single Shard</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/785453.A_Single_Shard]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>771451</id>
+</work>
+<isbn>0440418518</isbn>
+<isbn13>9780440418511</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>28549</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>61707</id>
+<name>Linda Sue Park</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61707.Linda_Sue_Park]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>854764</id>
+<title>Thimble Summer</title>
+<title_without_series>Thimble Summer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/854764.Thimble_Summer]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>840256</id>
+</work>
+<isbn>0440486815</isbn>
+<isbn13>9780440486817</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>5601</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3420</id>
+<name>Elizabeth Enright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3420.Elizabeth_Enright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>984168</id>
+<title>Roller Skates</title>
+<title_without_series>Roller Skates</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/984168.Roller_Skates]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>186</num_pages>
+<work>
+<id>1327018</id>
+</work>
+<isbn>0140303588</isbn>
+<isbn13>9780140303582</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>3236</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>61657</id>
+<name>Ruth Sawyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61657.Ruth_Sawyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>207330</id>
+<title><![CDATA[Gay Neck: The Story of a Pigeon]]></title>
+<title_without_series><![CDATA[Gay Neck: The Story of a Pigeon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/207330.Gay_Neck]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2487576</id>
+</work>
+<isbn>0525304002</isbn>
+<isbn13>9780525304005</isbn13>
+<average_rating>3.25</average_rating>
+<ratings_count>1617</ratings_count>
+<publication_year>1968</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>121292</id>
+<name>Dhan Gopal Mukerji</name>
+<link><![CDATA[https://www.goodreads.com/author/show/121292.Dhan_Gopal_Mukerji]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1838166</id>
+<title><![CDATA[The Penderwicks on Gardam Street (The Penderwicks, #2)]]></title>
+<title_without_series><![CDATA[The Penderwicks on Gardam Street]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1838166.The_Penderwicks_on_Gardam_Street]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3328784</id>
+</work>
+<isbn>0375840907</isbn>
+<isbn13>9780375840906</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>14075</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>155829</id>
+<name>Jeanne Birdsall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155829.Jeanne_Birdsall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>41457</id>
+<title><![CDATA[Hitty, Her First Hundred Years]]></title>
+<title_without_series><![CDATA[Hitty, Her First Hundred Years]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/41457.Hitty_Her_First_Hundred_Years]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>2537463</id>
+</work>
+<isbn>0689822847</isbn>
+<isbn13>9780689822841</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>6369</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>23356</id>
+<name>Rachel Field</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23356.Rachel_Field]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>822392</id>
+<title>Ginger Pye (The Pyes, #1)</title>
+<title_without_series>Ginger Pye</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/822392.Ginger_Pye]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876951s/822392.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876951m/822392.jpg]]></image_url>
+<num_pages>306</num_pages>
+<work>
+<id>41823</id>
+</work>
+<isbn>0152025057</isbn>
+<isbn13>9780152025052</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>10106</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>23821</id>
+<name>Eleanor Estes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23821.Eleanor_Estes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6729699</id>
+<title><![CDATA[A Nest for Celeste: A Story About Art, Inspiration, and the Meaning of Home]]></title>
+<title_without_series><![CDATA[A Nest for Celeste: A Story About Art, Inspiration, and the Meaning of Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6729699-a-nest-for-celeste]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>6925922</id>
+</work>
+<isbn>0061704105</isbn>
+<isbn13>9780061704109</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2255</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>31597</id>
+<name>Henry Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31597.Henry_Cole]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

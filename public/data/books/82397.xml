@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>82397</id>
+  <title>Richard II</title>
+  <isbn><![CDATA[0198320043]]></isbn>
+  <isbn13><![CDATA[9780198320043]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01MG6EE0G]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>18</publication_day>
+  <publisher>Oxford University Press, USA</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Richard II is one of Shakespeare’s finest works: lucid, eloquent, and boldly structured. It can be seen as a tragedy, or a historical play, or a political drama, or as one part of a vast dramatic cycle which helped to generate England’s national identity. Today, to some of us, Richard II may appear conservative; but, in Shakespeare’s day, it could appear subversive: ‘I am Richard II’, declared an indignant Queen Elizabeth. Numerous recent revivals in the theatre and on screen have demonstrated the enduring power and poignancy of this drama of the downfall of an egoistic but pitiable monarch.]]></description>
+  <work>
+  <id type="integer">1946935</id>
+  <books_count type="integer">486</books_count>
+  <best_book_id type="integer">82397</best_book_id>
+  <reviews_count type="integer">24460</reviews_count>
+  <ratings_sum type="integer">53100</ratings_sum>
+  <ratings_count type="integer">14129</ratings_count>
+  <text_reviews_count type="integer">628</text_reviews_count>
+  <original_publication_year type="integer">1595</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The tragedie of King Richard the second</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3814|4:4808|3:4045|2:1201|1:261|total:14129</rating_dist>
+  <desc_user_id type="integer">9543390</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.76</average_rating>
+  <num_pages><![CDATA[168]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10268]]></ratings_count>
+  <text_reviews_count><![CDATA[286]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/82397.Richard_II]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/82397.Richard_II]]></link>
+  <authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>5098199</ratings_count>
+<text_reviews_count>81662</text_reviews_count>
+</author>
+<author>
+<id>235886</id>
+<name>Roma Gill</name>
+<role>Editor</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1389371265p5/235886.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1389371265p2/235886.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/235886.Roma_Gill]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>141632</ratings_count>
+<text_reviews_count>3004</text_reviews_count>
+</author>
+<author>
+<id>16347169</id>
+<name>Robert          Jackson</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16347169.Robert_Jackson]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>301682</ratings_count>
+<text_reviews_count>4195</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/82397.Richard_II">Richard II Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0198320043&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/82397.Richard_II?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="plays" count="485"/>
+      <shelf name="to-read" count="445"/>
+      <shelf name="classics" count="431"/>
+      <shelf name="fiction" count="149"/>
+      <shelf name="classic" count="95"/>
+      <shelf name="favorites" count="75"/>
+      <shelf name="historical-fiction" count="70"/>
+      <shelf name="poetry" count="66"/>
+      <shelf name="school" count="48"/>
+      <shelf name="historical" count="48"/>
+      <shelf name="owned" count="45"/>
+      <shelf name="16th-century" count="37"/>
+      <shelf name="british-literature" count="36"/>
+      <shelf name="read-for-school" count="36"/>
+      <shelf name="theater" count="35"/>
+      <shelf name="university" count="31"/>
+      <shelf name="england" count="31"/>
+      <shelf name="favourites" count="26"/>
+      <shelf name="shakespeare" count="25"/>
+      <shelf name="college" count="25"/>
+      <shelf name="british-lit" count="24"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="english-literature" count="22"/>
+      <shelf name="classic-literature" count="21"/>
+      <shelf name="renaissance" count="21"/>
+      <shelf name="teatro" count="19"/>
+      <shelf name="drama" count="18"/>
+      <shelf name="for-school" count="18"/>
+      <shelf name="early-modern" count="18"/>
+      <shelf name="tragedy" count="17"/>
+      <shelf name="kindle" count="17"/>
+      <shelf name="british" count="17"/>
+      <shelf name="théâtre" count="16"/>
+      <shelf name="school-books" count="15"/>
+      <shelf name="library" count="15"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="classic-lit" count="14"/>
+      <shelf name="brit-lit" count="13"/>
+      <shelf name="currently-reading" count="11"/>
+      <shelf name="uni" count="11"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="english-lit" count="11"/>
+      <shelf name="read-2013" count="10"/>
+      <shelf name="1500s" count="10"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="read-in-2016" count="9"/>
+      <shelf name="read-for-uni" count="9"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="classics-to-read" count="9"/>
+      <shelf name="medieval" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="university-books" count="9"/>
+      <shelf name="play" count="8"/>
+      <shelf name="read-in-2012" count="8"/>
+      <shelf name="politics" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="elizabethan" count="8"/>
+      <shelf name="literature" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="university-reading" count="7"/>
+      <shelf name="read-in-english" count="7"/>
+      <shelf name="poetry-plays" count="7"/>
+      <shelf name="for-class" count="7"/>
+      <shelf name="bardolatry" count="7"/>
+      <shelf name="audio" count="7"/>
+      <shelf name="read-2014" count="7"/>
+      <shelf name="audiobook" count="7"/>
+      <shelf name="to-read-classics" count="7"/>
+      <shelf name="uk" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="plays-poetry" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="male-author" count="6"/>
+      <shelf name="the-bard" count="6"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="unread" count="6"/>
+      <shelf name="bookshelf" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="adult" count="6"/>
+      <shelf name="fiction-historical" count="5"/>
+      <shelf name="paperback" count="5"/>
+      <shelf name="uni-reading" count="5"/>
+      <shelf name="school-reads" count="5"/>
+      <shelf name="royalty" count="5"/>
+      <shelf name="re-read" count="5"/>
+      <shelf name="political" count="5"/>
+      <shelf name="poetry-and-drama" count="5"/>
+      <shelf name="literature-british" count="5"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="4-stars" count="5"/>
+      <shelf name="non-fiction" count="5"/>
+      <shelf name="great-books" count="5"/>
+      <shelf name="read-for-university" count="5"/>
+      <shelf name="early-modern-drama" count="5"/>
+      <shelf name="in-english" count="5"/>
+      <shelf name="plantagenets" count="5"/>
+      <shelf name="school-reading" count="5"/>
+      <shelf name="my-ebooks" count="5"/>
+      <shelf name="theatre-plays" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>941679</id>
+<user_position>1</user_position>
+<series>
+<id>102037</id>
+<title>
+<![CDATA[
+    Wars of the Roses
+]]>
+</title>
+<description>
+<![CDATA[
+    "The War(s) of the Roses" is a phrase used to describe the civil wars in England between the Lancastrian and Yorkist dynasties. Some of the events of these wars were dramatised by Shakespeare in the history plays Richard II; Henry IV, Part 1; Henry IV, Part 2; Henry V; Henry VI, Part 1; Henry VI, Part 2; Henry VI, Part 3; and Richard III.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>941680</id>
+<user_position>1</user_position>
+<series>
+<id>110496</id>
+<title>
+<![CDATA[
+    Shakespeare's Major Tetralogy
+]]>
+</title>
+<description>
+<![CDATA[
+    The major tetralogy covers the deposition and murder of King Richard II in 1398 (<i>Richard II</i>), two unsuccessful rebellions against his usurper, King Henry IV, and that ruler's death (<i>1 and 2 Henry IV</i>), and the invasion and defeat of France by Henry's son and successor. King Henry V, closing with the signing of the treaty of Troyes in 1420 (<i>Henry V</i>).
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+      <public_document>
+        <id>3879</id>
+        <document_url>
+          http://feedbooks.com/book/3024.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>209186</id>
+<title>Edward II</title>
+<title_without_series>Edward II</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/209186.Edward_II]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>202464</id>
+</work>
+<isbn>1854594109</isbn>
+<isbn13>9781854594105</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>3418</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>11155</id>
+<name>Christopher Marlowe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11155.Christopher_Marlowe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>351605</id>
+<title>The Changeling</title>
+<title_without_series>The Changeling</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/351605.The_Changeling]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>341835</id>
+</work>
+<isbn>0393900614</isbn>
+<isbn13>9780393900613</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>1702</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>22584</id>
+<name>Thomas Middleton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22584.Thomas_Middleton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>258123</id>
+<title>Samson Agonistes</title>
+<title_without_series>Samson Agonistes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/258123.Samson_Agonistes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>170</num_pages>
+<work>
+<id>2325724</id>
+</work>
+<isbn>076618952X</isbn>
+<isbn13>9780766189522</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>1709</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9876</id>
+<name>John Milton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9876.John_Milton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>367762</id>
+<title>Major Barbara</title>
+<title_without_series>Major Barbara</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/367762.Major_Barbara]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331833177s/367762.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331833177m/367762.jpg]]></image_url>
+<num_pages>98</num_pages>
+<work>
+<id>1778844</id>
+</work>
+<isbn>140695716X</isbn>
+<isbn13>9781406957167</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>4414</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>795617</id>
+<title>Streamers</title>
+<title_without_series>Streamers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/795617.Streamers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1325976537s/795617.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1325976537m/795617.jpg]]></image_url>
+<num_pages>109</num_pages>
+<work>
+<id>781595</id>
+</work>
+<isbn>0394733142</isbn>
+<isbn13>9780394733142</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>129</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>75636</id>
+<name>David Rabe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75636.David_Rabe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34437</id>
+<title>Philoctetes</title>
+<title_without_series>Philoctetes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34437.Philoctetes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>34412</id>
+</work>
+<isbn>1419141376</isbn>
+<isbn13>9781419141379</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2086</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1002</id>
+<name>Sophocles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1002.Sophocles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3332967</id>
+<title>Eumenides (Ορέστεια, #3)</title>
+<title_without_series>Eumenides</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3332967-eumenides]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>3371002</id>
+</work>
+<isbn>0521240840</isbn>
+<isbn13>9780521240840</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1945</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>990</id>
+<name>Aeschylus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/990.Aeschylus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12216</id>
+<title><![CDATA[Three Plays: Desire Under the Elms / Strange Interlude / Mourning Becomes Electra]]></title>
+<title_without_series><![CDATA[Three Plays: Desire Under the Elms / Strange Interlude / Mourning Becomes Electra]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12216.Three_Plays]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403175343s/12216.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403175343m/12216.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>14539</id>
+</work>
+<isbn>0679763961</isbn>
+<isbn13>9780679763963</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1449</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>7680</id>
+<name>Eugene O&apos;Neill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7680.Eugene_O_Neill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>240257</id>
+<title><![CDATA[The Caretaker & The Dumb Waiter]]></title>
+<title_without_series><![CDATA[The Caretaker & The Dumb Waiter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/240257.The_Caretaker_The_Dumb_Waiter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1398195780s/240257.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1398195780m/240257.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>522528</id>
+</work>
+<isbn>080215087X</isbn>
+<isbn13>9780802150875</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>454</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>1197</id>
+<name>Harold Pinter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1197.Harold_Pinter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>553832</id>
+<title><![CDATA[The Complete Plays of Gilbert and Sullivan]]></title>
+<title_without_series><![CDATA[The Complete Plays of Gilbert and Sullivan]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/553832.The_Complete_Plays_of_Gilbert_and_Sullivan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>1309844</id>
+</work>
+<isbn>0393316882</isbn>
+<isbn13>9780393316889</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>141</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>274668</id>
+<name>W.S. Gilbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/274668.W_S_Gilbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>383337</id>
+<title>The Spanish Tragedy</title>
+<title_without_series>The Spanish Tragedy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/383337.The_Spanish_Tragedy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>373102</id>
+</work>
+<isbn>1406500429</isbn>
+<isbn13>9781406500424</isbn13>
+<average_rating>3.54</average_rating>
+<ratings_count>3772</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>218180</id>
+<name>Thomas Kyd</name>
+<link><![CDATA[https://www.goodreads.com/author/show/218180.Thomas_Kyd]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>752868</id>
+<title>Volpone</title>
+<title_without_series>Volpone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/752868.Volpone]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>766578</id>
+</work>
+<isbn>0486280497</isbn>
+<isbn13>9780486280493</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>5962</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>22583</id>
+<name>Ben Jonson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22583.Ben_Jonson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>104627</id>
+<title>Krapp&apos;s Last Tape &amp; Embers</title>
+<title_without_series>Krapp&apos;s Last Tape &amp; Embers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/104627.Krapp_s_Last_Tape_Embers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328427103s/104627.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328427103m/104627.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>805893</id>
+</work>
+<isbn>0571062091</isbn>
+<isbn13>9780571062096</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>3512</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1433597</id>
+<name>Samuel Beckett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1433597.Samuel_Beckett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>143479</id>
+<title><![CDATA[The Playboy of the Western World & Riders to the Sea]]></title>
+<title_without_series><![CDATA[The Playboy of the Western World & Riders to the Sea]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/143479.The_Playboy_of_the_Western_World_Riders_to_the_Sea]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1418788212s/143479.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1418788212m/143479.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>138409</id>
+</work>
+<isbn>0486275620</isbn>
+<isbn13>9780486275628</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1118</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4332478</id>
+<name>J.M. Synge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4332478.J_M_Synge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>337628</id>
+<title>Wrecks and Other Plays</title>
+<title_without_series>Wrecks and Other Plays</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/337628.Wrecks_and_Other_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>328044</id>
+</work>
+<isbn>0865479704</isbn>
+<isbn13>9780865479708</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>143</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>17542</id>
+<name>Neil LaBute</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17542.Neil_LaBute]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>200754</id>
+<title>Sweet Bird of Youth</title>
+<title_without_series>Sweet Bird of Youth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/200754.Sweet_Bird_of_Youth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366830831s/200754.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366830831m/200754.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>194233</id>
+</work>
+<isbn>0822211041</isbn>
+<isbn13>9780822211044</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>1880</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7751</id>
+<name>Tennessee Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7751.Tennessee_Williams]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

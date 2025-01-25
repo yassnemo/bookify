@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>92307</id>
+  <title>Being and Time</title>
+  <isbn><![CDATA[0060638508]]></isbn>
+  <isbn13><![CDATA[9780060638504]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1962</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Harper &amp; Row (NYC/Evanston)</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[One of the most important philosophical works of our time, a work that has had tremendous influence on philosophy, literature, and psychology, and has literally changed the intellectual map of the modern world.]]></description>
+  <work>
+  <id type="integer">1309352</id>
+  <books_count type="integer">81</books_count>
+  <best_book_id type="integer">92307</best_book_id>
+  <reviews_count type="integer">55955</reviews_count>
+  <ratings_sum type="integer">61960</ratings_sum>
+  <ratings_count type="integer">15517</ratings_count>
+  <text_reviews_count type="integer">437</text_reviews_count>
+  <original_publication_year type="integer">1927</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Sein und Zeit</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6377|4:4672|3:2998|2:923|1:547|total:15517</rating_dist>
+  <desc_user_id type="integer">39669069</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.99</average_rating>
+  <num_pages><![CDATA[589]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[14395]]></ratings_count>
+  <text_reviews_count><![CDATA[324]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/92307.Being_and_Time]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/92307.Being_and_Time]]></link>
+  <authors>
+<author>
+<id>6191</id>
+<name>Martin Heidegger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1217243699p5/6191.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1217243699p2/6191.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6191.Martin_Heidegger]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>36519</ratings_count>
+<text_reviews_count>1237</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/92307.Being_and_Time">Being and Time Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060638508&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/92307.Being_and_Time?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="38406"/>
+      <shelf name="philosophy" count="1704"/>
+      <shelf name="currently-reading" count="995"/>
+      <shelf name="non-fiction" count="237"/>
+      <shelf name="favorites" count="123"/>
+      <shelf name="nonfiction" count="83"/>
+      <shelf name="classics" count="68"/>
+      <shelf name="existentialism" count="65"/>
+      <shelf name="phenomenology" count="40"/>
+      <shelf name="owned" count="40"/>
+      <shelf name="heidegger" count="35"/>
+      <shelf name="german" count="35"/>
+      <shelf name="to-buy" count="33"/>
+      <shelf name="theory" count="31"/>
+      <shelf name="psychology" count="26"/>
+      <shelf name="books-i-own" count="26"/>
+      <shelf name="partially-read" count="23"/>
+      <shelf name="default" count="21"/>
+      <shelf name="to-read-philosophy" count="21"/>
+      <shelf name="owned-books" count="20"/>
+      <shelf name="library" count="20"/>
+      <shelf name="science" count="19"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="academic" count="17"/>
+      <shelf name="filosofia" count="15"/>
+      <shelf name="metaphysics" count="15"/>
+      <shelf name="philosophy-to-read" count="14"/>
+      <shelf name="germany" count="14"/>
+      <shelf name="philosophie" count="14"/>
+      <shelf name="philosophy-theory" count="13"/>
+      <shelf name="philo" count="13"/>
+      <shelf name="filosofía" count="12"/>
+      <shelf name="my-library" count="12"/>
+      <shelf name="continental-philosophy" count="12"/>
+      <shelf name="20th-century" count="12"/>
+      <shelf name="ontology" count="11"/>
+      <shelf name="phil" count="11"/>
+      <shelf name="to-read-non-fiction" count="11"/>
+      <shelf name="classic" count="10"/>
+      <shelf name="unfinished" count="10"/>
+      <shelf name="existential" count="10"/>
+      <shelf name="filosofi" count="9"/>
+      <shelf name="must-read" count="9"/>
+      <shelf name="reference" count="9"/>
+      <shelf name="philosophy-religion" count="9"/>
+      <shelf name="philosophical" count="9"/>
+      <shelf name="college" count="9"/>
+      <shelf name="being-and-time" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="interesting" count="8"/>
+      <shelf name="western-philosophy" count="8"/>
+      <shelf name="translated" count="8"/>
+      <shelf name="want-to-read" count="7"/>
+      <shelf name="1920s" count="7"/>
+      <shelf name="to-re-read" count="7"/>
+      <shelf name="epistemology" count="7"/>
+      <shelf name="to-get" count="7"/>
+      <shelf name="hermeneutics" count="6"/>
+      <shelf name="german-lit" count="6"/>
+      <shelf name="time" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="فلسفه" count="6"/>
+      <shelf name="filosofie" count="6"/>
+      <shelf name="critical-theory" count="6"/>
+      <shelf name="academia" count="6"/>
+      <shelf name="priority" count="6"/>
+      <shelf name="school" count="6"/>
+      <shelf name="philosophy-psychology" count="6"/>
+      <shelf name="want" count="6"/>
+      <shelf name="abandoned" count="6"/>
+      <shelf name="german-literature" count="5"/>
+      <shelf name="فلسفة" count="5"/>
+      <shelf name="spirituality" count="5"/>
+      <shelf name="on-my-shelf" count="5"/>
+      <shelf name="philosphy" count="5"/>
+      <shelf name="re-read" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="on-hold" count="5"/>
+      <shelf name="shelfari-wishlist" count="4"/>
+      <shelf name="next" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="bookshelf" count="4"/>
+      <shelf name="spiritual" count="4"/>
+      <shelf name="deutsch" count="4"/>
+      <shelf name="to-purchase" count="4"/>
+      <shelf name="thesis" count="4"/>
+      <shelf name="religion-philosophy" count="4"/>
+      <shelf name="maybe" count="4"/>
+      <shelf name="1" count="4"/>
+      <shelf name="felsefe" count="4"/>
+      <shelf name="to-read-first" count="4"/>
+      <shelf name="educational" count="4"/>
+      <shelf name="thinking" count="4"/>
+      <shelf name="favorite" count="4"/>
+      <shelf name="to-read-nonfiction" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="philosophy-existentialism" count="4"/>
+      <shelf name="have" count="4"/>
+      <shelf name="on-the-shelf" count="4"/>
+      <shelf name="non-fic" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>478234</id>
+<title><![CDATA[Cartesian Meditations: An Introduction to Phenomenology]]></title>
+<title_without_series><![CDATA[Cartesian Meditations: An Introduction to Phenomenology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/478234.Cartesian_Meditations]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>466669</id>
+</work>
+<isbn>902470068X</isbn>
+<isbn13>9789024700684</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>993</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>180033</id>
+<name>Edmund Husserl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/180033.Edmund_Husserl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18279</id>
+<title>Phenomenology of Perception</title>
+<title_without_series>Phenomenology of Perception</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18279.Phenomenology_of_Perception]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1402711600s/18279.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1402711600m/18279.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>19727</id>
+</work>
+<isbn>0415278414</isbn>
+<isbn13>9780415278416</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>4474</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>118600</id>
+<name>Maurice Merleau-Ponty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/118600.Maurice_Merleau_Ponty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>213142</id>
+<title>Truth and Method</title>
+<title_without_series>Truth and Method</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/213142.Truth_and_Method]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>601</num_pages>
+<work>
+<id>2317408</id>
+</work>
+<isbn>082647697X</isbn>
+<isbn13>9780826476975</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>2769</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>124976</id>
+<name>Hans-Georg Gadamer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/124976.Hans_Georg_Gadamer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9454</id>
+<title>Phenomenology of Spirit</title>
+<title_without_series>Phenomenology of Spirit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9454.Phenomenology_of_Spirit]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1425522818s/9454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1425522818m/9454.jpg]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>995802</id>
+</work>
+<isbn>0198245971</isbn>
+<isbn13>9780198245971</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>12267</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6188</id>
+<name>Georg Wilhelm Friedrich Hegel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6188.Georg_Wilhelm_Friedrich_Hegel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>101696</id>
+<title><![CDATA[Being-In-The-World: A Commentary on Heidegger's Being in Time, Division I.]]></title>
+<title_without_series><![CDATA[Being-In-The-World: A Commentary on Heidegger's Being in Time, Division I.]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/101696.Being_In_The_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>98044</id>
+</work>
+<isbn>0262540568</isbn>
+<isbn13>9780262540568</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>348</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>30234</id>
+<name>Hubert L. Dreyfus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30234.Hubert_L_Dreyfus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>218842</id>
+<title>Being and Event</title>
+<title_without_series>Being and Event</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/218842.Being_and_Event]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>526</num_pages>
+<work>
+<id>1426684</id>
+</work>
+<isbn>0826458319</isbn>
+<isbn13>9780826458315</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>805</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>118587</id>
+<name>Alain Badiou</name>
+<link><![CDATA[https://www.goodreads.com/author/show/118587.Alain_Badiou]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>751683</id>
+<title><![CDATA[Totality and Infinity:  An Essay on Exteriority]]></title>
+<title_without_series><![CDATA[Totality and Infinity:  An Essay on Exteriority]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/751683.Totality_and_Infinity]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1373607575s/751683.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1373607575m/751683.jpg]]></image_url>
+<num_pages>314</num_pages>
+<work>
+<id>4025</id>
+</work>
+<isbn>0820702455</isbn>
+<isbn13>9780820702452</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>1229</ratings_count>
+<publication_year>1969</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1603038</id>
+<name>Emmanuel Levinas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1603038.Emmanuel_Levinas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>118319</id>
+<title>What Is Philosophy?</title>
+<title_without_series>What Is Philosophy?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118319.What_Is_Philosophy_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>847765</id>
+</work>
+<isbn>0231079893</isbn>
+<isbn13>9780231079891</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1127</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>5</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>13009</id>
+<name>Gilles Deleuze</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13009.Gilles_Deleuze]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>765346</id>
+<title>Writing and Difference</title>
+<title_without_series>Writing and Difference</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/765346.Writing_and_Difference]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>362</num_pages>
+<work>
+<id>751419</id>
+</work>
+<isbn>0226143295</isbn>
+<isbn13>9780226143293</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>5304</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>2</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4132</id>
+<name>Jacques Derrida</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4132.Jacques_Derrida]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24970</id>
+<title>Either/Or: A Fragment of Life</title>
+<title_without_series>Either/Or: A Fragment of Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24970.Either_Or]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1393892756s/24970.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1393892756m/24970.jpg]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>25733</id>
+</work>
+<isbn>0140445773</isbn>
+<isbn13>9780140445770</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>5712</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6172</id>
+<name>Søren Kierkegaard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6172.S_ren_Kierkegaard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94578</id>
+<title>The Gay Science</title>
+<title_without_series>The Gay Science</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94578.The_Gay_Science]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1374735026s/94578.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1374735026m/94578.jpg]]></image_url>
+<num_pages>398</num_pages>
+<work>
+<id>2382792</id>
+</work>
+<isbn>0394719859</isbn>
+<isbn13>9780394719856</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9806</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1938</id>
+<name>Friedrich Nietzsche</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18910</id>
+<title>The Parallax View</title>
+<title_without_series>The Parallax View</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18910.The_Parallax_View]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>433</num_pages>
+<work>
+<id>20255</id>
+</work>
+<isbn>0262240513</isbn>
+<isbn13>9780262240512</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>985</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>2340358</id>
+<name>Slavoj Žižek</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2340358.Slavoj_i_ek]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12075</id>
+<title><![CDATA[Tractatus Logico-Philosophicus]]></title>
+<title_without_series><![CDATA[Tractatus Logico-Philosophicus]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12075.Tractatus_Logico_Philosophicus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1396830687s/12075.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1396830687m/12075.jpg]]></image_url>
+<num_pages>142</num_pages>
+<work>
+<id>3157863</id>
+</work>
+<isbn>0415254086</isbn>
+<isbn13>9780415254083</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>12189</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7672</id>
+<name>Ludwig Wittgenstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7672.Ludwig_Wittgenstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>865540</id>
+<title>Matter and Memory</title>
+<title_without_series>Matter and Memory</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/865540.Matter_and_Memory]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>2267970</id>
+</work>
+<isbn>0942299051</isbn>
+<isbn13>9780942299052</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1853</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>11</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>67070</id>
+<name>Henri Bergson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67070.Henri_Bergson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18288</id>
+<title>Critique of Pure Reason</title>
+<title_without_series>Critique of Pure Reason</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18288.Critique_of_Pure_Reason]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>796</num_pages>
+<work>
+<id>1072226</id>
+</work>
+<isbn>0521657296</isbn>
+<isbn13>9780521657297</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>21535</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>11038</id>
+<name>Immanuel Kant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11038.Immanuel_Kant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>851541</id>
+<title>Process and Reality</title>
+<title_without_series>Process and Reality</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/851541.Process_and_Reality]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344664515s/851541.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344664515m/851541.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>2219382</id>
+</work>
+<isbn>0029345707</isbn>
+<isbn13>9780029345702</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>494</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>148309</id>
+<name>Alfred North Whitehead</name>
+<link><![CDATA[https://www.goodreads.com/author/show/148309.Alfred_North_Whitehead]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

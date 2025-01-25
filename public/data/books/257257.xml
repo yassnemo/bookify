@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>257257</id>
+  <title>The 20th Century Art Book</title>
+  <isbn><![CDATA[0714847984]]></isbn>
+  <isbn13><![CDATA[9780714847986]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Phaidon Press</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Covering the international nature of the modern art scene, this title encompasses established, iconic works of art and the classics of the future. It presents 500 artists in an alphabetical order, each represented by a full-page colour plate of a definitive work and an incisive text which sheds light on both image and creator.]]></description>
+  <work>
+  <id type="integer">249321</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">257257</best_book_id>
+  <reviews_count type="integer">15626</reviews_count>
+  <ratings_sum type="integer">39817</ratings_sum>
+  <ratings_count type="integer">10101</ratings_count>
+  <text_reviews_count type="integer">24</text_reviews_count>
+  <original_publication_year type="integer">1996</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The 20th Century Art Book</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3940|4:2881|3:2350|2:613|1:317|total:10101</rating_dist>
+  <desc_user_id type="integer">-46</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.94</average_rating>
+  <num_pages><![CDATA[512]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9930]]></ratings_count>
+  <text_reviews_count><![CDATA[20]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/257257.The_20th_Century_Art_Book]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/257257.The_20th_Century_Art_Book]]></link>
+  <authors>
+<author>
+<id>6456394</id>
+<name>Phaidon Press</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6456394.Phaidon_Press]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>126920</ratings_count>
+<text_reviews_count>489</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/257257.The_20th_Century_Art_Book">The 20th Century Art Book Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0714847984&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/257257.The_20th_Century_Art_Book?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5684"/>
+      <shelf name="art" count="150"/>
+      <shelf name="non-fiction" count="26"/>
+      <shelf name="currently-reading" count="19"/>
+      <shelf name="art-history" count="19"/>
+      <shelf name="nonfiction" count="18"/>
+      <shelf name="reference" count="16"/>
+      <shelf name="art-books" count="11"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="history" count="7"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="default" count="5"/>
+      <shelf name="arts" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="art-general" count="3"/>
+      <shelf name="visual-art" count="3"/>
+      <shelf name="artsy" count="3"/>
+      <shelf name="library" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="i-own" count="2"/>
+      <shelf name="coffe-table" count="2"/>
+      <shelf name="contemporary" count="2"/>
+      <shelf name="my-library" count="2"/>
+      <shelf name="art-design" count="2"/>
+      <shelf name="art-related" count="2"/>
+      <shelf name="art-and-craft" count="2"/>
+      <shelf name="creative" count="2"/>
+      <shelf name="owned-and-read" count="2"/>
+      <shelf name="painting" count="2"/>
+      <shelf name="readdd" count="1"/>
+      <shelf name="my-own-library-books" count="1"/>
+      <shelf name="books-to-get" count="1"/>
+      <shelf name="architecture" count="1"/>
+      <shelf name="art-and-humanities" count="1"/>
+      <shelf name="artist" count="1"/>
+      <shelf name="bookshelf" count="1"/>
+      <shelf name="art-modern" count="1"/>
+      <shelf name="box-10" count="1"/>
+      <shelf name="2017-challenge" count="1"/>
+      <shelf name="textile-art-books" count="1"/>
+      <shelf name="mine" count="1"/>
+      <shelf name="personal-library" count="1"/>
+      <shelf name="want-to-buy" count="1"/>
+      <shelf name="trying-to-read-more-after-08" count="1"/>
+      <shelf name="to-sell" count="1"/>
+      <shelf name="my-favorite-books" count="1"/>
+      <shelf name="to-buy" count="1"/>
+      <shelf name="tbr-owned" count="1"/>
+      <shelf name="biblioteca" count="1"/>
+      <shelf name="a-have" count="1"/>
+      <shelf name="1-4" count="1"/>
+      <shelf name="fiction" count="1"/>
+      <shelf name="work" count="1"/>
+      <shelf name="i-would-likee-to-own-these-books" count="1"/>
+      <shelf name="physical-book" count="1"/>
+      <shelf name="arts-and-crafts" count="1"/>
+      <shelf name="consulta" count="1"/>
+      <shelf name="books-i-want-to-buy" count="1"/>
+      <shelf name="owned-home" count="1"/>
+      <shelf name="for-me" count="1"/>
+      <shelf name="fine-art" count="1"/>
+      <shelf name="helpful-research" count="1"/>
+      <shelf name="phoebes-book-inventory" count="1"/>
+      <shelf name="happy-books" count="1"/>
+      <shelf name="__art" count="1"/>
+      <shelf name="s_art-architecture" count="1"/>
+      <shelf name="l_english" count="1"/>
+      <shelf name="coffee-table-books" count="1"/>
+      <shelf name="700s" count="1"/>
+      <shelf name="re-reading" count="1"/>
+      <shelf name="sandy-s-office" count="1"/>
+      <shelf name="s1" count="1"/>
+      <shelf name="art-and-music" count="1"/>
+      <shelf name="pop-current-non-fiction" count="1"/>
+      <shelf name="museums" count="1"/>
+      <shelf name="on-my-actual-shelf" count="1"/>
+      <shelf name="art-books-to-read" count="1"/>
+      <shelf name="my_personal_library" count="1"/>
+      <shelf name="bemachtigen" count="1"/>
+      <shelf name="my-book-shelf" count="1"/>
+      <shelf name="phaidon" count="1"/>
+      <shelf name="my-bookshelf" count="1"/>
+      <shelf name="backlog" count="1"/>
+      <shelf name="art-and-art-history" count="1"/>
+      <shelf name="graffixtion" count="1"/>
+      <shelf name="read-non-fiction" count="1"/>
+      <shelf name="own-hardcopy" count="1"/>
+      <shelf name="lists" count="1"/>
+      <shelf name="compilations" count="1"/>
+      <shelf name="biography" count="1"/>
+      <shelf name="art-design-photography" count="1"/>
+      <shelf name="jessica-s-books" count="1"/>
+      <shelf name="ellens-library" count="1"/>
+      <shelf name="dg-studio" count="1"/>
+      <shelf name="not-about-to-read" count="1"/>
+      <shelf name="investment-made" count="1"/>
+      <shelf name="alit" count="1"/>
+      <shelf name="art-for-art-s-sake" count="1"/>
+      <shelf name="unreviewed" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>224625</id>
+<title><![CDATA[Vitamin P: New Perspectives in Painting]]></title>
+<title_without_series><![CDATA[Vitamin P: New Perspectives in Painting]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/224625.Vitamin_P]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>217546</id>
+</work>
+<isbn>0714844462</isbn>
+<isbn13>9780714844466</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>3399</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>118930</id>
+<name>Barry Schwabsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/118930.Barry_Schwabsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>179101</id>
+<title><![CDATA[Vitamin D: New Perspectives in Drawing]]></title>
+<title_without_series><![CDATA[Vitamin D: New Perspectives in Drawing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/179101.Vitamin_D]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411775719s/179101.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411775719m/179101.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>173028</id>
+</work>
+<isbn>0714845450</isbn>
+<isbn13>9780714845456</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>4679</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>104353</id>
+<name>Emma Dexter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104353.Emma_Dexter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>370112</id>
+<title><![CDATA[The Guerrilla Girls' Bedside Companion to the History of Western Art]]></title>
+<title_without_series><![CDATA[The Guerrilla Girls' Bedside Companion to the History of Western Art]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/370112.The_Guerrilla_Girls_Bedside_Companion_to_the_History_of_Western_Art]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>360086</id>
+</work>
+<isbn>014025997X</isbn>
+<isbn13>9780140259971</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1239</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>211264</id>
+<name>Guerrilla Girls</name>
+<link><![CDATA[https://www.goodreads.com/author/show/211264.Guerrilla_Girls]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>600657</id>
+<title><![CDATA[Art Now:  Artists at the Rise of the New Millennium]]></title>
+<title_without_series><![CDATA[Art Now:  Artists at the Rise of the New Millennium]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/600657.Art_Now]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>587256</id>
+</work>
+<isbn>3822840939</isbn>
+<isbn13>9783822840931</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>182</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>187218</id>
+<name>Uta Grosenick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/187218.Uta_Grosenick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>958215</id>
+<title>Art Forms in Nature</title>
+<title_without_series>Art Forms in Nature</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/958215.Art_Forms_in_Nature]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>140</num_pages>
+<work>
+<id>943125</id>
+</work>
+<isbn>3791319906</isbn>
+<isbn13>9783791319902</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>6078</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>243117</id>
+<name>Ernst Haeckel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/243117.Ernst_Haeckel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>162763</id>
+<title><![CDATA[History of Modern Art: Painting, Sculpture, Architecture, Photography]]></title>
+<title_without_series><![CDATA[History of Modern Art: Painting, Sculpture, Architecture, Photography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162763.History_of_Modern_Art]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>157110</id>
+</work>
+<isbn>013184069X</isbn>
+<isbn13>9780131840690</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>6474</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>155161</id>
+<name>H. Harvard Arnason</name>
+<link><![CDATA[https://www.goodreads.com/author/show/155161.H_Harvard_Arnason]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>349086</id>
+<title><![CDATA[Cindy Sherman: Untitled Films Stills]]></title>
+<title_without_series><![CDATA[Cindy Sherman: Untitled Films Stills]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/349086.Cindy_Sherman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>164</num_pages>
+<work>
+<id>339360</id>
+</work>
+<isbn>0870705075</isbn>
+<isbn13>9780870705076</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>3507</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>78563</id>
+<name>Cindy Sherman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78563.Cindy_Sherman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>364101</id>
+<title>ARh+</title>
+<title_without_series>ARh+</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/364101.ARh_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2935085</id>
+</work>
+<isbn>382289642X</isbn>
+<isbn13>9783822896426</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>5562</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>196979</id>
+<name>H.R. Giger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/196979.H_R_Giger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2671</id>
+<title>The Painted Word</title>
+<title_without_series>The Painted Word</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2671.The_Painted_Word]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350668236s/2671.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350668236m/2671.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6617</id>
+</work>
+<isbn>0553380656</isbn>
+<isbn13>9780553380651</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>4737</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3083854</id>
+<name>Tom Wolfe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3083854.Tom_Wolfe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>111113</id>
+<title>Interaction of Color</title>
+<title_without_series>Interaction of Color</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/111113.Interaction_of_Color]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328870173s/111113.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328870173m/111113.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>1000528</id>
+</work>
+<isbn>0300115954</isbn>
+<isbn13>9780300115956</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>5387</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>64263</id>
+<name>Josef Albers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64263.Josef_Albers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1347239</id>
+<title><![CDATA[Arcimboldo (Taschen Basic Art)]]></title>
+<title_without_series>Arcimboldo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1347239.Arcimboldo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1336888</id>
+</work>
+<isbn>3822896381</isbn>
+<isbn13>9783822896389</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1739</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>326369</id>
+<name>Werner Kriegeskorte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326369.Werner_Kriegeskorte]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>105077</id>
+<title><![CDATA[Cabinet of Natural Curiosities: The Complete Plates in Colour, 1734-1763]]></title>
+<title_without_series><![CDATA[Cabinet of Natural Curiosities: The Complete Plates in Colour, 1734-1763]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/105077.Cabinet_of_Natural_Curiosities]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>884191</id>
+</work>
+<isbn>3822847941</isbn>
+<isbn13>9783822847947</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1554</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>317199</id>
+<name>Albertus Seba</name>
+<link><![CDATA[https://www.goodreads.com/author/show/317199.Albertus_Seba]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>276289</id>
+<title><![CDATA[The Magic Mirror of M.C. Escher]]></title>
+<title_without_series><![CDATA[The Magic Mirror of M.C. Escher]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/276289.The_Magic_Mirror_of_M_C_Escher]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>116</num_pages>
+<work>
+<id>267935</id>
+</work>
+<isbn>3822837032</isbn>
+<isbn13>9783822837030</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>11212</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>85346</id>
+<name>Bruno Ernst</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85346.Bruno_Ernst]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>342637</id>
+<title>Dali: The Paintings</title>
+<title_without_series>Dali: The Paintings</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/342637.Dali]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>332991</id>
+</work>
+<isbn>3822835536</isbn>
+<isbn13>9783822835531</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>14772</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>52736</id>
+<name>Robert Descharnes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52736.Robert_Descharnes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>103902</id>
+<title>Gustav Klimt: 1862-1918</title>
+<title_without_series>Gustav Klimt: 1862-1918</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/103902.Gustav_Klimt]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1393794080s/103902.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1393794080m/103902.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>100186</id>
+</work>
+<isbn>382285980X</isbn>
+<isbn13>9783822859803</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>15751</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>187210</id>
+<name>Gilles Néret</name>
+<link><![CDATA[https://www.goodreads.com/author/show/187210.Gilles_N_ret]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>113834</id>
+<title>The Story of Painting</title>
+<title_without_series>The Story of Painting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/113834.The_Story_of_Painting]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355046716s/113834.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355046716m/113834.jpg]]></image_url>
+<num_pages>736</num_pages>
+<work>
+<id>109603</id>
+</work>
+<isbn>0789468050</isbn>
+<isbn13>9780789468055</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>3385</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>65987</id>
+<name>Wendy Beckett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65987.Wendy_Beckett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164107</id>
+<title><![CDATA[Egon Schiele, 1890-1918: The Midnight Soul of the Artist]]></title>
+<title_without_series><![CDATA[Egon Schiele, 1890-1918: The Midnight Soul of the Artist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164107.Egon_Schiele_1890_1918]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>158426</id>
+</work>
+<isbn>3822863270</isbn>
+<isbn13>9783822863275</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>3903</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>95317</id>
+<name>Reinhard Steiner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/95317.Reinhard_Steiner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>397653</id>
+<title><![CDATA[Women, Art, and Society (World of Art)]]></title>
+<title_without_series>Women, Art, and Society</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/397653.Women_Art_and_Society]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>387116</id>
+</work>
+<isbn>0500203938</isbn>
+<isbn13>9780500203934</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>2072</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>78204</id>
+<name>Whitney Chadwick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78204.Whitney_Chadwick]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>1845</id>
+  <title>Into the Wild</title>
+  <isbn><![CDATA[0385486804]]></isbn>
+  <isbn13><![CDATA[9780385486804]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B005AV93JI]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1403173986m/1845.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1403173986s/1845.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Librarian's Note: An alternate cover edition can be found <a href="https://www.goodreads.com/book/show/26238021.here" title="here" rel="nofollow">here</a></i><br /><br />In April 1992 a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, a party of moose hunters found his decomposed body. How McCandless came to die is the unforgettable story of <i>Into the Wild</i>.<br /><br />Immediately after graduating from college in 1991, McCandless had roamed through the West and Southwest on a vision quest like those made by his heroes Jack London and John Muir. In the Mojave Desert he abandoned his car, stripped it of its license plates, and burned all of his cash. He would give himself a new name, Alexander Supertramp, and, unencumbered by money and belongings, he would be free to wallow in the raw, unfiltered experiences that nature presented. Craving a blank spot on the map, McCandless simply threw away the maps. Leaving behind his desperate parents and sister, he vanished into the wild.]]></description>
+  <work>
+  <id type="integer">3284484</id>
+  <books_count type="integer">108</books_count>
+  <best_book_id type="integer">1845</best_book_id>
+  <reviews_count type="integer">1028939</reviews_count>
+  <ratings_sum type="integer">2627036</ratings_sum>
+  <ratings_count type="integer">665981</ratings_count>
+  <text_reviews_count type="integer">17312</text_reviews_count>
+  <original_publication_year type="integer">1996</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Into the Wild</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:227338|4:248502|3:135301|2:35595|1:19245|total:665981</rating_dist>
+  <desc_user_id type="integer">3236194</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.94</average_rating>
+  <num_pages><![CDATA[207]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[648246]]></ratings_count>
+  <text_reviews_count><![CDATA[15536]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/1845.Into_the_Wild]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/1845.Into_the_Wild]]></link>
+  <authors>
+<author>
+<id>1235</id>
+<name>Jon Krakauer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430856379p5/1235.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430856379p2/1235.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1235.Jon_Krakauer]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1176807</ratings_count>
+<text_reviews_count>45928</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/1845.Into_the_Wild">Into the Wild Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385486804&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/1845.Into_the_Wild?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="144278"/>
+      <shelf name="non-fiction" count="6361"/>
+      <shelf name="currently-reading" count="6049"/>
+      <shelf name="favorites" count="3214"/>
+      <shelf name="nonfiction" count="2370"/>
+      <shelf name="biography" count="1907"/>
+      <shelf name="adventure" count="1164"/>
+      <shelf name="travel" count="1079"/>
+      <shelf name="books-i-own" count="606"/>
+      <shelf name="owned" count="540"/>
+      <shelf name="classics" count="447"/>
+      <shelf name="memoir" count="374"/>
+      <shelf name="fiction" count="370"/>
+      <shelf name="nature" count="333"/>
+      <shelf name="survival" count="281"/>
+      <shelf name="biographies" count="269"/>
+      <shelf name="school" count="267"/>
+      <shelf name="biography-memoir" count="246"/>
+      <shelf name="book-club" count="244"/>
+      <shelf name="alaska" count="234"/>
+      <shelf name="owned-books" count="214"/>
+      <shelf name="to-buy" count="203"/>
+      <shelf name="outdoors" count="199"/>
+      <shelf name="memoirs" count="185"/>
+      <shelf name="favourites" count="179"/>
+      <shelf name="adult" count="176"/>
+      <shelf name="library" count="170"/>
+      <shelf name="history" count="164"/>
+      <shelf name="audiobook" count="140"/>
+      <shelf name="contemporary" count="140"/>
+      <shelf name="audiobooks" count="122"/>
+      <shelf name="memoir-biography" count="120"/>
+      <shelf name="kindle" count="114"/>
+      <shelf name="read-for-school" count="109"/>
+      <shelf name="wish-list" count="109"/>
+      <shelf name="audio" count="108"/>
+      <shelf name="school-books" count="107"/>
+      <shelf name="default" count="104"/>
+      <shelf name="for-school" count="102"/>
+      <shelf name="american" count="101"/>
+      <shelf name="journalism" count="97"/>
+      <shelf name="my-books" count="95"/>
+      <shelf name="literature" count="91"/>
+      <shelf name="my-library" count="85"/>
+      <shelf name="read-in-2015" count="84"/>
+      <shelf name="i-own" count="83"/>
+      <shelf name="english" count="81"/>
+      <shelf name="philosophy" count="80"/>
+      <shelf name="favorite-books" count="78"/>
+      <shelf name="biographical" count="78"/>
+      <shelf name="novels" count="77"/>
+      <shelf name="ebook" count="76"/>
+      <shelf name="high-school" count="76"/>
+      <shelf name="all-time-favorites" count="74"/>
+      <shelf name="wilderness" count="73"/>
+      <shelf name="classic" count="72"/>
+      <shelf name="read-in-2016" count="69"/>
+      <shelf name="bio" count="69"/>
+      <shelf name="autobiography" count="69"/>
+      <shelf name="biography-autobiography" count="65"/>
+      <shelf name="true-story" count="63"/>
+      <shelf name="favorite" count="62"/>
+      <shelf name="environment" count="62"/>
+      <shelf name="movies" count="61"/>
+      <shelf name="abandoned" count="61"/>
+      <shelf name="travel-adventure" count="61"/>
+      <shelf name="own-it" count="60"/>
+      <shelf name="true-stories" count="57"/>
+      <shelf name="young-adult" count="57"/>
+      <shelf name="20th-century" count="57"/>
+      <shelf name="borrowed" count="56"/>
+      <shelf name="wanderlust" count="56"/>
+      <shelf name="books" count="55"/>
+      <shelf name="non-fic" count="54"/>
+      <shelf name="re-read" count="53"/>
+      <shelf name="american-literature" count="53"/>
+      <shelf name="read-in-2014" count="52"/>
+      <shelf name="adult-nonfiction" count="52"/>
+      <shelf name="ebooks" count="51"/>
+      <shelf name="jon-krakauer" count="50"/>
+      <shelf name="shelfari-favorites" count="48"/>
+      <shelf name="movie" count="48"/>
+      <shelf name="death" count="48"/>
+      <shelf name="to-read-non-fiction" count="47"/>
+      <shelf name="usa" count="47"/>
+      <shelf name="coming-of-age" count="46"/>
+      <shelf name="life" count="45"/>
+      <shelf name="audio-book" count="45"/>
+      <shelf name="recommended" count="45"/>
+      <shelf name="read-in-2013" count="44"/>
+      <shelf name="read-in-2012" count="44"/>
+      <shelf name="bookclub" count="44"/>
+      <shelf name="bio-memoir" count="43"/>
+      <shelf name="novel" count="43"/>
+      <shelf name="inspirational" count="43"/>
+      <shelf name="exploration" count="42"/>
+      <shelf name="my-favorites" count="42"/>
+      <shelf name="adult-non-fiction" count="42"/>
+      <shelf name="biographies-memoirs" count="42"/>
+      <shelf name="unfinished" count="41"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>121410</id>
+<title><![CDATA[Adrift: Seventy-Six Days Lost at Sea]]></title>
+<title_without_series><![CDATA[Adrift: Seventy-Six Days Lost at Sea]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/121410.Adrift]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356596323s/121410.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356596323m/121410.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>551874</id>
+</work>
+<isbn>0618257322</isbn>
+<isbn13>9780618257324</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>11557</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>63760</id>
+<name>Steven Callahan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63760.Steven_Callahan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>124718</id>
+<title><![CDATA[One Man's Wilderness: An Alaskan Odyssey]]></title>
+<title_without_series><![CDATA[One Man's Wilderness: An Alaskan Odyssey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/124718.One_Man_s_Wilderness]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>120103</id>
+</work>
+<isbn>0882405136</isbn>
+<isbn13>9780882405131</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>3992</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8423448</id>
+<name>Sam Keith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8423448.Sam_Keith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>214091</id>
+<title>The Last Season</title>
+<title_without_series>The Last Season</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/214091.The_Last_Season]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>207260</id>
+</work>
+<isbn>0060583010</isbn>
+<isbn13>9780060583019</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>5705</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2865</id>
+<name>Eric Blehm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2865.Eric_Blehm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>401514</id>
+<title><![CDATA[Alive: The Story of the Andes Survivors]]></title>
+<title_without_series><![CDATA[Alive: The Story of the Andes Survivors]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/401514.Alive]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404247131s/401514.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404247131m/401514.jpg]]></image_url>
+<num_pages>318</num_pages>
+<work>
+<id>525961</id>
+</work>
+<isbn>038000321X</isbn>
+<isbn13>9780380003211</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>50674</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>40311</id>
+<name>Piers Paul Read</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40311.Piers_Paul_Read]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16878</id>
+<title>Arctic Dreams</title>
+<title_without_series>Arctic Dreams</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16878.Arctic_Dreams]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>1579465</id>
+</work>
+<isbn>0375727485</isbn>
+<isbn13>9780375727481</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>4590</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>10262</id>
+<name>Barry López</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10262.Barry_L_pez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>821355</id>
+<title>The Pine Barrens</title>
+<title_without_series>The Pine Barrens</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/821355.The_Pine_Barrens]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311981982s/821355.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311981982m/821355.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2741931</id>
+</work>
+<isbn>0374514429</isbn>
+<isbn13>9780374514426</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>2102</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>40</id>
+<name>John McPhee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40.John_McPhee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>728348</id>
+<title><![CDATA[The Man Who Walked Through Time: The Story of the First Trip Afoot Through the Grand Canyon]]></title>
+<title_without_series><![CDATA[The Man Who Walked Through Time: The Story of the First Trip Afoot Through the Grand Canyon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/728348.The_Man_Who_Walked_Through_Time]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403186164s/728348.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403186164m/728348.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>714549</id>
+</work>
+<isbn>0679723064</isbn>
+<isbn13>9780679723066</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1667</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>5</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>33355</id>
+<name>Colin Fletcher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33355.Colin_Fletcher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2736567</id>
+<title><![CDATA[God's Middle Finger: Into the Lawless Heart of the Sierra Madre]]></title>
+<title_without_series><![CDATA[God's Middle Finger: Into the Lawless Heart of the Sierra Madre]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2736567-god-s-middle-finger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>2762216</id>
+</work>
+<isbn>1416534407</isbn>
+<isbn13>9781416534402</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1795</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>74343</id>
+<name>Richard Grant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/74343.Richard_Grant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22163</id>
+<title><![CDATA[The Wild Trees: A Story of Passion and Daring]]></title>
+<title_without_series><![CDATA[The Wild Trees: A Story of Passion and Daring]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22163.The_Wild_Trees]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>1937343</id>
+</work>
+<isbn>1400064899</isbn>
+<isbn13>9781400064892</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>5083</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>9996</id>
+<name>Richard   Preston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9996.Richard_Preston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>839157</id>
+<title><![CDATA[Mountains of the Mind: A History of a Fascination]]></title>
+<title_without_series><![CDATA[Mountains of the Mind: A History of a Fascination]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/839157.Mountains_of_the_Mind]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332295436s/839157.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332295436m/839157.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>824717</id>
+</work>
+<isbn>1862076545</isbn>
+<isbn13>9781862076549</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1222</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>435856</id>
+<name>Robert Macfarlane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/435856.Robert_Macfarlane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18600</id>
+<title><![CDATA[Touching the Void: The True Story of One Man's Miraculous Survival]]></title>
+<title_without_series><![CDATA[Touching the Void: The True Story of One Man's Miraculous Survival]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18600.Touching_the_Void]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>218</num_pages>
+<work>
+<id>876314</id>
+</work>
+<isbn>0060730552</isbn>
+<isbn13>9780060730550</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>37918</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11193</id>
+<name>Joe Simpson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11193.Joe_Simpson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6545608</id>
+<title><![CDATA[The Perfect Storm: A True Story of Men Against the Sea]]></title>
+<title_without_series><![CDATA[The Perfect Storm: A True Story of Men Against the Sea]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6545608-the-perfect-storm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1887699</id>
+</work>
+<isbn>0393337014</isbn>
+<isbn13>9780393337013</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>87016</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>16494</id>
+<name>Sebastian Junger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16494.Sebastian_Junger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>238727</id>
+<title>My First Summer in the Sierra</title>
+<title_without_series>My First Summer in the Sierra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/238727.My_First_Summer_in_the_Sierra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>3125420</id>
+</work>
+<isbn>0486437353</isbn>
+<isbn13>9780486437354</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3597</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>5297</id>
+<name>John Muir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5297.John_Muir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>118543</id>
+<title><![CDATA[Beyond the Wall: Essays from the Outside]]></title>
+<title_without_series><![CDATA[Beyond the Wall: Essays from the Outside]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118543.Beyond_the_Wall]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311011458s/118543.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311011458m/118543.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1267552</id>
+</work>
+<isbn>0030693012</isbn>
+<isbn13>9780030693014</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>548</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37218</id>
+<name>Edward Abbey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37218.Edward_Abbey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>318756</id>
+<title><![CDATA[Touching My Father's Soul: A Sherpa's Journey to the Top of Everest]]></title>
+<title_without_series><![CDATA[Touching My Father's Soul: A Sherpa's Journey to the Top of Everest]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/318756.Touching_My_Father_s_Soul]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>309538</id>
+</work>
+<isbn>0062516884</isbn>
+<isbn13>9780062516886</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1783</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>237240</id>
+<name>Jamling Tenzing Norgay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/237240.Jamling_Tenzing_Norgay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>295297</id>
+<title><![CDATA[Forever on the Mountain: The Truth Behind One of Mountaineering's Most Controversial and Mysterious Disasters]]></title>
+<title_without_series><![CDATA[Forever on the Mountain: The Truth Behind One of Mountaineering's Most Controversial and Mysterious Disasters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/295297.Forever_on_the_Mountain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>286543</id>
+</work>
+<isbn>0393061744</isbn>
+<isbn13>9780393061741</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1155</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>170465</id>
+<name>James M. Tabor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170465.James_M_Tabor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>63832</id>
+<title>Blue Highways</title>
+<title_without_series>Blue Highways</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63832.Blue_Highways]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>428</num_pages>
+<work>
+<id>1383812</id>
+</work>
+<isbn>0316353299</isbn>
+<isbn13>9780316353298</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>16578</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1254084</id>
+<name>William Least Heat-Moon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1254084.William_Least_Heat_Moon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>820924</id>
+<title><![CDATA[Refuge: An Unnatural History of Family and Place]]></title>
+<title_without_series><![CDATA[Refuge: An Unnatural History of Family and Place]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/820924.Refuge]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320531328s/820924.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320531328m/820924.jpg]]></image_url>
+<num_pages>314</num_pages>
+<work>
+<id>806761</id>
+</work>
+<isbn>0679740244</isbn>
+<isbn13>9780679740247</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>7098</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8155</id>
+<name>Terry Tempest Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8155.Terry_Tempest_Williams]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

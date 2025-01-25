@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7770</id>
+  <title><![CDATA[One Fish, Two Fish, Red Fish, Blue Fish]]></title>
+  <isbn><![CDATA[0007173687]]></isbn>
+  <isbn13><![CDATA[9780007173686]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Harper Collins Children's Books</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[One Fish Two Fish Red Fish Blue Fish is a 1960 children's book by Dr. Seuss (Theodor Seuss Geisel). A simple rhyming book for learner readers, it is a book with a freewheeling plot about a boy and a girl, and the many amazing creatures they have for friends and pets. One Fish Two Fish Red Fish Blue Fish was part of the Beginner Book Video series which included Oh, the Thinks You Can Think! and The Foot Book.]]></description>
+  <work>
+  <id type="integer">98895</id>
+  <books_count type="integer">49</books_count>
+  <best_book_id type="integer">7770</best_book_id>
+  <reviews_count type="integer">169445</reviews_count>
+  <ratings_sum type="integer">505627</ratings_sum>
+  <ratings_count type="integer">122693</ratings_count>
+  <text_reviews_count type="integer">2075</text_reviews_count>
+  <original_publication_year type="integer">1960</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>One Fish, Two Fish, Red Fish, Blue Fish</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:57691|4:32455|3:24411|2:5983|1:2153|total:122693</rating_dist>
+  <desc_user_id type="integer">974210</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.12</average_rating>
+  <num_pages><![CDATA[64]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[117619]]></ratings_count>
+  <text_reviews_count><![CDATA[1729]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7770.One_Fish_Two_Fish_Red_Fish_Blue_Fish]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7770.One_Fish_Two_Fish_Red_Fish_Blue_Fish]]></link>
+  <authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2462783</ratings_count>
+<text_reviews_count>42352</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7770.One_Fish_Two_Fish_Red_Fish_Blue_Fish">One Fish, Two Fish, Red Fish, Blue Fish Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0007173687&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7770.One_Fish_Two_Fish_Red_Fish_Blue_Fish?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="32604"/>
+      <shelf name="childrens" count="1494"/>
+      <shelf name="children-s-books" count="1068"/>
+      <shelf name="children" count="1003"/>
+      <shelf name="picture-books" count="940"/>
+      <shelf name="children-s" count="802"/>
+      <shelf name="kids" count="545"/>
+      <shelf name="currently-reading" count="504"/>
+      <shelf name="childrens-books" count="495"/>
+      <shelf name="fiction" count="431"/>
+      <shelf name="dr-seuss" count="405"/>
+      <shelf name="childhood" count="393"/>
+      <shelf name="kids-books" count="379"/>
+      <shelf name="classics" count="272"/>
+      <shelf name="poetry" count="236"/>
+      <shelf name="picture-book" count="207"/>
+      <shelf name="favorites" count="193"/>
+      <shelf name="childhood-favorites" count="161"/>
+      <shelf name="childhood-books" count="147"/>
+      <shelf name="books-i-own" count="125"/>
+      <shelf name="rhyming" count="124"/>
+      <shelf name="children-s-literature" count="123"/>
+      <shelf name="children-books" count="123"/>
+      <shelf name="classic" count="113"/>
+      <shelf name="owned" count="110"/>
+      <shelf name="children-s-lit" count="107"/>
+      <shelf name="animals" count="92"/>
+      <shelf name="kid-books" count="85"/>
+      <shelf name="fantasy" count="82"/>
+      <shelf name="humor" count="77"/>
+      <shelf name="colors" count="73"/>
+      <shelf name="childrens-lit" count="66"/>
+      <shelf name="default" count="63"/>
+      <shelf name="childhood-reads" count="61"/>
+      <shelf name="math" count="53"/>
+      <shelf name="dr-suess" count="53"/>
+      <shelf name="counting" count="50"/>
+      <shelf name="owned-books" count="49"/>
+      <shelf name="juvenile" count="47"/>
+      <shelf name="children-s-picture-books" count="47"/>
+      <shelf name="my-childhood" count="46"/>
+      <shelf name="kid-s-books" count="44"/>
+      <shelf name="read-as-a-child" count="43"/>
+      <shelf name="seuss" count="41"/>
+      <shelf name="read-as-a-kid" count="41"/>
+      <shelf name="easy-reader" count="40"/>
+      <shelf name="rhyme" count="39"/>
+      <shelf name="youth" count="38"/>
+      <shelf name="children-s-book" count="36"/>
+      <shelf name="childrensbooks" count="34"/>
+      <shelf name="elementary" count="34"/>
+      <shelf name="childrens-picture-books" count="34"/>
+      <shelf name="easy-readers" count="33"/>
+      <shelf name="kid-lit" count="33"/>
+      <shelf name="kiddos" count="32"/>
+      <shelf name="picture" count="31"/>
+      <shelf name="illustrated" count="30"/>
+      <shelf name="children-young-adult" count="29"/>
+      <shelf name="books-i-read-as-a-kid" count="29"/>
+      <shelf name="picturebooks" count="28"/>
+      <shelf name="childrens-fiction" count="28"/>
+      <shelf name="early-readers" count="27"/>
+      <shelf name="read-more-than-once" count="27"/>
+      <shelf name="childhood-memories" count="27"/>
+      <shelf name="kindergarten" count="27"/>
+      <shelf name="early-reader" count="27"/>
+      <shelf name="books-from-my-childhood" count="26"/>
+      <shelf name="preschool" count="26"/>
+      <shelf name="favorite-children-s-books" count="26"/>
+      <shelf name="childrens-book" count="26"/>
+      <shelf name="early-childhood" count="25"/>
+      <shelf name="childrens-literature" count="25"/>
+      <shelf name="fish" count="24"/>
+      <shelf name="i-own" count="24"/>
+      <shelf name="library" count="23"/>
+      <shelf name="books" count="23"/>
+      <shelf name="for-kids" count="23"/>
+      <shelf name="read-aloud" count="22"/>
+      <shelf name="children-s-fiction" count="22"/>
+      <shelf name="own-it" count="22"/>
+      <shelf name="my-library" count="21"/>
+      <shelf name="my-books" count="21"/>
+      <shelf name="baby-books" count="21"/>
+      <shelf name="for-the-kids" count="21"/>
+      <shelf name="child" count="20"/>
+      <shelf name="children-ya" count="20"/>
+      <shelf name="5-stars" count="20"/>
+      <shelf name="children-and-young-adult" count="20"/>
+      <shelf name="read-alouds" count="19"/>
+      <shelf name="ece-3601" count="19"/>
+      <shelf name="home-library" count="19"/>
+      <shelf name="beginning-readers" count="19"/>
+      <shelf name="read-to-kids" count="19"/>
+      <shelf name="young-children" count="19"/>
+      <shelf name="young-adult" count="19"/>
+      <shelf name="classroom-library" count="18"/>
+      <shelf name="school" count="18"/>
+      <shelf name="nostalgia" count="18"/>
+      <shelf name="children-s-books-read" count="18"/>
+      <shelf name="childhood-faves" count="18"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>781743</id>
+<user_position>B-13</user_position>
+<series>
+<id>154936</id>
+<title>
+<![CDATA[
+    Beginner Books
+]]>
+</title>
+<description>
+<![CDATA[
+    beginner books copyright by Random House. (I can read it all by myself)
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>31</series_works_count>
+<primary_work_count>31</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>728471</id>
+<title><![CDATA[The Berenstain Bears Go to the Doctor]]></title>
+<title_without_series><![CDATA[The Berenstain Bears Go to the Doctor]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/728471.The_Berenstain_Bears_Go_to_the_Doctor]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344368989s/728471.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344368989m/728471.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3247111</id>
+</work>
+<isbn>0394848357</isbn>
+<isbn13>9780394848358</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>9366</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>928921</id>
+<title>Horns to Toes and in Between</title>
+<title_without_series>Horns to Toes and in Between</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/928921.Horns_to_Toes_and_in_Between]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>913914</id>
+</work>
+<isbn>0671493191</isbn>
+<isbn13>9780671493196</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2883</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3943162</id>
+<title><![CDATA[Watch Me Throw the Ball! (Elephant & Piggie, #8)]]></title>
+<title_without_series>Watch Me Throw the Ball!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3943162-watch-me-throw-the-ball]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379897772s/3943162.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379897772m/3943162.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>3988776</id>
+</work>
+<isbn>1423113489</isbn>
+<isbn13>9781423113485</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>460548</id>
+<title>Go, Dog. Go!</title>
+<title_without_series>Go, Dog. Go!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/460548.Go_Dog_Go_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333578440s/460548.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333578440m/460548.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>887311</id>
+</work>
+<isbn>0394800206</isbn>
+<isbn13>9780394800202</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>67123</ratings_count>
+<publication_year>1961</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>13898</id>
+<name>P.D. Eastman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13898.P_D_Eastman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24688</id>
+<title><![CDATA[Cars and Trucks and Things That Go]]></title>
+<title_without_series><![CDATA[Cars and Trucks and Things That Go]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24688.Cars_and_Trucks_and_Things_That_Go]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333576382s/24688.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333576382m/24688.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>25523</id>
+</work>
+<isbn></isbn>
+<isbn13>9780307157850</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>7566</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13901</id>
+<name>Richard Scarry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13901.Richard_Scarry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47680</id>
+<title>The Very Lonely Firefly</title>
+<title_without_series>The Very Lonely Firefly</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47680.The_Very_Lonely_Firefly]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3250651</id>
+</work>
+<isbn>0399227741</isbn>
+<isbn13>9780399227745</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>8543</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>109522</id>
+<title>All by Myself</title>
+<title_without_series>All by Myself</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109522.All_by_Myself]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>105544</id>
+</work>
+<isbn>0307119386</isbn>
+<isbn13>9780307119384</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6673</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>598160</id>
+<title><![CDATA[Polar Bear, Polar Bear, What Do You Hear?]]></title>
+<title_without_series><![CDATA[Polar Bear, Polar Bear, What Do You Hear?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/598160.Polar_Bear_Polar_Bear_What_Do_You_Hear_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>2921010</id>
+</work>
+<isbn>0805053883</isbn>
+<isbn13>9780805053883</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>44987</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>5086768</id>
+<name>Bill Martin Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5086768.Bill_Martin_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>857501</id>
+<title>Hand, Hand, Fingers, Thumb</title>
+<title_without_series>Hand, Hand, Fingers, Thumb</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/857501.Hand_Hand_Fingers_Thumb]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1397803649s/857501.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1397803649m/857501.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>19838</id>
+</work>
+<isbn>0679890483</isbn>
+<isbn13>9780679890485</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>24510</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>11094</id>
+<name>Al Perkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11094.Al_Perkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>826584</id>
+<title>If You Give a Moose a Muffin</title>
+<title_without_series>If You Give a Moose a Muffin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/826584.If_You_Give_a_Moose_a_Muffin]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384259273s/826584.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384259273m/826584.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3075681</id>
+</work>
+<isbn>0060244054</isbn>
+<isbn13>9780060244057</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>49208</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>87184</id>
+<name>Laura Joffe Numeroff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87184.Laura_Joffe_Numeroff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>262050</id>
+<title>Serendipity</title>
+<title_without_series>Serendipity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/262050.Serendipity]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1285744375s/262050.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1285744375m/262050.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>254006</id>
+</work>
+<isbn>084313819X</isbn>
+<isbn13>9780843138191</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>2287</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35343</id>
+<name>Stephen Cosgrove</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35343.Stephen_Cosgrove]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

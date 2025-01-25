@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>68811</id>
+  <title>Momo</title>
+  <isbn><![CDATA[3522168577]]></isbn>
+  <isbn13><![CDATA[9783522168571]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1420905611m/68811.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1420905611s/68811.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>ger</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Eine gespenstische Gesellschaft "grauer Herren" ist am Werk und veranlasst immer mehr Menschen, Zeit zu sparen. Aber in Wirklichkeit betrügen sie die Menschen um diese ersparte Zeit. Als die Not am größten ist und die Welt ihnen schon endgültig zu gehören scheint, entschließt sich Meister Hora, der geheimnisvolle "Verwalter der Zeit", zum Eingreifen. Doch dazu braucht er die Hilfe eines Menschenkindes. Die Welt steht still und Momo, die struppige kleine Heldin der Geschichte, kämpft ganz allein, mit nichts als einer Blume in der Hand und einer Schildkröte unter dem Arm, gegen das riesige Heer der "grauen Herren".]]></description>
+  <work>
+  <id type="integer">517524</id>
+  <books_count type="integer">171</books_count>
+  <best_book_id type="integer">68811</best_book_id>
+  <reviews_count type="integer">53240</reviews_count>
+  <ratings_sum type="integer">148197</ratings_sum>
+  <ratings_count type="integer">34577</ratings_count>
+  <text_reviews_count type="integer">1644</text_reviews_count>
+  <original_publication_year type="integer">1973</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Momo</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:17521|4:11102|3:4613|2:1004|1:337|total:34577</rating_dist>
+  <desc_user_id type="integer">49494403</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.29</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[28893]]></ratings_count>
+  <text_reviews_count><![CDATA[949]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/68811.Momo]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/68811.Momo]]></link>
+  <authors>
+<author>
+<id>15619</id>
+<name>Michael Ende</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479471782p5/15619.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479471782p2/15619.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15619.Michael_Ende]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>175248</ratings_count>
+<text_reviews_count>6403</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/68811.Momo">Momo Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=3522168577&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/68811.Momo?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2367"/>
+      <shelf name="fiction" count="301"/>
+      <shelf name="children" count="258"/>
+      <shelf name="classics" count="218"/>
+      <shelf name="currently-reading" count="197"/>
+      <shelf name="german" count="188"/>
+      <shelf name="childrens" count="164"/>
+      <shelf name="favorites" count="141"/>
+      <shelf name="owned" count="111"/>
+      <shelf name="young-adult" count="105"/>
+      <shelf name="childhood" count="89"/>
+      <shelf name="fantasy" count="88"/>
+      <shelf name="deutsch" count="74"/>
+      <shelf name="children-s-books" count="71"/>
+      <shelf name="children-s" count="67"/>
+      <shelf name="books-i-own" count="63"/>
+      <shelf name="german-literature" count="62"/>
+      <shelf name="kids" count="53"/>
+      <shelf name="novels" count="51"/>
+      <shelf name="novel" count="48"/>
+      <shelf name="childrens-books" count="47"/>
+      <shelf name="default" count="44"/>
+      <shelf name="read-in-german" count="38"/>
+      <shelf name="classic" count="35"/>
+      <shelf name="favoritos" count="35"/>
+      <shelf name="literature" count="35"/>
+      <shelf name="adventure" count="35"/>
+      <shelf name="to-buy" count="34"/>
+      <shelf name="ya" count="32"/>
+      <shelf name="kinderbücher" count="31"/>
+      <shelf name="middle-grade" count="27"/>
+      <shelf name="my-books" count="27"/>
+      <shelf name="fantasía" count="26"/>
+      <shelf name="fantasia" count="26"/>
+      <shelf name="children-books" count="25"/>
+      <shelf name="biblioteca" count="22"/>
+      <shelf name="youth" count="22"/>
+      <shelf name="german-lit" count="21"/>
+      <shelf name="20th-century" count="20"/>
+      <shelf name="favorite" count="20"/>
+      <shelf name="library" count="20"/>
+      <shelf name="favourites" count="19"/>
+      <shelf name="michael-ende" count="19"/>
+      <shelf name="childrens-literature" count="18"/>
+      <shelf name="childhood-memories" count="18"/>
+      <shelf name="childhood-books" count="18"/>
+      <shelf name="school" count="18"/>
+      <shelf name="ebook" count="17"/>
+      <shelf name="spanish" count="17"/>
+      <shelf name="germany" count="17"/>
+      <shelf name="sub" count="16"/>
+      <shelf name="5-stars" count="16"/>
+      <shelf name="sci-fi" count="16"/>
+      <shelf name="books" count="15"/>
+      <shelf name="klassiker" count="15"/>
+      <shelf name="kinderbuch" count="15"/>
+      <shelf name="re-read" count="15"/>
+      <shelf name="dystopia" count="14"/>
+      <shelf name="all-time-favorites" count="14"/>
+      <shelf name="kinderboeken" count="14"/>
+      <shelf name="my-library" count="14"/>
+      <shelf name="german-books" count="14"/>
+      <shelf name="german-language" count="13"/>
+      <shelf name="children-s-book" count="13"/>
+      <shelf name="childhood-favourites" count="13"/>
+      <shelf name="wish-list" count="13"/>
+      <shelf name="borrowed" count="12"/>
+      <shelf name="read-more-than-once" count="12"/>
+      <shelf name="kids-books" count="12"/>
+      <shelf name="sci-fi-fantasy" count="12"/>
+      <shelf name="philosophy" count="12"/>
+      <shelf name="read-2016" count="11"/>
+      <shelf name="read-in-2014" count="11"/>
+      <shelf name="tbr" count="11"/>
+      <shelf name="español" count="11"/>
+      <shelf name="translated" count="11"/>
+      <shelf name="finished" count="11"/>
+      <shelf name="german-authors" count="11"/>
+      <shelf name="children-s-literature" count="11"/>
+      <shelf name="read-in-2016" count="10"/>
+      <shelf name="1970s" count="10"/>
+      <shelf name="clasicos" count="10"/>
+      <shelf name="time" count="10"/>
+      <shelf name="audiobooks" count="10"/>
+      <shelf name="narrativa" count="10"/>
+      <shelf name="children-ya" count="10"/>
+      <shelf name="childrens-lit" count="10"/>
+      <shelf name="read-in-2015" count="9"/>
+      <shelf name="urban-fantasy" count="9"/>
+      <shelf name="my-bookshelf" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="kindheit" count="9"/>
+      <shelf name="all-time-favourites" count="9"/>
+      <shelf name="kinder" count="9"/>
+      <shelf name="auf-deutsch" count="9"/>
+      <shelf name="reviewed" count="9"/>
+      <shelf name="fantasy-sci-fi" count="9"/>
+      <shelf name="other" count="9"/>
+      <shelf name="owned-books" count="8"/>
+      <shelf name="shelfari-favorites" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1148052</id>
+<title>Die kleine Hexe</title>
+<title_without_series>Die kleine Hexe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1148052.Die_kleine_Hexe]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334150369s/1148052.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334150369m/1148052.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2799480</id>
+</work>
+<isbn>352210580X</isbn>
+<isbn13>9783522105804</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>6933</ratings_count>
+<publication_year>1957</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>127314</id>
+<name>Otfried Preußler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127314.Otfried_Preu_ler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>157551</id>
+<title>Oh, wie schön ist Panama</title>
+<title_without_series>Oh, wie schön ist Panama</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/157551.Oh_wie_sch_n_ist_Panama]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>152037</id>
+</work>
+<isbn>3407805330</isbn>
+<isbn13>9783407805331</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>4340</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>91148</id>
+<name>Janosch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/91148.Janosch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1306827</id>
+<title>Pünktchen und Anton</title>
+<title_without_series>Pünktchen und Anton</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1306827.P_nktchen_und_Anton]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>1296080</id>
+</work>
+<isbn>3423707313</isbn>
+<isbn13>9783423707312</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>5203</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6519</id>
+<name>Erich Kästner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6519.Erich_K_stner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>708465</id>
+<title>Die rote Zora und ihre Bande</title>
+<title_without_series>Die rote Zora und ihre Bande</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/708465.Die_rote_Zora_und_ihre_Bande]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>694739</id>
+</work>
+<isbn>3794101227</isbn>
+<isbn13>9783794101221</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1782</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>377591</id>
+<name>Kurt Held</name>
+<link><![CDATA[https://www.goodreads.com/author/show/377591.Kurt_Held]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2092839</id>
+<title><![CDATA[Eine Woche voller Samstage (Sams, #1)]]></title>
+<title_without_series>Eine Woche voller Samstage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2092839.Eine_Woche_voller_Samstage]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349272253s/2092839.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349272253m/2092839.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>2098198</id>
+</work>
+<isbn>3789119520</isbn>
+<isbn13>9783789119521</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>2624</ratings_count>
+<publication_year>1973</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>124332</id>
+<name>Paul Maar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/124332.Paul_Maar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>468940</id>
+<title>Immer dieser Michel</title>
+<title_without_series>Immer dieser Michel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/468940.Immer_dieser_Michel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1567196</id>
+</work>
+<isbn>3789129461</isbn>
+<isbn13>9783789129469</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>2232</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>410653</id>
+<name>Astrid Lindgren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410653.Astrid_Lindgren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1029194</id>
+<title><![CDATA[Märchenmond (Märchenmond - Magic Moon, #1)]]></title>
+<title_without_series>Märchenmond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1029194.M_rchenmond]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392987683s/1029194.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392987683m/1029194.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1427592</id>
+</work>
+<isbn>3453137205</isbn>
+<isbn13>9783453137202</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1807</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>40343</id>
+<name>Wolfgang Hohlbein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40343.Wolfgang_Hohlbein]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

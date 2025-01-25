@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13</id>
+  <title><![CDATA[The Ultimate Hitchhiker's Guide to the Galaxy]]></title>
+  <isbn><![CDATA[0345453743]]></isbn>
+  <isbn13><![CDATA[9780345453747]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B009OCBX38]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1404613595m/13.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1404613595s/13.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Del Rey Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[At last in paperback in one complete volume, here are the five novels from Douglas Adams's Hitchhiker series. <br /><br />"The Hitchhiker's Guide to the Galaxy"<br /><br />Seconds before the Earth is demolished for a galactic freeway, Arthur Dent is saved by Ford Prefect, a researcher for the revised Guide. Together they stick out their thumbs to the stars and begin a wild journey through time and space.<br /><br />"The Restaurant at the End of the Universe"<br /><br />Facing annihilation at the hands of warmongers is a curious time to crave tea. It could only happen to the cosmically displaced Arthur Dent and his comrades as they hurtle across the galaxy in a desperate search for a place to eat.<br /><br />"Life, the Universe and Everything"<br /><br />The unhappy inhabitants of planet Krikkit are sick of looking at the night sky- so they plan to destroy it. The universe, that is. Now only five individuals can avert Armageddon: mild-mannered Arthur Dent and his stalwart crew.<br /><br />"So Long, and Thanks for All the Fish"<br /><br />Back on Earth, Arthur Dent is ready to believe that the past eight years were all just a figment of his stressed-out imagination. But a gift-wrapped fishbowl with a cryptic inscription conspires to thrust him back to reality. So to speak.<br /><br />"Mostly Harmless"<br /><br />Just when Arthur Dent makes the terrible mistake of starting to enjoy life, all hell breaks loose. Can he save the Earth from total obliteration? Can he save the Guide from a hostile alien takeover? Can he save his daughter from herself?<br /><br />Also includes the short story "Young Zaphod Plays It Safe".]]></description>
+  <work>
+  <id type="integer">135328</id>
+  <books_count type="integer">32</books_count>
+  <best_book_id type="integer">13</best_book_id>
+  <reviews_count type="integer">339326</reviews_count>
+  <ratings_sum type="integer">1043476</ratings_sum>
+  <ratings_count type="integer">238535</ratings_count>
+  <text_reviews_count type="integer">4256</text_reviews_count>
+  <original_publication_year type="integer">1996</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">17</original_publication_day>
+  <original_title>The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:136419|4:66683|3:26440|2:6336|1:2657|total:238535</rating_dist>
+  <desc_user_id type="integer">18844579</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.37</average_rating>
+  <num_pages><![CDATA[815]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[222943]]></ratings_count>
+  <text_reviews_count><![CDATA[3477]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy]]></link>
+  <authors>
+<author>
+<id>4</id>
+<name>Douglas Adams</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1189120061p5/4.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1189120061p2/4.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4.Douglas_Adams]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>2058535</ratings_count>
+<text_reviews_count>43013</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy">The Ultimate Hitchhiker&#39;s Guide to the Galaxy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0345453743&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="75870"/>
+      <shelf name="currently-reading" count="8571"/>
+      <shelf name="favorites" count="3245"/>
+      <shelf name="science-fiction" count="2614"/>
+      <shelf name="sci-fi" count="2478"/>
+      <shelf name="fiction" count="1979"/>
+      <shelf name="humor" count="1225"/>
+      <shelf name="fantasy" count="933"/>
+      <shelf name="owned" count="839"/>
+      <shelf name="classics" count="551"/>
+      <shelf name="scifi" count="503"/>
+      <shelf name="books-i-own" count="495"/>
+      <shelf name="comedy" count="370"/>
+      <shelf name="sci-fi-fantasy" count="347"/>
+      <shelf name="humour" count="293"/>
+      <shelf name="favourites" count="225"/>
+      <shelf name="default" count="208"/>
+      <shelf name="series" count="196"/>
+      <shelf name="funny" count="178"/>
+      <shelf name="owned-books" count="163"/>
+      <shelf name="sf" count="160"/>
+      <shelf name="adventure" count="141"/>
+      <shelf name="novels" count="135"/>
+      <shelf name="kindle" count="134"/>
+      <shelf name="scifi-fantasy" count="131"/>
+      <shelf name="fantasy-sci-fi" count="127"/>
+      <shelf name="my-books" count="121"/>
+      <shelf name="library" count="106"/>
+      <shelf name="my-library" count="106"/>
+      <shelf name="to-buy" count="101"/>
+      <shelf name="douglas-adams" count="96"/>
+      <shelf name="classic" count="96"/>
+      <shelf name="english" count="89"/>
+      <shelf name="science" count="89"/>
+      <shelf name="british" count="82"/>
+      <shelf name="science-fiction-fantasy" count="81"/>
+      <shelf name="all-time-favorites" count="81"/>
+      <shelf name="literature" count="77"/>
+      <shelf name="space" count="76"/>
+      <shelf name="re-read" count="73"/>
+      <shelf name="i-own" count="71"/>
+      <shelf name="adult" count="69"/>
+      <shelf name="shelfari-favorites" count="68"/>
+      <shelf name="speculative-fiction" count="66"/>
+      <shelf name="ebook" count="63"/>
+      <shelf name="fantasy-scifi" count="63"/>
+      <shelf name="satire" count="62"/>
+      <shelf name="on-hold" count="61"/>
+      <shelf name="sci-fi-and-fantasy" count="60"/>
+      <shelf name="unfinished" count="59"/>
+      <shelf name="abandoned" count="58"/>
+      <shelf name="books" count="57"/>
+      <shelf name="ebooks" count="54"/>
+      <shelf name="novel" count="54"/>
+      <shelf name="aliens" count="53"/>
+      <shelf name="favorite" count="52"/>
+      <shelf name="young-adult" count="51"/>
+      <shelf name="favorite-books" count="51"/>
+      <shelf name="humorous" count="50"/>
+      <shelf name="adult-fiction" count="50"/>
+      <shelf name="1001-books" count="50"/>
+      <shelf name="own-it" count="50"/>
+      <shelf name="have" count="40"/>
+      <shelf name="sff" count="39"/>
+      <shelf name="fun" count="39"/>
+      <shelf name="to-re-read" count="38"/>
+      <shelf name="20th-century" count="38"/>
+      <shelf name="collection" count="36"/>
+      <shelf name="contemporary" count="36"/>
+      <shelf name="time-travel" count="35"/>
+      <shelf name="home-library" count="34"/>
+      <shelf name="bookshelf" count="33"/>
+      <shelf name="personal-library" count="32"/>
+      <shelf name="hardcover" count="32"/>
+      <shelf name="sf-fantasy" count="32"/>
+      <shelf name="on-my-shelf" count="31"/>
+      <shelf name="to-reread" count="30"/>
+      <shelf name="recommended" count="29"/>
+      <shelf name="faves" count="29"/>
+      <shelf name="wish-list" count="28"/>
+      <shelf name="science-fiction-and-fantasy" count="28"/>
+      <shelf name="anthology" count="28"/>
+      <shelf name="sciencefiction" count="27"/>
+      <shelf name="1001" count="27"/>
+      <shelf name="hilarious" count="26"/>
+      <shelf name="e-book" count="25"/>
+      <shelf name="space-opera" count="25"/>
+      <shelf name="omnibus" count="25"/>
+      <shelf name="e-books" count="25"/>
+      <shelf name="collections" count="24"/>
+      <shelf name="5-stars" count="23"/>
+      <shelf name="my-bookshelf" count="23"/>
+      <shelf name="nook" count="23"/>
+      <shelf name="my-favorites" count="23"/>
+      <shelf name="did-not-finish" count="23"/>
+      <shelf name="all-time-favourites" count="23"/>
+      <shelf name="philosophy" count="23"/>
+      <shelf name="partially-read" count="23"/>
+      <shelf name="audiobooks" count="23"/>
+      <shelf name="calibre" count="22"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>180766</id>
+<user_position>1-5 &amp; short story</user_position>
+<series>
+<id>40957</id>
+<title>
+<![CDATA[
+    Hitchhiker's Guide to the Galaxy
+]]>
+</title>
+<description>
+<![CDATA[
+    Each book in the series is (mostly) a whole story with a beginning and an end; however, the plot (and characters) of every book relies <i><b>very</b></i> heavily on the prior books in the series.
+    
+    Series also known as:
+    <i>* Guida galattica per gli autostoppisti</i> [Italian]
+    <i>* Štoparski vodnik po Galaksiji</i> [Slovenian]
+    <i>* Guía del autoestopista galáctico</i> [Spanish]</i>
+    <i>* Пътеводител на галактическия стопаджия</i> [Bulgarian]</i>
+    <i>* Le Guide du voyageur galactique</i> [French]
+    <i>* Linnunrata</i> [Finnish]
+    <i>* Otostopçunun Galaksi Rehberi</i> [Turkish]
+    <i>* Guia dos Mochileiros da Galáxia</i> [Brazilian Portuguese]
+    <i>* Per Anhalter durch die Galaxis</i> [German]
+    <i>* Het Transgalactisch liftershandboek</i> [Dutch]
+    <i>* Stopárov sprievodca galaxiou</i> [Slovak]
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>16</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>46654</id>
+<title><![CDATA[The Foundation Trilogy (Foundation, #1-3)]]></title>
+<title_without_series>The Foundation Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46654.The_Foundation_Trilogy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316412178s/46654.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316412178m/46654.jpg]]></image_url>
+<num_pages>679</num_pages>
+<work>
+<id>41350</id>
+</work>
+<isbn>0380508567</isbn>
+<isbn13>9780380508563</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>75261</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6777756</id>
+<title>H.G. Wells: Seven Novels</title>
+<title_without_series>H.G. Wells: Seven Novels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6777756-h-g-wells]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1383663159s/6777756.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1383663159m/6777756.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6978529</id>
+</work>
+<isbn>1435114906</isbn>
+<isbn13>9781435114906</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2423</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8704</id>
+<title>Starship Titanic</title>
+<title_without_series>Starship Titanic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8704.Starship_Titanic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328355201s/8704.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328355201m/8704.jpg]]></image_url>
+<num_pages>189</num_pages>
+<work>
+<id>11632</id>
+</work>
+<isbn>2290053651</isbn>
+<isbn13>9782290053652</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>9320</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>209</id>
+<name>Terry Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/209.Terry_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62567</id>
+<title>Schrödinger&apos;s Cat Trilogy</title>
+<title_without_series>Schrödinger&apos;s Cat Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62567.Schr_dinger_s_Cat_Trilogy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1433815495s/62567.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1433815495m/62567.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>1046770</id>
+</work>
+<isbn>0440500702</isbn>
+<isbn13>9780440500704</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>4186</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2918</id>
+<name>Robert Anton Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2918.Robert_Anton_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>57913</id>
+<title>The Illuminatus! Trilogy</title>
+<title_without_series>The Illuminatus! Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/57913.The_Illuminatus_Trilogy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>805</num_pages>
+<work>
+<id>813</id>
+</work>
+<isbn>0440539811</isbn>
+<isbn13>9780440539810</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>13152</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5752454</id>
+<name>Robert Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5752454.Robert_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>400354</id>
+<title><![CDATA[Men at Arms (Discworld, #15; City Watch #2)]]></title>
+<title_without_series>Men at Arms</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/400354.Men_at_Arms]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>377</num_pages>
+<work>
+<id>819071</id>
+</work>
+<isbn>0061092193</isbn>
+<isbn13>9780061092190</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>62302</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1654</id>
+<name>Terry Pratchett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76813</id>
+<title><![CDATA[Miles Errant (Vorkosigan Omnibus, #4)]]></title>
+<title_without_series>Miles Errant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76813.Miles_Errant]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>745</num_pages>
+<work>
+<id>74292</id>
+</work>
+<isbn>0743435583</isbn>
+<isbn13>9780743435581</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>3674</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16094</id>
+<name>Lois McMaster Bujold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9861626</id>
+<title><![CDATA[The Martian Chronicles/The Illustrated Man/The Golden Apples of the Sun]]></title>
+<title_without_series><![CDATA[The Martian Chronicles/The Illustrated Man/The Golden Apples of the Sun]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9861626-the-martian-chronicles-the-illustrated-man-the-golden-apples-of-the-sun]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332415558s/9861626.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332415558m/9861626.jpg]]></image_url>
+<num_pages>885</num_pages>
+<work>
+<id>14752954</id>
+</work>
+<isbn>1435129067</isbn>
+<isbn13>9781435129061</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1491</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1630</id>
+<name>Ray Bradbury</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1630.Ray_Bradbury]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3943</id>
+<title><![CDATA[The Hyperion Omnibus: Hyperion / The Fall of Hyperion]]></title>
+<title_without_series><![CDATA[The Hyperion Omnibus: Hyperion / The Fall of Hyperion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3943.The_Hyperion_Omnibus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>779</num_pages>
+<work>
+<id>7666</id>
+</work>
+<isbn>0575076267</isbn>
+<isbn13>9780575076266</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>2640</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2687</id>
+<name>Dan Simmons</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2136943</id>
+<title><![CDATA[American Gods / Anansi Boys: Coffret, 2 volumes]]></title>
+<title_without_series><![CDATA[American Gods / Anansi Boys: Coffret, 2 volumes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2136943.American_Gods_Anansi_Boys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330926294s/2136943.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330926294m/2136943.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6109298</id>
+</work>
+<isbn>2846261180</isbn>
+<isbn13>9782846261180</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1802</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>146842</id>
+<title><![CDATA[Time Travellers Strictly Cash (Callahan's #2)]]></title>
+<title_without_series>Time Travellers Strictly Cash</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/146842.Time_Travellers_Strictly_Cash]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>2095444</id>
+</work>
+<isbn>0812572289</isbn>
+<isbn13>9780812572285</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>3194</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>19317</id>
+<name>Spider Robinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19317.Spider_Robinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27001</id>
+<title><![CDATA[The Well of Lost Plots (Thursday Next #3)]]></title>
+<title_without_series>The Well of Lost Plots</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27001.The_Well_of_Lost_Plots]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1304713470s/27001.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1304713470m/27001.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>1116054</id>
+</work>
+<isbn>0143034359</isbn>
+<isbn13>9780143034353</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>31841</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4432</id>
+<name>Jasper Fforde</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4432.Jasper_Fforde]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10090</id>
+<title><![CDATA[Mountain of Black Glass (Otherland, #3)]]></title>
+<title_without_series>Mountain of Black Glass</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10090.Mountain_of_Black_Glass]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309992323s/10090.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309992323m/10090.jpg]]></image_url>
+<num_pages>749</num_pages>
+<work>
+<id>1023122</id>
+</work>
+<isbn>0886779065</isbn>
+<isbn13>9780886779061</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>12290</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6587</id>
+<name>Tad Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6587.Tad_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>70489</id>
+<title><![CDATA[There's Treasure Everywhere: A Calvin and Hobbes Collection]]></title>
+<title_without_series><![CDATA[There's Treasure Everywhere: A Calvin and Hobbes Collection]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/70489.There_s_Treasure_Everywhere]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>170846</id>
+</work>
+<isbn>0836213122</isbn>
+<isbn13>9780836213126</isbn13>
+<average_rating>4.74</average_rating>
+<ratings_count>17299</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13778</id>
+<name>Bill Watterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13778.Bill_Watterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53764</id>
+<title>The Great Dune Trilogy  </title>
+<title_without_series>The Great Dune Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53764.The_Great_Dune_Trilogy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1419962914s/53764.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1419962914m/53764.jpg]]></image_url>
+<num_pages>910</num_pages>
+<work>
+<id>551</id>
+</work>
+<isbn>0575070706</isbn>
+<isbn13>9780575070707</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>52102</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>58</id>
+<name>Frank Herbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>827</id>
+<title><![CDATA[The Diamond Age: or, A Young Lady's Illustrated Primer]]></title>
+<title_without_series><![CDATA[The Diamond Age: or, A Young Lady's Illustrated Primer]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/827.The_Diamond_Age]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>499</num_pages>
+<work>
+<id>2181158</id>
+</work>
+<isbn>0553380966</isbn>
+<isbn13>9780553380965</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>66665</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>545</id>
+<name>Neal Stephenson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

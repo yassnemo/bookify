@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10625</id>
+  <title>Dolores Claiborne</title>
+  <isbn><![CDATA[2266047426]]></isbn>
+  <isbn13><![CDATA[9782266047425]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B005OQDCJG]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1394213480m/10625.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1394213480s/10625.jpg</small_image_url>
+  <publication_year>1996</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Pocket</publisher>
+  <language_code>fre</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[À Little Tall, on ne sais toujours pas exactement ce qui s'est passé il y a trente ans, et si l'accident qui, le jour de l'éclipse, a coûté la vie au mari de Dolores Claiborne était vraiment un accident...<br /><br />Aujourd'hui, la vieille dame indigne est à nouveau soupçonnée : la riche et sénile Vera Donovan, dont elle est la gouvernante depuis des décennies, vient d'être découverte morte dans sa demeure.<br /><br />Seul témoin et seule héritière, Dolores fait figure de coupable idéale. Elle n'a désormais plus le choix : elle doit passer aux aveux. Raconter les étranges phobies qui habitaient sa maîtresse, se souvenir de l'horreur qu'elle a vécu il y a trente ans. Dire toute la vérité : une vérité terrifiante.]]></description>
+  <work>
+  <id type="integer">6560478</id>
+  <books_count type="integer">146</books_count>
+  <best_book_id type="integer">7278752</best_book_id>
+  <reviews_count type="integer">137945</reviews_count>
+  <ratings_sum type="integer">377379</ratings_sum>
+  <ratings_count type="integer">99026</ratings_count>
+  <text_reviews_count type="integer">1725</text_reviews_count>
+  <original_publication_year type="integer">1992</original_publication_year>
+  <original_publication_month type="integer">11</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Dolores Claiborne</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:28792|4:33552|3:27471|2:7587|1:1624|total:99026</rating_dist>
+  <desc_user_id type="integer">1237196</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[Mass Market Paperback]]></format>
+  <edition_information><![CDATA[Terreur]]></edition_information>
+  <ratings_count><![CDATA[71057]]></ratings_count>
+  <text_reviews_count><![CDATA[711]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10625.Dolores_Claiborne]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10625.Dolores_Claiborne]]></link>
+  <authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p5/3389.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p2/3389.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>10357276</ratings_count>
+<text_reviews_count>349176</text_reviews_count>
+</author>
+<author>
+<id>3069847</id>
+<name>Dominique Dill</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3069847.Dominique_Dill]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>71251</ratings_count>
+<text_reviews_count>722</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10625.Dolores_Claiborne">Dolores Claiborne Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=2266047426&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/10625.Dolores_Claiborne?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6076"/>
+      <shelf name="horror" count="1790"/>
+      <shelf name="stephen-king" count="1624"/>
+      <shelf name="thriller" count="299"/>
+      <shelf name="owned" count="292"/>
+      <shelf name="books-i-own" count="255"/>
+      <shelf name="mystery" count="229"/>
+      <shelf name="king" count="228"/>
+      <shelf name="default" count="201"/>
+      <shelf name="currently-reading" count="136"/>
+      <shelf name="favorites" count="114"/>
+      <shelf name="suspense" count="111"/>
+      <shelf name="owned-books" count="108"/>
+      <shelf name="fiction" count="105"/>
+      <shelf name="library" count="76"/>
+      <shelf name="crime" count="76"/>
+      <shelf name="my-library" count="64"/>
+      <shelf name="my-books" count="56"/>
+      <shelf name="adult" count="53"/>
+      <shelf name="drama" count="53"/>
+      <shelf name="horror-thriller" count="50"/>
+      <shelf name="novels" count="49"/>
+      <shelf name="king-stephen" count="46"/>
+      <shelf name="audiobook" count="43"/>
+      <shelf name="i-own" count="41"/>
+      <shelf name="stephenking" count="40"/>
+      <shelf name="movie" count="39"/>
+      <shelf name="mystery-thriller" count="37"/>
+      <shelf name="thrillers" count="36"/>
+      <shelf name="general-fiction" count="36"/>
+      <shelf name="adult-fiction" count="35"/>
+      <shelf name="kindle" count="34"/>
+      <shelf name="maine" count="34"/>
+      <shelf name="the-king" count="33"/>
+      <shelf name="ebooks" count="33"/>
+      <shelf name="ebook" count="33"/>
+      <shelf name="contemporary" count="33"/>
+      <shelf name="audio" count="32"/>
+      <shelf name="women" count="31"/>
+      <shelf name="english" count="31"/>
+      <shelf name="american" count="31"/>
+      <shelf name="own-it" count="28"/>
+      <shelf name="have" count="27"/>
+      <shelf name="hardcover" count="27"/>
+      <shelf name="audiobooks" count="27"/>
+      <shelf name="tie-in" count="26"/>
+      <shelf name="tales" count="25"/>
+      <shelf name="media" count="25"/>
+      <shelf name="horror-suspense" count="25"/>
+      <shelf name="s-king" count="24"/>
+      <shelf name="thriller-horror" count="24"/>
+      <shelf name="mystery-suspense" count="24"/>
+      <shelf name="home-library" count="24"/>
+      <shelf name="fantasy" count="24"/>
+      <shelf name="stephen" count="23"/>
+      <shelf name="paperback" count="22"/>
+      <shelf name="sk" count="22"/>
+      <shelf name="general" count="22"/>
+      <shelf name="psychological-thriller" count="21"/>
+      <shelf name="books" count="21"/>
+      <shelf name="novel" count="21"/>
+      <shelf name="tie-ins" count="20"/>
+      <shelf name="tv" count="20"/>
+      <shelf name="scary" count="20"/>
+      <shelf name="e-books" count="19"/>
+      <shelf name="steven-king" count="19"/>
+      <shelf name="stephen-king-read" count="19"/>
+      <shelf name="audio-books" count="19"/>
+      <shelf name="favourites" count="18"/>
+      <shelf name="thriller-suspense" count="18"/>
+      <shelf name="finished" count="18"/>
+      <shelf name="favorite" count="18"/>
+      <shelf name="read-in-2016" count="17"/>
+      <shelf name="stephen-king-books" count="17"/>
+      <shelf name="fiction-horror" count="17"/>
+      <shelf name="calibre" count="16"/>
+      <shelf name="to-buy" count="16"/>
+      <shelf name="1990s" count="16"/>
+      <shelf name="stephen-king-to-read" count="16"/>
+      <shelf name="re-read" count="15"/>
+      <shelf name="supernatural" count="15"/>
+      <shelf name="suspense-thriller" count="15"/>
+      <shelf name="book-club" count="15"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="murder" count="15"/>
+      <shelf name="family" count="14"/>
+      <shelf name="contemporary-fiction" count="14"/>
+      <shelf name="dark" count="14"/>
+      <shelf name="literature" count="14"/>
+      <shelf name="read-in-2017" count="13"/>
+      <shelf name="read-in-2014" count="13"/>
+      <shelf name="books-owned" count="13"/>
+      <shelf name="my-collection" count="13"/>
+      <shelf name="unread" count="13"/>
+      <shelf name="saw-the-movie" count="13"/>
+      <shelf name="horror-fiction" count="13"/>
+      <shelf name="read-in-2015" count="12"/>
+      <shelf name="terror" count="12"/>
+      <shelf name="abuse" count="12"/>
+      <shelf name="read-in-2013" count="12"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>10596</id>
+<title>The Regulators</title>
+<title_without_series>The Regulators</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10596.The_Regulators]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1364033309s/10596.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1364033309m/10596.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>955346</id>
+</work>
+<isbn>0451191013</isbn>
+<isbn13>9780451191014</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>53340</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5858</id>
+<name>Richard Bachman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5858.Richard_Bachman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32422</id>
+<title>Hideaway</title>
+<title_without_series>Hideaway</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32422.Hideaway]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>613832</id>
+</work>
+<isbn>0425203891</isbn>
+<isbn13>9780425203897</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>28657</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>9355</id>
+<name>Dean Koontz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9355.Dean_Koontz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>155426</id>
+<title><![CDATA[Fear Itself: The Horror Fiction of Stephen King]]></title>
+<title_without_series><![CDATA[Fear Itself: The Horror Fiction of Stephen King]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/155426.Fear_Itself]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1271856470s/155426.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1271856470m/155426.jpg]]></image_url>
+<num_pages>255</num_pages>
+<work>
+<id>150028</id>
+</work>
+<isbn>0934438595</isbn>
+<isbn13>9780934438599</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>196</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18348</id>
+<name>Chuck Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18348.Chuck_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6980553</id>
+<title><![CDATA[Stephen King Illustrated Companion Manuscripts, Correspondence, Drawings, and Memorabilia from the Master of Modern Horror]]></title>
+<title_without_series><![CDATA[Stephen King Illustrated Companion Manuscripts, Correspondence, Drawings, and Memorabilia from the Master of Modern Horror]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6980553-stephen-king-illustrated-companion-manuscripts-correspondence-drawings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7222310</id>
+</work>
+<isbn>1435117662</isbn>
+<isbn13>9781435117662</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>2325</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3469</id>
+<name>Bev Vincent</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3469.Bev_Vincent]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11532</id>
+<title>Night Visions 5</title>
+<title_without_series>Night Visions 5</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11532.Night_Visions_5]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1289330105s/11532.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1289330105m/11532.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>88730</id>
+</work>
+<isbn>0913165328</isbn>
+<isbn13>9780913165324</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1362</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18351</id>
+<name>Douglas E. Winter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18351.Douglas_E_Winter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>459869</id>
+<title>Others</title>
+<title_without_series>Others</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/459869.Others]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>504</num_pages>
+<work>
+<id>1717211</id>
+</work>
+<isbn>0330376128</isbn>
+<isbn13>9780330376129</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>3173</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>80984</id>
+<name>James Herbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80984.James_Herbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>906491</id>
+<title>The Throat</title>
+<title_without_series>The Throat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/906491.The_Throat]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309212454s/906491.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309212454m/906491.jpg]]></image_url>
+<num_pages>704</num_pages>
+<work>
+<id>926265</id>
+</work>
+<isbn>0451179188</isbn>
+<isbn13>9780451179180</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>3095</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6941</id>
+<name>Peter Straub</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6941.Peter_Straub]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>348599</id>
+<title><![CDATA[The Girl Who Loved Tom Gordon: A Pop-up Book]]></title>
+<title_without_series><![CDATA[The Girl Who Loved Tom Gordon: A Pop-up Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/348599.The_Girl_Who_Loved_Tom_Gordon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>16</num_pages>
+<work>
+<id>49994379</id>
+</work>
+<isbn>0689862725</isbn>
+<isbn13>9780689862724</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2694</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>607</id>
+<name>Peter Abrahams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/607.Peter_Abrahams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>906622</id>
+<title>I Shudder at Your Touch</title>
+<title_without_series>I Shudder at Your Touch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/906622.I_Shudder_at_Your_Touch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>408</num_pages>
+<work>
+<id>150225</id>
+</work>
+<isbn>0451451600</isbn>
+<isbn13>9780451451606</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>1468</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7644993</id>
+<name>Michele Slung</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7644993.Michele_Slung]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11548</id>
+<title>Mine</title>
+<title_without_series>Mine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11548.Mine]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1340796884s/11548.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1340796884m/11548.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>16692628</id>
+</work>
+<isbn>0671739441</isbn>
+<isbn13>9780671739447</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>7813</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5244478</id>
+<name>Robert McCammon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5244478.Robert_McCammon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>908092</id>
+<title>The God Project</title>
+<title_without_series>The God Project</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/908092.The_God_Project]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320462134s/908092.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320462134m/908092.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>893232</id>
+</work>
+<isbn>0553262580</isbn>
+<isbn13>9780553262582</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>8961</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4387</id>
+<name>John Saul</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4387.John_Saul]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

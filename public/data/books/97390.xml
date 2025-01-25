@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>97390</id>
+  <title>Горе от ума</title>
+  <isbn><![CDATA[5080039159]]></isbn>
+  <isbn13><![CDATA[9785080039157]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1342993233m/97390.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1342993233s/97390.jpg</small_image_url>
+  <publication_year>2001</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>rus</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["Горе от ума" - одна из первых русских комедий, разодранных на пословицы и поговорки, которыми до сих пор украшена речь всякого мало-мальски начитанного человека.<br />"Горе от ума" - комедия, давшая русской литературе первого "лишнего человека".<br />Эта комедия с трагическим, в сущности, финалом - поистине "русская комедия" с отчетливым горьким осадком и бесконечным сочувствием герою.<br />Издание снабжено комментарием, а также отрывками из статей А.С.Пушкина, И.А.Гончарова и А.Григорьева, посвященных комедии "Горе от ума", что, несомненно, поможет всем, кто изучает русскую словесность.]]></description>
+  <work>
+  <id type="integer">93879</id>
+  <books_count type="integer">32</books_count>
+  <best_book_id type="integer">97390</best_book_id>
+  <reviews_count type="integer">11814</reviews_count>
+  <ratings_sum type="integer">40047</ratings_sum>
+  <ratings_count type="integer">9698</ratings_count>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <original_publication_year type="integer">1825</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Горе от ума </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4516|4:2793|3:1676|2:554|1:159|total:9698</rating_dist>
+  <desc_user_id type="integer">-110</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.13</average_rating>
+  <num_pages><![CDATA[206]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9295]]></ratings_count>
+  <text_reviews_count><![CDATA[22]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/97390._]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/97390._]]></link>
+  <authors>
+<author>
+<id>14553305</id>
+<name>Aleksandr Griboyedov</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1446991877p5/14553305.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1446991877p2/14553305.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14553305.Aleksandr_Griboyedov]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>9977</ratings_count>
+<text_reviews_count>45</text_reviews_count>
+</author>
+<author>
+<id>14778569</id>
+<name>Александр Сергеевич Грибоедов</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14778569._]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>9304</ratings_count>
+<text_reviews_count>23</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/97390._">Горе от ума Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=5080039159&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/97390._?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="463"/>
+      <shelf name="russian" count="78"/>
+      <shelf name="classics" count="40"/>
+      <shelf name="favorites" count="39"/>
+      <shelf name="fiction" count="34"/>
+      <shelf name="russian-literature" count="32"/>
+      <shelf name="classic" count="31"/>
+      <shelf name="poetry" count="28"/>
+      <shelf name="russian-classics" count="22"/>
+      <shelf name="plays" count="16"/>
+      <shelf name="russia" count="15"/>
+      <shelf name="currently-reading" count="13"/>
+      <shelf name="drama" count="13"/>
+      <shelf name="in-russian" count="10"/>
+      <shelf name="school" count="9"/>
+      <shelf name="read-in-russian" count="8"/>
+      <shelf name="russian-classic" count="8"/>
+      <shelf name="russian-lit" count="7"/>
+      <shelf name="russian-books" count="7"/>
+      <shelf name="19th-century" count="7"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="play" count="6"/>
+      <shelf name="русский" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="books-i-own" count="5"/>
+      <shelf name="theatre" count="4"/>
+      <shelf name="humour" count="4"/>
+      <shelf name="russian-fiction" count="4"/>
+      <shelf name="to-reread" count="3"/>
+      <shelf name="school-stuff" count="3"/>
+      <shelf name="rus" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="Русская-литература" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="xix" count="3"/>
+      <shelf name="the-classics" count="3"/>
+      <shelf name="классика" count="3"/>
+      <shelf name="school-programme" count="3"/>
+      <shelf name="to-re-read" count="3"/>
+      <shelf name="Русская-классика" count="2"/>
+      <shelf name="past" count="2"/>
+      <shelf name="russian-classic-literature" count="2"/>
+      <shelf name="faves" count="2"/>
+      <shelf name="read-before-goodreads" count="2"/>
+      <shelf name="thorough" count="2"/>
+      <shelf name="littérature-russe" count="2"/>
+      <shelf name="school-reading" count="2"/>
+      <shelf name="exams" count="2"/>
+      <shelf name="poems" count="2"/>
+      <shelf name="5-star" count="2"/>
+      <shelf name="classic-fiction" count="2"/>
+      <shelf name="comedy" count="2"/>
+      <shelf name="5-stars" count="2"/>
+      <shelf name="mother-russia" count="2"/>
+      <shelf name="satire" count="2"/>
+      <shelf name="romance" count="2"/>
+      <shelf name="ru" count="2"/>
+      <shelf name="xix-century" count="2"/>
+      <shelf name="literature-russian" count="2"/>
+      <shelf name="childhood" count="2"/>
+      <shelf name="read-in-2012" count="2"/>
+      <shelf name="read-in-original" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="1820s" count="2"/>
+      <shelf name="historical" count="2"/>
+      <shelf name="επόμενα" count="1"/>
+      <shelf name="school-literature" count="1"/>
+      <shelf name="ru-books" count="1"/>
+      <shelf name="read-in-school" count="1"/>
+      <shelf name="world-literature" count="1"/>
+      <shelf name="country-russia" count="1"/>
+      <shelf name="рассея-матушка" count="1"/>
+      <shelf name="russian-tbr" count="1"/>
+      <shelf name="2000-2012" count="1"/>
+      <shelf name="physical-book" count="1"/>
+      <shelf name="a-book-read-95-to-99" count="1"/>
+      <shelf name="1978" count="1"/>
+      <shelf name="ruski" count="1"/>
+      <shelf name="briefly" count="1"/>
+      <shelf name="2008-2010" count="1"/>
+      <shelf name="entrance-exam" count="1"/>
+      <shelf name="audible-c" count="1"/>
+      <shelf name="audible-buy-list" count="1"/>
+      <shelf name="to-reread-tentative" count="1"/>
+      <shelf name="nr" count="1"/>
+      <shelf name="vene-gymna-kohustuslik" count="1"/>
+      <shelf name="8" count="1"/>
+      <shelf name="russian-ukrainian-classics" count="1"/>
+      <shelf name="maybe" count="1"/>
+      <shelf name="must" count="1"/>
+      <shelf name="translated-in-greek" count="1"/>
+      <shelf name="language-russian" count="1"/>
+      <shelf name="books-i-always-meant-to-read" count="1"/>
+      <shelf name="awesome-stuff" count="1"/>
+      <shelf name="Перечитка" count="1"/>
+      <shelf name="best-books" count="1"/>
+      <shelf name="read-before-2007" count="1"/>
+      <shelf name="favourite-books" count="1"/>
+      <shelf name="rc100read" count="1"/>
+      <shelf name="золотой-век" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>111750</id>
+<title>The Tale of Tsar Saltan</title>
+<title_without_series>The Tale of Tsar Saltan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/111750.The_Tale_of_Tsar_Saltan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1726847</id>
+</work>
+<isbn>0803720017</isbn>
+<isbn13>9780803720015</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>6232</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16070</id>
+<name>Alexander Pushkin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16070.Alexander_Pushkin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1243773</id>
+<title>Маскарад</title>
+<title_without_series>Маскарад</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1243773._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>140</num_pages>
+<work>
+<id>1232478</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>786</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15538</id>
+<name>Mikhail Lermontov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15538.Mikhail_Lermontov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>195680</id>
+<title><![CDATA[Village Evenings Near Dikanka and Mirgorod]]></title>
+<title_without_series><![CDATA[Village Evenings Near Dikanka and Mirgorod]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/195680.Village_Evenings_Near_Dikanka_and_Mirgorod]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1371328997s/195680.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1371328997m/195680.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>189249</id>
+</work>
+<isbn>0192828800</isbn>
+<isbn13>9780192828804</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7652</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>12</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>232932</id>
+<name>Nikolai Gogol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232932.Nikolai_Gogol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>805632</id>
+<title><![CDATA[The Garnet Bracelet, and Other Stories]]></title>
+<title_without_series><![CDATA[The Garnet Bracelet, and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/805632.The_Garnet_Bracelet_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>791583</id>
+</work>
+<isbn>1410102351</isbn>
+<isbn13>9781410102355</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3669</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24951</id>
+<name>Aleksandr Ivanovich Kuprin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24951.Aleksandr_Ivanovich_Kuprin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>197132</id>
+<title>The Collected Poems</title>
+<title_without_series>The Collected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/197132.The_Collected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330669542s/197132.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330669542m/197132.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>190678</id>
+</work>
+<isbn>0970580304</isbn>
+<isbn13>9780970580306</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>3801</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>887400</id>
+<name>Sergei Yesenin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/887400.Sergei_Yesenin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>333657</id>
+<title>The Storm</title>
+<title_without_series>The Storm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/333657.The_Storm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>919214</id>
+</work>
+<isbn>1406938556</isbn>
+<isbn13>9781406938555</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>2273</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>17057148</id>
+<name>Aleksandr Ostrovsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17057148.Aleksandr_Ostrovsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>879879</id>
+<title>Mumu</title>
+<title_without_series>Mumu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/879879.Mumu]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1886203</id>
+</work>
+<isbn>1425469272</isbn>
+<isbn13>9781425469276</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>6448</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>410680</id>
+<name>Ivan Turgenev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410680.Ivan_Turgenev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3402763</id>
+<title>Nedorosl</title>
+<title_without_series>Nedorosl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3402763-nedorosl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334134313s/3402763.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334134313m/3402763.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>3442893</id>
+</work>
+<isbn>5170427131</isbn>
+<isbn13></isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>1020</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5557238</id>
+<name>Denis Fonvizin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5557238.Denis_Fonvizin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1243899</id>
+<title><![CDATA[Золотой Ключик, или Приключения Буратино]]></title>
+<title_without_series><![CDATA[Золотой Ключик, или Приключения Буратино]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1243899._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1232631</id>
+</work>
+<isbn>5699009965</isbn>
+<isbn13></isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>3885</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1255971</id>
+<name>Aleksey Nikolayevich Tolstoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1255971.Aleksey_Nikolayevich_Tolstoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1268784</id>
+<title>Тёмные аллеи</title>
+<title_without_series>Тёмные аллеи</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1268784._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>2247887</id>
+</work>
+<isbn>5352002373</isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>3502</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14167341</id>
+<name>Ivan Bunin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14167341.Ivan_Bunin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1479939</id>
+<title><![CDATA[Волшебник Изумрудного города (Волшебник Изумрудного города, #1)]]></title>
+<title_without_series>Волшебник Изумрудного города</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1479939._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>1471006</id>
+</work>
+<isbn>589537686X</isbn>
+<isbn13>9785895376867</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>5081</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>674125</id>
+<name>Alexander Volkov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/674125.Alexander_Volkov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2199631</id>
+<title><![CDATA[Krylov's Fables (Classics of Russian literature)]]></title>
+<title_without_series>Krylov&apos;s Fables</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2199631.Krylov_s_Fables]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1336226694s/2199631.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1336226694m/2199631.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2205385</id>
+</work>
+<isbn>0883554895</isbn>
+<isbn13>9780883554890</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>713</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>996374</id>
+<name>Ivan Krylov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/996374.Ivan_Krylov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1198981</id>
+<title>Приключения Незнайки</title>
+<title_without_series>Приключения Незнайки</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1198981._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>1187101</id>
+</work>
+<isbn>5955504605</isbn>
+<isbn13></isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>5960</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13531795</id>
+<name>Nikolay Nosov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13531795.Nikolay_Nosov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1985586</id>
+<title>Дядя Фёдор, пёс и кот</title>
+<title_without_series>Дядя Фёдор, пёс и кот</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1985586._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332066751s/1985586.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332066751m/1985586.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>1989132</id>
+</work>
+<isbn>5170045522</isbn>
+<isbn13>9785170045525</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>2651</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>902079</id>
+<name>Eduard Uspensky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/902079.Eduard_Uspensky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>158479</id>
+<title>Two Captains</title>
+<title_without_series>Two Captains</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/158479.Two_Captains]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>573507</id>
+</work>
+<isbn>1410103285</isbn>
+<isbn13>9781410103284</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>2551</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9790201</id>
+<name>Veniamin Kaverin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9790201.Veniamin_Kaverin]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

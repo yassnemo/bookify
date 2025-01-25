@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>24965</id>
+  <title>Fear and Trembling</title>
+  <isbn><![CDATA[0143037579]]></isbn>
+  <isbn13><![CDATA[9780143037576]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01E3IKX24]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1309286516m/24965.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1309286516s/24965.jpg</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>Penguin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Soren Kierkegaard was a Danish philosopher, theologian and religious author interested in human psychology. He is regarded as a leading pioneer of existentialism and one of the greatest philosophers of the 19th Century.<br /><br />In <i>Fear and Trembling</i>, Kierkegaard wanted to understand the anxiety that must have been present in Abraham when God commanded him to offer his son as a human sacrifice. Abraham had a choice to complete the task or to forget it. He resigned himself to the loss of his son, acting according to his faith. In other words, one must be willing to give up all his or her earthly possessions in infinite resignation and must also be willing to give up whatever it is that he or she loves more than God. Abraham had passed the test -- his love for God proved greater than anything else in him. And because a good and just Creator would not want a father to kill his son, God intervened at the last moment to prevent the sacrifice.]]></description>
+  <work>
+  <id type="integer">813445</id>
+  <books_count type="integer">138</books_count>
+  <best_book_id type="integer">24965</best_book_id>
+  <reviews_count type="integer">42114</reviews_count>
+  <ratings_sum type="integer">54228</ratings_sum>
+  <ratings_count type="integer">13514</ratings_count>
+  <text_reviews_count type="integer">639</text_reviews_count>
+  <original_publication_year type="integer">1843</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Frygt og Bæven</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5006|4:4866|3:2716|2:660|1:266|total:13514</rating_dist>
+  <desc_user_id type="integer">52527511</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.01</average_rating>
+  <num_pages><![CDATA[160]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10988]]></ratings_count>
+  <text_reviews_count><![CDATA[397]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/24965.Fear_and_Trembling]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/24965.Fear_and_Trembling]]></link>
+  <authors>
+<author>
+<id>6172</id>
+<name>Søren Kierkegaard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202410387p5/6172.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202410387p2/6172.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6172.S_ren_Kierkegaard]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>48094</ratings_count>
+<text_reviews_count>2180</text_reviews_count>
+</author>
+<author>
+<id>57193</id>
+<name>Alastair Hannay</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57193.Alastair_Hannay]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>18447</ratings_count>
+<text_reviews_count>683</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/24965.Fear_and_Trembling">Fear and Trembling Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0143037579&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/24965.Fear_and_Trembling?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="628"/>
+      <shelf name="non-fiction" count="285"/>
+      <shelf name="religion" count="206"/>
+      <shelf name="favorites" count="161"/>
+      <shelf name="classics" count="125"/>
+      <shelf name="theology" count="111"/>
+      <shelf name="existentialism" count="74"/>
+      <shelf name="owned" count="67"/>
+      <shelf name="christianity" count="46"/>
+      <shelf name="currently-reading" count="43"/>
+      <shelf name="philosophy" count="34"/>
+      <shelf name="19th-century" count="32"/>
+      <shelf name="danish" count="30"/>
+      <shelf name="christian" count="29"/>
+      <shelf name="books-i-own" count="29"/>
+      <shelf name="nonfiction" count="27"/>
+      <shelf name="scandinavian" count="27"/>
+      <shelf name="to-buy" count="27"/>
+      <shelf name="philosophy-religion" count="23"/>
+      <shelf name="psychology" count="23"/>
+      <shelf name="fiction" count="22"/>
+      <shelf name="to-read-philosophy" count="21"/>
+      <shelf name="default" count="19"/>
+      <shelf name="spirituality" count="19"/>
+      <shelf name="theory" count="17"/>
+      <shelf name="favourites" count="17"/>
+      <shelf name="classic" count="17"/>
+      <shelf name="library" count="17"/>
+      <shelf name="wish-list" count="16"/>
+      <shelf name="owned-books" count="16"/>
+      <shelf name="literature" count="14"/>
+      <shelf name="to-read-non-fiction" count="14"/>
+      <shelf name="phil" count="14"/>
+      <shelf name="lost" count="14"/>
+      <shelf name="spiritual" count="14"/>
+      <shelf name="filosofía" count="13"/>
+      <shelf name="philosophical" count="13"/>
+      <shelf name="denmark" count="13"/>
+      <shelf name="filosofia" count="13"/>
+      <shelf name="art-of-manliness" count="12"/>
+      <shelf name="my-library" count="12"/>
+      <shelf name="religion-philosophy" count="12"/>
+      <shelf name="school" count="12"/>
+      <shelf name="penguin-great-ideas" count="12"/>
+      <shelf name="religious" count="11"/>
+      <shelf name="existential" count="11"/>
+      <shelf name="abandoned" count="11"/>
+      <shelf name="academic" count="11"/>
+      <shelf name="translated" count="11"/>
+      <shelf name="faith" count="11"/>
+      <shelf name="kindle" count="10"/>
+      <shelf name="ethics" count="10"/>
+      <shelf name="college" count="10"/>
+      <shelf name="must-read" count="10"/>
+      <shelf name="essays" count="9"/>
+      <shelf name="فلسفه" count="8"/>
+      <shelf name="philo" count="8"/>
+      <shelf name="unfinished" count="8"/>
+      <shelf name="scandinavia" count="8"/>
+      <shelf name="philosphy" count="8"/>
+      <shelf name="philosophy-and-religion" count="8"/>
+      <shelf name="partially-read" count="8"/>
+      <shelf name="philosophy-to-read" count="8"/>
+      <shelf name="translation" count="8"/>
+      <shelf name="danish-literature" count="8"/>
+      <shelf name="lost-books" count="8"/>
+      <shelf name="philosophy-theory" count="8"/>
+      <shelf name="religion-theology" count="8"/>
+      <shelf name="philosophy-psychology" count="7"/>
+      <shelf name="home-library" count="7"/>
+      <shelf name="philosophy-theology" count="7"/>
+      <shelf name="to-re-read" count="7"/>
+      <shelf name="philosophie" count="7"/>
+      <shelf name="100-must-read-books-the-essential" count="7"/>
+      <shelf name="torrey" count="7"/>
+      <shelf name="classic-literature" count="7"/>
+      <shelf name="1840s" count="7"/>
+      <shelf name="1800s" count="7"/>
+      <shelf name="re-read" count="7"/>
+      <shelf name="religion-spirituality" count="6"/>
+      <shelf name="philosophy-of-religion" count="6"/>
+      <shelf name="continental-philosophy" count="6"/>
+      <shelf name="folio-society" count="6"/>
+      <shelf name="filosofi" count="6"/>
+      <shelf name="short" count="6"/>
+      <shelf name="aom" count="6"/>
+      <shelf name="to-read-nonfiction" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="lost-book-club" count="6"/>
+      <shelf name="penguin-classics" count="6"/>
+      <shelf name="lost-lit" count="6"/>
+      <shelf name="great-books" count="6"/>
+      <shelf name="soren-kierkegaard" count="5"/>
+      <shelf name="collection" count="5"/>
+      <shelf name="reference" count="5"/>
+      <shelf name="religion-and-spirituality" count="5"/>
+      <shelf name="want-to-buy" count="5"/>
+      <shelf name="filozofija" count="5"/>
+      <shelf name="essential-man-s-library" count="5"/>
+      <shelf name="next" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>3311228</id>
+<title>The Young Man&apos;s Guide</title>
+<title_without_series>The Young Man&apos;s Guide</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3311228-the-young-man-s-guide]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3348447</id>
+</work>
+<isbn>1437806813</isbn>
+<isbn13>9781437806816</isbn13>
+<average_rating>3.51</average_rating>
+<ratings_count>521</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>349146</id>
+<name>William A. Alcott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/349146.William_A_Alcott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>530748</id>
+<title><![CDATA[Essential Manners for Men: What to Do, When to Do It, and Why]]></title>
+<title_without_series><![CDATA[Essential Manners for Men: What to Do, When to Do It, and Why]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/530748.Essential_Manners_for_Men]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>518376</id>
+</work>
+<isbn>0060539801</isbn>
+<isbn13>9780060539801</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>759</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>105457</id>
+<name>Peter  Post</name>
+<link><![CDATA[https://www.goodreads.com/author/show/105457.Peter_Post]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>826885</id>
+<title>American Boys Handy Book</title>
+<title_without_series>American Boys Handy Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/826885.American_Boys_Handy_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>441</num_pages>
+<work>
+<id>812611</id>
+</work>
+<isbn>0879234490</isbn>
+<isbn13>9780879234492</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>987</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1527190</id>
+<name>Daniel Carter Beard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1527190.Daniel_Carter_Beard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107284</id>
+<title><![CDATA[Seek: Reports from the Edges of America and Beyond]]></title>
+<title_without_series><![CDATA[Seek: Reports from the Edges of America and Beyond]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107284.Seek]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>25025979</id>
+</work>
+<isbn>0060930470</isbn>
+<isbn13>9780060930479</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1166</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>6468</id>
+<name>Denis Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6468.Denis_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>148488</id>
+<title>The Essence of Christianity</title>
+<title_without_series>The Essence of Christianity</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/148488.The_Essence_of_Christianity]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365463959s/148488.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365463959m/148488.jpg]]></image_url>
+<num_pages>363</num_pages>
+<work>
+<id>1968844</id>
+</work>
+<isbn>0879755598</isbn>
+<isbn13>9780879755591</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>489</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>85920</id>
+<name>Ludwig Feuerbach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85920.Ludwig_Feuerbach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>346074</id>
+<title>Monadology</title>
+<title_without_series>Monadology</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/346074.Monadology]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>14377158</id>
+</work>
+<isbn>0822954494</isbn>
+<isbn13>9780822954491</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>689</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>1340566</id>
+<name>Gottfried Wilhelm Leibniz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1340566.Gottfried_Wilhelm_Leibniz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>913719</id>
+<title><![CDATA[The Book of Deeds of Arms and of Chivalry]]></title>
+<title_without_series><![CDATA[The Book of Deeds of Arms and of Chivalry]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/913719.The_Book_of_Deeds_of_Arms_and_of_Chivalry]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369161706s/913719.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369161706m/913719.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>898817</id>
+</work>
+<isbn>027101881X</isbn>
+<isbn13>9780271018812</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>419</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>4</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>51133</id>
+<name>Christine de Pizan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51133.Christine_de_Pizan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>203310</id>
+<title>Poetry, Language, Thought</title>
+<title_without_series>Poetry, Language, Thought</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/203310.Poetry_Language_Thought]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379035910s/203310.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379035910m/203310.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1959213</id>
+</work>
+<isbn>0060937289</isbn>
+<isbn13>9780060937287</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>2881</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6191</id>
+<name>Martin Heidegger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6191.Martin_Heidegger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>175141</id>
+<title>The Courage to Be</title>
+<title_without_series>The Courage to Be</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/175141.The_Courage_to_Be]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>1261052</id>
+</work>
+<isbn>0300084714</isbn>
+<isbn13>9780300084719</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>2266</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>41343</id>
+<name>Paul Tillich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41343.Paul_Tillich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19510</id>
+<title>Essays and Aphorisms</title>
+<title_without_series>Essays and Aphorisms</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19510.Essays_and_Aphorisms]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>20739</id>
+</work>
+<isbn>0140442278</isbn>
+<isbn13>9780140442274</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>7142</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>11682</id>
+<name>Arthur Schopenhauer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11682.Arthur_Schopenhauer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>83169</id>
+<title><![CDATA[Boy Scouts of America : The Official Handbook for Boys (Reprint of Original 1911 Edition)]]></title>
+<title_without_series><![CDATA[Boy Scouts of America : The Official Handbook for Boys]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83169.Boy_Scouts_of_America_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328756846s/83169.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328756846m/83169.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>51613052</id>
+</work>
+<isbn>1557094411</isbn>
+<isbn13>9781557094414</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>290</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>47515</id>
+<name>Boy Scouts of America</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47515.Boy_Scouts_of_America]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>83276</id>
+<title><![CDATA[Why I Am So Wise (Great Ideas)]]></title>
+<title_without_series>Why I Am So Wise</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83276.Why_I_Am_So_Wise]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1109333</id>
+</work>
+<isbn>0143036343</isbn>
+<isbn13>9780143036340</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>1024</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>1938</id>
+<name>Friedrich Nietzsche</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>572243</id>
+<title>Strenuous Life</title>
+<title_without_series>Strenuous Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/572243.Strenuous_Life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328756745s/572243.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328756745m/572243.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>559271</id>
+</work>
+<isbn>1557091420</isbn>
+<isbn13>9781557091420</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>674</ratings_count>
+<publication_year>1970</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>44567</id>
+<name>Theodore Roosevelt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44567.Theodore_Roosevelt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>449407</id>
+<title>Pensées</title>
+<title_without_series>Pensées</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/449407.Pens_es]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>3102980</id>
+</work>
+<isbn>0140446451</isbn>
+<isbn13></isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>8945</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>7</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>10994</id>
+<name>Blaise Pascal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10994.Blaise_Pascal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>159994</id>
+<title><![CDATA[A Treatise Concerning the Principles of Human Knowledge]]></title>
+<title_without_series><![CDATA[A Treatise Concerning the Principles of Human Knowledge]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/159994.A_Treatise_Concerning_the_Principles_of_Human_Knowledge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1430265</id>
+</work>
+<isbn>1420926985</isbn>
+<isbn13>9781420926989</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>2229</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>92770</id>
+<name>George Berkeley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92770.George_Berkeley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12073</id>
+<title>Philosophical Investigations</title>
+<title_without_series>Philosophical Investigations</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12073.Philosophical_Investigations]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2078450</id>
+</work>
+<isbn>0631231277</isbn>
+<isbn13>9780631231271</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>10092</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>7672</id>
+<name>Ludwig Wittgenstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7672.Ludwig_Wittgenstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>60080</id>
+<title><![CDATA[Groundwork of the Metaphysics of Morals]]></title>
+<title_without_series><![CDATA[Groundwork of the Metaphysics of Morals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/60080.Groundwork_of_the_Metaphysics_of_Morals]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1398209445s/60080.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1398209445m/60080.jpg]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>375997</id>
+</work>
+<isbn>0521626951</isbn>
+<isbn13>9780521626958</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>10621</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>11038</id>
+<name>Immanuel Kant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11038.Immanuel_Kant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>340960</id>
+<title>Theaetetus</title>
+<title_without_series>Theaetetus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/340960.Theaetetus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>1195353</id>
+</work>
+<isbn>0140444505</isbn>
+<isbn13>9780140444506</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3674</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>879</id>
+<name>Plato</name>
+<link><![CDATA[https://www.goodreads.com/author/show/879.Plato]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

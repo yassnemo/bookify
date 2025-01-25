@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7779</id>
+  <title>Horton Hears a Who!</title>
+  <isbn><![CDATA[0679800034]]></isbn>
+  <isbn13><![CDATA[9780679800033]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1327924655m/7779.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327924655s/7779.jpg</small_image_url>
+  <publication_year>1990</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>10</publication_day>
+  <publisher>Random House Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Surely among the most lovable of all Dr. Seuss creations, Horton the Elephant represents kindness, trustworthiness, and perseverance - all wrapped up, thank goodness, in a comical and even absurd package. <br /><br />Horton hears a cry for help from a speck of dust, and spends much of the book trying to protect the infinitesimal creatures who live on it from the derision and trickery of other animals, who think their elephant friend has gone quite nutty. <br /><br />But worse is in store: an eagle carries away the clover in which Horton has placed the life-bearing speck, and "let that small clover drop somewhere inside/of a great patch of clovers a hundred miles wide!" <br /><br />Horton wins in the end, after persuading the "Who's" to make as much noise as possible and prove their existence. <br /><br />This classic is not only fun, but a great way to introduce thoughtful children to essentially philosophical questions. How, after all, are we so sure there aren't invisible civilizations floating by on every mote? (Ages 4 to 8) <br /> - Richard Farr]]></description>
+  <work>
+  <id type="integer">933973</id>
+  <books_count type="integer">37</books_count>
+  <best_book_id type="integer">7779</best_book_id>
+  <reviews_count type="integer">114571</reviews_count>
+  <ratings_sum type="integer">346600</ratings_sum>
+  <ratings_count type="integer">83253</ratings_count>
+  <text_reviews_count type="integer">1122</text_reviews_count>
+  <original_publication_year type="integer">1954</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Horton Hears a Who!</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:39057|4:24314|3:15444|2:3289|1:1149|total:83253</rating_dist>
+  <desc_user_id type="integer">1525599</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.16</average_rating>
+  <num_pages><![CDATA[64]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[80904]]></ratings_count>
+  <text_reviews_count><![CDATA[969]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7779.Horton_Hears_a_Who_]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7779.Horton_Hears_a_Who_]]></link>
+  <authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2462783</ratings_count>
+<text_reviews_count>42352</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7779.Horton_Hears_a_Who_">Horton Hears a Who! Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679800034&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7779.Horton_Hears_a_Who_?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="22286"/>
+      <shelf name="childrens" count="1099"/>
+      <shelf name="picture-books" count="777"/>
+      <shelf name="children" count="766"/>
+      <shelf name="children-s-books" count="679"/>
+      <shelf name="children-s" count="518"/>
+      <shelf name="childrens-books" count="396"/>
+      <shelf name="kids" count="345"/>
+      <shelf name="fiction" count="321"/>
+      <shelf name="classics" count="275"/>
+      <shelf name="dr-seuss" count="260"/>
+      <shelf name="childhood" count="237"/>
+      <shelf name="kids-books" count="230"/>
+      <shelf name="favorites" count="200"/>
+      <shelf name="currently-reading" count="198"/>
+      <shelf name="picture-book" count="174"/>
+      <shelf name="poetry" count="114"/>
+      <shelf name="fantasy" count="94"/>
+      <shelf name="classic" count="90"/>
+      <shelf name="childhood-favorites" count="82"/>
+      <shelf name="children-s-lit" count="80"/>
+      <shelf name="children-books" count="78"/>
+      <shelf name="children-s-literature" count="78"/>
+      <shelf name="childhood-books" count="77"/>
+      <shelf name="animals" count="75"/>
+      <shelf name="books-i-own" count="63"/>
+      <shelf name="owned" count="58"/>
+      <shelf name="kid-books" count="57"/>
+      <shelf name="humor" count="51"/>
+      <shelf name="childrens-lit" count="49"/>
+      <shelf name="juvenile" count="46"/>
+      <shelf name="children-s-picture-books" count="43"/>
+      <shelf name="childhood-reads" count="41"/>
+      <shelf name="picture" count="37"/>
+      <shelf name="dr-suess" count="36"/>
+      <shelf name="childrens-picture-books" count="36"/>
+      <shelf name="picturebooks" count="32"/>
+      <shelf name="childrens-literature" count="31"/>
+      <shelf name="seuss" count="29"/>
+      <shelf name="children-s-book" count="28"/>
+      <shelf name="youth" count="27"/>
+      <shelf name="read-as-a-kid" count="27"/>
+      <shelf name="movies" count="26"/>
+      <shelf name="childhood-memories" count="25"/>
+      <shelf name="children-young-adult" count="25"/>
+      <shelf name="default" count="24"/>
+      <shelf name="to-buy" count="23"/>
+      <shelf name="read-as-a-child" count="23"/>
+      <shelf name="my-childhood" count="23"/>
+      <shelf name="elementary" count="23"/>
+      <shelf name="rhyming" count="22"/>
+      <shelf name="kid-lit" count="22"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="kid-s-books" count="21"/>
+      <shelf name="elephants" count="20"/>
+      <shelf name="young-adult" count="20"/>
+      <shelf name="library" count="19"/>
+      <shelf name="illustrated" count="19"/>
+      <shelf name="friendship" count="19"/>
+      <shelf name="books-i-read-as-a-kid" count="19"/>
+      <shelf name="books-from-my-childhood" count="18"/>
+      <shelf name="read-aloud" count="18"/>
+      <shelf name="childrens-book" count="18"/>
+      <shelf name="children-s-fiction" count="18"/>
+      <shelf name="favorite-children-s-books" count="18"/>
+      <shelf name="children-ya" count="18"/>
+      <shelf name="childrens-fiction" count="17"/>
+      <shelf name="kiddos" count="16"/>
+      <shelf name="for-the-kids" count="16"/>
+      <shelf name="for-kids" count="16"/>
+      <shelf name="childrensbooks" count="16"/>
+      <shelf name="shelfari-favorites" count="15"/>
+      <shelf name="kid" count="15"/>
+      <shelf name="elementary-school" count="15"/>
+      <shelf name="own-it" count="15"/>
+      <shelf name="5-stars" count="14"/>
+      <shelf name="young-children" count="14"/>
+      <shelf name="favorite-kids-books" count="14"/>
+      <shelf name="children-s-classics" count="14"/>
+      <shelf name="classroom" count="13"/>
+      <shelf name="preschool" count="13"/>
+      <shelf name="child" count="13"/>
+      <shelf name="movie" count="13"/>
+      <shelf name="for-children" count="13"/>
+      <shelf name="childrens-ya" count="13"/>
+      <shelf name="i-own" count="12"/>
+      <shelf name="read-to-kids" count="12"/>
+      <shelf name="read-more-than-once" count="12"/>
+      <shelf name="nostalgia" count="12"/>
+      <shelf name="classroom-library" count="11"/>
+      <shelf name="rhyme" count="11"/>
+      <shelf name="kindness" count="11"/>
+      <shelf name="funny" count="11"/>
+      <shelf name="childhood-favorite" count="11"/>
+      <shelf name="young-readers" count="11"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="short-stories" count="11"/>
+      <shelf name="books" count="11"/>
+      <shelf name="baby-books" count="11"/>
+      <shelf name="books-for-children" count="11"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>877584</id>
+<user_position></user_position>
+<series>
+<id>173197</id>
+<title>
+<![CDATA[
+    Horton the Elephant
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>5</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>96128</id>
+<title>Duck for President</title>
+<title_without_series>Duck for President</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/96128.Duck_for_President]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2819058</id>
+</work>
+<isbn>0689863772</isbn>
+<isbn13>9780689863776</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>6405</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3162</id>
+<name>Doreen Cronin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3162.Doreen_Cronin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>262054</id>
+<title>Flutterby</title>
+<title_without_series>Flutterby</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/262054.Flutterby]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>254010</id>
+</work>
+<isbn>0843138211</isbn>
+<isbn13>9780843138214</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>885</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>35343</id>
+<name>Stephen Cosgrove</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35343.Stephen_Cosgrove]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47676</id>
+<title>Do You Want to Be My Friend?</title>
+<title_without_series>Do You Want to Be My Friend?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47676.Do_You_Want_to_Be_My_Friend_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2117824</id>
+</work>
+<isbn>0399215980</isbn>
+<isbn13>9780399215988</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1925</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>728456</id>
+<title><![CDATA[The Berenstain Bears and Too Much Birthday]]></title>
+<title_without_series><![CDATA[The Berenstain Bears and Too Much Birthday]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/728456.The_Berenstain_Bears_and_Too_Much_Birthday]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344369321s/728456.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344369321m/728456.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>714657</id>
+</work>
+<isbn>0394873327</isbn>
+<isbn13>9780394873329</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>2221</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100480</id>
+<title>Trouble with Trolls</title>
+<title_without_series>Trouble with Trolls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100480.Trouble_with_Trolls]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>190540</id>
+</work>
+<isbn>0698117913</isbn>
+<isbn13>9780698117914</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>2335</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>117170</id>
+<title><![CDATA[Richard Scarry's Best Storybook Ever!]]></title>
+<title_without_series><![CDATA[Richard Scarry's Best Storybook Ever!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/117170.Richard_Scarry_s_Best_Storybook_Ever_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320449135s/117170.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320449135m/117170.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>112834</id>
+</work>
+<isbn>0307165485</isbn>
+<isbn13>9780307165480</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>7206</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13901</id>
+<name>Richard Scarry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13901.Richard_Scarry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92244</id>
+<title>Miss Spider&apos;s Tea Party</title>
+<title_without_series>Miss Spider&apos;s Tea Party</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92244.Miss_Spider_s_Tea_Party]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328866127s/92244.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328866127m/92244.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>88968</id>
+</work>
+<isbn>0439918170</isbn>
+<isbn13>9780439918176</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>2983</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32917</id>
+<name>David Kirk</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32917.David_Kirk]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>890175</id>
+<title>The Caboose Who Got Loose</title>
+<title_without_series>The Caboose Who Got Loose</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/890175.The_Caboose_Who_Got_Loose]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>2226876</id>
+</work>
+<isbn>0395287154</isbn>
+<isbn13>9780395287156</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1121</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>18821</id>
+<name>Bill Peet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18821.Bill_Peet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>232127</id>
+<title><![CDATA[Alexander, Who's Not (Do You Hear Me? I Mean It!) Going to Move]]></title>
+<title_without_series><![CDATA[Alexander, Who's Not (Do You Hear Me? I Mean It!) Going to Move]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/232127.Alexander_Who_s_Not_Do_You_Hear_Me_I_Mean_It_Going_to_Move]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1907234</id>
+</work>
+<isbn>0689820895</isbn>
+<isbn13>9780689820892</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>1815</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3080</id>
+<name>Judith Viorst</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3080.Judith_Viorst]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>56471</id>
+<title>The Quiltmaker&apos;s Gift</title>
+<title_without_series>The Quiltmaker&apos;s Gift</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/56471.The_Quiltmaker_s_Gift]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>558851</id>
+</work>
+<isbn>0439309107</isbn>
+<isbn13>9780439309103</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>2539</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>31938</id>
+<name>Jeff Brumbeau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/31938.Jeff_Brumbeau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>466881</id>
+<title>Olivia Forms A Band</title>
+<title_without_series>Olivia Forms A Band</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/466881.Olivia_Forms_A_Band]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>654939</id>
+</work>
+<isbn>1416917381</isbn>
+<isbn13>9781416917380</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3853</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>27861</id>
+<name>Ian Falconer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27861.Ian_Falconer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>515885</id>
+<title>But Not the Hippopotamus</title>
+<title_without_series>But Not the Hippopotamus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/515885.But_Not_the_Hippopotamus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>503827</id>
+</work>
+<isbn>0671449044</isbn>
+<isbn13>9780671449049</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>11782</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

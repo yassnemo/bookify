@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>42369</id>
+  <title>The Hundred Dresses</title>
+  <isbn><![CDATA[0152052607]]></isbn>
+  <isbn13><![CDATA[9780152052607]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00L0M73XO]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1476941110m/42369.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1476941110s/42369.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">1000219</id>
+  <books_count type="integer">31</books_count>
+  <best_book_id type="integer">42369</best_book_id>
+  <reviews_count type="integer">41570</reviews_count>
+  <ratings_sum type="integer">110557</ratings_sum>
+  <ratings_count type="integer">27140</ratings_count>
+  <text_reviews_count type="integer">1984</text_reviews_count>
+  <original_publication_year type="integer">1944</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Hundred Dresses</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11186|4:8913|3:5322|2:1290|1:429|total:27140</rating_dist>
+  <desc_user_id type="integer">-110</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[80]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[26157]]></ratings_count>
+  <text_reviews_count><![CDATA[1829]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/42369.The_Hundred_Dresses]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/42369.The_Hundred_Dresses]]></link>
+  <authors>
+<author>
+<id>23821</id>
+<name>Eleanor Estes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309266620p5/23821.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309266620p2/23821.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23821.Eleanor_Estes]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>53823</ratings_count>
+<text_reviews_count>3330</text_reviews_count>
+</author>
+<author>
+<id>169833</id>
+<name>Louis Slobodkin</name>
+<role>Illustrations</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/169833.Louis_Slobodkin]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>43749</ratings_count>
+<text_reviews_count>2674</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/42369.The_Hundred_Dresses">The Hundred Dresses Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0152052607&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/42369.The_Hundred_Dresses?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3753"/>
+      <shelf name="childrens" count="329"/>
+      <shelf name="children-s-books" count="253"/>
+      <shelf name="children" count="234"/>
+      <shelf name="fiction" count="213"/>
+      <shelf name="children-s" count="198"/>
+      <shelf name="classics" count="168"/>
+      <shelf name="kids" count="149"/>
+      <shelf name="currently-reading" count="137"/>
+      <shelf name="realistic-fiction" count="121"/>
+      <shelf name="favorites" count="115"/>
+      <shelf name="picture-books" count="102"/>
+      <shelf name="newbery" count="98"/>
+      <shelf name="childrens-books" count="91"/>
+      <shelf name="childhood" count="91"/>
+      <shelf name="kids-books" count="84"/>
+      <shelf name="young-adult" count="74"/>
+      <shelf name="newbery-honor" count="74"/>
+      <shelf name="juvenile" count="72"/>
+      <shelf name="children-s-literature" count="70"/>
+      <shelf name="read-aloud" count="60"/>
+      <shelf name="middle-grade" count="60"/>
+      <shelf name="juvenile-fiction" count="58"/>
+      <shelf name="bullying" count="57"/>
+      <shelf name="read-alouds" count="57"/>
+      <shelf name="childhood-favorites" count="55"/>
+      <shelf name="school" count="52"/>
+      <shelf name="historical-fiction" count="50"/>
+      <shelf name="classic" count="50"/>
+      <shelf name="chapter-books" count="49"/>
+      <shelf name="children-s-lit" count="47"/>
+      <shelf name="books-i-own" count="46"/>
+      <shelf name="owned" count="40"/>
+      <shelf name="ya" count="29"/>
+      <shelf name="friendship" count="28"/>
+      <shelf name="newberry" count="27"/>
+      <shelf name="childrens-lit" count="25"/>
+      <shelf name="default" count="24"/>
+      <shelf name="library" count="23"/>
+      <shelf name="kid-lit" count="23"/>
+      <shelf name="children-s-fiction" count="23"/>
+      <shelf name="homeschool" count="22"/>
+      <shelf name="for-the-kids" count="22"/>
+      <shelf name="kid-books" count="22"/>
+      <shelf name="childhood-books" count="21"/>
+      <shelf name="picture-book" count="20"/>
+      <shelf name="book-club" count="20"/>
+      <shelf name="contemporary-realistic-fiction" count="19"/>
+      <shelf name="realistic" count="19"/>
+      <shelf name="children-s-chapter-books" count="18"/>
+      <shelf name="read-with-kids" count="18"/>
+      <shelf name="award-winners" count="17"/>
+      <shelf name="children-books" count="17"/>
+      <shelf name="mother-daughter-book-club" count="16"/>
+      <shelf name="childrens-literature" count="15"/>
+      <shelf name="newberry-honor" count="15"/>
+      <shelf name="3rd-grade" count="15"/>
+      <shelf name="family-read-alouds" count="14"/>
+      <shelf name="award-winner" count="14"/>
+      <shelf name="newbery-award" count="14"/>
+      <shelf name="kids-chapter-books" count="14"/>
+      <shelf name="children-s-book" count="14"/>
+      <shelf name="youth" count="14"/>
+      <shelf name="4th-grade" count="13"/>
+      <shelf name="kiddos" count="13"/>
+      <shelf name="chapter-book" count="13"/>
+      <shelf name="illustrated" count="13"/>
+      <shelf name="sonlight" count="13"/>
+      <shelf name="newbery-books" count="12"/>
+      <shelf name="junior-fiction" count="12"/>
+      <shelf name="20th-century" count="12"/>
+      <shelf name="middle-school" count="12"/>
+      <shelf name="read-for-school" count="12"/>
+      <shelf name="childrens-fiction" count="12"/>
+      <shelf name="read-to-kids" count="12"/>
+      <shelf name="classroom-library" count="11"/>
+      <shelf name="young-readers" count="11"/>
+      <shelf name="newbery-honors" count="11"/>
+      <shelf name="middle-grades" count="11"/>
+      <shelf name="newbery-medal" count="11"/>
+      <shelf name="favorite" count="11"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="childhood-reads" count="10"/>
+      <shelf name="school-books" count="10"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="j-fiction" count="10"/>
+      <shelf name="read-in-2016" count="9"/>
+      <shelf name="girls" count="9"/>
+      <shelf name="re-read" count="9"/>
+      <shelf name="home-library" count="9"/>
+      <shelf name="historical" count="9"/>
+      <shelf name="books-i-read-as-a-kid" count="9"/>
+      <shelf name="award-winning" count="9"/>
+      <shelf name="elementary" count="9"/>
+      <shelf name="j-fic" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="read-in-2017" count="8"/>
+      <shelf name="kids-to-read" count="8"/>
+      <shelf name="1st-grade" count="8"/>
+      <shelf name="borrowed" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>78720</id>
+<title><![CDATA[The Usborne Book of Living Long Ago (Explainers)]]></title>
+<title_without_series><![CDATA[The Usborne Book of Living Long Ago]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/78720.The_Usborne_Book_of_Living_Long_Ago]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>76010</id>
+</work>
+<isbn>0746011091</isbn>
+<isbn13>9780746011096</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1145</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>265631</id>
+<name>Helen Edom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/265631.Helen_Edom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>828220</id>
+<title>A Grain of Rice</title>
+<title_without_series>A Grain of Rice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/828220.A_Grain_of_Rice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>813918</id>
+</work>
+<isbn>044041301X</isbn>
+<isbn13>9780440413011</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1559</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>12</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>393139</id>
+<name>Helena Clare Pittman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/393139.Helena_Clare_Pittman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1226301</id>
+<title>Dolphin Treasure</title>
+<title_without_series>Dolphin Treasure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1226301.Dolphin_Treasure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1214820</id>
+</work>
+<isbn>038073253X</isbn>
+<isbn13>9780380732531</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>491</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>219706</id>
+<name>Wayne Grover</name>
+<link><![CDATA[https://www.goodreads.com/author/show/219706.Wayne_Grover]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1109237</id>
+<title><![CDATA[Mary On Horseback: Three Mountain Stories]]></title>
+<title_without_series><![CDATA[Mary On Horseback: Three Mountain Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1109237.Mary_On_Horseback]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>2307815</id>
+</work>
+<isbn>014130815X</isbn>
+<isbn13>9780141308159</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>897</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>3105</id>
+<name>Rosemary Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3105.Rosemary_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>298070</id>
+<title><![CDATA[The Light at Tern Rock (Newbery Library, Puffin)]]></title>
+<title_without_series>The Light at Tern Rock</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/298070.The_Light_at_Tern_Rock]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>289194</id>
+</work>
+<isbn>0140368574</isbn>
+<isbn13>9780140368574</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>1406</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>171845</id>
+<name>Julia L. Sauer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/171845.Julia_L_Sauer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>906543</id>
+<title>The Family Under the Bridge</title>
+<title_without_series>The Family Under the Bridge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/906543.The_Family_Under_the_Bridge]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355909168s/906543.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355909168m/906543.jpg]]></image_url>
+<num_pages>123</num_pages>
+<work>
+<id>394118</id>
+</work>
+<isbn>0064402509</isbn>
+<isbn13>9780064402507</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>9080</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>199200</id>
+<name>Natalie Savage Carlson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/199200.Natalie_Savage_Carlson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1077704</id>
+<title>The Apple and the Arrow</title>
+<title_without_series>The Apple and the Arrow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1077704.The_Apple_and_the_Arrow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1064420</id>
+</work>
+<isbn>0618128093</isbn>
+<isbn13>9780618128099</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2021</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>991960</id>
+<name>Mary Buff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/991960.Mary_Buff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1069576</id>
+<title>Twenty and Ten</title>
+<title_without_series>Twenty and Ten</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1069576.Twenty_and_Ten]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>1917997</id>
+</work>
+<isbn>0140310762</isbn>
+<isbn13>9780140310764</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>3611</ratings_count>
+<publication_year>1978</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>36812</id>
+<name>Claire Huchet Bishop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36812.Claire_Huchet_Bishop]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>675725</id>
+<title><![CDATA[Five True Dog Stories (Little Apple)]]></title>
+<title_without_series>Five True Dog Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/675725.Five_True_Dog_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360057659s/675725.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360057659m/675725.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2325761</id>
+</work>
+<isbn>0590424017</isbn>
+<isbn13>9780590424011</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>689</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>78755</id>
+<name>Margaret Davidson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/78755.Margaret_Davidson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>79331</id>
+<title>The Courage of Sarah Noble</title>
+<title_without_series>The Courage of Sarah Noble</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/79331.The_Courage_of_Sarah_Noble]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>2937115</id>
+</work>
+<isbn>0689715404</isbn>
+<isbn13>9780689715402</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>4758</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>18935</id>
+<name>Alice Dalgliesh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18935.Alice_Dalgliesh]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>616992</id>
+<title>The Hundred Penny Box</title>
+<title_without_series>The Hundred Penny Box</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/616992.The_Hundred_Penny_Box]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>3289936</id>
+</work>
+<isbn>014240702X</isbn>
+<isbn13>9780142407028</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1009</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>219060</id>
+<name>Sharon Bell Mathis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/219060.Sharon_Bell_Mathis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>401900</id>
+<title><![CDATA[The Llama Who Had No Pajama: 100 Favorite Poems]]></title>
+<title_without_series><![CDATA[The Llama Who Had No Pajama: 100 Favorite Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/401900.The_Llama_Who_Had_No_Pajama]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404782794s/401900.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404782794m/401900.jpg]]></image_url>
+<num_pages>68</num_pages>
+<work>
+<id>1557665</id>
+</work>
+<isbn>0152055711</isbn>
+<isbn13>9780152055714</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1082</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>17544</id>
+<name>Mary Ann Hoberman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17544.Mary_Ann_Hoberman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>355592</id>
+<title>Capyboppy</title>
+<title_without_series>Capyboppy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/355592.Capyboppy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>875483</id>
+</work>
+<isbn>0395383684</isbn>
+<isbn13>9780395383681</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1827</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>18821</id>
+<name>Bill Peet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18821.Bill_Peet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>886985</id>
+<title>Mountain Born</title>
+<title_without_series>Mountain Born</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/886985.Mountain_Born]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>106</num_pages>
+<work>
+<id>2521766</id>
+</work>
+<isbn>0890847061</isbn>
+<isbn13>9780890847060</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1396</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>148577</id>
+<name>Elizabeth Yates</name>
+<link><![CDATA[https://www.goodreads.com/author/show/148577.Elizabeth_Yates]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>311795</id>
+<title><![CDATA[The Arnold Lobel Book of Mother Goose: A Treasury of More Than 300 Classic Nursery Rhymes]]></title>
+<title_without_series><![CDATA[The Arnold Lobel Book of Mother Goose: A Treasury of More Than 300 Classic Nursery Rhymes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/311795.The_Arnold_Lobel_Book_of_Mother_Goose]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320471646s/311795.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320471646m/311795.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>872556</id>
+</work>
+<isbn>0679887369</isbn>
+<isbn13>9780679887362</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>242</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34898</id>
+<title><![CDATA[My Father's Dragon (My Father's Dragon, #1)]]></title>
+<title_without_series>My Father&apos;s Dragon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34898.My_Father_s_Dragon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>3217669</id>
+</work>
+<isbn>0440421217</isbn>
+<isbn13>9780440421214</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>26860</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>16215</id>
+<name>Ruth Stiles Gannett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16215.Ruth_Stiles_Gannett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>548281</id>
+<title>Gooney Bird Greene</title>
+<title_without_series>Gooney Bird Greene</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/548281.Gooney_Bird_Greene]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320535185s/548281.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320535185m/548281.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>535537</id>
+</work>
+<isbn>0440419603</isbn>
+<isbn13>9780440419600</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>4266</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>2493</id>
+<name>Lois Lowry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2493.Lois_Lowry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>258038</id>
+<title>The Good Master </title>
+<title_without_series>The Good Master</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/258038.The_Good_Master]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>250092</id>
+</work>
+<isbn>014030133X</isbn>
+<isbn13>9780140301335</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>3233</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>80667</id>
+<name>Kate Seredy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80667.Kate_Seredy]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

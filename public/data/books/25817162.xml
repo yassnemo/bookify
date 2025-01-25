@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25817162</id>
+  <title>America&apos;s First Daughter</title>
+  <isbn><![CDATA[0062347268]]></isbn>
+  <isbn13><![CDATA[9780062347268]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00ZP4KE70]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1459542134m/25817162.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1459542134s/25817162.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>William Morrow Paperbacks</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In a compelling, richly researched novel that draws from thousands of letters and original sources, bestselling authors Stephanie Dray and Laura Kamoie tell the fascinating, untold story of Thomas Jefferson’s eldest daughter, Martha “Patsy” Jefferson Randolph—a woman who kept the secrets of our most enigmatic founding father and shaped an American legacy.<br /><br />From her earliest days, Patsy Jefferson knows that though her father loves his family dearly, his devotion to his country runs deeper still. As Thomas Jefferson’s oldest daughter, she becomes his helpmate, protector, and constant companion in the wake of her mother’s death, traveling with him when he becomes American minister to France.<br /><br />It is in Paris, at the glittering court and among the first tumultuous days of revolution, that fifteen-year-old Patsy learns about her father’s troubling liaison with Sally Hemings, a slave girl her own age. Meanwhile, Patsy has fallen in love—with her father’s protégé William Short, a staunch abolitionist and ambitious diplomat. Torn between love, principles, and the bonds of family, Patsy questions whether she can choose a life as William’s wife and still be a devoted daughter.<br /><br />Her choice will follow her in the years to come, to Virginia farmland, Monticello, and even the White House. And as scandal, tragedy, and poverty threaten her family, Patsy must decide how much she will sacrifice to protect her father's reputation, in the process defining not just his political legacy, but that of the nation he founded.]]></description>
+  <work>
+  <id type="integer">45584335</id>
+  <books_count type="integer">9</books_count>
+  <best_book_id type="integer">25817162</best_book_id>
+  <reviews_count type="integer">82283</reviews_count>
+  <ratings_sum type="integer">81192</ratings_sum>
+  <ratings_count type="integer">19258</ratings_count>
+  <text_reviews_count type="integer">2422</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>America's First Daughter</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8511|4:7504|3:2406|2:566|1:271|total:19258</rating_dist>
+  <desc_user_id type="integer">21498026</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[580]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13323]]></ratings_count>
+  <text_reviews_count><![CDATA[2042]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25817162-america-s-first-daughter]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25817162-america-s-first-daughter]]></link>
+  <authors>
+<author>
+<id>4072332</id>
+<name>Stephanie Dray</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1278362057p5/4072332.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1278362057p2/4072332.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4072332.Stephanie_Dray]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>27228</ratings_count>
+<text_reviews_count>3492</text_reviews_count>
+</author>
+<author>
+<id>14108578</id>
+<name>Laura Kamoie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444514023p5/14108578.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444514023p2/14108578.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14108578.Laura_Kamoie]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>19249</ratings_count>
+<text_reviews_count>2421</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25817162-america-s-first-daughter">America&#39;s First Daughter Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0062347268&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/25817162-america-s-first-daughter?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="38760"/>
+      <shelf name="currently-reading" count="1628"/>
+      <shelf name="historical-fiction" count="927"/>
+      <shelf name="fiction" count="175"/>
+      <shelf name="historical" count="136"/>
+      <shelf name="book-club" count="133"/>
+      <shelf name="history" count="96"/>
+      <shelf name="kindle" count="88"/>
+      <shelf name="favorites" count="88"/>
+      <shelf name="american-history" count="35"/>
+      <shelf name="wish-list" count="35"/>
+      <shelf name="read-in-2017" count="33"/>
+      <shelf name="audio" count="32"/>
+      <shelf name="to-buy" count="32"/>
+      <shelf name="library" count="30"/>
+      <shelf name="read-in-2016" count="30"/>
+      <shelf name="romance" count="29"/>
+      <shelf name="biography" count="28"/>
+      <shelf name="adult" count="27"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="books-i-own" count="25"/>
+      <shelf name="non-fiction" count="25"/>
+      <shelf name="did-not-finish" count="24"/>
+      <shelf name="bookclub" count="24"/>
+      <shelf name="audible" count="24"/>
+      <shelf name="adult-fiction" count="22"/>
+      <shelf name="read-2016" count="21"/>
+      <shelf name="18th-century" count="20"/>
+      <shelf name="audiobooks" count="18"/>
+      <shelf name="to-read-historical-fiction" count="18"/>
+      <shelf name="read-2017" count="17"/>
+      <shelf name="audio-book" count="17"/>
+      <shelf name="abandoned" count="16"/>
+      <shelf name="france" count="16"/>
+      <shelf name="ebook" count="15"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="fiction-historical" count="15"/>
+      <shelf name="2016-books" count="15"/>
+      <shelf name="2016-reads" count="14"/>
+      <shelf name="america" count="14"/>
+      <shelf name="historical-romance" count="14"/>
+      <shelf name="2017-books" count="13"/>
+      <shelf name="book-club-books" count="13"/>
+      <shelf name="2017-reading-challenge" count="12"/>
+      <shelf name="kindle-books" count="12"/>
+      <shelf name="maybe" count="12"/>
+      <shelf name="e-book" count="11"/>
+      <shelf name="nonfiction" count="11"/>
+      <shelf name="first-reads" count="11"/>
+      <shelf name="2017-reads" count="10"/>
+      <shelf name="2017-challenge" count="10"/>
+      <shelf name="on-my-kindle" count="10"/>
+      <shelf name="slavery" count="10"/>
+      <shelf name="ebooks" count="10"/>
+      <shelf name="2016-releases" count="10"/>
+      <shelf name="2017-read" count="9"/>
+      <shelf name="book-club-2017" count="9"/>
+      <shelf name="historical-fiction-to-read" count="9"/>
+      <shelf name="book-group" count="9"/>
+      <shelf name="audio-books" count="9"/>
+      <shelf name="dnf" count="9"/>
+      <shelf name="american" count="9"/>
+      <shelf name="stand-alone" count="9"/>
+      <shelf name="book-club-reads" count="9"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="overdrive" count="9"/>
+      <shelf name="revolutionary-war" count="9"/>
+      <shelf name="to-read-historical" count="9"/>
+      <shelf name="american-revolution" count="9"/>
+      <shelf name="books-read-in-2017" count="8"/>
+      <shelf name="finished" count="8"/>
+      <shelf name="e-books" count="8"/>
+      <shelf name="politics" count="8"/>
+      <shelf name="books-read-in-2016" count="8"/>
+      <shelf name="historical-novels" count="8"/>
+      <shelf name="2016-read" count="8"/>
+      <shelf name="best-of-2016" count="8"/>
+      <shelf name="virginia" count="8"/>
+      <shelf name="presidents" count="8"/>
+      <shelf name="to-read-fiction" count="8"/>
+      <shelf name="thomas-jefferson" count="8"/>
+      <shelf name="family" count="8"/>
+      <shelf name="americana" count="8"/>
+      <shelf name="usa" count="8"/>
+      <shelf name="didn-t-finish" count="8"/>
+      <shelf name="arc" count="8"/>
+      <shelf name="could-not-finish" count="7"/>
+      <shelf name="own-to-read" count="7"/>
+      <shelf name="want-to-read" count="7"/>
+      <shelf name="summer-2016" count="7"/>
+      <shelf name="literary-fiction" count="7"/>
+      <shelf name="favorite-books" count="7"/>
+      <shelf name="novels" count="7"/>
+      <shelf name="historic" count="7"/>
+      <shelf name="american-historical-fiction" count="7"/>
+      <shelf name="biographical-fiction" count="7"/>
+      <shelf name="19th-century" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="2016-books-read" count="6"/>
+      <shelf name="own-it" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>25620676</id>
+<title>Hanging Mary</title>
+<title_without_series>Hanging Mary</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25620676-hanging-mary]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1432851877s/25620676.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1432851877m/25620676.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>45433084</id>
+</work>
+<isbn>1492613622</isbn>
+<isbn13>9781492613626</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>772</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>260080</id>
+<name>Susan Higginbotham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/260080.Susan_Higginbotham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25021810</id>
+<title><![CDATA[The Conqueror's Wife: A Novel of Alexander the Great]]></title>
+<title_without_series><![CDATA[The Conqueror's Wife: A Novel of Alexander the Great]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25021810-the-conqueror-s-wife]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1424922155s/25021810.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1424922155m/25021810.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>44695399</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>579</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6526628</id>
+<name>Stephanie  Thornton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6526628.Stephanie_Thornton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25685000</id>
+<title><![CDATA[The Dutch Girl (Renegades of the American Revolution)]]></title>
+<title_without_series>The Dutch Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25685000-the-dutch-girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1436839677s/25685000.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1436839677m/25685000.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>45512287</id>
+</work>
+<isbn>0451471024</isbn>
+<isbn13>9780451471024</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>235</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6154476</id>
+<name>Donna Thorland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6154476.Donna_Thorland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25733965</id>
+<title><![CDATA[Sisi: Empress on Her Own (Sisi, #2)]]></title>
+<title_without_series>Sisi: Empress on Her Own</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25733965-sisi]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1445959708s/25733965.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1445959708m/25733965.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>45572099</id>
+</work>
+<isbn>0812989058</isbn>
+<isbn13>9780812989052</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>3089</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7155436</id>
+<name>Allison Pataki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7155436.Allison_Pataki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25614810</id>
+<title><![CDATA[The Vatican Princess: A Novel of Lucrezia Borgia]]></title>
+<title_without_series><![CDATA[The Vatican Princess: A Novel of Lucrezia Borgia]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25614810-the-vatican-princess]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1442250417s/25614810.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1442250417m/25614810.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>42279645</id>
+</work>
+<isbn>0345533976</isbn>
+<isbn13>9780345533975</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>1714</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>169656</id>
+<name>C.W. Gortner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/169656.C_W_Gortner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25916945</id>
+<title><![CDATA[A Year of Ravens: A Novel of Boudica's Rebellion]]></title>
+<title_without_series><![CDATA[A Year of Ravens: A Novel of Boudica's Rebellion]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25916945-a-year-of-ravens]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1444055275s/25916945.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1444055275m/25916945.jpg]]></image_url>
+<num_pages>483</num_pages>
+<work>
+<id>45805627</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>311</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2931</id>
+<name>Ruth Downie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2931.Ruth_Downie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25817616</id>
+<title><![CDATA[Fall of Poppies: Stories of Love and the Great War]]></title>
+<title_without_series><![CDATA[Fall of Poppies: Stories of Love and the Great War]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25817616-fall-of-poppies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1438882315s/25817616.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1438882315m/25817616.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>45584355</id>
+</work>
+<isbn>0062418548</isbn>
+<isbn13>9780062418548</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>632</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6704895</id>
+<name>Heather  Webb</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6704895.Heather_Webb]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26198882</id>
+<title>The Secrets of Flight</title>
+<title_without_series>The Secrets of Flight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26198882-the-secrets-of-flight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1460312135s/26198882.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1460312135m/26198882.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>46174652</id>
+</work>
+<isbn>006242792X</isbn>
+<isbn13>9780062427922</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>971</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>401778</id>
+<name>Maggie Leffler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/401778.Maggie_Leffler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26795367</id>
+<title>The Royal Nanny</title>
+<title_without_series>The Royal Nanny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26795367-the-royal-nanny]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1451848217s/26795367.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1451848217m/26795367.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>46817108</id>
+</work>
+<isbn>006242064X</isbn>
+<isbn13>9780062420640</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1593</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>17450</id>
+<name>Karen Harper</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17450.Karen_Harper]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>33362126</id>
+<title><![CDATA[The Sisters of Versailles (The Mistresses of Versailles Trilogy #1)]]></title>
+<title_without_series>The Sisters of Versailles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/33362126-the-sisters-of-versailles]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1481606206s/33362126.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1481606206m/33362126.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>44804743</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>1669</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13854110</id>
+<name>Sally  Christie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13854110.Sally_Christie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23848325</id>
+<title><![CDATA[Médicis Daughter: A Novel of Marguerite de Valois]]></title>
+<title_without_series><![CDATA[Médicis Daughter: A Novel of Marguerite de Valois]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23848325-m-dicis-daughter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1423522809s/23848325.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1423522809m/23848325.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>43458258</id>
+</work>
+<isbn>1250072093</isbn>
+<isbn13>9781250072092</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>845</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4877970</id>
+<name>Sophie Perinot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4877970.Sophie_Perinot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20893377</id>
+<title><![CDATA[What the Lady Wants: A Novel of Marshall Field and the Gilded Age]]></title>
+<title_without_series><![CDATA[What the Lady Wants: A Novel of Marshall Field and the Gilded Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20893377-what-the-lady-wants]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413746953s/20893377.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413746953m/20893377.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>40236376</id>
+</work>
+<isbn>0451466713</isbn>
+<isbn13>9780451466716</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>2293</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>412370</id>
+<name>Renee Rosen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/412370.Renee_Rosen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25577005</id>
+<title><![CDATA[The Moon in the Palace (Empress of Bright Moon, #1)]]></title>
+<title_without_series>The Moon in the Palace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25577005-the-moon-in-the-palace]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1445892524s/25577005.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1445892524m/25577005.jpg]]></image_url>
+<num_pages>395</num_pages>
+<work>
+<id>45378440</id>
+</work>
+<isbn>1492613568</isbn>
+<isbn13>9781492613565</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>1730</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14007877</id>
+<name>Weina Dai Randel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14007877.Weina_Dai_Randel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23014680</id>
+<title><![CDATA[Enchantress of Paris: A Novel of the Sun King’s Court]]></title>
+<title_without_series><![CDATA[Enchantress of Paris: A Novel of the Sun King’s Court]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23014680-enchantress-of-paris]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1416846863s/23014680.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1416846863m/23014680.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>42580805</id>
+</work>
+<isbn>1250057094</isbn>
+<isbn13>9781250057099</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>433</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6897266</id>
+<name>Marci Jefferson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6897266.Marci_Jefferson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23315855</id>
+<title>The Tide Watchers</title>
+<title_without_series>The Tide Watchers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23315855-the-tide-watchers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421713851s/23315855.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421713851m/23315855.jpg]]></image_url>
+<num_pages>454</num_pages>
+<work>
+<id>42756269</id>
+</work>
+<isbn>0062379127</isbn>
+<isbn13>9780062379122</isbn13>
+<average_rating>3.46</average_rating>
+<ratings_count>155</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>8557927</id>
+<name>Lisa Chaplin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8557927.Lisa_Chaplin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26891545</id>
+<title>Radio Girls</title>
+<title_without_series>Radio Girls</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26891545-radio-girls]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1444596578s/26891545.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1444596578m/26891545.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>46944409</id>
+</work>
+<isbn>0451475569</isbn>
+<isbn13>9780451475565</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>2430</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2921599</id>
+<name>Sarah-Jane Stratford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2921599.Sarah_Jane_Stratford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26192687</id>
+<title><![CDATA[Promised to the Crown (Daughters of New France #1)]]></title>
+<title_without_series>Promised to the Crown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26192687-promised-to-the-crown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1445789690s/26192687.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1445789690m/26192687.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>45948969</id>
+</work>
+<isbn>1496701127</isbn>
+<isbn13>9781496701121</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>175</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>11883099</id>
+<name>Aimie K. Runyan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11883099.Aimie_K_Runyan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23014563</id>
+<title><![CDATA[Game of Queens: A Novel of Vashti and Esther]]></title>
+<title_without_series><![CDATA[Game of Queens: A Novel of Vashti and Esther]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23014563-game-of-queens]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1417605476s/23014563.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1417605476m/23014563.jpg]]></image_url>
+<num_pages>386</num_pages>
+<work>
+<id>42580715</id>
+</work>
+<isbn>0312338937</isbn>
+<isbn13>9780312338930</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>171</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>66268</id>
+<name>India Edghill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66268.India_Edghill]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

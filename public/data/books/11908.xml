@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11908</id>
+  <title>The Adventures of Augie March</title>
+  <isbn><![CDATA[0143039571]]></isbn>
+  <isbn13><![CDATA[9780143039570]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B008IBGRS2]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Penguin Classics</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Augie comes on stage with one of literature’s most famous opening lines. “I am an American, Chicago born, and go at things as I have taught myself, free-style, and will make the record in my own way: first to knock, first admitted.” It’s the “Call me Ishmael” of mid-20th-century American fiction. (For the record, Bellow was born in Canada.) Or it would be if Ishmael had been more like Tom Jones with a philosophical disposition. With this teeming book Bellow returned a Dickensian richness to the American novel. As he makes his way to a full brimming consciousness of himself, Augie careens through numberless occupations and countless mentors and exemplars, all the while enchanting us with the slapdash American music of his voice.]]></description>
+  <work>
+  <id type="integer">2453177</id>
+  <books_count type="integer">75</books_count>
+  <best_book_id type="integer">11908</best_book_id>
+  <reviews_count type="integer">39969</reviews_count>
+  <ratings_sum type="integer">52876</ratings_sum>
+  <ratings_count type="integer">13751</ratings_count>
+  <text_reviews_count type="integer">824</text_reviews_count>
+  <original_publication_year type="integer">1953</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Adventures of Augie March</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4399|4:4743|3:3112|2:1076|1:421|total:13751</rating_dist>
+  <desc_user_id type="integer">5008212</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.85</average_rating>
+  <num_pages><![CDATA[586]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12834]]></ratings_count>
+  <text_reviews_count><![CDATA[647]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11908.The_Adventures_of_Augie_March]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11908.The_Adventures_of_Augie_March]]></link>
+  <authors>
+<author>
+<id>4391</id>
+<name>Saul Bellow</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1470607356p5/4391.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1470607356p2/4391.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4391.Saul_Bellow]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>76845</ratings_count>
+<text_reviews_count>4996</text_reviews_count>
+</author>
+<author>
+<id>3956</id>
+<name>Christopher Hitchens</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434046956p5/3956.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434046956p2/3956.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3956.Christopher_Hitchens]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>415509</ratings_count>
+<text_reviews_count>14948</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11908.The_Adventures_of_Augie_March">The Adventures of Augie March Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0143039571&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/11908.The_Adventures_of_Augie_March?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3784"/>
+      <shelf name="fiction" count="496"/>
+      <shelf name="classics" count="301"/>
+      <shelf name="currently-reading" count="147"/>
+      <shelf name="favorites" count="101"/>
+      <shelf name="literature" count="83"/>
+      <shelf name="novels" count="74"/>
+      <shelf name="1001-books" count="73"/>
+      <shelf name="national-book-award" count="68"/>
+      <shelf name="american" count="61"/>
+      <shelf name="1001" count="57"/>
+      <shelf name="american-literature" count="51"/>
+      <shelf name="time-100" count="45"/>
+      <shelf name="classic" count="44"/>
+      <shelf name="20th-century" count="42"/>
+      <shelf name="chicago" count="42"/>
+      <shelf name="1001-import" count="38"/>
+      <shelf name="historical-fiction" count="38"/>
+      <shelf name="modern-library-top-100" count="38"/>
+      <shelf name="modern-library-100" count="38"/>
+      <shelf name="literary-fiction" count="37"/>
+      <shelf name="to-buy" count="35"/>
+      <shelf name="1001-books-to-read-before-you-die" count="33"/>
+      <shelf name="american-lit" count="32"/>
+      <shelf name="books-i-own" count="28"/>
+      <shelf name="nobel-prize" count="27"/>
+      <shelf name="to-read-fiction" count="26"/>
+      <shelf name="novel" count="26"/>
+      <shelf name="time-top-100" count="25"/>
+      <shelf name="library" count="25"/>
+      <shelf name="jewish" count="24"/>
+      <shelf name="nobel" count="24"/>
+      <shelf name="owned-books" count="23"/>
+      <shelf name="wish-list" count="23"/>
+      <shelf name="modern-library-100-best-novels" count="21"/>
+      <shelf name="modern-library" count="20"/>
+      <shelf name="audiobooks" count="20"/>
+      <shelf name="coming-of-age" count="19"/>
+      <shelf name="modern-classics" count="19"/>
+      <shelf name="abandoned" count="19"/>
+      <shelf name="saul-bellow" count="19"/>
+      <shelf name="literary" count="19"/>
+      <shelf name="adventure" count="18"/>
+      <shelf name="all-time-100-novels" count="18"/>
+      <shelf name="top-100" count="18"/>
+      <shelf name="usa" count="18"/>
+      <shelf name="picaresque" count="18"/>
+      <shelf name="default" count="16"/>
+      <shelf name="fiction-to-read" count="16"/>
+      <shelf name="1001-books-to-read" count="16"/>
+      <shelf name="american-fiction" count="15"/>
+      <shelf name="1001-to-read" count="15"/>
+      <shelf name="unfinished" count="15"/>
+      <shelf name="1950s" count="14"/>
+      <shelf name="classics-to-read" count="14"/>
+      <shelf name="audiobook" count="14"/>
+      <shelf name="100-essential-novels" count="13"/>
+      <shelf name="owned" count="13"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="bildungsroman" count="13"/>
+      <shelf name="modern-fiction" count="12"/>
+      <shelf name="bellow" count="12"/>
+      <shelf name="national-book-award-winners" count="12"/>
+      <shelf name="classic-fiction" count="12"/>
+      <shelf name="time" count="12"/>
+      <shelf name="nobel-laureates" count="12"/>
+      <shelf name="1001-books-you-must-read-before-you" count="12"/>
+      <shelf name="classic-literature" count="11"/>
+      <shelf name="penguin-classics" count="11"/>
+      <shelf name="americana" count="11"/>
+      <shelf name="time100" count="11"/>
+      <shelf name="general-fiction" count="11"/>
+      <shelf name="times-100" count="10"/>
+      <shelf name="book-club" count="10"/>
+      <shelf name="audio" count="10"/>
+      <shelf name="america" count="10"/>
+      <shelf name="audible" count="9"/>
+      <shelf name="nba" count="9"/>
+      <shelf name="time-100-novels" count="9"/>
+      <shelf name="lit" count="9"/>
+      <shelf name="contemporary" count="9"/>
+      <shelf name="humor" count="9"/>
+      <shelf name="adult-fiction" count="8"/>
+      <shelf name="great-american-novel" count="8"/>
+      <shelf name="the-great-american-novel" count="8"/>
+      <shelf name="mexico" count="8"/>
+      <shelf name="to-read-classics" count="8"/>
+      <shelf name="guardian-1000" count="8"/>
+      <shelf name="united-states" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="1900s" count="8"/>
+      <shelf name="didn-t-finish" count="8"/>
+      <shelf name="contemporary-fiction" count="7"/>
+      <shelf name="nobel-prize-winners" count="7"/>
+      <shelf name="100-best-novels" count="7"/>
+      <shelf name="time-magazine-top-100" count="7"/>
+      <shelf name="canadian" count="7"/>
+      <shelf name="nobel-laureate" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="time-magazine-100" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>771507</id>
+<title>Loving</title>
+<title_without_series>Loving</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/771507.Loving]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358882664s/771507.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358882664m/771507.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>3105878</id>
+</work>
+<isbn>0099285096</isbn>
+<isbn13>9780099285090</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>2668</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>16649</id>
+<name>Henry Green</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16649.Henry_Green]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>126603</id>
+<title>Studs Lonigan</title>
+<title_without_series>Studs Lonigan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126603.Studs_Lonigan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>121922</id>
+</work>
+<isbn>1931082553</isbn>
+<isbn13>9781931082556</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1919</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6165</id>
+<name>James T. Farrell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6165.James_T_Farrell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16113</id>
+<title><![CDATA[A Dance to the Music of Time: 1st Movement (A Dance to the Music of Time, #1-3)]]></title>
+<title_without_series><![CDATA[A Dance to the Music of Time: 1st Movement]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16113.A_Dance_to_the_Music_of_Time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>718</num_pages>
+<work>
+<id>17890</id>
+</work>
+<isbn>0226677141</isbn>
+<isbn13>9780226677149</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>3480</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>9947</id>
+<name>Anthony Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9947.Anthony_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1501238</id>
+<title>The Field of Vision</title>
+<title_without_series>The Field of Vision</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1501238.The_Field_of_Vision]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1479598130s/1501238.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1479598130m/1501238.jpg]]></image_url>
+<num_pages>251</num_pages>
+<work>
+<id>1492665</id>
+</work>
+<isbn>0451027612</isbn>
+<isbn13>9780451027610</isbn13>
+<average_rating>3.37</average_rating>
+<ratings_count>75</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>30333</id>
+<name>Wright Morris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30333.Wright_Morris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11890</id>
+<title>The Wapshot Chronicle</title>
+<title_without_series>The Wapshot Chronicle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11890.The_Wapshot_Chronicle]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405912722s/11890.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405912722m/11890.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1527547</id>
+</work>
+<isbn>0060528877</isbn>
+<isbn13>9780060528874</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>5747</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7464</id>
+<name>John Cheever</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7464.John_Cheever]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>366524</id>
+<title>Call It Sleep</title>
+<title_without_series>Call It Sleep</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/366524.Call_It_Sleep]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>462</num_pages>
+<work>
+<id>1544609</id>
+</work>
+<isbn>0374522928</isbn>
+<isbn13>9780374522926</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>6691</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26338</id>
+<name>Henry Roth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26338.Henry_Roth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>126583</id>
+<title>Appointment in Samarra</title>
+<title_without_series>Appointment in Samarra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126583.Appointment_in_Samarra]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320446769s/126583.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320446769m/126583.jpg]]></image_url>
+<num_pages>251</num_pages>
+<work>
+<id>2555382</id>
+</work>
+<isbn>0375719202</isbn>
+<isbn13>9780375719202</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>11425</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>27991</id>
+<name>John O&apos;Hara</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27991.John_O_Hara]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>380364</id>
+<title>Dog Soldiers</title>
+<title_without_series>Dog Soldiers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/380364.Dog_Soldiers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1306365286s/380364.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1306365286m/380364.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>1041095</id>
+</work>
+<isbn>0395860253</isbn>
+<isbn13>9780395860250</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>5143</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>41938</id>
+<name>Robert  Stone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41938.Robert_Stone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>778463</id>
+<title>Zuleika Dobson</title>
+<title_without_series>Zuleika Dobson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/778463.Zuleika_Dobson]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369859636s/778463.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369859636m/778463.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>942377</id>
+</work>
+<isbn>037575248X</isbn>
+<isbn13>9780375752483</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>3613</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>18985</id>
+<name>Max Beerbohm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18985.Max_Beerbohm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11324</id>
+<title>Under the Net</title>
+<title_without_series>Under the Net</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11324.Under_the_Net]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>3257831</id>
+</work>
+<isbn>0140014454</isbn>
+<isbn13>9780140014457</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>10084</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>7287</id>
+<name>Iris Murdoch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7287.Iris_Murdoch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>930392</id>
+<title>The Waters of Kronos</title>
+<title_without_series>The Waters of Kronos</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/930392.The_Waters_of_Kronos]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>915385</id>
+</work>
+<isbn>027102240X</isbn>
+<isbn13>9780271022406</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>217</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>8559</id>
+<name>Conrad Richter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8559.Conrad_Richter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3068</id>
+<title>The Assistant</title>
+<title_without_series>The Assistant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3068.The_Assistant]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411778913s/3068.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411778913m/3068.jpg]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>1181346</id>
+</work>
+<isbn>0374504849</isbn>
+<isbn13>9780374504847</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>7856</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>447</id>
+<name>Bernard Malamud</name>
+<link><![CDATA[https://www.goodreads.com/author/show/447.Bernard_Malamud]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24835</id>
+<title>The Sot-Weed Factor</title>
+<title_without_series>The Sot-Weed Factor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24835.The_Sot_Weed_Factor]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>756</num_pages>
+<work>
+<id>457683</id>
+</work>
+<isbn>1903809509</isbn>
+<isbn13>9781903809501</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>5923</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8113</id>
+<name>John Barth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8113.John_Barth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>261441</id>
+<title><![CDATA[USA: The 42nd Parallel / 1919 / The Big Money]]></title>
+<title_without_series><![CDATA[USA: The 42nd Parallel / 1919 / The Big Money]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/261441.USA]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309200622s/261441.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309200622m/261441.jpg]]></image_url>
+<num_pages>1312</num_pages>
+<work>
+<id>6503267</id>
+</work>
+<isbn>1883011140</isbn>
+<isbn13>9781883011147</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>4043</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4778</id>
+<name>John Dos Passos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4778.John_Dos_Passos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>775997</id>
+<title>Blood Tie</title>
+<title_without_series>Blood Tie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/775997.Blood_Tie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>404</num_pages>
+<work>
+<id>762035</id>
+</work>
+<isbn>1570030979</isbn>
+<isbn13>9781570030970</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>112</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>147350</id>
+<name>Mary Lee Settle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/147350.Mary_Lee_Settle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>113441</id>
+<title>The Day of the Locust</title>
+<title_without_series>The Day of the Locust</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/113441.The_Day_of_the_Locust]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>990677</id>
+</work>
+<isbn>0451523482</isbn>
+<isbn13>9780451523488</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>16703</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>65685</id>
+<name>Nathanael West</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65685.Nathanael_West]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>188454</id>
+<title>The Old Wives&apos; Tale</title>
+<title_without_series>The Old Wives&apos; Tale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/188454.The_Old_Wives_Tale]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1489465786s/188454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1489465786m/188454.jpg]]></image_url>
+<num_pages>565</num_pages>
+<work>
+<id>2248867</id>
+</work>
+<isbn>0375754903</isbn>
+<isbn13>9780375754906</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3373</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3314</id>
+<name>Arnold Bennett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3314.Arnold_Bennett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>91494</id>
+<title>The Death of the Heart</title>
+<title_without_series>The Death of the Heart</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/91494.The_Death_of_the_Heart]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1497190244s/91494.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1497190244m/91494.jpg]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>2225358</id>
+</work>
+<isbn>0385720173</isbn>
+<isbn13>9780385720175</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>5028</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>52578</id>
+<name>Elizabeth Bowen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/52578.Elizabeth_Bowen]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>265650</id>
+  <title><![CDATA[Shakespeare's Romeo and Juliet]]></title>
+  <isbn><![CDATA[0763622583]]></isbn>
+  <isbn13><![CDATA[9780763622589]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>12</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Candlewick</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The bard's quintessential love story — retold in an elegantly illustrated volume that will appeal both to aficionados of Shakespeare's play and to readers discovering it for the first time.</b><br /><br />The story has been told "many times by many different people in many different languages," notes Michael Rosen. Now the acclaimed author of SHAKESPEARE: HIS WORK AND HIS WORLD presents the Bard's best-loved play — perhaps of all time — in a beautiful picture book for children. Michael Rosen retells ROMEO AND JULIET scene by scene in a simple, lively style that incorporates the most celebrated passages in their original form, while a border on each spread offers act and scene references and a glossary of difficult words. Exquisite illustrations by Jane Ray complete the production, making this an edition to enthrall the eye as well as the ear.]]></description>
+  <work>
+  <id type="integer">961</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">265650</best_book_id>
+  <reviews_count type="integer">21284</reviews_count>
+  <ratings_sum type="integer">78297</ratings_sum>
+  <ratings_count type="integer">19162</ratings_count>
+  <text_reviews_count type="integer">101</text_reviews_count>
+  <original_publication_year type="integer">2003</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Shakespeare's Romeo and Juliet</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8217|4:5844|3:3949|2:837|1:315|total:19162</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.09</average_rating>
+  <num_pages><![CDATA[80]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[19097]]></ratings_count>
+  <text_reviews_count><![CDATA[99]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/265650.Shakespeare_s_Romeo_and_Juliet]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/265650.Shakespeare_s_Romeo_and_Juliet]]></link>
+  <authors>
+<author>
+<id>2059918</id>
+<name>Michael Rosen</name>
+<role>Text</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272914640p5/2059918.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272914640p2/2059918.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2059918.Michael_Rosen]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>60641</ratings_count>
+<text_reviews_count>2520</text_reviews_count>
+</author>
+<author>
+<id>132078</id>
+<name>Jane Ray</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1230964427p5/132078.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1230964427p2/132078.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/132078.Jane_Ray]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>21129</ratings_count>
+<text_reviews_count>442</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/265650.Shakespeare_s_Romeo_and_Juliet">Shakespeare&#39;s Romeo and Juliet Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0763622583&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/265650.Shakespeare_s_Romeo_and_Juliet?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1621"/>
+      <shelf name="classics" count="93"/>
+      <shelf name="currently-reading" count="56"/>
+      <shelf name="plays" count="39"/>
+      <shelf name="fiction" count="26"/>
+      <shelf name="shakespeare" count="21"/>
+      <shelf name="classic" count="16"/>
+      <shelf name="favorites" count="15"/>
+      <shelf name="literature" count="12"/>
+      <shelf name="drama" count="10"/>
+      <shelf name="romance" count="10"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="poetry" count="5"/>
+      <shelf name="owned" count="5"/>
+      <shelf name="play" count="5"/>
+      <shelf name="for-school" count="4"/>
+      <shelf name="theatre" count="4"/>
+      <shelf name="classic-literature" count="4"/>
+      <shelf name="children-s-books" count="3"/>
+      <shelf name="historical" count="3"/>
+      <shelf name="theater" count="3"/>
+      <shelf name="read-for-school" count="3"/>
+      <shelf name="picture-books" count="3"/>
+      <shelf name="young-adult" count="3"/>
+      <shelf name="love-story" count="2"/>
+      <shelf name="medieval-renaissance" count="2"/>
+      <shelf name="books-for-school" count="2"/>
+      <shelf name="sad" count="2"/>
+      <shelf name="school" count="2"/>
+      <shelf name="school-reads" count="2"/>
+      <shelf name="history" count="2"/>
+      <shelf name="novels" count="2"/>
+      <shelf name="classic-fiction" count="2"/>
+      <shelf name="favourite-books" count="2"/>
+      <shelf name="4-stars" count="2"/>
+      <shelf name="my-library" count="2"/>
+      <shelf name="ya" count="2"/>
+      <shelf name="historical-fiction" count="2"/>
+      <shelf name="william-shakespeare" count="2"/>
+      <shelf name="plays-and-theatre" count="2"/>
+      <shelf name="school-books" count="2"/>
+      <shelf name="highschool" count="2"/>
+      <shelf name="childrens" count="2"/>
+      <shelf name="glad-made-to-read" count="1"/>
+      <shelf name="scripts" count="1"/>
+      <shelf name="assigneds" count="1"/>
+      <shelf name="not-reviewed" count="1"/>
+      <shelf name="classics-to-read" count="1"/>
+      <shelf name="world-classic" count="1"/>
+      <shelf name="beautifully-covered" count="1"/>
+      <shelf name="hard-pass" count="1"/>
+      <shelf name="need-it-in-my-hands" count="1"/>
+      <shelf name="can-t-wait-to-read-it" count="1"/>
+      <shelf name="british" count="1"/>
+      <shelf name="my-books" count="1"/>
+      <shelf name="to-read-soon" count="1"/>
+      <shelf name="reading-flyer" count="1"/>
+      <shelf name="fave" count="1"/>
+      <shelf name="iveth510" count="1"/>
+      <shelf name="pradz-self" count="1"/>
+      <shelf name="home-bookshelf" count="1"/>
+      <shelf name="readalltheshakespeare" count="1"/>
+      <shelf name="printed-copy" count="1"/>
+      <shelf name="audiobook" count="1"/>
+      <shelf name="prior-to-2017" count="1"/>
+      <shelf name="adaptation" count="1"/>
+      <shelf name="classic-english-literature" count="1"/>
+      <shelf name="2017-reading-list" count="1"/>
+      <shelf name="classics-favourites" count="1"/>
+      <shelf name="shakespeare-intro" count="1"/>
+      <shelf name="love-triangles" count="1"/>
+      <shelf name="_findinlibrary" count="1"/>
+      <shelf name="classbooks" count="1"/>
+      <shelf name="dnf" count="1"/>
+      <shelf name="intellectual" count="1"/>
+      <shelf name="literary-classics" count="1"/>
+      <shelf name="it-s-a-classic" count="1"/>
+      <shelf name="humanities-social-sciences" count="1"/>
+      <shelf name="rory-gilmore-read" count="1"/>
+      <shelf name="read-in-hungarian" count="1"/>
+      <shelf name="englit" count="1"/>
+      <shelf name="82-93-children-juvenile-literature" count="1"/>
+      <shelf name="world-changers" count="1"/>
+      <shelf name="michael-rosen" count="1"/>
+      <shelf name="illustrated" count="1"/>
+      <shelf name="class-book-shelf" count="1"/>
+      <shelf name="camila" count="1"/>
+      <shelf name="my-shelf" count="1"/>
+      <shelf name="romance-phase" count="1"/>
+      <shelf name="high-schools-reads" count="1"/>
+      <shelf name="highly-recommended" count="1"/>
+      <shelf name="educational-novel" count="1"/>
+      <shelf name="books-based-on-the-bard" count="1"/>
+      <shelf name="sci-fi" count="1"/>
+      <shelf name="wish-list" count="1"/>
+      <shelf name="rome-and-juliet" count="1"/>
+      <shelf name="italy" count="1"/>
+      <shelf name="rory-gilmore-reading-challenge" count="1"/>
+      <shelf name="classic-lit" count="1"/>
+      <shelf name="beautiful-covers" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>74595</id>
+<title><![CDATA[William Shakespeare's: A Midsummer Night's Dream (Shakespeare Retellings, #2)]]></title>
+<title_without_series><![CDATA[William Shakespeare's: A Midsummer Night's Dream]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/74595.William_Shakespeare_s]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309202580s/74595.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309202580m/74595.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>21573159</id>
+</work>
+<isbn>0142501689</isbn>
+<isbn13>9780142501689</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>8010</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>10087</id>
+<name>Bruce Coville</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10087.Bruce_Coville]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2778262</id>
+<title>King Lear</title>
+<title_without_series>King Lear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2778262-king-lear]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3208012</id>
+</work>
+<isbn>1893131068</isbn>
+<isbn13>9781893131064</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>2221</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11528</id>
+<name>Gareth Hinds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11528.Gareth_Hinds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58033</id>
+<title><![CDATA[Four Great Tragedies: Hamlet / Othello / King Lear / Macbeth]]></title>
+<title_without_series><![CDATA[Four Great Tragedies: Hamlet / Othello / King Lear / Macbeth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58033.Four_Great_Tragedies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>56540</id>
+</work>
+<isbn>0451527291</isbn>
+<isbn13>9780451527295</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>12865</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2711313</id>
+<title><![CDATA[How the Grinch stole Christmas! And other stories]]></title>
+<title_without_series><![CDATA[How the Grinch stole Christmas! And other stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2711313-how-the-grinch-stole-christmas-and-other-stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>184</num_pages>
+<work>
+<id>2736851</id>
+</work>
+<isbn>0007258615</isbn>
+<isbn13>9780007258611</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>3497</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>701294</id>
+<title><![CDATA[With Courage and Cloth: Winning the Fight for a Woman's Right to Vote]]></title>
+<title_without_series><![CDATA[With Courage and Cloth: Winning the Fight for a Woman's Right to Vote]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/701294.With_Courage_and_Cloth]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>687594</id>
+</work>
+<isbn>0792276477</isbn>
+<isbn13>9780792276470</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>150</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>22089</id>
+<name>Ann Bausum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22089.Ann_Bausum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>589835</id>
+<title>The Braid</title>
+<title_without_series>The Braid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/589835.The_Braid]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316729269s/589835.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316729269m/589835.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>576604</id>
+</work>
+<isbn>0374309620</isbn>
+<isbn13>9780374309626</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>328</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>49193</id>
+<name>Helen Frost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49193.Helen_Frost]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1549</id>
+<title><![CDATA[Antigone / Oedipus the King / Electra]]></title>
+<title_without_series><![CDATA[Antigone / Oedipus the King / Electra]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1549.Antigone_Oedipus_the_King_Electra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>178</num_pages>
+<work>
+<id>6879893</id>
+</work>
+<isbn>0192835882</isbn>
+<isbn13>9780192835888</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>10709</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1002</id>
+<name>Sophocles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1002.Sophocles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7707</id>
+<title>Pygmalion &amp; My Fair Lady</title>
+<title_without_series>Pygmalion &amp; My Fair Lady</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7707.Pygmalion_My_Fair_Lady]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327891970s/7707.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327891970m/7707.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1701532</id>
+</work>
+<isbn>0451530098</isbn>
+<isbn13>9780451530097</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>13470</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2464291</id>
+<title><![CDATA[Hamlet (No Fear Shakespeare Graphic Novels)]]></title>
+<title_without_series>Hamlet</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2464291.Hamlet]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344704688s/2464291.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344704688m/2464291.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>40692005</id>
+</work>
+<isbn>1411498739</isbn>
+<isbn13>9781411498730</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>316</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>970679</id>
+<name>Neil Babra</name>
+<link><![CDATA[https://www.goodreads.com/author/show/970679.Neil_Babra]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>204843</id>
+<title>Urinetown: The Musical</title>
+<title_without_series>Urinetown: The Musical</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/204843.Urinetown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327909212s/204843.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327909212m/204843.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>198230</id>
+</work>
+<isbn>0571211828</isbn>
+<isbn13>9780571211821</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>697</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>119684</id>
+<name>Greg Kotis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/119684.Greg_Kotis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>479885</id>
+<title><![CDATA[Star Wars: A New Hope Manga, Volume 1]]></title>
+<title_without_series><![CDATA[Star Wars: A New Hope Manga, Volume 1]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/479885.Star_Wars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>468285</id>
+</work>
+<isbn>1569713626</isbn>
+<isbn13>9781569713624</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>147</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>260173</id>
+<name>Hisao Tamaki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/260173.Hisao_Tamaki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12077870</id>
+<title><![CDATA[Leo Geo and His Miraculous Journey Through the Center of the Earth]]></title>
+<title_without_series><![CDATA[Leo Geo and His Miraculous Journey Through the Center of the Earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12077870-leo-geo-and-his-miraculous-journey-through-the-center-of-the-earth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312045442s/12077870.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312045442m/12077870.jpg]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>17045683</id>
+</work>
+<isbn>1596436611</isbn>
+<isbn13>9781596436619</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>181</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5052400</id>
+<name>Jon Chad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5052400.Jon_Chad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>238000</id>
+<title><![CDATA[Manga Shakespeare: Romeo and Juliet]]></title>
+<title_without_series><![CDATA[Manga Shakespeare: Romeo and Juliet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/238000.Manga_Shakespeare]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1482790581s/238000.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1482790581m/238000.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>46158373</id>
+</work>
+<isbn>0810993252</isbn>
+<isbn13>9780810993259</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>804</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32979</id>
+<name>Richard Appignanesi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32979.Richard_Appignanesi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>64978</id>
+<title>Avenue Q: The Book</title>
+<title_without_series>Avenue Q: The Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/64978.Avenue_Q]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>63052</id>
+</work>
+<isbn>140130298X</isbn>
+<isbn13>9781401302986</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>265</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4552805</id>
+<name>Zachary Pincus-Roth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4552805.Zachary_Pincus_Roth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5965982</id>
+<title><![CDATA[Macbeth: The Graphic Novel (Original Text)]]></title>
+<title_without_series>Macbeth: The Graphic Novel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5965982-macbeth]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>13085226</id>
+</work>
+<isbn>1906332444</isbn>
+<isbn13>9781906332440</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>677</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>2966513</id>
+<name>John F.  McDonald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2966513.John_F_McDonald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>394425</id>
+<title><![CDATA[27 Wagons Full of Cotton and Other Plays]]></title>
+<title_without_series><![CDATA[27 Wagons Full of Cotton and Other Plays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/394425.27_Wagons_Full_of_Cotton_and_Other_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>383964</id>
+</work>
+<isbn>0811202259</isbn>
+<isbn13>9780811202251</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>547</ratings_count>
+<publication_year>1966</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>7751</id>
+<name>Tennessee Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7751.Tennessee_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1751569</id>
+<title>The School for Husbands</title>
+<title_without_series>The School for Husbands</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1751569.The_School_for_Husbands]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1749372</id>
+</work>
+<isbn>0822209985</isbn>
+<isbn13>9780822209980</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>175</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>29837</id>
+<name>Molière</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29837.Moli_re]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>297797</id>
+<title>The Skriker</title>
+<title_without_series>The Skriker</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/297797.The_Skriker]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354209567s/297797.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354209567m/297797.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>288931</id>
+</work>
+<isbn>1559360976</isbn>
+<isbn13>9781559360975</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>333</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>85149</id>
+<name>Caryl Churchill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85149.Caryl_Churchill]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

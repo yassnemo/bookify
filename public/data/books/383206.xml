@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>383206</id>
+  <title>Wives and Daughters</title>
+  <isbn><![CDATA[014043478X]]></isbn>
+  <isbn13><![CDATA[9780140434781]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0084ADOVK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1348267609m/383206.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1348267609s/383206.jpg</small_image_url>
+  <publication_year>1996</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>Penguin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Set in English society before the 1832 Reform Bill, <i>Wives and Daughters</i> centres on the story of youthful Molly Gibson, brought up from childhood by her father. When he remarries, a new step-sister enters Molly's quiet life – loveable, but worldly and troubling, Cynthia. The narrative traces the development of the two girls into womanhood within the gossiping and watchful society of Hollingford.<br /><br /><i>Wives and Daughters</i> is far more than a nostalgic evocation of village life; it offers an ironic critique of mid-Victorian society. 'No nineteenth-century novel contains a more devastating rejection than this of the Victorian male assumption of moral authority', writes Pam Morris in her introduction to this new edition, in which she explores the novel's main themes – the role of women, Darwinism and the concept of Englishness – and its literary and social context.]]></description>
+  <work>
+  <id type="integer">816009</id>
+  <books_count type="integer">254</books_count>
+  <best_book_id type="integer">383206</best_book_id>
+  <reviews_count type="integer">91130</reviews_count>
+  <ratings_sum type="integer">140950</ratings_sum>
+  <ratings_count type="integer">34625</ratings_count>
+  <text_reviews_count type="integer">1847</text_reviews_count>
+  <original_publication_year type="integer">1866</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Wives and Daughters</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:13169|4:13152|3:6443|2:1307|1:554|total:34625</rating_dist>
+  <desc_user_id type="integer">13235258</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[679]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Penguin Classics]]></edition_information>
+  <ratings_count><![CDATA[32047]]></ratings_count>
+  <text_reviews_count><![CDATA[1471]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/383206.Wives_and_Daughters]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/383206.Wives_and_Daughters]]></link>
+  <authors>
+<author>
+<id>1413437</id>
+<name>Elizabeth Gaskell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1223499865p5/1413437.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1223499865p2/1413437.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1413437.Elizabeth_Gaskell]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>206763</ratings_count>
+<text_reviews_count>11744</text_reviews_count>
+</author>
+<author>
+<id>451724</id>
+<name>Pam Morris</name>
+<role>editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/451724.Pam_Morris]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>32441</ratings_count>
+<text_reviews_count>1518</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/383206.Wives_and_Daughters">Wives and Daughters Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=014043478X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/383206.Wives_and_Daughters?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="52259"/>
+      <shelf name="classics" count="2118"/>
+      <shelf name="currently-reading" count="2019"/>
+      <shelf name="fiction" count="546"/>
+      <shelf name="favorites" count="359"/>
+      <shelf name="classic" count="312"/>
+      <shelf name="romance" count="227"/>
+      <shelf name="historical-fiction" count="203"/>
+      <shelf name="19th-century" count="148"/>
+      <shelf name="books-i-own" count="133"/>
+      <shelf name="victorian" count="121"/>
+      <shelf name="kindle" count="112"/>
+      <shelf name="literature" count="111"/>
+      <shelf name="owned" count="91"/>
+      <shelf name="british" count="88"/>
+      <shelf name="historical" count="83"/>
+      <shelf name="classic-literature" count="81"/>
+      <shelf name="british-literature" count="71"/>
+      <shelf name="favourites" count="61"/>
+      <shelf name="england" count="61"/>
+      <shelf name="to-read-classics" count="59"/>
+      <shelf name="classics-to-read" count="56"/>
+      <shelf name="to-buy" count="55"/>
+      <shelf name="novels" count="52"/>
+      <shelf name="elizabeth-gaskell" count="49"/>
+      <shelf name="wish-list" count="45"/>
+      <shelf name="audiobooks" count="43"/>
+      <shelf name="audiobook" count="42"/>
+      <shelf name="ebooks" count="41"/>
+      <shelf name="ebook" count="36"/>
+      <shelf name="audio" count="35"/>
+      <shelf name="english" count="35"/>
+      <shelf name="adult-fiction" count="34"/>
+      <shelf name="adult" count="33"/>
+      <shelf name="nook" count="30"/>
+      <shelf name="book-club" count="30"/>
+      <shelf name="owned-books" count="29"/>
+      <shelf name="classic-fiction" count="29"/>
+      <shelf name="my-ebooks" count="28"/>
+      <shelf name="library" count="28"/>
+      <shelf name="literary-fiction" count="27"/>
+      <shelf name="english-literature" count="27"/>
+      <shelf name="brit-lit" count="27"/>
+      <shelf name="british-lit" count="27"/>
+      <shelf name="e-book" count="26"/>
+      <shelf name="default" count="24"/>
+      <shelf name="novel" count="24"/>
+      <shelf name="e-books" count="24"/>
+      <shelf name="to-read-fiction" count="23"/>
+      <shelf name="women" count="22"/>
+      <shelf name="the-classics" count="22"/>
+      <shelf name="historical-romance" count="21"/>
+      <shelf name="classic-lit" count="21"/>
+      <shelf name="audible" count="20"/>
+      <shelf name="penguin-english-library" count="18"/>
+      <shelf name="on-kindle" count="18"/>
+      <shelf name="maybe" count="18"/>
+      <shelf name="victorian-literature" count="18"/>
+      <shelf name="own-it" count="18"/>
+      <shelf name="classics-tbr" count="16"/>
+      <shelf name="my-books" count="16"/>
+      <shelf name="general-fiction" count="16"/>
+      <shelf name="audio-books" count="16"/>
+      <shelf name="women-writers" count="15"/>
+      <shelf name="kindle-books" count="15"/>
+      <shelf name="all-time-favorites" count="15"/>
+      <shelf name="literary" count="15"/>
+      <shelf name="victorians" count="15"/>
+      <shelf name="19th-century-fiction" count="14"/>
+      <shelf name="regency" count="14"/>
+      <shelf name="didn-t-finish" count="14"/>
+      <shelf name="1800s" count="13"/>
+      <shelf name="coming-of-age" count="13"/>
+      <shelf name="britain" count="13"/>
+      <shelf name="uk" count="13"/>
+      <shelf name="romantic" count="13"/>
+      <shelf name="tbr" count="12"/>
+      <shelf name="female-author" count="12"/>
+      <shelf name="fiction-to-read" count="12"/>
+      <shelf name="public-domain" count="12"/>
+      <shelf name="victorian-lit" count="12"/>
+      <shelf name="own-to-read" count="12"/>
+      <shelf name="family" count="12"/>
+      <shelf name="librivox" count="12"/>
+      <shelf name="i-own" count="12"/>
+      <shelf name="abandoned" count="12"/>
+      <shelf name="chick-lit" count="11"/>
+      <shelf name="in-english" count="11"/>
+      <shelf name="english-classics" count="11"/>
+      <shelf name="audio-book" count="11"/>
+      <shelf name="my-favorites" count="11"/>
+      <shelf name="read-in-2016" count="10"/>
+      <shelf name="unfinished" count="10"/>
+      <shelf name="klassiker" count="10"/>
+      <shelf name="penguin-classics" count="10"/>
+      <shelf name="19th-century-lit" count="10"/>
+      <shelf name="clean-romance" count="10"/>
+      <shelf name="female-authors" count="10"/>
+      <shelf name="gaskell" count="10"/>
+      <shelf name="on-hold" count="9"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>3592</id>
+        <document_url>
+          http://feedbooks.com/book/2724.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>267104</id>
+<title>He Knew He Was Right</title>
+<title_without_series>He Knew He Was Right</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/267104.He_Knew_He_Was_Right]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>952</num_pages>
+<work>
+<id>2378128</id>
+</work>
+<isbn>0192835408</isbn>
+<isbn13>9780192835406</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>4811</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>20524</id>
+<name>Anthony Trollope</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20524.Anthony_Trollope]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>514761</id>
+<title><![CDATA[Miss Marjoribanks (Chronicles of Carlingford, #5)]]></title>
+<title_without_series>Miss Marjoribanks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/514761.Miss_Marjoribanks]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>502725</id>
+</work>
+<isbn>0140436308</isbn>
+<isbn13>9780140436303</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>1844</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>14266369</id>
+<name>Mrs. Oliphant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14266369.Mrs_Oliphant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45205</id>
+<title>No Name</title>
+<title_without_series>No Name</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45205.No_Name]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>748</num_pages>
+<work>
+<id>3242295</id>
+</work>
+<isbn>019283388X</isbn>
+<isbn13>9780192833884</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>6741</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4012</id>
+<name>Wilkie Collins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4012.Wilkie_Collins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>773534</id>
+<title>Belinda</title>
+<title_without_series>Belinda</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/773534.Belinda]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>2968487</id>
+</work>
+<isbn>0192837095</isbn>
+<isbn13>9780192837097</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>2389</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>82939</id>
+<name>Maria Edgeworth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/82939.Maria_Edgeworth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>304</id>
+<title>Daniel Deronda</title>
+<title_without_series>Daniel Deronda</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/304.Daniel_Deronda]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320432000s/304.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320432000m/304.jpg]]></image_url>
+<num_pages>796</num_pages>
+<work>
+<id>313957</id>
+</work>
+<isbn>037576013X</isbn>
+<isbn13>9780375760136</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>19155</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>173</id>
+<name>George Eliot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173.George_Eliot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>80606</id>
+<title>The Doctor&apos;s Wife</title>
+<title_without_series>The Doctor&apos;s Wife</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/80606.The_Doctor_s_Wife]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1425557398s/80606.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1425557398m/80606.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>77832</id>
+</work>
+<isbn>0192833014</isbn>
+<isbn13>9780192833013</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1095</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>2</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>45896</id>
+<name>Mary Elizabeth Braddon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45896.Mary_Elizabeth_Braddon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31250</id>
+<title>Little Dorrit</title>
+<title_without_series>Little Dorrit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31250.Little_Dorrit]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1496619146s/31250.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1496619146m/31250.jpg]]></image_url>
+<num_pages>985</num_pages>
+<work>
+<id>80851</id>
+</work>
+<isbn>0141439963</isbn>
+<isbn13>9780141439969</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>36555</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>899584</id>
+<title><![CDATA[The Wanderer: or, Female Difficulties]]></title>
+<title_without_series><![CDATA[The Wanderer: or, Female Difficulties]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/899584.The_Wanderer]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1008</num_pages>
+<work>
+<id>423816</id>
+</work>
+<isbn>0192837583</isbn>
+<isbn13>9780192837585</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>244</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>21152</id>
+<name>Fanny Burney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21152.Fanny_Burney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>675037</id>
+<title>The Odd Women</title>
+<title_without_series>The Odd Women</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/675037.The_Odd_Women]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>661046</id>
+</work>
+<isbn>019283312X</isbn>
+<isbn13>9780192833129</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>3284</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>4532116</id>
+<name>George Gissing</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4532116.George_Gissing]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

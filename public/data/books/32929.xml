@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>32929</id>
+  <title>Goodnight Moon</title>
+  <isbn><![CDATA[0060775858]]></isbn>
+  <isbn13><![CDATA[9780060775858]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01MPZ8KKF]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>23</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In a great green room, tucked away in bed, is a little bunny. "Goodnight room, goodnight moon." And to all the familiar things in the softly lit room -- to the picture of the three little bears sitting on chairs, to the clocks and his socks, to the mittens and the kittens, to everything one by one -- the little bunny says goodnight.<br /><br />In this classic of children's literature, beloved by generations of readers and listeners, the quiet poetry of the words and the gentle, lulling illustrations combine to make a perfect book for the end of the day.]]></description>
+  <work>
+  <id type="integer">1086867</id>
+  <books_count type="integer">98</books_count>
+  <best_book_id type="integer">32929</best_book_id>
+  <reviews_count type="integer">330493</reviews_count>
+  <ratings_sum type="integer">1078842</ratings_sum>
+  <ratings_count type="integer">252739</ratings_count>
+  <text_reviews_count type="integer">4607</text_reviews_count>
+  <original_publication_year type="integer">1947</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:140644|4:59636|3:37159|2:10301|1:4999|total:252739</rating_dist>
+  <desc_user_id type="integer">4276917</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.27</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[60th Anniversary Edition]]></edition_information>
+  <ratings_count><![CDATA[244900]]></ratings_count>
+  <text_reviews_count><![CDATA[4048]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32929.Goodnight_Moon]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32929.Goodnight_Moon]]></link>
+  <authors>
+<author>
+<id>18479</id>
+<name>Margaret Wise Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208465845p5/18479.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208465845p2/18479.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18479.Margaret_Wise_Brown]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>338372</ratings_count>
+<text_reviews_count>8047</text_reviews_count>
+</author>
+<author>
+<id>18480</id>
+<name>Clement Hurd</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18480.Clement_Hurd]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>308606</ratings_count>
+<text_reviews_count>5560</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32929.Goodnight_Moon">Goodnight Moon Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0060775858&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/32929.Goodnight_Moon?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="childrens" count="1950"/>
+      <shelf name="children-s-books" count="1685"/>
+      <shelf name="children" count="1336"/>
+      <shelf name="children-s" count="1287"/>
+      <shelf name="kids" count="799"/>
+      <shelf name="classics" count="692"/>
+      <shelf name="favorites" count="681"/>
+      <shelf name="childhood" count="532"/>
+      <shelf name="kids-books" count="532"/>
+      <shelf name="currently-reading" count="424"/>
+      <shelf name="picture-book" count="398"/>
+      <shelf name="picture-books" count="358"/>
+      <shelf name="childrens-books" count="316"/>
+      <shelf name="fiction" count="289"/>
+      <shelf name="to-read" count="272"/>
+      <shelf name="childhood-favorites" count="238"/>
+      <shelf name="children-s-literature" count="210"/>
+      <shelf name="owned" count="192"/>
+      <shelf name="children-s-lit" count="189"/>
+      <shelf name="books-i-own" count="176"/>
+      <shelf name="childhood-books" count="160"/>
+      <shelf name="children-books" count="152"/>
+      <shelf name="kid-books" count="117"/>
+      <shelf name="board-books" count="113"/>
+      <shelf name="poetry" count="111"/>
+      <shelf name="classic" count="106"/>
+      <shelf name="childrens-lit" count="95"/>
+      <shelf name="bedtime" count="91"/>
+      <shelf name="animals" count="80"/>
+      <shelf name="children-s-picture-books" count="73"/>
+      <shelf name="picture" count="72"/>
+      <shelf name="juvenile" count="70"/>
+      <shelf name="kid-s-books" count="69"/>
+      <shelf name="default" count="68"/>
+      <shelf name="favorite-children-s-books" count="68"/>
+      <shelf name="baby-books" count="67"/>
+      <shelf name="children-s-book" count="65"/>
+      <shelf name="childhood-reads" count="65"/>
+      <shelf name="baby" count="57"/>
+      <shelf name="preschool" count="57"/>
+      <shelf name="youth" count="57"/>
+      <shelf name="kid-lit" count="56"/>
+      <shelf name="owned-books" count="55"/>
+      <shelf name="childrens-picture-books" count="55"/>
+      <shelf name="read-aloud" count="54"/>
+      <shelf name="childrens-literature" count="54"/>
+      <shelf name="picturebooks" count="52"/>
+      <shelf name="my-childhood" count="51"/>
+      <shelf name="storytime" count="50"/>
+      <shelf name="childrensbooks" count="50"/>
+      <shelf name="fantasy" count="45"/>
+      <shelf name="for-the-kids" count="44"/>
+      <shelf name="children-s-fiction" count="44"/>
+      <shelf name="library" count="43"/>
+      <shelf name="read-as-a-kid" count="43"/>
+      <shelf name="early-childhood" count="43"/>
+      <shelf name="board-book" count="43"/>
+      <shelf name="kiddos" count="42"/>
+      <shelf name="rhyming" count="41"/>
+      <shelf name="i-own" count="41"/>
+      <shelf name="for-kids" count="40"/>
+      <shelf name="children-s-classics" count="39"/>
+      <shelf name="favorite-picture-books" count="38"/>
+      <shelf name="own-it" count="38"/>
+      <shelf name="books-from-my-childhood" count="37"/>
+      <shelf name="childhood-memories" count="37"/>
+      <shelf name="elementary" count="36"/>
+      <shelf name="children-young-adult" count="36"/>
+      <shelf name="bedtime-stories" count="36"/>
+      <shelf name="kid-stuff" count="35"/>
+      <shelf name="childrens-book" count="35"/>
+      <shelf name="shelfari-favorites" count="33"/>
+      <shelf name="pre-2000" count="33"/>
+      <shelf name="nostalgia" count="33"/>
+      <shelf name="my-library" count="33"/>
+      <shelf name="favorite" count="32"/>
+      <shelf name="read-as-a-child" count="31"/>
+      <shelf name="childhood-faves" count="31"/>
+      <shelf name="toddler" count="31"/>
+      <shelf name="illustrated" count="31"/>
+      <shelf name="all-time-favorites" count="31"/>
+      <shelf name="children-ya" count="30"/>
+      <shelf name="young-children" count="29"/>
+      <shelf name="kid" count="28"/>
+      <shelf name="edrd-314" count="27"/>
+      <shelf name="read-more-than-once" count="27"/>
+      <shelf name="books-i-read-as-a-kid" count="27"/>
+      <shelf name="to-buy" count="27"/>
+      <shelf name="young-adult" count="27"/>
+      <shelf name="books-for-children" count="27"/>
+      <shelf name="childhood-favorite" count="27"/>
+      <shelf name="5-stars" count="27"/>
+      <shelf name="family" count="26"/>
+      <shelf name="moon" count="26"/>
+      <shelf name="favorite-childrens-books" count="26"/>
+      <shelf name="amazon-100" count="25"/>
+      <shelf name="from-my-childhood" count="25"/>
+      <shelf name="favorite-kids-books" count="25"/>
+      <shelf name="100-books-to-read-in-a-lifetime" count="24"/>
+      <shelf name="margaret-wise-brown" count="24"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>720388</id>
+<user_position>2</user_position>
+<series>
+<id>143487</id>
+<title>
+<![CDATA[
+    Over the Moon
+]]>
+</title>
+<description>
+<![CDATA[
+    Over the Moon: A Collection of First Books
+    Goodnight Moon, The Runaway Bunny, and My World
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>4600</id>
+<title>Moo, Baa, La La La!</title>
+<title_without_series>Moo, Baa, La La La!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4600.Moo_Baa_La_La_La_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1451996462s/4600.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1451996462m/4600.jpg]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>477124</id>
+</work>
+<isbn>0689861133</isbn>
+<isbn13>9780689861130</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>27432</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>364063</id>
+<title>10 Little Rubber Ducks</title>
+<title_without_series>10 Little Rubber Ducks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/364063.10_Little_Rubber_Ducks]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>1167145</id>
+</work>
+<isbn>0007202423</isbn>
+<isbn13>9780007202423</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>3945</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1102025</id>
+<title>Hush Little Baby</title>
+<title_without_series>Hush Little Baby</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1102025.Hush_Little_Baby]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>823851</id>
+</work>
+<isbn>0811814165</isbn>
+<isbn13>9780811814164</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>633</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37234</id>
+<name>Sylvia Long</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37234.Sylvia_Long]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1002873</id>
+<title>Baby Beluga</title>
+<title_without_series>Baby Beluga</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1002873.Baby_Beluga]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320436289s/1002873.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320436289m/1002873.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>896660</id>
+</work>
+<isbn>0517709775</isbn>
+<isbn13>9780517709771</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>2224</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4128756</id>
+<name>Raffi Cavoukian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4128756.Raffi_Cavoukian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>815234</id>
+<title>The Napping House</title>
+<title_without_series>The Napping House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/815234.The_Napping_House]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410229873s/815234.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410229873m/815234.jpg]]></image_url>
+<num_pages>16</num_pages>
+<work>
+<id>359311</id>
+</work>
+<isbn>0152026320</isbn>
+<isbn13>9780152026325</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>38725</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3368</id>
+<name>Audrey Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3368.Audrey_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17797344</id>
+<title><![CDATA[Dr. Seuss's ABC: An Amazing Alphabet Book! (Bright and Early Board Books)]]></title>
+<title_without_series><![CDATA[Dr. Seuss's ABC: An Amazing Alphabet Book!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17797344-dr-seuss-s-abc]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1435186982s/17797344.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1435186982m/17797344.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>1603647</id>
+</work>
+<isbn>0385375166</isbn>
+<isbn13>9780385375160</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>35289</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>57605</id>
+<title>Pat the Bunny</title>
+<title_without_series>Pat the Bunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/57605.Pat_the_Bunny]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>18</num_pages>
+<work>
+<id>56119</id>
+</work>
+<isbn>0307444058</isbn>
+<isbn13>9780307444059</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>19873</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>32504</id>
+<name>Dorothy Kunhardt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32504.Dorothy_Kunhardt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>909534</id>
+<title><![CDATA[What Makes A Rainbow (Magic Ribbon Books)]]></title>
+<title_without_series>What Makes A Rainbow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/909534.What_Makes_A_Rainbow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>894671</id>
+</work>
+<isbn>1581172206</isbn>
+<isbn13>9781581172201</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>918</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>314878</id>
+<name>Betty Schwartz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/314878.Betty_Schwartz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>201146</id>
+<title>Little Bear</title>
+<title_without_series>Little Bear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/201146.Little_Bear]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1318518124s/201146.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1318518124m/201146.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>506009</id>
+</work>
+<isbn>0590319671</isbn>
+<isbn13>9780590319676</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>47569</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8722</id>
+<name>Else Holmelund Minarik</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8722.Else_Holmelund_Minarik]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>284665</id>
+<title>Peek-a-Who?</title>
+<title_without_series>Peek-a-Who?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/284665.Peek_a_Who_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>276175</id>
+</work>
+<isbn>0811826023</isbn>
+<isbn13>9780811826020</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>4959</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>76189</id>
+<name>Nina Laden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76189.Nina_Laden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>682920</id>
+<title><![CDATA[The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear]]></title>
+<title_without_series><![CDATA[The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/682920.The_Little_Mouse_the_Red_Ripe_Strawberry_and_the_Big_Hungry_Bear]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413750983s/682920.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413750983m/682920.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>8501</id>
+</work>
+<isbn>0859536599</isbn>
+<isbn13>9780859536592</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>31772</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3363</id>
+<name>Don    Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3363.Don_Wood]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

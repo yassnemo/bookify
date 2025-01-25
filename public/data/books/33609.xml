@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>33609</id>
+  <title>Katherine</title>
+  <isbn><![CDATA[155652532X]]></isbn>
+  <isbn13><![CDATA[9781556525322]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00FRKP9S6]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This classic romance novel tells the true story of the love affair that changed history—that of Katherine Swynford and John of Gaunt, Duke of Lancaster, the ancestors of most of the British royal family. Set in the vibrant 14th century of Chaucer and the Black Death, the story features knights fighting in battle, serfs struggling in poverty, and the magnificent Plantagenets—Edward III, the Black Prince, and Richard II—who ruled despotically over a court rotten with intrigue. Within this era of danger and romance, John of Gaunt, the king’s son, falls passionately in love with the already married Katherine. Their well-documented affair and love persist through decades of war, adultery, murder, loneliness, and redemption. This epic novel of conflict, cruelty, and untamable love has become a classic since its first publication in 1954.<br />]]></description>
+  <work>
+  <id type="integer">2372397</id>
+  <books_count type="integer">45</books_count>
+  <best_book_id type="integer">33609</best_book_id>
+  <reviews_count type="integer">58742</reviews_count>
+  <ratings_sum type="integer">100909</ratings_sum>
+  <ratings_count type="integer">24153</ratings_count>
+  <text_reviews_count type="integer">1671</text_reviews_count>
+  <original_publication_year type="integer">1954</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Katherine</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10930|4:8152|3:3861|2:858|1:352|total:24153</rating_dist>
+  <desc_user_id type="integer">2640167</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.18</average_rating>
+  <num_pages><![CDATA[500]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[Rediscovered Classics]]></edition_information>
+  <ratings_count><![CDATA[22590]]></ratings_count>
+  <text_reviews_count><![CDATA[1470]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/33609.Katherine]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/33609.Katherine]]></link>
+  <authors>
+<author>
+<id>18930</id>
+<name>Anya Seton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224813438p5/18930.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224813438p2/18930.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18930.Anya_Seton]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>44111</ratings_count>
+<text_reviews_count>3147</text_reviews_count>
+</author>
+<author>
+<id>9987</id>
+<name>Philippa Gregory</name>
+<role>Foreword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1351685194p5/9987.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1351685194p2/9987.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9987.Philippa_Gregory]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>1191720</ratings_count>
+<text_reviews_count>63039</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/33609.Katherine">Katherine Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=155652532X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/33609.Katherine?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="32295"/>
+      <shelf name="historical-fiction" count="1519"/>
+      <shelf name="currently-reading" count="375"/>
+      <shelf name="favorites" count="330"/>
+      <shelf name="fiction" count="294"/>
+      <shelf name="historical" count="277"/>
+      <shelf name="romance" count="272"/>
+      <shelf name="classics" count="176"/>
+      <shelf name="medieval" count="113"/>
+      <shelf name="england" count="107"/>
+      <shelf name="historical-romance" count="102"/>
+      <shelf name="history" count="89"/>
+      <shelf name="books-i-own" count="70"/>
+      <shelf name="owned" count="66"/>
+      <shelf name="bbc-big-read" count="51"/>
+      <shelf name="14th-century" count="49"/>
+      <shelf name="library" count="42"/>
+      <shelf name="favourites" count="35"/>
+      <shelf name="kindle" count="32"/>
+      <shelf name="classic" count="32"/>
+      <shelf name="bbc-top-100" count="30"/>
+      <shelf name="audiobooks" count="29"/>
+      <shelf name="book-club" count="29"/>
+      <shelf name="fiction-historical" count="29"/>
+      <shelf name="audio" count="26"/>
+      <shelf name="plantagenets" count="26"/>
+      <shelf name="adult" count="26"/>
+      <shelf name="anya-seton" count="26"/>
+      <shelf name="wish-list" count="25"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="to-buy" count="22"/>
+      <shelf name="royalty" count="22"/>
+      <shelf name="audible" count="21"/>
+      <shelf name="middle-ages" count="21"/>
+      <shelf name="plantagenet" count="21"/>
+      <shelf name="audiobook" count="20"/>
+      <shelf name="british" count="20"/>
+      <shelf name="to-read-historical-fiction" count="18"/>
+      <shelf name="historic-fiction" count="17"/>
+      <shelf name="adult-fiction" count="17"/>
+      <shelf name="historicalfiction" count="17"/>
+      <shelf name="novels" count="16"/>
+      <shelf name="biography" count="15"/>
+      <shelf name="historical-novels" count="15"/>
+      <shelf name="all-time-favorites" count="15"/>
+      <shelf name="default" count="14"/>
+      <shelf name="ebook" count="14"/>
+      <shelf name="did-not-finish" count="14"/>
+      <shelf name="maybe" count="14"/>
+      <shelf name="bbc" count="13"/>
+      <shelf name="english-history" count="13"/>
+      <shelf name="i-own" count="13"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="british-history" count="13"/>
+      <shelf name="novel" count="13"/>
+      <shelf name="the-big-read" count="12"/>
+      <shelf name="shelfari-favorites" count="11"/>
+      <shelf name="to-read-fiction" count="11"/>
+      <shelf name="love" count="11"/>
+      <shelf name="bbc-100" count="11"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="uk" count="11"/>
+      <shelf name="bbc-the-big-read" count="11"/>
+      <shelf name="literature" count="11"/>
+      <shelf name="historical-novel" count="11"/>
+      <shelf name="fiction-to-read" count="11"/>
+      <shelf name="europe" count="11"/>
+      <shelf name="1" count="10"/>
+      <shelf name="historic" count="10"/>
+      <shelf name="want-to-read" count="10"/>
+      <shelf name="britain" count="10"/>
+      <shelf name="a" count="9"/>
+      <shelf name="katherine-swynford" count="9"/>
+      <shelf name="women-writers" count="9"/>
+      <shelf name="20th-century" count="9"/>
+      <shelf name="history-fiction" count="9"/>
+      <shelf name="romance-historical" count="9"/>
+      <shelf name="have" count="8"/>
+      <shelf name="my-favorites" count="8"/>
+      <shelf name="john-of-gaunt" count="8"/>
+      <shelf name="ebooks" count="8"/>
+      <shelf name="own-to-read" count="8"/>
+      <shelf name="favorite-books" count="8"/>
+      <shelf name="royals" count="8"/>
+      <shelf name="medieval-england" count="8"/>
+      <shelf name="medieval-romance" count="8"/>
+      <shelf name="i-own-it" count="8"/>
+      <shelf name="re-read" count="8"/>
+      <shelf name="to-read-own" count="8"/>
+      <shelf name="tbr" count="8"/>
+      <shelf name="women" count="8"/>
+      <shelf name="plague" count="8"/>
+      <shelf name="5-stars" count="7"/>
+      <shelf name="historical-fiction-to-read" count="7"/>
+      <shelf name="big-read" count="7"/>
+      <shelf name="favorite" count="7"/>
+      <shelf name="general-fiction" count="7"/>
+      <shelf name="british-literature" count="7"/>
+      <shelf name="e-book" count="7"/>
+      <shelf name="dnf" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>414641</id>
+<title><![CDATA[The Greatest Knight (William Marshal, #2)]]></title>
+<title_without_series>The Greatest Knight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/414641.The_Greatest_Knight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1174532558s/414641.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1174532558m/414641.jpg]]></image_url>
+<num_pages>552</num_pages>
+<work>
+<id>403858</id>
+</work>
+<isbn>0751536601</isbn>
+<isbn13>9780751536607</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>6824</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>25765</id>
+<name>Elizabeth Chadwick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25765.Elizabeth_Chadwick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77448</id>
+<title><![CDATA[Falls the Shadow  (Welsh Princes, #2)]]></title>
+<title_without_series>Falls the Shadow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77448.Falls_the_Shadow]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1448657270s/77448.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1448657270m/77448.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>991472</id>
+</work>
+<isbn>0345360338</isbn>
+<isbn13>9780345360335</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>7547</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24655</id>
+<name>Sharon Kay Penman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24655.Sharon_Kay_Penman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>729602</id>
+<title>Within the Fetterlock</title>
+<title_without_series>Within the Fetterlock</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/729602.Within_the_Fetterlock]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>530</num_pages>
+<work>
+<id>715802</id>
+</work>
+<isbn>0972209115</isbn>
+<isbn13>9780972209113</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>310</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>387617</id>
+<name>Brian Wainwright</name>
+<link><![CDATA[https://www.goodreads.com/author/show/387617.Brian_Wainwright]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6308679</id>
+<title>Hugh and Bess: A Love Story</title>
+<title_without_series>Hugh and Bess: A Love Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6308679-hugh-and-bess]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2544014</id>
+</work>
+<isbn>1402215274</isbn>
+<isbn13>9781402215278</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1649</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>260080</id>
+<name>Susan Higginbotham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/260080.Susan_Higginbotham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2015307</id>
+<title>Daughter of York</title>
+<title_without_series>Daughter of York</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2015307.Daughter_of_York]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>557</num_pages>
+<work>
+<id>2019577</id>
+</work>
+<isbn>0743277317</isbn>
+<isbn13>9780743277310</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>3427</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12352</id>
+<name>Anne Easter Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12352.Anne_Easter_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>128236</id>
+<title><![CDATA[The Shield of Three Lions (Alix of Wanthwaite, #1)]]></title>
+<title_without_series>The Shield of Three Lions</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/128236.The_Shield_of_Three_Lions]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>123503</id>
+</work>
+<isbn>0609809466</isbn>
+<isbn13>9780609809464</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>848</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>73617</id>
+<name>Pamela Kaufman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73617.Pamela_Kaufman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>194006</id>
+<title>Legacy</title>
+<title_without_series>Legacy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/194006.Legacy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268662915s/194006.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268662915m/194006.jpg]]></image_url>
+<num_pages>647</num_pages>
+<work>
+<id>895731</id>
+</work>
+<isbn>038070322X</isbn>
+<isbn13>9780380703227</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>2454</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>111001</id>
+<name>Susan  Kay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/111001.Susan_Kay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>499712</id>
+<title><![CDATA[Katherine Swynford: The Story of John of Gaunt and His Scandalous Duchess]]></title>
+<title_without_series><![CDATA[Katherine Swynford: The Story of John of Gaunt and His Scandalous Duchess]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/499712.Katherine_Swynford]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328131007s/499712.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328131007m/499712.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>487826</id>
+</work>
+<isbn>0224063219</isbn>
+<isbn13>9780224063210</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>3245</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>6583</id>
+<name>Alison Weir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6583.Alison_Weir]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

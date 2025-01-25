@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>181400</id>
+  <title>The Tale of Three Trees</title>
+  <isbn><![CDATA[0745917437]]></isbn>
+  <isbn13><![CDATA[9780745917436]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">175281</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">181400</best_book_id>
+  <reviews_count type="integer">17284</reviews_count>
+  <ratings_sum type="integer">60586</ratings_sum>
+  <ratings_count type="integer">13404</ratings_count>
+  <text_reviews_count type="integer">340</text_reviews_count>
+  <original_publication_year type="integer">1989</original_publication_year>
+  <original_publication_month type="integer">9</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>The Tale of Three Trees: A Traditional Folktale</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8853|4:3035|3:1239|2:187|1:90|total:13404</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.52</average_rating>
+  <num_pages><![CDATA[25]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13236]]></ratings_count>
+  <text_reviews_count><![CDATA[321]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/181400.The_Tale_of_Three_Trees]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/181400.The_Tale_of_Three_Trees]]></link>
+  <authors>
+<author>
+<id>62999</id>
+<name>Angela Elwell Hunt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1212001112p5/62999.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1212001112p2/62999.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/62999.Angela_Elwell_Hunt]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>44184</ratings_count>
+<text_reviews_count>4007</text_reviews_count>
+</author>
+<author>
+<id>436823</id>
+<name>Tim Jonke</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/436823.Tim_Jonke]]></link>
+<average_rating>4.52</average_rating>
+<ratings_count>13375</ratings_count>
+<text_reviews_count>329</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/181400.The_Tale_of_Three_Trees">The Tale of Three Trees Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0745917437&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/181400.The_Tale_of_Three_Trees?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3192"/>
+      <shelf name="picture-books" count="143"/>
+      <shelf name="children-s-books" count="113"/>
+      <shelf name="childrens" count="110"/>
+      <shelf name="christmas" count="107"/>
+      <shelf name="children" count="103"/>
+      <shelf name="favorites" count="77"/>
+      <shelf name="children-s" count="75"/>
+      <shelf name="christian" count="66"/>
+      <shelf name="childrens-books" count="48"/>
+      <shelf name="kids" count="40"/>
+      <shelf name="religious" count="34"/>
+      <shelf name="kids-books" count="32"/>
+      <shelf name="fiction" count="32"/>
+      <shelf name="picture-book" count="29"/>
+      <shelf name="christian-fiction" count="28"/>
+      <shelf name="religion" count="27"/>
+      <shelf name="easter" count="24"/>
+      <shelf name="childhood" count="21"/>
+      <shelf name="currently-reading" count="20"/>
+      <shelf name="books-i-own" count="20"/>
+      <shelf name="holiday" count="19"/>
+      <shelf name="christmas-books" count="18"/>
+      <shelf name="christianity" count="17"/>
+      <shelf name="classics" count="16"/>
+      <shelf name="inspirational" count="16"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="children-s-lit" count="14"/>
+      <shelf name="children-s-literature" count="13"/>
+      <shelf name="spiritual" count="13"/>
+      <shelf name="children-s-picture-books" count="11"/>
+      <shelf name="childhood-books" count="10"/>
+      <shelf name="children-books" count="10"/>
+      <shelf name="library" count="9"/>
+      <shelf name="default" count="9"/>
+      <shelf name="kid-s-books" count="9"/>
+      <shelf name="childhood-favorites" count="9"/>
+      <shelf name="lds" count="9"/>
+      <shelf name="holidays" count="9"/>
+      <shelf name="favorite-picture-books" count="8"/>
+      <shelf name="christmas-stories" count="7"/>
+      <shelf name="picture" count="7"/>
+      <shelf name="folklore" count="7"/>
+      <shelf name="faith" count="7"/>
+      <shelf name="read-aloud" count="6"/>
+      <shelf name="picturebooks" count="6"/>
+      <shelf name="childrens-picture-books" count="6"/>
+      <shelf name="childrens-literature" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="childrens-book" count="6"/>
+      <shelf name="home-library" count="5"/>
+      <shelf name="my-childhood" count="5"/>
+      <shelf name="school" count="5"/>
+      <shelf name="folktale" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="young-adult" count="5"/>
+      <shelf name="childrens-lit" count="5"/>
+      <shelf name="childrens-fiction" count="4"/>
+      <shelf name="children-s-favorites" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="children-s-book" count="4"/>
+      <shelf name="childhood-reads" count="4"/>
+      <shelf name="church" count="4"/>
+      <shelf name="children-picture-books" count="4"/>
+      <shelf name="read-alouds" count="4"/>
+      <shelf name="kid-books" count="4"/>
+      <shelf name="trees" count="3"/>
+      <shelf name="angela-hunt" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="preschool" count="3"/>
+      <shelf name="short-stories" count="3"/>
+      <shelf name="kid-s" count="3"/>
+      <shelf name="want-to-buy" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="lower-elementary" count="3"/>
+      <shelf name="childrens-christmas" count="3"/>
+      <shelf name="children-s-books-read" count="3"/>
+      <shelf name="religious-fiction" count="3"/>
+      <shelf name="childrens-to-read" count="3"/>
+      <shelf name="read-with-kids" count="3"/>
+      <shelf name="family" count="3"/>
+      <shelf name="children-s-picture-book" count="3"/>
+      <shelf name="folk-tales" count="3"/>
+      <shelf name="inspirational-fiction" count="3"/>
+      <shelf name="historical-fiction" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="favs" count="3"/>
+      <shelf name="childrens-picture-book" count="3"/>
+      <shelf name="pre-k" count="3"/>
+      <shelf name="elementary" count="3"/>
+      <shelf name="great-books" count="3"/>
+      <shelf name="for-kids" count="3"/>
+      <shelf name="familypicturebooks" count="3"/>
+      <shelf name="we-own" count="3"/>
+      <shelf name="young-children" count="3"/>
+      <shelf name="juvenile" count="3"/>
+      <shelf name="folktales" count="3"/>
+      <shelf name="read-to-my-children" count="2"/>
+      <shelf name="0wn" count="2"/>
+      <shelf name="april" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>987587</id>
+<title>The Crippled Lamb</title>
+<title_without_series>The Crippled Lamb</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/987587.The_Crippled_Lamb]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>740815</id>
+</work>
+<isbn>0849910056</isbn>
+<isbn13>0020049010051</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>5666</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>2737</id>
+<name>Max Lucado</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2737.Max_Lucado]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1611887</id>
+<title>Christmas Oranges</title>
+<title_without_series>Christmas Oranges</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1611887.Christmas_Oranges]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1605584</id>
+</work>
+<isbn>1591560985</isbn>
+<isbn13>9781591560982</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>2669</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>746802</id>
+<name>Linda Bethers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/746802.Linda_Bethers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1824804</id>
+<title>A Christmas Dress for Ellen</title>
+<title_without_series>A Christmas Dress for Ellen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1824804.A_Christmas_Dress_for_Ellen]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1824524</id>
+</work>
+<isbn>1590383869</isbn>
+<isbn13>9781590383865</isbn13>
+<average_rating>4.51</average_rating>
+<ratings_count>1194</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>411899</id>
+<name>Thomas S. Monson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/411899.Thomas_S_Monson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>720849</id>
+<title>The Legend of the Candy Cane</title>
+<title_without_series>The Legend of the Candy Cane</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/720849.The_Legend_of_the_Candy_Cane]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344678497s/720849.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344678497m/720849.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>707091</id>
+</work>
+<isbn>0310212472</isbn>
+<isbn13>9780310212478</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>3650</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>8727</id>
+<name>Lori Walburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8727.Lori_Walburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1434923</id>
+<title><![CDATA[The Christmas Miracle of Jonathan Toomey]]></title>
+<title_without_series><![CDATA[The Christmas Miracle of Jonathan Toomey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1434923.The_Christmas_Miracle_of_Jonathan_Toomey]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1425476</id>
+</work>
+<isbn>0849976820</isbn>
+<isbn13>9780849976827</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>9145</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>164488</id>
+<name>Susan Wojciechowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164488.Susan_Wojciechowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42288</id>
+<title><![CDATA[Why Christmas Trees Aren't Perfect]]></title>
+<title_without_series><![CDATA[Why Christmas Trees Aren't Perfect]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42288.Why_Christmas_Trees_Aren_t_Perfect]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>41780</id>
+</work>
+<isbn>0687453631</isbn>
+<isbn13>9780687453634</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>505</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>23800</id>
+<name>Richard H. Schneider</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23800.Richard_H_Schneider]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>500285</id>
+<title>Daughter of a King</title>
+<title_without_series>Daughter of a King</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/500285.Daughter_of_a_King]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>488395</id>
+</work>
+<isbn>1577349350</isbn>
+<isbn13>9781577349358</isbn13>
+<average_rating>4.47</average_rating>
+<ratings_count>1703</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>21980</id>
+<name>Rachel Ann Nunes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21980.Rachel_Ann_Nunes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1467718</id>
+<title>I Believe in Santa Claus</title>
+<title_without_series>I Believe in Santa Claus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1467718.I_Believe_in_Santa_Claus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1458638</id>
+</work>
+<isbn>0967357101</isbn>
+<isbn13>9780967357102</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>652</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>688020</id>
+<name>Diane Adamson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/688020.Diane_Adamson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1214901</id>
+<title><![CDATA[Room for a Little One: A Christmas Tale]]></title>
+<title_without_series><![CDATA[Room for a Little One: A Christmas Tale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1214901.Room_for_a_Little_One]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2479669</id>
+</work>
+<isbn>141692518X</isbn>
+<isbn13>9781416925187</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>1943</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>36722</id>
+<name>Martin Waddell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36722.Martin_Waddell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>128693</id>
+<title>I Am a Child of God</title>
+<title_without_series>I Am a Child of God</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/128693.I_Am_a_Child_of_God]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329156532s/128693.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329156532m/128693.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>123945</id>
+</work>
+<isbn>1577349334</isbn>
+<isbn13>9781577349334</isbn13>
+<average_rating>4.59</average_rating>
+<ratings_count>834</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>73932</id>
+<name>Wendy Nelsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73932.Wendy_Nelsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>399040</id>
+<title><![CDATA[My First Book of Mormon Stories]]></title>
+<title_without_series><![CDATA[My First Book of Mormon Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/399040.My_First_Book_of_Mormon_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>388487</id>
+</work>
+<isbn>1573453072</isbn>
+<isbn13>9781573453073</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1557</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>226383</id>
+<name>Deanna Draper Buck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/226383.Deanna_Draper_Buck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1214550</id>
+<title>Mortimer&apos;s Christmas Manger</title>
+<title_without_series>Mortimer&apos;s Christmas Manger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1214550.Mortimer_s_Christmas_Manger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1202987</id>
+</work>
+<isbn>0689855117</isbn>
+<isbn13>9780689855115</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>35105</id>
+<name>Karma Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35105.Karma_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>262442</id>
+<title>The Story of the Walnut Tree</title>
+<title_without_series>The Story of the Walnut Tree</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/262442.The_Story_of_the_Walnut_Tree]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>254387</id>
+</work>
+<isbn>1573458856</isbn>
+<isbn13>9781573458856</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>811</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>153396</id>
+<name>Don H. Staheli</name>
+<link><![CDATA[https://www.goodreads.com/author/show/153396.Don_H_Staheli]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>220068</id>
+<title>Fanny&apos;s Dream</title>
+<title_without_series>Fanny&apos;s Dream</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/220068.Fanny_s_Dream]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>213082</id>
+</work>
+<isbn>0142500607</isbn>
+<isbn13>9780142500606</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>2635</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>307885</id>
+<name>Caralyn Buehner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/307885.Caralyn_Buehner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114282</id>
+<title>The Littlest Angel</title>
+<title_without_series>The Littlest Angel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114282.The_Littlest_Angel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>30</num_pages>
+<work>
+<id>1874292</id>
+</work>
+<isbn>0824953320</isbn>
+<isbn13>9780824953324</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>5377</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>66162</id>
+<name>Charles Tazewell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66162.Charles_Tazewell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2073891</id>
+<title>Humphreys First Christmas</title>
+<title_without_series>Humphreys First Christmas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2073891.Humphreys_First_Christmas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2079139</id>
+</work>
+<isbn>0824955595</isbn>
+<isbn13>9780824955595</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>359</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>573815</id>
+<name>Carol Heyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/573815.Carol_Heyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>875078</id>
+<title>The Donkey&apos;s Dream</title>
+<title_without_series>The Donkey&apos;s Dream</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/875078.The_Donkey_s_Dream]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1291222236s/875078.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1291222236m/875078.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>732543</id>
+</work>
+<isbn>0399212337</isbn>
+<isbn13>9780399212338</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>339</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>24274</id>
+<name>Barbara Helen Berger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24274.Barbara_Helen_Berger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>283019</id>
+<title><![CDATA[The Squire and the Scroll: A Tale of the Rewards of a Pure Heart]]></title>
+<title_without_series><![CDATA[The Squire and the Scroll: A Tale of the Rewards of a Pure Heart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/283019.The_Squire_and_the_Scroll]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>274553</id>
+</work>
+<isbn>1593170793</isbn>
+<isbn13>9781593170790</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>324</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>49179</id>
+<name>Jennie Bishop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49179.Jennie_Bishop]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

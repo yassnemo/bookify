@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9804</id>
+  <title>The Baron in the Trees</title>
+  <isbn><![CDATA[0156106809]]></isbn>
+  <isbn13><![CDATA[9780156106801]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1344432724m/9804.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1344432724s/9804.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Cosimo, a young eighteenth-century Italian nobleman, rebels by climbing into the trees to remain there for the rest of his life. He adapts efficiently to an arboreal existence and even has love affairs.]]></description>
+  <work>
+  <id type="integer">865256</id>
+  <books_count type="integer">110</books_count>
+  <best_book_id type="integer">9804</best_book_id>
+  <reviews_count type="integer">32366</reviews_count>
+  <ratings_sum type="integer">76509</ratings_sum>
+  <ratings_count type="integer">18857</ratings_count>
+  <text_reviews_count type="integer">932</text_reviews_count>
+  <original_publication_year type="integer">1957</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Il barone rampante</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6936|4:7258|3:3666|2:802|1:195|total:18857</rating_dist>
+  <desc_user_id type="integer">1916127</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.06</average_rating>
+  <num_pages><![CDATA[217]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13226]]></ratings_count>
+  <text_reviews_count><![CDATA[615]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9804.The_Baron_in_the_Trees]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9804.The_Baron_in_the_Trees]]></link>
+  <authors>
+<author>
+<id>155517</id>
+<name>Italo Calvino</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501975461p5/155517.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501975461p2/155517.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/155517.Italo_Calvino]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>195410</ratings_count>
+<text_reviews_count>12869</text_reviews_count>
+</author>
+<author>
+<id>6409</id>
+<name>Archibald Colquhoun</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6409.Archibald_Colquhoun]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>29662</ratings_count>
+<text_reviews_count>1669</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9804.The_Baron_in_the_Trees">The Baron in the Trees Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0156106809&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/9804.The_Baron_in_the_Trees?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9370"/>
+      <shelf name="currently-reading" count="462"/>
+      <shelf name="fiction" count="454"/>
+      <shelf name="favorites" count="296"/>
+      <shelf name="classics" count="148"/>
+      <shelf name="italian" count="125"/>
+      <shelf name="italy" count="87"/>
+      <shelf name="literature" count="84"/>
+      <shelf name="fantasy" count="84"/>
+      <shelf name="novels" count="81"/>
+      <shelf name="novel" count="80"/>
+      <shelf name="magical-realism" count="70"/>
+      <shelf name="owned" count="68"/>
+      <shelf name="italian-literature" count="68"/>
+      <shelf name="historical-fiction" count="51"/>
+      <shelf name="default" count="50"/>
+      <shelf name="narrativa" count="43"/>
+      <shelf name="classici" count="42"/>
+      <shelf name="books-i-own" count="38"/>
+      <shelf name="letteratura-italiana" count="35"/>
+      <shelf name="classic" count="31"/>
+      <shelf name="italiani" count="31"/>
+      <shelf name="literary-fiction" count="29"/>
+      <shelf name="finished" count="29"/>
+      <shelf name="italo-calvino" count="29"/>
+      <shelf name="italiana" count="26"/>
+      <shelf name="italian-lit" count="26"/>
+      <shelf name="owned-books" count="25"/>
+      <shelf name="italia" count="25"/>
+      <shelf name="translated" count="25"/>
+      <shelf name="20th-century" count="24"/>
+      <shelf name="to-buy" count="23"/>
+      <shelf name="رمان" count="22"/>
+      <shelf name="school" count="21"/>
+      <shelf name="italiano" count="21"/>
+      <shelf name="translation" count="21"/>
+      <shelf name="library" count="19"/>
+      <shelf name="novela" count="18"/>
+      <shelf name="favourites" count="18"/>
+      <shelf name="contemporary" count="15"/>
+      <shelf name="calvino" count="15"/>
+      <shelf name="lit" count="15"/>
+      <shelf name="historical" count="14"/>
+      <shelf name="general-fiction" count="14"/>
+      <shelf name="magic-realism" count="13"/>
+      <shelf name="1950s" count="13"/>
+      <shelf name="autori-italiani" count="12"/>
+      <shelf name="romanzi" count="12"/>
+      <shelf name="favorite" count="12"/>
+      <shelf name="italian-authors" count="12"/>
+      <shelf name="book-club" count="12"/>
+      <shelf name="abandoned" count="11"/>
+      <shelf name="to-read-fiction" count="11"/>
+      <shelf name="narrativa-italiana" count="11"/>
+      <shelf name="in-translation" count="11"/>
+      <shelf name="european" count="11"/>
+      <shelf name="letteratura" count="9"/>
+      <shelf name="guardian-1000" count="9"/>
+      <shelf name="world-literature" count="9"/>
+      <shelf name="unfinished" count="8"/>
+      <shelf name="have" count="8"/>
+      <shelf name="read-for-school" count="8"/>
+      <shelf name="literatura-italiana" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="oulipo" count="8"/>
+      <shelf name="europe" count="8"/>
+      <shelf name="adventure" count="8"/>
+      <shelf name="romance" count="8"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="read-in-2014" count="7"/>
+      <shelf name="read-in-italian" count="7"/>
+      <shelf name="literature-italian" count="7"/>
+      <shelf name="modern-classics" count="7"/>
+      <shelf name="romanzo" count="7"/>
+      <shelf name="adult-fiction" count="7"/>
+      <shelf name="roman" count="7"/>
+      <shelf name="bookclub" count="7"/>
+      <shelf name="translations" count="7"/>
+      <shelf name="european-literature" count="7"/>
+      <shelf name="1900" count="6"/>
+      <shelf name="tbr" count="6"/>
+      <shelf name="read-in-2013" count="6"/>
+      <shelf name="ebook" count="6"/>
+      <shelf name="biblioteca" count="6"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="literatura" count="6"/>
+      <shelf name="5-stars" count="6"/>
+      <shelf name="young-adult" count="6"/>
+      <shelf name="رمان-خارجی" count="5"/>
+      <shelf name="shelfari-favorites" count="5"/>
+      <shelf name="for-school" count="5"/>
+      <shelf name="maybe" count="5"/>
+      <shelf name="calvino-italo" count="5"/>
+      <shelf name="narrative" count="5"/>
+      <shelf name="in" count="5"/>
+      <shelf name="classico" count="5"/>
+      <shelf name="favoritos" count="5"/>
+      <shelf name="recommended" count="5"/>
+      <shelf name="clásicos" count="5"/>
+      <shelf name="favs" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>383063</id>
+<user_position>2</user_position>
+<series>
+<id>80665</id>
+<title>
+<![CDATA[
+    I nostri antenati
+]]>
+</title>
+<description>
+<![CDATA[
+    <b>Our Ancestors</b> (Italian: <i>I nostri antenati</i>) is the name of Italo Calvino's "heraldic trilogy" that comprises The Cloven Viscount (1952), The Baron in the Trees (1957), and The Nonexistent Knight (1959).
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>4</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>130971</id>
+<title>Reeds in the Wind</title>
+<title_without_series>Reeds in the Wind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/130971.Reeds_in_the_Wind]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>126145</id>
+</work>
+<isbn>0934977631</isbn>
+<isbn13>9780934977630</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>985</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1709</id>
+<name>Grazia Deledda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1709.Grazia_Deledda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1506428</id>
+<title>La Compagnia dei Celestini </title>
+<title_without_series>La Compagnia dei Celestini</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1506428.La_Compagnia_dei_Celestini]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327091472s/1506428.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327091472m/1506428.jpg]]></image_url>
+<num_pages>286</num_pages>
+<work>
+<id>1497942</id>
+</work>
+<isbn>8807812797</isbn>
+<isbn13>9788807812798</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>2456</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>24707</id>
+<name>Stefano Benni</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24707.Stefano_Benni]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>83017</id>
+<title>The Tartar Steppe</title>
+<title_without_series>The Tartar Steppe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83017.The_Tartar_Steppe]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327904364s/83017.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327904364m/83017.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1245179</id>
+</work>
+<isbn>1567923046</isbn>
+<isbn13>9781567923049</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>8811</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>47421</id>
+<name>Dino Buzzati</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47421.Dino_Buzzati]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>143250</id>
+<title>Fontamara</title>
+<title_without_series>Fontamara</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/143250.Fontamara]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>2455413</id>
+</work>
+<isbn>3462025996</isbn>
+<isbn13>9783462025996</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>1998</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>468340</id>
+<name>Ignazio Silone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/468340.Ignazio_Silone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6888496</id>
+<title>La cognizione del dolore</title>
+<title_without_series>La cognizione del dolore</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6888496-la-cognizione-del-dolore]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327489498s/6888496.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327489498m/6888496.jpg]]></image_url>
+<num_pages>213</num_pages>
+<work>
+<id>660095</id>
+</work>
+<isbn>8811666449</isbn>
+<isbn13>9788811666448</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>446</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>299133</id>
+<name>Carlo Emilio Gadda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/299133.Carlo_Emilio_Gadda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1358442</id>
+<title>Cronaca familiare</title>
+<title_without_series>Cronaca familiare</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1358442.Cronaca_familiare]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1464441369s/1358442.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1464441369m/1358442.jpg]]></image_url>
+<num_pages>170</num_pages>
+<work>
+<id>1348179</id>
+</work>
+<isbn>0390716812</isbn>
+<isbn13>9780390716811</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>228</ratings_count>
+<publication_year>1973</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>126511</id>
+<name>Vasco Pratolini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126511.Vasco_Pratolini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12116</id>
+<title>The Late Mattia Pascal</title>
+<title_without_series>The Late Mattia Pascal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12116.The_Late_Mattia_Pascal]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>3102727</id>
+</work>
+<isbn>1590171152</isbn>
+<isbn13>9781590171158</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>9144</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7702</id>
+<name>Luigi Pirandello</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7702.Luigi_Pirandello]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1358541</id>
+<title>Lessico famigliare</title>
+<title_without_series>Lessico famigliare</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1358541.Lessico_famigliare]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1343559988s/1358541.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1343559988m/1358541.jpg]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>206315</id>
+</work>
+<isbn>8806151681</isbn>
+<isbn13>9788806151683</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2467</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21582</id>
+<name>Natalia Ginzburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21582.Natalia_Ginzburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>132376</id>
+<title>The Moon and the Bonfire</title>
+<title_without_series>The Moon and the Bonfire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/132376.The_Moon_and_the_Bonfire]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328830465s/132376.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328830465m/132376.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>1521454</id>
+</work>
+<isbn>0720611199</isbn>
+<isbn13>9780720611199</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>4118</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>76241</id>
+<name>Cesare Pavese</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76241.Cesare_Pavese]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1389743</id>
+<title>I Malavoglia</title>
+<title_without_series>I Malavoglia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1389743.I_Malavoglia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1446026837s/1389743.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1446026837m/1389743.jpg]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>1379828</id>
+</work>
+<isbn>8811582962</isbn>
+<isbn13>9788811582960</isbn13>
+<average_rating>3.45</average_rating>
+<ratings_count>5353</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>7</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>194351</id>
+<name>Giovanni Verga</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194351.Giovanni_Verga]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2419122</id>
+<title>The Viceroys</title>
+<title_without_series>The Viceroys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2419122.The_Viceroys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1318520374s/2419122.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1318520374m/2419122.jpg]]></image_url>
+<num_pages>627</num_pages>
+<work>
+<id>2426299</id>
+</work>
+<isbn>0002718189</isbn>
+<isbn13>9780002718189</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>576</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>49367</id>
+<name>Federico De Roberto</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49367.Federico_De_Roberto]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2847395</id>
+<title>Uomini e no</title>
+<title_without_series>Uomini e no</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2847395-uomini-e-no]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1402578138s/2847395.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1402578138m/2847395.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>1521854</id>
+</work>
+<isbn>8804495863</isbn>
+<isbn13>9788804495864</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>655</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>222995</id>
+<name>Elio Vittorini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/222995.Elio_Vittorini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1958658</id>
+<title>La variante di Lüneburg</title>
+<title_without_series>La variante di Lüneburg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1958658.La_variante_di_L_neburg]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327880798s/1958658.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327880798m/1958658.jpg]]></image_url>
+<num_pages>158</num_pages>
+<work>
+<id>1815571</id>
+</work>
+<isbn>8845909840</isbn>
+<isbn13>9788845909849</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1598</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>260922</id>
+<name>Paolo Maurensig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/260922.Paolo_Maurensig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>130220</id>
+<title>To Each His Own</title>
+<title_without_series>To Each His Own</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/130220.To_Each_His_Own]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1486579226s/130220.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1486579226m/130220.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>125417</id>
+</work>
+<isbn>0940322528</isbn>
+<isbn13>9780940322523</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2110</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>44709</id>
+<name>Leonardo Sciascia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44709.Leonardo_Sciascia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1158388</id>
+<title>L&apos;isola di Arturo</title>
+<title_without_series>L&apos;isola di Arturo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1158388.L_isola_di_Arturo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1409438832s/1158388.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1409438832m/1158388.jpg]]></image_url>
+<num_pages>386</num_pages>
+<work>
+<id>537437</id>
+</work>
+<isbn>8806409077</isbn>
+<isbn13>9788806409074</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>2216</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>292578</id>
+<name>Elsa Morante</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292578.Elsa_Morante]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

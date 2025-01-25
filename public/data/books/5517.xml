@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>5517</id>
+  <title>A Raisin in the Sun</title>
+  <isbn><![CDATA[0375508333]]></isbn>
+  <isbn13><![CDATA[9780375508332]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Random House</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["Never before, in the entire history of the American theater, has so much of the truth of black people's lives been seen on the stage," observed James Baldwin shortly before <i>A Raisin in the Sun</i> opened on Broadway in 1959.<br /><br />Indeed Lorraine Hansberry's award-winning drama about the hopes and aspirations of a struggling, working-class family living on the South Side of Chicago connected profoundly with the psyche of black America--and changed American theater forever.  The play's title comes from a line in Langston Hughes's poem "Harlem," which warns that a dream deferred might "dry up/like a raisin in the sun."<br /><br />"The events of every passing year add resonance to <i>A Raisin in the Sun</i>," said <i>The New York Times</i>.  "It is as if history is conspiring to make the play a classic."  This Modern Library edition presents the fully restored, uncut version of Hansberry's landmark work with an introduction by Robert Nemiroff.]]></description>
+  <work>
+  <id type="integer">3154525</id>
+  <books_count type="integer">56</books_count>
+  <best_book_id type="integer">5517</best_book_id>
+  <reviews_count type="integer">74032</reviews_count>
+  <ratings_sum type="integer">189396</ratings_sum>
+  <ratings_count type="integer">50947</ratings_count>
+  <text_reviews_count type="integer">2054</text_reviews_count>
+  <original_publication_year type="integer">1959</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>A Raisin in the Sun</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:12623|4:18346|3:14219|2:4481|1:1278|total:50947</rating_dist>
+  <desc_user_id type="integer">1632390</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.72</average_rating>
+  <num_pages><![CDATA[160]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[44266]]></ratings_count>
+  <text_reviews_count><![CDATA[1459]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/5517.A_Raisin_in_the_Sun]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/5517.A_Raisin_in_the_Sun]]></link>
+  <authors>
+<author>
+<id>3732</id>
+<name>Lorraine Hansberry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234149147p5/3732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234149147p2/3732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3732.Lorraine_Hansberry]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>54557</ratings_count>
+<text_reviews_count>2253</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/5517.A_Raisin_in_the_Sun">A Raisin in the Sun Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375508333&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/5517.A_Raisin_in_the_Sun?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="12522"/>
+      <shelf name="plays" count="1419"/>
+      <shelf name="classics" count="1101"/>
+      <shelf name="fiction" count="464"/>
+      <shelf name="currently-reading" count="457"/>
+      <shelf name="drama" count="457"/>
+      <shelf name="school" count="338"/>
+      <shelf name="favorites" count="276"/>
+      <shelf name="play" count="229"/>
+      <shelf name="classic" count="182"/>
+      <shelf name="read-for-school" count="158"/>
+      <shelf name="books-i-own" count="148"/>
+      <shelf name="african-american" count="134"/>
+      <shelf name="historical-fiction" count="132"/>
+      <shelf name="owned" count="128"/>
+      <shelf name="theatre" count="123"/>
+      <shelf name="school-books" count="117"/>
+      <shelf name="for-school" count="110"/>
+      <shelf name="high-school" count="99"/>
+      <shelf name="literature" count="86"/>
+      <shelf name="american" count="62"/>
+      <shelf name="theater" count="53"/>
+      <shelf name="school-reads" count="53"/>
+      <shelf name="adult" count="46"/>
+      <shelf name="american-lit" count="45"/>
+      <shelf name="20th-century" count="43"/>
+      <shelf name="american-literature" count="43"/>
+      <shelf name="race" count="42"/>
+      <shelf name="read-in-school" count="42"/>
+      <shelf name="required-reading" count="40"/>
+      <shelf name="historical" count="40"/>
+      <shelf name="african-american-lit" count="38"/>
+      <shelf name="school-reading" count="38"/>
+      <shelf name="african-american-literature" count="38"/>
+      <shelf name="owned-books" count="37"/>
+      <shelf name="library" count="36"/>
+      <shelf name="default" count="35"/>
+      <shelf name="realistic-fiction" count="34"/>
+      <shelf name="classic-literature" count="29"/>
+      <shelf name="my-library" count="28"/>
+      <shelf name="1950s" count="27"/>
+      <shelf name="family" count="21"/>
+      <shelf name="books-for-school" count="20"/>
+      <shelf name="chicago" count="20"/>
+      <shelf name="college" count="20"/>
+      <shelf name="ap-lit" count="20"/>
+      <shelf name="read-in-2016" count="19"/>
+      <shelf name="young-adult" count="19"/>
+      <shelf name="assigned-reading" count="19"/>
+      <shelf name="women" count="19"/>
+      <shelf name="female-authors" count="18"/>
+      <shelf name="history" count="18"/>
+      <shelf name="english" count="18"/>
+      <shelf name="contemporary" count="17"/>
+      <shelf name="re-read" count="17"/>
+      <shelf name="taught" count="17"/>
+      <shelf name="female-author" count="17"/>
+      <shelf name="read-in-2015" count="17"/>
+      <shelf name="read-in-2013" count="16"/>
+      <shelf name="teaching" count="16"/>
+      <shelf name="drama-plays" count="16"/>
+      <shelf name="read-in-high-school" count="16"/>
+      <shelf name="modern-classics" count="16"/>
+      <shelf name="to-buy" count="15"/>
+      <shelf name="women-writers" count="15"/>
+      <shelf name="for-class" count="15"/>
+      <shelf name="poc" count="15"/>
+      <shelf name="adult-fiction" count="15"/>
+      <shelf name="own-it" count="15"/>
+      <shelf name="racism" count="15"/>
+      <shelf name="english-class" count="15"/>
+      <shelf name="read-in-2017" count="14"/>
+      <shelf name="novels" count="14"/>
+      <shelf name="summer-reading" count="14"/>
+      <shelf name="books" count="14"/>
+      <shelf name="classic-lit" count="14"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="book-club" count="14"/>
+      <shelf name="black-lit" count="14"/>
+      <shelf name="literary" count="14"/>
+      <shelf name="american-classics" count="13"/>
+      <shelf name="the-classics" count="13"/>
+      <shelf name="classics-read" count="13"/>
+      <shelf name="high-school-reading" count="13"/>
+      <shelf name="cultural" count="13"/>
+      <shelf name="class" count="12"/>
+      <shelf name="women-authors" count="12"/>
+      <shelf name="books-i-read-for-school" count="12"/>
+      <shelf name="borrowed" count="12"/>
+      <shelf name="social-commentary" count="11"/>
+      <shelf name="diversity" count="11"/>
+      <shelf name="personal-library" count="11"/>
+      <shelf name="realistic" count="11"/>
+      <shelf name="plays-read" count="11"/>
+      <shelf name="2015-reading-challenge" count="11"/>
+      <shelf name="plays-to-read" count="11"/>
+      <shelf name="general-fiction" count="10"/>
+      <shelf name="read-for-high-school" count="10"/>
+      <shelf name="2016-reads" count="10"/>
+      <shelf name="poetry-and-plays" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>539282</id>
+<title>Fences (The Century Cycle #6)</title>
+<title_without_series>Fences</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/539282.Fences]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1481833774s/539282.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1481833774m/539282.jpg]]></image_url>
+<num_pages>101</num_pages>
+<work>
+<id>60745</id>
+</work>
+<isbn>0452264014</isbn>
+<isbn13>9780452264014</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>12846</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13944</id>
+<name>August Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13944.August_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8836290</id>
+<title>Clybourne Park</title>
+<title_without_series>Clybourne Park</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8836290-clybourne-park]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1296997350s/8836290.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1296997350m/8836290.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13710764</id>
+</work>
+<isbn>184842132X</isbn>
+<isbn13>9781848421325</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1806</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>166438</id>
+<name>Bruce Norris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/166438.Bruce_Norris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>286930</id>
+<title>Machinal</title>
+<title_without_series>Machinal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/286930.Machinal]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328704070s/286930.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328704070m/286930.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>278374</id>
+</work>
+<isbn>1854592114</isbn>
+<isbn13>9781854592118</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1022</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>166416</id>
+<name>Sophie Treadwell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/166416.Sophie_Treadwell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>79528</id>
+<title>Dutchman &amp; The Slave</title>
+<title_without_series>Dutchman &amp; The Slave</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/79528.Dutchman_The_Slave]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327878938s/79528.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327878938m/79528.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>76791</id>
+</work>
+<isbn>0688210848</isbn>
+<isbn13>9780688210847</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>1850</ratings_count>
+<publication_year>1971</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2788408</id>
+<name>Amiri Baraka</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2788408.Amiri_Baraka]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>297779</id>
+<title>Master Harold...and the boys</title>
+<title_without_series>Master Harold...and the boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/297779.Master_Harold_and_the_boys]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>4351</id>
+</work>
+<isbn>0140481877</isbn>
+<isbn13>9780140481877</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>3972</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>7770</id>
+<name>Athol Fugard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7770.Athol_Fugard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>764270</id>
+<title>Topdog/Underdog</title>
+<title_without_series>Topdog/Underdog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/764270.Topdog_Underdog]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354209580s/764270.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354209580m/764270.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>750348</id>
+</work>
+<isbn>1559362014</isbn>
+<isbn13>9781559362016</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>3809</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72477</id>
+<name>Suzan-Lori Parks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72477.Suzan_Lori_Parks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>293715</id>
+<title>Stop Kiss</title>
+<title_without_series>Stop Kiss</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/293715.Stop_Kiss]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>285000</id>
+</work>
+<isbn>0879517379</isbn>
+<isbn13>9780879517373</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1263</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>169625</id>
+<name>Diana Son</name>
+<link><![CDATA[https://www.goodreads.com/author/show/169625.Diana_Son]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12215</id>
+<title><![CDATA[Desire Under the Elms & The Great God Brown]]></title>
+<title_without_series><![CDATA[Desire Under the Elms & The Great God Brown]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12215.Desire_Under_the_Elms_The_Great_God_Brown]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>673641</id>
+</work>
+<isbn>1854591363</isbn>
+<isbn13>9781854591364</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>604</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7680</id>
+<name>Eugene O&apos;Neill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7680.Eugene_O_Neill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6105608</id>
+<title>The Clean House</title>
+<title_without_series>The Clean House</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6105608-the-clean-house]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327909147s/6105608.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327909147m/6105608.jpg]]></image_url>
+<num_pages>92</num_pages>
+<work>
+<id>6282945</id>
+</work>
+<isbn>0573633983</isbn>
+<isbn13>9780573633980</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>558</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>81678</id>
+<name>Sarah Ruhl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/81678.Sarah_Ruhl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>85</id>
+<title>The Heidi Chronicles</title>
+<title_without_series>The Heidi Chronicles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/85.The_Heidi_Chronicles]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>81</num_pages>
+<work>
+<id>17506124</id>
+</work>
+<isbn>0822205106</isbn>
+<isbn13>9780822205104</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1207</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>42</id>
+<name>Wendy Wasserstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42.Wendy_Wasserstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1033755</id>
+<title>Trifles</title>
+<title_without_series>Trifles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1033755.Trifles]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1396886077s/1033755.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1396886077m/1033755.jpg]]></image_url>
+<num_pages>20</num_pages>
+<work>
+<id>1020073</id>
+</work>
+<isbn>0887345816</isbn>
+<isbn13>9780887345814</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>3440</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>154569</id>
+<name>Susan Glaspell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/154569.Susan_Glaspell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>895293</id>
+<title>Fires in the Mirror</title>
+<title_without_series>Fires in the Mirror</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/895293.Fires_in_the_Mirror]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388420898s/895293.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388420898m/895293.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>880494</id>
+</work>
+<isbn>0385470142</isbn>
+<isbn13>9780385470148</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>948</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13228</id>
+<name>Anna Deavere Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13228.Anna_Deavere_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>92831</id>
+<title><![CDATA["Waiting for Lefty" and Other Plays]]></title>
+<title_without_series><![CDATA["Waiting for Lefty" and Other Plays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/92831._Waiting_for_Lefty_and_Other_Plays]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>89512</id>
+</work>
+<isbn>0802132200</isbn>
+<isbn13>9780802132208</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>544</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12725</id>
+<name>Clifford Odets</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12725.Clifford_Odets]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>511139</id>
+<title>The Colored Museum</title>
+<title_without_series>The Colored Museum</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/511139.The_Colored_Museum]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>62</num_pages>
+<work>
+<id>499138</id>
+</work>
+<isbn>0802130488</isbn>
+<isbn13>9780802130488</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>357</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>227548</id>
+<name>George C. Wolfe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227548.George_C_Wolfe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6411892</id>
+<title>Ruined</title>
+<title_without_series>Ruined</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6411892-ruined]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354209615s/6411892.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354209615m/6411892.jpg]]></image_url>
+<num_pages>102</num_pages>
+<work>
+<id>6600838</id>
+</work>
+<isbn>155936355X</isbn>
+<isbn13>9781559363556</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1943</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>355068</id>
+<name>Lynn Nottage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/355068.Lynn_Nottage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>95833</id>
+<title>M. Butterfly</title>
+<title_without_series>M. Butterfly</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/95833.M_Butterfly]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>93</num_pages>
+<work>
+<id>1820443</id>
+</work>
+<isbn>0822207125</isbn>
+<isbn13>9780822207122</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>8864</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>55111</id>
+<name>David Henry Hwang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55111.David_Henry_Hwang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>880330</id>
+<title>The Lieutenant of Inishmore</title>
+<title_without_series>The Lieutenant of Inishmore</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/880330.The_Lieutenant_of_Inishmore]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387302558s/880330.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387302558m/880330.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>232745</id>
+</work>
+<isbn>0413765008</isbn>
+<isbn13>9780413765000</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>1895</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>77295</id>
+<name>Martin McDonagh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77295.Martin_McDonagh]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

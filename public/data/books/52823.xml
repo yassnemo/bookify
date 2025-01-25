@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>52823</id>
+  <title>Tartuffe</title>
+  <isbn><![CDATA[1854596373]]></isbn>
+  <isbn13><![CDATA[9781854596376]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1319501006m/52823.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1319501006s/52823.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Nick Hern Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<div>
+  <p>Condemned and banned for five years in Molière’s day, <i>Tartuffe </i>is a satire on religious hypocrisy. Tartuffe worms his way into Orgon’s household, blinding the master of the house with his religious "devotion," and almost succeeds in his attempts to seduce his wife and disinherit his children before the final unmasking.</p>
+</div>]]></description>
+  <work>
+  <id type="integer">2115103</id>
+  <books_count type="integer">310</books_count>
+  <best_book_id type="integer">52823</best_book_id>
+  <reviews_count type="integer">38019</reviews_count>
+  <ratings_sum type="integer">90671</ratings_sum>
+  <ratings_count type="integer">24756</ratings_count>
+  <text_reviews_count type="integer">565</text_reviews_count>
+  <original_publication_year type="integer">1664</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Le Tartuffe, ou L’Imposteur</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5486|4:8835|3:7575|2:2316|1:544|total:24756</rating_dist>
+  <desc_user_id type="integer">11465652</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.66</average_rating>
+  <num_pages><![CDATA[180]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Drama Classics]]></edition_information>
+  <ratings_count><![CDATA[21075]]></ratings_count>
+  <text_reviews_count><![CDATA[371]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/52823.Tartuffe]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/52823.Tartuffe]]></link>
+  <authors>
+<author>
+<id>29837</id>
+<name>Molière</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219168412p5/29837.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219168412p2/29837.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29837.Moli_re]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>94139</ratings_count>
+<text_reviews_count>2218</text_reviews_count>
+</author>
+<author>
+<id>23788</id>
+<name>Martin Sorrell</name>
+<role>Translation</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23788.Martin_Sorrell]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>21584</ratings_count>
+<text_reviews_count>427</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/52823.Tartuffe">Tartuffe Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1854596373&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/52823.Tartuffe?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8499"/>
+      <shelf name="plays" count="860"/>
+      <shelf name="classics" count="751"/>
+      <shelf name="drama" count="288"/>
+      <shelf name="french" count="219"/>
+      <shelf name="theatre" count="153"/>
+      <shelf name="fiction" count="145"/>
+      <shelf name="currently-reading" count="142"/>
+      <shelf name="school" count="140"/>
+      <shelf name="classic" count="120"/>
+      <shelf name="french-literature" count="116"/>
+      <shelf name="favorites" count="107"/>
+      <shelf name="play" count="107"/>
+      <shelf name="owned" count="81"/>
+      <shelf name="humor" count="78"/>
+      <shelf name="read-for-school" count="65"/>
+      <shelf name="france" count="62"/>
+      <shelf name="theater" count="57"/>
+      <shelf name="17th-century" count="52"/>
+      <shelf name="literature" count="51"/>
+      <shelf name="books-i-own" count="50"/>
+      <shelf name="comedy" count="47"/>
+      <shelf name="french-lit" count="45"/>
+      <shelf name="for-school" count="41"/>
+      <shelf name="school-books" count="34"/>
+      <shelf name="théâtre" count="33"/>
+      <shelf name="théatre" count="33"/>
+      <shelf name="teatro" count="32"/>
+      <shelf name="satire" count="31"/>
+      <shelf name="owned-books" count="26"/>
+      <shelf name="français" count="26"/>
+      <shelf name="default" count="25"/>
+      <shelf name="poetry" count="24"/>
+      <shelf name="school-reading" count="23"/>
+      <shelf name="high-school" count="22"/>
+      <shelf name="college" count="22"/>
+      <shelf name="library" count="18"/>
+      <shelf name="francais" count="18"/>
+      <shelf name="french-classics" count="17"/>
+      <shelf name="classic-literature" count="17"/>
+      <shelf name="classiques" count="16"/>
+      <shelf name="adult" count="15"/>
+      <shelf name="read-in-french" count="15"/>
+      <shelf name="read-in-2015" count="14"/>
+      <shelf name="scripts" count="14"/>
+      <shelf name="my-library" count="13"/>
+      <shelf name="to-buy" count="13"/>
+      <shelf name="humour" count="13"/>
+      <shelf name="school-reads" count="13"/>
+      <shelf name="french-books" count="13"/>
+      <shelf name="read-in-2016" count="12"/>
+      <shelf name="kindle" count="12"/>
+      <shelf name="french-authors" count="12"/>
+      <shelf name="moliere" count="12"/>
+      <shelf name="required-reading" count="11"/>
+      <shelf name="classic-lit" count="11"/>
+      <shelf name="funny" count="11"/>
+      <shelf name="translated" count="11"/>
+      <shelf name="religion" count="10"/>
+      <shelf name="historical-fiction" count="10"/>
+      <shelf name="historical" count="10"/>
+      <shelf name="theatre-plays" count="10"/>
+      <shelf name="littérature-française" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="read-in-polish" count="9"/>
+      <shelf name="world-literature" count="9"/>
+      <shelf name="early-modern" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="classics-to-read" count="8"/>
+      <shelf name="european-literature" count="8"/>
+      <shelf name="read-in-school" count="8"/>
+      <shelf name="classique" count="8"/>
+      <shelf name="university" count="8"/>
+      <shelf name="in-french" count="8"/>
+      <shelf name="to-read-classics" count="8"/>
+      <shelf name="read-for-class" count="8"/>
+      <shelf name="well-educated-mind" count="7"/>
+      <shelf name="academic" count="7"/>
+      <shelf name="re-read" count="7"/>
+      <shelf name="classical" count="7"/>
+      <shelf name="read-in-2012" count="7"/>
+      <shelf name="read-in-college" count="7"/>
+      <shelf name="translations" count="7"/>
+      <shelf name="lektury" count="7"/>
+      <shelf name="school-stuff" count="7"/>
+      <shelf name="harvard-classics" count="7"/>
+      <shelf name="shelfari-favorites" count="6"/>
+      <shelf name="europe" count="6"/>
+      <shelf name="3-stars" count="6"/>
+      <shelf name="my-bookshelf" count="6"/>
+      <shelf name="literature-french" count="6"/>
+      <shelf name="world-lit" count="6"/>
+      <shelf name="books-for-school" count="6"/>
+      <shelf name="literatura-francesa" count="6"/>
+      <shelf name="great-books" count="6"/>
+      <shelf name="en-français" count="6"/>
+      <shelf name="plays-theatre" count="6"/>
+      <shelf name="european" count="6"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="moliére" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>81864</id>
+<title>Phèdre</title>
+<title_without_series>Phèdre</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/81864.Ph_dre]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1479741004s/81864.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1479741004m/81864.jpg]]></image_url>
+<num_pages>55</num_pages>
+<work>
+<id>79040</id>
+</work>
+<isbn>203034785X</isbn>
+<isbn13>9782030347850</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>10493</ratings_count>
+<publication_year>1971</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15686</id>
+<name>Jean Racine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15686.Jean_Racine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1490175</id>
+<title>Polyeucte</title>
+<title_without_series>Polyeucte</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1490175.Polyeucte]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1481424</id>
+</work>
+<isbn>1419142542</isbn>
+<isbn13>9781419142543</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>225</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3015432</id>
+<name>Pierre Corneille</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3015432.Pierre_Corneille]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>191275</id>
+<title>The Way of the World</title>
+<title_without_series>The Way of the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/191275.The_Way_of_the_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>124</num_pages>
+<work>
+<id>184938</id>
+</work>
+<isbn>1406946303</isbn>
+<isbn13>9781406946307</isbn13>
+<average_rating>3.35</average_rating>
+<ratings_count>2600</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>98646</id>
+<name>William Congreve</name>
+<link><![CDATA[https://www.goodreads.com/author/show/98646.William_Congreve]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>387562</id>
+<title>The School for Scandal</title>
+<title_without_series>The School for Scandal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/387562.The_School_for_Scandal]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>91</num_pages>
+<work>
+<id>739108</id>
+</work>
+<isbn>1420927159</isbn>
+<isbn13>9781420927153</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>4668</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>83945</id>
+<name>Richard Brinsley Sheridan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83945.Richard_Brinsley_Sheridan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>327775</id>
+<title>Frogs</title>
+<title_without_series>Frogs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/327775.Frogs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>70</num_pages>
+<work>
+<id>1385872</id>
+</work>
+<isbn>1406936723</isbn>
+<isbn13>9781406936728</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>4503</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>1011</id>
+<name>Aristophanes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1011.Aristophanes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>189713</id>
+<title><![CDATA[La guerre de Troie n'aura pas lieu]]></title>
+<title_without_series><![CDATA[La guerre de Troie n'aura pas lieu]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/189713.La_guerre_de_Troie_n_aura_pas_lieu]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>183407</id>
+</work>
+<isbn>2038717133</isbn>
+<isbn13>9782038717136</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>2265</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>110567</id>
+<name>Jean Giraudoux</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110567.Jean_Giraudoux]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>220092</id>
+<title><![CDATA[The Marriage of Figaro (Le Nozze Di Figaro): Vocal Score]]></title>
+<title_without_series><![CDATA[The Marriage of Figaro (Le Nozze Di Figaro): Vocal Score]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/220092.The_Marriage_of_Figaro_Le_Nozze_Di_Figaro_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1426466774s/220092.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1426466774m/220092.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>213106</id>
+</work>
+<isbn>0793512085</isbn>
+<isbn13></isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>3248</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>254845</id>
+<name>Lorenzo Da Ponte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/254845.Lorenzo_Da_Ponte]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1496</id>
+<title>Iphigenia in Aulis</title>
+<title_without_series>Iphigenia in Aulis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1496.Iphigenia_in_Aulis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>69</num_pages>
+<work>
+<id>1348558</id>
+</work>
+<isbn>1566631114</isbn>
+<isbn13>9781566631112</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2388</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>973</id>
+<name>Euripides</name>
+<link><![CDATA[https://www.goodreads.com/author/show/973.Euripides]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>231560</id>
+<title>Uncle Vanya</title>
+<title_without_series>Uncle Vanya</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/231560.Uncle_Vanya]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1443337895s/231560.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1443337895m/231560.jpg]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>622687</id>
+</work>
+<isbn>1406507881</isbn>
+<isbn13>9781406507881</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>13346</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5031025</id>
+<name>Anton Chekhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031025.Anton_Chekhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>386377</id>
+<title><![CDATA[Knock ou le triomphe de la médecine]]></title>
+<title_without_series><![CDATA[Knock ou le triomphe de la médecine]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386377.Knock_ou_le_triomphe_de_la_m_decine]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1345586985s/386377.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1345586985m/386377.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>376030</id>
+</work>
+<isbn>2070360601</isbn>
+<isbn13>9782070360604</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>833</ratings_count>
+<publication_year>1972</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>112581</id>
+<name>Jules Romains</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112581.Jules_Romains]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28178840</id>
+<title>Le Mariage de Figaro</title>
+<title_without_series>Le Mariage de Figaro</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28178840-le-mariage-de-figaro]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1487669674s/28178840.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1487669674m/28178840.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>50294746</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>957</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7814278</id>
+<name><![CDATA[Pierre-Augustin Caron de Beaumarchais]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/7814278.Pierre_Augustin_Caron_de_Beaumarchais]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>388997</id>
+<title>She Stoops to Conquer</title>
+<title_without_series>She Stoops to Conquer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/388997.She_Stoops_to_Conquer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328026670s/388997.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328026670m/388997.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1531161</id>
+</work>
+<isbn>141914698X</isbn>
+<isbn13>9781419146985</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>7869</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>65124</id>
+<name>Oliver Goldsmith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65124.Oliver_Goldsmith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1246292</id>
+<title>Ruy Blas</title>
+<title_without_series>Ruy Blas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1246292.Ruy_Blas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1971441</id>
+</work>
+<isbn>2038717192</isbn>
+<isbn13>9782038717198</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>1522</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13661</id>
+<name>Victor Hugo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13661.Victor_Hugo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1841669</id>
+<title>Zemsta</title>
+<title_without_series>Zemsta</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1841669.Zemsta]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1374149986s/1841669.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1374149986m/1841669.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>1841900</id>
+</work>
+<isbn>8373896791</isbn>
+<isbn13></isbn13>
+<average_rating>3.35</average_rating>
+<ratings_count>3635</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>203979</id>
+<name>Aleksander Fredro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/203979.Aleksander_Fredro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2832492</id>
+<title>L&apos;île des esclaves</title>
+<title_without_series>L&apos;île des esclaves</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2832492-l-le-des-esclaves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>90</num_pages>
+<work>
+<id>306946</id>
+</work>
+<isbn>2253180017</isbn>
+<isbn13>9782253180012</isbn13>
+<average_rating>3.32</average_rating>
+<ratings_count>748</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7815558</id>
+<name>Pierre de Marivaux</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7815558.Pierre_de_Marivaux]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

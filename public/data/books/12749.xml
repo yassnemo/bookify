@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12749</id>
+  <title><![CDATA[Swann's Way (In Search of Lost Time, #1)]]></title>
+  <isbn><![CDATA[0142437964]]></isbn>
+  <isbn13><![CDATA[9780142437964]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1452956236m/12749.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1452956236s/12749.jpg</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>30</publication_day>
+  <publisher>Penguin Classics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Swann's Way tells two related stories, the first of which revolves around Marcel, a younger version of the narrator, and his experiences in, and memories of, the French town Combray. Inspired by the "gusts of memory" that rise up within him as he dips a Madeleine into hot tea, the narrator discusses his fear of going to bed at night. He is a creature of habit and dislikes waking up in the middle of the night not knowing where he is.<br /><br />He claims that people are defined by the objects that surround them and must piece together their identities bit by bit each time they wake up. The young Marcel is so nervous about sleeping alone that he looks forward to his mother's goodnight kisses, but also dreads them as a sign of an impending sleepless night. One night, when Charles Swann, a friend of his grandparents, is visiting, his mother cannot come kiss him goodnight. He stays up until Swann leaves and looks so sad and pitiful that even his disciplinarian father encourages "Mamma" to spend the night in Marcel's room.]]></description>
+  <work>
+  <id type="integer">4830806</id>
+  <books_count type="integer">750</books_count>
+  <best_book_id type="integer">12749</best_book_id>
+  <reviews_count type="integer">109870</reviews_count>
+  <ratings_sum type="integer">131373</ratings_sum>
+  <ratings_count type="integer">31736</ratings_count>
+  <text_reviews_count type="integer">2374</text_reviews_count>
+  <original_publication_year type="integer">1913</original_publication_year>
+  <original_publication_month type="integer">11</original_publication_month>
+  <original_publication_day type="integer">14</original_publication_day>
+  <original_title>Du côté de chez Swann</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:15365|4:9105|3:4584|2:1694|1:988|total:31736</rating_dist>
+  <desc_user_id type="integer">26815336</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.14</average_rating>
+  <num_pages><![CDATA[468]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[24623]]></ratings_count>
+  <text_reviews_count><![CDATA[1394]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12749.Swann_s_Way]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12749.Swann_s_Way]]></link>
+  <authors>
+<author>
+<id>233619</id>
+<name>Marcel Proust</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1392271688p5/233619.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1392271688p2/233619.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/233619.Marcel_Proust]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>76044</ratings_count>
+<text_reviews_count>5706</text_reviews_count>
+</author>
+<author>
+<id>5602</id>
+<name>Simon Vance</name>
+<role>Narrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1240014151p5/5602.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1240014151p2/5602.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5602.Simon_Vance]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>57335</ratings_count>
+<text_reviews_count>6917</text_reviews_count>
+</author>
+<author>
+<id>27427</id>
+<name>Lydia Davis</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434264975p5/27427.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1434264975p2/27427.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27427.Lydia_Davis]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>52496</ratings_count>
+<text_reviews_count>5138</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12749.Swann_s_Way">Swann&#39;s Way Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0142437964&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/12749.Swann_s_Way?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="classics" count="1299"/>
+      <shelf name="fiction" count="1099"/>
+      <shelf name="favorites" count="605"/>
+      <shelf name="french" count="436"/>
+      <shelf name="literature" count="299"/>
+      <shelf name="to-read" count="260"/>
+      <shelf name="france" count="251"/>
+      <shelf name="french-literature" count="216"/>
+      <shelf name="classic" count="202"/>
+      <shelf name="novels" count="154"/>
+      <shelf name="books-i-own" count="144"/>
+      <shelf name="to-buy" count="117"/>
+      <shelf name="rory-gilmore-reading-challenge" count="112"/>
+      <shelf name="20th-century" count="106"/>
+      <shelf name="novel" count="103"/>
+      <shelf name="french-lit" count="101"/>
+      <shelf name="abandoned" count="83"/>
+      <shelf name="philosophy" count="78"/>
+      <shelf name="proust" count="77"/>
+      <shelf name="owned-books" count="76"/>
+      <shelf name="kindle" count="75"/>
+      <shelf name="default" count="72"/>
+      <shelf name="rory-gilmore-challenge" count="72"/>
+      <shelf name="series" count="67"/>
+      <shelf name="unfinished" count="67"/>
+      <shelf name="literary-fiction" count="66"/>
+      <shelf name="1001-books" count="56"/>
+      <shelf name="library" count="56"/>
+      <shelf name="modernism" count="55"/>
+      <shelf name="rory-gilmore" count="54"/>
+      <shelf name="clàssics" count="50"/>
+      <shelf name="gilmore-girls" count="50"/>
+      <shelf name="favourites" count="49"/>
+      <shelf name="on-hold" count="49"/>
+      <shelf name="ebook" count="47"/>
+      <shelf name="my-library" count="47"/>
+      <shelf name="translation" count="47"/>
+      <shelf name="classic-literature" count="46"/>
+      <shelf name="literary" count="46"/>
+      <shelf name="français" count="45"/>
+      <shelf name="1001" count="45"/>
+      <shelf name="wish-list" count="44"/>
+      <shelf name="translated" count="44"/>
+      <shelf name="rory-gilmore-reading-list" count="39"/>
+      <shelf name="1910s" count="38"/>
+      <shelf name="classics-to-read" count="37"/>
+      <shelf name="my-ebooks" count="37"/>
+      <shelf name="romance" count="32"/>
+      <shelf name="ebooks" count="32"/>
+      <shelf name="to-read-fiction" count="32"/>
+      <shelf name="to-read-classics" count="32"/>
+      <shelf name="modern-classics" count="31"/>
+      <shelf name="must-read" count="30"/>
+      <shelf name="classic-fiction" count="30"/>
+      <shelf name="marcel-proust" count="29"/>
+      <shelf name="did-not-finish" count="29"/>
+      <shelf name="europe" count="27"/>
+      <shelf name="e-books" count="25"/>
+      <shelf name="audiobooks" count="25"/>
+      <shelf name="fiction-to-read" count="25"/>
+      <shelf name="paris" count="25"/>
+      <shelf name="audiobook" count="25"/>
+      <shelf name="memoir" count="24"/>
+      <shelf name="i-own" count="23"/>
+      <shelf name="gilmore-girls-reading-list" count="23"/>
+      <shelf name="my-books" count="23"/>
+      <shelf name="rory-gilmore-book-challenge" count="22"/>
+      <shelf name="partially-read" count="22"/>
+      <shelf name="memory" count="22"/>
+      <shelf name="audio" count="22"/>
+      <shelf name="1001-books-to-read-before-you-die" count="22"/>
+      <shelf name="book-club" count="22"/>
+      <shelf name="in-translation" count="21"/>
+      <shelf name="re-read" count="20"/>
+      <shelf name="unread" count="20"/>
+      <shelf name="read-in-2014" count="19"/>
+      <shelf name="read-in-2013" count="19"/>
+      <shelf name="to-re-read" count="19"/>
+      <shelf name="french-classics" count="19"/>
+      <shelf name="roman" count="18"/>
+      <shelf name="lit" count="18"/>
+      <shelf name="francais" count="18"/>
+      <shelf name="bookshelf" count="18"/>
+      <shelf name="gilmore" count="17"/>
+      <shelf name="european" count="17"/>
+      <shelf name="classici" count="17"/>
+      <shelf name="narrativa" count="17"/>
+      <shelf name="e-book" count="17"/>
+      <shelf name="favorite" count="17"/>
+      <shelf name="gave-up-on" count="17"/>
+      <shelf name="classiques" count="17"/>
+      <shelf name="historical-fiction" count="16"/>
+      <shelf name="in-search-of-lost-time" count="16"/>
+      <shelf name="home-library" count="16"/>
+      <shelf name="school" count="16"/>
+      <shelf name="general-fiction" count="16"/>
+      <shelf name="audible" count="16"/>
+      <shelf name="classic-lit" count="16"/>
+      <shelf name="tbr" count="15"/>
+      <shelf name="european-literature" count="15"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>220147</id>
+<user_position>1</user_position>
+<series>
+<id>55129</id>
+<title>
+<![CDATA[
+    À la recherche du temps perdu
+]]>
+</title>
+<description>
+<![CDATA[
+    With <b>À la recherche du temps perdu</b> / <b>In Search of Lost Time</b> Proust attempted the perfect rendering of life in art, of the past recreated through memory. It is both a portrait of the artist and a discovery of the aesthetic by which the portrait is painted, and it was to have an immense influence on the literature of the twentieth century.
+    
+    The novel contains seven volumes:
+    <b>1 - Du côté de chez Swann</b> (1913): Swann's Way / The Way by Swann's
+    (Part I: Combray / Overture. Part II: Un Amour de Swann / Swann in Love. Part III : Noms de pays: le nom / Names of places: the name)
+    <b>2 - À l'ombre des jeunes filles en fleurs</b> (1919): In the Shadow of Young Girls in Flower / Within a Budding Grove
+    <b>3 - Le Côté de Guermantes</b> (1920-1921): The Guermantes Way 
+    <b>4 - Sodome et Gomorrhe</b> (1921-1922): Sodom and Gomorrah / Cities of the Plain
+    <b>5 - La Prisonnière</b> (1923): The Prisoner / The Captive
+    <b>6 - Albertine disparue / La Fugitive</b> (1925): Albertine Gone / The Fugitive / The Sweet Cheat Gone
+    <b>7 - Le Temps retrouvé</b> (1927): Time Regained / The Past Recaptured / Finding Time Again
+    
+    The novel is being adapted as a <a href="http://www.goodreads.com/series/65593-remembrance-of-things-past-graphic-novel-adaptation">graphic novel</a> by [author:Stéphane Heuet|119580].
+    
+    <b>In Search of Lost Time</b> is Marcel Proust’s masterpiece, known for its length and the notion of involuntary memory, the most famous example being the "episode of the madeleine". The complete story contains nearly 1.5 million words and is one of the longest novels in world literature.
+    
+    <b>À la recherche du temps perdu</b> is translated as:
+    English: In Search of Lost Time / Remembrance of Things Past*
+    Spanish: En busca del tiempo perdido
+    German: Auf der Suche nach der verlorenen Zeit
+    Portugese: Em Busca do Tempo Perdido
+    Italian: Alla ricerca del tempo perduto
+    Dutch: Op zoek naar de verloren tijd
+    Swedish: På spaning efter den tid som flytt
+    *In English the novel is widely referred to as <b>Remembrance of Things Past</b> but the title <b>In Search of Lost Time</b>, a literal rendering of the French, has gained in usage since D.J. Enright's adopted it in his 1992 revision of the earlier translation by C.K. Scott Moncrieff and Terence Kilmartin.
+]]>
+</description>
+<note>
+<![CDATA[
+    DO NOT REMOVE from the series page the editions in 2 volumes for books 1 to 5 (ie #1.1, #1.2, #2.1, #2.2, etc).
+]]>
+</note>
+<series_works_count>29</series_works_count>
+<primary_work_count>7</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+      <public_document>
+        <id>1828</id>
+        <document_url>
+          http://feedbooks.com/book/1262.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>379255</id>
+<title>Monsieur Proust</title>
+<title_without_series>Monsieur Proust</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/379255.Monsieur_Proust]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320487419s/379255.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320487419m/379255.jpg]]></image_url>
+<num_pages>456</num_pages>
+<work>
+<id>369072</id>
+</work>
+<isbn>1590170598</isbn>
+<isbn13>9781590170595</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>617</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>1214160</id>
+<name>Céleste Albaret</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1214160.C_leste_Albaret]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>70101</id>
+<title>The Immoralist</title>
+<title_without_series>The Immoralist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/70101.The_Immoralist]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309376827s/70101.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309376827m/70101.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>480721</id>
+</work>
+<isbn>0142180025</isbn>
+<isbn13>9780142180020</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>7440</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7617</id>
+<name>André Gide</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7617.Andr_Gide]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28293</id>
+<title>Life A User&apos;s Manual</title>
+<title_without_series>Life A User&apos;s Manual</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28293.Life_A_User_s_Manual]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1416690677s/28293.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1416690677m/28293.jpg]]></image_url>
+<num_pages>581</num_pages>
+<work>
+<id>1953902</id>
+</work>
+<isbn>0879237511</isbn>
+<isbn13>9780879237516</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>5196</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15923</id>
+<name>Georges Perec</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15923.Georges_Perec]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3753149</id>
+<title><![CDATA[Paintings in Proust: A Visual Companion to In Search of Lost Time]]></title>
+<title_without_series><![CDATA[Paintings in Proust: A Visual Companion to In Search of Lost Time]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3753149-paintings-in-proust]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>3797011</id>
+</work>
+<isbn>0500238545</isbn>
+<isbn13>9780500238547</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>562</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>1598818</id>
+<name>Eric Karpeles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1598818.Eric_Karpeles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>253878</id>
+<title>Mademoiselle de Maupin</title>
+<title_without_series>Mademoiselle de Maupin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/253878.Mademoiselle_de_Maupin]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358825205s/253878.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358825205m/253878.jpg]]></image_url>
+<num_pages>363</num_pages>
+<work>
+<id>246023</id>
+</work>
+<isbn>0140448136</isbn>
+<isbn13>9780140448139</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>754</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>103384</id>
+<name>Théophile Gautier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103384.Th_ophile_Gautier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25932</id>
+<title><![CDATA[Lost Illusions (La Comédie Humaine)]]></title>
+<title_without_series>Lost Illusions</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25932.Lost_Illusions]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>656</num_pages>
+<work>
+<id>2373321</id>
+</work>
+<isbn>1406506583</isbn>
+<isbn13>9781406506587</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>6461</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>228089</id>
+<name>Honoré de Balzac</name>
+<link><![CDATA[https://www.goodreads.com/author/show/228089.Honor_de_Balzac]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>224512</id>
+<title><![CDATA[The Country Waif (Francois Le Champi)]]></title>
+<title_without_series>The Country Waif</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/224512.The_Country_Waif]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>181</num_pages>
+<work>
+<id>217436</id>
+</work>
+<isbn>080325850X</isbn>
+<isbn13>9780803258501</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>182</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1464</id>
+<name>George Sand</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1464.George_Sand]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>352815</id>
+<title><![CDATA[Pages from the Goncourt Journals]]></title>
+<title_without_series><![CDATA[Pages from the Goncourt Journals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/352815.Pages_from_the_Goncourt_Journals]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320436269s/352815.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320436269m/352815.jpg]]></image_url>
+<num_pages>472</num_pages>
+<work>
+<id>343037</id>
+</work>
+<isbn>159017190X</isbn>
+<isbn13>9781590171905</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>188</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>202304</id>
+<name>Edmond de Goncourt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/202304.Edmond_de_Goncourt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>794779</id>
+<title>Le Grand Meaulnes</title>
+<title_without_series>Le Grand Meaulnes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/794779.Le_Grand_Meaulnes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1430741512s/794779.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1430741512m/794779.jpg]]></image_url>
+<num_pages>206</num_pages>
+<work>
+<id>51583</id>
+</work>
+<isbn>0140182829</isbn>
+<isbn13>9780140182828</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>7092</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6460339</id>
+<name>Alain-Fournier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6460339.Alain_Fournier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28409</id>
+<title><![CDATA[The Masterpiece (Les Rougon-Macquart, #14)]]></title>
+<title_without_series>The Masterpiece</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28409.The_Masterpiece]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>28958</id>
+</work>
+<isbn>0192839632</isbn>
+<isbn13>9780192839633</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>2284</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4750</id>
+<name>Émile Zola</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4750._mile_Zola]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>852284</id>
+<title>Marcel Proust</title>
+<title_without_series>Marcel Proust</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/852284.Marcel_Proust]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>165</num_pages>
+<work>
+<id>16186684</id>
+</work>
+<isbn>0670880574</isbn>
+<isbn13>9780670880577</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>663</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>15975</id>
+<name>Edmund White</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15975.Edmund_White]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2182</id>
+<title>Three Tales</title>
+<title_without_series>Three Tales</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2182.Three_Tales]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1311645483s/2182.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1311645483m/2182.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1446318</id>
+</work>
+<isbn>0140448004</isbn>
+<isbn13>9780140448009</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>3761</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1461</id>
+<name>Gustave Flaubert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1461.Gustave_Flaubert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>953435</id>
+<title>L&apos;Œuvre au noir</title>
+<title_without_series>L&apos;Œuvre au noir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/953435.L_uvre_au_noir]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1368219574s/953435.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1368219574m/953435.jpg]]></image_url>
+<num_pages>480</num_pages>
+<work>
+<id>1099462</id>
+</work>
+<isbn></isbn>
+<isbn13>9782070367986</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>2707</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7732</id>
+<name>Marguerite Yourcenar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7732.Marguerite_Yourcenar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>346023</id>
+<title>The Gods Will Have Blood</title>
+<title_without_series>The Gods Will Have Blood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/346023.The_Gods_Will_Have_Blood]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>2069122</id>
+</work>
+<isbn>0140184570</isbn>
+<isbn13>9780140184570</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>1337</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>48535</id>
+<name>Anatole France</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48535.Anatole_France]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14680</id>
+<title>The Charterhouse of Parma</title>
+<title_without_series>The Charterhouse of Parma</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14680.The_Charterhouse_of_Parma]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>532</num_pages>
+<work>
+<id>1378789</id>
+</work>
+<isbn>0679783180</isbn>
+<isbn13>9780679783183</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>11191</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>1481537</id>
+<name>Stendhal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1481537.Stendhal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>210255</id>
+<title>Against Nature</title>
+<title_without_series>Against Nature</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/210255.Against_Nature]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>306152</id>
+</work>
+<isbn>0140447636</isbn>
+<isbn13>9780140447637</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>7575</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>123088</id>
+<name>Joris-Karl Huysmans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/123088.Joris_Karl_Huysmans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28371</id>
+<title>Witch Grass</title>
+<title_without_series>Witch Grass</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28371.Witch_Grass]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320440366s/28371.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320440366m/28371.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>28921</id>
+</work>
+<isbn>1590170318</isbn>
+<isbn13>9781590170311</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>369</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>15957</id>
+<name>Raymond Queneau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15957.Raymond_Queneau]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

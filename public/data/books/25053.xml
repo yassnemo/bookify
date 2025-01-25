@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>25053</id>
+  <title><![CDATA[Hello, Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle, #4)]]></title>
+  <isbn><![CDATA[0064401499]]></isbn>
+  <isbn13><![CDATA[9780064401494]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>14</publication_day>
+  <publisher>HarperCollins</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The incomparable Mrs. Piggle-Wiggle loves children good or bad and never scolds but has positive cures for Answer-Backers, Never-Want-to-Go-to-Bedders, and other boys and girls with strange habits.]]></description>
+  <work>
+  <id type="integer">1279206</id>
+  <books_count type="integer">20</books_count>
+  <best_book_id type="integer">25053</best_book_id>
+  <reviews_count type="integer">15523</reviews_count>
+  <ratings_sum type="integer">56440</ratings_sum>
+  <ratings_count type="integer">13313</ratings_count>
+  <text_reviews_count type="integer">188</text_reviews_count>
+  <original_publication_year type="integer">1955</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Hello, Mrs. Piggle-Wiggle</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6712|4:3808|3:2232|2:391|1:170|total:13313</rating_dist>
+  <desc_user_id type="integer">55270677</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.24</average_rating>
+  <num_pages><![CDATA[176]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13000]]></ratings_count>
+  <text_reviews_count><![CDATA[163]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/25053.Hello_Mrs_Piggle_Wiggle]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/25053.Hello_Mrs_Piggle_Wiggle]]></link>
+  <authors>
+<author>
+<id>13369</id>
+<name>Betty MacDonald</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485805918p5/13369.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485805918p2/13369.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13369.Betty_MacDonald]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>92148</ratings_count>
+<text_reviews_count>2852</text_reviews_count>
+</author>
+<author>
+<id>1291826</id>
+<name>Alexandra Boiger</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1374323468p5/1291826.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1374323468p2/1291826.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1291826.Alexandra_Boiger]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>74544</ratings_count>
+<text_reviews_count>2358</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/25053.Hello_Mrs_Piggle_Wiggle">Hello, Mrs. Piggle-Wiggle Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0064401499&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/25053.Hello_Mrs_Piggle_Wiggle?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1329"/>
+      <shelf name="childrens" count="138"/>
+      <shelf name="children-s" count="88"/>
+      <shelf name="fiction" count="78"/>
+      <shelf name="children-s-books" count="70"/>
+      <shelf name="children" count="64"/>
+      <shelf name="fantasy" count="57"/>
+      <shelf name="kids" count="52"/>
+      <shelf name="childhood" count="48"/>
+      <shelf name="favorites" count="36"/>
+      <shelf name="childhood-favorites" count="36"/>
+      <shelf name="kids-books" count="29"/>
+      <shelf name="humor" count="28"/>
+      <shelf name="childrens-books" count="23"/>
+      <shelf name="books-i-own" count="21"/>
+      <shelf name="currently-reading" count="21"/>
+      <shelf name="classics" count="21"/>
+      <shelf name="juvenile" count="21"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="chapter-books" count="18"/>
+      <shelf name="middle-grade" count="17"/>
+      <shelf name="childhood-books" count="17"/>
+      <shelf name="series" count="17"/>
+      <shelf name="read-alouds" count="16"/>
+      <shelf name="juvenile-fiction" count="12"/>
+      <shelf name="young-adult" count="11"/>
+      <shelf name="kid-books" count="11"/>
+      <shelf name="default" count="10"/>
+      <shelf name="mrs-piggle-wiggle" count="10"/>
+      <shelf name="read-aloud" count="10"/>
+      <shelf name="short-stories" count="10"/>
+      <shelf name="children-s-literature" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="children-s-lit" count="9"/>
+      <shelf name="classroom-library" count="8"/>
+      <shelf name="childrens-lit" count="8"/>
+      <shelf name="read-as-a-kid" count="7"/>
+      <shelf name="youth" count="7"/>
+      <shelf name="classic" count="7"/>
+      <shelf name="owned-books" count="6"/>
+      <shelf name="chapter-book" count="6"/>
+      <shelf name="my-childhood" count="6"/>
+      <shelf name="funny" count="6"/>
+      <shelf name="childrens-literature" count="6"/>
+      <shelf name="childhood-classics" count="6"/>
+      <shelf name="kids-chapter-books" count="6"/>
+      <shelf name="books-from-my-childhood" count="6"/>
+      <shelf name="childrensbooks" count="6"/>
+      <shelf name="home-library" count="5"/>
+      <shelf name="class-library" count="5"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="ya" count="5"/>
+      <shelf name="elementary-school" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="magic" count="5"/>
+      <shelf name="childrens-fiction" count="5"/>
+      <shelf name="read-with-kids" count="5"/>
+      <shelf name="childhood-reading" count="5"/>
+      <shelf name="childhood-reads" count="5"/>
+      <shelf name="books-i-read-as-a-kid" count="5"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="books-we-own" count="4"/>
+      <shelf name="children-s-fiction" count="4"/>
+      <shelf name="children-s-classics" count="4"/>
+      <shelf name="middle-grades" count="4"/>
+      <shelf name="children-s-chapter-books" count="4"/>
+      <shelf name="audio-book" count="4"/>
+      <shelf name="childhood-memories" count="4"/>
+      <shelf name="illustrated" count="4"/>
+      <shelf name="from-my-childhood" count="4"/>
+      <shelf name="women-authors" count="4"/>
+      <shelf name="when-i-was-young" count="4"/>
+      <shelf name="paperback" count="4"/>
+      <shelf name="as-a-kid" count="4"/>
+      <shelf name="read-with-my-kids" count="4"/>
+      <shelf name="favorite-children-s-books" count="4"/>
+      <shelf name="childrens-chapter-books" count="4"/>
+      <shelf name="read-childrens" count="4"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="young-readers" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="children-lit" count="3"/>
+      <shelf name="lower-elementary" count="3"/>
+      <shelf name="childhood-favorite" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="read-as-a-child" count="3"/>
+      <shelf name="children-fiction" count="3"/>
+      <shelf name="child-lit" count="3"/>
+      <shelf name="read-to-kids" count="3"/>
+      <shelf name="nostalgia" count="3"/>
+      <shelf name="read-in-childhood" count="3"/>
+      <shelf name="for-the-kids" count="3"/>
+      <shelf name="female-authors" count="3"/>
+      <shelf name="elementary" count="3"/>
+      <shelf name="childrens-ya" count="3"/>
+      <shelf name="children-ya" count="3"/>
+      <shelf name="mrs--piggle-wiggle" count="3"/>
+      <shelf name="children-young-adult" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>208418</id>
+<user_position>4</user_position>
+<series>
+<id>53333</id>
+<title>
+<![CDATA[
+    Mrs. Piggle Wiggle
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>443537</id>
+<title><![CDATA[Mrs. Piggle-Wiggle's Won't-Take-a-Bath Cure (Mrs. Piggle Wiggle, #6)]]></title>
+<title_without_series><![CDATA[Mrs. Piggle-Wiggle's Won't-Take-a-Bath Cure]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/443537.Mrs_Piggle_Wiggle_s_Won_t_Take_a_Bath_Cure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1011565</id>
+</work>
+<isbn>0060276304</isbn>
+<isbn13>9780060276300</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>149</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>130649</id>
+<name>Bruce Whatley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/130649.Bruce_Whatley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244338</id>
+<title>Henry and Ribsy (Henry, #3)</title>
+<title_without_series>Henry and Ribsy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244338.Henry_and_Ribsy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395612418s/244338.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395612418m/244338.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>1976</id>
+</work>
+<isbn>0380709171</isbn>
+<isbn13>9780380709175</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>10574</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>403</id>
+<name>Beverly Cleary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403.Beverly_Cleary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19308</id>
+<title>Pippi Goes on Board</title>
+<title_without_series>Pippi Goes on Board</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19308.Pippi_Goes_on_Board]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>2056451</id>
+</work>
+<isbn>0140309594</isbn>
+<isbn13>9780140309591</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>10012</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>410653</id>
+<name>Astrid Lindgren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410653.Astrid_Lindgren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>517959</id>
+<title><![CDATA[Thank You, Amelia Bedelia (I Can Read Book Level 2)]]></title>
+<title_without_series>Thank You, Amelia Bedelia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/517959.Thank_You_Amelia_Bedelia]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2928546</id>
+</work>
+<isbn>0064441717</isbn>
+<isbn13>9780064441711</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>3556</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9002</id>
+<name>Peggy Parish</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9002.Peggy_Parish]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7904</id>
+<title><![CDATA[Betsy-Tacy and Tib (Betsy-Tacy, #2)]]></title>
+<title_without_series>Betsy-Tacy and Tib</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7904.Betsy_Tacy_and_Tib]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349963138s/7904.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349963138m/7904.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>804295</id>
+</work>
+<isbn>0690138768</isbn>
+<isbn13>9780690138764</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>8511</ratings_count>
+<publication_year>1941</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5306</id>
+<name>Maud Hart Lovelace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5306.Maud_Hart_Lovelace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7928</id>
+<title><![CDATA[More All-of-a-Kind Family (All-of-a-Kind Family, #3)]]></title>
+<title_without_series>More All-of-a-Kind Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7928.More_All_of_a_Kind_Family]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>2969220</id>
+</work>
+<isbn>0929093100</isbn>
+<isbn13>9780929093109</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>5036</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5323</id>
+<name>Sydney Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5323.Sydney_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>312077</id>
+<title><![CDATA[The Time Garden (Tales of Magic, #4)]]></title>
+<title_without_series>The Time Garden</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/312077.The_Time_Garden]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408926931s/312077.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408926931m/312077.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>1019569</id>
+</work>
+<isbn>0192751018</isbn>
+<isbn13>9780192751010</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3456</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>131683</id>
+<name>Edward Eager</name>
+<link><![CDATA[https://www.goodreads.com/author/show/131683.Edward_Eager]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>343091</id>
+<title>What the Witch Left</title>
+<title_without_series>What the Witch Left</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/343091.What_the_Witch_Left]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354859470s/343091.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354859470m/343091.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2406228</id>
+</work>
+<isbn>0590455311</isbn>
+<isbn13>9780590455312</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>896</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53238</id>
+<name>Ruth Chew</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53238.Ruth_Chew]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152381</id>
+<title><![CDATA[Mary Poppins in the Park (Mary Poppins, #4)]]></title>
+<title_without_series>Mary Poppins in the Park</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152381.Mary_Poppins_in_the_Park]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>2740729</id>
+</work>
+<isbn>0152058281</isbn>
+<isbn13>9780152058289</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4777</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6872556</id>
+<name>P.L. Travers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6872556.P_L_Travers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17701</id>
+<title><![CDATA[More Adventures of the Great Brain (Great Brain #2)]]></title>
+<title_without_series><![CDATA[More Adventures of the Great Brain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17701.More_Adventures_of_the_Great_Brain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>2041436</id>
+</work>
+<isbn>0142400653</isbn>
+<isbn13>9780142400654</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>4491</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>2</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>689512</id>
+<name>John D. Fitzgerald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/689512.John_D_Fitzgerald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3782</id>
+<title>Theater Shoes (Shoes, #4)</title>
+<title_without_series>Theater Shoes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3782.Theater_Shoes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1165361069s/3782.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1165361069m/3782.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>1391500</id>
+</work>
+<isbn>0679854347</isbn>
+<isbn13>9780679854340</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>4122</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>11</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2951738</id>
+<name>Noel Streatfeild</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2951738.Noel_Streatfeild]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>156806</id>
+<title><![CDATA[The Boxcar Children 5-8 (The Boxcar Children, #5-8)]]></title>
+<title_without_series>The Boxcar Children 5-8</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/156806.The_Boxcar_Children_5_8]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42168766</id>
+</work>
+<isbn>0807508578</isbn>
+<isbn13>9780807508572</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>1909</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10665</id>
+<name>Gertrude Chandler Warner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10665.Gertrude_Chandler_Warner]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>502295</id>
+  <title><![CDATA[Gonzo: The Life of Hunter S. Thompson]]></title>
+  <isbn><![CDATA[0316005274]]></isbn>
+  <isbn13><![CDATA[9780316005272]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>31</publication_day>
+  <publisher>Little, Brown and Company</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Few American lives are stranger, more action-packed, or wilder than that of Hunter S. Thompson. Born a rebel in Louisville, Kentucky, Thompson spent a lifetime channeling his energy and insight into such landmark works as <i>Fear and Loathing in Las Vegas - </i>and his singular and provocative style challenged and revolutionized writing.<br />Now, for the first time ever, Jann Wenner and Corey Seymour have interviewed the Good Doctor's friends, family, acquaintances and colleagues and woven their memories into a brilliant oral biography. From Hell's Angels leader Sonny Barger to Ralph Steadman to Jack Nicholson to Jimmy Buffett to Pat Buchanan to Marilyn Manson and Thompson's two wives, son, and longtime personal assistant, more than 100 members of Thompson's inner circle bring into vivid focus the life of a man who was even more complicated, tormented, and talented than any previous portrait has shown. It's all here in its uncensored glory: the creative frenzies, the love affairs, the drugs and booze and guns and explosives and, ultimately, the tragic suicide. As Thompson was fond of saying, "Buy the ticket, take the ride."]]></description>
+  <work>
+  <id type="integer">3352513</id>
+  <books_count type="integer">19</books_count>
+  <best_book_id type="integer">502295</best_book_id>
+  <reviews_count type="integer">21323</reviews_count>
+  <ratings_sum type="integer">41143</ratings_sum>
+  <ratings_count type="integer">10108</ratings_count>
+  <text_reviews_count type="integer">252</text_reviews_count>
+  <original_publication_year type="integer">2007</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Gonzo: The Life of Hunter S. Thompson</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3710|4:3879|3:2117|2:324|1:78|total:10108</rating_dist>
+  <desc_user_id type="integer">-10</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[467]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9915]]></ratings_count>
+  <text_reviews_count><![CDATA[231]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/502295.Gonzo]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/502295.Gonzo]]></link>
+  <authors>
+<author>
+<id>19969</id>
+<name>Jann S. Wenner</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19969.Jann_S_Wenner]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>13336</ratings_count>
+<text_reviews_count>408</text_reviews_count>
+</author>
+<author>
+<id>30729</id>
+<name>Corey Seymour</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30729.Corey_Seymour]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>10107</ratings_count>
+<text_reviews_count>253</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/502295.Gonzo">Gonzo Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316005274&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/502295.Gonzo?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10467"/>
+      <shelf name="currently-reading" count="171"/>
+      <shelf name="biography" count="126"/>
+      <shelf name="non-fiction" count="88"/>
+      <shelf name="biographies" count="29"/>
+      <shelf name="nonfiction" count="29"/>
+      <shelf name="favorites" count="27"/>
+      <shelf name="owned" count="17"/>
+      <shelf name="journalism" count="15"/>
+      <shelf name="gonzo" count="15"/>
+      <shelf name="hunter-s-thompson" count="11"/>
+      <shelf name="history" count="11"/>
+      <shelf name="politics" count="9"/>
+      <shelf name="hst" count="9"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="biography-memoir" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="pop-culture" count="7"/>
+      <shelf name="memoir" count="6"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="to-read-non-fiction" count="5"/>
+      <shelf name="biography-autobiography" count="5"/>
+      <shelf name="default" count="5"/>
+      <shelf name="bios" count="4"/>
+      <shelf name="autobiography-biography" count="3"/>
+      <shelf name="non-fiction-to-read" count="3"/>
+      <shelf name="nonfic" count="3"/>
+      <shelf name="bio-autobio" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="bio" count="3"/>
+      <shelf name="american-literature" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="the-good-doctor" count="3"/>
+      <shelf name="oral-history" count="3"/>
+      <shelf name="counterculture" count="3"/>
+      <shelf name="drugs" count="3"/>
+      <shelf name="biographies-memoirs" count="2"/>
+      <shelf name="my-shit" count="2"/>
+      <shelf name="memoirs-bios" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="hunter-thompson" count="2"/>
+      <shelf name="cultural-history" count="2"/>
+      <shelf name="auto-biography" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="ebook" count="2"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="contemporary" count="2"/>
+      <shelf name="i-own-it" count="2"/>
+      <shelf name="political" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="favorite-books" count="2"/>
+      <shelf name="thompson" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="essays" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="biography-memoirs" count="2"/>
+      <shelf name="at-library" count="2"/>
+      <shelf name="oral-histories" count="2"/>
+      <shelf name="memoir-and-biography" count="2"/>
+      <shelf name="fun" count="2"/>
+      <shelf name="hardcover" count="2"/>
+      <shelf name="borrowed" count="2"/>
+      <shelf name="hunter-s--thompson" count="2"/>
+      <shelf name="memoirs" count="2"/>
+      <shelf name="bios-and-memoirs" count="2"/>
+      <shelf name="bio-writers-male" count="1"/>
+      <shelf name="1960s-counterculture" count="1"/>
+      <shelf name="memoirs-biographies" count="1"/>
+      <shelf name="personal-dev" count="1"/>
+      <shelf name="memoir-bio" count="1"/>
+      <shelf name="03-sami-lukematta" count="1"/>
+      <shelf name="to-read__bus" count="1"/>
+      <shelf name="10-next" count="1"/>
+      <shelf name="your-library" count="1"/>
+      <shelf name="shit-that-really-blew-my-hair-back" count="1"/>
+      <shelf name="fun-reads" count="1"/>
+      <shelf name="to-read-non-fic" count="1"/>
+      <shelf name="read-donated" count="1"/>
+      <shelf name="to-read-to-buy" count="1"/>
+      <shelf name="other-nonfic" count="1"/>
+      <shelf name="journalism-journalists" count="1"/>
+      <shelf name="non-fiction-audiobooks" count="1"/>
+      <shelf name="dte" count="1"/>
+      <shelf name="to-buy-kindle" count="1"/>
+      <shelf name="drug-books" count="1"/>
+      <shelf name="books" count="1"/>
+      <shelf name="one-day" count="1"/>
+      <shelf name="penguin-random-house" count="1"/>
+      <shelf name="physical-books" count="1"/>
+      <shelf name="tbr" count="1"/>
+      <shelf name="reading-list-2017" count="1"/>
+      <shelf name="biographical-memoir" count="1"/>
+      <shelf name="writing" count="1"/>
+      <shelf name="needs" count="1"/>
+      <shelf name="books-to-buy-read" count="1"/>
+      <shelf name="arts" count="1"/>
+      <shelf name="2017-reading-list" count="1"/>
+      <shelf name="journalist-biography" count="1"/>
+      <shelf name="materially-owned-books" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>7753</id>
+<title><![CDATA[Fear and Loathing: The Strange and Terrible Saga of Hunter S. Thompson]]></title>
+<title_without_series><![CDATA[Fear and Loathing: The Strange and Terrible Saga of Hunter S. Thompson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7753.Fear_and_Loathing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>10808</id>
+</work>
+<isbn>1560256052</isbn>
+<isbn13>9781560256052</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>6946</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>3</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>5238</id>
+<name>Paul Perry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5238.Paul_Perry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26109</id>
+<title><![CDATA[The Joke's Over: Ralph Steadman on Hunter S. Thompson]]></title>
+<title_without_series><![CDATA[The Joke's Over: Ralph Steadman on Hunter S. Thompson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26109.The_Joke_s_Over]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26813</id>
+</work>
+<isbn>0151012822</isbn>
+<isbn13>9780151012824</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>3128</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14623</id>
+<name>Ralph Steadman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14623.Ralph_Steadman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>54250</id>
+<title>Gonzo</title>
+<title_without_series>Gonzo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/54250.Gonzo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>535133</id>
+</work>
+<isbn>0978607600</isbn>
+<isbn13>9780978607609</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2041</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5237</id>
+<name>Hunter S. Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5237.Hunter_S_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2077521</id>
+<title>Outlaw Journalist</title>
+<title_without_series>Outlaw Journalist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2077521.Outlaw_Journalist]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>2082790</id>
+</work>
+<isbn>0393061922</isbn>
+<isbn13>9780393061925</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>677</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>22979</id>
+<name>William McKeen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22979.William_McKeen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10879</id>
+<title><![CDATA[The Gonzo Way: A Celebration of Dr. Hunter S. Thompson ]]></title>
+<title_without_series><![CDATA[The Gonzo Way: A Celebration of Dr. Hunter S. Thompson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10879.The_Gonzo_Way]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>13483</id>
+</work>
+<isbn>1555916228</isbn>
+<isbn13>9781555916220</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>922</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7108</id>
+<name>Anita Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7108.Anita_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1564532</id>
+<title><![CDATA[The Kitchen Readings: Untold Stories of Hunter S. Thompson]]></title>
+<title_without_series><![CDATA[The Kitchen Readings: Untold Stories of Hunter S. Thompson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1564532.The_Kitchen_Readings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1557103</id>
+</work>
+<isbn>006115928X</isbn>
+<isbn13>9780061159282</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>989</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>727472</id>
+<name>Michael Cleverly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/727472.Michael_Cleverly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>54368</id>
+<title><![CDATA[Hunter: The Strange and Savage Life of Hunter S. Thompson]]></title>
+<title_without_series><![CDATA[Hunter: The Strange and Savage Life of Hunter S. Thompson]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/54368.Hunter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>53009</id>
+</work>
+<isbn>0452271290</isbn>
+<isbn13>9780452271296</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1231</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>30738</id>
+<name>E. Jean Carroll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30738.E_Jean_Carroll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23949</id>
+<title><![CDATA[Literary Outlaw: The Life and Times of William S. Burroughs]]></title>
+<title_without_series><![CDATA[Literary Outlaw: The Life and Times of William S. Burroughs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23949.Literary_Outlaw]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1326527470s/23949.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1326527470m/23949.jpg]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>1405227</id>
+</work>
+<isbn>0380708825</isbn>
+<isbn13>9780380708826</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1561</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>13468</id>
+<name>Ted Morgan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13468.Ted_Morgan]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>19101283</id>
+  <title>The Son</title>
+  <isbn><![CDATA[0385351372]]></isbn>
+  <isbn13><![CDATA[9780385351379]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00GO9BMZS]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1390177620m/19101283.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1390177620s/19101283.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>13</publication_day>
+  <publisher>Knopf</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The author of the internationally best-selling Harry Hole series now gives us an electrifying stand-alone novel set amid Oslo's hierarchy of corruption, from which one very unusual young man is about to propel himself into a mission of brutal revenge. <br /><br />Sonny Lofthus, in his early thirties, has been in prison for the last dozen years: serving time for crimes he didn't commit. In exchange, he gets an uninterrupted supply of heroin—and the unexpected stream of fellow prisoners seeking out his uncanny abilities to soothe and absolve. His addiction started when his father committed suicide rather than be exposed as a corrupt cop, and now Sonny is the center of a vortex of corruption: prison staff, police, lawyers, a desperate priest—all of them focused on keeping him stoned and jailed, and all of them under the thumb of Oslo's crime overlord, the Twin. When Sonny learns some long-hidden truths about his father he makes a brilliant escape, and begins hunting down the people responsible for the hideous crimes he's paid for. But he's also being hunted, by the Twin, the cops, and the only person who knows the ultimate truth that Sonny is seeking. The question is, what will he do when they've cornered him? ]]></description>
+  <work>
+  <id type="integer">24342394</id>
+  <books_count type="integer">78</books_count>
+  <best_book_id type="integer">19101283</best_book_id>
+  <reviews_count type="integer">50094</reviews_count>
+  <ratings_sum type="integer">103876</ratings_sum>
+  <ratings_count type="integer">25514</ratings_count>
+  <text_reviews_count type="integer">2271</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">19</original_publication_day>
+  <original_title>Sønnen</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8923|4:11032|3:4370|2:834|1:355|total:25514</rating_dist>
+  <desc_user_id type="integer">23749893</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[407]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[Deckle edge]]></edition_information>
+  <ratings_count><![CDATA[19421]]></ratings_count>
+  <text_reviews_count><![CDATA[1734]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/19101283-the-son]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/19101283-the-son]]></link>
+  <authors>
+<author>
+<id>904719</id>
+<name>Jo Nesbø</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1493220079p5/904719.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1493220079p2/904719.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/904719.Jo_Nesb_]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>458167</ratings_count>
+<text_reviews_count>34230</text_reviews_count>
+</author>
+<author>
+<id>2747290</id>
+<name>Charlotte Barslund</name>
+<role>translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2747290.Charlotte_Barslund]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>36623</ratings_count>
+<text_reviews_count>4088</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/19101283-the-son">The Son Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385351372&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/19101283-the-son?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1470"/>
+      <shelf name="mystery" count="304"/>
+      <shelf name="crime" count="268"/>
+      <shelf name="fiction" count="217"/>
+      <shelf name="thriller" count="208"/>
+      <shelf name="favorites" count="94"/>
+      <shelf name="currently-reading" count="83"/>
+      <shelf name="jo-nesbo" count="61"/>
+      <shelf name="scandinavian" count="59"/>
+      <shelf name="owned" count="59"/>
+      <shelf name="mystery-thriller" count="56"/>
+      <shelf name="audiobook" count="55"/>
+      <shelf name="audiobooks" count="53"/>
+      <shelf name="library" count="48"/>
+      <shelf name="audio" count="46"/>
+      <shelf name="crime-fiction" count="43"/>
+      <shelf name="default" count="38"/>
+      <shelf name="mysteries" count="37"/>
+      <shelf name="thrillers" count="36"/>
+      <shelf name="kindle" count="36"/>
+      <shelf name="ebook" count="35"/>
+      <shelf name="suspense" count="35"/>
+      <shelf name="norway" count="31"/>
+      <shelf name="detective" count="28"/>
+      <shelf name="nordic-noir" count="27"/>
+      <shelf name="books-i-own" count="27"/>
+      <shelf name="read-in-2014" count="26"/>
+      <shelf name="to-buy" count="26"/>
+      <shelf name="read-in-2015" count="25"/>
+      <shelf name="crime-thriller" count="25"/>
+      <shelf name="nordic" count="25"/>
+      <shelf name="read-2015" count="23"/>
+      <shelf name="adult" count="23"/>
+      <shelf name="audio-books" count="20"/>
+      <shelf name="audio-book" count="20"/>
+      <shelf name="read-2014" count="19"/>
+      <shelf name="mystery-crime" count="19"/>
+      <shelf name="crime-mystery" count="19"/>
+      <shelf name="krimi" count="19"/>
+      <shelf name="nesbo" count="18"/>
+      <shelf name="owned-books" count="18"/>
+      <shelf name="scandinavia" count="17"/>
+      <shelf name="novels" count="17"/>
+      <shelf name="book-club" count="16"/>
+      <shelf name="krim" count="16"/>
+      <shelf name="norwegian" count="15"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="e-book" count="14"/>
+      <shelf name="contemporary" count="14"/>
+      <shelf name="abandoned" count="14"/>
+      <shelf name="favourites" count="13"/>
+      <shelf name="ebooks" count="13"/>
+      <shelf name="translated" count="12"/>
+      <shelf name="scandinavian-literature" count="12"/>
+      <shelf name="read-in-2016" count="12"/>
+      <shelf name="mysteries-thrillers" count="12"/>
+      <shelf name="scandinavian-crime" count="12"/>
+      <shelf name="mystery-suspense" count="10"/>
+      <shelf name="nesbo-jo" count="10"/>
+      <shelf name="adult-fiction" count="10"/>
+      <shelf name="jo-nesbø" count="10"/>
+      <shelf name="e-books" count="10"/>
+      <shelf name="suspense-thriller" count="9"/>
+      <shelf name="2015-reads" count="9"/>
+      <shelf name="revenge" count="9"/>
+      <shelf name="nordic-crime" count="9"/>
+      <shelf name="overdrive" count="9"/>
+      <shelf name="audible" count="9"/>
+      <shelf name="jo-nesbö" count="9"/>
+      <shelf name="2014-reads" count="9"/>
+      <shelf name="mystery-thriller-suspense" count="8"/>
+      <shelf name="europe" count="8"/>
+      <shelf name="stand-alone" count="8"/>
+      <shelf name="norwegian-literature" count="8"/>
+      <shelf name="my-books" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="murder" count="8"/>
+      <shelf name="police-procedural" count="8"/>
+      <shelf name="translation" count="7"/>
+      <shelf name="2014-books" count="7"/>
+      <shelf name="did-not-finish" count="7"/>
+      <shelf name="borrowed" count="7"/>
+      <shelf name="crime-mystery-thriller" count="7"/>
+      <shelf name="maybe" count="7"/>
+      <shelf name="mystery-thrillers" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="scandinavian-mystery" count="7"/>
+      <shelf name="read-in-2017" count="6"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="calibre" count="6"/>
+      <shelf name="book" count="6"/>
+      <shelf name="library-book" count="6"/>
+      <shelf name="crime-suspense" count="6"/>
+      <shelf name="drama" count="6"/>
+      <shelf name="crime-thrillers" count="6"/>
+      <shelf name="have" count="6"/>
+      <shelf name="scandinavian-authors" count="6"/>
+      <shelf name="listened" count="6"/>
+      <shelf name="scandinavian-crime-fiction" count="6"/>
+      <shelf name="thriller-mystery" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>16156179</id>
+<title><![CDATA[Jakthundene (William Wisting #8)]]></title>
+<title_without_series>Jakthundene</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16156179-jakthundene]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1353242130s/16156179.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1353242130m/16156179.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>21498729</id>
+</work>
+<isbn>8205429529</isbn>
+<isbn13>9788205429529</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1215</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>764007</id>
+<name>Jørn Lier Horst</name>
+<link><![CDATA[https://www.goodreads.com/author/show/764007.J_rn_Lier_Horst]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13623749</id>
+<title><![CDATA[Marco Effekten (Afdeling Q, #5)]]></title>
+<title_without_series>Marco Effekten</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13623749-marco-effekten]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350303698s/13623749.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350303698m/13623749.jpg]]></image_url>
+<num_pages>506</num_pages>
+<work>
+<id>19227486</id>
+</work>
+<isbn>8756799063</isbn>
+<isbn13>9788756799065</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>9070</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1734716</id>
+<name>Jussi Adler-Olsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1734716.Jussi_Adler_Olsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9661887</id>
+<title><![CDATA[Furðustrandir (Inspector Erlendur #11)]]></title>
+<title_without_series>Furðustrandir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9661887-fur-ustrandir]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1289227896s/9661887.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1289227896m/9661887.jpg]]></image_url>
+<num_pages>301</num_pages>
+<work>
+<id>14549549</id>
+</work>
+<isbn>9979221232</isbn>
+<isbn13>9789979221234</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>3432</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6861265</id>
+<name>Arnaldur Indriðason</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6861265.Arnaldur_Indri_ason]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1712798</id>
+<title><![CDATA[Die Schwalbe, die Katze, die Rose und der Tod (Inspector Van Veeteren #9)]]></title>
+<title_without_series><![CDATA[Die Schwalbe, die Katze, die Rose und der Tod]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1712798.Die_Schwalbe_die_Katze_die_Rose_und_der_Tod]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382479011s/1712798.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382479011m/1712798.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1759923</id>
+</work>
+<isbn>3442750792</isbn>
+<isbn13>9783442750795</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>720</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>161054</id>
+<name>Håkan Nesser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/161054.H_kan_Nesser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20523041</id>
+<title><![CDATA[The Disappeared (Fredrika Bergman and Alex Recht, #3)]]></title>
+<title_without_series>The Disappeared</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20523041-the-disappeared]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1389827781s/20523041.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1389827781m/20523041.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17770317</id>
+</work>
+<isbn>162923298X</isbn>
+<isbn13>9781629232980</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>2992</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4090485</id>
+<name>Kristina Ohlsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4090485.Kristina_Ohlsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3228197</id>
+<title><![CDATA[Evas Öga (Inspector Konrad Sejer #1)]]></title>
+<title_without_series>Evas Öga</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3228197-evas-ga]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>295</num_pages>
+<work>
+<id>3262401</id>
+</work>
+<isbn>9176435059</isbn>
+<isbn13>9789176435052</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>3283</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>163027</id>
+<name>Karin Fossum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163027.Karin_Fossum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17737096</id>
+<title><![CDATA[Death of a Nightingale (Nina Borg, #3)]]></title>
+<title_without_series>Death of a Nightingale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17737096-death-of-a-nightingale]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1383347466s/17737096.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1383347466m/17737096.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>18212683</id>
+</work>
+<isbn>1616953047</isbn>
+<isbn13>9781616953041</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>1769</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3116926</id>
+<name>Lene Kaaberbøl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3116926.Lene_Kaaberb_l]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16142290</id>
+<title><![CDATA[Fjällgraven  (Sebastian Bergman, #3)]]></title>
+<title_without_series>Fjällgraven</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16142290-fj-llgraven]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356784654s/16142290.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356784654m/16142290.jpg]]></image_url>
+<num_pages>425</num_pages>
+<work>
+<id>21974187</id>
+</work>
+<isbn>9113044168</isbn>
+<isbn13>9789113044163</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1878</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4372984</id>
+<name>Michael Hjorth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4372984.Michael_Hjorth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17910098</id>
+<title>Where Monsters Dwell</title>
+<title_without_series>Where Monsters Dwell</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17910098-where-monsters-dwell]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1385661379s/17910098.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1385661379m/17910098.jpg]]></image_url>
+<num_pages>357</num_pages>
+<work>
+<id>15579443</id>
+</work>
+<isbn>1250016800</isbn>
+<isbn13>9781250016805</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>1412</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4691581</id>
+<name>Jørgen Brekke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4691581.J_rgen_Brekke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16072751</id>
+<title>Sandmannen (Joona Linna, #4)</title>
+<title_without_series>Sandmannen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16072751-sandmannen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1349631344s/16072751.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1349631344m/16072751.jpg]]></image_url>
+<num_pages>518</num_pages>
+<work>
+<id>21866975</id>
+</work>
+<isbn>9100130168</isbn>
+<isbn13>9789100130169</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>8067</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>3105995</id>
+<name>Lars Kepler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3105995.Lars_Kepler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14059743</id>
+<title><![CDATA[Till offer åt Molok (Rebecka Martinsson, #5)]]></title>
+<title_without_series>Till offer åt Molok</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14059743-till-offer-t-molok]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1337459839s/14059743.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1337459839m/14059743.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>19696161</id>
+</work>
+<isbn></isbn>
+<isbn13>9789100125318</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>3071</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>168255</id>
+<name>Åsa Larsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168255._sa_Larsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8755555</id>
+<title><![CDATA[The Troubled Man (Kurt Wallander, #10)]]></title>
+<title_without_series>The Troubled Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8755555-the-troubled-man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>367</num_pages>
+<work>
+<id>7165313</id>
+</work>
+<isbn>0307593495</isbn>
+<isbn13>9780307593498</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>11728</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>22339</id>
+<name>Henning Mankell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22339.Henning_Mankell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1443159</id>
+<title>Misterioso (A-gruppen, #1)</title>
+<title_without_series>Misterioso</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1443159.Misterioso]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410379967s/1443159.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410379967m/1443159.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>1433799</id>
+</work>
+<isbn>3492239927</isbn>
+<isbn13>9783492239929</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>2910</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>678217</id>
+<name>Arne Dahl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/678217.Arne_Dahl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3052892</id>
+<title><![CDATA[Another Time, Another Life (Fall of the Welfare State, #2)]]></title>
+<title_without_series>Another Time, Another Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3052892-another-time-another-life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1398620083s/3052892.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1398620083m/3052892.jpg]]></image_url>
+<num_pages>404</num_pages>
+<work>
+<id>3083786</id>
+</work>
+<isbn>0061153931</isbn>
+<isbn13>9780061153938</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>794</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3450746</id>
+<name>Leif G.W. Persson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3450746.Leif_G_W_Persson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>5558786</id>
+  <title>Metro 2033 (METRO, #1)</title>
+  <isbn><![CDATA[3453532988]]></isbn>
+  <isbn13><![CDATA[9783453532984]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B004OL2WHK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1328809143m/5558786.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328809143s/5558786.jpg</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Heyne Verlag</publisher>
+  <language_code>ger</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Es ist das Jahr 2033. Nach einem verheerenden Krieg liegen weite Teile der Welt in Schutt und Asche. Moskau ist eine Geisterstadt, bevölkert von Mutanten und Ungeheuern. Die wenigen verbliebenen Menschen haben sich in das weit verzweigte U-Bahn-Netz der Hauptstadt zurückgezogen und dort die skurrilsten Gesellschaftsformen entwickelt. Sie leben unter ständiger Bedrohung der monströsen Wesen, die versuchen, von oben in die Metro einzudringen ... Dies ist die Geschichte des jungen Artjom, der sich auf eine abenteuerliche Reise durch die U-Bahn-Tunnel macht, auf der Suche nach einem geheimnisvollen Objekt, das die Menschheit vor der endgültigen Vernichtung bewahren soll.]]></description>
+  <work>
+  <id type="integer">5729918</id>
+  <books_count type="integer">115</books_count>
+  <best_book_id type="integer">17274667</best_book_id>
+  <reviews_count type="integer">55310</reviews_count>
+  <ratings_sum type="integer">92968</ratings_sum>
+  <ratings_count type="integer">23372</ratings_count>
+  <text_reviews_count type="integer">1547</text_reviews_count>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Метро 2033</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8155|4:8828|3:4530|2:1432|1:427|total:23372</rating_dist>
+  <desc_user_id type="integer">61800045</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.98</average_rating>
+  <num_pages><![CDATA[764]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[15863]]></ratings_count>
+  <text_reviews_count><![CDATA[924]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/5558786-metro-2033]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/5558786-metro-2033]]></link>
+  <authors>
+<author>
+<id>3159299</id>
+<name>Dmitry Glukhovsky</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1336150682p5/3159299.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1336150682p2/3159299.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3159299.Dmitry_Glukhovsky]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>37100</ratings_count>
+<text_reviews_count>2419</text_reviews_count>
+</author>
+<author>
+<id>2451366</id>
+<name>M. David Drevs</name>
+<role>Übersetzer</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2451366.M_David_Drevs]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>21460</ratings_count>
+<text_reviews_count>1156</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/5558786-metro-2033">Metro 2033 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=3453532988&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/5558786-metro-2033?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="16038"/>
+      <shelf name="currently-reading" count="2044"/>
+      <shelf name="science-fiction" count="531"/>
+      <shelf name="sci-fi" count="478"/>
+      <shelf name="favorites" count="350"/>
+      <shelf name="horror" count="254"/>
+      <shelf name="post-apocalyptic" count="234"/>
+      <shelf name="fiction" count="225"/>
+      <shelf name="dystopia" count="213"/>
+      <shelf name="owned" count="132"/>
+      <shelf name="fantasy" count="111"/>
+      <shelf name="russian" count="102"/>
+      <shelf name="dystopian" count="87"/>
+      <shelf name="scifi" count="83"/>
+      <shelf name="books-i-own" count="62"/>
+      <shelf name="default" count="61"/>
+      <shelf name="russia" count="58"/>
+      <shelf name="apocalyptic" count="47"/>
+      <shelf name="to-buy" count="46"/>
+      <shelf name="sf" count="44"/>
+      <shelf name="kindle" count="43"/>
+      <shelf name="thriller" count="40"/>
+      <shelf name="ebook" count="39"/>
+      <shelf name="russian-literature" count="38"/>
+      <shelf name="audiobook" count="37"/>
+      <shelf name="post-apocalypse" count="34"/>
+      <shelf name="books" count="33"/>
+      <shelf name="owned-books" count="33"/>
+      <shelf name="series" count="32"/>
+      <shelf name="novels" count="32"/>
+      <shelf name="favourites" count="30"/>
+      <shelf name="audiobooks" count="28"/>
+      <shelf name="abandoned" count="28"/>
+      <shelf name="apocalypse" count="27"/>
+      <shelf name="metro" count="25"/>
+      <shelf name="sci-fi-fantasy" count="23"/>
+      <shelf name="library" count="23"/>
+      <shelf name="on-hold" count="20"/>
+      <shelf name="sub" count="19"/>
+      <shelf name="post-apo" count="18"/>
+      <shelf name="did-not-finish" count="16"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="my-books" count="15"/>
+      <shelf name="ebooks" count="15"/>
+      <shelf name="adventure" count="15"/>
+      <shelf name="metro-2033" count="14"/>
+      <shelf name="russian-lit" count="14"/>
+      <shelf name="fantasy-sci-fi" count="14"/>
+      <shelf name="audio" count="14"/>
+      <shelf name="audible" count="14"/>
+      <shelf name="read-in-2016" count="13"/>
+      <shelf name="ciencia-ficción" count="13"/>
+      <shelf name="speculative-fiction" count="13"/>
+      <shelf name="dmitry-glukhovsky" count="12"/>
+      <shelf name="read-in-russian" count="12"/>
+      <shelf name="fantascienza" count="12"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="unfinished" count="12"/>
+      <shelf name="survival" count="11"/>
+      <shelf name="mystery" count="11"/>
+      <shelf name="e-books" count="11"/>
+      <shelf name="maybe" count="11"/>
+      <shelf name="fantastyka" count="11"/>
+      <shelf name="action" count="11"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="dropped" count="10"/>
+      <shelf name="adult" count="10"/>
+      <shelf name="read-in-2013" count="9"/>
+      <shelf name="translated" count="9"/>
+      <shelf name="read-in-polish" count="9"/>
+      <shelf name="literature" count="9"/>
+      <shelf name="novel" count="9"/>
+      <shelf name="gave-up-on" count="9"/>
+      <shelf name="supernatural" count="9"/>
+      <shelf name="audio-book" count="8"/>
+      <shelf name="s-f" count="8"/>
+      <shelf name="in-translation" count="8"/>
+      <shelf name="favourite" count="8"/>
+      <shelf name="english" count="8"/>
+      <shelf name="dystopie" count="8"/>
+      <shelf name="contemporary" count="8"/>
+      <shelf name="apocalyptic-post-apocalyptic" count="8"/>
+      <shelf name="calibre" count="8"/>
+      <shelf name="fantasy-scifi" count="7"/>
+      <shelf name="21st-century" count="7"/>
+      <shelf name="sci-fi-and-fantasy" count="7"/>
+      <shelf name="read-in-german" count="7"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="paranormal" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="my-bookshelf" count="7"/>
+      <shelf name="favorite" count="7"/>
+      <shelf name="science" count="7"/>
+      <shelf name="reviewed" count="7"/>
+      <shelf name="postapocalyptic" count="7"/>
+      <shelf name="ciencia-ficcion" count="7"/>
+      <shelf name="bought" count="7"/>
+      <shelf name="want-to-read" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>489583</id>
+<user_position>1</user_position>
+<series>
+<id>101081</id>
+<title>
+<![CDATA[
+    Метро
+]]>
+</title>
+<description>
+<![CDATA[
+    Ps. "Metro 2033: The gospel according to Artyom" "The epilogue" is a standalone epilogue that has NOTHING TO DO with the comic book
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>489584</id>
+<user_position>1</user_position>
+<series>
+<id>60330</id>
+<title>
+<![CDATA[
+    Universe Metro 2033
+]]>
+</title>
+<description>
+<![CDATA[
+    Universe set in world created by Dmitry Glukhovsy in his world-renowned book Metro 2033.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>56</series_works_count>
+<primary_work_count>56</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>1059823</id>
+<user_position>1</user_position>
+<series>
+<id>206150</id>
+<title>
+<![CDATA[
+    Uniwersum Metro 2033
+]]>
+</title>
+<description>
+<![CDATA[
+    Uniwersum Metro 2033 to międzynarodowy projekt stworzony i koordynowany przez Dmitry’a Glukhovsky’ego, autora „Metro 2033”, w którym biorą udział różni pisarze, osadzający swe historie w realiach postapokaliptycznego świata Metra 2033.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>24</series_works_count>
+<primary_work_count>21</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>15768160</id>
+<title><![CDATA[Do Światła (Uniwersum «Metro 2033»)]]></title>
+<title_without_series>Do Światła</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15768160-do-wiat-a]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1343148243s/15768160.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1343148243m/15768160.jpg]]></image_url>
+<num_pages>326</num_pages>
+<work>
+<id>21474023</id>
+</work>
+<isbn></isbn>
+<isbn13>9788361428695</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>626</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5768874</id>
+<name>Andrey Dyakov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5768874.Andrey_Dyakov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8710936</id>
+<title><![CDATA[Питер (Вселенная «Метро 2033»)]]></title>
+<title_without_series>Питер</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8710936]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328958018s/8710936.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328958018m/8710936.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>13583796</id>
+</work>
+<isbn></isbn>
+<isbn13>9785170642601</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>373</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7242276</id>
+<name>Шимун Врочек</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7242276._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>195638</id>
+<title><![CDATA[Черновик (Работа над ошибками, #1)]]></title>
+<title_without_series>Черновик</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/195638._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329232972s/195638.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329232972m/195638.jpg]]></image_url>
+<num_pages>289</num_pages>
+<work>
+<id>189208</id>
+</work>
+<isbn>5170331517</isbn>
+<isbn13>9785170331512</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>2349</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32637</id>
+<name>Sergei Lukyanenko</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32637.Sergei_Lukyanenko]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13089338</id>
+<title><![CDATA[Le radici del Cielo (Uniwersum «Metro 2033»)]]></title>
+<title_without_series>Le radici del Cielo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13089338-le-radici-del-cielo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395490466s/13089338.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395490466m/13089338.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>18260841</id>
+</work>
+<isbn>8863551693</isbn>
+<isbn13>9788863551693</isbn13>
+<average_rating>3.43</average_rating>
+<ratings_count>229</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>518236</id>
+<name>Tullio Avoledo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/518236.Tullio_Avoledo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>331256</id>
+<title>Roadside Picnic</title>
+<title_without_series>Roadside Picnic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/331256.Roadside_Picnic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>145</num_pages>
+<work>
+<id>1243896</id>
+</work>
+<isbn>0575070536</isbn>
+<isbn13>9780575070530</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>25275</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>8</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1159886</id>
+<name>Arkady Strugatsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1159886.Arkady_Strugatsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>820073</id>
+<title>Level 7</title>
+<title_without_series>Level 7</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/820073.Level_7]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>805927</id>
+</work>
+<isbn>0299200647</isbn>
+<isbn13>9780299200640</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>1308</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>427952</id>
+<name>Mordecai Roshwald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/427952.Mordecai_Roshwald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>807806</id>
+<title>Dark Universe</title>
+<title_without_series>Dark Universe</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/807806.Dark_Universe]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>154</num_pages>
+<work>
+<id>793748</id>
+</work>
+<isbn>0575071370</isbn>
+<isbn13>9780575071377</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>556</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>126820</id>
+<name>Daniel F. Galouye</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126820.Daniel_F_Galouye]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1768257</id>
+<title>Malevil</title>
+<title_without_series>Malevil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1768257.Malevil]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1433079629s/1768257.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1433079629m/1768257.jpg]]></image_url>
+<num_pages>635</num_pages>
+<work>
+<id>91104</id>
+</work>
+<isbn>2070374440</isbn>
+<isbn13>9782070374441</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>2541</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>54354</id>
+<name>Robert Merle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54354.Robert_Merle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17999967</id>
+<title><![CDATA[The Last of Us: American Dreams #2]]></title>
+<title_without_series><![CDATA[The Last of Us: American Dreams #2]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17999967-the-last-of-us]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369936547s/17999967.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369936547m/17999967.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>25259299</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>193</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>3241490</id>
+<name>Neil Druckmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3241490.Neil_Druckmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6177371</id>
+<title>Pan Lodowego Ogrodu. Tom 1</title>
+<title_without_series>Pan Lodowego Ogrodu. Tom 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6177371-pan-lodowego-ogrodu-tom-1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>13088149</id>
+</work>
+<isbn>8389011611</isbn>
+<isbn13></isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>4257</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>1869660</id>
+<name>Jarosław Grzędowicz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1869660.Jaros_aw_Grz_dowicz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15699727</id>
+<title>The Living</title>
+<title_without_series>The Living</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15699727-the-living]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384084781s/15699727.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384084781m/15699727.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>21358230</id>
+</work>
+<isbn>1843913771</isbn>
+<isbn13>9781843913771</isbn13>
+<average_rating>3.46</average_rating>
+<ratings_count>254</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>2987362</id>
+<name>Anna Starobinets</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2987362.Anna_Starobinets]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9479238</id>
+<title>Day of the Oprichnik</title>
+<title_without_series>Day of the Oprichnik</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9479238-day-of-the-oprichnik]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316637027s/9479238.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316637027m/9479238.jpg]]></image_url>
+<num_pages>191</num_pages>
+<work>
+<id>2138223</id>
+</work>
+<isbn>0374134758</isbn>
+<isbn13>9780374134754</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>2641</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>39839</id>
+<name>Vladimir Sorokin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39839.Vladimir_Sorokin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>626854</id>
+<title>Drowning Towers</title>
+<title_without_series>Drowning Towers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/626854.Drowning_Towers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>613203</id>
+</work>
+<isbn>038078601X</isbn>
+<isbn13>9780380786015</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>491</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>44727</id>
+<name>George Turner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44727.George_Turner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4471007</id>
+<title>Perfekcyjna niedoskonałość</title>
+<title_without_series>Perfekcyjna niedoskonałość</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4471007-perfekcyjna-niedoskona-o]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1296905232s/4471007.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1296905232m/4471007.jpg]]></image_url>
+<num_pages>450</num_pages>
+<work>
+<id>4519273</id>
+</work>
+<isbn>8308036473</isbn>
+<isbn13>9788308036471</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>1096</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>681591</id>
+<name>Jacek Dukaj</name>
+<link><![CDATA[https://www.goodreads.com/author/show/681591.Jacek_Dukaj]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>743672</id>
+<title>The Genocides</title>
+<title_without_series>The Genocides</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/743672.The_Genocides]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320393760s/743672.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320393760m/743672.jpg]]></image_url>
+<num_pages>162</num_pages>
+<work>
+<id>924249</id>
+</work>
+<isbn>0375705465</isbn>
+<isbn13>9780375705465</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>899</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>29998</id>
+<name>Thomas M. Disch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29998.Thomas_M_Disch]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>94578</id>
+  <title>The Gay Science</title>
+  <isbn><![CDATA[0394719859]]></isbn>
+  <isbn13><![CDATA[9780394719856]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003IHW00U]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1374735026m/94578.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1374735026s/94578.jpg</small_image_url>
+  <publication_year>1974</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Random House</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Nietzsche called The Gay Science "the most personal of all my books." It was here that he first proclaimed the death of God -- to which a large part of the book is devoted -- and his doctrine of the eternal recurrence.<br /><br />Walter Kaufmann's commentary, with its many quotations from previously untranslated letters, brings to life Nietzsche as a human being and illuminates his philosophy. The book contains some of Nietzsche's most sustained discussions of art and morality, knowledge and truth, the intellectual conscience and the origin of logic.<br /><br />Most of the book was written just before Thus Spoke Zarathustra, the last part five years later, after Beyond Good and Evil. We encounter Zarathustra in these pages as well as many of Nietzsche's most interesting philosophical ideas and the largest collection of his own poetry that he himself ever published.<br /><br />Walter Kaufmann's English versions of Nietzsche represent one of the major translation enterprises of our time. He is the first philosopher to have translated Nietzsche's major works, and never before has a single translator given us so much of Nietzsche.]]></description>
+  <work>
+  <id type="integer">2382792</id>
+  <books_count type="integer">177</books_count>
+  <best_book_id type="integer">94578</best_book_id>
+  <reviews_count type="integer">22375</reviews_count>
+  <ratings_sum type="integer">41728</ratings_sum>
+  <ratings_count type="integer">9806</ratings_count>
+  <text_reviews_count type="integer">297</text_reviews_count>
+  <original_publication_year type="integer">1882</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Die fröhliche Wissenschaft</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4846|4:3133|3:1424|2:291|1:112|total:9806</rating_dist>
+  <desc_user_id type="integer">974210</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.26</average_rating>
+  <num_pages><![CDATA[398]]></num_pages>
+  <format><![CDATA[Mass Market Paperback]]></format>
+  <edition_information><![CDATA[Vintage Books]]></edition_information>
+  <ratings_count><![CDATA[8665]]></ratings_count>
+  <text_reviews_count><![CDATA[213]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/94578.The_Gay_Science]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/94578.The_Gay_Science]]></link>
+  <authors>
+<author>
+<id>1938</id>
+<name>Friedrich Nietzsche</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455294131p5/1938.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455294131p2/1938.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>245163</ratings_count>
+<text_reviews_count>7526</text_reviews_count>
+</author>
+<author>
+<id>14824</id>
+<name>Walter Kaufmann</name>
+<role>translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322998541p5/14824.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322998541p2/14824.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14824.Walter_Kaufmann]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>143669</ratings_count>
+<text_reviews_count>3050</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/94578.The_Gay_Science">The Gay Science Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0394719859&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/94578.The_Gay_Science?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2315"/>
+      <shelf name="philosophy" count="297"/>
+      <shelf name="non-fiction" count="138"/>
+      <shelf name="favorites" count="121"/>
+      <shelf name="currently-reading" count="119"/>
+      <shelf name="nietzsche" count="59"/>
+      <shelf name="classics" count="44"/>
+      <shelf name="german" count="34"/>
+      <shelf name="nonfiction" count="31"/>
+      <shelf name="owned" count="29"/>
+      <shelf name="filosofía" count="29"/>
+      <shelf name="poetry" count="28"/>
+      <shelf name="existentialism" count="23"/>
+      <shelf name="default" count="22"/>
+      <shelf name="to-buy" count="21"/>
+      <shelf name="religion" count="14"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="literature" count="12"/>
+      <shelf name="theory" count="12"/>
+      <shelf name="german-literature" count="11"/>
+      <shelf name="philo" count="11"/>
+      <shelf name="19th-century" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="ethics" count="10"/>
+      <shelf name="friedrich-nietzsche" count="10"/>
+      <shelf name="to-read-philosophy" count="9"/>
+      <shelf name="essays" count="9"/>
+      <shelf name="school" count="9"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="partially-read" count="8"/>
+      <shelf name="فلسفه" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="german-lit" count="8"/>
+      <shelf name="science" count="8"/>
+      <shelf name="philosophie" count="8"/>
+      <shelf name="continental-philosophy" count="7"/>
+      <shelf name="phil" count="7"/>
+      <shelf name="philosophy-to-read" count="7"/>
+      <shelf name="classic" count="7"/>
+      <shelf name="germany" count="7"/>
+      <shelf name="college" count="7"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="filosofie" count="6"/>
+      <shelf name="philosophical" count="6"/>
+      <shelf name="history" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="metaphysics" count="6"/>
+      <shelf name="home-library" count="6"/>
+      <shelf name="translated" count="6"/>
+      <shelf name="philosophy-religion" count="6"/>
+      <shelf name="atheism" count="6"/>
+      <shelf name="politics" count="6"/>
+      <shelf name="modern-philosophy" count="5"/>
+      <shelf name="essay" count="5"/>
+      <shelf name="philosphy" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="on-hold" count="5"/>
+      <shelf name="academic" count="5"/>
+      <shelf name="filosofi" count="4"/>
+      <shelf name="must-read" count="4"/>
+      <shelf name="فلسفة" count="4"/>
+      <shelf name="my-books" count="4"/>
+      <shelf name="psychology" count="4"/>
+      <shelf name="to-re-read" count="4"/>
+      <shelf name="unread" count="4"/>
+      <shelf name="aphorisms" count="3"/>
+      <shelf name="western-philosophy" count="3"/>
+      <shelf name="archive" count="3"/>
+      <shelf name="political-philosophy" count="3"/>
+      <shelf name="psychology-philosophy" count="3"/>
+      <shelf name="research" count="3"/>
+      <shelf name="nihilism" count="3"/>
+      <shelf name="to-read-non-fiction" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="ebook" count="3"/>
+      <shelf name="existentialist" count="3"/>
+      <shelf name="4-stars" count="3"/>
+      <shelf name="atheist" count="3"/>
+      <shelf name="western" count="3"/>
+      <shelf name="culture" count="3"/>
+      <shelf name="sociology" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="philosophy-politics" count="2"/>
+      <shelf name="read-2016" count="2"/>
+      <shelf name="1-jordan-peterson" count="2"/>
+      <shelf name="to-read-first" count="2"/>
+      <shelf name="hmm" count="2"/>
+      <shelf name="not-read" count="2"/>
+      <shelf name="philosophy-and-psychology" count="2"/>
+      <shelf name="not-in-library" count="2"/>
+      <shelf name="shelfari-favorites" count="2"/>
+      <shelf name="category-non-fiction" count="2"/>
+      <shelf name="physical-copy" count="2"/>
+      <shelf name="faves" count="2"/>
+      <shelf name="philosophy-ethics" count="2"/>
+      <shelf name="german-philosophy" count="2"/>
+      <shelf name="owned-not-read" count="2"/>
+      <shelf name="owned-but-unread" count="2"/>
+      <shelf name="philosophie-theorie" count="2"/>
+      <shelf name="ebooks" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>162022</id>
+<title><![CDATA[Nietzsche: Philosopher, Psychologist, Antichrist]]></title>
+<title_without_series><![CDATA[Nietzsche: Philosopher, Psychologist, Antichrist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162022.Nietzsche]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>156376</id>
+</work>
+<isbn>0691019835</isbn>
+<isbn13>9780691019833</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>5341</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14824</id>
+<name>Walter Kaufmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14824.Walter_Kaufmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>83271</id>
+<title><![CDATA[Nietzsche and Philosophy (European Perspectives)]]></title>
+<title_without_series>Nietzsche and Philosophy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83271.Nietzsche_and_Philosophy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>2493580</id>
+</work>
+<isbn>0231138776</isbn>
+<isbn13>9780231138772</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>2825</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>13009</id>
+<name>Gilles Deleuze</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13009.Gilles_Deleuze]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24971</id>
+<title>Either/Or, Part I</title>
+<title_without_series>Either/Or, Part I</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24971.Either_Or_Part_I]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>702</num_pages>
+<work>
+<id>17866014</id>
+</work>
+<isbn>0691020418</isbn>
+<isbn13>9780691020419</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>928</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6172</id>
+<name>Søren Kierkegaard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6172.S_ren_Kierkegaard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>167504</id>
+<title><![CDATA[Spurs: Nietzsche's Styles/Eperons: Les Styles de Nietzsche]]></title>
+<title_without_series><![CDATA[Spurs: Nietzsche's Styles/Eperons: Les Styles de Nietzsche]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/167504.Spurs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328874709s/167504.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328874709m/167504.jpg]]></image_url>
+<num_pages>172</num_pages>
+<work>
+<id>1767627</id>
+</work>
+<isbn>0226143333</isbn>
+<isbn13>9780226143330</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>378</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4132</id>
+<name>Jacques Derrida</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4132.Jacques_Derrida]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94579</id>
+<title><![CDATA[Nietzsche, Volumes One and Two]]></title>
+<title_without_series><![CDATA[Nietzsche, Volumes One and Two]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94579.Nietzsche_Volumes_One_and_Two]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410136330s/94579.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410136330m/94579.jpg]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>91180</id>
+</work>
+<isbn>0060638419</isbn>
+<isbn13>9780060638412</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>849</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6191</id>
+<name>Martin Heidegger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6191.Martin_Heidegger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>445747</id>
+<title><![CDATA[The World as Will and Representation, Vol 2]]></title>
+<title_without_series><![CDATA[The World as Will and Representation, Vol 2]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/445747.The_World_as_Will_and_Representation_Vol_2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>720</num_pages>
+<work>
+<id>6719131</id>
+</work>
+<isbn>0486217620</isbn>
+<isbn13>9780486217628</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>3711</ratings_count>
+<publication_year>1966</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11682</id>
+<name>Arthur Schopenhauer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11682.Arthur_Schopenhauer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94582</id>
+<title><![CDATA[The Affirmation of Life: Nietzsche on Overcoming Nihilism]]></title>
+<title_without_series><![CDATA[The Affirmation of Life: Nietzsche on Overcoming Nihilism]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94582.The_Affirmation_of_Life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>91183</id>
+</work>
+<isbn>0674021991</isbn>
+<isbn13>9780674021990</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>67</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>54403</id>
+<name>Bernard Reginster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54403.Bernard_Reginster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>455388</id>
+<title><![CDATA[Nietzsche: A Philosophical Biography]]></title>
+<title_without_series><![CDATA[Nietzsche: A Philosophical Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/455388.Nietzsche]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>443940</id>
+</work>
+<isbn>0393323803</isbn>
+<isbn13>9780393323801</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>731</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>68200</id>
+<name>Rüdiger Safranski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68200.R_diger_Safranski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9454</id>
+<title>Phenomenology of Spirit</title>
+<title_without_series>Phenomenology of Spirit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9454.Phenomenology_of_Spirit]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1425522818s/9454.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1425522818m/9454.jpg]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>995802</id>
+</work>
+<isbn>0198245971</isbn>
+<isbn13>9780198245971</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>12267</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6188</id>
+<name>Georg Wilhelm Friedrich Hegel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6188.Georg_Wilhelm_Friedrich_Hegel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31860</id>
+<title>Practical Philosophy</title>
+<title_without_series>Practical Philosophy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31860.Practical_Philosophy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>704</num_pages>
+<work>
+<id>32076</id>
+</work>
+<isbn>0521654084</isbn>
+<isbn13>9780521654081</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>255</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11038</id>
+<name>Immanuel Kant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11038.Immanuel_Kant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>337427</id>
+<title><![CDATA[Nietzsche and the Vicious Circle]]></title>
+<title_without_series><![CDATA[Nietzsche and the Vicious Circle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/337427.Nietzsche_and_the_Vicious_Circle]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355039295s/337427.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355039295m/337427.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>327844</id>
+</work>
+<isbn>0826477194</isbn>
+<isbn13>9780826477194</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>145</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>193483</id>
+<name>Pierre Klossowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193483.Pierre_Klossowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12081</id>
+<title>The Blue and Brown Books</title>
+<title_without_series>The Blue and Brown Books</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12081.The_Blue_and_Brown_Books]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410757062s/12081.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410757062m/12081.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>152304</id>
+</work>
+<isbn>0061312118</isbn>
+<isbn13>9780061312113</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1745</ratings_count>
+<publication_year>1965</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7672</id>
+<name>Ludwig Wittgenstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7672.Ludwig_Wittgenstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>437780</id>
+<title>On Nietzsche</title>
+<title_without_series>On Nietzsche</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/437780.On_Nietzsche]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379783676s/437780.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379783676m/437780.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>373229</id>
+</work>
+<isbn>1557786445</isbn>
+<isbn13>9781557786449</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>335</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>8</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>20842</id>
+<name>Georges Bataille</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20842.Georges_Bataille]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>478234</id>
+<title><![CDATA[Cartesian Meditations: An Introduction to Phenomenology]]></title>
+<title_without_series><![CDATA[Cartesian Meditations: An Introduction to Phenomenology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/478234.Cartesian_Meditations]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>466669</id>
+</work>
+<isbn>902470068X</isbn>
+<isbn13>9789024700684</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>993</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>180033</id>
+<name>Edmund Husserl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/180033.Edmund_Husserl]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

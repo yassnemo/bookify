@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7780</id>
+  <title>The Secret Art of Dr. Seuss</title>
+  <isbn><![CDATA[0679434488]]></isbn>
+  <isbn13><![CDATA[9780679434481]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1320429156m/7780.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1320429156s/7780.jpg</small_image_url>
+  <publication_year>1995</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Random House</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[These fabulous, whimsical paintings, created for his own pleasure and never shown to the public, show Geisel (a.k.a. Dr. Seuss) in a whole new light. Depicting outlandish creatures in otherworldly settings, the paintings use a dazzling rainbow of hues not seen in the primary-color palette of his books for children, and exhibit a sophisticated and often quite unrestrained side of the artist. 65 color illustrations.]]></description>
+  <work>
+  <id type="integer">10830</id>
+  <books_count type="integer">2</books_count>
+  <best_book_id type="integer">7780</best_book_id>
+  <reviews_count type="integer">23336</reviews_count>
+  <ratings_sum type="integer">34325</ratings_sum>
+  <ratings_count type="integer">8470</ratings_count>
+  <text_reviews_count type="integer">92</text_reviews_count>
+  <original_publication_year type="integer">1995</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>The Secret Art of Dr. Seuss</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3944|4:2175|3:1528|2:498|1:325|total:8470</rating_dist>
+  <desc_user_id type="integer">9575639</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.05</average_rating>
+  <num_pages><![CDATA[95]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8464]]></ratings_count>
+  <text_reviews_count><![CDATA[92]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7780.The_Secret_Art_of_Dr_Seuss]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7780.The_Secret_Art_of_Dr_Seuss]]></link>
+  <authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2462839</ratings_count>
+<text_reviews_count>42353</text_reviews_count>
+</author>
+<author>
+<id>4489</id>
+<name>Maurice Sendak</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201028880p5/4489.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201028880p2/4489.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4489.Maurice_Sendak]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>848375</ratings_count>
+<text_reviews_count>15825</text_reviews_count>
+</author>
+<author>
+<id>5833006</id>
+<name>Audrey Geisel</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5833006.Audrey_Geisel]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>8464</ratings_count>
+<text_reviews_count>92</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7780.The_Secret_Art_of_Dr_Seuss">The Secret Art of Dr. Seuss Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679434488&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7780.The_Secret_Art_of_Dr_Seuss?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5709"/>
+      <shelf name="art" count="170"/>
+      <shelf name="non-fiction" count="39"/>
+      <shelf name="currently-reading" count="28"/>
+      <shelf name="dr-seuss" count="21"/>
+      <shelf name="nonfiction" count="19"/>
+      <shelf name="favorites" count="15"/>
+      <shelf name="biography" count="11"/>
+      <shelf name="childrens" count="11"/>
+      <shelf name="children-s-books" count="9"/>
+      <shelf name="art-books" count="9"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="children" count="8"/>
+      <shelf name="art-photography" count="8"/>
+      <shelf name="picture-books" count="6"/>
+      <shelf name="owned" count="6"/>
+      <shelf name="seuss" count="6"/>
+      <shelf name="arts" count="5"/>
+      <shelf name="artists" count="5"/>
+      <shelf name="children-s" count="5"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="kids" count="4"/>
+      <shelf name="coffee-table" count="4"/>
+      <shelf name="reference" count="4"/>
+      <shelf name="adult" count="4"/>
+      <shelf name="young-adult" count="4"/>
+      <shelf name="art-books-to-read" count="3"/>
+      <shelf name="art-and-artists" count="3"/>
+      <shelf name="classics" count="3"/>
+      <shelf name="dr-suess" count="3"/>
+      <shelf name="want" count="3"/>
+      <shelf name="artbooks" count="3"/>
+      <shelf name="books-i-own" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="picture-book" count="3"/>
+      <shelf name="to-read-non-fiction" count="2"/>
+      <shelf name="shelfari-wishlist" count="2"/>
+      <shelf name="art-and-photography" count="2"/>
+      <shelf name="culture" count="2"/>
+      <shelf name="brainpickings" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="art-and-art-history" count="2"/>
+      <shelf name="left-3" count="2"/>
+      <shelf name="misc" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="usa" count="2"/>
+      <shelf name="read-art" count="2"/>
+      <shelf name="nonfiction-general" count="2"/>
+      <shelf name="art-photo" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="to-purchase" count="2"/>
+      <shelf name="illustration" count="2"/>
+      <shelf name="history" count="2"/>
+      <shelf name="art-and-craft" count="2"/>
+      <shelf name="visual-arts" count="2"/>
+      <shelf name="non-fiction-to-read" count="2"/>
+      <shelf name="biographies-to-read" count="2"/>
+      <shelf name="comics" count="2"/>
+      <shelf name="childhood" count="2"/>
+      <shelf name="art-history" count="2"/>
+      <shelf name="american" count="2"/>
+      <shelf name="kidstuff" count="2"/>
+      <shelf name="art-gallery" count="2"/>
+      <shelf name="visual" count="2"/>
+      <shelf name="to-own" count="2"/>
+      <shelf name="read-not-owned" count="2"/>
+      <shelf name="arts-and-crafts" count="2"/>
+      <shelf name="art-design" count="2"/>
+      <shelf name="fiction" count="2"/>
+      <shelf name="art-architecture-design" count="2"/>
+      <shelf name="contemporary" count="2"/>
+      <shelf name="read-later" count="1"/>
+      <shelf name="craft-and-arts" count="1"/>
+      <shelf name="giancarlo" count="1"/>
+      <shelf name="seuss-and-friends" count="1"/>
+      <shelf name="art-stuff" count="1"/>
+      <shelf name="books-i-want-in-my-library" count="1"/>
+      <shelf name="2017challenge" count="1"/>
+      <shelf name="history-memoirs" count="1"/>
+      <shelf name="bbw-may" count="1"/>
+      <shelf name="childhood-books" count="1"/>
+      <shelf name="art-illustration" count="1"/>
+      <shelf name="to-read-other" count="1"/>
+      <shelf name="read-2017" count="1"/>
+      <shelf name="pub-1995" count="1"/>
+      <shelf name="illustrated-books" count="1"/>
+      <shelf name="children-s-illustrators" count="1"/>
+      <shelf name="j-nf" count="1"/>
+      <shelf name="adult-nf" count="1"/>
+      <shelf name="my-books" count="1"/>
+      <shelf name="under-200" count="1"/>
+      <shelf name="location-must-acquire" count="1"/>
+      <shelf name="hope-to-read-these-books" count="1"/>
+      <shelf name="best" count="1"/>
+      <shelf name="need" count="1"/>
+      <shelf name="own-art-artist-s-works" count="1"/>
+      <shelf name="read-before-2016" count="1"/>
+      <shelf name="art-theory" count="1"/>
+      <shelf name="manga-doesn-t-count" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>532193</id>
+<title>Dr. Seuss and Mr. Geisel</title>
+<title_without_series>Dr. Seuss and Mr. Geisel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/532193.Dr_Seuss_and_Mr_Geisel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>519761</id>
+</work>
+<isbn>030680736X</isbn>
+<isbn13>9780306807367</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1023</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>8</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>245537</id>
+<name>Judith Morgan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/245537.Judith_Morgan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>235074</id>
+<title><![CDATA[The Seuss, the Whole Seuss and Nothing But the Seuss: A Visual Biography of Theodor Seuss Geisel]]></title>
+<title_without_series><![CDATA[The Seuss, the Whole Seuss and Nothing But the Seuss: A Visual Biography of Theodor Seuss Geisel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/235074.The_Seuss_the_Whole_Seuss_and_Nothing_But_the_Seuss]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>227677</id>
+</work>
+<isbn>0375822488</isbn>
+<isbn13>9780375822483</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>210</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>137513</id>
+<name>Charles D. Cohen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/137513.Charles_D_Cohen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7791</id>
+<title><![CDATA[Dr. Seuss Goes to War: The World War II Editorial Cartoons of Theodor Seuss Geisel]]></title>
+<title_without_series><![CDATA[Dr. Seuss Goes to War: The World War II Editorial Cartoons of Theodor Seuss Geisel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7791.Dr_Seuss_Goes_to_War]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>56166</id>
+</work>
+<isbn>1565847040</isbn>
+<isbn13>9781565847040</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>1207</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5250</id>
+<name>Richard H. Minear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5250.Richard_H_Minear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18867</id>
+<title>The Art of Maurice Sendak</title>
+<title_without_series>The Art of Maurice Sendak</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18867.The_Art_of_Maurice_Sendak]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>20220</id>
+</work>
+<isbn>0810980630</isbn>
+<isbn13>9780810980631</isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>707</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>212185</id>
+<name>Selma G. Lanes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/212185.Selma_G_Lanes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>245700</id>
+<title>The Art of Amy Brown</title>
+<title_without_series>The Art of Amy Brown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/245700.The_Art_of_Amy_Brown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328765892s/245700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328765892m/245700.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>238058</id>
+</work>
+<isbn>0974461229</isbn>
+<isbn13>9780974461229</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>8725</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88916</id>
+<name>Amy Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88916.Amy_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15802149</id>
+<title><![CDATA[Dr. Seuss: The Cat Behind the Hat]]></title>
+<title_without_series><![CDATA[Dr. Seuss: The Cat Behind the Hat]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15802149-dr-seuss]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344662844s/15802149.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344662844m/15802149.jpg]]></image_url>
+<num_pages>318</num_pages>
+<work>
+<id>21525545</id>
+</work>
+<isbn>1449432603</isbn>
+<isbn13>9781449432607</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>194</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>6592771</id>
+<name>Caroline M. Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6592771.Caroline_M_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>179101</id>
+<title><![CDATA[Vitamin D: New Perspectives in Drawing]]></title>
+<title_without_series><![CDATA[Vitamin D: New Perspectives in Drawing]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/179101.Vitamin_D]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411775719s/179101.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411775719m/179101.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>173028</id>
+</work>
+<isbn>0714845450</isbn>
+<isbn13>9780714845456</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>4679</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>104353</id>
+<name>Emma Dexter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104353.Emma_Dexter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1347239</id>
+<title><![CDATA[Arcimboldo (Taschen Basic Art)]]></title>
+<title_without_series>Arcimboldo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1347239.Arcimboldo]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1336888</id>
+</work>
+<isbn>3822896381</isbn>
+<isbn13>9783822896389</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1739</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>326369</id>
+<name>Werner Kriegeskorte</name>
+<link><![CDATA[https://www.goodreads.com/author/show/326369.Werner_Kriegeskorte]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>958215</id>
+<title>Art Forms in Nature</title>
+<title_without_series>Art Forms in Nature</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/958215.Art_Forms_in_Nature]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>140</num_pages>
+<work>
+<id>943125</id>
+</work>
+<isbn>3791319906</isbn>
+<isbn13>9783791319902</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>6078</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>243117</id>
+<name>Ernst Haeckel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/243117.Ernst_Haeckel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>364101</id>
+<title>ARh+</title>
+<title_without_series>ARh+</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/364101.ARh_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>2935085</id>
+</work>
+<isbn>382289642X</isbn>
+<isbn13>9783822896426</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>5562</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>196979</id>
+<name>H.R. Giger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/196979.H_R_Giger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>627055</id>
+<title>The Principles of Uncertainty</title>
+<title_without_series>The Principles of Uncertainty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/627055.The_Principles_of_Uncertainty]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>613404</id>
+</work>
+<isbn>159420134X</isbn>
+<isbn13>9781594201349</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>7113</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>55084</id>
+<name>Maira Kalman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/55084.Maira_Kalman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>618205</id>
+<title><![CDATA[Celtic Art: The Methods of Construction]]></title>
+<title_without_series><![CDATA[Celtic Art: The Methods of Construction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/618205.Celtic_Art]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415677959s/618205.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415677959m/618205.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>604610</id>
+</work>
+<isbn>0486229238</isbn>
+<isbn13>9780486229232</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>2551</ratings_count>
+<publication_year>1973</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>334265</id>
+<name>George Bain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/334265.George_Bain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>361932</id>
+<title><![CDATA[Pop Surrealism: The Rise of Underground Art]]></title>
+<title_without_series><![CDATA[Pop Surrealism: The Rise of Underground Art]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/361932.Pop_Surrealism]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>352028</id>
+</work>
+<isbn>0867196181</isbn>
+<isbn13>9780867196184</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1631</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>207231</id>
+<name>Kirsten Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/207231.Kirsten_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3359595</id>
+<title><![CDATA[The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren]]></title>
+<title_without_series><![CDATA[The Man Who Made Vermeers: Unvarnishing the Legend of Master Forger Han van Meegeren]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3359595-the-man-who-made-vermeers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328834298s/3359595.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328834298m/3359595.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>3398780</id>
+</work>
+<isbn>0151013411</isbn>
+<isbn13>9780151013418</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>6198</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>1418486</id>
+<name>Jonathan Lopez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1418486.Jonathan_Lopez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>297909</id>
+<title>Transfigurations</title>
+<title_without_series>Transfigurations</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/297909.Transfigurations]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391974612s/297909.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391974612m/297909.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>1376932</id>
+</work>
+<isbn>1594770174</isbn>
+<isbn13>9781594770173</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>2647</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>11</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>33579</id>
+<name>Alex Grey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33579.Alex_Grey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>502872</id>
+<title><![CDATA[Unexpected Journeys: The Art and Life of Remedios Varo]]></title>
+<title_without_series><![CDATA[Unexpected Journeys: The Art and Life of Remedios Varo]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/502872.Unexpected_Journeys]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>490940</id>
+</work>
+<isbn>0896597970</isbn>
+<isbn13>9780896597976</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1367</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>280042</id>
+<name>Janet A. Kaplan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/280042.Janet_A_Kaplan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>905201</id>
+<title><![CDATA[Joseph Cornell: Master of Dreams]]></title>
+<title_without_series><![CDATA[Joseph Cornell: Master of Dreams]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/905201.Joseph_Cornell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>890347</id>
+</work>
+<isbn>0810912279</isbn>
+<isbn13>9780810912274</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>891</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8330</id>
+<name>Diane Waldman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8330.Diane_Waldman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9539092</id>
+<title>Lost &amp; Found</title>
+<title_without_series>Lost &amp; Found</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9539092-lost-found]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>14425313</id>
+</work>
+<isbn>0545229243</isbn>
+<isbn13>9780545229241</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>6371</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>38954</id>
+<name>Shaun Tan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38954.Shaun_Tan]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>106590</id>
+  <title>Lincoln</title>
+  <isbn><![CDATA[068482535X]]></isbn>
+  <isbn13><![CDATA[9780684825359]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1996</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Simon &amp; Schuster</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A masterful work by Pulitzer Prize–winning author David Herbert Donald, <i>Lincoln</i> is a stunning portrait of Abraham Lincoln’s life and presidency.<br /><br />Donald brilliantly depicts Lincoln’s gradual ascent from humble beginnings in rural Kentucky to the ever-expanding political circles in Illinois, and finally to the presidency of a country divided by civil war. Donald goes beyond biography, illuminating the gradual development of Lincoln’s character, chronicling his tremendous capacity for evolution and growth, thus illustrating what made it possible for a man so inexperienced and so unprepared for the presidency to become a great moral leader. In the most troubled of times, here was a man who led the country out of slavery and preserved a shattered Union—in short, one of the greatest presidents this country has ever seen.]]></description>
+  <work>
+  <id type="integer">1733479</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">106590</best_book_id>
+  <reviews_count type="integer">64987</reviews_count>
+  <ratings_sum type="integer">110473</ratings_sum>
+  <ratings_count type="integer">26468</ratings_count>
+  <text_reviews_count type="integer">425</text_reviews_count>
+  <original_publication_year type="integer">1995</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Lincoln</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11797|4:9292|3:4048|2:845|1:486|total:26468</rating_dist>
+  <desc_user_id type="integer">2026178</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.17</average_rating>
+  <num_pages><![CDATA[720]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[26014]]></ratings_count>
+  <text_reviews_count><![CDATA[379]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/106590.Lincoln]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/106590.Lincoln]]></link>
+  <authors>
+<author>
+<id>7922</id>
+<name>David Herbert Donald</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7922.David_Herbert_Donald]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>27951</ratings_count>
+<text_reviews_count>553</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/106590.Lincoln">Lincoln Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=068482535X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/106590.Lincoln?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="38694"/>
+      <shelf name="biography" count="521"/>
+      <shelf name="currently-reading" count="506"/>
+      <shelf name="history" count="440"/>
+      <shelf name="non-fiction" count="193"/>
+      <shelf name="civil-war" count="96"/>
+      <shelf name="biographies" count="94"/>
+      <shelf name="presidents" count="92"/>
+      <shelf name="american-history" count="81"/>
+      <shelf name="nonfiction" count="74"/>
+      <shelf name="politics" count="57"/>
+      <shelf name="lincoln" count="49"/>
+      <shelf name="favorites" count="37"/>
+      <shelf name="owned" count="29"/>
+      <shelf name="historical" count="29"/>
+      <shelf name="default" count="27"/>
+      <shelf name="presidential-biographies" count="22"/>
+      <shelf name="abraham-lincoln" count="22"/>
+      <shelf name="biography-memoir" count="22"/>
+      <shelf name="history-biography" count="21"/>
+      <shelf name="american-civil-war" count="21"/>
+      <shelf name="us-history" count="19"/>
+      <shelf name="american-presidents" count="16"/>
+      <shelf name="us-presidents" count="16"/>
+      <shelf name="hist" count="15"/>
+      <shelf name="bio" count="15"/>
+      <shelf name="american" count="15"/>
+      <shelf name="biography-autobiography" count="14"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="america" count="13"/>
+      <shelf name="19th-century" count="13"/>
+      <shelf name="political" count="12"/>
+      <shelf name="war" count="12"/>
+      <shelf name="wish-list" count="11"/>
+      <shelf name="biographies-memoirs" count="11"/>
+      <shelf name="books-i-own" count="11"/>
+      <shelf name="audible" count="10"/>
+      <shelf name="kindle" count="10"/>
+      <shelf name="u-s-history" count="10"/>
+      <shelf name="library" count="10"/>
+      <shelf name="bios" count="9"/>
+      <shelf name="presidential-biography" count="9"/>
+      <shelf name="us-civil-war" count="9"/>
+      <shelf name="audio" count="9"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="memoir-biography" count="8"/>
+      <shelf name="usa" count="8"/>
+      <shelf name="presidential-bios" count="8"/>
+      <shelf name="leadership" count="7"/>
+      <shelf name="to-read-non-fiction" count="7"/>
+      <shelf name="presidential" count="7"/>
+      <shelf name="ebooks" count="6"/>
+      <shelf name="u-s-presidents" count="6"/>
+      <shelf name="people" count="6"/>
+      <shelf name="civil-war-era" count="6"/>
+      <shelf name="classics" count="6"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="biography-history" count="5"/>
+      <shelf name="united-states" count="5"/>
+      <shelf name="to-read-biographies" count="5"/>
+      <shelf name="to-read-history" count="5"/>
+      <shelf name="autobiography" count="5"/>
+      <shelf name="president" count="5"/>
+      <shelf name="civil" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="to-read-nonfiction" count="5"/>
+      <shelf name="history-american" count="5"/>
+      <shelf name="non-fiction-to-read" count="5"/>
+      <shelf name="hist-usa" count="4"/>
+      <shelf name="journalism" count="4"/>
+      <shelf name="reviewed" count="4"/>
+      <shelf name="abandoned" count="4"/>
+      <shelf name="president-biographies" count="4"/>
+      <shelf name="nf" count="4"/>
+      <shelf name="nook" count="4"/>
+      <shelf name="history-to-read" count="4"/>
+      <shelf name="history-books" count="4"/>
+      <shelf name="historical-non-fiction" count="4"/>
+      <shelf name="unread" count="4"/>
+      <shelf name="to-read-biography" count="4"/>
+      <shelf name="presidential-history" count="4"/>
+      <shelf name="non-fiction-history" count="3"/>
+      <shelf name="david-herbert-donald" count="3"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="north-america" count="3"/>
+      <shelf name="biography-to-read" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="genre-biography" count="3"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="biography-autobiography-memoir" count="3"/>
+      <shelf name="history-civil-war" count="3"/>
+      <shelf name="audiobook" count="3"/>
+      <shelf name="history-non-fiction" count="3"/>
+      <shelf name="school" count="3"/>
+      <shelf name="civil-war-history" count="3"/>
+      <shelf name="movies" count="3"/>
+      <shelf name="audio-book" count="3"/>
+      <shelf name="auto-biographies" count="3"/>
+      <shelf name="biography-and-memoir" count="3"/>
+      <shelf name="americana" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>20809</id>
+<title><![CDATA[Lincoln at Gettysburg: The Words That Remade America]]></title>
+<title_without_series><![CDATA[Lincoln at Gettysburg: The Words That Remade America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20809.Lincoln_at_Gettysburg]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>4691</id>
+</work>
+<isbn>0743299639</isbn>
+<isbn13>9780743299633</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>6152</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>228</id>
+<name>Garry Wills</name>
+<link><![CDATA[https://www.goodreads.com/author/show/228.Garry_Wills]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>186344</id>
+<title><![CDATA[With Malice Toward None: A Biography of Abraham Lincoln]]></title>
+<title_without_series><![CDATA[With Malice Toward None: A Biography of Abraham Lincoln]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/186344.With_Malice_Toward_None]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>357549</id>
+</work>
+<isbn>0060924713</isbn>
+<isbn13>9780060924713</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>5585</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>12145</id>
+<name>Stephen B. Oates</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12145.Stephen_B_Oates]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>90822</id>
+<title><![CDATA[Abraham Lincoln: The Prairie Years and the War Years]]></title>
+<title_without_series><![CDATA[Abraham Lincoln: The Prairie Years and the War Years]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/90822.Abraham_Lincoln]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>762</num_pages>
+<work>
+<id>87643</id>
+</work>
+<isbn>0883658321</isbn>
+<isbn13>9780883658321</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>3656</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16380</id>
+<name>Carl Sandburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16380.Carl_Sandburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20549</id>
+<title><![CDATA[Speeches and Writings, 1832-1858]]></title>
+<title_without_series><![CDATA[Speeches and Writings, 1832-1858]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20549.Speeches_and_Writings_1832_1858]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>898</num_pages>
+<work>
+<id>21740</id>
+</work>
+<isbn>0940450437</isbn>
+<isbn13>9780940450431</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>973</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>229</id>
+<name>Abraham Lincoln</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229.Abraham_Lincoln]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>742882</id>
+<title>Grant</title>
+<title_without_series>Grant</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/742882.Grant]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330565149s/742882.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330565149m/742882.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>729035</id>
+</work>
+<isbn>0684849275</isbn>
+<isbn13>9780684849270</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>7376</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>191016</id>
+<name>Jean Edward Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/191016.Jean_Edward_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2453730</id>
+<title><![CDATA[President Lincoln: The Duty of a Statesman]]></title>
+<title_without_series><![CDATA[President Lincoln: The Duty of a Statesman]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2453730.President_Lincoln]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320395896s/2453730.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320395896m/2453730.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>2460924</id>
+</work>
+<isbn>1400041031</isbn>
+<isbn13>9781400041039</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>493</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>126906</id>
+<name>William Lee Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126906.William_Lee_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4059448</id>
+<title>A. Lincoln</title>
+<title_without_series>A. Lincoln</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4059448-a-lincoln]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>4106471</id>
+</work>
+<isbn>1400064996</isbn>
+<isbn13>9781400064991</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>9274</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>72809</id>
+<name>Ronald C. White Jr.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72809.Ronald_C_White_Jr_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1180508</id>
+<title><![CDATA[Lincoln: A Life of Purpose and Power]]></title>
+<title_without_series><![CDATA[Lincoln: A Life of Purpose and Power]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1180508.Lincoln]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320435900s/1180508.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320435900m/1180508.jpg]]></image_url>
+<num_pages>369</num_pages>
+<work>
+<id>1168393</id>
+</work>
+<isbn>1400044561</isbn>
+<isbn13>9781400044566</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1230</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>61712</id>
+<name>Richard J. Carwardine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61712.Richard_J_Carwardine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>106598</id>
+<title><![CDATA[Lincoln at Cooper Union: The Speech That Made Abraham Lincoln President]]></title>
+<title_without_series><![CDATA[Lincoln at Cooper Union: The Speech That Made Abraham Lincoln President]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/106598.Lincoln_at_Cooper_Union]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>102748</id>
+</work>
+<isbn>0743299647</isbn>
+<isbn13>9780743299640</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>535</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>61715</id>
+<name>Harold Holzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61715.Harold_Holzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20554</id>
+<title><![CDATA[Abraham Lincoln and the Second American Revolution]]></title>
+<title_without_series><![CDATA[Abraham Lincoln and the Second American Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20554.Abraham_Lincoln_and_the_Second_American_Revolution]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2973455</id>
+</work>
+<isbn>0195076060</isbn>
+<isbn13>9780195076066</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>861</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>12144</id>
+<name>James M. McPherson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12144.James_M_McPherson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>547288</id>
+<title><![CDATA[Honor's Voice: The Transformation of Abraham Lincoln]]></title>
+<title_without_series><![CDATA[Honor's Voice: The Transformation of Abraham Lincoln]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/547288.Honor_s_Voice]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320400127s/547288.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320400127m/547288.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>534553</id>
+</work>
+<isbn>0375703969</isbn>
+<isbn13>9780375703966</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>156</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>61709</id>
+<name>Douglas L. Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61709.Douglas_L_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1081270</id>
+<title>James Madison: A Biography</title>
+<title_without_series>James Madison: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1081270.James_Madison]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330820420s/1081270.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330820420m/1081270.jpg]]></image_url>
+<num_pages>753</num_pages>
+<work>
+<id>1068008</id>
+</work>
+<isbn>0813912652</isbn>
+<isbn13>9780813912653</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>2350</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>63863</id>
+<name>Ralph Louis Ketcham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63863.Ralph_Louis_Ketcham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3218735</id>
+<title><![CDATA[Looking for Lincoln: The Making of an American Icon]]></title>
+<title_without_series><![CDATA[Looking for Lincoln: The Making of an American Icon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3218735-looking-for-lincoln]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320456310s/3218735.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320456310m/3218735.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>3252719</id>
+</work>
+<isbn>030726713X</isbn>
+<isbn13>9780307267139</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>234</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>11</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>59094</id>
+<name>Philip B. Kunhardt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59094.Philip_B_Kunhardt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244162</id>
+<title><![CDATA[John Quincy Adams: A Public Life, a Private Life]]></title>
+<title_without_series><![CDATA[John Quincy Adams: A Public Life, a Private Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244162.John_Quincy_Adams]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>2341353</id>
+</work>
+<isbn>0679404449</isbn>
+<isbn13>9780679404446</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>4680</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>142853</id>
+<name>Paul C. Nagel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142853.Paul_C_Nagel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>919473</id>
+<title>Abraham Lincoln</title>
+<title_without_series>Abraham Lincoln</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/919473.Abraham_Lincoln]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>548</num_pages>
+<work>
+<id>904543</id>
+</work>
+<isbn>0394604687</isbn>
+<isbn13>9780394604688</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>437</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>8429775</id>
+<name>Benjamin P. Thomas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8429775.Benjamin_P_Thomas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>327864</id>
+<title><![CDATA[The Impending Crisis: America Before the Civil War, 1848-1861]]></title>
+<title_without_series><![CDATA[The Impending Crisis: America Before the Civil War, 1848-1861]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/327864.The_Impending_Crisis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>672</num_pages>
+<work>
+<id>318496</id>
+</work>
+<isbn>0061319295</isbn>
+<isbn13>9780061319297</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1240</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2559095</id>
+<name>David M.  Potter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2559095.David_M_Potter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>254310</id>
+<title><![CDATA[Washington: The Indispensable Man]]></title>
+<title_without_series><![CDATA[Washington: The Indispensable Man]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/254310.Washington]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>423</num_pages>
+<work>
+<id>246446</id>
+</work>
+<isbn>0316286168</isbn>
+<isbn13>9780316286169</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4334</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5543342</id>
+<name>James Thomas Flexner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5543342.James_Thomas_Flexner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76789</id>
+<title>T.R.: The Last Romantic</title>
+<title_without_series>T.R.: The Last Romantic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76789.T_R_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>928</num_pages>
+<work>
+<id>74275</id>
+</work>
+<isbn>0465069592</isbn>
+<isbn13>9780465069590</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1186</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4645</id>
+<name>H.W. Brands</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4645.H_W_Brands]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

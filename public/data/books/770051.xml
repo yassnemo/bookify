@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>770051</id>
+  <title>Olivia</title>
+  <isbn><![CDATA[0689829531]]></isbn>
+  <isbn13><![CDATA[9780689829536]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B004SC2E3W]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Have fun with Olivia... dressing up, singing songs, building sand castles, napping (maybe), dancing, painting on walls and - whew! - going to sleep at last.]]></description>
+  <work>
+  <id type="integer">2484218</id>
+  <books_count type="integer">40</books_count>
+  <best_book_id type="integer">770051</best_book_id>
+  <reviews_count type="integer">63923</reviews_count>
+  <ratings_sum type="integer">213592</ratings_sum>
+  <ratings_count type="integer">51726</ratings_count>
+  <text_reviews_count type="integer">1307</text_reviews_count>
+  <original_publication_year type="integer">2000</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Olivia</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:24640|4:14146|3:9230|2:2408|1:1302|total:51726</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.13</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[51215]]></ratings_count>
+  <text_reviews_count><![CDATA[1252]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/770051.Olivia]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/770051.Olivia]]></link>
+  <authors>
+<author>
+<id>27861</id>
+<name>Ian Falconer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197074556p5/27861.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197074556p2/27861.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27861.Ian_Falconer]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>126851</ratings_count>
+<text_reviews_count>7378</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/770051.Olivia">Olivia Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0689829531&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/770051.Olivia?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9747"/>
+      <shelf name="picture-books" count="953"/>
+      <shelf name="childrens" count="446"/>
+      <shelf name="children-s-books" count="379"/>
+      <shelf name="children" count="291"/>
+      <shelf name="children-s" count="263"/>
+      <shelf name="picture-book" count="196"/>
+      <shelf name="kids" count="192"/>
+      <shelf name="childrens-books" count="187"/>
+      <shelf name="caldecott" count="159"/>
+      <shelf name="favorites" count="143"/>
+      <shelf name="kids-books" count="133"/>
+      <shelf name="fiction" count="108"/>
+      <shelf name="animals" count="89"/>
+      <shelf name="currently-reading" count="79"/>
+      <shelf name="children-s-literature" count="71"/>
+      <shelf name="children-s-lit" count="65"/>
+      <shelf name="humor" count="50"/>
+      <shelf name="family" count="42"/>
+      <shelf name="picturebooks" count="42"/>
+      <shelf name="owned" count="41"/>
+      <shelf name="caldecott-honor" count="41"/>
+      <shelf name="children-books" count="40"/>
+      <shelf name="fantasy" count="37"/>
+      <shelf name="childhood" count="35"/>
+      <shelf name="pigs" count="34"/>
+      <shelf name="picture" count="32"/>
+      <shelf name="caldecott-books" count="30"/>
+      <shelf name="childrens-lit" count="28"/>
+      <shelf name="children-s-picture-books" count="28"/>
+      <shelf name="preschool" count="27"/>
+      <shelf name="02-fantasy" count="24"/>
+      <shelf name="library" count="23"/>
+      <shelf name="picture-story-books" count="22"/>
+      <shelf name="classics" count="22"/>
+      <shelf name="favorite-picture-books" count="22"/>
+      <shelf name="books-i-own" count="22"/>
+      <shelf name="favorite-children-s-books" count="21"/>
+      <shelf name="board-books" count="21"/>
+      <shelf name="childrens-picture-books" count="21"/>
+      <shelf name="art" count="20"/>
+      <shelf name="olivia" count="20"/>
+      <shelf name="default" count="19"/>
+      <shelf name="read-aloud" count="19"/>
+      <shelf name="storytime" count="19"/>
+      <shelf name="kid-books" count="19"/>
+      <shelf name="format-picture-book" count="18"/>
+      <shelf name="edrd-314" count="18"/>
+      <shelf name="series" count="18"/>
+      <shelf name="juvenile" count="18"/>
+      <shelf name="award-winners" count="18"/>
+      <shelf name="award-winner" count="17"/>
+      <shelf name="kiddos" count="17"/>
+      <shelf name="funny" count="17"/>
+      <shelf name="kid-s-books" count="15"/>
+      <shelf name="childhood-favorites" count="15"/>
+      <shelf name="classroom" count="14"/>
+      <shelf name="kindergarten" count="13"/>
+      <shelf name="caldecott-winners" count="13"/>
+      <shelf name="kid-lit" count="13"/>
+      <shelf name="elementary" count="13"/>
+      <shelf name="childhood-books" count="13"/>
+      <shelf name="book-awards" count="12"/>
+      <shelf name="caldecott-award" count="12"/>
+      <shelf name="caldecotts" count="11"/>
+      <shelf name="childrens-literature" count="11"/>
+      <shelf name="childrens-book" count="11"/>
+      <shelf name="5360-summer-12" count="10"/>
+      <shelf name="modern-fantasy" count="10"/>
+      <shelf name="1001-childrens-books" count="10"/>
+      <shelf name="imagination" count="10"/>
+      <shelf name="caldecott-honors" count="10"/>
+      <shelf name="youth" count="10"/>
+      <shelf name="children-s-book" count="10"/>
+      <shelf name="illustrated" count="10"/>
+      <shelf name="childhood-reads" count="9"/>
+      <shelf name="kids-read" count="9"/>
+      <shelf name="early-childhood" count="9"/>
+      <shelf name="childrens-fiction" count="9"/>
+      <shelf name="kids-picture-books" count="9"/>
+      <shelf name="girls" count="9"/>
+      <shelf name="picture-books-read" count="9"/>
+      <shelf name="read-alouds" count="9"/>
+      <shelf name="children-young-adult" count="9"/>
+      <shelf name="childrensbooks" count="9"/>
+      <shelf name="home-library" count="8"/>
+      <shelf name="311" count="8"/>
+      <shelf name="edci-311" count="8"/>
+      <shelf name="board-book" count="8"/>
+      <shelf name="my-books" count="8"/>
+      <shelf name="picture-storybooks" count="8"/>
+      <shelf name="for-kids" count="8"/>
+      <shelf name="pig" count="8"/>
+      <shelf name="fun" count="8"/>
+      <shelf name="for-the-kids" count="8"/>
+      <shelf name="children-picture-books" count="8"/>
+      <shelf name="children-picture" count="8"/>
+      <shelf name="kid-stuff" count="8"/>
+      <shelf name="children-ya" count="8"/>
+      <shelf name="el-230" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>325189</id>
+<user_position></user_position>
+<series>
+<id>71277</id>
+<title>
+<![CDATA[
+    Olivia
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>29</series_works_count>
+<primary_work_count>23</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>6121819</id>
+<title><![CDATA[Red Sings from Treetops: A Year in Colors]]></title>
+<title_without_series><![CDATA[Red Sings from Treetops: A Year in Colors]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6121819-red-sings-from-treetops]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1305234101s/6121819.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1305234101m/6121819.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>6300118</id>
+</work>
+<isbn>0547014945</isbn>
+<isbn13>9780547014944</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2438</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>386001</id>
+<name>Joyce Sidman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/386001.Joyce_Sidman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1507001</id>
+<title>The Stray Dog</title>
+<title_without_series>The Stray Dog</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1507001.The_Stray_Dog]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1267291311s/1507001.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1267291311m/1507001.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1498528</id>
+</work>
+<isbn>0439442540</isbn>
+<isbn13>9780439442541</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>2353</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>34161</id>
+<name>Marc Simont</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34161.Marc_Simont]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>351530</id>
+<title><![CDATA[What Do You Do With a Tail Like This?]]></title>
+<title_without_series><![CDATA[What Do You Do With a Tail Like This?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/351530.What_Do_You_Do_With_a_Tail_Like_This_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>692587</id>
+</work>
+<isbn>0439703840</isbn>
+<isbn13>9780439703840</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>6323</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>27541</id>
+<name>Steve Jenkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27541.Steve_Jenkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>426625</id>
+<title>Fancy Nancy</title>
+<title_without_series>Fancy Nancy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/426625.Fancy_Nancy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1376473636s/426625.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1376473636m/426625.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1167774</id>
+</work>
+<isbn>0060542098</isbn>
+<isbn13>9780060542092</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>21751</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>94085</id>
+<name>Jane O&apos;Connor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94085.Jane_O_Connor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1415026</id>
+<title>First the Egg</title>
+<title_without_series>First the Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1415026.First_the_Egg]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317064748s/1415026.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317064748m/1415026.jpg]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>1405371</id>
+</work>
+<isbn>1596432721</isbn>
+<isbn13>9781596432727</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>4371</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>99360</id>
+<name>Laura Vaccaro Seeger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99360.Laura_Vaccaro_Seeger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>515905</id>
+<title><![CDATA[Knuffle Bunny Too: A Case of Mistaken Identity (Knuffle Bunny, #2)]]></title>
+<title_without_series><![CDATA[Knuffle Bunny Too: A Case of Mistaken Identity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/515905.Knuffle_Bunny_Too]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327894604s/515905.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327894604m/515905.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>2141767</id>
+</work>
+<isbn>1423102991</isbn>
+<isbn13>9781423102991</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>23514</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>825081</id>
+<title>Lilly&apos;s Purple Plastic Purse</title>
+<title_without_series>Lilly&apos;s Purple Plastic Purse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/825081.Lilly_s_Purple_Plastic_Purse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1223344</id>
+</work>
+<isbn>0688128971</isbn>
+<isbn13>9780688128975</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>24392</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>308238</id>
+<title><![CDATA[Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride]]></title>
+<title_without_series><![CDATA[Hot Air: The (Mostly) True Story of the First Hot-Air Balloon Ride]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/308238.Hot_Air]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>299195</id>
+</work>
+<isbn>0689826427</isbn>
+<isbn13>9780689826429</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1119</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>89281</id>
+<name>Marjorie Priceman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89281.Marjorie_Priceman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1918815</id>
+<title>The Faithful Friend</title>
+<title_without_series>The Faithful Friend</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1918815.The_Faithful_Friend]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1279827824s/1918815.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1279827824m/1918815.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2324731</id>
+</work>
+<isbn>0027861317</isbn>
+<isbn13>9780027861310</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>519</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>29541</id>
+<name>Robert D. San Souci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29541.Robert_D_San_Souci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>176626</id>
+<title>King Bidgood&apos;s in the Bathtub</title>
+<title_without_series>King Bidgood&apos;s in the Bathtub</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/176626.King_Bidgood_s_in_the_Bathtub]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328875873s/176626.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328875873m/176626.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2412510</id>
+</work>
+<isbn>0152055789</isbn>
+<isbn13>9780152055783</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>10429</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3368</id>
+<name>Audrey Wood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3368.Audrey_Wood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1080004</id>
+<title>Snow</title>
+<title_without_series>Snow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1080004.Snow]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317793280s/1080004.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317793280m/1080004.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3092892</id>
+</work>
+<isbn>0374370923</isbn>
+<isbn13>9780374370923</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>3736</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>33140</id>
+<name>Uri Shulevitz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33140.Uri_Shulevitz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6562659</id>
+<title>All the World</title>
+<title_without_series>All the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6562659-all-the-world]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1424982975s/6562659.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1424982975m/6562659.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>6755510</id>
+</work>
+<isbn>1416985808</isbn>
+<isbn13>9781416985808</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>5240</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5369451</id>
+<name>Liz Garton Scanlon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5369451.Liz_Garton_Scanlon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>162720</id>
+<title><![CDATA[Ella Sarah Gets Dressed (Caldecott Honor Book)]]></title>
+<title_without_series>Ella Sarah Gets Dressed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162720.Ella_Sarah_Gets_Dressed]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876188s/162720.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876188m/162720.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>157067</id>
+</work>
+<isbn>0152164138</isbn>
+<isbn13>9780152164133</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>1830</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>28385</id>
+<name>Margaret Chodos-Irvine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28385.Margaret_Chodos_Irvine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1344940</id>
+<title>On Market Street</title>
+<title_without_series>On Market Street</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1344940.On_Market_Street]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2288038</id>
+</work>
+<isbn>0688087450</isbn>
+<isbn13>9780688087456</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1955</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16963</id>
+<title>The Hello, Goodbye Window</title>
+<title_without_series>The Hello, Goodbye Window</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16963.The_Hello_Goodbye_Window]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327894695s/16963.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327894695m/16963.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>18603</id>
+</work>
+<isbn>0786809140</isbn>
+<isbn13>9780786809141</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>7725</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>214</id>
+<name>Norton Juster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/214.Norton_Juster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>301141</id>
+<title>Lost and Found (The Boy, #2)</title>
+<title_without_series>Lost and Found</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/301141.Lost_and_Found]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309285365s/301141.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309285365m/301141.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1410555</id>
+</work>
+<isbn>0399245030</isbn>
+<isbn13>9780399245039</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>6338</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>173545</id>
+<name>Oliver Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173545.Oliver_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>137045</id>
+<title><![CDATA[I Will Never Not Ever Eat a Tomato]]></title>
+<title_without_series><![CDATA[I Will Never Not Ever Eat a Tomato]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/137045.I_Will_Never_Not_Ever_Eat_a_Tomato]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320504923s/137045.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320504923m/137045.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2477566</id>
+</work>
+<isbn>0763621803</isbn>
+<isbn13>9780763621803</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>6603</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>42016</id>
+<name>Lauren Child</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42016.Lauren_Child]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>140181</id>
+<title>Zen Shorts</title>
+<title_without_series>Zen Shorts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/140181.Zen_Shorts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1301850228s/140181.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1301850228m/140181.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2015914</id>
+</work>
+<isbn>0439339111</isbn>
+<isbn13>9780439339117</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>11001</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12733</id>
+<name>Jon J. Muth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12733.Jon_J_Muth]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

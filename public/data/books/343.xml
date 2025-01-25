@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>343</id>
+  <title><![CDATA[Perfume: The Story of a Murderer]]></title>
+  <isbn><![CDATA[0140120831]]></isbn>
+  <isbn13><![CDATA[9780140120837]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00YZG2BJS]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1409112276m/343.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1409112276s/343.jpg</small_image_url>
+  <publication_year>1987</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Penguin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion — his sense of smell — leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift — an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the "ultimate perfume" — the scent of a beautiful young virgin. Told with dazzling narrative brillance, Perfume is a hauntingly powerful tale of murder and sensual depravity.<br /><br />Translated from the German by John E. Woods.]]></description>
+  <work>
+  <id type="integer">2977727</id>
+  <books_count type="integer">365</books_count>
+  <best_book_id type="integer">343</best_book_id>
+  <reviews_count type="integer">359867</reviews_count>
+  <ratings_sum type="integer">891657</ratings_sum>
+  <ratings_count type="integer">223095</ratings_count>
+  <text_reviews_count type="integer">10072</text_reviews_count>
+  <original_publication_year type="integer">1985</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Das Parfum. Die Geschichte eines Mörders</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:83898|4:78793|3:41856|2:12879|1:5669|total:223095</rating_dist>
+  <desc_user_id type="integer">64386030</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.00</average_rating>
+  <num_pages><![CDATA[263]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[178381]]></ratings_count>
+  <text_reviews_count><![CDATA[6072]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/343.Perfume]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/343.Perfume]]></link>
+  <authors>
+<author>
+<id>39402</id>
+<name>Patrick Süskind</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201117958p5/39402.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201117958p2/39402.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/39402.Patrick_S_skind]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>239844</ratings_count>
+<text_reviews_count>11592</text_reviews_count>
+</author>
+<author>
+<id>60286</id>
+<name>John E. Woods</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1317658019p5/60286.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1317658019p2/60286.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/60286.John_E_Woods]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>220972</ratings_count>
+<text_reviews_count>8546</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/343.Perfume">Perfume Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140120831&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/343.Perfume?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="107894"/>
+      <shelf name="currently-reading" count="4119"/>
+      <shelf name="favorites" count="3262"/>
+      <shelf name="fiction" count="2637"/>
+      <shelf name="historical-fiction" count="1473"/>
+      <shelf name="classics" count="1307"/>
+      <shelf name="horror" count="888"/>
+      <shelf name="owned" count="609"/>
+      <shelf name="mystery" count="554"/>
+      <shelf name="crime" count="516"/>
+      <shelf name="books-i-own" count="512"/>
+      <shelf name="favourites" count="498"/>
+      <shelf name="thriller" count="493"/>
+      <shelf name="historical" count="474"/>
+      <shelf name="german" count="471"/>
+      <shelf name="novels" count="350"/>
+      <shelf name="1001-books" count="318"/>
+      <shelf name="fantasy" count="310"/>
+      <shelf name="literature" count="303"/>
+      <shelf name="german-literature" count="244"/>
+      <shelf name="owned-books" count="236"/>
+      <shelf name="france" count="233"/>
+      <shelf name="novel" count="211"/>
+      <shelf name="classic" count="210"/>
+      <shelf name="to-buy" count="198"/>
+      <shelf name="1001" count="196"/>
+      <shelf name="book-club" count="196"/>
+      <shelf name="default" count="172"/>
+      <shelf name="magical-realism" count="160"/>
+      <shelf name="contemporary" count="158"/>
+      <shelf name="adult" count="147"/>
+      <shelf name="school" count="137"/>
+      <shelf name="gothic" count="134"/>
+      <shelf name="germany" count="129"/>
+      <shelf name="20th-century" count="125"/>
+      <shelf name="library" count="117"/>
+      <shelf name="suspense" count="111"/>
+      <shelf name="drama" count="110"/>
+      <shelf name="literary-fiction" count="108"/>
+      <shelf name="history" count="106"/>
+      <shelf name="murder" count="102"/>
+      <shelf name="روايات" count="101"/>
+      <shelf name="my-books" count="99"/>
+      <shelf name="deutsch" count="99"/>
+      <shelf name="adult-fiction" count="92"/>
+      <shelf name="dark" count="90"/>
+      <shelf name="mystery-thriller" count="87"/>
+      <shelf name="1001-books-to-read-before-you-die" count="87"/>
+      <shelf name="favorite" count="85"/>
+      <shelf name="i-own" count="81"/>
+      <shelf name="my-library" count="80"/>
+      <shelf name="french" count="80"/>
+      <shelf name="read-in-german" count="79"/>
+      <shelf name="translated" count="79"/>
+      <shelf name="books" count="76"/>
+      <shelf name="europe" count="75"/>
+      <shelf name="contemporary-fiction" count="74"/>
+      <shelf name="wish-list" count="72"/>
+      <shelf name="bookclub" count="71"/>
+      <shelf name="german-lit" count="67"/>
+      <shelf name="favourite" count="64"/>
+      <shelf name="general-fiction" count="63"/>
+      <shelf name="read-in-2015" count="61"/>
+      <shelf name="read-for-school" count="61"/>
+      <shelf name="roman" count="61"/>
+      <shelf name="modern-classics" count="60"/>
+      <shelf name="borrowed" count="58"/>
+      <shelf name="unfinished" count="55"/>
+      <shelf name="5-stars" count="55"/>
+      <shelf name="movies" count="55"/>
+      <shelf name="read-in-2016" count="55"/>
+      <shelf name="all-time-favorites" count="55"/>
+      <shelf name="finished" count="53"/>
+      <shelf name="read-in-2014" count="52"/>
+      <shelf name="favoritos" count="52"/>
+      <shelf name="bbc-big-read" count="52"/>
+      <shelf name="abandoned" count="51"/>
+      <shelf name="re-read" count="49"/>
+      <shelf name="audiobook" count="48"/>
+      <shelf name="shelfari-favorites" count="46"/>
+      <shelf name="translation" count="46"/>
+      <shelf name="ebook" count="45"/>
+      <shelf name="thrillers" count="45"/>
+      <shelf name="for-school" count="45"/>
+      <shelf name="perfume" count="44"/>
+      <shelf name="1001-books-you-must-read-before-you" count="44"/>
+      <shelf name="faves" count="43"/>
+      <shelf name="1001-books-to-read" count="43"/>
+      <shelf name="crime-thriller" count="43"/>
+      <shelf name="on-my-shelf" count="42"/>
+      <shelf name="literary" count="42"/>
+      <shelf name="1980s" count="41"/>
+      <shelf name="stand-alone" count="41"/>
+      <shelf name="favorite-books" count="41"/>
+      <shelf name="european-literature" count="41"/>
+      <shelf name="novela" count="41"/>
+      <shelf name="kindle" count="40"/>
+      <shelf name="recommended" count="40"/>
+      <shelf name="own-it" count="39"/>
+      <shelf name="maybe" count="39"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>738448</id>
+<title>Small World</title>
+<title_without_series>Small World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/738448.Small_World]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>724623</id>
+</work>
+<isbn>3257230885</isbn>
+<isbn13>9783257230888</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>1581</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>391452</id>
+<name>Martin Suter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/391452.Martin_Suter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10009</id>
+<title>Homo Faber</title>
+<title_without_series>Homo Faber</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10009.Homo_Faber]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>691697</id>
+</work>
+<isbn>0156421356</isbn>
+<isbn13>9780156421355</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>12108</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6530</id>
+<name>Max Frisch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6530.Max_Frisch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1131999</id>
+<title><![CDATA[Fabian. Die Geschichte eines Moralisten]]></title>
+<title_without_series><![CDATA[Fabian. Die Geschichte eines Moralisten]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1131999.Fabian_Die_Geschichte_eines_Moralisten]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1294313186s/1131999.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1294313186m/1131999.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1119209</id>
+</work>
+<isbn>3423110066</isbn>
+<isbn13>9783423110068</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>2049</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6519</id>
+<name>Erich Kästner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6519.Erich_K_stner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>317764</id>
+<title>The Visit</title>
+<title_without_series>The Visit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/317764.The_Visit]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>628975</id>
+</work>
+<isbn>0802130666</isbn>
+<isbn13>9780802130662</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>7554</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>41616</id>
+<name>Friedrich Dürrenmatt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41616.Friedrich_D_rrenmatt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>69880</id>
+<title><![CDATA[The Lost Honor of Katharina Blum]]></title>
+<title_without_series><![CDATA[The Lost Honor of Katharina Blum]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/69880.The_Lost_Honor_of_Katharina_Blum]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1338908394s/69880.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1338908394m/69880.jpg]]></image_url>
+<num_pages>140</num_pages>
+<work>
+<id>2625359</id>
+</work>
+<isbn>0140187286</isbn>
+<isbn13>9780140187281</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>7973</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>39326</id>
+<name>Heinrich Böll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39326.Heinrich_B_ll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>484436</id>
+<title>Draußen vor der Tür</title>
+<title_without_series>Draußen vor der Tür</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/484436.Drau_en_vor_der_T_r]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>472756</id>
+</work>
+<isbn>349910170X</isbn>
+<isbn13>9783499101700</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3086</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>72654</id>
+<name>Wolfgang Borchert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72654.Wolfgang_Borchert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>153482</id>
+<title><![CDATA[Cassandra: A Novel and Four Essays]]></title>
+<title_without_series><![CDATA[Cassandra: A Novel and Four Essays]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/153482.Cassandra]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379150564s/153482.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379150564m/153482.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>4103008</id>
+</work>
+<isbn>0374519048</isbn>
+<isbn13>9780374519049</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1219</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>61946</id>
+<name>Christa Wolf</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61946.Christa_Wolf]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53064</id>
+<title><![CDATA[Death in Venice and Other Tales]]></title>
+<title_without_series><![CDATA[Death in Venice and Other Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53064.Death_in_Venice_and_Other_Tales]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309376701s/53064.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309376701m/53064.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>3458170</id>
+</work>
+<isbn>0141181737</isbn>
+<isbn13>9780141181738</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>15887</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19405</id>
+<name>Thomas Mann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19405.Thomas_Mann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1509544</id>
+<title>Bahnwärter Thiel</title>
+<title_without_series>Bahnwärter Thiel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1509544.Bahnw_rter_Thiel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>55</num_pages>
+<work>
+<id>2250130</id>
+</work>
+<isbn>3150066174</isbn>
+<isbn13>9783150066171</isbn13>
+<average_rating>3.35</average_rating>
+<ratings_count>2525</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54428</id>
+<name>Gerhart Hauptmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54428.Gerhart_Hauptmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1319778</id>
+<title>Schlafes Bruder</title>
+<title_without_series>Schlafes Bruder</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1319778.Schlafes_Bruder]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1182727936s/1319778.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1182727936m/1319778.jpg]]></image_url>
+<num_pages>204</num_pages>
+<work>
+<id>1309122</id>
+</work>
+<isbn>3379015180</isbn>
+<isbn13>9783379015189</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>2150</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>122481</id>
+<name>Robert Schneider</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122481.Robert_Schneider]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>67843</id>
+<title>Postman, The/ Il Postino</title>
+<title_without_series>Postman, The/ Il Postino</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67843.Postman_The_Il_Postino]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1390051</id>
+</work>
+<isbn>0786881275</isbn>
+<isbn13>9780786881277</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>6226</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59471</id>
+<name>Antonio Skármeta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59471.Antonio_Sk_rmeta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>642231</id>
+<title>Measuring the World</title>
+<title_without_series>Measuring the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/642231.Measuring_the_World]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320492037s/642231.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320492037m/642231.jpg]]></image_url>
+<num_pages>259</num_pages>
+<work>
+<id>598208</id>
+</work>
+<isbn>0375424466</isbn>
+<isbn13>9780375424465</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>8670</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>163635</id>
+<name>Daniel Kehlmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163635.Daniel_Kehlmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16631</id>
+<title>Steppenwolf</title>
+<title_without_series>Steppenwolf</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16631.Steppenwolf]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>57612</id>
+</work>
+<isbn>0140282580</isbn>
+<isbn13>9780140282580</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>97341</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1113469</id>
+<name>Hermann Hesse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1113469.Hermann_Hesse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1337448</id>
+<title>Wir Kinder vom Bahnhof Zoo</title>
+<title_without_series>Wir Kinder vom Bahnhof Zoo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1337448.Wir_Kinder_vom_Bahnhof_Zoo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1463309277s/1337448.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1463309277m/1337448.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1327004</id>
+</work>
+<isbn>3453162897</isbn>
+<isbn13>9783453162891</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>18351</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>474991</id>
+<name>Christiane F.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/474991.Christiane_F_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13165142</id>
+<title>The Hunger Angel</title>
+<title_without_series>The Hunger Angel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13165142-the-hunger-angel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333549068s/13165142.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333549068m/13165142.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6966223</id>
+</work>
+<isbn>080509301X</isbn>
+<isbn13>9780805093018</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>2845</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>134980</id>
+<name>Herta Müller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134980.Herta_M_ller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1576915</id>
+<title>The Devil&apos;s Elixirs</title>
+<title_without_series>The Devil&apos;s Elixirs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1576915.The_Devil_s_Elixirs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>1958984</id>
+</work>
+<isbn>1906210187</isbn>
+<isbn13>9781906210182</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>1333</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7267068</id>
+<name>E.T.A. Hoffmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7267068.E_T_A_Hoffmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6327352</id>
+<title>Η φόνισσα</title>
+<title_without_series>Η φόνισσα</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6327352]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316698356s/6327352.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316698356m/6327352.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>694574</id>
+</work>
+<isbn>9600509379</isbn>
+<isbn13>9789600509373</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>2467</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5279499</id>
+<name>Alexandros Papadiamantis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5279499.Alexandros_Papadiamantis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>689905</id>
+<title><![CDATA[Das Lächeln der Fortuna (Waringham, #1)]]></title>
+<title_without_series>Das Lächeln der Fortuna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/689905.Das_L_cheln_der_Fortuna]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1021</num_pages>
+<work>
+<id>676256</id>
+</work>
+<isbn>3431036104</isbn>
+<isbn13>9783431036107</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1736</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>353685</id>
+<name>Rebecca Gablé</name>
+<link><![CDATA[https://www.goodreads.com/author/show/353685.Rebecca_Gabl_]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

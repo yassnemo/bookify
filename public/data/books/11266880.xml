@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11266880</id>
+  <title>It Chooses You</title>
+  <isbn><![CDATA[1936365014]]></isbn>
+  <isbn13><![CDATA[9781936365012]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0062O2V7S]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1328693226m/11266880.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328693226s/11266880.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>McSweeney's Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<p>In the summer of 2009 Miranda July was struggling to write her second screenplay, <i>The Future</i>, when she began to obsessively read the <i>PennySaver</i> classified ads. The iconic Los Angeles newsprint booklet served a computerless demographica quickly disappearing group, but one rife with stories. Who was the person selling the LARGE LEATHER JACKET, $10 OR BEST OFFER? It seemed important to find out, or, at least it was a great distraction from the screenplay.</p><p>Working with photographer Brigitte Sire, July interviewed thirteen <i>PennySaver</i> sellers to create portraits of their surprisingly moving, profoundly specific realities. Among these was Joe, an energetic 82-year-old with his own sweetly perverse body of artwork. By the end of the summer, July had written Joe into the movie as himself and the voice of the moon. </p><p>July reveals her hilariously random and blindly faithful creative process as we travel with her all over the city, and eventually to the set of <i>The Future</i> (in theaters in July). Combining narrative, interviews, and photographs, this book tells the story not only of the making of a movie in Los Angeles, but of the city itself.</p>]]></description>
+  <work>
+  <id type="integer">16193779</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">11266880</best_book_id>
+  <reviews_count type="integer">32287</reviews_count>
+  <ratings_sum type="integer">63561</ratings_sum>
+  <ratings_count type="integer">16400</ratings_count>
+  <text_reviews_count type="integer">492</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6295|4:4488|3:3590|2:1337|1:690|total:16400</rating_dist>
+  <desc_user_id type="integer">489381</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.88</average_rating>
+  <num_pages><![CDATA[218]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16067]]></ratings_count>
+  <text_reviews_count><![CDATA[451]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11266880-it-chooses-you]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11266880-it-chooses-you]]></link>
+  <authors>
+<author>
+<id>65678</id>
+<name>Miranda July</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1211471153p5/65678.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1211471153p2/65678.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/65678.Miranda_July]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>66861</ratings_count>
+<text_reviews_count>6783</text_reviews_count>
+</author>
+<author>
+<id>5418509</id>
+<name>Brigitte Sire</name>
+<role>photographer</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5418509.Brigitte_Sire]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>16074</ratings_count>
+<text_reviews_count>452</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11266880-it-chooses-you">It Chooses You Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1936365014&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/11266880-it-chooses-you?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11433"/>
+      <shelf name="non-fiction" count="145"/>
+      <shelf name="currently-reading" count="110"/>
+      <shelf name="favorites" count="75"/>
+      <shelf name="nonfiction" count="70"/>
+      <shelf name="memoir" count="46"/>
+      <shelf name="art" count="37"/>
+      <shelf name="fiction" count="20"/>
+      <shelf name="short-stories" count="20"/>
+      <shelf name="essays" count="19"/>
+      <shelf name="biography" count="14"/>
+      <shelf name="read-in-2012" count="11"/>
+      <shelf name="library" count="10"/>
+      <shelf name="memoirs" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="read-2012" count="9"/>
+      <shelf name="creativity" count="8"/>
+      <shelf name="read-in-2015" count="7"/>
+      <shelf name="book-club" count="7"/>
+      <shelf name="writing" count="6"/>
+      <shelf name="autobiography" count="6"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="to-buy" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="american" count="5"/>
+      <shelf name="photography" count="5"/>
+      <shelf name="favourites" count="5"/>
+      <shelf name="film" count="5"/>
+      <shelf name="shelfari-wishlist" count="4"/>
+      <shelf name="read-2014" count="4"/>
+      <shelf name="21st-century" count="4"/>
+      <shelf name="to-read-non-fiction" count="4"/>
+      <shelf name="kindle" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="adult-non-fiction" count="4"/>
+      <shelf name="mcsweeney-s" count="4"/>
+      <shelf name="read-in-2016" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="read-in-2013" count="3"/>
+      <shelf name="maybe" count="3"/>
+      <shelf name="to-read-nonfiction" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="adult-fiction" count="3"/>
+      <shelf name="journalism" count="3"/>
+      <shelf name="biography-memoir" count="3"/>
+      <shelf name="literary" count="3"/>
+      <shelf name="interviews" count="3"/>
+      <shelf name="literature" count="3"/>
+      <shelf name="read-in-2011" count="3"/>
+      <shelf name="dnf" count="2"/>
+      <shelf name="staff-picks" count="2"/>
+      <shelf name="did-not-finish" count="2"/>
+      <shelf name="relationships" count="2"/>
+      <shelf name="to-read-2016" count="2"/>
+      <shelf name="favorite-books" count="2"/>
+      <shelf name="books" count="2"/>
+      <shelf name="women-read" count="2"/>
+      <shelf name="engels" count="2"/>
+      <shelf name="novels" count="2"/>
+      <shelf name="non-fic" count="2"/>
+      <shelf name="xx" count="2"/>
+      <shelf name="books-i-ve-read-in-2014" count="2"/>
+      <shelf name="biographies" count="2"/>
+      <shelf name="books-by-women" count="2"/>
+      <shelf name="summer-reading" count="2"/>
+      <shelf name="humour" count="2"/>
+      <shelf name="next" count="2"/>
+      <shelf name="autobiographical" count="2"/>
+      <shelf name="2010s" count="2"/>
+      <shelf name="female-author" count="2"/>
+      <shelf name="bio" count="2"/>
+      <shelf name="amanda2013" count="2"/>
+      <shelf name="humor" count="2"/>
+      <shelf name="women" count="2"/>
+      <shelf name="want-to-own" count="2"/>
+      <shelf name="loved" count="2"/>
+      <shelf name="cinema" count="2"/>
+      <shelf name="quirky" count="2"/>
+      <shelf name="library-ebook" count="2"/>
+      <shelf name="read-non-fiction" count="2"/>
+      <shelf name="work" count="2"/>
+      <shelf name="nf" count="2"/>
+      <shelf name="pretty-pictures" count="2"/>
+      <shelf name="mcsweeneys" count="2"/>
+      <shelf name="faves" count="2"/>
+      <shelf name="to-read-soon" count="2"/>
+      <shelf name="los-angeles" count="2"/>
+      <shelf name="female" count="2"/>
+      <shelf name="want" count="2"/>
+      <shelf name="priority" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="non-fiction-narrative" count="1"/>
+      <shelf name="to-check-out" count="1"/>
+      <shelf name="essays-short-stories" count="1"/>
+      <shelf name="nonfiction-to-read" count="1"/>
+      <shelf name="libros-que-no-tengo" count="1"/>
+      <shelf name="contexts" count="1"/>
+      <shelf name="reading-list" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>980691</id>
+<title>Learning to Love You More</title>
+<title_without_series>Learning to Love You More</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/980691.Learning_to_Love_You_More]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>158</num_pages>
+<work>
+<id>965580</id>
+</work>
+<isbn>3791337335</isbn>
+<isbn13>9783791337333</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2575</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>503100</id>
+<name>Harrell Fletcher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/503100.Harrell_Fletcher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10508526</id>
+<title><![CDATA[The Chronicles of Harris Burdick: 14 Amazing Authors Tell the Tales]]></title>
+<title_without_series><![CDATA[The Chronicles of Harris Burdick: 14 Amazing Authors Tell the Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10508526-the-chronicles-of-harris-burdick]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327949098s/10508526.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327949098m/10508526.jpg]]></image_url>
+<num_pages>221</num_pages>
+<work>
+<id>15414441</id>
+</work>
+<isbn>0547548109</isbn>
+<isbn13>9780547548104</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>13354</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9685</id>
+<name>Chris Van Allsburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9685.Chris_Van_Allsburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11996019</id>
+<title>The King&apos;s Agent</title>
+<title_without_series>The King&apos;s Agent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11996019-the-king-s-agent]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1313276211s/11996019.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1313276211m/11996019.jpg]]></image_url>
+<num_pages>411</num_pages>
+<work>
+<id>16960201</id>
+</work>
+<isbn>075824682X</isbn>
+<isbn13>9780758246820</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>8261</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2729597</id>
+<name>Donna Russo Morin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2729597.Donna_Russo_Morin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10836810</id>
+<title>The Last Nude</title>
+<title_without_series>The Last Nude</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10836810-the-last-nude]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1305496356s/10836810.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1305496356m/10836810.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>15467346</id>
+</work>
+<isbn>1594488134</isbn>
+<isbn13>9781594488139</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>13426</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>26770</id>
+<name>Ellis Avery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26770.Ellis_Avery]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11101772</id>
+<title><![CDATA[The Scrapbook of Frankie Pratt]]></title>
+<title_without_series><![CDATA[The Scrapbook of Frankie Pratt]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11101772-the-scrapbook-of-frankie-pratt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>233</num_pages>
+<work>
+<id>16023890</id>
+</work>
+<isbn>0061966908</isbn>
+<isbn13>9780061966903</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>20573</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7086</id>
+<name>Caroline Preston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7086.Caroline_Preston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11391817</id>
+<title>Drawing from Memory</title>
+<title_without_series>Drawing from Memory</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11391817-drawing-from-memory]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328837508s/11391817.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328837508m/11391817.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>16323867</id>
+</work>
+<isbn>0545176867</isbn>
+<isbn13>9780545176866</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>21193</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>121814</id>
+<name>Allen Say</name>
+<link><![CDATA[https://www.goodreads.com/author/show/121814.Allen_Say]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12065943</id>
+<title><![CDATA[Extra Yarn (E. B. White Read-Aloud Award. Picture Books)]]></title>
+<title_without_series>Extra Yarn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12065943-extra-yarn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1424982446s/12065943.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1424982446m/12065943.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17033359</id>
+</work>
+<isbn>0061953385</isbn>
+<isbn13>9780061953385</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>12714</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2855221</id>
+<name>Mac Barnett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2855221.Mac_Barnett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10909804</id>
+<title><![CDATA[Just My Type: A Book About Fonts]]></title>
+<title_without_series><![CDATA[Just My Type: A Book About Fonts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10909804-just-my-type]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327886002s/10909804.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327886002m/10909804.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10270290</id>
+</work>
+<isbn>1592406521</isbn>
+<isbn13>9781592406524</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>23391</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>158292</id>
+<name>Simon Garfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/158292.Simon_Garfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11162304</id>
+<title><![CDATA[Missed Connections: Love, Lost & Found]]></title>
+<title_without_series><![CDATA[Missed Connections: Love, Lost & Found]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11162304-missed-connections]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1310139398s/11162304.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1310139398m/11162304.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>16086310</id>
+</work>
+<isbn>0761163581</isbn>
+<isbn13>9780761163589</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>1166</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>63115</id>
+<name>Sophie Blackall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63115.Sophie_Blackall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>60431</id>
+<title><![CDATA[Andy Goldsworthy: A Collaboration with Nature]]></title>
+<title_without_series><![CDATA[Andy Goldsworthy: A Collaboration with Nature]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/60431.Andy_Goldsworthy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>58792</id>
+</work>
+<isbn>0810933519</isbn>
+<isbn13>9780810933514</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>20762</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>34070</id>
+<name>Andy Goldsworthy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34070.Andy_Goldsworthy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8968323</id>
+<title><![CDATA[Radioactive: Marie and Pierre Curie, A Tale of Love and Fallout]]></title>
+<title_without_series><![CDATA[Radioactive: Marie and Pierre Curie, A Tale of Love and Fallout]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8968323-radioactive]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1296406398s/8968323.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1296406398m/8968323.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>13845303</id>
+</work>
+<isbn>0061351326</isbn>
+<isbn13>9780061351327</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>4128</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>91876</id>
+<name>Lauren Redniss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/91876.Lauren_Redniss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11083220</id>
+<title><![CDATA[Violence Girl: East L.A. Rage to Hollywood Stage, a Chicana Punk Story]]></title>
+<title_without_series><![CDATA[Violence Girl: East L.A. Rage to Hollywood Stage, a Chicana Punk Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11083220-violence-girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1313710380s/11083220.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1313710380m/11083220.jpg]]></image_url>
+<num_pages>382</num_pages>
+<work>
+<id>16004892</id>
+</work>
+<isbn>1936239124</isbn>
+<isbn13>9781936239122</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>604</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4218589</id>
+<name>Alice Bag</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4218589.Alice_Bag]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7821828</id>
+<title><![CDATA[The Hare With Amber Eyes: A Family's Century of Art and Loss]]></title>
+<title_without_series><![CDATA[The Hare With Amber Eyes: A Family's Century of Art and Loss]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7821828-the-hare-with-amber-eyes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316730175s/7821828.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316730175m/7821828.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>10861805</id>
+</work>
+<isbn>0374105979</isbn>
+<isbn13>9780374105976</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>26040</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>471230</id>
+<name>Edmund de Waal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/471230.Edmund_de_Waal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47559</id>
+<title>Amphigorey (Amphigorey, #1)</title>
+<title_without_series>Amphigorey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47559.Amphigorey]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327649608s/47559.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327649608m/47559.jpg]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>2375439</id>
+</work>
+<isbn>0399504338</isbn>
+<isbn13>9780399504334</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>28975</ratings_count>
+<publication_year>1980</publication_year>
+<publication_month>1</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>21578</id>
+<name>Edward Gorey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21578.Edward_Gorey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7863274</id>
+<title>Graffiti Moon</title>
+<title_without_series>Graffiti Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7863274-graffiti-moon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320129868s/7863274.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320129868m/7863274.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>11018320</id>
+</work>
+<isbn>0330425781</isbn>
+<isbn13>9780330425780</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>16498</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1348627</id>
+<name>Cath Crowley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1348627.Cath_Crowley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27398</id>
+<title>The Lost Painting</title>
+<title_without_series>The Lost Painting</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27398.The_Lost_Painting]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>1054249</id>
+</work>
+<isbn>0375759867</isbn>
+<isbn13>9780375759864</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>19571</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7519</id>
+<name>Jonathan Harr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7519.Jonathan_Harr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3253215</id>
+<title><![CDATA[An Illustrated Life: Drawing Inspiration From The Private Sketchbooks Of Artists, Illustrators And Designers]]></title>
+<title_without_series><![CDATA[An Illustrated Life: Drawing Inspiration From The Private Sketchbooks Of Artists, Illustrators And Designers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3253215-an-illustrated-life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>266</num_pages>
+<work>
+<id>3288384</id>
+</work>
+<isbn>1600610862</isbn>
+<isbn13>9781600610868</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>15608</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>18678</id>
+<name>Danny Gregory</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18678.Danny_Gregory]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8296140</id>
+<title>Clara and Mr. Tiffany</title>
+<title_without_series>Clara and Mr. Tiffany</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8296140-clara-and-mr-tiffany]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320562282s/8296140.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320562282m/8296140.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>13144758</id>
+</work>
+<isbn>1400068169</isbn>
+<isbn13>9781400068166</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>24733</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>11075</id>
+<name>Susan Vreeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11075.Susan_Vreeland]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

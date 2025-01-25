@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17880714</id>
+  <title>Crashed (Driven, #3)</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00HG05AZC]]></asin>
+  <kindle_asin><![CDATA[B00HG05AZC]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1391008361m/17880714.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1391008361s/17880714.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>JKB Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[<b>When life crashes down around us, how hard are we willing to fight for the one thing we can’t live without, each other?</b><br /><br />Life is full of moments. <br />Big moments. <br />Little moments. <br /><i>And none of them are inconsequential. </i><br />Every single moment prepares you for that one instance that defines your life. You must overcome all your fears, confront the demons that chase you, and cleanse the poison that clings to your soul or you risk the chance of losing everything.<br /><br /><i>Mine started the minute Rylee fell out of that damn storage closet. She made me feel. Made me whole when all I thought I could ever be was incomplete. </i>Became the lifeline I never knew I needed. <i>Hell yes, she’s worth the fight…but how do you fight for someone you know you don’t deserve?</i><br /><br />Love is full of ups and downs. <br />Heart stopping highs.<br />Soul shattering lows.<br /><i>And none of them are insignificant. <i><br />Love is a racecourse of unexpected twists and turns that must be negotiated. You have to break down walls, learn to trust, and heal from your past in order to win. But sometimes it’s the expected that’s the hardest to hold on to.<br /><br /><i>Colton has healed and completed me, stolen my heart, and made me realize our love’s not predictable nor perfect—it’s bent. </i>And bent’s okay. <i>But when outside factors put our relationship to the test, what lengths will I have to go to prove to him that he’s worth the fight?</i><br /><br />Whoever said love is patient and love is kind, never met the two of us. We know our love is worth it—have acknowledged that we were meant to be—but when our pasts crash into our future, will the repercussions make us stronger or break us apart?</i></i>]]></description>
+  <work>
+  <id type="integer">25040772</id>
+  <books_count type="integer">20</books_count>
+  <best_book_id type="integer">30166123</best_book_id>
+  <reviews_count type="integer">55301</reviews_count>
+  <ratings_sum type="integer">160435</ratings_sum>
+  <ratings_count type="integer">35176</ratings_count>
+  <text_reviews_count type="integer">3238</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">27</original_publication_day>
+  <original_title>Crashed</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:23923|4:8000|3:2517|2:533|1:203|total:35176</rating_dist>
+  <desc_user_id type="integer">13235258</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.56</average_rating>
+  <num_pages><![CDATA[350]]></num_pages>
+  <format><![CDATA[Kindle Edition]]></format>
+  <edition_information><![CDATA[1 edition]]></edition_information>
+  <ratings_count><![CDATA[32530]]></ratings_count>
+  <text_reviews_count><![CDATA[3066]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17880714-crashed]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17880714-crashed]]></link>
+  <authors>
+<author>
+<id>7047863</id>
+<name>K. Bromberg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487968852p5/7047863.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1487968852p2/7047863.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7047863.K_Bromberg]]></link>
+<average_rating>4.40</average_rating>
+<ratings_count>183559</ratings_count>
+<text_reviews_count>17733</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17880714-crashed">Crashed Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00HG05AZC&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/17880714-crashed?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="favorites" count="798"/>
+      <shelf name="currently-reading" count="360"/>
+      <shelf name="romance" count="333"/>
+      <shelf name="series" count="206"/>
+      <shelf name="contemporary-romance" count="119"/>
+      <shelf name="alpha-male" count="106"/>
+      <shelf name="erotica" count="106"/>
+      <shelf name="sports" count="100"/>
+      <shelf name="kindle" count="98"/>
+      <shelf name="contemporary" count="81"/>
+      <shelf name="k-bromberg" count="70"/>
+      <shelf name="read-in-2014" count="63"/>
+      <shelf name="new-adult" count="63"/>
+      <shelf name="read-2014" count="59"/>
+      <shelf name="adult" count="59"/>
+      <shelf name="5-stars" count="52"/>
+      <shelf name="to-read" count="51"/>
+      <shelf name="erotic-romance" count="49"/>
+      <shelf name="favourites" count="48"/>
+      <shelf name="sports-romance" count="47"/>
+      <shelf name="abuse" count="46"/>
+      <shelf name="favorite" count="41"/>
+      <shelf name="steamy" count="37"/>
+      <shelf name="erotic" count="37"/>
+      <shelf name="ebook" count="35"/>
+      <shelf name="bad-boy" count="35"/>
+      <shelf name="favorite-series" count="33"/>
+      <shelf name="alpha-males" count="33"/>
+      <shelf name="bad-boys" count="31"/>
+      <shelf name="made-me-cry" count="27"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="emotional" count="26"/>
+      <shelf name="all-time-favorites" count="25"/>
+      <shelf name="alpha" count="25"/>
+      <shelf name="2014-reads" count="25"/>
+      <shelf name="drama" count="24"/>
+      <shelf name="angst" count="23"/>
+      <shelf name="favs" count="23"/>
+      <shelf name="loved" count="23"/>
+      <shelf name="2014-read" count="23"/>
+      <shelf name="march-2014" count="23"/>
+      <shelf name="racing" count="23"/>
+      <shelf name="my-favorites" count="22"/>
+      <shelf name="love" count="22"/>
+      <shelf name="favorite-books" count="21"/>
+      <shelf name="book-boyfriend" count="21"/>
+      <shelf name="book-boyfriends" count="21"/>
+      <shelf name="trilogy" count="21"/>
+      <shelf name="part-of-a-series" count="21"/>
+      <shelf name="driven" count="21"/>
+      <shelf name="books-i-own" count="20"/>
+      <shelf name="dual-pov" count="19"/>
+      <shelf name="angsty" count="19"/>
+      <shelf name="4-stars" count="19"/>
+      <shelf name="ebooks" count="18"/>
+      <shelf name="hea" count="17"/>
+      <shelf name="adult-romance" count="17"/>
+      <shelf name="hot" count="17"/>
+      <shelf name="athletes" count="17"/>
+      <shelf name="bromberg-k" count="16"/>
+      <shelf name="read-2015" count="15"/>
+      <shelf name="faves" count="15"/>
+      <shelf name="finished" count="15"/>
+      <shelf name="5-star" count="15"/>
+      <shelf name="celebrity" count="15"/>
+      <shelf name="fiction" count="15"/>
+      <shelf name="owned" count="15"/>
+      <shelf name="sport" count="15"/>
+      <shelf name="driven-trilogy" count="15"/>
+      <shelf name="on-kindle" count="14"/>
+      <shelf name="2014-books" count="14"/>
+      <shelf name="re-read" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="tear-jerker" count="13"/>
+      <shelf name="chick-lit" count="13"/>
+      <shelf name="race-car-driver" count="13"/>
+      <shelf name="dark" count="13"/>
+      <shelf name="audiobooks" count="12"/>
+      <shelf name="audible" count="12"/>
+      <shelf name="intense" count="12"/>
+      <shelf name="dnf" count="12"/>
+      <shelf name="billionaire" count="12"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="audio" count="11"/>
+      <shelf name="billionaires" count="11"/>
+      <shelf name="athlete" count="11"/>
+      <shelf name="sexy" count="11"/>
+      <shelf name="4-star" count="11"/>
+      <shelf name="dirty-talk" count="11"/>
+      <shelf name="favorite-authors" count="11"/>
+      <shelf name="bdsm" count="11"/>
+      <shelf name="read-in-2015" count="10"/>
+      <shelf name="pregnancy" count="10"/>
+      <shelf name="hot-alpha-male" count="10"/>
+      <shelf name="hot-hot-hot" count="10"/>
+      <shelf name="famous" count="10"/>
+      <shelf name="favorite-author" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="on-my-kindle" count="10"/>
+      <shelf name="downloaded" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>499443</id>
+<user_position>3</user_position>
+<series>
+<id>103200</id>
+<title>
+<![CDATA[
+    Driven
+]]>
+</title>
+<description>
+<![CDATA[
+    http://www.kbromberg.com/reading-order/
+    Series reading order as per author.
+    Driven
+    Fueled
+    Crashed
+    Raced (novella)
+    Aced
+    Slow Burn*
+    Sweet Ache*
+    Hard Beat*
+    Down Shift*
+    *Driven Standalone Spin-Offs: These books can be read on their own, out of order, and with or without having read the Driven Series. They are totally unconnected and complete standalones.
+]]>
+</description>
+<note>
+<![CDATA[
+    Please do not edit this series numbering and order, as it has been updated per Goodreads policy: https://www.goodreads.com/help/show/475-series-order-for-novellas-and-shorts
+    - The Goodreads Team
+]]>
+</note>
+<series_works_count>9</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>21417857</id>
+<title><![CDATA[Lovely Trigger (Tristan & Danika #3)]]></title>
+<title_without_series>Lovely Trigger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21417857-lovely-trigger]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1394499879s/21417857.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1394499879m/21417857.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>26518929</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.54</average_rating>
+<ratings_count>18416</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6574132</id>
+<name>R.K. Lilley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6574132.R_K_Lilley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17449438</id>
+<title><![CDATA[Fighting to Forgive (Fighting, #2)]]></title>
+<title_without_series>Fighting to Forgive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17449438-fighting-to-forgive]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378248346s/17449438.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378248346m/17449438.jpg]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>25472339</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>13966</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>6888697</id>
+<name>J.B. Salsbury</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6888697.J_B_Salsbury]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20419910</id>
+<title><![CDATA[Guns: The Spencer Book (Rook and Ronin Spinoff)]]></title>
+<title_without_series>Guns: The Spencer Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20419910-guns]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388990764s/20419910.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388990764m/20419910.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>29776043</id>
+</work>
+<isbn></isbn>
+<isbn13>9781936413362</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2852</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>6446815</id>
+<name>J.A. Huss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6446815.J_A_Huss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16150996</id>
+<title>Convicted (Consequences, #3)</title>
+<title_without_series>Convicted</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16150996-convicted]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378036825s/16150996.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378036825m/16150996.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>21987208</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>18231</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>5131072</id>
+<name>Aleatha Romig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5131072.Aleatha_Romig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17930773</id>
+<title>Found in You (Fixed, #2)</title>
+<title_without_series>Found in You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17930773-found-in-you]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1377584166s/17930773.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1377584166m/17930773.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>25133915</id>
+</work>
+<isbn></isbn>
+<isbn13>9781627040204</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>29283</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>7056140</id>
+<name>Laurelin Paige</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7056140.Laurelin_Paige]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>19015729</id>
+<title><![CDATA[Twisted Together (Monsters in the Dark, #3)]]></title>
+<title_without_series>Twisted Together</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/19015729-twisted-together]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387550441s/19015729.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387550441m/19015729.jpg]]></image_url>
+<num_pages>574</num_pages>
+<work>
+<id>27038874</id>
+</work>
+<isbn>1499752822</isbn>
+<isbn13>9781499752823</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>8563</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7151973</id>
+<name>Pepper Winters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7151973.Pepper_Winters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25170969</id>
+<title>Cage (Corps Security, #2)</title>
+<title_without_series>Cage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25170969-cage]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1426715026s/25170969.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1426715026m/25170969.jpg]]></image_url>
+<num_pages>283</num_pages>
+<work>
+<id>25365963</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>24739</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7122060</id>
+<name>Harper Sloan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7122060.Harper_Sloan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17927182</id>
+<title>Awaken (Spiral of Bliss, #3)</title>
+<title_without_series>Awaken</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17927182-awaken]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1386900330s/17927182.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1386900330m/17927182.jpg]]></image_url>
+<num_pages>426</num_pages>
+<work>
+<id>25126281</id>
+</work>
+<isbn></isbn>
+<isbn13>9780988715844</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>6964</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5785925</id>
+<name>Nina Lane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5785925.Nina_Lane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18926659</id>
+<title><![CDATA[Becoming Noah Baxter (Marked, #2)]]></title>
+<title_without_series>Becoming Noah Baxter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18926659-becoming-noah-baxter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391100752s/18926659.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391100752m/18926659.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26933425</id>
+</work>
+<isbn></isbn>
+<isbn13>9781311335074</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>5715</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>7339924</id>
+<name>J.M. Sevilla</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7339924.J_M_Sevilla]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21920584</id>
+<title>The Story of Me (Carnage, #2)</title>
+<title_without_series>The Story of Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21920584-the-story-of-me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405692948s/21920584.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405692948m/21920584.jpg]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>41219783</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.44</average_rating>
+<ratings_count>5955</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>7061349</id>
+<name>Lesley  Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7061349.Lesley_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17335212</id>
+<title><![CDATA[Taming the Storm (The Storm, #3)]]></title>
+<title_without_series>Taming the Storm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17335212-taming-the-storm]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392968013s/17335212.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392968013m/17335212.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>24067128</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>10678</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4838933</id>
+<name>Samantha Towle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4838933.Samantha_Towle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17833834</id>
+<title><![CDATA[Control (Songs of Submission, #4)]]></title>
+<title_without_series>Control</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17833834-control]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366496375s/17833834.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366496375m/17833834.jpg]]></image_url>
+<num_pages>158</num_pages>
+<work>
+<id>24952815</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>8443</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6896405</id>
+<name>C.D. Reiss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6896405.C_D_Reiss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17761524</id>
+<title><![CDATA[Resolution (Heart of Stone, #3; NSC Industries, #4)]]></title>
+<title_without_series>Resolution</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17761524-resolution]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365908317s/17761524.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365908317m/17761524.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>24846751</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>1573</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>7034050</id>
+<name>D.H. Sidebottom</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7034050.D_H_Sidebottom]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16704759</id>
+<title>Knight &amp; Stay (Knight, #2)</title>
+<title_without_series>Knight &amp; Stay</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16704759-knight-stay]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1361513650s/16704759.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1361513650m/16704759.jpg]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>22937956</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>18363</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6589173</id>
+<name>Kitty French</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6589173.Kitty_French]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20980373</id>
+<title><![CDATA[Reasonable Doubt: Volume 2 (Reasonable Doubt, #2)]]></title>
+<title_without_series>Reasonable Doubt: Volume 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20980373-reasonable-doubt]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1397189810s/20980373.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1397189810m/20980373.jpg]]></image_url>
+<num_pages>67</num_pages>
+<work>
+<id>40357587</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>23634</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>6518370</id>
+<name>Whitney G.</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6518370.Whitney_G_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17830559</id>
+<title>Remy (Real, #3)</title>
+<title_without_series>Remy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17830559-remy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379702539s/17830559.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379702539m/17830559.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>24946137</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>26132</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>6997072</id>
+<name>Katy Evans</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6997072.Katy_Evans]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17260132</id>
+<title>Satisfaction (Temptation, #2)</title>
+<title_without_series>Satisfaction</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17260132-satisfaction]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360097011s/17260132.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360097011m/17260132.jpg]]></image_url>
+<num_pages>331</num_pages>
+<work>
+<id>23855763</id>
+</work>
+<isbn></isbn>
+<isbn13>9780987497703</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>3640</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>6860161</id>
+<name>K.M. Golland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6860161.K_M_Golland]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7769</id>
+  <title><![CDATA[Dr. Seuss's ABC: An Amazing Alphabet Book! (Bright and Early Board Books)]]></title>
+  <isbn><![CDATA[0679882812]]></isbn>
+  <isbn13><![CDATA[9780679882817]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1996</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>Random House</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This is an adaptation from Dr. Seuss's ABC Published by Random House in 1963.<br /><br />Simple, Silly, Sturdy Books for Babies of All Ages!]]></description>
+  <work>
+  <id type="integer">1603647</id>
+  <books_count type="integer">39</books_count>
+  <best_book_id type="integer">17797344</best_book_id>
+  <reviews_count type="integer">49881</reviews_count>
+  <ratings_sum type="integer">143631</ratings_sum>
+  <ratings_count type="integer">35290</ratings_count>
+  <text_reviews_count type="integer">1103</text_reviews_count>
+  <original_publication_year type="integer">1963</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:16214|4:8846|3:7439|2:2069|1:722|total:35290</rating_dist>
+  <desc_user_id type="integer">29365918</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[21]]></num_pages>
+  <format><![CDATA[Board Book]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[27116]]></ratings_count>
+  <text_reviews_count><![CDATA[719]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7769.Dr_Seuss_s_ABC]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7769.Dr_Seuss_s_ABC]]></link>
+  <authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>2462807</ratings_count>
+<text_reviews_count>42352</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7769.Dr_Seuss_s_ABC">Dr. Seuss&#39;s ABC Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679882812&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7769.Dr_Seuss_s_ABC?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="603"/>
+      <shelf name="childrens" count="526"/>
+      <shelf name="children-s-books" count="403"/>
+      <shelf name="picture-books" count="400"/>
+      <shelf name="children" count="358"/>
+      <shelf name="kids" count="255"/>
+      <shelf name="dr-seuss" count="252"/>
+      <shelf name="children-s" count="250"/>
+      <shelf name="childrens-books" count="222"/>
+      <shelf name="currently-reading" count="186"/>
+      <shelf name="kids-books" count="185"/>
+      <shelf name="alphabet" count="113"/>
+      <shelf name="picture-book" count="99"/>
+      <shelf name="abc-books" count="96"/>
+      <shelf name="fiction" count="94"/>
+      <shelf name="classics" count="80"/>
+      <shelf name="owned" count="76"/>
+      <shelf name="default" count="74"/>
+      <shelf name="childhood" count="70"/>
+      <shelf name="books-i-own" count="69"/>
+      <shelf name="board-books" count="49"/>
+      <shelf name="abc" count="47"/>
+      <shelf name="children-s-literature" count="46"/>
+      <shelf name="children-books" count="45"/>
+      <shelf name="poetry" count="45"/>
+      <shelf name="kid-books" count="44"/>
+      <shelf name="favorites" count="42"/>
+      <shelf name="alphabet-books" count="40"/>
+      <shelf name="children-s-lit" count="35"/>
+      <shelf name="owned-books" count="33"/>
+      <shelf name="childhood-books" count="33"/>
+      <shelf name="dr-suess" count="32"/>
+      <shelf name="humor" count="32"/>
+      <shelf name="fantasy" count="29"/>
+      <shelf name="rhyming" count="29"/>
+      <shelf name="picture" count="28"/>
+      <shelf name="childrens-lit" count="27"/>
+      <shelf name="children-s-picture-books" count="26"/>
+      <shelf name="classic" count="26"/>
+      <shelf name="seuss" count="25"/>
+      <shelf name="childhood-favorites" count="23"/>
+      <shelf name="childrens-picture-books" count="22"/>
+      <shelf name="juvenile" count="20"/>
+      <shelf name="easy-reader" count="20"/>
+      <shelf name="preschool" count="19"/>
+      <shelf name="baby-books" count="19"/>
+      <shelf name="children-s-book" count="19"/>
+      <shelf name="kid-s-books" count="18"/>
+      <shelf name="own-it" count="18"/>
+      <shelf name="board-book" count="17"/>
+      <shelf name="childrens-literature" count="17"/>
+      <shelf name="home-library" count="17"/>
+      <shelf name="kindergarten" count="16"/>
+      <shelf name="childhood-reads" count="16"/>
+      <shelf name="picturebooks" count="16"/>
+      <shelf name="my-library" count="15"/>
+      <shelf name="classroom-library" count="14"/>
+      <shelf name="early-readers" count="14"/>
+      <shelf name="baby" count="14"/>
+      <shelf name="school" count="14"/>
+      <shelf name="pre-k" count="14"/>
+      <shelf name="i-own" count="14"/>
+      <shelf name="childrens-book" count="14"/>
+      <shelf name="early-reader" count="14"/>
+      <shelf name="animals" count="13"/>
+      <shelf name="abc-s" count="13"/>
+      <shelf name="abcs" count="13"/>
+      <shelf name="alphabet-book" count="12"/>
+      <shelf name="ece-3601" count="12"/>
+      <shelf name="children-ya" count="12"/>
+      <shelf name="kiddos" count="12"/>
+      <shelf name="read-as-a-kid" count="12"/>
+      <shelf name="alliteration" count="11"/>
+      <shelf name="my-childhood" count="11"/>
+      <shelf name="childhood-memories" count="11"/>
+      <shelf name="rhyme" count="11"/>
+      <shelf name="read-aloud" count="11"/>
+      <shelf name="children-young-adult" count="11"/>
+      <shelf name="ch-04-alphabet" count="10"/>
+      <shelf name="library" count="10"/>
+      <shelf name="children-s-books-i-own" count="10"/>
+      <shelf name="beginning-readers" count="10"/>
+      <shelf name="storytime" count="10"/>
+      <shelf name="1000-books-before-kindergarten" count="9"/>
+      <shelf name="my-books" count="9"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="books-we-own" count="9"/>
+      <shelf name="educational" count="9"/>
+      <shelf name="children-read" count="9"/>
+      <shelf name="childrens-books-read" count="9"/>
+      <shelf name="classroom" count="8"/>
+      <shelf name="childrens-fiction" count="8"/>
+      <shelf name="read-with-kids" count="8"/>
+      <shelf name="early-childhood" count="8"/>
+      <shelf name="books" count="8"/>
+      <shelf name="children-s-read" count="8"/>
+      <shelf name="illustrated" count="8"/>
+      <shelf name="read-as-a-child" count="8"/>
+      <shelf name="for-the-kids" count="8"/>
+      <shelf name="read-to-kids" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>784650</id>
+<user_position></user_position>
+<series>
+<id>155592</id>
+<title>
+<![CDATA[
+    Bright and Early Board Books
+]]>
+</title>
+<description>
+<![CDATA[
+    Simple, Silly, Sturdy Books for Babies of All Ages! Random House
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>8</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>791259</id>
+<user_position>B-30</user_position>
+<series>
+<id>154936</id>
+<title>
+<![CDATA[
+    Beginner Books
+]]>
+</title>
+<description>
+<![CDATA[
+    beginner books copyright by Random House. (I can read it all by myself)
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>31</series_works_count>
+<primary_work_count>31</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>488874</id>
+<title>One, Two, Three!</title>
+<title_without_series>One, Two, Three!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/488874.One_Two_Three_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404579394s/488874.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404579394m/488874.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>477128</id>
+</work>
+<isbn>1563054442</isbn>
+<isbn13>9781563054440</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>2253</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>432437</id>
+<title>The Nose Book</title>
+<title_without_series>The Nose Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/432437.The_Nose_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>26</num_pages>
+<work>
+<id>421397</id>
+</work>
+<isbn>0375812121</isbn>
+<isbn13>9780375812125</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>3243</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>11094</id>
+<name>Al Perkins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11094.Al_Perkins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1244311</id>
+<title><![CDATA[It's Not Easy Being Big! (Bright & Early Books)]]></title>
+<title_without_series>It&apos;s Not Easy Being Big!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1244311.It_s_Not_Easy_Being_Big_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>1233023</id>
+</work>
+<isbn>0679888101</isbn>
+<isbn13>9780679888109</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>466</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>39010</id>
+<name>Stephanie St. Pierre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39010.Stephanie_St_Pierre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>141936</id>
+<title>A Treasury of Curious George</title>
+<title_without_series>A Treasury of Curious George</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/141936.A_Treasury_of_Curious_George]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>198</num_pages>
+<work>
+<id>136899</id>
+</work>
+<isbn>0618538224</isbn>
+<isbn13>9780618538225</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3642</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6608</id>
+<name>Margret Rey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6608.Margret_Rey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1416356</id>
+<title><![CDATA[On Beyond Bugs (Cat In The Hat's Learning Library)]]></title>
+<title_without_series>On Beyond Bugs</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1416356.On_Beyond_Bugs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408927253s/1416356.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408927253m/1416356.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>1406718</id>
+</work>
+<isbn>000711110X</isbn>
+<isbn13>9780007111107</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>356</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>80268</id>
+<name>Tish Rabe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80268.Tish_Rabe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>364063</id>
+<title>10 Little Rubber Ducks</title>
+<title_without_series>10 Little Rubber Ducks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/364063.10_Little_Rubber_Ducks]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>34</num_pages>
+<work>
+<id>1167145</id>
+</work>
+<isbn>0007202423</isbn>
+<isbn13>9780007202423</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>3945</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3362</id>
+<name>Eric Carle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3362.Eric_Carle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1232679</id>
+<title><![CDATA[The Berenstain Bears on the Moon (Bright & Early Books)]]></title>
+<title_without_series><![CDATA[The Berenstain Bears on the Moon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1232679.The_Berenstain_Bears_on_the_Moon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>1221282</id>
+</work>
+<isbn>0394871804</isbn>
+<isbn13>9780394871806</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>869</ratings_count>
+<publication_year>1985</publication_year>
+<publication_month>3</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>26886</id>
+<name>Stan Berenstain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26886.Stan_Berenstain]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>50140</id>
+  <title>Big Sur</title>
+  <isbn><![CDATA[0140168125]]></isbn>
+  <isbn13><![CDATA[9780140168129]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B007JZL7V0]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1428984256m/50140.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1428984256s/50140.jpg</small_image_url>
+  <publication_year>1992</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Penguin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["Each book by Jack Kerouac is unique, a telepathic diamond. With prose set in the middle of his mind, he reveals consciousness itself in all its syntactic elaboration, detailing the luminous emptiness of his own paranoiac confusion. Such rich natural writing is nonpareil in later half XX century, a synthesis of Proust, Céline, Thomas Wolfe, Hemingway, Genet, Thelonius Monk, Basho, Charlie Parker &amp; Kerouac's own athletic sacred insight. <br /><br />"<i>Big Sur</i>'s humane, precise account of the extraordinary ravages of alcohol delirium tremens on Kerouac, a superior novelist who had strength to complete his poetic narrative, a task few scribes so afflicted have accomplished—others crack up. Here we meet San Francisco's poets &amp; recognize hero Dean Moriarty ten years after <i>On the Road</i>. Jack Kerouac was a 'writer,' as his great peer W.S. Burroughs says, and here at the peak of his suffering humorous genius he wrote through his misery to end with 'Sea,' a brilliant poem appended, on the hallucinatory Sounds of the Pacific Ocean at Big Sur."—Allen Ginsberg 10/10/91 N.Y.C.]]></description>
+  <work>
+  <id type="integer">92349</id>
+  <books_count type="integer">62</books_count>
+  <best_book_id type="integer">50140</best_book_id>
+  <reviews_count type="integer">42647</reviews_count>
+  <ratings_sum type="integer">89695</ratings_sum>
+  <ratings_count type="integer">23242</ratings_count>
+  <text_reviews_count type="integer">867</text_reviews_count>
+  <original_publication_year type="integer">1962</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Big Sur</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6575|4:8838|3:6131|2:1377|1:321|total:23242</rating_dist>
+  <desc_user_id type="integer">3789615</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.86</average_rating>
+  <num_pages><![CDATA[256]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21895]]></ratings_count>
+  <text_reviews_count><![CDATA[734]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/50140.Big_Sur]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/50140.Big_Sur]]></link>
+  <authors>
+<author>
+<id>1742</id>
+<name>Jack Kerouac</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430512644p5/1742.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430512644p2/1742.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1742.Jack_Kerouac]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>472752</ratings_count>
+<text_reviews_count>19782</text_reviews_count>
+</author>
+<author>
+<id>15929</id>
+<name>Aram Saroyan</name>
+<role>Foreword</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207407540p5/15929.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207407540p2/15929.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15929.Aram_Saroyan]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>27149</ratings_count>
+<text_reviews_count>1048</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/50140.Big_Sur">Big Sur Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140168125&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/50140.Big_Sur?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4758"/>
+      <shelf name="favorites" count="206"/>
+      <shelf name="currently-reading" count="141"/>
+      <shelf name="classics" count="116"/>
+      <shelf name="beat" count="112"/>
+      <shelf name="fiction" count="74"/>
+      <shelf name="beat-generation" count="60"/>
+      <shelf name="owned" count="58"/>
+      <shelf name="beats" count="57"/>
+      <shelf name="novels" count="47"/>
+      <shelf name="books-i-own" count="42"/>
+      <shelf name="kerouac" count="32"/>
+      <shelf name="american-literature" count="30"/>
+      <shelf name="default" count="29"/>
+      <shelf name="non-fiction" count="29"/>
+      <shelf name="to-buy" count="28"/>
+      <shelf name="travel" count="27"/>
+      <shelf name="jack-kerouac" count="26"/>
+      <shelf name="memoir" count="26"/>
+      <shelf name="owned-books" count="20"/>
+      <shelf name="20th-century" count="19"/>
+      <shelf name="california" count="19"/>
+      <shelf name="classic" count="19"/>
+      <shelf name="novel" count="18"/>
+      <shelf name="the-beats" count="17"/>
+      <shelf name="2015-2" count="16"/>
+      <shelf name="beatnik" count="16"/>
+      <shelf name="literary-fiction" count="15"/>
+      <shelf name="modern-classics" count="14"/>
+      <shelf name="american-lit" count="13"/>
+      <shelf name="usa" count="13"/>
+      <shelf name="general-fiction" count="13"/>
+      <shelf name="library" count="12"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="1960s" count="12"/>
+      <shelf name="beat-lit" count="11"/>
+      <shelf name="america" count="11"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="generation" count="10"/>
+      <shelf name="americana" count="10"/>
+      <shelf name="audible" count="9"/>
+      <shelf name="contemporary" count="9"/>
+      <shelf name="audiobooks" count="9"/>
+      <shelf name="american" count="8"/>
+      <shelf name="american-fiction" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="english" count="8"/>
+      <shelf name="adventure" count="8"/>
+      <shelf name="poetry" count="8"/>
+      <shelf name="lit" count="8"/>
+      <shelf name="alcoholism" count="8"/>
+      <shelf name="read-in-2017" count="7"/>
+      <shelf name="own-to-read" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="beatniks" count="7"/>
+      <shelf name="audiobook" count="7"/>
+      <shelf name="collection" count="7"/>
+      <shelf name="autobiographical-fiction" count="7"/>
+      <shelf name="beat-literature" count="7"/>
+      <shelf name="nonfiction" count="7"/>
+      <shelf name="literature" count="6"/>
+      <shelf name="my-bookshelf" count="6"/>
+      <shelf name="bookshelf" count="6"/>
+      <shelf name="audio" count="6"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="classics-to-read" count="6"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="reread" count="6"/>
+      <shelf name="literary" count="6"/>
+      <shelf name="favorite-authors" count="6"/>
+      <shelf name="favorite" count="6"/>
+      <shelf name="biographical" count="6"/>
+      <shelf name="autobiography" count="6"/>
+      <shelf name="unfinished" count="5"/>
+      <shelf name="read-in-2015" count="5"/>
+      <shelf name="own-but-not-read" count="5"/>
+      <shelf name="to-get" count="5"/>
+      <shelf name="on-the-shelf" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="20th-century-fiction" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="books-owned" count="5"/>
+      <shelf name="beat-books" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="half-read" count="5"/>
+      <shelf name="completed" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="memoirs" count="5"/>
+      <shelf name="nature" count="5"/>
+      <shelf name="classic-literature" count="5"/>
+      <shelf name="stream-of-consciousness" count="4"/>
+      <shelf name="tbr-owned" count="4"/>
+      <shelf name="because-2" count="4"/>
+      <shelf name="on-hold" count="4"/>
+      <shelf name="penguin-2" count="4"/>
+      <shelf name="birds-of-a-feather-2" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="bought" count="4"/>
+      <shelf name="my-collection" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>291677</id>
+<user_position></user_position>
+<series>
+<id>66197</id>
+<title>
+<![CDATA[
+    Duluoz Legend
+]]>
+</title>
+<description>
+<![CDATA[
+    Kerouac's vast array of travel writings, comprising one vast Proust-like book, as he described.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>29</series_works_count>
+<primary_work_count>14</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>144407</id>
+<title><![CDATA[First Third & Other Writings - Revised & Expanded Edition Together With A New Prologue]]></title>
+<title_without_series><![CDATA[First Third & Other Writings - Revised & Expanded Edition Together With A New Prologue]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/144407.First_Third_Other_Writings_Revised_Expanded_Edition_Together_With_A_New_Prologue]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328774769s/144407.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328774769m/144407.jpg]]></image_url>
+<num_pages>222</num_pages>
+<work>
+<id>139329</id>
+</work>
+<isbn>0872860051</isbn>
+<isbn13>9780872860056</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>2309</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>79334</id>
+<name>Neal Cassady</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79334.Neal_Cassady]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>175297</id>
+<title><![CDATA[Off the Road: My Years with Cassady, Kerouac, and Ginsberg]]></title>
+<title_without_series><![CDATA[Off the Road: My Years with Cassady, Kerouac, and Ginsberg]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/175297.Off_the_Road]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>169342</id>
+</work>
+<isbn>014015390X</isbn>
+<isbn13>9780140153903</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1983</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>32600</id>
+<name>Carolyn Cassady</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32600.Carolyn_Cassady]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>260785</id>
+<title>Go</title>
+<title_without_series>Go</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/260785.Go]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335536844s/260785.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335536844m/260785.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>817338</id>
+</work>
+<isbn>0141188391</isbn>
+<isbn13>9780141188393</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1347</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>46520</id>
+<name>John Clellon Holmes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46520.John_Clellon_Holmes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>164274</id>
+<title><![CDATA[Jack Kerouac: Angelheaded Hipster]]></title>
+<title_without_series><![CDATA[Jack Kerouac: Angelheaded Hipster]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164274.Jack_Kerouac]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>158592</id>
+</work>
+<isbn>0670870382</isbn>
+<isbn13>9780670870387</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>372</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12836</id>
+<name>Steve Turner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12836.Steve_Turner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>50139</id>
+<title>Kerouac: A Biography</title>
+<title_without_series>Kerouac: A Biography</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/50139.Kerouac]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>2229112</id>
+</work>
+<isbn>0312113471</isbn>
+<isbn13>9780312113476</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1289</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>13460</id>
+<name>Ann Charters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13460.Ann_Charters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47180</id>
+<title>Kaddish and Other Poems</title>
+<title_without_series>Kaddish and Other Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47180.Kaddish_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327958040s/47180.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327958040m/47180.jpg]]></image_url>
+<num_pages>99</num_pages>
+<work>
+<id>46227</id>
+</work>
+<isbn>0872860191</isbn>
+<isbn13>9780872860193</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>7728</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4261</id>
+<name>Allen Ginsberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4261.Allen_Ginsberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23930</id>
+<title>The Wild Boys</title>
+<title_without_series>The Wild Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23930.The_Wild_Boys]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>193</num_pages>
+<work>
+<id>3238654</id>
+</work>
+<isbn>0802133312</isbn>
+<isbn13>9780802133311</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>2827</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4462369</id>
+<name>William S. Burroughs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4462369.William_S_Burroughs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>276891</id>
+<title>Memoirs of a Beatnik</title>
+<title_without_series>Memoirs of a Beatnik</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/276891.Memoirs_of_a_Beatnik]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378101347s/276891.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378101347m/276891.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>268524</id>
+</work>
+<isbn>0140235396</isbn>
+<isbn13>9780140235395</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>2270</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3138026</id>
+<name>Diane di Prima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3138026.Diane_di_Prima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94945</id>
+<title><![CDATA[Minor Characters: A Beat Memoir]]></title>
+<title_without_series><![CDATA[Minor Characters: A Beat Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94945.Minor_Characters]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309211830s/94945.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309211830m/94945.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1694970</id>
+</work>
+<isbn>0140283579</isbn>
+<isbn13>9780140283570</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>1606</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6885</id>
+<name>Joyce Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6885.Joyce_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7761566</id>
+<title><![CDATA[The Typewriter Is Holy: The Complete, Uncensored History of the Beat Generation]]></title>
+<title_without_series><![CDATA[The Typewriter Is Holy: The Complete, Uncensored History of the Beat Generation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7761566-the-typewriter-is-holy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10629216</id>
+</work>
+<isbn>1416592423</isbn>
+<isbn13>9781416592426</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>374</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>46566</id>
+<name>Bill Morgan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46566.Bill_Morgan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>458787</id>
+<title><![CDATA[Women of the Beat Generation: The Writers, Artists and Muses at the Heart of a Revolution]]></title>
+<title_without_series><![CDATA[Women of the Beat Generation: The Writers, Artists and Muses at the Heart of a Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/458787.Women_of_the_Beat_Generation]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>939550</id>
+</work>
+<isbn>1567312969</isbn>
+<isbn13>9781567312966</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1001</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3486</id>
+<name>Brenda Knight</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3486.Brenda_Knight]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>303525</id>
+<title><![CDATA[Gasoline & The Vestal Lady on Brattle]]></title>
+<title_without_series><![CDATA[Gasoline & The Vestal Lady on Brattle]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/303525.Gasoline_The_Vestal_Lady_on_Brattle]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366073187s/303525.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366073187m/303525.jpg]]></image_url>
+<num_pages>105</num_pages>
+<work>
+<id>2686941</id>
+</work>
+<isbn>0872860884</isbn>
+<isbn13>9780872860889</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1121</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>150560</id>
+<name>Gregory Corso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150560.Gregory_Corso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114635</id>
+<title><![CDATA[Memory Babe: A Critical Biography of Jack Kerouac]]></title>
+<title_without_series><![CDATA[Memory Babe: A Critical Biography of Jack Kerouac]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114635.Memory_Babe]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>767</num_pages>
+<work>
+<id>110380</id>
+</work>
+<isbn>0520085698</isbn>
+<isbn13>9780520085695</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>706</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>2</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>13542</id>
+<name>Gerald Nicosia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13542.Gerald_Nicosia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>587925</id>
+<title><![CDATA[Why Kerouac Matters: The Lessons of On the Road (They're Not What You Think)]]></title>
+<title_without_series><![CDATA[Why Kerouac Matters: The Lessons of On the Road]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/587925.Why_Kerouac_Matters]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>574734</id>
+</work>
+<isbn>0670063258</isbn>
+<isbn13>9780670063253</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>274</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9828556</id>
+<name>John  Leland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9828556.John_Leland]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

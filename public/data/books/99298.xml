@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>99298</id>
+  <title><![CDATA[The Harry Potter Collection 1-4 (Harry Potter, #1-4)]]></title>
+  <isbn><![CDATA[0439249546]]></isbn>
+  <isbn13><![CDATA[9780439249546]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Scholastic, Inc.</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">5994366</id>
+  <books_count type="integer">17</books_count>
+  <best_book_id type="integer">99298</best_book_id>
+  <reviews_count type="integer">51064</reviews_count>
+  <ratings_sum type="integer">208925</ratings_sum>
+  <ratings_count type="integer">44861</ratings_count>
+  <text_reviews_count type="integer">266</text_reviews_count>
+  <original_publication_year type="integer">1999</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Harry Potter Boxed Set Books 1-4</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:33597|4:8186|3:2347|2:424|1:307|total:44861</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.66</average_rating>
+  <num_pages><![CDATA[1500]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[43947]]></ratings_count>
+  <text_reviews_count><![CDATA[230]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/99298.The_Harry_Potter_Collection_1_4]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/99298.The_Harry_Potter_Collection_1_4]]></link>
+  <authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.43</average_rating>
+<ratings_count>18039986</ratings_count>
+<text_reviews_count>434730</text_reviews_count>
+</author>
+<author>
+<id>2927</id>
+<name>Mary GrandPré</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1395344820p5/2927.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1395344820p2/2927.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2927.Mary_GrandPr_]]></link>
+<average_rating>4.53</average_rating>
+<ratings_count>9003590</ratings_count>
+<text_reviews_count>155274</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/99298.The_Harry_Potter_Collection_1_4">The Harry Potter Collection 1-4 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0439249546&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/99298.The_Harry_Potter_Collection_1_4?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1341"/>
+      <shelf name="fantasy" count="256"/>
+      <shelf name="favorites" count="253"/>
+      <shelf name="currently-reading" count="132"/>
+      <shelf name="harry-potter" count="66"/>
+      <shelf name="fiction" count="61"/>
+      <shelf name="ya" count="38"/>
+      <shelf name="owned" count="37"/>
+      <shelf name="magic" count="23"/>
+      <shelf name="series" count="21"/>
+      <shelf name="adventure" count="16"/>
+      <shelf name="children" count="15"/>
+      <shelf name="childrens" count="15"/>
+      <shelf name="children-s" count="11"/>
+      <shelf name="owned-books" count="11"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="favorite-books" count="10"/>
+      <shelf name="childhood" count="9"/>
+      <shelf name="favourites" count="9"/>
+      <shelf name="favorite" count="9"/>
+      <shelf name="children-s-books" count="8"/>
+      <shelf name="j-k-rowling" count="8"/>
+      <shelf name="kids" count="8"/>
+      <shelf name="classics" count="8"/>
+      <shelf name="sci-fi-fantasy" count="8"/>
+      <shelf name="default" count="7"/>
+      <shelf name="books" count="7"/>
+      <shelf name="i-own" count="7"/>
+      <shelf name="novels" count="7"/>
+      <shelf name="re-read" count="7"/>
+      <shelf name="harry-potter-series" count="6"/>
+      <shelf name="shelfari-favorites" count="5"/>
+      <shelf name="fantasy-sci-fi" count="5"/>
+      <shelf name="witches" count="5"/>
+      <shelf name="read-more-than-once" count="5"/>
+      <shelf name="supernatural" count="5"/>
+      <shelf name="young-adult" count="4"/>
+      <shelf name="books-i-own" count="4"/>
+      <shelf name="movie" count="4"/>
+      <shelf name="not-interested" count="4"/>
+      <shelf name="middle-school" count="4"/>
+      <shelf name="middle-grade" count="4"/>
+      <shelf name="teen" count="4"/>
+      <shelf name="5-star" count="4"/>
+      <shelf name="youth" count="4"/>
+      <shelf name="harry" count="4"/>
+      <shelf name="my-favourites" count="3"/>
+      <shelf name="jk-rowling" count="3"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="fantasy-read" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="urban-fantasy" count="3"/>
+      <shelf name="ya-fantasy" count="3"/>
+      <shelf name="literature" count="3"/>
+      <shelf name="hp" count="3"/>
+      <shelf name="all-time-favorites" count="3"/>
+      <shelf name="classic" count="3"/>
+      <shelf name="fantasy-fiction" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="5-stars" count="3"/>
+      <shelf name="scifi-fantasy" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="modern-fantasy" count="3"/>
+      <shelf name="good-books" count="3"/>
+      <shelf name="coming-of-age" count="3"/>
+      <shelf name="paranormal" count="3"/>
+      <shelf name="favourite" count="3"/>
+      <shelf name="young-adults" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="children-s-literature" count="3"/>
+      <shelf name="fantasy-scifi" count="3"/>
+      <shelf name="british" count="3"/>
+      <shelf name="bookshelves" count="2"/>
+      <shelf name="completed-series" count="2"/>
+      <shelf name="fantastique" count="2"/>
+      <shelf name="watched-its-movie" count="2"/>
+      <shelf name="reread" count="2"/>
+      <shelf name="fantasy-and-sci-fi" count="2"/>
+      <shelf name="challenge" count="2"/>
+      <shelf name="favs" count="2"/>
+      <shelf name="young-readers" count="2"/>
+      <shelf name="favourite-series" count="2"/>
+      <shelf name="2015-reads" count="2"/>
+      <shelf name="children-s-lit" count="2"/>
+      <shelf name="ebook" count="2"/>
+      <shelf name="books-i-love" count="2"/>
+      <shelf name="childhood-books" count="2"/>
+      <shelf name="mine" count="2"/>
+      <shelf name="bookshelf" count="2"/>
+      <shelf name="chapter-books" count="2"/>
+      <shelf name="child" count="2"/>
+      <shelf name="finished-series" count="2"/>
+      <shelf name="juvenile-fiction" count="2"/>
+      <shelf name="currently-own" count="2"/>
+      <shelf name="finished" count="2"/>
+      <shelf name="read-again" count="2"/>
+      <shelf name="fantacy" count="2"/>
+      <shelf name="tween" count="2"/>
+      <shelf name="science-fiction-fantasy" count="2"/>
+      <shelf name="epic" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>1040116</id>
+<user_position>1-4</user_position>
+<series>
+<id>45175</id>
+<title>
+<![CDATA[
+    Harry Potter
+]]>
+</title>
+<description>
+<![CDATA[
+    Orphan Harry learns he is a wizard on his 11th birthday when Hagrid escorts him to magic-teaching Hogwarts School. As a baby, his mother's love protected him and vanquished the villain Voldemort, leaving the child famous as "The Boy who Lived". With his friends Hermione and Ron, Harry has to defeat the returned "One Who Must Not Be Named".
+]]>
+</description>
+<note>
+<![CDATA[
+    Cursed Child is NOT a Primary Work. Boxsets ARE part of the series. However, the mini-shorts are NOT books by Goodreads standards, and should neither be added to this series nor to the database.
+]]>
+</note>
+<series_works_count>13</series_works_count>
+<primary_work_count>8</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>2223324</id>
+<title><![CDATA[Harry Potter and the Chamber of Secrets: Sheet Music for Flute with C.D]]></title>
+<title_without_series><![CDATA[Harry Potter and the Chamber of Secrets: Sheet Music for Flute with C.D]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2223324.Harry_Potter_and_the_Chamber_of_Secrets]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>498223</id>
+</work>
+<isbn>075791084X</isbn>
+<isbn13>9780757910845</isbn13>
+<average_rating>4.61</average_rating>
+<ratings_count>29437</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>616</id>
+<name>John   Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/616.John_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13350</id>
+<title><![CDATA[Eragon & Eldest (Inheritance, #1-2)]]></title>
+<title_without_series>Eragon &amp; Eldest</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13350.Eragon_Eldest]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>836044</id>
+</work>
+<isbn>0375836586</isbn>
+<isbn13>9780375836589</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>21825</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8349</id>
+<name>Christopher Paolini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2358870</id>
+<title><![CDATA[Artemis Fowl Boxed Set, Bks 1-5 (Artemis Fowl, #1-5)]]></title>
+<title_without_series><![CDATA[Artemis Fowl Boxed Set, Bks 1-5]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2358870.Artemis_Fowl_Boxed_Set_Bks_1_5]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1279206196s/2358870.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1279206196m/2358870.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>37441</id>
+</work>
+<isbn>0545010098</isbn>
+<isbn13>9780545010092</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>10947</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10896</id>
+<name>Eoin Colfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10896.Eoin_Colfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3165162</id>
+<title><![CDATA[Percy Jackson and the Olympians (Percy Jackson and the Olympians, #1-3)]]></title>
+<title_without_series><![CDATA[Percy Jackson and the Olympians]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3165162-percy-jackson-and-the-olympians]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1032</num_pages>
+<work>
+<id>3197005</id>
+</work>
+<isbn>1423113497</isbn>
+<isbn13>9781423113492</isbn13>
+<average_rating>4.58</average_rating>
+<ratings_count>33055</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7619</id>
+<title><![CDATA[The Time Quartet Box Set (Time Quartet, #1-4)]]></title>
+<title_without_series>The Time Quartet Box Set</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7619.The_Time_Quartet_Box_Set]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1575871</id>
+</work>
+<isbn>0440360374</isbn>
+<isbn13>9780440360377</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>10669</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>106</id>
+<name>Madeleine L&apos;Engle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/106.Madeleine_L_Engle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3218719</id>
+<title><![CDATA[The Ruins of Gorlan / The Burning Bridge / The Icebound Land (Ranger's Apprentice #1-3)]]></title>
+<title_without_series><![CDATA[The Ruins of Gorlan / The Burning Bridge / The Icebound Land]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3218719-the-ruins-of-gorlan-the-burning-bridge-the-icebound-land]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421708528s/3218719.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421708528m/3218719.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6627901</id>
+</work>
+<isbn>0142411736</isbn>
+<isbn13>9780142411735</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>9207</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>34049</id>
+<name>John Flanagan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34049.John_Flanagan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3334563</id>
+<title><![CDATA[The Inkheart Trilogy: Inkheart, Inkspell, Inkdeath (Inkworld, #1-3)]]></title>
+<title_without_series><![CDATA[The Inkheart Trilogy: Inkheart, Inkspell, Inkdeath]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3334563-the-inkheart-trilogy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1346484626s/3334563.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1346484626m/3334563.jpg]]></image_url>
+<num_pages>1152</num_pages>
+<work>
+<id>6874450</id>
+</work>
+<isbn>1905294964</isbn>
+<isbn13>9781905294961</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>15223</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>15873</id>
+<name>Cornelia Funke</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15873.Cornelia_Funke]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7294912</id>
+<title>Maximum Ride Five-Book Set</title>
+<title_without_series>Maximum Ride Five-Book Set</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7294912-maximum-ride-five-book-set]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1250</num_pages>
+<work>
+<id>17027114</id>
+</work>
+<isbn>0316098744</isbn>
+<isbn13>9780316098748</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>6553</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3780</id>
+<name>James Patterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3780.James_Patterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4632329</id>
+<title><![CDATA[The Travelers: Book Two (Pendragon: Before the War, #2)]]></title>
+<title_without_series>The Travelers: Book Two</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4632329-the-travelers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>233</num_pages>
+<work>
+<id>4682406</id>
+</work>
+<isbn>1416965238</isbn>
+<isbn13>9781416965237</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>4986</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>168844</id>
+<name>Walter Sorrells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/168844.Walter_Sorrells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6520659</id>
+<title><![CDATA[Fablehaven; Rise of the Evening Star; Grip of the Shadow Plague (Fablehaven, #1-3)]]></title>
+<title_without_series><![CDATA[Fablehaven; Rise of the Evening Star; Grip of the Shadow Plague]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6520659-fablehaven-rise-of-the-evening-star-grip-of-the-shadow-plague]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1328</num_pages>
+<work>
+<id>6712537</id>
+</work>
+<isbn>1416999647</isbn>
+<isbn13>9781416999645</isbn13>
+<average_rating>4.58</average_rating>
+<ratings_count>2254</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>25052</id>
+<name>Brandon Mull</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25052.Brandon_Mull]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3298790</id>
+<title><![CDATA[Prince Caspian/The Voyage of the Dawn Treader/The Silver Chair (The Chronicles of Narnia Book 2, 3, 4)]]></title>
+<title_without_series><![CDATA[Prince Caspian/The Voyage of the Dawn Treader/The Silver Chair]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3298790-prince-caspian-the-voyage-of-the-dawn-treader-the-silver-chair]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>650</num_pages>
+<work>
+<id>12614436</id>
+</work>
+<isbn>0545078326</isbn>
+<isbn13>9780545078320</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>364</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1069006</id>
+<name>C.S. Lewis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3002366</id>
+<title><![CDATA[The Travelers (Pendragon: Before the War, #1)]]></title>
+<title_without_series>The Travelers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3002366-the-travelers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>3032860</id>
+</work>
+<isbn>141696522X</isbn>
+<isbn13>9781416965220</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>9751</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>53062</id>
+<name>Carla Jablonski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53062.Carla_Jablonski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>50972</id>
+<title><![CDATA[New Clues to Harry Potter Book 5: Hints from the Ultimate Unofficial Guide to the Mysteries of Harry Potter]]></title>
+<title_without_series><![CDATA[New Clues to Harry Potter Book 5: Hints from the Ultimate Unofficial Guide to the Mysteries of Harry Potter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/50972.New_Clues_to_Harry_Potter_Book_5]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>166</num_pages>
+<work>
+<id>49760</id>
+</work>
+<isbn>0972393625</isbn>
+<isbn13>9780972393621</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>680</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9830</id>
+<name>Galadriel Waters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9830.Galadriel_Waters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>998693</id>
+<title><![CDATA[A Series of Unfortunate Events Pack (Books 1-4) (Series of Unfortunate Events, Books 1-4)]]></title>
+<title_without_series><![CDATA[A Series of Unfortunate Events Pack (Books 1-4)]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/998693.A_Series_of_Unfortunate_Events_Pack_Books_1_4_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6630853</id>
+</work>
+<isbn>0439522102</isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2081</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>36746</id>
+<name>Lemony Snicket</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36746.Lemony_Snicket]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59268</id>
+<title><![CDATA[The Bartimaeus Trilogy Boxed Set (Bartimaeus, #1-3)]]></title>
+<title_without_series><![CDATA[The Bartimaeus Trilogy Boxed Set]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59268.The_Bartimaeus_Trilogy_Boxed_Set]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1552</num_pages>
+<work>
+<id>10452429</id>
+</work>
+<isbn>142310420X</isbn>
+<isbn13>9781423104209</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>4850</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>33467</id>
+<name>Jonathan Stroud</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33467.Jonathan_Stroud]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30</id>
+<title><![CDATA[J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings]]></title>
+<title_without_series><![CDATA[J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1346072396s/30.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1346072396m/30.jpg]]></image_url>
+<num_pages>1728</num_pages>
+<work>
+<id>89369</id>
+</work>
+<isbn>0345538374</isbn>
+<isbn13>9780345538376</isbn13>
+<average_rating>4.59</average_rating>
+<ratings_count>94385</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47615</id>
+<title><![CDATA[The Abhorsen Trilogy Box Set (Abhorsen, #1-3)]]></title>
+<title_without_series>The Abhorsen Trilogy Box Set</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47615.The_Abhorsen_Trilogy_Box_Set]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407105785s/47615.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407105785m/47615.jpg]]></image_url>
+<num_pages>850</num_pages>
+<work>
+<id>863</id>
+</work>
+<isbn>0060734191</isbn>
+<isbn13>9780060734190</isbn13>
+<average_rating>4.52</average_rating>
+<ratings_count>7931</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>8347</id>
+<name>Garth Nix</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8347.Garth_Nix]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14367051</id>
+<title><![CDATA[City of Bones / City of Ashes / City of Glass / City of Fallen Angels / City of Lost Souls (The Mortal Instruments, #1-5)]]></title>
+<title_without_series><![CDATA[City of Bones / City of Ashes / City of Glass / City of Fallen Angels / City of Lost Souls]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14367051-city-of-bones-city-of-ashes-city-of-glass-city-of-fallen-angels]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344663518s/14367051.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344663518m/14367051.jpg]]></image_url>
+<num_pages>2496</num_pages>
+<work>
+<id>20009001</id>
+</work>
+<isbn>1442472057</isbn>
+<isbn13>9781442472051</isbn13>
+<average_rating>4.59</average_rating>
+<ratings_count>11493</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7707</id>
+  <title>Pygmalion &amp; My Fair Lady</title>
+  <isbn><![CDATA[0451530098]]></isbn>
+  <isbn13><![CDATA[9780451530097]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00JVXYTSQ]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1327891970m/7707.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327891970s/7707.jpg</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>7</publication_day>
+  <publisher>Signet</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The ancient Greeks tell the legend of the sculptor Pygmalion, who created a statue of a woman of such surpassing beauty that he fell in love with his own creation. Then, Aphrodite, taking pity on this man whose love could not reach beyond the barrier of stone, brought the statue to life and gave her to Pygmalion as his bride. Centuries later, George Bernard Shaw captured the magic of this legend in his celebrated romantic play, <b>Pygmalion</b>. Pygmalion became Henry Higgins, a professor of phonetics, his statue an untutored flower girl from the streets of London, and the barrier between them the difference in their stations in life.<br /><br />In <b>My Fair Lady</b>, Alan Jay Lerner takes the legend one step further—the barrier is swept away and Higgins and Eliza are reunited as the curtain falls on one of the loveliest musical plays of our time—winning seven Tonys® for its original Broadway production, and seven Oscars® for its film adaptation.]]></description>
+  <work>
+  <id type="integer">1701532</id>
+  <books_count type="integer">13</books_count>
+  <best_book_id type="integer">7707</best_book_id>
+  <reviews_count type="integer">15886</reviews_count>
+  <ratings_sum type="integer">57158</ratings_sum>
+  <ratings_count type="integer">13470</ratings_count>
+  <text_reviews_count type="integer">63</text_reviews_count>
+  <original_publication_year type="integer">1956</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Pygmalion and My Fair Lady (50th Anniversary Edition) (Signet Classics (Paperback))</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6584|4:4226|3:2147|2:380|1:133|total:13470</rating_dist>
+  <desc_user_id type="integer">-44</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.24</average_rating>
+  <num_pages><![CDATA[240]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13328]]></ratings_count>
+  <text_reviews_count><![CDATA[49]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7707.Pygmalion_My_Fair_Lady]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7707.Pygmalion_My_Fair_Lady]]></link>
+  <authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p5/5217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1271683549p2/5217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>143303</ratings_count>
+<text_reviews_count>3832</text_reviews_count>
+</author>
+<author>
+<id>5221</id>
+<name>Alan Jay Lerner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1315309343p5/5221.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1315309343p2/5221.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5221.Alan_Jay_Lerner]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>18099</ratings_count>
+<text_reviews_count>165</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7707.Pygmalion_My_Fair_Lady">Pygmalion &amp;amp; My Fair Lady Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451530098&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7707.Pygmalion_My_Fair_Lady?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2166"/>
+      <shelf name="plays" count="108"/>
+      <shelf name="classics" count="84"/>
+      <shelf name="fiction" count="28"/>
+      <shelf name="drama" count="26"/>
+      <shelf name="classic" count="23"/>
+      <shelf name="play" count="20"/>
+      <shelf name="theatre" count="19"/>
+      <shelf name="owned" count="16"/>
+      <shelf name="currently-reading" count="14"/>
+      <shelf name="favorites" count="13"/>
+      <shelf name="romance" count="10"/>
+      <shelf name="literature" count="9"/>
+      <shelf name="books-i-own" count="8"/>
+      <shelf name="historical-fiction" count="8"/>
+      <shelf name="theater" count="6"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="music" count="5"/>
+      <shelf name="musicals" count="4"/>
+      <shelf name="default" count="4"/>
+      <shelf name="comedy" count="4"/>
+      <shelf name="home-library" count="3"/>
+      <shelf name="book-club" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="plays-and-musicals" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="romantic" count="3"/>
+      <shelf name="british" count="3"/>
+      <shelf name="my-library" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="to-read-classics" count="2"/>
+      <shelf name="to-read-plays" count="2"/>
+      <shelf name="uk" count="2"/>
+      <shelf name="read-in-school" count="2"/>
+      <shelf name="movies" count="2"/>
+      <shelf name="humorous" count="2"/>
+      <shelf name="scripts" count="2"/>
+      <shelf name="british-lit" count="2"/>
+      <shelf name="20th-century" count="2"/>
+      <shelf name="the-theatre" count="2"/>
+      <shelf name="classics-read" count="2"/>
+      <shelf name="movie" count="2"/>
+      <shelf name="for-school" count="2"/>
+      <shelf name="play-scripts" count="2"/>
+      <shelf name="historical" count="2"/>
+      <shelf name="british-literature" count="2"/>
+      <shelf name="for-class" count="2"/>
+      <shelf name="own-to-read" count="2"/>
+      <shelf name="adult" count="2"/>
+      <shelf name="seen-film-tv-show" count="1"/>
+      <shelf name="to-read-but-own" count="1"/>
+      <shelf name="more-favs-but-less-all-time" count="1"/>
+      <shelf name="things-i-own" count="1"/>
+      <shelf name="ireland" count="1"/>
+      <shelf name="literary-fiction" count="1"/>
+      <shelf name="mv" count="1"/>
+      <shelf name="drawing-room-commentaries" count="1"/>
+      <shelf name="stand-alones" count="1"/>
+      <shelf name="nobel-prize-in-literature" count="1"/>
+      <shelf name="never-again" count="1"/>
+      <shelf name="to-librovox" count="1"/>
+      <shelf name="strong-female-character-s" count="1"/>
+      <shelf name="filmed" count="1"/>
+      <shelf name="fic-romance-het" count="1"/>
+      <shelf name="fic-playscript" count="1"/>
+      <shelf name="fic-historical" count="1"/>
+      <shelf name="short-stories-2" count="1"/>
+      <shelf name="saved-for-later" count="1"/>
+      <shelf name="poetry-essays-plays" count="1"/>
+      <shelf name="other" count="1"/>
+      <shelf name="british-isles-wish" count="1"/>
+      <shelf name="to-read-2017" count="1"/>
+      <shelf name="fiction-novels-etc" count="1"/>
+      <shelf name="5-stars" count="1"/>
+      <shelf name="300" count="1"/>
+      <shelf name="stage-screen" count="1"/>
+      <shelf name="non-fic" count="1"/>
+      <shelf name="study-built-in" count="1"/>
+      <shelf name="fiction-tr" count="1"/>
+      <shelf name="before-2017" count="1"/>
+      <shelf name="كتب-ينصح-بها-من-كتاب-الطفل-الذكي" count="1"/>
+      <shelf name="2017-goal" count="1"/>
+      <shelf name="will-read-eventually" count="1"/>
+      <shelf name="books-i-want" count="1"/>
+      <shelf name="playscripts" count="1"/>
+      <shelf name="world-lit" count="1"/>
+      <shelf name="great-books" count="1"/>
+      <shelf name="fa-theatre" count="1"/>
+      <shelf name="fa-music" count="1"/>
+      <shelf name="2017-to-read-list" count="1"/>
+      <shelf name="whs" count="1"/>
+      <shelf name="new" count="1"/>
+      <shelf name="humanities" count="1"/>
+      <shelf name="wish-list" count="1"/>
+      <shelf name="bookclub" count="1"/>
+      <shelf name="822-british-literature-drama" count="1"/>
+      <shelf name="high-school-reading" count="1"/>
+      <shelf name="scripts-plays" count="1"/>
+      <shelf name="love" count="1"/>
+      <shelf name="tommy-s" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>918789</id>
+<title>West Side Story</title>
+<title_without_series>West Side Story</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/918789.West_Side_Story]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350302485s/918789.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350302485m/918789.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>956435</id>
+</work>
+<isbn>0671725661</isbn>
+<isbn13>9780671725662</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>16673</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>4</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>41908</id>
+<name>Irving Shulman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41908.Irving_Shulman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294951</id>
+<title>Fiddler on the Roof</title>
+<title_without_series>Fiddler on the Roof</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294951.Fiddler_on_the_Roof]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>286201</id>
+</work>
+<isbn>0879101369</isbn>
+<isbn13>9780879101367</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>14146</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>170274</id>
+<name>Joseph Stein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/170274.Joseph_Stein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>317056</id>
+<title>Harvey</title>
+<title_without_series>Harvey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/317056.Harvey]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>307876</id>
+</work>
+<isbn>0822205009</isbn>
+<isbn13>9780822205005</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>7768</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>89440</id>
+<name>Mary Chase</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89440.Mary_Chase]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>588020</id>
+<title>The Man Who Came to Dinner</title>
+<title_without_series>The Man Who Came to Dinner</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/588020.The_Man_Who_Came_to_Dinner]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>574828</id>
+</work>
+<isbn>0822207257</isbn>
+<isbn13>9780822207252</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>4466</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>49922</id>
+<name>Moss Hart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49922.Moss_Hart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>243308</id>
+<title><![CDATA[Steel Magnolias (DPS Acting Edition)]]></title>
+<title_without_series>Steel Magnolias</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/243308.Steel_Magnolias]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>82</num_pages>
+<work>
+<id>235723</id>
+</work>
+<isbn>0822210789</isbn>
+<isbn13>9780822210788</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>14668</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>142391</id>
+<name>Robert Harling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142391.Robert_Harling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>784709</id>
+<title><![CDATA[Sunday in the Park With George]]></title>
+<title_without_series><![CDATA[Sunday in the Park With George]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/784709.Sunday_in_the_Park_With_George]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2956119</id>
+</work>
+<isbn>1557830681</isbn>
+<isbn13>9781557830685</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>2889</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>85858</id>
+<name>Stephen Sondheim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85858.Stephen_Sondheim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>632594</id>
+<title>Man of La Mancha</title>
+<title_without_series>Man of La Mancha</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/632594.Man_of_La_Mancha]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320500823s/632594.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320500823m/632594.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>618896</id>
+</work>
+<isbn>0394406192</isbn>
+<isbn13>9780394406190</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>2544</ratings_count>
+<publication_year>1966</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>341544</id>
+<name>Dale Wasserman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/341544.Dale_Wasserman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>255640</id>
+<title>Agnes of God</title>
+<title_without_series>Agnes of God</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/255640.Agnes_of_God]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391640784s/255640.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391640784m/255640.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>247759</id>
+</work>
+<isbn>0573630224</isbn>
+<isbn13>9780573630224</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>6073</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>149386</id>
+<name>John Pielmeier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/149386.John_Pielmeier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>450573</id>
+<title>The Odd Couple</title>
+<title_without_series>The Odd Couple</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/450573.The_Odd_Couple]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>108</num_pages>
+<work>
+<id>821971</id>
+</work>
+<isbn>0573613311</isbn>
+<isbn13>9780573613319</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>12794</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>60047</id>
+<name>Neil Simon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60047.Neil_Simon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>667488</id>
+<title>Blithe Spirit</title>
+<title_without_series>Blithe Spirit</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/667488.Blithe_Spirit]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1387302364s/667488.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1387302364m/667488.jpg]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>653539</id>
+</work>
+<isbn>0413771970</isbn>
+<isbn13>9780413771971</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>4209</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>120035</id>
+<name>Noël Coward</name>
+<link><![CDATA[https://www.goodreads.com/author/show/120035.No_l_Coward]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>156377</id>
+<title>The Elephant Man</title>
+<title_without_series>The Elephant Man</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/156377.The_Elephant_Man]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391641544s/156377.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391641544m/156377.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>150905</id>
+</work>
+<isbn>0802130410</isbn>
+<isbn13>9780802130419</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>9229</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>90475</id>
+<name>Bernard Pomerance</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90475.Bernard_Pomerance]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>749273</id>
+<title>Wait Until Dark</title>
+<title_without_series>Wait Until Dark</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/749273.Wait_Until_Dark]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391640304s/749273.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391640304m/749273.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>735413</id>
+</work>
+<isbn>0822212161</isbn>
+<isbn13>9780822212164</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1779</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>125512</id>
+<name>Frederick Knott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/125512.Frederick_Knott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77771</id>
+<title><![CDATA[Three Plays: Our Town, The Skin of Our Teeth, and The Matchmaker]]></title>
+<title_without_series><![CDATA[Three Plays: Our Town, The Skin of Our Teeth, and The Matchmaker]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77771.Three_Plays]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410134696s/77771.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410134696m/77771.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>3119229</id>
+</work>
+<isbn>0060512644</isbn>
+<isbn13>9780060512644</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1630</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>44061</id>
+<name>Thornton Wilder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44061.Thornton_Wilder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>961392</id>
+<title>Torch Song Trilogy</title>
+<title_without_series>Torch Song Trilogy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/961392.Torch_Song_Trilogy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391638177s/961392.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391638177m/961392.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>946293</id>
+</work>
+<isbn>0960472401</isbn>
+<isbn13>9780960472406</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>1792</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4775</id>
+<name>Harvey Fierstein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4775.Harvey_Fierstein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1068</id>
+<title>1776</title>
+<title_without_series>1776</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1068.1776]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>5275</id>
+</work>
+<isbn>0140481397</isbn>
+<isbn13>9780140481396</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1154</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month>11</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>13459183</id>
+<name>Peter  Stone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13459183.Peter_Stone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>178599</id>
+<title>Arsenic and Old Lace</title>
+<title_without_series>Arsenic and Old Lace</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/178599.Arsenic_and_Old_Lace]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1319500896s/178599.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1319500896m/178599.jpg]]></image_url>
+<num_pages>104</num_pages>
+<work>
+<id>172538</id>
+</work>
+<isbn>0856761222</isbn>
+<isbn13>9780856761225</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>20739</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>104027</id>
+<name>Joseph Kesselring</name>
+<link><![CDATA[https://www.goodreads.com/author/show/104027.Joseph_Kesselring]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1409344</id>
+<title>Driving Miss Daisy</title>
+<title_without_series>Driving Miss Daisy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1409344.Driving_Miss_Daisy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328767041s/1409344.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328767041m/1409344.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1399635</id>
+</work>
+<isbn>0930452895</isbn>
+<isbn13>9780930452896</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>16957</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11299</id>
+<name>Alfred Uhry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11299.Alfred_Uhry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>275274</id>
+<title><![CDATA[Sister Mary Ignatius Explains it All for You & The Actor's Nightmare]]></title>
+<title_without_series><![CDATA[Sister Mary Ignatius Explains it All for You & The Actor's Nightmare]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/275274.Sister_Mary_Ignatius_Explains_it_All_for_You_The_Actor_s_Nightmare]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334989173s/275274.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334989173m/275274.jpg]]></image_url>
+<num_pages>71</num_pages>
+<work>
+<id>266933</id>
+</work>
+<isbn>0822210355</isbn>
+<isbn13>9780822210351</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>2356</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>56415</id>
+<name>Christopher Durang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/56415.Christopher_Durang]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

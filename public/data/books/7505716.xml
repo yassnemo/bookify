@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7505716</id>
+  <title><![CDATA[Alice's Adventures in Wonderland & Other Stories]]></title>
+  <isbn><![CDATA[1435122941]]></isbn>
+  <isbn13><![CDATA[9781435122949]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B074TC7SM8]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1459762532m/7505716.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1459762532s/7505716.jpg</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>1</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Barnes &amp; Noble</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Down the rabbit-hole and through the looking-glass! Alice's Adventures in Wonderland &amp; Other Stories features all of the best-known works of Lewis Carroll, including the novels Alice's Adventures in Wonderland and Through the Looking-Glass, with the classic illustrations of John Tenniel. This compilation also features Carroll's novels Sylvie and Bruno and Sylvie and Bruno Concluded, his masterpiece of nonsense verse "The Hunting of the Snark," and miscellaneous poems, short stories, puzzles, and acrostic<br /><br />Alice's Adventures in Wonderland &amp; Other Stories is one of Barnes &amp; Noble's Collectible Editions classics. Each volume features authoritative texts by the world's greatest authors in an exquisitely designed bonded-leather binding, with distinctive gilt edging and a silk-ribbon bookmark. Decorative, durable, and collectible, these books offer hours of pleasure to readers young and old and are an indispensable cornerstone for every home library.]]></description>
+  <work>
+  <id type="integer">9686589</id>
+  <books_count type="integer">48</books_count>
+  <best_book_id type="integer">7505716</best_book_id>
+  <reviews_count type="integer">38523</reviews_count>
+  <ratings_sum type="integer">108152</ratings_sum>
+  <ratings_count type="integer">25617</ratings_count>
+  <text_reviews_count type="integer">281</text_reviews_count>
+  <original_publication_year type="integer">1865</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:12487|4:7869|3:4046|2:888|1:327|total:25617</rating_dist>
+  <desc_user_id type="integer">2388025</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[1165]]></num_pages>
+  <format><![CDATA[Leather Bound]]></format>
+  <edition_information><![CDATA[Barnes &amp; Noble Collectible Editions Series]]></edition_information>
+  <ratings_count><![CDATA[24614]]></ratings_count>
+  <text_reviews_count><![CDATA[194]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7505716-alice-s-adventures-in-wonderland-other-stories]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7505716-alice-s-adventures-in-wonderland-other-stories]]></link>
+  <authors>
+<author>
+<id>8164</id>
+<name>Lewis Carroll</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192735053p5/8164.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192735053p2/8164.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8164.Lewis_Carroll]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>1003110</ratings_count>
+<text_reviews_count>23245</text_reviews_count>
+</author>
+<author>
+<id>180439</id>
+<name>John Tenniel</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1251885999p5/180439.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1251885999p2/180439.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/180439.John_Tenniel]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>505714</ratings_count>
+<text_reviews_count>10475</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7505716-alice-s-adventures-in-wonderland-other-stories">Alice&#39;s Adventures in Wonderland &amp;amp; Other Stories Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1435122941&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7505716-alice-s-adventures-in-wonderland-other-stories?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11269"/>
+      <shelf name="currently-reading" count="615"/>
+      <shelf name="classics" count="359"/>
+      <shelf name="favorites" count="231"/>
+      <shelf name="fantasy" count="189"/>
+      <shelf name="books-i-own" count="163"/>
+      <shelf name="owned" count="133"/>
+      <shelf name="fiction" count="95"/>
+      <shelf name="classic" count="60"/>
+      <shelf name="owned-books" count="59"/>
+      <shelf name="childrens" count="52"/>
+      <shelf name="to-buy" count="34"/>
+      <shelf name="my-library" count="32"/>
+      <shelf name="default" count="31"/>
+      <shelf name="children" count="30"/>
+      <shelf name="children-s" count="24"/>
+      <shelf name="favourites" count="23"/>
+      <shelf name="my-books" count="23"/>
+      <shelf name="i-own" count="20"/>
+      <shelf name="childhood" count="19"/>
+      <shelf name="poetry" count="18"/>
+      <shelf name="literature" count="18"/>
+      <shelf name="young-adult" count="17"/>
+      <shelf name="wish-list" count="16"/>
+      <shelf name="library" count="16"/>
+      <shelf name="adventure" count="16"/>
+      <shelf name="childrens-books" count="13"/>
+      <shelf name="leatherbound" count="12"/>
+      <shelf name="home-library" count="11"/>
+      <shelf name="british" count="11"/>
+      <shelf name="fairy-tales" count="11"/>
+      <shelf name="alice" count="11"/>
+      <shelf name="short-stories" count="11"/>
+      <shelf name="on-my-shelf" count="10"/>
+      <shelf name="children-s-books" count="10"/>
+      <shelf name="ya" count="10"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="bookshelf" count="9"/>
+      <shelf name="british-literature" count="9"/>
+      <shelf name="childhood-favorites" count="9"/>
+      <shelf name="english" count="9"/>
+      <shelf name="hardcover" count="8"/>
+      <shelf name="collection" count="8"/>
+      <shelf name="i-own-it" count="8"/>
+      <shelf name="leatherbound-classics" count="8"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="tbr-pile" count="7"/>
+      <shelf name="owned-tbr" count="7"/>
+      <shelf name="19th-century" count="7"/>
+      <shelf name="tbr" count="7"/>
+      <shelf name="purchased" count="7"/>
+      <shelf name="own-to-read" count="7"/>
+      <shelf name="classic-literature" count="7"/>
+      <shelf name="alice-in-wonderland" count="7"/>
+      <shelf name="favorite-books" count="7"/>
+      <shelf name="kids" count="7"/>
+      <shelf name="anthology" count="7"/>
+      <shelf name="owned-to-read" count="6"/>
+      <shelf name="on-my-bookshelf" count="6"/>
+      <shelf name="leather-bound" count="6"/>
+      <shelf name="my-bookshelf" count="6"/>
+      <shelf name="magic" count="6"/>
+      <shelf name="on-my-shelves" count="6"/>
+      <shelf name="classics-to-read" count="6"/>
+      <shelf name="all-time-favorites" count="6"/>
+      <shelf name="favoritos" count="5"/>
+      <shelf name="the-classics" count="5"/>
+      <shelf name="tbr-owned" count="5"/>
+      <shelf name="classic-lit" count="5"/>
+      <shelf name="books-to-buy" count="5"/>
+      <shelf name="personal-library" count="5"/>
+      <shelf name="owned-unread" count="5"/>
+      <shelf name="kindle" count="5"/>
+      <shelf name="children-books" count="5"/>
+      <shelf name="novel" count="5"/>
+      <shelf name="need-to-buy" count="5"/>
+      <shelf name="fantasy-sci-fi" count="5"/>
+      <shelf name="children-s-literature" count="5"/>
+      <shelf name="kids-books" count="5"/>
+      <shelf name="barnes-and-noble" count="4"/>
+      <shelf name="clásicos" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="fairytales" count="4"/>
+      <shelf name="owned-but-unread" count="4"/>
+      <shelf name="mine" count="4"/>
+      <shelf name="children-s-classics" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="need-to-read" count="4"/>
+      <shelf name="favourite-books" count="4"/>
+      <shelf name="owned-but-not-read" count="4"/>
+      <shelf name="to-re-read" count="4"/>
+      <shelf name="childrens-lit" count="4"/>
+      <shelf name="owned-and-unread" count="4"/>
+      <shelf name="beautiful-covers" count="4"/>
+      <shelf name="british-lit" count="4"/>
+      <shelf name="novels" count="4"/>
+      <shelf name="on-hold" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="classic-fiction" count="4"/>
+      <shelf name="favorite" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>492899</id>
+<title><![CDATA[Five Novels: Oliver Twist, A Christmas Carol, David Copperfield, A Tale of Two Cities, Great Expectations ]]></title>
+<title_without_series><![CDATA[Five Novels: Oliver Twist, A Christmas Carol, David Copperfield, A Tale of Two Cities, Great Expectations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/492899.Five_Novels]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1483</num_pages>
+<work>
+<id>481079</id>
+</work>
+<isbn>0760775001</isbn>
+<isbn13></isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>3275</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13522</id>
+<title><![CDATA[Wicked / Son of a Witch (The Wicked Years, #1-2)]]></title>
+<title_without_series>Wicked / Son of a Witch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13522.Wicked_Son_of_a_Witch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15664</id>
+</work>
+<isbn>006117128X</isbn>
+<isbn13>9780061171284</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>4500</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7025</id>
+<name>Gregory Maguire</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7025.Gregory_Maguire]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2600408</id>
+<title>Jane Austen: Seven Novels</title>
+<title_without_series>Jane Austen: Seven Novels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2600408-jane-austen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1443434293s/2600408.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1443434293m/2600408.jpg]]></image_url>
+<num_pages>1232</num_pages>
+<work>
+<id>40725685</id>
+</work>
+<isbn></isbn>
+<isbn13>9781435103191</isbn13>
+<average_rating>4.50</average_rating>
+<ratings_count>2403</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>1265</id>
+<name>Jane Austen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43780</id>
+<title><![CDATA[Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned (Anne Rice)]]></title>
+<title_without_series><![CDATA[Vampire Chronicles: Interview with the Vampire, The Vampire Lestat, The Queen of the Damned]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43780.Vampire_Chronicles]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>9</num_pages>
+<work>
+<id>5192748</id>
+</work>
+<isbn>0679410503</isbn>
+<isbn13>9780679410508</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>11247</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>11</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>7577</id>
+<name>Anne Rice</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7577.Anne_Rice]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8320840</id>
+<title><![CDATA[H.P. Lovecraft:  The Complete Fiction]]></title>
+<title_without_series><![CDATA[H.P. Lovecraft:  The Complete Fiction]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8320840-h-p-lovecraft]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356128434s/8320840.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356128434m/8320840.jpg]]></image_url>
+<num_pages>1098</num_pages>
+<work>
+<id>12926020</id>
+</work>
+<isbn>1435122968</isbn>
+<isbn13>9781435122963</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>5421</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>9494</id>
+<name>H.P. Lovecraft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9494.H_P_Lovecraft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1544715</id>
+<title><![CDATA[The Adventures of Tom Sawyer/Adventures of Huckleberry Finn/The Prince & the Pauper]]></title>
+<title_without_series><![CDATA[The Adventures of Tom Sawyer/Adventures of Huckleberry Finn/The Prince & the Pauper]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1544715.The_Adventures_of_Tom_Sawyer_Adventures_of_Huckleberry_Finn_The_Prince_the_Pauper]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>462383</id>
+</work>
+<isbn>0706407830</isbn>
+<isbn13>9780706407839</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1287</ratings_count>
+<publication_year>1978</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1244</id>
+<name>Mark Twain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2136943</id>
+<title><![CDATA[American Gods / Anansi Boys: Coffret, 2 volumes]]></title>
+<title_without_series><![CDATA[American Gods / Anansi Boys: Coffret, 2 volumes]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2136943.American_Gods_Anansi_Boys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330926294s/2136943.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330926294m/2136943.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6109298</id>
+</work>
+<isbn>2846261180</isbn>
+<isbn13>9782846261180</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1802</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6777756</id>
+<title>H.G. Wells: Seven Novels</title>
+<title_without_series>H.G. Wells: Seven Novels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6777756-h-g-wells]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1383663159s/6777756.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1383663159m/6777756.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6978529</id>
+</work>
+<isbn>1435114906</isbn>
+<isbn13>9781435114906</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2423</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18131632</id>
+<title>Aesop&apos;s Illustrated Fables</title>
+<title_without_series>Aesop&apos;s Illustrated Fables</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18131632-aesop-s-illustrated-fables]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1480188534s/18131632.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1480188534m/18131632.jpg]]></image_url>
+<num_pages>456</num_pages>
+<work>
+<id>50321919</id>
+</work>
+<isbn>143514483X</isbn>
+<isbn13>9781435144835</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>472</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12452</id>
+<name>Aesop</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12452.Aesop]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8588776</id>
+<title>Jules Verne Seven Novels</title>
+<title_without_series>Jules Verne Seven Novels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8588776-jules-verne-seven-novels]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1371573280s/8588776.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1371573280m/8588776.jpg]]></image_url>
+<num_pages>1208</num_pages>
+<work>
+<id>2147454</id>
+</work>
+<isbn>143512295X</isbn>
+<isbn13>9781435122956</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1920</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>696805</id>
+<name>Jules Verne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/696805.Jules_Verne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16752</id>
+<title><![CDATA[Jurassic World: Jurassic Park / The Lost World]]></title>
+<title_without_series><![CDATA[Jurassic World: Jurassic Park / The Lost World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16752.Jurassic_World]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392990908s/16752.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392990908m/16752.jpg]]></image_url>
+<num_pages>801</num_pages>
+<work>
+<id>6795128</id>
+</work>
+<isbn>0375401075</isbn>
+<isbn13>9780375401077</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>8020</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>5194</id>
+<name>Michael Crichton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5194.Michael_Crichton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16669332</id>
+<title>Classic Fairy Tales</title>
+<title_without_series>Classic Fairy Tales</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16669332-classic-fairy-tales]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356465228s/16669332.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356465228m/16669332.jpg]]></image_url>
+<num_pages>697</num_pages>
+<work>
+<id>46893857</id>
+</work>
+<isbn>1435142144</isbn>
+<isbn13>9781435142145</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>663</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6378</id>
+<name>Hans Christian Andersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6378.Hans_Christian_Andersen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>496245</id>
+<title><![CDATA[Jane Eyre / Les Hauts de Hurle-Vent / Agnes Grey]]></title>
+<title_without_series><![CDATA[Jane Eyre / Les Hauts de Hurle-Vent / Agnes Grey]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/496245.Jane_Eyre_Les_Hauts_de_Hurle_Vent_Agnes_Grey]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1397221655s/496245.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1397221655m/496245.jpg]]></image_url>
+<num_pages>1038</num_pages>
+<work>
+<id>21430830</id>
+</work>
+<isbn>2253132381</isbn>
+<isbn13>9782253132387</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1051</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1036615</id>
+<name>Charlotte Brontë</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1036615.Charlotte_Bront_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9861626</id>
+<title><![CDATA[The Martian Chronicles/The Illustrated Man/The Golden Apples of the Sun]]></title>
+<title_without_series><![CDATA[The Martian Chronicles/The Illustrated Man/The Golden Apples of the Sun]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9861626-the-martian-chronicles-the-illustrated-man-the-golden-apples-of-the-sun]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332415558s/9861626.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332415558m/9861626.jpg]]></image_url>
+<num_pages>885</num_pages>
+<work>
+<id>14752954</id>
+</work>
+<isbn>1435129067</isbn>
+<isbn13>9781435129061</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1491</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1630</id>
+<name>Ray Bradbury</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1630.Ray_Bradbury]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12939379</id>
+<title>Ernest Hemingway: Four Novels</title>
+<title_without_series>Ernest Hemingway: Four Novels</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12939379-ernest-hemingway]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332549732s/12939379.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332549732m/12939379.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>18095687</id>
+</work>
+<isbn>1435129849</isbn>
+<isbn13>9781435129849</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>546</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1455</id>
+<name>Ernest Hemingway</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1455.Ernest_Hemingway]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13557637</id>
+<title>Snap</title>
+<title_without_series>Snap</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13557637-snap]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333032573s/13557637.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333032573m/13557637.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>19129795</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>23</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>5782479</id>
+<name>Steven Bredice</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5782479.Steven_Bredice]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24215</id>
+<title><![CDATA[Alice's Adventures in Wonderland: A Pop-Up Adaptation]]></title>
+<title_without_series><![CDATA[Alice's Adventures in Wonderland: A Pop-Up Adaptation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24215.Alice_s_Adventures_in_Wonderland]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>18485762</id>
+</work>
+<isbn>0689847432</isbn>
+<isbn13>9780689847431</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>21391</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>14765007</id>
+<name>Robert Sabuda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14765007.Robert_Sabuda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6320684</id>
+<title>Three John Silence Stories</title>
+<title_without_series>Three John Silence Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6320684-three-john-silence-stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>914649</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>119</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>38840</id>
+<name>Algernon Blackwood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38840.Algernon_Blackwood]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

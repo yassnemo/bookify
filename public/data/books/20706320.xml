@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>20706320</id>
+  <title><![CDATA[A Grimm Warning (The Land of Stories, #3)]]></title>
+  <isbn><![CDATA[0316406813]]></isbn>
+  <isbn13><![CDATA[9780316406819]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00KLM7W6C]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1391709728m/20706320.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1391709728s/20706320.jpg</small_image_url>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>The Brothers Grimm have a warning for the Land of Stories.</i><br /><br />Connor Bailey thinks his fairy-tale adventures are behind him - until he discovers a mysterious clue left by the famous Brothers Grimm. With help from his classmate Bree and the outlandish Mother Goose, Conner sets off on a mission across Europe to crack a two-hundred-year-old code.<br /><br />Meanwhile, Alex Bailey is training to become the next Fairy Godmother... but her attempts at granting wishes never go as planned. Will she ever be truly ready to lead the Fairy Council?<br /><br />When all signs point to disaster for the Land of Stories, Connor and Alex must join forces with their friends and enemies to save the day. But nothing can prepare them for the coming battle... or for the secret that will change the twins' lives forever.<br /><br />The third book in the bestselling Land of Stories series puts the twins to the test as they bring two worlds together!]]></description>
+  <work>
+  <id type="integer">26476394</id>
+  <books_count type="integer">32</books_count>
+  <best_book_id type="integer">20706320</best_book_id>
+  <reviews_count type="integer">32252</reviews_count>
+  <ratings_sum type="integer">69103</ratings_sum>
+  <ratings_count type="integer">15215</ratings_count>
+  <text_reviews_count type="integer">1236</text_reviews_count>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">8</original_publication_day>
+  <original_title>A Grimm Warning</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10027|4:3761|3:1157|2:183|1:87|total:15215</rating_dist>
+  <desc_user_id type="integer">13455059</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.54</average_rating>
+  <num_pages><![CDATA[448]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13728]]></ratings_count>
+  <text_reviews_count><![CDATA[1121]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/20706320-a-grimm-warning]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/20706320-a-grimm-warning]]></link>
+  <authors>
+<author>
+<id>4919495</id>
+<name>Chris Colfer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361053103p5/4919495.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361053103p2/4919495.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4919495.Chris_Colfer]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>127021</ratings_count>
+<text_reviews_count>11966</text_reviews_count>
+</author>
+<author>
+<id>2086916</id>
+<name>Brandon Dorman</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2086916.Brandon_Dorman]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>99451</ratings_count>
+<text_reviews_count>8870</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/20706320-a-grimm-warning">A Grimm Warning Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0316406813&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/20706320-a-grimm-warning?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5169"/>
+      <shelf name="currently-reading" count="757"/>
+      <shelf name="fantasy" count="288"/>
+      <shelf name="favorites" count="258"/>
+      <shelf name="books-i-own" count="94"/>
+      <shelf name="middle-grade" count="75"/>
+      <shelf name="owned" count="66"/>
+      <shelf name="fairy-tales" count="63"/>
+      <shelf name="series" count="63"/>
+      <shelf name="the-land-of-stories" count="59"/>
+      <shelf name="land-of-stories" count="55"/>
+      <shelf name="childrens" count="54"/>
+      <shelf name="young-adult" count="46"/>
+      <shelf name="adventure" count="42"/>
+      <shelf name="to-buy" count="38"/>
+      <shelf name="magic" count="37"/>
+      <shelf name="children" count="34"/>
+      <shelf name="fiction" count="32"/>
+      <shelf name="fairy-tale" count="32"/>
+      <shelf name="kids" count="31"/>
+      <shelf name="owned-books" count="29"/>
+      <shelf name="my-books" count="27"/>
+      <shelf name="audiobooks" count="26"/>
+      <shelf name="ya" count="26"/>
+      <shelf name="favourites" count="24"/>
+      <shelf name="children-s-books" count="22"/>
+      <shelf name="chris-colfer" count="22"/>
+      <shelf name="children-s" count="21"/>
+      <shelf name="audiobook" count="19"/>
+      <shelf name="read-in-2014" count="18"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="audio" count="17"/>
+      <shelf name="fairytales" count="16"/>
+      <shelf name="retellings" count="16"/>
+      <shelf name="books" count="14"/>
+      <shelf name="read-in-2015" count="14"/>
+      <shelf name="default" count="14"/>
+      <shelf name="kids-books" count="14"/>
+      <shelf name="fairytale" count="13"/>
+      <shelf name="audio-books" count="13"/>
+      <shelf name="dragons" count="13"/>
+      <shelf name="read-in-2017" count="12"/>
+      <shelf name="read-in-2016" count="12"/>
+      <shelf name="kindle" count="12"/>
+      <shelf name="juvenile" count="12"/>
+      <shelf name="own-it" count="12"/>
+      <shelf name="my-library" count="12"/>
+      <shelf name="favorite" count="12"/>
+      <shelf name="childrens-books" count="12"/>
+      <shelf name="tbr" count="11"/>
+      <shelf name="ebooks" count="10"/>
+      <shelf name="5-stars" count="10"/>
+      <shelf name="library" count="10"/>
+      <shelf name="on-my-shelf" count="9"/>
+      <shelf name="read-2014" count="9"/>
+      <shelf name="fairy-tale-retellings" count="9"/>
+      <shelf name="need-to-buy" count="9"/>
+      <shelf name="retelling" count="8"/>
+      <shelf name="juvenile-fiction" count="8"/>
+      <shelf name="i-own" count="8"/>
+      <shelf name="library-books" count="8"/>
+      <shelf name="fairies" count="8"/>
+      <shelf name="my-favorites" count="8"/>
+      <shelf name="2016-reads" count="7"/>
+      <shelf name="4-stars" count="7"/>
+      <shelf name="english" count="7"/>
+      <shelf name="read-2015" count="7"/>
+      <shelf name="ya-fantasy" count="7"/>
+      <shelf name="favorite-books" count="7"/>
+      <shelf name="middle-school" count="7"/>
+      <shelf name="ebook" count="7"/>
+      <shelf name="books-owned" count="7"/>
+      <shelf name="family" count="7"/>
+      <shelf name="novels" count="7"/>
+      <shelf name="amazing" count="6"/>
+      <shelf name="tween" count="6"/>
+      <shelf name="signed-books" count="6"/>
+      <shelf name="owned-tbr" count="6"/>
+      <shelf name="bookshelf" count="6"/>
+      <shelf name="reviewed" count="6"/>
+      <shelf name="magical" count="6"/>
+      <shelf name="books-i-have" count="6"/>
+      <shelf name="books-read-in-2014" count="6"/>
+      <shelf name="youth" count="6"/>
+      <shelf name="fairytale-retellings" count="6"/>
+      <shelf name="want-to-read" count="6"/>
+      <shelf name="land-of-stories-series" count="6"/>
+      <shelf name="2014-releases" count="6"/>
+      <shelf name="read-2017" count="5"/>
+      <shelf name="2016-end-of-year-challenge" count="5"/>
+      <shelf name="read-2016" count="5"/>
+      <shelf name="great-books" count="5"/>
+      <shelf name="young-readers" count="5"/>
+      <shelf name="2015-books" count="5"/>
+      <shelf name="2015-reads" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="romance" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="children-middle-grade" count="5"/>
+      <shelf name="want" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>591993</id>
+<user_position>3</user_position>
+<series>
+<id>81462</id>
+<title>
+<![CDATA[
+    The Land of Stories
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>10</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>13414871</id>
+<title><![CDATA[Call the Shots (Swim the Fly, #3)]]></title>
+<title_without_series>Call the Shots</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414871-call-the-shots]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>18714394</id>
+</work>
+<isbn>0763655562</isbn>
+<isbn13>9780763655563</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>538</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>1919707</id>
+<name>Don Calame</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1919707.Don_Calame]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3954368</id>
+<title>Ostrich Boys</title>
+<title_without_series>Ostrich Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3954368-ostrich-boys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331965854s/3954368.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331965854m/3954368.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>4000051</id>
+</work>
+<isbn>0099456575</isbn>
+<isbn13>9780099456575</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>962</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19042</id>
+<name>Keith Gray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19042.Keith_Gray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23399287</id>
+<title><![CDATA[Grounded: The Adventures of Rapunzel (Tyme #1)]]></title>
+<title_without_series><![CDATA[Grounded: The Adventures of Rapunzel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23399287-grounded]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1419320920s/23399287.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1419320920m/23399287.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>42955734</id>
+</work>
+<isbn>0545638267</isbn>
+<isbn13>9780545638265</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1389</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>9879340</id>
+<name>Megan   Morrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9879340.Megan_Morrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18089921</id>
+<title>Moonkind (Winterling, #3)</title>
+<title_without_series>Moonkind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18089921-moonkind]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1372680416s/18089921.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1372680416m/18089921.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>22190023</id>
+</work>
+<isbn>0061921092</isbn>
+<isbn13>9780061921094</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>649</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>827236</id>
+<name>Sarah Prineas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/827236.Sarah_Prineas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13643200</id>
+<title><![CDATA[Die, Snow White! Die, Damn You!: A Very Grimm Tale]]></title>
+<title_without_series><![CDATA[Die, Snow White! Die, Damn You!: A Very Grimm Tale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13643200-die-snow-white-die-damn-you]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344472594s/13643200.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344472594m/13643200.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>19258519</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>2.96</average_rating>
+<ratings_count>217</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>87584</id>
+<name>Yuri Rasovsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/87584.Yuri_Rasovsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23834589</id>
+<title><![CDATA[The Sleepwalker Tonic (Nightmares!, #2)]]></title>
+<title_without_series>The Sleepwalker Tonic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23834589-the-sleepwalker-tonic]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1432844179s/23834589.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1432844179m/23834589.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>43446228</id>
+</work>
+<isbn>0385384041</isbn>
+<isbn13>9780385384049</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1041</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7561804</id>
+<name>Jason Segel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7561804.Jason_Segel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23492248</id>
+<title><![CDATA[Unicorn on a Roll (Heavenly Nostrils, #2)]]></title>
+<title_without_series>Unicorn on a Roll</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23492248-unicorn-on-a-roll]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1423485958s/23492248.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1423485958m/23492248.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>43082539</id>
+</work>
+<isbn>1449470769</isbn>
+<isbn13>9781449470760</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>1508</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>7812495</id>
+<name>Dana Simpson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7812495.Dana_Simpson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12317217</id>
+<title><![CDATA[Twice Upon a Time (Half Upon a Time, #2)]]></title>
+<title_without_series>Twice Upon a Time</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12317217-twice-upon-a-time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17295113</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>2072</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4337106</id>
+<name>James  Riley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4337106.James_Riley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16074843</id>
+<title><![CDATA[Of Giants and Ice (The Ever Afters #1)]]></title>
+<title_without_series>Of Giants and Ice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16074843-of-giants-and-ice]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358264184s/16074843.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358264184m/16074843.jpg]]></image_url>
+<num_pages>346</num_pages>
+<work>
+<id>18368047</id>
+</work>
+<isbn>1442431474</isbn>
+<isbn13>9781442431478</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>1852</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5376046</id>
+<name>Shelby Bach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5376046.Shelby_Bach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13263764</id>
+<title>Story&apos;s End (Storybound, #2)</title>
+<title_without_series>Story&apos;s End</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13263764-story-s-end]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1340557013s/13263764.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1340557013m/13263764.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>18465455</id>
+</work>
+<isbn>0062020544</isbn>
+<isbn13>9780062020543</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>1252</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4575301</id>
+<name>Marissa Burt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4575301.Marissa_Burt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6165122</id>
+<title><![CDATA[Adventures Beyond Nutmouse Hall (Tumtum and Nutmeg #1-3)]]></title>
+<title_without_series><![CDATA[Adventures Beyond Nutmouse Hall]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6165122-adventures-beyond-nutmouse-hall]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>6344497</id>
+</work>
+<isbn>0316027030</isbn>
+<isbn13>9780316027038</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>773</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1314773</id>
+<name>Emily Bearn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1314773.Emily_Bearn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17981403</id>
+<title>Dream On (Whatever After, #4)</title>
+<title_without_series>Dream On</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17981403-dream-on]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1375754417s/17981403.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1375754417m/17981403.jpg]]></image_url>
+<num_pages>157</num_pages>
+<work>
+<id>25212271</id>
+</work>
+<isbn>0545415713</isbn>
+<isbn13>9780545415712</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2183</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>771</id>
+<name>Sarah Mlynowski</name>
+<link><![CDATA[https://www.goodreads.com/author/show/771.Sarah_Mlynowski]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18090029</id>
+<title><![CDATA[Battle of the Beasts (House of Secrets, #2)]]></title>
+<title_without_series>Battle of the Beasts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18090029-battle-of-the-beasts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379333208s/18090029.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379333208m/18090029.jpg]]></image_url>
+<num_pages>465</num_pages>
+<work>
+<id>25337582</id>
+</work>
+<isbn>0062192493</isbn>
+<isbn13>9780062192493</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1514</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>381166</id>
+<name>Chris Columbus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/381166.Chris_Columbus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16101027</id>
+<title><![CDATA[The Strangers (The Books of Elsewhere, #4)]]></title>
+<title_without_series>The Strangers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16101027-the-strangers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365205604s/16101027.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365205604m/16101027.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>21911328</id>
+</work>
+<isbn>0803736908</isbn>
+<isbn13>9780803736900</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>918</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>3100027</id>
+<name>Jacqueline West</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3100027.Jacqueline_West]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15801337</id>
+<title>Spy Camp (Spy School #2)</title>
+<title_without_series>Spy Camp</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15801337-spy-camp]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1409522372s/15801337.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1409522372m/15801337.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>21524702</id>
+</work>
+<isbn>1442457538</isbn>
+<isbn13>9781442457539</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>3102</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>3040652</id>
+<name>Stuart Gibbs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3040652.Stuart_Gibbs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18053786</id>
+<title><![CDATA[The Storybook of Legends (Ever After High, #1)]]></title>
+<title_without_series>The Storybook of Legends</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18053786-the-storybook-of-legends]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1473973875s/18053786.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1473973875m/18053786.jpg]]></image_url>
+<num_pages>305</num_pages>
+<work>
+<id>25338957</id>
+</work>
+<isbn>0316401226</isbn>
+<isbn13>9780316401227</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>8121</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>49177</id>
+<name>Shannon Hale</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49177.Shannon_Hale]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23497854</id>
+<title><![CDATA[Island of Graves (Unwanteds, #6)]]></title>
+<title_without_series>Island of Graves</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23497854-island-of-graves]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1419107766s/23497854.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1419107766m/23497854.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>43099619</id>
+</work>
+<isbn>1442493364</isbn>
+<isbn13>9781442493360</isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>2362</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>767547</id>
+<name>Lisa McMann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/767547.Lisa_McMann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21489272</id>
+<title><![CDATA[House of Robots (House of Robots #1)]]></title>
+<title_without_series>House of Robots</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21489272-house-of-robots]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415583257s/21489272.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415583257m/21489272.jpg]]></image_url>
+<num_pages>3</num_pages>
+<work>
+<id>40816190</id>
+</work>
+<isbn>1478955856</isbn>
+<isbn13>9781478955856</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>1447</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>3780</id>
+<name>James Patterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3780.James_Patterson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

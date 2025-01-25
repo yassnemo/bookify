@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>63432</id>
+  <title><![CDATA[3001: The Final Odyssey (Space Odyssey, #4)]]></title>
+  <isbn><![CDATA[0345438205]]></isbn>
+  <isbn13><![CDATA[9780345438201]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>5</publication_day>
+  <publisher></publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[One thousand years after the Jupiter mission to explore the mysterious Monolith had been destroyed, after Dave Bowman was transformed into the Star Child, Frank Poole drifted in space, frozen and forgotten, leaving the supercomputer HAL inoperable. But now Poole has returned to life, awakening in a world far different from the one he left behind--and just as the Monolith may be stirring once again...]]></description>
+  <work>
+  <id type="integer">2118902</id>
+  <books_count type="integer">65</books_count>
+  <best_book_id type="integer">63432</best_book_id>
+  <reviews_count type="integer">26750</reviews_count>
+  <ratings_sum type="integer">58076</ratings_sum>
+  <ratings_count type="integer">16620</ratings_count>
+  <text_reviews_count type="integer">562</text_reviews_count>
+  <original_publication_year type="integer">1997</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title>3001: The Final Odyssey</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3068|4:5215|3:5723|2:2093|1:521|total:16620</rating_dist>
+  <desc_user_id type="integer">5932452</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.49</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[14397]]></ratings_count>
+  <text_reviews_count><![CDATA[419]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/63432.3001]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/63432.3001]]></link>
+  <authors>
+<author>
+<id>7779</id>
+<name>Arthur C. Clarke</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1357191481p5/7779.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1357191481p2/7779.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7779.Arthur_C_Clarke]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>828222</ratings_count>
+<text_reviews_count>23312</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/63432.3001">3001 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0345438205&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/63432.3001?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2601"/>
+      <shelf name="science-fiction" count="873"/>
+      <shelf name="sci-fi" count="646"/>
+      <shelf name="fiction" count="319"/>
+      <shelf name="scifi" count="143"/>
+      <shelf name="currently-reading" count="134"/>
+      <shelf name="owned" count="131"/>
+      <shelf name="default" count="109"/>
+      <shelf name="sf" count="91"/>
+      <shelf name="arthur-c-clarke" count="74"/>
+      <shelf name="favorites" count="55"/>
+      <shelf name="science" count="41"/>
+      <shelf name="sci-fi-fantasy" count="37"/>
+      <shelf name="books-i-own" count="34"/>
+      <shelf name="space" count="32"/>
+      <shelf name="series" count="32"/>
+      <shelf name="library" count="31"/>
+      <shelf name="ebook" count="30"/>
+      <shelf name="classics" count="30"/>
+      <shelf name="ebooks" count="29"/>
+      <shelf name="fantasy" count="26"/>
+      <shelf name="adventure" count="23"/>
+      <shelf name="novel" count="23"/>
+      <shelf name="clarke" count="23"/>
+      <shelf name="scifi-fantasy" count="21"/>
+      <shelf name="kindle" count="20"/>
+      <shelf name="calibre" count="20"/>
+      <shelf name="space-odyssey" count="19"/>
+      <shelf name="english" count="18"/>
+      <shelf name="science-fiction-fantasy" count="17"/>
+      <shelf name="my-library" count="16"/>
+      <shelf name="space-opera" count="16"/>
+      <shelf name="owned-books" count="15"/>
+      <shelf name="my-books" count="15"/>
+      <shelf name="british" count="13"/>
+      <shelf name="unread" count="12"/>
+      <shelf name="books" count="12"/>
+      <shelf name="novels" count="12"/>
+      <shelf name="e-books" count="12"/>
+      <shelf name="to-buy" count="11"/>
+      <shelf name="ciencia-ficcion" count="10"/>
+      <shelf name="hard-sf" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="fantascienza" count="10"/>
+      <shelf name="ciencia-ficción" count="10"/>
+      <shelf name="sf-fantasy" count="10"/>
+      <shelf name="audiobook" count="10"/>
+      <shelf name="literature" count="9"/>
+      <shelf name="bookshelf" count="9"/>
+      <shelf name="opera" count="9"/>
+      <shelf name="speculative-fiction" count="9"/>
+      <shelf name="have" count="8"/>
+      <shelf name="c" count="8"/>
+      <shelf name="general" count="8"/>
+      <shelf name="fantasy-sci-fi" count="8"/>
+      <shelf name="classic" count="8"/>
+      <shelf name="i-own" count="7"/>
+      <shelf name="classic-sci-fi" count="7"/>
+      <shelf name="century" count="7"/>
+      <shelf name="tech" count="7"/>
+      <shelf name="high" count="7"/>
+      <shelf name="paperback" count="7"/>
+      <shelf name="clarke-arthur-c" count="7"/>
+      <shelf name="sciencefiction" count="7"/>
+      <shelf name="shelfari-favorites" count="6"/>
+      <shelf name="epub" count="6"/>
+      <shelf name="to-read-sci-fi" count="6"/>
+      <shelf name="finished" count="6"/>
+      <shelf name="thirty-first" count="6"/>
+      <shelf name="home-library" count="6"/>
+      <shelf name="hardcover" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="collection" count="5"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="arthur" count="5"/>
+      <shelf name="arthur-c-clark" count="5"/>
+      <shelf name="science-fiction-and-fantasy" count="5"/>
+      <shelf name="book" count="5"/>
+      <shelf name="i-own-it" count="5"/>
+      <shelf name="not-read" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="audiobooks" count="5"/>
+      <shelf name="read-long-ago" count="5"/>
+      <shelf name="read-in-2016" count="4"/>
+      <shelf name="shelfari-wishlist" count="4"/>
+      <shelf name="20th-century" count="4"/>
+      <shelf name="own-to-read" count="4"/>
+      <shelf name="read-2015" count="4"/>
+      <shelf name="storage" count="4"/>
+      <shelf name="ficción" count="4"/>
+      <shelf name="1990s" count="4"/>
+      <shelf name="owned-but-not-read" count="4"/>
+      <shelf name="aliens" count="4"/>
+      <shelf name="audible" count="4"/>
+      <shelf name="s-f" count="4"/>
+      <shelf name="hard-sci-fi" count="4"/>
+      <shelf name="to-read-owned" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="syfy" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>178933</id>
+<user_position>4</user_position>
+<series>
+<id>49122</id>
+<title>
+<![CDATA[
+    Space Odyssey
+]]>
+</title>
+<description>
+<![CDATA[
+    Each book in the series is a whole story with a beginning and an ending, however the plot of each book relies heavily on the prior books in the series.
+    
+    Series also known as:
+    <i>* Odissea nello spazio [Italian]
+    * Οδύσσεια του διαστήματος [Greek]</i>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>9</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>83545</id>
+<title><![CDATA[Fantastic Voyage II:  Destination Brain]]></title>
+<title_without_series><![CDATA[Fantastic Voyage II:  Destination Brain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/83545.Fantastic_Voyage_II]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>1505486</id>
+</work>
+<isbn>0553273272</isbn>
+<isbn13>9780553273274</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>1771</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>63818</id>
+<title><![CDATA[Manifold: Space (Manifold, #2)]]></title>
+<title_without_series>Manifold: Space</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63818.Manifold]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2277649</id>
+</work>
+<isbn>0345430786</isbn>
+<isbn13>9780345430786</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>4015</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20295</id>
+<name>Stephen Baxter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20295.Stephen_Baxter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>453975</id>
+<title><![CDATA[Great Sky River (Galactic Center, #3)]]></title>
+<title_without_series>Great Sky River</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/453975.Great_Sky_River]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>773801</id>
+</work>
+<isbn>0446611557</isbn>
+<isbn13>9780446611558</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1482</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>22645</id>
+<name>Gregory Benford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22645.Gregory_Benford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>172738</id>
+<title>Legacy (The Way, #3)</title>
+<title_without_series>Legacy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/172738.Legacy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>410</num_pages>
+<work>
+<id>2164533</id>
+</work>
+<isbn>1857238869</isbn>
+<isbn13>9781857238860</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>2666</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16024</id>
+<name>Greg Bear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16024.Greg_Bear]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>768918</id>
+<title>Venus (The Grand Tour, #18)</title>
+<title_without_series>Venus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/768918.Venus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316129566s/768918.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316129566m/768918.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1922277</id>
+</work>
+<isbn>0812579402</isbn>
+<isbn13>9780812579406</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>2292</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>12407</id>
+<name>Ben Bova</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12407.Ben_Bova]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>158405</id>
+<title><![CDATA[Maelstrom (Arthur C. Clarke's Venus Prime, Book 2)]]></title>
+<title_without_series>Maelstrom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/158405.Maelstrom]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1359178637s/158405.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1359178637m/158405.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>152884</id>
+</work>
+<isbn>0671038990</isbn>
+<isbn13>9780671038991</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>415</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>68331</id>
+<name>Paul Preuss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68331.Paul_Preuss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>312612</id>
+<title><![CDATA[Mindbridge (Collector's Edition)]]></title>
+<title_without_series>Mindbridge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/312612.Mindbridge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>186</num_pages>
+<work>
+<id>1876516</id>
+</work>
+<isbn>0575071141</isbn>
+<isbn13>9780575071148</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>1783</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12476</id>
+<name>Joe Haldeman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12476.Joe_Haldeman]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>17125</id>
+  <title><![CDATA[One Day in the Life of Ivan Denisovich]]></title>
+  <isbn><![CDATA[0374529523]]></isbn>
+  <isbn13><![CDATA[9780374529529]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00BMKMK3M]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1427731744m/17125.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1427731744s/17125.jpg</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>16</publication_day>
+  <publisher>Farrar, Straus and Giroux</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The only English translation authorized by Aleksandr Solzhenitsyn </b><br /><br />First published in the Soviet journal <i>Novy Mir</i> in 1962, <i>One Day in the Life of Ivan Denisovich</i> stands as a classic of contemporary literature. The story of labor-camp inmate Ivan Denisovich Shukhov, it graphically describes his struggle to maintain his dignity in the face of communist oppression. An unforgettable portrait of the entire world of Stalin's forced work camps, <i>One Day in the Life of Ivan Denisovich</i> is one of the most extraordinary literary documents to have emerged from the Soviet Union and confirms Solzhenitsyn's stature as "a literary genius whose talent matches that of Dosotevsky, Turgenev, Tolstoy"--Harrison Salisbury<br /><br />This unexpurgated 1991 translation by H. T. Willetts is the only authorized edition available and fully captures the power and beauty of the original Russian.]]></description>
+  <work>
+  <id type="integer">838042</id>
+  <books_count type="integer">264</books_count>
+  <best_book_id type="integer">17125</best_book_id>
+  <reviews_count type="integer">115285</reviews_count>
+  <ratings_sum type="integer">284434</ratings_sum>
+  <ratings_count type="integer">72101</ratings_count>
+  <text_reviews_count type="integer">2917</text_reviews_count>
+  <original_publication_year type="integer">1962</original_publication_year>
+  <original_publication_month type="integer">11</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Один день Ивана Денисовича</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:22937|4:28224|3:16121|2:3671|1:1148|total:72101</rating_dist>
+  <desc_user_id type="integer">20538609</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.94</average_rating>
+  <num_pages><![CDATA[182]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[61722]]></ratings_count>
+  <text_reviews_count><![CDATA[1916]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich]]></link>
+  <authors>
+<author>
+<id>10420</id>
+<name>Aleksandr Solzhenitsyn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1204127475p5/10420.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1204127475p2/10420.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10420.Aleksandr_Solzhenitsyn]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>113531</ratings_count>
+<text_reviews_count>5152</text_reviews_count>
+</author>
+<author>
+<id>192496</id>
+<name>H.T. Willetts</name>
+<role>Translation</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/192496.H_T_Willetts]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>64815</ratings_count>
+<text_reviews_count>2149</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich">One Day in the Life of Ivan Denisovich Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0374529523&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="32626"/>
+      <shelf name="fiction" count="1717"/>
+      <shelf name="classics" count="1475"/>
+      <shelf name="currently-reading" count="921"/>
+      <shelf name="russian" count="672"/>
+      <shelf name="russia" count="538"/>
+      <shelf name="favorites" count="468"/>
+      <shelf name="historical-fiction" count="463"/>
+      <shelf name="russian-literature" count="391"/>
+      <shelf name="literature" count="361"/>
+      <shelf name="history" count="305"/>
+      <shelf name="classic" count="246"/>
+      <shelf name="owned" count="236"/>
+      <shelf name="russian-lit" count="214"/>
+      <shelf name="1001-books" count="182"/>
+      <shelf name="books-i-own" count="174"/>
+      <shelf name="novels" count="147"/>
+      <shelf name="historical" count="139"/>
+      <shelf name="1001" count="125"/>
+      <shelf name="20th-century" count="105"/>
+      <shelf name="school" count="101"/>
+      <shelf name="politics" count="96"/>
+      <shelf name="non-fiction" count="91"/>
+      <shelf name="owned-books" count="82"/>
+      <shelf name="novel" count="77"/>
+      <shelf name="default" count="77"/>
+      <shelf name="nobel-prize" count="69"/>
+      <shelf name="to-buy" count="67"/>
+      <shelf name="literary-fiction" count="64"/>
+      <shelf name="classic-literature" count="64"/>
+      <shelf name="1001-books-to-read-before-you-die" count="63"/>
+      <shelf name="read-for-school" count="61"/>
+      <shelf name="translated" count="61"/>
+      <shelf name="communism" count="59"/>
+      <shelf name="nobel" count="58"/>
+      <shelf name="favourites" count="55"/>
+      <shelf name="library" count="55"/>
+      <shelf name="high-school" count="51"/>
+      <shelf name="modern-classics" count="50"/>
+      <shelf name="adult" count="43"/>
+      <shelf name="europe" count="42"/>
+      <shelf name="war" count="39"/>
+      <shelf name="book-club" count="38"/>
+      <shelf name="translation" count="37"/>
+      <shelf name="prison" count="37"/>
+      <shelf name="literary" count="37"/>
+      <shelf name="biography" count="35"/>
+      <shelf name="memoir" count="34"/>
+      <shelf name="my-library" count="33"/>
+      <shelf name="nonfiction" count="33"/>
+      <shelf name="general-fiction" count="33"/>
+      <shelf name="1960s" count="32"/>
+      <shelf name="adult-fiction" count="32"/>
+      <shelf name="russian-classics" count="31"/>
+      <shelf name="for-school" count="31"/>
+      <shelf name="my-books" count="30"/>
+      <shelf name="classic-fiction" count="30"/>
+      <shelf name="soviet" count="29"/>
+      <shelf name="russians" count="29"/>
+      <shelf name="1001-books-you-must-read-before-you" count="29"/>
+      <shelf name="nobel-laureates" count="28"/>
+      <shelf name="school-books" count="27"/>
+      <shelf name="in-translation" count="27"/>
+      <shelf name="lit" count="27"/>
+      <shelf name="college" count="27"/>
+      <shelf name="cultural" count="26"/>
+      <shelf name="political" count="26"/>
+      <shelf name="soviet-union" count="26"/>
+      <shelf name="1001-books-to-read" count="25"/>
+      <shelf name="1001-import" count="24"/>
+      <shelf name="to-read-fiction" count="23"/>
+      <shelf name="russian-authors" count="23"/>
+      <shelf name="literature-russian" count="23"/>
+      <shelf name="kindle" count="22"/>
+      <shelf name="novella" count="22"/>
+      <shelf name="gulag" count="22"/>
+      <shelf name="home-library" count="22"/>
+      <shelf name="banned-books" count="22"/>
+      <shelf name="survival" count="22"/>
+      <shelf name="modern-fiction" count="21"/>
+      <shelf name="eastern-europe" count="21"/>
+      <shelf name="drama" count="21"/>
+      <shelf name="i-own" count="21"/>
+      <shelf name="contemporary" count="21"/>
+      <shelf name="nobel-prize-winners" count="20"/>
+      <shelf name="rory-gilmore-reading-challenge" count="19"/>
+      <shelf name="books" count="19"/>
+      <shelf name="translations" count="19"/>
+      <shelf name="wish-list" count="19"/>
+      <shelf name="modern" count="19"/>
+      <shelf name="russian-history" count="19"/>
+      <shelf name="philosophy" count="18"/>
+      <shelf name="fiction-literature" count="18"/>
+      <shelf name="short" count="18"/>
+      <shelf name="re-read" count="18"/>
+      <shelf name="read-in-2017" count="17"/>
+      <shelf name="read-in-2016" count="17"/>
+      <shelf name="world-literature" count="17"/>
+      <shelf name="novellas" count="17"/>
+      <shelf name="audiobooks" count="17"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>88459</id>
+<title>Forever Flowing</title>
+<title_without_series>Forever Flowing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88459.Forever_Flowing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>247</num_pages>
+<work>
+<id>728857</id>
+</work>
+<isbn>0810115034</isbn>
+<isbn13>9780810115033</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>1693</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>19595</id>
+<name>Vasily Grossman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19595.Vasily_Grossman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>109812</id>
+<title>Kolyma Tales</title>
+<title_without_series>Kolyma Tales</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/109812.Kolyma_Tales]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1465777117s/109812.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1465777117m/109812.jpg]]></image_url>
+<num_pages>508</num_pages>
+<work>
+<id>105834</id>
+</work>
+<isbn>0140186956</isbn>
+<isbn13>9780140186956</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>3207</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>7</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>63552</id>
+<name>Varlam Shalamov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/63552.Varlam_Shalamov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>847214</id>
+<title>Generations of Winter</title>
+<title_without_series>Generations of Winter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/847214.Generations_of_Winter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354580808s/847214.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354580808m/847214.jpg]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>475762</id>
+</work>
+<isbn>0679761829</isbn>
+<isbn13>9780679761822</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>365</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>3</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>14162922</id>
+<name>Vasily Aksyonov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14162922.Vasily_Aksyonov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>71149</id>
+<title>Journey into the Whirlwind</title>
+<title_without_series>Journey into the Whirlwind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/71149.Journey_into_the_Whirlwind]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876430s/71149.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876430m/71149.jpg]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>68902</id>
+</work>
+<isbn></isbn>
+<isbn13>9780156027519</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1981</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>64517</id>
+<name>Evgenia Ginzburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64517.Evgenia_Ginzburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>184913</id>
+<title>Petersburg</title>
+<title_without_series>Petersburg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/184913.Petersburg]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>3538</id>
+</work>
+<isbn>0253202191</isbn>
+<isbn13>9780253202192</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3413</ratings_count>
+<publication_year>1979</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>13997171</id>
+<name>Andrei Bely</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13997171.Andrei_Bely]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>78024</id>
+<title>And Quiet Flows the Don</title>
+<title_without_series>And Quiet Flows the Don</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/78024.And_Quiet_Flows_the_Don]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1444113702s/78024.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1444113702m/78024.jpg]]></image_url>
+<num_pages>1408</num_pages>
+<work>
+<id>2591018</id>
+</work>
+<isbn>0460878905</isbn>
+<isbn13>9780460878906</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>8311</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>44202</id>
+<name>Mikhail Sholokhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44202.Mikhail_Sholokhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5700</id>
+<title>The Adolescent</title>
+<title_without_series>The Adolescent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5700.The_Adolescent]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333784048s/5700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333784048m/5700.jpg]]></image_url>
+<num_pages>647</num_pages>
+<work>
+<id>39912542</id>
+</work>
+<isbn>0375719008</isbn>
+<isbn13>9780375719004</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>4065</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3137322</id>
+<name>Fyodor Dostoyevsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>404150</id>
+<title><![CDATA[The Portable Twentieth-Century Russian Reader]]></title>
+<title_without_series><![CDATA[The Portable Twentieth-Century Russian Reader]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/404150.The_Portable_Twentieth_Century_Russian_Reader]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309202912s/404150.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309202912m/404150.jpg]]></image_url>
+<num_pages>615</num_pages>
+<work>
+<id>780237</id>
+</work>
+<isbn>0142437573</isbn>
+<isbn13>9780142437575</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>219</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>157732</id>
+<name>Clarence Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157732.Clarence_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3532</id>
+<title>First Love</title>
+<title_without_series>First Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3532.First_Love]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1487439352s/3532.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1487439352m/3532.jpg]]></image_url>
+<num_pages>124</num_pages>
+<work>
+<id>1948996</id>
+</work>
+<isbn>0974607894</isbn>
+<isbn13>9780974607894</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>6611</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>410680</id>
+<name>Ivan Turgenev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410680.Ivan_Turgenev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>171091</id>
+<title>Poems of Akhmatova</title>
+<title_without_series>Poems of Akhmatova</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/171091.Poems_of_Akhmatova]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1382946631s/171091.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1382946631m/171091.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>26891396</id>
+</work>
+<isbn>0395860032</isbn>
+<isbn13>9780395860038</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>814</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>5</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>99703</id>
+<name>Anna Akhmatova</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99703.Anna_Akhmatova]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>97381</id>
+<title><![CDATA[The Queen of Spades and Other Stories]]></title>
+<title_without_series><![CDATA[The Queen of Spades and Other Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/97381.The_Queen_of_Spades_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>23962542</id>
+</work>
+<isbn>0192839543</isbn>
+<isbn13>9780192839541</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>5721</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>8</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>16070</id>
+<name>Alexander Pushkin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16070.Alexander_Pushkin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138612</id>
+<title>The Dream Life of Sukhanov</title>
+<title_without_series>The Dream Life of Sukhanov</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138612.The_Dream_Life_of_Sukhanov]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>869831</id>
+</work>
+<isbn>0143038400</isbn>
+<isbn13>9780143038405</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1085</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>80185</id>
+<name>Olga Grushin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/80185.Olga_Grushin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>74397</id>
+<title><![CDATA[The Life and Extraordinary Adventures of Private Ivan Chonkin]]></title>
+<title_without_series><![CDATA[The Life and Extraordinary Adventures of Private Ivan Chonkin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/74397.The_Life_and_Extraordinary_Adventures_of_Private_Ivan_Chonkin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>703115</id>
+</work>
+<isbn>0810112434</isbn>
+<isbn13>9780810112438</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1745</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>42170</id>
+<name>Vladimir Voinovich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42170.Vladimir_Voinovich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>162259</id>
+<title>The Petty Demon</title>
+<title_without_series>The Petty Demon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/162259.The_Petty_Demon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1340739669s/162259.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1340739669m/162259.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>787723</id>
+</work>
+<isbn>0882338080</isbn>
+<isbn13>9780882338088</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1093</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>1</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>94099</id>
+<name>Fyodor Sologub</name>
+<link><![CDATA[https://www.goodreads.com/author/show/94099.Fyodor_Sologub]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>132543</id>
+<title>The Golovlyov Family</title>
+<title_without_series>The Golovlyov Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/132543.The_Golovlyov_Family]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1476421804s/132543.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1476421804m/132543.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>127672</id>
+</work>
+<isbn>0940322579</isbn>
+<isbn13>9780940322578</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1600</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>672320</id>
+<name>Mikhail Saltykov-Shchedrin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/672320.Mikhail_Saltykov_Shchedrin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>589257</id>
+<title>Soul</title>
+<title_without_series>Soul</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/589257.Soul]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>576036</id>
+</work>
+<isbn>159017254X</isbn>
+<isbn13>9781590172544</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>873</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>12</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6454067</id>
+<name>Andrei Platonov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6454067.Andrei_Platonov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>204185</id>
+<title><![CDATA[The Enchanted Wanderer: Selected Tales]]></title>
+<title_without_series><![CDATA[The Enchanted Wanderer: Selected Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/204185.The_Enchanted_Wanderer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320451479s/204185.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320451479m/204185.jpg]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>197575</id>
+</work>
+<isbn>0812966961</isbn>
+<isbn13>9780812966961</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1280</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>24952</id>
+<name>Nikolai Leskov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24952.Nikolai_Leskov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>499378</id>
+<title>Sofia Petrovna</title>
+<title_without_series>Sofia Petrovna</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/499378.Sofia_Petrovna]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>2038693</id>
+</work>
+<isbn>0810111500</isbn>
+<isbn13>9780810111509</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>994</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>114805</id>
+<name>Lydia Chukovskaya</name>
+<link><![CDATA[https://www.goodreads.com/author/show/114805.Lydia_Chukovskaya]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

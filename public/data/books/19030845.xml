@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>19030845</id>
+  <title><![CDATA[Batman: The Dark Knight Returns #1]]></title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[B00C2ICFSS]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">27054644</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">19030845</best_book_id>
+  <reviews_count type="integer">43420</reviews_count>
+  <ratings_sum type="integer">135690</ratings_sum>
+  <ratings_count type="integer">32260</ratings_count>
+  <text_reviews_count type="integer">77</text_reviews_count>
+  <original_publication_year type="integer">1986</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Dark Knight Returns</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:17341|4:8158|3:4089|2:1414|1:1258|total:32260</rating_dist>
+  <desc_user_id type="integer">-9</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.21</average_rating>
+  <num_pages><![CDATA[50]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[32237]]></ratings_count>
+  <text_reviews_count><![CDATA[71]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/19030845-batman]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/19030845-batman]]></link>
+  <authors>
+<author>
+<id>15085</id>
+<name>Frank Miller</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1335457016p5/15085.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1335457016p2/15085.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15085.Frank_Miller]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>579189</ratings_count>
+<text_reviews_count>12645</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/19030845-batman">Batman Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B00C2ICFSS&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/19030845-batman?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="12265"/>
+      <shelf name="currently-reading" count="262"/>
+      <shelf name="comics" count="104"/>
+      <shelf name="graphic-novels" count="72"/>
+      <shelf name="cómics" count="56"/>
+      <shelf name="graphic-novel" count="33"/>
+      <shelf name="favorites" count="32"/>
+      <shelf name="batman" count="20"/>
+      <shelf name="comic-books" count="17"/>
+      <shelf name="fiction" count="17"/>
+      <shelf name="dc" count="11"/>
+      <shelf name="dc-comics" count="9"/>
+      <shelf name="comics-graphic-novels" count="9"/>
+      <shelf name="graphic-novels-comics" count="9"/>
+      <shelf name="owned" count="7"/>
+      <shelf name="superheroes" count="6"/>
+      <shelf name="comic" count="6"/>
+      <shelf name="comics-and-graphic-novels" count="5"/>
+      <shelf name="cómic" count="4"/>
+      <shelf name="fantasy" count="4"/>
+      <shelf name="read-comics" count="4"/>
+      <shelf name="books-i-own" count="3"/>
+      <shelf name="tbr" count="3"/>
+      <shelf name="sci-fi" count="3"/>
+      <shelf name="hq" count="3"/>
+      <shelf name="comics-read" count="3"/>
+      <shelf name="science-fiction" count="3"/>
+      <shelf name="library" count="3"/>
+      <shelf name="comic-book" count="3"/>
+      <shelf name="superhero" count="2"/>
+      <shelf name="kindle" count="2"/>
+      <shelf name="adventure" count="2"/>
+      <shelf name="novelas-gráficas" count="2"/>
+      <shelf name="super-heroes" count="2"/>
+      <shelf name="graphic-fiction" count="2"/>
+      <shelf name="sequential-art" count="2"/>
+      <shelf name="read-graphic-novels" count="2"/>
+      <shelf name="manga-and-comics" count="2"/>
+      <shelf name="graphic" count="2"/>
+      <shelf name="owned-books" count="2"/>
+      <shelf name="nope" count="2"/>
+      <shelf name="misc" count="2"/>
+      <shelf name="comicbooks" count="2"/>
+      <shelf name="my-books" count="2"/>
+      <shelf name="finished" count="2"/>
+      <shelf name="books" count="2"/>
+      <shelf name="comics-manga" count="2"/>
+      <shelf name="buy" count="2"/>
+      <shelf name="mystery" count="2"/>
+      <shelf name="personal-collection" count="2"/>
+      <shelf name="favourite" count="1"/>
+      <shelf name="on-actual-bookshelf" count="1"/>
+      <shelf name="metafiction" count="1"/>
+      <shelf name="bingo-2017" count="1"/>
+      <shelf name="male-author" count="1"/>
+      <shelf name="comics-and-graphic-novels-to-read" count="1"/>
+      <shelf name="distopian" count="1"/>
+      <shelf name="moviebook" count="1"/>
+      <shelf name="read-in-2017" count="1"/>
+      <shelf name="books-for-la-class" count="1"/>
+      <shelf name="1-have" count="1"/>
+      <shelf name="trade-paperbacks" count="1"/>
+      <shelf name="comics-manga-graphic-light-novels" count="1"/>
+      <shelf name="wise-graphic-core-collection" count="1"/>
+      <shelf name="children-young-adult" count="1"/>
+      <shelf name="graphic-novels-etc" count="1"/>
+      <shelf name="okuduklarım" count="1"/>
+      <shelf name="masterpiece" count="1"/>
+      <shelf name="have-but-yet-to-read" count="1"/>
+      <shelf name="aa-have-no-copy" count="1"/>
+      <shelf name="part-of-a-series" count="1"/>
+      <shelf name="my-fantastique-fiction" count="1"/>
+      <shelf name="shared-universe" count="1"/>
+      <shelf name="batman-family" count="1"/>
+      <shelf name="3rd-year-uni" count="1"/>
+      <shelf name="ya-and-contemporary" count="1"/>
+      <shelf name="pdfs" count="1"/>
+      <shelf name="paperback" count="1"/>
+      <shelf name="روايات-م-ترجمة" count="1"/>
+      <shelf name="comics-graphics" count="1"/>
+      <shelf name="physical" count="1"/>
+      <shelf name="a-fiction" count="1"/>
+      <shelf name="series-part-of" count="1"/>
+      <shelf name="read-in-china" count="1"/>
+      <shelf name="bd-à-lire" count="1"/>
+      <shelf name="united-states" count="1"/>
+      <shelf name="priority" count="1"/>
+      <shelf name="read-in-high-school" count="1"/>
+      <shelf name="purchased" count="1"/>
+      <shelf name="م-ترجم" count="1"/>
+      <shelf name="needed-for-collection" count="1"/>
+      <shelf name="20th-century" count="1"/>
+      <shelf name="translated-by-me" count="1"/>
+      <shelf name="comic-g-novals" count="1"/>
+      <shelf name="fhjb" count="1"/>
+      <shelf name="favorite-comics" count="1"/>
+      <shelf name="read-comic-books" count="1"/>
+      <shelf name="manga-comics" count="1"/>
+      <shelf name="books-read-2016" count="1"/>
+      <shelf name="collection" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>603208</id>
+<user_position>1</user_position>
+<series>
+<id>107546</id>
+<title>
+<![CDATA[
+    Batman: The Dark Knight Returns
+]]>
+</title>
+<description>
+<![CDATA[
+    Originally Published as a four issues series, later reprinted usually in one book. There also exist reprints in two books, and in larger books including other Batman material.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>603203</id>
+<user_position>DKR 1</user_position>
+<series>
+<id>67569</id>
+<title>
+<![CDATA[
+    Frank Miller's Batman
+]]>
+</title>
+<description>
+<![CDATA[
+    Batman Comics written and -sometimes- also illustrated by Frank Miller. According with the DC Universe pre-flashpoint, all this stories was part of the Earth-31.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>20</series_works_count>
+<primary_work_count>19</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>24866706</id>
+<title>Harley Quinn (2013-) #15</title>
+<title_without_series>Harley Quinn (2013-) #15</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24866706-harley-quinn-2013--15]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>44515187</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>149</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>54926</id>
+<name>Amanda Conner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54926.Amanda_Conner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13532246</id>
+<title><![CDATA[Batman: Knightfall, Vol. 3: KnightsEnd (New Edition)]]></title>
+<title_without_series><![CDATA[Batman: Knightfall, Vol. 3: KnightsEnd]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13532246-batman]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1347403349s/13532246.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1347403349m/13532246.jpg]]></image_url>
+<num_pages>652</num_pages>
+<work>
+<id>19093922</id>
+</work>
+<isbn>1401237215</isbn>
+<isbn13>9781401237219</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1188</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>28709</id>
+<name>Chuck Dixon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28709.Chuck_Dixon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29250050</id>
+<title><![CDATA[Exquisite Karma (Iron Horse MC, #4)]]></title>
+<title_without_series>Exquisite Karma</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29250050-exquisite-karma]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>49496168</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>475</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4827747</id>
+<name>Ann Mayburn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4827747.Ann_Mayburn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13489842</id>
+<title>Shackled </title>
+<title_without_series>Shackled</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13489842-shackled]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329537069s/13489842.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329537069m/13489842.jpg]]></image_url>
+<num_pages>38</num_pages>
+<work>
+<id>19028689</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>141</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>4831831</id>
+<name>Debra Anastasia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4831831.Debra_Anastasia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18630598</id>
+<title><![CDATA[Injustice: Gods Among Us: Year One, Vol. 2]]></title>
+<title_without_series><![CDATA[Injustice: Gods Among Us: Year One, Vol. 2]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18630598-injustice]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1419181862s/18630598.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1419181862m/18630598.jpg]]></image_url>
+<num_pages>232</num_pages>
+<work>
+<id>41319879</id>
+</work>
+<isbn>140124601X</isbn>
+<isbn13>9781401246013</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>2648</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6470937</id>
+<name>Tom    Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6470937.Tom_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17161282</id>
+<title>Saga #11</title>
+<title_without_series>Saga #11</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17161282-saga-11]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1447325749s/17161282.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1447325749m/17161282.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>23586369</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.53</average_rating>
+<ratings_count>1110</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>3</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>24514</id>
+<name>Brian K. Vaughan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24514.Brian_K_Vaughan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26541908</id>
+<title>Shutter, Vol. 3: Quo Vadis</title>
+<title_without_series>Shutter, Vol. 3: Quo Vadis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26541908-shutter-vol-3]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1451999728s/26541908.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1451999728m/26541908.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>46541465</id>
+</work>
+<isbn>1632155397</isbn>
+<isbn13>9781632155399</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>259</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5734732</id>
+<name>Joe Keatinge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5734732.Joe_Keatinge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17789315</id>
+<title><![CDATA[裸足でバラを踏め [Hadashi de Bara wo Fume] 9]]></title>
+<title_without_series><![CDATA[裸足でバラを踏め [Hadashi de Bara wo Fume] 9]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17789315-hadashi-de-bara-wo-fume-9]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365602292s/17789315.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365602292m/17789315.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>21466354</id>
+</work>
+<isbn>4088467655</isbn>
+<isbn13>9784088467658</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>968</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>410118</id>
+<name>Rinko Ueda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410118.Rinko_Ueda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>103409</id>
+<title><![CDATA[Thinking In Pictures: The Making Of The Movie Matewan]]></title>
+<title_without_series><![CDATA[Thinking In Pictures: The Making Of The Movie Matewan]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/103409.Thinking_In_Pictures]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>99698</id>
+</work>
+<isbn>0306812665</isbn>
+<isbn13>9780306812668</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>128</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>59757</id>
+<name>John Sayles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59757.John_Sayles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12428655</id>
+<title><![CDATA[The Best of the Rejection Collection: 293 Cartoons That Were Too Dumb, Too Dark, or Too Naughty for The New Yorker]]></title>
+<title_without_series><![CDATA[The Best of the Rejection Collection: 293 Cartoons That Were Too Dumb, Too Dark, or Too Naughty for The New Yorker]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12428655-the-best-of-the-rejection-collection]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328391357s/12428655.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328391357m/12428655.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>17410988</id>
+</work>
+<isbn>0761165789</isbn>
+<isbn13>9780761165781</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>267</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>262915</id>
+<name>Matthew Diffee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/262915.Matthew_Diffee]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

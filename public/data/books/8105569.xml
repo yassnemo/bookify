@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8105569</id>
+  <title><![CDATA[Oogy: The Dog Only a Family Could Love]]></title>
+  <isbn><![CDATA[0446546313]]></isbn>
+  <isbn13><![CDATA[9780446546317]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B004J4VZ3E]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1289446928m/8105569.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1289446928s/8105569.jpg</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Grand Central Publishing</publisher>
+  <language_code>en-GB</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In the bestselling tradition of <i>Rescuing Sprite</i> comes the story of a puppy brought back from the brink of death, and the family he adopted.<br /><br />In 2002, Larry Levin and his twin sons, Dan and Noah, took their terminally ill cat to the Ardmore Animal Hospital outside Philadelphia to have the beloved pet put to sleep. What would begin as a terrible day suddenly got brighter as the ugliest dog they had ever seen--one who was missing an ear and had half his face covered in scar tissue--ran up to them and captured their hearts. The dog had been used as bait for fighting dogs when he was just a few months old. He had been thrown in a cage and left to die until the police rescued him and the staff at Ardmore Animal Hospital saved his life. The Levins, whose sons are themselves adopted, were unable to resist Oogy's charms, and decided to take him home. <br /><br />Heartwarming and redemptive, OOGY is the story of the people who were determined to rescue this dog against all odds, and of the family who took him home, named him "Oogy" (an affectionate derivative of ugly), and made him one of their own.]]></description>
+  <work>
+  <id type="integer">12899560</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">8105569</best_book_id>
+  <reviews_count type="integer">21111</reviews_count>
+  <ratings_sum type="integer">44215</ratings_sum>
+  <ratings_count type="integer">10939</ratings_count>
+  <text_reviews_count type="integer">1275</text_reviews_count>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">12</original_publication_day>
+  <original_title>Oogy: The Dog Only a Family Could Love</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4487|4:3439|3:2169|2:673|1:171|total:10939</rating_dist>
+  <desc_user_id type="integer">10956072</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.04</average_rating>
+  <num_pages><![CDATA[214]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10274]]></ratings_count>
+  <text_reviews_count><![CDATA[1167]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8105569-oogy]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8105569-oogy]]></link>
+  <authors>
+<author>
+<id>3507043</id>
+<name>Larry Levin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282676821p5/3507043.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282676821p2/3507043.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3507043.Larry_Levin]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>10940</ratings_count>
+<text_reviews_count>1275</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8105569-oogy">Oogy Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446546313&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/8105569-oogy?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9071"/>
+      <shelf name="non-fiction" count="224"/>
+      <shelf name="currently-reading" count="217"/>
+      <shelf name="animals" count="170"/>
+      <shelf name="dogs" count="110"/>
+      <shelf name="nonfiction" count="82"/>
+      <shelf name="favorites" count="62"/>
+      <shelf name="memoir" count="49"/>
+      <shelf name="books-i-own" count="36"/>
+      <shelf name="biography" count="30"/>
+      <shelf name="dog-books" count="22"/>
+      <shelf name="memoirs" count="22"/>
+      <shelf name="pets" count="21"/>
+      <shelf name="animal" count="20"/>
+      <shelf name="owned" count="19"/>
+      <shelf name="animal-stories" count="19"/>
+      <shelf name="animal-rescue" count="16"/>
+      <shelf name="audiobooks" count="16"/>
+      <shelf name="audiobook" count="14"/>
+      <shelf name="audio" count="14"/>
+      <shelf name="read-in-2011" count="14"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="wish-list" count="13"/>
+      <shelf name="adult" count="12"/>
+      <shelf name="biographies" count="12"/>
+      <shelf name="biography-memoir" count="12"/>
+      <shelf name="dog" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="family" count="11"/>
+      <shelf name="dog-stories" count="11"/>
+      <shelf name="animal-books" count="10"/>
+      <shelf name="audio-books" count="9"/>
+      <shelf name="human-animal-bond" count="8"/>
+      <shelf name="book-club" count="8"/>
+      <shelf name="inspirational" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="own-it" count="7"/>
+      <shelf name="default" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="shelfari-favorites" count="6"/>
+      <shelf name="read-in-2014" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="true-stories" count="6"/>
+      <shelf name="doggies" count="6"/>
+      <shelf name="other" count="6"/>
+      <shelf name="2011-reads" count="6"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="adoption" count="6"/>
+      <shelf name="dog-fighting" count="5"/>
+      <shelf name="animal-adoption" count="5"/>
+      <shelf name="heart-warming" count="5"/>
+      <shelf name="kindle" count="5"/>
+      <shelf name="nf" count="5"/>
+      <shelf name="animals-dogs" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="animals-pets" count="5"/>
+      <shelf name="own-to-read" count="5"/>
+      <shelf name="first-reads" count="5"/>
+      <shelf name="oogy" count="5"/>
+      <shelf name="books-i-have" count="4"/>
+      <shelf name="maybe" count="4"/>
+      <shelf name="favourites" count="4"/>
+      <shelf name="young-adult" count="4"/>
+      <shelf name="books-about-animals" count="4"/>
+      <shelf name="ebook" count="4"/>
+      <shelf name="ebooks" count="4"/>
+      <shelf name="to-read-own" count="4"/>
+      <shelf name="non-fiction-animals" count="4"/>
+      <shelf name="library-book" count="4"/>
+      <shelf name="true-story" count="4"/>
+      <shelf name="favorite-books" count="4"/>
+      <shelf name="animal-related" count="4"/>
+      <shelf name="bio-memoir" count="4"/>
+      <shelf name="books" count="3"/>
+      <shelf name="read-in-2013" count="3"/>
+      <shelf name="friendship" count="3"/>
+      <shelf name="memoirs-and-biographies" count="3"/>
+      <shelf name="novels" count="3"/>
+      <shelf name="biographies-memoirs" count="3"/>
+      <shelf name="read-in-2012" count="3"/>
+      <shelf name="larry-levin" count="3"/>
+      <shelf name="novel" count="3"/>
+      <shelf name="miscellaneous" count="3"/>
+      <shelf name="have" count="3"/>
+      <shelf name="humor" count="3"/>
+      <shelf name="listened-to" count="3"/>
+      <shelf name="listened" count="3"/>
+      <shelf name="abuse" count="3"/>
+      <shelf name="abandoned" count="3"/>
+      <shelf name="read-2011" count="3"/>
+      <shelf name="animal-tales" count="3"/>
+      <shelf name="2011-books" count="3"/>
+      <shelf name="nonfic" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="books-read-in-2011" count="3"/>
+      <shelf name="funny" count="3"/>
+      <shelf name="read-in-2010" count="3"/>
+      <shelf name="memoir-biography" count="3"/>
+      <shelf name="adult-non-fiction" count="3"/>
+      <shelf name="favorite" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>7816264</id>
+<title><![CDATA[The Lost Dogs: Michael Vick's Dogs and Their Tale of Rescue and Redemption]]></title>
+<title_without_series><![CDATA[The Lost Dogs: Michael Vick's Dogs and Their Tale of Rescue and Redemption]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7816264-the-lost-dogs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1285023549s/7816264.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1285023549m/7816264.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>10842267</id>
+</work>
+<isbn>1592405509</isbn>
+<isbn13>9781592405503</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>5086</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>228406</id>
+<name>Jim Gorant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/228406.Jim_Gorant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6700212</id>
+<title><![CDATA[Saving Gracie: How One Dog Escaped the Shadowy World of American Puppy Mills]]></title>
+<title_without_series><![CDATA[Saving Gracie: How One Dog Escaped the Shadowy World of American Puppy Mills]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6700212-saving-gracie]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6895943</id>
+</work>
+<isbn>0470447583</isbn>
+<isbn13>9780470447581</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>998</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3017275</id>
+<name>Carol Bradley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3017275.Carol_Bradley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42851</id>
+<title><![CDATA[Dogs Who Found Me: What I've Learned From Pets Who Were Left Behind]]></title>
+<title_without_series><![CDATA[Dogs Who Found Me: What I've Learned From Pets Who Were Left Behind]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42851.Dogs_Who_Found_Me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1417981972s/42851.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1417981972m/42851.jpg]]></image_url>
+<num_pages>194</num_pages>
+<work>
+<id>42318</id>
+</work>
+<isbn>1592287492</isbn>
+<isbn13>9781592287499</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>2513</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24101</id>
+<name>Ken Foster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24101.Ken_Foster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8044564</id>
+<title><![CDATA[Katie Up and Down the Hall: The True Story of How One Dog Turned Five Neighbors into a Family]]></title>
+<title_without_series><![CDATA[Katie Up and Down the Hall: The True Story of How One Dog Turned Five Neighbors into a Family]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8044564-katie-up-and-down-the-hall]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>12681554</id>
+</work>
+<isbn>1599952548</isbn>
+<isbn13>9781599952543</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1064</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>225664</id>
+<name>Glenn Plaskin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/225664.Glenn_Plaskin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7790308</id>
+<title><![CDATA[Huck: The Remarkable True Story of How One Lost Puppy Taught a Family - and a Whole Town - About Hope and Happy Endings]]></title>
+<title_without_series><![CDATA[Huck: The Remarkable True Story of How One Lost Puppy Taught a Family - and a Whole Town - About Hope and Happy Endings]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7790308-huck]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320546103s/7790308.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320546103m/7790308.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>10742584</id>
+</work>
+<isbn>0767931343</isbn>
+<isbn13>9780767931342</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>1448</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>163177</id>
+<name>Janet Elder</name>
+<link><![CDATA[https://www.goodreads.com/author/show/163177.Janet_Elder]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6260262</id>
+<title><![CDATA[One Dog at a Time: Saving the Strays of Helmand - An Inspiring True Story]]></title>
+<title_without_series><![CDATA[One Dog at a Time: Saving the Strays of Helmand - An Inspiring True Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6260262-one-dog-at-a-time]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408312478s/6260262.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408312478m/6260262.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>6443396</id>
+</work>
+<isbn>009192880X</isbn>
+<isbn13>9780091928803</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>766</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2847180</id>
+<name>Pen Farthing</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2847180.Pen_Farthing]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8103646</id>
+<title>Pukka: The Pup After Merle</title>
+<title_without_series>Pukka: The Pup After Merle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8103646-pukka]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12889518</id>
+</work>
+<isbn>0547386087</isbn>
+<isbn13>9780547386089</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>733</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>217419</id>
+<name>Ted Kerasote</name>
+<link><![CDATA[https://www.goodreads.com/author/show/217419.Ted_Kerasote]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6598483</id>
+<title><![CDATA[DogTown: Tales of Rescue, Rehabilitation, and Redemption]]></title>
+<title_without_series><![CDATA[DogTown: Tales of Rescue, Rehabilitation, and Redemption]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6598483-dogtown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320468867s/6598483.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320468867m/6598483.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>6792302</id>
+</work>
+<isbn>1426205627</isbn>
+<isbn13>9781426205620</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>785</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>103137</id>
+<name>Stefan Bechtel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/103137.Stefan_Bechtel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6927061</id>
+<title><![CDATA[Scent of the Missing: Love and Partnership with a Search-and-Rescue Dog]]></title>
+<title_without_series><![CDATA[Scent of the Missing: Love and Partnership with a Search-and-Rescue Dog]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6927061-scent-of-the-missing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>285</num_pages>
+<work>
+<id>7157024</id>
+</work>
+<isbn>0547152442</isbn>
+<isbn13>9780547152448</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>3535</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3098115</id>
+<name>Susannah Charleson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3098115.Susannah_Charleson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>485440</id>
+<title>Amazing Gracie: A Dog&apos;s Tale</title>
+<title_without_series>Amazing Gracie: A Dog&apos;s Tale</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/485440.Amazing_Gracie]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1404581273s/485440.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1404581273m/485440.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1518969</id>
+</work>
+<isbn>0761129758</isbn>
+<isbn13>9780761129752</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>5743</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>257570</id>
+<name>Dan Dye</name>
+<link><![CDATA[https://www.goodreads.com/author/show/257570.Dan_Dye]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18740</id>
+<title><![CDATA[From Baghdad, With Love: A Marine, the War, and a Dog Named Lava (Lava #1)]]></title>
+<title_without_series><![CDATA[From Baghdad, With Love: A Marine, the War, and a Dog Named Lava]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18740.From_Baghdad_With_Love]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>196</num_pages>
+<work>
+<id>20104</id>
+</work>
+<isbn>1592289800</isbn>
+<isbn13>9781592289806</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>6229</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11283</id>
+<name>Jay Kopelman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11283.Jay_Kopelman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1967737</id>
+<title><![CDATA[Tell Me Where It Hurts: A Day of Humor, Healing, and Hope in My Life as an Animal Surgeon]]></title>
+<title_without_series><![CDATA[Tell Me Where It Hurts: A Day of Humor, Healing, and Hope in My Life as an Animal Surgeon]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1967737.Tell_Me_Where_It_Hurts]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320445140s/1967737.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320445140m/1967737.jpg]]></image_url>
+<num_pages>286</num_pages>
+<work>
+<id>1970902</id>
+</work>
+<isbn>0767926439</isbn>
+<isbn13>9780767926430</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>4409</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>893708</id>
+<name>Nick Trout</name>
+<link><![CDATA[https://www.goodreads.com/author/show/893708.Nick_Trout]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6539539</id>
+<title><![CDATA[Saving Cinnamon: The Amazing True Story of a Missing Military Puppy and the Desperate Mission to Bring Her Home]]></title>
+<title_without_series><![CDATA[Saving Cinnamon: The Amazing True Story of a Missing Military Puppy and the Desperate Mission to Bring Her Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6539539-saving-cinnamon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6731767</id>
+</work>
+<isbn>0312596286</isbn>
+<isbn13>9780312596286</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>527</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2120315</id>
+<name>Christine Sullivan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2120315.Christine_Sullivan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8303298</id>
+<title><![CDATA[A Small Furry Prayer: Dog Rescue and the Meaning of Life]]></title>
+<title_without_series><![CDATA[A Small Furry Prayer: Dog Rescue and the Meaning of Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8303298-a-small-furry-prayer]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13152262</id>
+</work>
+<isbn>1608190021</isbn>
+<isbn13>9781608190027</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1356</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10960</id>
+<name>Steven Kotler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10960.Steven_Kotler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7845926</id>
+<title><![CDATA[You Had Me at Woof: How Dogs Taught Me the Secrets of Happiness]]></title>
+<title_without_series><![CDATA[You Had Me at Woof: How Dogs Taught Me the Secrets of Happiness]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7845926-you-had-me-at-woof]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>228</num_pages>
+<work>
+<id>10952742</id>
+</work>
+<isbn>1594487766</isbn>
+<isbn13>9781594487767</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>3892</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>157036</id>
+<name>Julie Klam</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157036.Julie_Klam]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1493914</id>
+<title><![CDATA[The Dog Who Rescues Cats: True Story of Ginny]]></title>
+<title_without_series><![CDATA[The Dog Who Rescues Cats: True Story of Ginny]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1493914.The_Dog_Who_Rescues_Cats]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>1485218</id>
+</work>
+<isbn>0060927801</isbn>
+<isbn13>9780060927806</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1013</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>443475</id>
+<name>Philip González</name>
+<link><![CDATA[https://www.goodreads.com/author/show/443475.Philip_Gonz_lez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3321719</id>
+<title><![CDATA[Izzy & Lenore: Two Dogs, an Unexpected Journey, and Me]]></title>
+<title_without_series><![CDATA[Izzy & Lenore: Two Dogs, an Unexpected Journey, and Me]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3321719-izzy-lenore]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3359531</id>
+</work>
+<isbn>1400066301</isbn>
+<isbn13>9781400066308</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>2220</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>36719</id>
+<name>Jon Katz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36719.Jon_Katz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8070252</id>
+<title>A Dog Named Slugger</title>
+<title_without_series>A Dog Named Slugger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8070252-a-dog-named-slugger]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>12772000</id>
+</work>
+<isbn>0984325654</isbn>
+<isbn13>9780984325658</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>1753</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3494863</id>
+<name>Leigh Brill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3494863.Leigh_Brill]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

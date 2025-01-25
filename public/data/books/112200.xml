@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>112200</id>
+  <title>Selected Poems</title>
+  <isbn><![CDATA[0517206064]]></isbn>
+  <isbn13><![CDATA[9780517206065]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1260829838m/112200.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1260829838s/112200.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Emily Dickinson was born into a prominent New England family. Sociable as a child, she grew increasingly withdrawn, and in later years became known as a recluse. <br /><br />Only seven of her poems were published during her lifetime. After Emily's death in 1886, her sister Lavinia discovered 1,775 poems bound in small packets tied with thread. <br /><br />They were first published in 1890, attracting unexpected attention in literary circles. With spare, precise language, Emily Dickinson conveyed a penetrating vision of the natural world and an acute understanding of the most profound human truths.]]></description>
+  <work>
+  <id type="integer">471777</id>
+  <books_count type="integer">98</books_count>
+  <best_book_id type="integer">112200</best_book_id>
+  <reviews_count type="integer">30062</reviews_count>
+  <ratings_sum type="integer">75165</ratings_sum>
+  <ratings_count type="integer">18052</ratings_count>
+  <text_reviews_count type="integer">283</text_reviews_count>
+  <original_publication_year type="integer">1890</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Selected Poems of Emily Dickinson</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8220|4:5768|3:3139|2:651|1:274|total:18052</rating_dist>
+  <desc_user_id type="integer">1525599</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.16</average_rating>
+  <num_pages><![CDATA[256]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16222]]></ratings_count>
+  <text_reviews_count><![CDATA[100]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/112200.Selected_Poems]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/112200.Selected_Poems]]></link>
+  <authors>
+<author>
+<id>7440</id>
+<name>Emily Dickinson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198536260p5/7440.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198536260p2/7440.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7440.Emily_Dickinson]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>111353</ratings_count>
+<text_reviews_count>2838</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/112200.Selected_Poems">Selected Poems Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0517206064&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/112200.Selected_Poems?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10599"/>
+      <shelf name="poetry" count="1010"/>
+      <shelf name="currently-reading" count="222"/>
+      <shelf name="classics" count="201"/>
+      <shelf name="favorites" count="77"/>
+      <shelf name="books-i-own" count="69"/>
+      <shelf name="owned" count="64"/>
+      <shelf name="19th-century" count="32"/>
+      <shelf name="default" count="30"/>
+      <shelf name="poesia" count="28"/>
+      <shelf name="classic" count="22"/>
+      <shelf name="owned-books" count="22"/>
+      <shelf name="literature" count="22"/>
+      <shelf name="non-fiction" count="22"/>
+      <shelf name="american-literature" count="20"/>
+      <shelf name="fiction" count="20"/>
+      <shelf name="poems" count="18"/>
+      <shelf name="my-library" count="17"/>
+      <shelf name="american" count="16"/>
+      <shelf name="home-library" count="14"/>
+      <shelf name="english" count="14"/>
+      <shelf name="my-books" count="13"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="library" count="10"/>
+      <shelf name="nonfiction" count="10"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="school" count="9"/>
+      <shelf name="to-buy" count="9"/>
+      <shelf name="american-lit" count="9"/>
+      <shelf name="kindle" count="8"/>
+      <shelf name="poetry-and-plays" count="8"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="women" count="7"/>
+      <shelf name="female-authors" count="6"/>
+      <shelf name="read-in-english" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="women-writers" count="6"/>
+      <shelf name="on-my-bookshelf" count="5"/>
+      <shelf name="poem" count="5"/>
+      <shelf name="reference" count="5"/>
+      <shelf name="personal-library" count="4"/>
+      <shelf name="2015-reads" count="4"/>
+      <shelf name="classic-literature" count="4"/>
+      <shelf name="own-read" count="4"/>
+      <shelf name="to-read-classics" count="4"/>
+      <shelf name="america" count="4"/>
+      <shelf name="partially-read" count="4"/>
+      <shelf name="collection" count="4"/>
+      <shelf name="classics-read" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="americana" count="3"/>
+      <shelf name="public-domain" count="3"/>
+      <shelf name="owned-but-not-read" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="female-author" count="3"/>
+      <shelf name="never-finished" count="3"/>
+      <shelf name="owned-unread" count="3"/>
+      <shelf name="academic" count="3"/>
+      <shelf name="other" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="poetry-prose" count="3"/>
+      <shelf name="literature-poetry" count="3"/>
+      <shelf name="1800s" count="3"/>
+      <shelf name="to-read-poetry" count="3"/>
+      <shelf name="my-bookshelf" count="3"/>
+      <shelf name="finished" count="3"/>
+      <shelf name="classic-lit" count="3"/>
+      <shelf name="read-in-2011" count="3"/>
+      <shelf name="read-for-school" count="3"/>
+      <shelf name="poetry-read" count="3"/>
+      <shelf name="mylibrary" count="3"/>
+      <shelf name="school-books" count="3"/>
+      <shelf name="collections" count="3"/>
+      <shelf name="read-2017" count="2"/>
+      <shelf name="read-in-2017" count="2"/>
+      <shelf name="female" count="2"/>
+      <shelf name="poetry-to-read" count="2"/>
+      <shelf name="own-misc" count="2"/>
+      <shelf name="stand-alone" count="2"/>
+      <shelf name="beautiful-books" count="2"/>
+      <shelf name="stanza-c" count="2"/>
+      <shelf name="feminism" count="2"/>
+      <shelf name="lit" count="2"/>
+      <shelf name="reviewed" count="2"/>
+      <shelf name="2016-reading-challenge" count="2"/>
+      <shelf name="shelfari-poetry" count="2"/>
+      <shelf name="physical-book" count="2"/>
+      <shelf name="to-read-longlist" count="2"/>
+      <shelf name="read-in-2015" count="2"/>
+      <shelf name="4-stars" count="2"/>
+      <shelf name="tbr-2016" count="2"/>
+      <shelf name="uni" count="2"/>
+      <shelf name="read-as-a-kid" count="2"/>
+      <shelf name="on-hold" count="2"/>
+      <shelf name="us" count="2"/>
+      <shelf name="not-interested" count="2"/>
+      <shelf name="2014-favourites" count="2"/>
+      <shelf name="poésie" count="2"/>
+      <shelf name="in-my-library" count="2"/>
+      <shelf name="art" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>752886</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/752886.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328868118s/752886.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328868118m/752886.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>1424648</id>
+</work>
+<isbn>0486268780</isbn>
+<isbn13>9780486268781</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>1857</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1438</id>
+<name>Walt Whitman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1438.Walt_Whitman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>752800</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/752800.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328868464s/752800.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328868464m/752800.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>738928</id>
+</work>
+<isbn>0486277887</isbn>
+<isbn13>9780486277882</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1799</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>12</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>77318</id>
+<name>John Donne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77318.John_Donne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12204</id>
+<title><![CDATA[The Road Not Taken and Other Poems]]></title>
+<title_without_series><![CDATA[The Road Not Taken and Other Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12204.The_Road_Not_Taken_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415677882s/12204.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415677882m/12204.jpg]]></image_url>
+<num_pages>49</num_pages>
+<work>
+<id>14527</id>
+</work>
+<isbn>0486275507</isbn>
+<isbn13>9780486275505</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>31420</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>7715</id>
+<name>Robert Frost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7715.Robert_Frost]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>154387</id>
+<title>Sonnets from the Portuguese</title>
+<title_without_series>Sonnets from the Portuguese</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/154387.Sonnets_from_the_Portuguese]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>738953</id>
+</work>
+<isbn>031274501X</isbn>
+<isbn13>9780312745011</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>9831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>67032</id>
+<name>Elizabeth Barrett Browning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67032.Elizabeth_Barrett_Browning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138164</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138164.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>133177</id>
+</work>
+<isbn>0753816652</isbn>
+<isbn13>9780753816653</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>3537</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>29963</id>
+<name>W.B. Yeats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/29963.W_B_Yeats]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138133</id>
+<title><![CDATA[Complete Poems and Selected Letters]]></title>
+<title_without_series><![CDATA[Complete Poems and Selected Letters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138133.Complete_Poems_and_Selected_Letters]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403191817s/138133.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403191817m/138133.jpg]]></image_url>
+<num_pages>640</num_pages>
+<work>
+<id>311306</id>
+</work>
+<isbn>0375756698</isbn>
+<isbn13>9780375756696</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>2093</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>2</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>11978</id>
+<name>John Keats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11978.John_Keats]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42051</id>
+<title><![CDATA[The Complete Sonnets and Poems]]></title>
+<title_without_series><![CDATA[The Complete Sonnets and Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42051.The_Complete_Sonnets_and_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>624</num_pages>
+<work>
+<id>26321722</id>
+</work>
+<isbn>019281933X</isbn>
+<isbn13>9780192819338</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>5689</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>65335</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/65335.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327930875s/65335.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327930875m/65335.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>63385</id>
+</work>
+<isbn>067972818X</isbn>
+<isbn13>9780679728184</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>5621</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>36910</id>
+<name>Langston Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36910.Langston_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>304728</id>
+<title><![CDATA[One Hundred and One Famous Poems: With a Prose Supplement]]></title>
+<title_without_series><![CDATA[One Hundred and One Famous Poems: With a Prose Supplement]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/304728.One_Hundred_and_One_Famous_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369822640s/304728.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369822640m/304728.jpg]]></image_url>
+<num_pages>186</num_pages>
+<work>
+<id>295751</id>
+</work>
+<isbn>0809288311</isbn>
+<isbn13>9780809288311</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>976</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2731820</id>
+<name>Roy J. Cook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2731820.Roy_J_Cook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294395</id>
+<title>Poetry</title>
+<title_without_series>Poetry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294395.Poetry]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>285665</id>
+</work>
+<isbn>0393972798</isbn>
+<isbn13>9780393972795</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>7089</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>2</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>13638502</id>
+<name>Alfred Tennyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13638502.Alfred_Tennyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119239</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119239.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411634706s/119239.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411634706m/119239.jpg]]></image_url>
+<num_pages>864</num_pages>
+<work>
+<id>1697235</id>
+</work>
+<isbn>0140424504</isbn>
+<isbn13>9780140424508</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>11321</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>44407</id>
+<name>George Gordon Byron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44407.George_Gordon_Byron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>752936</id>
+<title>A Shropshire Lad</title>
+<title_without_series>A Shropshire Lad</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/752936.A_Shropshire_Lad]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414599637s/752936.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414599637m/752936.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1548437</id>
+</work>
+<isbn>0486264688</isbn>
+<isbn13>9780486264684</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1642</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>38069</id>
+<name>A.E. Housman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38069.A_E_Housman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>765004</id>
+<title><![CDATA[Selected Poems of Christina Rossetti (Wordsworth Poetry Library)]]></title>
+<title_without_series><![CDATA[Selected Poems of Christina Rossetti]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/765004.Selected_Poems_of_Christina_Rossetti]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414351252s/765004.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414351252m/765004.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>19059334</id>
+</work>
+<isbn>1853264296</isbn>
+<isbn13>9781853264290</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>543</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>2</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>143178</id>
+<name>Christina Rossetti</name>
+<link><![CDATA[https://www.goodreads.com/author/show/143178.Christina_Rossetti]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>386270</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386270.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>984352</id>
+</work>
+<isbn>0156806479</isbn>
+<isbn13>9780156806473</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>7656</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18540</id>
+<name>T.S. Eliot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18540.T_S_Eliot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13223</id>
+<title>The Complete Poems</title>
+<title_without_series>The Complete Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13223.The_Complete_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>15390</id>
+</work>
+<isbn>0231103476</isbn>
+<isbn13>9780231103473</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>2112</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4191</id>
+<name>Emily Brontë</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4191.Emily_Bront_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>430400</id>
+<title><![CDATA[My Last Duchess and Other Poems]]></title>
+<title_without_series><![CDATA[My Last Duchess and Other Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/430400.My_Last_Duchess_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328868461s/430400.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328868461m/430400.jpg]]></image_url>
+<num_pages>110</num_pages>
+<work>
+<id>419380</id>
+</work>
+<isbn>0486277836</isbn>
+<isbn13>9780486277837</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>4855</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>12</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>24391</id>
+<name>Robert Browning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24391.Robert_Browning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>139004</id>
+<title>Essays and Poems</title>
+<title_without_series>Essays and Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/139004.Essays_and_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>133989</id>
+</work>
+<isbn>159308076X</isbn>
+<isbn13>9781593080761</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>11975</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12080</id>
+<name>Ralph Waldo Emerson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12080.Ralph_Waldo_Emerson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

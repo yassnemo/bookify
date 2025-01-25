@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>402017</id>
+  <title>The Cake Mix Doctor</title>
+  <isbn><![CDATA[0761117199]]></isbn>
+  <isbn13><![CDATA[9780761117193]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00C51J8DM]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1404582048m/402017.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1404582048s/402017.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description></description>
+  <work>
+  <id type="integer">391419</id>
+  <books_count type="integer">6</books_count>
+  <best_book_id type="integer">402017</best_book_id>
+  <reviews_count type="integer">15408</reviews_count>
+  <ratings_sum type="integer">38489</ratings_sum>
+  <ratings_count type="integer">9732</ratings_count>
+  <text_reviews_count type="integer">102</text_reviews_count>
+  <original_publication_year type="integer">1999</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">11</original_publication_day>
+  <original_title>The Cake Mix Doctor</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type nil="true"/>
+  <rating_dist>5:3885|4:2793|3:2092|2:654|1:308|total:9732</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.95</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9662]]></ratings_count>
+  <text_reviews_count><![CDATA[100]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/402017.The_Cake_Mix_Doctor]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/402017.The_Cake_Mix_Doctor]]></link>
+  <authors>
+<author>
+<id>59490</id>
+<name>Anne Byrn</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/59490.Anne_Byrn]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>12450</ratings_count>
+<text_reviews_count>272</text_reviews_count>
+</author>
+<author>
+<id>3995440</id>
+<name>Anthony Loew</name>
+<role>Photographer</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3995440.Anthony_Loew]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>10260</ratings_count>
+<text_reviews_count>114</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/402017.The_Cake_Mix_Doctor">The Cake Mix Doctor Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0761117199&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/402017.The_Cake_Mix_Doctor?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5677"/>
+      <shelf name="cookbooks" count="197"/>
+      <shelf name="cooking" count="63"/>
+      <shelf name="currently-reading" count="42"/>
+      <shelf name="cookbook" count="39"/>
+      <shelf name="non-fiction" count="19"/>
+      <shelf name="food" count="16"/>
+      <shelf name="cook-books" count="11"/>
+      <shelf name="books-i-own" count="10"/>
+      <shelf name="nonfiction" count="10"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="baking" count="9"/>
+      <shelf name="reference" count="9"/>
+      <shelf name="favorites" count="7"/>
+      <shelf name="cookery" count="5"/>
+      <shelf name="default" count="4"/>
+      <shelf name="cookbooks-i-own" count="4"/>
+      <shelf name="recipe-books" count="4"/>
+      <shelf name="cookbookery" count="3"/>
+      <shelf name="owned-books" count="3"/>
+      <shelf name="cookbook-collection" count="3"/>
+      <shelf name="cooking-baking" count="3"/>
+      <shelf name="to-read-cookbooks" count="3"/>
+      <shelf name="my-cookbooks" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="cookbooks-own" count="2"/>
+      <shelf name="paperback" count="2"/>
+      <shelf name="cook-book" count="2"/>
+      <shelf name="cookbooks-read" count="2"/>
+      <shelf name="5-stars" count="2"/>
+      <shelf name="wish-list" count="2"/>
+      <shelf name="food-cookbooks" count="2"/>
+      <shelf name="four-stars" count="2"/>
+      <shelf name="cake" count="2"/>
+      <shelf name="cookbooks-i-like" count="2"/>
+      <shelf name="cookbook-library" count="1"/>
+      <shelf name="bake-it" count="1"/>
+      <shelf name="cooking-entertaining" count="1"/>
+      <shelf name="july" count="1"/>
+      <shelf name="cookbooks-owned" count="1"/>
+      <shelf name="read-in-2017" count="1"/>
+      <shelf name="desserts-baking" count="1"/>
+      <shelf name="non-diction" count="1"/>
+      <shelf name="sabbatical" count="1"/>
+      <shelf name="textbooks" count="1"/>
+      <shelf name="food-books-i-own" count="1"/>
+      <shelf name="library-system" count="1"/>
+      <shelf name="own-reference" count="1"/>
+      <shelf name="main" count="1"/>
+      <shelf name="cook-books-read" count="1"/>
+      <shelf name="cakes" count="1"/>
+      <shelf name="christian-bibles-non-fiction" count="1"/>
+      <shelf name="cooking-recipes" count="1"/>
+      <shelf name="hardback" count="1"/>
+      <shelf name="read-2013" count="1"/>
+      <shelf name="labeled" count="1"/>
+      <shelf name="400-to-500" count="1"/>
+      <shelf name="cookbooks-and-food" count="1"/>
+      <shelf name="southern" count="1"/>
+      <shelf name="coffee-cakes-and-sweets-reading" count="1"/>
+      <shelf name="mega-house-library" count="1"/>
+      <shelf name="cookbpoks" count="1"/>
+      <shelf name="cookbooks-diets-health" count="1"/>
+      <shelf name="pb" count="1"/>
+      <shelf name="1990-s-books" count="1"/>
+      <shelf name="cookbooks-desserts" count="1"/>
+      <shelf name="before-gr" count="1"/>
+      <shelf name="cookbooks-in-my-collection" count="1"/>
+      <shelf name="5-star" count="1"/>
+      <shelf name="4-stars-loved-it" count="1"/>
+      <shelf name="i-own-this" count="1"/>
+      <shelf name="want-to-keep-buy" count="1"/>
+      <shelf name="owned-cookbooks" count="1"/>
+      <shelf name="want-to-own" count="1"/>
+      <shelf name="not-read" count="1"/>
+      <shelf name="home-library" count="1"/>
+      <shelf name="b1" count="1"/>
+      <shelf name="donated-books" count="1"/>
+      <shelf name="food-and-drink" count="1"/>
+      <shelf name="we-own-already" count="1"/>
+      <shelf name="shelf" count="1"/>
+      <shelf name="various-edibles" count="1"/>
+      <shelf name="x" count="1"/>
+      <shelf name="food-cooking-nutrition" count="1"/>
+      <shelf name="scribd" count="1"/>
+      <shelf name="cookooks-i-own" count="1"/>
+      <shelf name="drugs" count="1"/>
+      <shelf name="permanent-collection-cookbooks" count="1"/>
+      <shelf name="read-in-15" count="1"/>
+      <shelf name="library-book" count="1"/>
+      <shelf name="e-book" count="1"/>
+      <shelf name="scanned" count="1"/>
+      <shelf name="nonfiction-to-do" count="1"/>
+      <shelf name="cookbooks-at-home" count="1"/>
+      <shelf name="every-day-cookbooks" count="1"/>
+      <shelf name="time-to-read-again" count="1"/>
+      <shelf name="own-copy" count="1"/>
+      <shelf name="mom-s-books" count="1"/>
+      <shelf name="the-happy-belly" count="1"/>
+      <shelf name="living-room-shelf" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>129664</id>
+<title>Betty Crocker&apos;s Cooky Book</title>
+<title_without_series>Betty Crocker&apos;s Cooky Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/129664.Betty_Crocker_s_Cooky_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>4334183</id>
+</work>
+<isbn>0764566377</isbn>
+<isbn13>9780764566370</isbn13>
+<average_rating>4.38</average_rating>
+<ratings_count>2350</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>4087929</id>
+<name>Betty Crocker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4087929.Betty_Crocker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>67656</id>
+<title><![CDATA[The Lady & Sons Just Desserts: More Than 120 Sweet Temptations from Savannah's Favorite Restaurant]]></title>
+<title_without_series><![CDATA[The Lady & Sons Just Desserts: More Than 120 Sweet Temptations from Savannah's Favorite Restaurant]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67656.The_Lady_Sons_Just_Desserts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>65617</id>
+</work>
+<isbn>0743290208</isbn>
+<isbn13>9780743290203</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>2487</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>38159</id>
+<name>Paula H. Deen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38159.Paula_H_Deen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1671115</id>
+<title>The Taste of Home Baking Book</title>
+<title_without_series>The Taste of Home Baking Book</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1671115.The_Taste_of_Home_Baking_Book]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309298128s/1671115.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309298128m/1671115.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>1666100</id>
+</work>
+<isbn>0898215285</isbn>
+<isbn13>9780898215281</isbn13>
+<average_rating>4.41</average_rating>
+<ratings_count>2094</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>418225</id>
+<name>Janet Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/418225.Janet_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>732053</id>
+<title><![CDATA[Top Secret Restaurant Recipes: Creating Kitchen Clones from America's Favorite Restaurant Chains]]></title>
+<title_without_series><![CDATA[Top Secret Restaurant Recipes: Creating Kitchen Clones from America's Favorite Restaurant Chains]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/732053.Top_Secret_Restaurant_Recipes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392587003s/732053.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392587003m/732053.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>718243</id>
+</work>
+<isbn>0452275873</isbn>
+<isbn13>9780452275874</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>4767</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>89610</id>
+<name>Todd Wilbur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/89610.Todd_Wilbur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8122492</id>
+<title><![CDATA[The Gourmet Cookie Book: The Single Best Recipe from Each Year 1941-2009]]></title>
+<title_without_series><![CDATA[The Gourmet Cookie Book: The Single Best Recipe from Each Year 1941-2009]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8122492-the-gourmet-cookie-book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>12917982</id>
+</work>
+<isbn>0547328168</isbn>
+<isbn13>9780547328164</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>372</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4673142</id>
+<name>Gourmet Magazine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4673142.Gourmet_Magazine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5103512</id>
+<title><![CDATA[Martha Stewart's Cupcakes: 175 Inspired Ideas for Everyone's Favorite Treat]]></title>
+<title_without_series><![CDATA[Martha Stewart's Cupcakes: 175 Inspired Ideas for Everyone's Favorite Treat]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5103512-martha-stewart-s-cupcakes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320443899s/5103512.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320443899m/5103512.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>5170276</id>
+</work>
+<isbn>0307460444</isbn>
+<isbn13>9780307460448</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>8338</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>2657</id>
+<name>Martha Stewart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2657.Martha_Stewart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>698321</id>
+<title><![CDATA[The Confetti Cakes Cookbook: Spectacular Cookies, Cakes, and Cupcakes from New York City's Famed Bakery]]></title>
+<title_without_series><![CDATA[The Confetti Cakes Cookbook: Spectacular Cookies, Cakes, and Cupcakes from New York City's Famed Bakery]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/698321.The_Confetti_Cakes_Cookbook]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344270354s/698321.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344270354m/698321.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>684639</id>
+</work>
+<isbn>0316113077</isbn>
+<isbn13>9780316113076</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>412</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>372904</id>
+<name>Elisa Strauss</name>
+<link><![CDATA[https://www.goodreads.com/author/show/372904.Elisa_Strauss]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>131990</id>
+<title><![CDATA[Fix-It and Forget-It Lightly: Healthy, Low-Fat Recipes for Your Slow Cooker]]></title>
+<title_without_series><![CDATA[Fix-It and Forget-It Lightly: Healthy, Low-Fat Recipes for Your Slow Cooker]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/131990.Fix_It_and_Forget_It_Lightly]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>284</num_pages>
+<work>
+<id>127133</id>
+</work>
+<isbn>1561484318</isbn>
+<isbn13>9781561484317</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1657</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>76002</id>
+<name>Phyllis Pellman Good</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76002.Phyllis_Pellman_Good]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>447345</id>
+<title>Crazy About Cupcakes</title>
+<title_without_series>Crazy About Cupcakes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/447345.Crazy_About_Cupcakes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328859763s/447345.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328859763m/447345.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>436009</id>
+</work>
+<isbn>1402719949</isbn>
+<isbn13>9781402719943</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1072</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>251359</id>
+<name>Krystina Castella</name>
+<link><![CDATA[https://www.goodreads.com/author/show/251359.Krystina_Castella]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10568</id>
+<title><![CDATA[King Arthur Flour Whole Grain Baking: Delicious Recipes Using Nutritious Whole Grains]]></title>
+<title_without_series><![CDATA[King Arthur Flour Whole Grain Baking: Delicious Recipes Using Nutritious Whole Grains]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10568.King_Arthur_Flour_Whole_Grain_Baking]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>13240</id>
+</work>
+<isbn>0881507199</isbn>
+<isbn13>9780881507195</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>4019</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>10</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>6930</id>
+<name>King Arthur Flour</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6930.King_Arthur_Flour]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>763852</id>
+<title><![CDATA[The Complete Cooking Light Cookbook]]></title>
+<title_without_series><![CDATA[The Complete Cooking Light Cookbook]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/763852.The_Complete_Cooking_Light_Cookbook]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>749934</id>
+</work>
+<isbn>084871945X</isbn>
+<isbn13>0749075091383</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>3005</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4372504</id>
+<name>Cooking Light Magazine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4372504.Cooking_Light_Magazine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>425634</id>
+<title><![CDATA[Mrs. Fields Cookie Book: 100 Recipes from the Kitchen of Mrs. Fields]]></title>
+<title_without_series><![CDATA[Mrs. Fields Cookie Book: 100 Recipes from the Kitchen of Mrs. Fields]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/425634.Mrs_Fields_Cookie_Book]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>414695</id>
+</work>
+<isbn>0809467151</isbn>
+<isbn13>9780809467150</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>901</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>159541</id>
+<name>Debbi Fields</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159541.Debbi_Fields]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>966347</id>
+<title><![CDATA[Emeril's TV Dinners: Kickin' It Up A Notch With Recipes From Emeril Live And Essence Of Emeril]]></title>
+<title_without_series><![CDATA[Emeril's TV Dinners: Kickin' It Up A Notch With Recipes From Emeril Live And Essence Of Emeril]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/966347.Emeril_s_TV_Dinners]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>951244</id>
+</work>
+<isbn>0688163785</isbn>
+<isbn13>9780688163785</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>445</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>65583</id>
+<name>Emeril Lagasse</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65583.Emeril_Lagasse]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>71806</id>
+<title>30-Minute Meals</title>
+<title_without_series>30-Minute Meals</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/71806.30_Minute_Meals]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>69526</id>
+</work>
+<isbn>1891105035</isbn>
+<isbn13>9781891105036</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>6923</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2646</id>
+<name>Rachael Ray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2646.Rachael_Ray]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>697489</id>
+<title><![CDATA[Southern Cakes: Sweet and Irresistible Recipes for Everyday Celebrations]]></title>
+<title_without_series><![CDATA[Southern Cakes: Sweet and Irresistible Recipes for Everyday Celebrations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/697489.Southern_Cakes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>168</num_pages>
+<work>
+<id>683807</id>
+</work>
+<isbn>0811853705</isbn>
+<isbn13>9780811853705</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>1238</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4549</id>
+<name>Nancie McDermott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4549.Nancie_McDermott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5983011</id>
+<title><![CDATA[BabyCakes: Vegan, (Mostly) Gluten-Free, and (Mostly) Sugar-Free Recipes from New York's Most Talked-About Bakery]]></title>
+<title_without_series><![CDATA[BabyCakes: Vegan, (Mostly) Gluten-Free, and (Mostly) Sugar-Free Recipes from New York's Most Talked-About Bakery]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5983011-babycakes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320400872s/5983011.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320400872m/5983011.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>6156441</id>
+</work>
+<isbn>0307408833</isbn>
+<isbn13>9780307408839</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>3948</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>7173204</id>
+<name>Erin  McKenna</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7173204.Erin_McKenna]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2324124</id>
+<title>Hello, Cupcake</title>
+<title_without_series>Hello, Cupcake</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2324124.Hello_Cupcake]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2330648</id>
+</work>
+<isbn>0618829253</isbn>
+<isbn13>9780618829255</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>10711</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4740029</id>
+<name>Alan    Richardson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4740029.Alan_Richardson]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

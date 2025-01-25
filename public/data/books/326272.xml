@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>326272</id>
+  <title>عقاید یک دلقک</title>
+  <isbn><![CDATA[9645571766]]></isbn>
+  <isbn13><![CDATA[9789645571762]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1394632139m/326272.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1394632139s/326272.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>نشر چشمه</publisher>
+  <language_code>per</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[این کتاب درباره‌ی دلقکی به نام «شنیر» است که همسرش او را ترک کرده و به همین دلیل دچار افسردگی است. از این رو برای تسکین آلام خود به مشروب رو آورده‌است. او بعد از افتضاحی که در یکی از نمایش‌هایش به وجود می‌آورد، به محل زندگی‌اش باز می‌گردد. او که به پول نیاز دارد، دفترچه تلفنش را باز می‌کند و با آشنایان تماس می‌گیرد. در این میان بارها به گذشته می‌رود و خاطراتش را می‌گوید.]]></description>
+  <work>
+  <id type="integer">2321188</id>
+  <books_count type="integer">126</books_count>
+  <best_book_id type="integer">69091</best_book_id>
+  <reviews_count type="integer">25624</reviews_count>
+  <ratings_sum type="integer">56384</ratings_sum>
+  <ratings_count type="integer">13914</ratings_count>
+  <text_reviews_count type="integer">827</text_reviews_count>
+  <original_publication_year type="integer">1963</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Ansichten eines Clowns</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5321|4:5109|3:2600|2:659|1:225|total:13914</rating_dist>
+  <desc_user_id type="integer">7492276</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.05</average_rating>
+  <num_pages><![CDATA[353]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4234]]></ratings_count>
+  <text_reviews_count><![CDATA[321]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/326272._]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/326272._]]></link>
+  <authors>
+<author>
+<id>39326</id>
+<name>Heinrich Böll</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1189258937p5/39326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1189258937p2/39326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/39326.Heinrich_B_ll]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>41582</ratings_count>
+<text_reviews_count>2473</text_reviews_count>
+</author>
+<author>
+<id>1399960</id>
+<name>محمد اسماعیل‌زاده</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1399960._]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>5073</ratings_count>
+<text_reviews_count>383</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/326272._">عقاید یک دلقک Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9645571766&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/326272._?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8036"/>
+      <shelf name="currently-reading" count="495"/>
+      <shelf name="favorites" count="235"/>
+      <shelf name="fiction" count="206"/>
+      <shelf name="german" count="135"/>
+      <shelf name="novel" count="129"/>
+      <shelf name="classics" count="88"/>
+      <shelf name="german-literature" count="69"/>
+      <shelf name="literature" count="57"/>
+      <shelf name="novels" count="50"/>
+      <shelf name="germany" count="49"/>
+      <shelf name="رمان" count="43"/>
+      <shelf name="nobel-prize" count="36"/>
+      <shelf name="owned" count="34"/>
+      <shelf name="default" count="28"/>
+      <shelf name="20th-century" count="28"/>
+      <shelf name="deutsch" count="26"/>
+      <shelf name="narrativa" count="22"/>
+      <shelf name="nobel" count="21"/>
+      <shelf name="classic" count="19"/>
+      <shelf name="favorite" count="19"/>
+      <shelf name="owned-books" count="18"/>
+      <shelf name="german-lit" count="18"/>
+      <shelf name="favourites" count="17"/>
+      <shelf name="رمان-خارجی" count="16"/>
+      <shelf name="nobel-laureates" count="14"/>
+      <shelf name="literary-fiction" count="14"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="داستان-خارجی" count="13"/>
+      <shelf name="unfinished" count="13"/>
+      <shelf name="to-buy" count="12"/>
+      <shelf name="germania" count="11"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="read-in-german" count="11"/>
+      <shelf name="letteratura-tedesca" count="10"/>
+      <shelf name="finished" count="10"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="historical-fiction" count="9"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="contemporary" count="8"/>
+      <shelf name="دارمشان" count="8"/>
+      <shelf name="داستان" count="8"/>
+      <shelf name="story" count="8"/>
+      <shelf name="nobel-prize-winners" count="8"/>
+      <shelf name="translated" count="8"/>
+      <shelf name="war" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="ادبیات-جهان" count="7"/>
+      <shelf name="european-literature" count="7"/>
+      <shelf name="religion" count="7"/>
+      <shelf name="to-read-fiction" count="7"/>
+      <shelf name="europe" count="7"/>
+      <shelf name="ebooks" count="7"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="ادبیات-آلمان" count="6"/>
+      <shelf name="1" count="6"/>
+      <shelf name="re-read" count="6"/>
+      <shelf name="german-austrian" count="6"/>
+      <shelf name="kindle" count="6"/>
+      <shelf name="auf-deutsch" count="6"/>
+      <shelf name="german-classics" count="6"/>
+      <shelf name="to-re-read" count="6"/>
+      <shelf name="deutschland" count="6"/>
+      <shelf name="novela" count="6"/>
+      <shelf name="1960s" count="6"/>
+      <shelf name="history" count="6"/>
+      <shelf name="عقاید-یک-دلقک" count="5"/>
+      <shelf name="prose" count="5"/>
+      <shelf name="ادبیات" count="5"/>
+      <shelf name="favourite" count="5"/>
+      <shelf name="tedesca" count="5"/>
+      <shelf name="modern-classics" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="heinrich-böll" count="5"/>
+      <shelf name="european" count="5"/>
+      <shelf name="literature-german" count="5"/>
+      <shelf name="novecento" count="5"/>
+      <shelf name="biblioteca" count="5"/>
+      <shelf name="romanzi" count="5"/>
+      <shelf name="داستان-و-رمان" count="4"/>
+      <shelf name="preferiti" count="4"/>
+      <shelf name="klassiker" count="4"/>
+      <shelf name="literary" count="4"/>
+      <shelf name="libreria" count="4"/>
+      <shelf name="drama" count="4"/>
+      <shelf name="audiobook" count="4"/>
+      <shelf name="letteratura" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="ناتمام" count="4"/>
+      <shelf name="want-to-buy" count="4"/>
+      <shelf name="classici" count="4"/>
+      <shelf name="started" count="4"/>
+      <shelf name="not" count="4"/>
+      <shelf name="at-home" count="4"/>
+      <shelf name="narrativa-tedesca" count="4"/>
+      <shelf name="german-language" count="4"/>
+      <shelf name="general-fiction" count="4"/>
+      <shelf name="heinrich-boll" count="4"/>
+      <shelf name="german-fiction" count="4"/>
+      <shelf name="german-books" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>662768</id>
+<title>خداحافظ گاری کوپر</title>
+<title_without_series>خداحافظ گاری کوپر</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/662768._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>1630007</id>
+</work>
+<isbn>9644481429</isbn>
+<isbn13>9789644481420</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>5229</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>32807</id>
+<name>Romain Gary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/32807.Romain_Gary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>117904</id>
+<title>همنوایی شبانه‌ی ارکستر چوبها</title>
+<title_without_series>همنوایی شبانه‌ی ارکستر چوبها</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/117904._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>209</num_pages>
+<work>
+<id>723293</id>
+</work>
+<isbn></isbn>
+<isbn13>9789644482279</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>4791</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>924207</id>
+<name>رضا قاسمی</name>
+<link><![CDATA[https://www.goodreads.com/author/show/924207._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>440111</id>
+<title>میرا</title>
+<title_without_series>میرا</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/440111._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334840060s/440111.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334840060m/440111.jpg]]></image_url>
+<num_pages>91</num_pages>
+<work>
+<id>68575</id>
+</work>
+<isbn>9648223092</isbn>
+<isbn13>9789648223095</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>3582</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>40003</id>
+<name>Christopher Frank</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40003.Christopher_Frank]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>287505</id>
+<title>The German Lesson</title>
+<title_without_series>The German Lesson</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/287505.The_German_Lesson]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1353183560s/287505.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1353183560m/287505.jpg]]></image_url>
+<num_pages>470</num_pages>
+<work>
+<id>278937</id>
+</work>
+<isbn>0811209822</isbn>
+<isbn13>9780811209823</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1758</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>45787</id>
+<name>Siegfried Lenz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45787.Siegfried_Lenz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>377815</id>
+<title><![CDATA[داستان خرس‌های پاندا: به روایت یک ساکسیفونیست که دوست‌دختری در فرانکفورت دارد]]></title>
+<title_without_series><![CDATA[داستان خرس‌های پاندا: به روایت یک ساکسیفونیست که دوست‌دختری در فرانکفورت دارد]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/377815._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1457965832s/377815.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1457965832m/377815.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>1447450</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3120</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3171846</id>
+<name>Matei Vişniec</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3171846.Matei_Vi_niec]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>148831</id>
+<title>جنگل واژگون</title>
+<title_without_series>جنگل واژگون</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/148831._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1280237697s/148831.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1280237697m/148831.jpg]]></image_url>
+<num_pages>94</num_pages>
+<work>
+<id>4648117</id>
+</work>
+<isbn>9648573299</isbn>
+<isbn13>9789648573299</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>1524</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>819789</id>
+<name>J.D. Salinger</name>
+<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>230861</id>
+<title>The Land of Green Plums</title>
+<title_without_series>The Land of Green Plums</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/230861.The_Land_of_Green_Plums]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327888203s/230861.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327888203m/230861.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>223593</id>
+</work>
+<isbn>1862072604</isbn>
+<isbn13>9781862072602</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>3179</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>134980</id>
+<name>Herta Müller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134980.Herta_M_ller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1228823</id>
+<title>زندگی جنگ و دیگر هیچ</title>
+<title_without_series>زندگی جنگ و دیگر هیچ</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1228823._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1453473430s/1228823.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1453473430m/1228823.jpg]]></image_url>
+<num_pages>429</num_pages>
+<work>
+<id>1217371</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>1292</ratings_count>
+<publication_year>1975</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>25545</id>
+<name>Oriana Fallaci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25545.Oriana_Fallaci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>302983</id>
+<title>جای خالی سلوچ</title>
+<title_without_series>جای خالی سلوچ</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/302983._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268611739s/302983.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268611739m/302983.jpg]]></image_url>
+<num_pages>405</num_pages>
+<work>
+<id>2074264</id>
+</work>
+<isbn>9646194265</isbn>
+<isbn13></isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>2543</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8056299</id>
+<name>محمود دولت‌آبادی</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8056299._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>150002</id>
+<title>سال بلوا</title>
+<title_without_series>سال بلوا</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/150002._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1293272868s/150002.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1293272868m/150002.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>1497552</id>
+</work>
+<isbn>9643113744</isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2509</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>386595</id>
+<name>عباس معروفی</name>
+<link><![CDATA[https://www.goodreads.com/author/show/386595._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>116925</id>
+<title>شازده احتجاب</title>
+<title_without_series>شازده احتجاب</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/116925._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>1124810</id>
+</work>
+<isbn>9644481372</isbn>
+<isbn13></isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>2882</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5615767</id>
+<name>هوشنگ گلشیری</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5615767._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>659416</id>
+<title>خرده جنایت‌های زناشوهری</title>
+<title_without_series>خرده جنایت‌های زناشوهری</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/659416._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1325404888s/659416.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1325404888m/659416.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>1771246</id>
+</work>
+<isbn>9643414094</isbn>
+<isbn13>9789643414092</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>3825</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2976</id>
+<name>Éric-Emmanuel Schmitt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2976._ric_Emmanuel_Schmitt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>433478</id>
+<title><![CDATA[(مجموعه آثار احمد شاملو (دفتر یکم: شعرها 1378-1323]]></title>
+<title_without_series><![CDATA[(مجموعه آثار احمد شاملو (دفتر یکم: شعرها 1378-1323]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/433478._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1118</num_pages>
+<work>
+<id>1871812</id>
+</work>
+<isbn></isbn>
+<isbn13>9789643511500</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>2608</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6904638</id>
+<name>احمد شاملو</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6904638._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24077</id>
+<title>Crabwalk</title>
+<title_without_series>Crabwalk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24077.Crabwalk]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328874815s/24077.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328874815m/24077.jpg]]></image_url>
+<num_pages>252</num_pages>
+<work>
+<id>1319913</id>
+</work>
+<isbn>0156029707</isbn>
+<isbn13>9780156029704</isbn13>
+<average_rating>3.43</average_rating>
+<ratings_count>2193</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>749461</id>
+<name>Günter Grass</name>
+<link><![CDATA[https://www.goodreads.com/author/show/749461.G_nter_Grass]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>230131</id>
+<title>خرمگس</title>
+<title_without_series>خرمگس</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/230131._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>423</num_pages>
+<work>
+<id>3905792</id>
+</work>
+<isbn>9640005514</isbn>
+<isbn13>9789640005514</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>6182</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>799335</id>
+<name>Ethel Lilian Voynich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/799335.Ethel_Lilian_Voynich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>346419</id>
+<title><![CDATA[ایمان بیاوریم به آغازِ فصلِ سرد]]></title>
+<title_without_series><![CDATA[ایمان بیاوریم به آغازِ فصلِ سرد]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/346419._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>400872</id>
+</work>
+<isbn>9646026435</isbn>
+<isbn13></isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2777</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>73639</id>
+<name>فروغ فرخزاد</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73639._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>576154</id>
+<title><![CDATA[Die gerettete Zunge: Geschichte einer Jugend]]></title>
+<title_without_series><![CDATA[Die gerettete Zunge: Geschichte einer Jugend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/576154.Die_gerettete_Zunge]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>806963</id>
+</work>
+<isbn>3596220831</isbn>
+<isbn13>9783596220830</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>854</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6517</id>
+<name>Elias Canetti</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6517.Elias_Canetti]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>99483</id>
+<title><![CDATA[Confessions of Felix Krull, Confidence Man: The Early Years]]></title>
+<title_without_series><![CDATA[Confessions of Felix Krull, Confidence Man: The Early Years]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/99483.Confessions_of_Felix_Krull_Confidence_Man]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>2563005</id>
+</work>
+<isbn>0679739041</isbn>
+<isbn13>9780679739043</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2601</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>19405</id>
+<name>Thomas Mann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19405.Thomas_Mann]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

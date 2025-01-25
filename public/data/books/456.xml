@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>456</id>
+  <title>Leviathan</title>
+  <isbn><![CDATA[0140178139]]></isbn>
+  <isbn13><![CDATA[9780140178135]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00LDYDBXK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1993</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Penguin Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>New York Times </i>bestselling author Paul Auster (<i>The New York Trilogy</i>) opens <i>Leviathan</i> with the tearing of a bomb explosion and the death of one Benjamin Sachs. Ben’s one-time best friend, Peter Aaron, begins to retrospectively investigate the transformation that led Ben from his enviable, stable life to one of a recluse. Both were once intelligent, yet struggling novelists until Ben’s near-death experience falling from a fire escape triggers a tumble in which he becomes withdrawn and disturbed, living alone and building bombs in a far-off cabin. That is, until he mysteriously disappears, leaving behind only a manuscript titled <i>Leviathan</i>, pages rustling in the wind.]]></description>
+  <work>
+  <id type="integer">1128381</id>
+  <books_count type="integer">50</books_count>
+  <best_book_id type="integer">456</best_book_id>
+  <reviews_count type="integer">18237</reviews_count>
+  <ratings_sum type="integer">46584</ratings_sum>
+  <ratings_count type="integer">11803</ratings_count>
+  <text_reviews_count type="integer">517</text_reviews_count>
+  <original_publication_year type="integer">1992</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Leviathan</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3352|4:5171|3:2685|2:490|1:105|total:11803</rating_dist>
+  <desc_user_id type="integer">23907076</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.95</average_rating>
+  <num_pages><![CDATA[275]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10008]]></ratings_count>
+  <text_reviews_count><![CDATA[368]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/456.Leviathan]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/456.Leviathan]]></link>
+  <authors>
+<author>
+<id>296961</id>
+<name>Paul Auster</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455603276p5/296961.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1455603276p2/296961.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/296961.Paul_Auster]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>241877</ratings_count>
+<text_reviews_count>16962</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/456.Leviathan">Leviathan Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140178139&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/456.Leviathan?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="484"/>
+      <shelf name="fiction" count="261"/>
+      <shelf name="currently-reading" count="167"/>
+      <shelf name="favorites" count="97"/>
+      <shelf name="american" count="42"/>
+      <shelf name="literature" count="41"/>
+      <shelf name="paul-auster" count="39"/>
+      <shelf name="owned" count="35"/>
+      <shelf name="contemporary" count="33"/>
+      <shelf name="novels" count="30"/>
+      <shelf name="novel" count="29"/>
+      <shelf name="default" count="28"/>
+      <shelf name="usa" count="28"/>
+      <shelf name="books-i-own" count="22"/>
+      <shelf name="literary-fiction" count="22"/>
+      <shelf name="american-literature" count="21"/>
+      <shelf name="20th-century" count="16"/>
+      <shelf name="to-buy" count="15"/>
+      <shelf name="auster" count="15"/>
+      <shelf name="english" count="14"/>
+      <shelf name="mystery" count="14"/>
+      <shelf name="library" count="14"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="favourites" count="12"/>
+      <shelf name="contemporary-fiction" count="12"/>
+      <shelf name="novela" count="10"/>
+      <shelf name="modern-fiction" count="10"/>
+      <shelf name="literary" count="8"/>
+      <shelf name="my-library" count="8"/>
+      <shelf name="1990s" count="8"/>
+      <shelf name="finished" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="roman" count="8"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="crime" count="7"/>
+      <shelf name="read-in-2012" count="6"/>
+      <shelf name="american-fiction" count="6"/>
+      <shelf name="america" count="6"/>
+      <shelf name="americana" count="6"/>
+      <shelf name="general-fiction" count="6"/>
+      <shelf name="read-in-2011" count="5"/>
+      <shelf name="literatura" count="5"/>
+      <shelf name="modern" count="5"/>
+      <shelf name="american-lit" count="5"/>
+      <shelf name="thriller" count="5"/>
+      <shelf name="shelfari-favorites" count="4"/>
+      <shelf name="on-the-shelf" count="4"/>
+      <shelf name="philosophy" count="4"/>
+      <shelf name="new" count="4"/>
+      <shelf name="narrativa" count="4"/>
+      <shelf name="postmodern" count="4"/>
+      <shelf name="borrowed" count="4"/>
+      <shelf name="north-america" count="4"/>
+      <shelf name="ficción" count="4"/>
+      <shelf name="read-in-2009" count="4"/>
+      <shelf name="drama" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="adult-fiction" count="4"/>
+      <shelf name="favorite-authors" count="4"/>
+      <shelf name="own-but-not-read" count="3"/>
+      <shelf name="friendship" count="3"/>
+      <shelf name="male-author" count="3"/>
+      <shelf name="collection" count="3"/>
+      <shelf name="i-own" count="3"/>
+      <shelf name="a" count="3"/>
+      <shelf name="e-book" count="3"/>
+      <shelf name="20th-century-lit" count="3"/>
+      <shelf name="school" count="3"/>
+      <shelf name="new-york" count="3"/>
+      <shelf name="postmodernism" count="3"/>
+      <shelf name="read-2012" count="3"/>
+      <shelf name="modern-lit" count="3"/>
+      <shelf name="school-books" count="3"/>
+      <shelf name="favoritos" count="3"/>
+      <shelf name="prose" count="3"/>
+      <shelf name="1001-books" count="3"/>
+      <shelf name="romance" count="3"/>
+      <shelf name="us" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="romans" count="3"/>
+      <shelf name="favorite-books" count="3"/>
+      <shelf name="unread" count="3"/>
+      <shelf name="to-re-read" count="3"/>
+      <shelf name="foreign" count="3"/>
+      <shelf name="all-time-favorites" count="3"/>
+      <shelf name="bookclub" count="3"/>
+      <shelf name="2006" count="3"/>
+      <shelf name="my-collection" count="2"/>
+      <shelf name="recommendations" count="2"/>
+      <shelf name="writers" count="2"/>
+      <shelf name="keltainen-kirjasto" count="2"/>
+      <shelf name="in-english" count="2"/>
+      <shelf name="1" count="2"/>
+      <shelf name="relationships" count="2"/>
+      <shelf name="audible" count="2"/>
+      <shelf name="own-to-read" count="2"/>
+      <shelf name="scanning" count="2"/>
+      <shelf name="read-in-2015" count="2"/>
+      <shelf name="other" count="2"/>
+      <shelf name="español" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>125496</id>
+<title>The Blindfold</title>
+<title_without_series>The Blindfold</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/125496.The_Blindfold]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317792997s/125496.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317792997m/125496.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1163811</id>
+</work>
+<isbn>031242275X</isbn>
+<isbn13>9780312422752</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>2171</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>40851</id>
+<name>Siri Hustvedt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40851.Siri_Hustvedt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>703163</id>
+<title>Exit Ghost</title>
+<title_without_series>Exit Ghost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/703163.Exit_Ghost]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327631702s/703163.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327631702m/703163.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>2800076</id>
+</work>
+<isbn>0618915478</isbn>
+<isbn13>9780618915477</isbn13>
+<average_rating>3.48</average_rating>
+<ratings_count>4030</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>463</id>
+<name>Philip Roth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/463.Philip_Roth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25082172</id>
+<title>The Lost Swimmer</title>
+<title_without_series>The Lost Swimmer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25082172-the-lost-swimmer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1425611343s/25082172.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1425611343m/25082172.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>44769071</id>
+</work>
+<isbn></isbn>
+<isbn13>9781925030860</isbn13>
+<average_rating>3.20</average_rating>
+<ratings_count>675</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13583861</id>
+<name>Ann   Turner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13583861.Ann_Turner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23282020</id>
+<title><![CDATA[Single Jewish Male Seeking Soul Mate]]></title>
+<title_without_series><![CDATA[Single Jewish Male Seeking Soul Mate]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23282020-single-jewish-male-seeking-soul-mate]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421890214s/23282020.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421890214m/23282020.jpg]]></image_url>
+<num_pages>296</num_pages>
+<work>
+<id>42819895</id>
+</work>
+<isbn>1558618872</isbn>
+<isbn13>9781558618879</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>218</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>5</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>54064</id>
+<name>Letty Cottin Pogrebin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54064.Letty_Cottin_Pogrebin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>53380</id>
+<title>Double Game</title>
+<title_without_series>Double Game</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53380.Double_Game]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>52056</id>
+</work>
+<isbn>1900828065</isbn>
+<isbn13>9781900828062</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>470</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>30183</id>
+<name>Sophie Calle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30183.Sophie_Calle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>437965</id>
+<title><![CDATA[A View from the Bridge / All My Sons]]></title>
+<title_without_series><![CDATA[A View from the Bridge / All My Sons]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/437965.A_View_from_the_Bridge_All_My_Sons]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>171</num_pages>
+<work>
+<id>1093092</id>
+</work>
+<isbn>0141183500</isbn>
+<isbn13>9780141183503</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>687</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8120</id>
+<name>Arthur Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8120.Arthur_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7865039</id>
+<title>Triste, solitario y final</title>
+<title_without_series>Triste, solitario y final</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7865039-triste-solitario-y-final]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268671526s/7865039.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268671526m/7865039.jpg]]></image_url>
+<num_pages>165</num_pages>
+<work>
+<id>14892592</id>
+</work>
+<isbn>880618184X</isbn>
+<isbn13>9788806181840</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>789</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>116833</id>
+<name>Osvaldo Soriano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/116833.Osvaldo_Soriano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>21857952</id>
+<title>Saree</title>
+<title_without_series>Saree</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/21857952-saree]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1396932575s/21857952.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1396932575m/21857952.jpg]]></image_url>
+<num_pages>560</num_pages>
+<work>
+<id>41131717</id>
+</work>
+<isbn>1922052930</isbn>
+<isbn13>9781922052933</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>181</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8125689</id>
+<name>Su  Dharmapala</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8125689.Su_Dharmapala]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13279582</id>
+<title>Papeles en el viento</title>
+<title_without_series>Papeles en el viento</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13279582-papeles-en-el-viento]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327263345s/13279582.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327263345m/13279582.jpg]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>18483878</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>578</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37030</id>
+<name>Eduardo Sacheri</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37030.Eduardo_Sacheri]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>195607</id>
+<title>Reader’s Block</title>
+<title_without_series>Reader’s Block</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/195607.Reader_s_Block]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1319368018s/195607.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1319368018m/195607.jpg]]></image_url>
+<num_pages>194</num_pages>
+<work>
+<id>189177</id>
+</work>
+<isbn>1564781321</isbn>
+<isbn13>9781564781321</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1067</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10747</id>
+<name>David Markson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10747.David_Markson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6622791</id>
+<title>Submarino</title>
+<title_without_series>Submarino</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6622791-submarino]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329683307s/6622791.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329683307m/6622791.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>6816995</id>
+</work>
+<isbn>3608501053</isbn>
+<isbn13>9783608501056</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>398</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>5</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>972171</id>
+<name>Jonas T. Bengtsson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/972171.Jonas_T_Bengtsson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>402</id>
+<title>Mao II</title>
+<title_without_series>Mao II</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/402.Mao_II]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>2456942</id>
+</work>
+<isbn>0140152741</isbn>
+<isbn13>9780140152746</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>7990</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>233</id>
+<name>Don DeLillo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233.Don_DeLillo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>88277</id>
+<title><![CDATA[Up-Tight: The Velvet Underground Story]]></title>
+<title_without_series><![CDATA[Up-Tight: The Velvet Underground Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88277.Up_Tight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>279960</id>
+</work>
+<isbn>0815412851</isbn>
+<isbn13>9780815412854</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>422</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>13463</id>
+<name>Victor Bockris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13463.Victor_Bockris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>230103</id>
+<title>The Eve of St Venus</title>
+<title_without_series>The Eve of St Venus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/230103.The_Eve_of_St_Venus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328848462s/230103.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328848462m/230103.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>3028910</id>
+</work>
+<isbn>1843914166</isbn>
+<isbn13>9781843914167</isbn13>
+<average_rating>3.41</average_rating>
+<ratings_count>177</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5735</id>
+<name>Anthony Burgess</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5735.Anthony_Burgess]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26163103</id>
+<title>Is This My Beautiful Life?</title>
+<title_without_series>Is This My Beautiful Life?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26163103-is-this-my-beautiful-life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>46123007</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>186</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3184339</id>
+<name>Jessica Rowe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3184339.Jessica_Rowe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>60030</id>
+<title><![CDATA[Tomorrow in the Battle Think on Me]]></title>
+<title_without_series><![CDATA[Tomorrow in the Battle Think on Me]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/60030.Tomorrow_in_the_Battle_Think_on_Me]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>1281855</id>
+</work>
+<isbn>0811214826</isbn>
+<isbn13>9780811214827</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>3077</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>71956</id>
+<name>Javier Marías</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71956.Javier_Mar_as]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>340243</id>
+<title><![CDATA[The Adversary: A True Story of Monstrous Deception]]></title>
+<title_without_series><![CDATA[The Adversary: A True Story of Monstrous Deception]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/340243.The_Adversary]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312003417s/340243.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312003417m/340243.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>1723375</id>
+</work>
+<isbn>0312420609</isbn>
+<isbn13>9780312420604</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>3387</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>184425</id>
+<name>Emmanuel Carrère</name>
+<link><![CDATA[https://www.goodreads.com/author/show/184425.Emmanuel_Carr_re]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>248714</id>
+<title>The Tango Singer</title>
+<title_without_series>The Tango Singer</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/248714.The_Tango_Singer]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312050225s/248714.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312050225m/248714.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>240990</id>
+</work>
+<isbn>1582346011</isbn>
+<isbn13>9781582346014</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>429</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>68303</id>
+<name>Tomás Eloy Martínez</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68303.Tom_s_Eloy_Mart_nez]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

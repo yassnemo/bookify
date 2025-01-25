@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10054335</id>
+  <title>Rules of Civility</title>
+  <isbn><![CDATA[0670022691]]></isbn>
+  <isbn13><![CDATA[9780670022694]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0056A4Z3W]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1311705045m/10054335.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1311705045s/10054335.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>26</publication_day>
+  <publisher>Viking Adult</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[On the last night of 1937, twenty-five-year-old Katey Kontent is in a second-rate Greenwich Village jazz bar with her boardinghouse roommate stretching three dollars as far as it will go when Tinker Grey, a handsome banker with royal blue eyes and a tempered smile, happens to sit at the neighboring table. This chance encounter and its startling consequences propel Katey on a yearlong journey from a Wall Street secretarial pool toward the upper echelons of New York society and the executive suites of Condé Nast--rarefied environs where she will have little to rely upon other than a bracing wit and her own brand of cool nerve. <br /><br />Wooed in turn by a shy, principled multi-millionaire and an irrepressible Upper East Side ne'er-do-well, befriended by a single-minded widow who is a ahead of her time,and challenged by an imperious mentor, Katey experiences firsthand the poise secured by wealth and station and the failed aspirations that reside just below the surface. Even as she waits for circumstances to bring Tinker back into her life, she begins to realize how our most promising choices inevitably lay the groundwork for our regrets.]]></description>
+  <work>
+  <id type="integer">14950407</id>
+  <books_count type="integer">49</books_count>
+  <best_book_id type="integer">10054335</best_book_id>
+  <reviews_count type="integer">160444</reviews_count>
+  <ratings_sum type="integer">340348</ratings_sum>
+  <ratings_count type="integer">85305</ratings_count>
+  <text_reviews_count type="integer">9275</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Rules of Civility</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:27121|4:36132|3:17156|2:3851|1:1045|total:85305</rating_dist>
+  <desc_user_id type="integer">3082202</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.99</average_rating>
+  <num_pages><![CDATA[335]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[First Edition]]></edition_information>
+  <ratings_count><![CDATA[75662]]></ratings_count>
+  <text_reviews_count><![CDATA[8415]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10054335-rules-of-civility]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10054335-rules-of-civility]]></link>
+  <authors>
+<author>
+<id>4536964</id>
+<name>Amor Towles</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472937967p5/4536964.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1472937967p2/4536964.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4536964.Amor_Towles]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>133379</ratings_count>
+<text_reviews_count>16732</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10054335-rules-of-civility">Rules of Civility Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0670022691&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/10054335-rules-of-civility?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="27500"/>
+      <shelf name="currently-reading" count="2638"/>
+      <shelf name="fiction" count="1328"/>
+      <shelf name="historical-fiction" count="1273"/>
+      <shelf name="book-club" count="872"/>
+      <shelf name="favorites" count="752"/>
+      <shelf name="historical" count="231"/>
+      <shelf name="kindle" count="169"/>
+      <shelf name="new-york" count="160"/>
+      <shelf name="bookclub" count="147"/>
+      <shelf name="library" count="118"/>
+      <shelf name="audio" count="102"/>
+      <shelf name="audiobook" count="99"/>
+      <shelf name="adult-fiction" count="99"/>
+      <shelf name="books-i-own" count="95"/>
+      <shelf name="adult" count="93"/>
+      <shelf name="owned" count="87"/>
+      <shelf name="literary-fiction" count="86"/>
+      <shelf name="read-in-2012" count="83"/>
+      <shelf name="audiobooks" count="83"/>
+      <shelf name="book-club-books" count="79"/>
+      <shelf name="1930s" count="79"/>
+      <shelf name="romance" count="69"/>
+      <shelf name="read-in-2013" count="66"/>
+      <shelf name="nyc" count="63"/>
+      <shelf name="new-york-city" count="62"/>
+      <shelf name="novels" count="61"/>
+      <shelf name="general-fiction" count="59"/>
+      <shelf name="to-buy" count="54"/>
+      <shelf name="read-in-2017" count="50"/>
+      <shelf name="book-group" count="50"/>
+      <shelf name="contemporary-fiction" count="49"/>
+      <shelf name="ebook" count="47"/>
+      <shelf name="audio-books" count="47"/>
+      <shelf name="coming-of-age" count="46"/>
+      <shelf name="favourites" count="45"/>
+      <shelf name="to-read-fiction" count="43"/>
+      <shelf name="book-club-reads" count="42"/>
+      <shelf name="read-in-2014" count="41"/>
+      <shelf name="friendship" count="40"/>
+      <shelf name="wish-list" count="40"/>
+      <shelf name="read-2013" count="39"/>
+      <shelf name="literature" count="39"/>
+      <shelf name="owned-books" count="38"/>
+      <shelf name="novel" count="37"/>
+      <shelf name="audio-book" count="37"/>
+      <shelf name="library-book" count="37"/>
+      <shelf name="relationships" count="36"/>
+      <shelf name="read-2012" count="34"/>
+      <shelf name="american" count="34"/>
+      <shelf name="contemporary" count="34"/>
+      <shelf name="audible" count="34"/>
+      <shelf name="2012-reads" count="32"/>
+      <shelf name="abandoned" count="31"/>
+      <shelf name="ebooks" count="31"/>
+      <shelf name="recommended" count="31"/>
+      <shelf name="history" count="30"/>
+      <shelf name="american-literature" count="29"/>
+      <shelf name="literary" count="28"/>
+      <shelf name="own-it" count="28"/>
+      <shelf name="favorite" count="27"/>
+      <shelf name="nook" count="27"/>
+      <shelf name="didn-t-finish" count="27"/>
+      <shelf name="borrowed" count="27"/>
+      <shelf name="read-in-2016" count="25"/>
+      <shelf name="read-in-2011" count="25"/>
+      <shelf name="e-book" count="25"/>
+      <shelf name="manhattan" count="24"/>
+      <shelf name="favorite-books" count="23"/>
+      <shelf name="fiction-historical" count="22"/>
+      <shelf name="2012-books" count="22"/>
+      <shelf name="chick-lit" count="22"/>
+      <shelf name="historic-fiction" count="22"/>
+      <shelf name="read-2017" count="21"/>
+      <shelf name="unputdownable" count="21"/>
+      <shelf name="read-in-2015" count="21"/>
+      <shelf name="did-not-finish" count="21"/>
+      <shelf name="read-2011" count="21"/>
+      <shelf name="2013-reads" count="20"/>
+      <shelf name="e-books" count="20"/>
+      <shelf name="book-club-selections" count="20"/>
+      <shelf name="all-time-favorites" count="20"/>
+      <shelf name="listened-to" count="19"/>
+      <shelf name="maybe" count="19"/>
+      <shelf name="2017-books" count="18"/>
+      <shelf name="book-club-read" count="18"/>
+      <shelf name="drama" count="18"/>
+      <shelf name="america" count="18"/>
+      <shelf name="20th-century" count="18"/>
+      <shelf name="amor-towles" count="18"/>
+      <shelf name="2013-books" count="17"/>
+      <shelf name="finished" count="17"/>
+      <shelf name="modern-fiction" count="16"/>
+      <shelf name="couldn-t-finish" count="16"/>
+      <shelf name="my-books" count="16"/>
+      <shelf name="realistic-fiction" count="16"/>
+      <shelf name="book-club-picks" count="16"/>
+      <shelf name="library-books" count="16"/>
+      <shelf name="2014-reads" count="15"/>
+      <shelf name="book-club-ideas" count="15"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6624929</id>
+<title>The Privileges</title>
+<title_without_series>The Privileges</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6624929-the-privileges]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320444302s/6624929.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320444302m/6624929.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>6819170</id>
+</work>
+<isbn>1400068673</isbn>
+<isbn13>9781400068678</isbn13>
+<average_rating>3.26</average_rating>
+<ratings_count>4663</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>4526501</id>
+<name>Jonathan  Dee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4526501.Jonathan_Dee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8911226</id>
+<title>Doc</title>
+<title_without_series>Doc</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8911226-doc]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320560135s/8911226.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320560135m/8911226.jpg]]></image_url>
+<num_pages>394</num_pages>
+<work>
+<id>13787599</id>
+</work>
+<isbn>1400068045</isbn>
+<isbn13>9781400068043</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>11189</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>4007</id>
+<name>Mary Doria Russell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4007.Mary_Doria_Russell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10158656</id>
+<title>22 Britannia Road</title>
+<title_without_series>22 Britannia Road</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10158656-22-britannia-road]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354984677s/10158656.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354984677m/10158656.jpg]]></image_url>
+<num_pages>12</num_pages>
+<work>
+<id>15057137</id>
+</work>
+<isbn>1611760038</isbn>
+<isbn13>9781611760033</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>9832</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4567126</id>
+<name>Amanda Hodgkinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4567126.Amanda_Hodgkinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9689093</id>
+<title><![CDATA[The Autobiography of Mrs. Tom Thumb]]></title>
+<title_without_series><![CDATA[The Autobiography of Mrs. Tom Thumb]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9689093-the-autobiography-of-mrs-tom-thumb]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320416504s/9689093.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320416504m/9689093.jpg]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>14577174</id>
+</work>
+<isbn>0385344155</isbn>
+<isbn13>9780385344159</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>7927</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2958717</id>
+<name>Melanie Benjamin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2958717.Melanie_Benjamin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9949524</id>
+<title>A Good Hard Look</title>
+<title_without_series>A Good Hard Look</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9949524-a-good-hard-look]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>326</num_pages>
+<work>
+<id>14843096</id>
+</work>
+<isbn>1594202923</isbn>
+<isbn13>9781594202926</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>1227</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>347770</id>
+<name>Ann Napolitano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/347770.Ann_Napolitano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8863735</id>
+<title><![CDATA[City of Promise: A Novel of New York's Gilded Age (Old New York, #4)]]></title>
+<title_without_series><![CDATA[City of Promise: A Novel of New York's Gilded Age]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8863735-city-of-promise]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1305577080s/8863735.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1305577080m/8863735.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13739061</id>
+</work>
+<isbn>1439136947</isbn>
+<isbn13>9781439136942</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>581</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>162281</id>
+<name>Beverly Swerling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/162281.Beverly_Swerling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10898878</id>
+<title>I Married You for Happiness</title>
+<title_without_series>I Married You for Happiness</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10898878-i-married-you-for-happiness]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328824056s/10898878.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328824056m/10898878.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15814817</id>
+</work>
+<isbn>0802119913</isbn>
+<isbn13>9780802119919</isbn13>
+<average_rating>3.24</average_rating>
+<ratings_count>1294</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>44031</id>
+<name>Lily Tuck</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44031.Lily_Tuck]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10364994</id>
+<title>The Submission</title>
+<title_without_series>The Submission</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10364994-the-submission]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>300</num_pages>
+<work>
+<id>15268147</id>
+</work>
+<isbn>0374271569</isbn>
+<isbn13>9780374271565</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>11170</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>4619232</id>
+<name>Amy Waldman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4619232.Amy_Waldman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9680533</id>
+<title>Ten Thousand Saints</title>
+<title_without_series>Ten Thousand Saints</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9680533-ten-thousand-saints]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327935141s/9680533.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327935141m/9680533.jpg]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>14568454</id>
+</work>
+<isbn>0062021028</isbn>
+<isbn13>9780062021021</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>6161</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>4455701</id>
+<name>Eleanor Henderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4455701.Eleanor_Henderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12002819</id>
+<title>The Flight of Gemma Hardy</title>
+<title_without_series>The Flight of Gemma Hardy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12002819-the-flight-of-gemma-hardy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1319761825s/12002819.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1319761825m/12002819.jpg]]></image_url>
+<num_pages>443</num_pages>
+<work>
+<id>16967344</id>
+</work>
+<isbn>0062064223</isbn>
+<isbn13>9780062064226</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>13191</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>182609</id>
+<name>Margot Livesey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/182609.Margot_Livesey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7493133</id>
+<title>A Fierce Radiance</title>
+<title_without_series>A Fierce Radiance</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7493133-a-fierce-radiance]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1264522024s/7493133.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1264522024m/7493133.jpg]]></image_url>
+<num_pages>530</num_pages>
+<work>
+<id>9639546</id>
+</work>
+<isbn>0061252514</isbn>
+<isbn13>9780061252518</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>2419</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>236702</id>
+<name>Lauren Belfer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/236702.Lauren_Belfer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3916763</id>
+<title>Girl in a Blue Dress</title>
+<title_without_series>Girl in a Blue Dress</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3916763-girl-in-a-blue-dress]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328766568s/3916763.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328766568m/3916763.jpg]]></image_url>
+<num_pages>442</num_pages>
+<work>
+<id>3962191</id>
+</work>
+<isbn>0955647614</isbn>
+<isbn13>9780955647611</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>1840</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1670434</id>
+<name>Gaynor Arnold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1670434.Gaynor_Arnold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13056159</id>
+<title>The Chaperone</title>
+<title_without_series>The Chaperone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13056159-the-chaperone]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>18221250</id>
+</work>
+<isbn>1594487014</isbn>
+<isbn13>9781594487019</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>45927</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>133995</id>
+<name>Laura Moriarty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/133995.Laura_Moriarty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9476308</id>
+<title>Vaclav and Lena</title>
+<title_without_series>Vaclav and Lena</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9476308-vaclav-and-lena]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1297870296s/9476308.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1297870296m/9476308.jpg]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>14321580</id>
+</work>
+<isbn>1400069319</isbn>
+<isbn13>9781400069316</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>4632</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>4390701</id>
+<name>Haley Tanner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4390701.Haley_Tanner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9418326</id>
+<title>To Be Sung Underwater</title>
+<title_without_series>To Be Sung Underwater</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9418326-to-be-sung-underwater]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>436</num_pages>
+<work>
+<id>14302658</id>
+</work>
+<isbn>0316127396</isbn>
+<isbn13>9780316127394</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>4661</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>253358</id>
+<name>Tom McNeal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/253358.Tom_McNeal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11890805</id>
+<title>A Good American</title>
+<title_without_series>A Good American</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11890805-a-good-american]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1318634641s/11890805.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1318634641m/11890805.jpg]]></image_url>
+<num_pages>381</num_pages>
+<work>
+<id>16849807</id>
+</work>
+<isbn>039915759X</isbn>
+<isbn13>9780399157592</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>6175</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>27510</id>
+<name>Alex George</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27510.Alex_George]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414716</id>
+<title>The Absolutist</title>
+<title_without_series>The Absolutist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414716-the-absolutist]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332272113s/13414716.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332272113m/13414716.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>15885513</id>
+</work>
+<isbn>1590515528</isbn>
+<isbn13>9781590515525</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>7257</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>7195</id>
+<name>John Boyne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7195.John_Boyne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16059336</id>
+<title>Fin &amp; Lady</title>
+<title_without_series>Fin &amp; Lady</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16059336-fin-lady]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1370016928s/16059336.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1370016928m/16059336.jpg]]></image_url>
+<num_pages>277</num_pages>
+<work>
+<id>21846090</id>
+</work>
+<isbn>0374154902</isbn>
+<isbn13>9780374154905</isbn13>
+<average_rating>3.53</average_rating>
+<ratings_count>5008</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>127216</id>
+<name>Cathleen Schine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/127216.Cathleen_Schine]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

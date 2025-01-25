@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>144977</id>
+  <title>The Tender Bar</title>
+  <isbn><![CDATA[0786888768]]></isbn>
+  <isbn13><![CDATA[9780786888764]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00JJ9QQE2]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Hachette Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The <i>New York Times</i> bestseller and one of the 100 Most Notable Books of 2005. In the tradition of <i>This Boy's Life</i> and <i>The Liar's Club</i>, a raucous, poignant, luminously written memoir about a boy striving to become a man, and his romance with a bar. J.R. Moehringer grew up captivated by a voice. It was the voice of his father, a New York City disc jockey who vanished before J.R. spoke his first word. Sitting on the stoop, pressing an ear to the radio, J.R. would strain to hear in that plummy baritone the secrets of masculinity and identity. Though J.R.'s mother was his world, his rock, he craved something more, something faintly and hauntingly audible only in The Voice. At eight years old, suddenly unable to find The Voice on the radio, J.R. turned in desperation to the bar on the corner, where he found a rousing chorus of new voices. The alphas along the bar--including J.R.'s Uncle Charlie, a Humphrey Bogart look-alike; Colt, a Yogi Bear sound-alike; and Joey D, a softhearted brawler--took J.R. to the beach, to ballgames, and ultimately into their circle. They taught J.R., tended him, and provided a kind of fathering-by-committee. Torn between the stirring example of his mother and the lurid romance of the bar, J.R. tried to forge a self somewhere in the center. But when it was time for J.R. to leave home, the bar became an increasingly seductive sanctuary, a place to return and regroup during his picaresque journeys. Time and again the bar offered shelter from failure, rejection, heartbreak--and eventually from reality. In the grand tradition of landmark memoirs, <em>The Tender Bar </em>is suspenseful, wrenching, and achingly funny. A classic American story of self-invention and escape, of the fierce love between a single mother and an only son, it's also a moving portrait of one boy's struggle to become a man, and an unforgettable depiction of how men remain, at heart, lost boys.]]></description>
+  <work>
+  <id type="integer">1100660</id>
+  <books_count type="integer">55</books_count>
+  <best_book_id type="integer">144977</best_book_id>
+  <reviews_count type="integer">40052</reviews_count>
+  <ratings_sum type="integer">99470</ratings_sum>
+  <ratings_count type="integer">25290</ratings_count>
+  <text_reviews_count type="integer">2393</text_reviews_count>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Tender Bar: A Memoir</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:7817|4:10009|3:5719|2:1447|1:298|total:25290</rating_dist>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.93</average_rating>
+  <num_pages><![CDATA[432]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[23062]]></ratings_count>
+  <text_reviews_count><![CDATA[2173]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/144977.The_Tender_Bar]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/144977.The_Tender_Bar]]></link>
+  <authors>
+<author>
+<id>34372</id>
+<name>J.R. Moehringer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1390307126p5/34372.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1390307126p2/34372.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/34372.J_R_Moehringer]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>80599</ratings_count>
+<text_reviews_count>7663</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/144977.The_Tender_Bar">The Tender Bar Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0786888768&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/144977.The_Tender_Bar?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2380"/>
+      <shelf name="memoir" count="367"/>
+      <shelf name="non-fiction" count="263"/>
+      <shelf name="favorites" count="164"/>
+      <shelf name="memoirs" count="149"/>
+      <shelf name="book-club" count="139"/>
+      <shelf name="biography" count="106"/>
+      <shelf name="currently-reading" count="78"/>
+      <shelf name="owned" count="47"/>
+      <shelf name="autobiography" count="46"/>
+      <shelf name="fiction" count="37"/>
+      <shelf name="books-i-own" count="32"/>
+      <shelf name="coming-of-age" count="28"/>
+      <shelf name="bookclub" count="27"/>
+      <shelf name="nonfiction" count="24"/>
+      <shelf name="memoir-biography" count="24"/>
+      <shelf name="owned-books" count="21"/>
+      <shelf name="library" count="21"/>
+      <shelf name="audio" count="20"/>
+      <shelf name="ebook" count="19"/>
+      <shelf name="biographies" count="19"/>
+      <shelf name="book-club-books" count="19"/>
+      <shelf name="default" count="18"/>
+      <shelf name="adult" count="18"/>
+      <shelf name="book-group" count="18"/>
+      <shelf name="new-york" count="17"/>
+      <shelf name="kindle" count="16"/>
+      <shelf name="biography-memoir" count="14"/>
+      <shelf name="abandoned" count="12"/>
+      <shelf name="2006" count="12"/>
+      <shelf name="own-it" count="11"/>
+      <shelf name="audiobook" count="11"/>
+      <shelf name="humor" count="10"/>
+      <shelf name="bio-memoir" count="10"/>
+      <shelf name="autobiography-memoir" count="9"/>
+      <shelf name="favorite" count="9"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="audiobooks" count="9"/>
+      <shelf name="adult-nonfiction" count="9"/>
+      <shelf name="biographies-memoirs" count="9"/>
+      <shelf name="book-club-reads" count="9"/>
+      <shelf name="shelfari-favorites" count="8"/>
+      <shelf name="end-of-your-life-book-club" count="8"/>
+      <shelf name="addiction" count="8"/>
+      <shelf name="memoirs-bios" count="8"/>
+      <shelf name="biography-autobiography" count="8"/>
+      <shelf name="memoirs-biographies" count="8"/>
+      <shelf name="narrativa" count="7"/>
+      <shelf name="2013-reads" count="7"/>
+      <shelf name="favourites" count="7"/>
+      <shelf name="family" count="7"/>
+      <shelf name="nyc" count="7"/>
+      <shelf name="all-time-favorites" count="7"/>
+      <shelf name="alcohol" count="6"/>
+      <shelf name="nook" count="6"/>
+      <shelf name="my-books" count="6"/>
+      <shelf name="recommended" count="6"/>
+      <shelf name="new-york-city" count="6"/>
+      <shelf name="memoirs-biography" count="6"/>
+      <shelf name="2005" count="6"/>
+      <shelf name="finished" count="6"/>
+      <shelf name="read-in-2013" count="5"/>
+      <shelf name="my-favorites" count="5"/>
+      <shelf name="german" count="5"/>
+      <shelf name="audio-books" count="5"/>
+      <shelf name="read-in-2012" count="5"/>
+      <shelf name="to-read-own" count="5"/>
+      <shelf name="bio" count="5"/>
+      <shelf name="contemporary" count="5"/>
+      <shelf name="memoir-bio" count="5"/>
+      <shelf name="did-not-finish" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="memoir-autobiography" count="5"/>
+      <shelf name="memior" count="5"/>
+      <shelf name="i-own" count="5"/>
+      <shelf name="audio-book" count="5"/>
+      <shelf name="borrowed" count="5"/>
+      <shelf name="faves" count="5"/>
+      <shelf name="to-read-fiction" count="4"/>
+      <shelf name="read-in-2014" count="4"/>
+      <shelf name="maybe" count="4"/>
+      <shelf name="biography-memoirs" count="4"/>
+      <shelf name="novels" count="4"/>
+      <shelf name="classics" count="4"/>
+      <shelf name="the-end-of-your-life-book-club" count="4"/>
+      <shelf name="owned-to-read" count="4"/>
+      <shelf name="americana" count="4"/>
+      <shelf name="journalism" count="4"/>
+      <shelf name="novel" count="4"/>
+      <shelf name="non-fic" count="4"/>
+      <shelf name="york" count="4"/>
+      <shelf name="arizona" count="4"/>
+      <shelf name="young-adult" count="4"/>
+      <shelf name="bars" count="4"/>
+      <shelf name="calibre" count="4"/>
+      <shelf name="bildungsroman" count="4"/>
+      <shelf name="general" count="4"/>
+      <shelf name="to-read-memoir" count="4"/>
+      <shelf name="read-2010" count="4"/>
+      <shelf name="manhasset" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>8247445</id>
+<title><![CDATA[Teaching the Pig to Dance: A Memoir of Growing Up and Second Chances]]></title>
+<title_without_series><![CDATA[Teaching the Pig to Dance: A Memoir of Growing Up and Second Chances]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8247445-teaching-the-pig-to-dance]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>13095045</id>
+</work>
+<isbn>0307460304</isbn>
+<isbn13>9780307460301</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>153</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>5</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>14589073</id>
+<name>Fred  Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14589073.Fred_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6124669</id>
+<title>King of the Godfathers</title>
+<title_without_series>King of the Godfathers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6124669-king-of-the-godfathers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>6303131</id>
+</work>
+<isbn>0806528745</isbn>
+<isbn13>9780806528748</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>257</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>765625</id>
+<name>Anthony M. Destefano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/765625.Anthony_M_Destefano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7243508</id>
+<title><![CDATA[Chords of Strength: A Memoir of Soul, Song and the Power of Perseverance]]></title>
+<title_without_series><![CDATA[Chords of Strength: A Memoir of Soul, Song and the Power of Perseverance]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7243508-chords-of-strength]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>8212567</id>
+</work>
+<isbn>0451230183</isbn>
+<isbn13>9780451230188</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>670</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3204917</id>
+<name>David Archuleta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3204917.David_Archuleta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7327504</id>
+<title><![CDATA[Bitch Is the New Black: A Memoir]]></title>
+<title_without_series><![CDATA[Bitch Is the New Black: A Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7327504-bitch-is-the-new-black]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>8947112</id>
+</work>
+<isbn>0061778826</isbn>
+<isbn13>9780061778827</isbn13>
+<average_rating>3.20</average_rating>
+<ratings_count>728</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3234304</id>
+<name>Helena Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3234304.Helena_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7301970</id>
+<title><![CDATA[The Battle for Gotham: New York in the Shadow of Robert Moses and Jane Jacobs]]></title>
+<title_without_series><![CDATA[The Battle for Gotham: New York in the Shadow of Robert Moses and Jane Jacobs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7301970-the-battle-for-gotham]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>8680008</id>
+</work>
+<isbn>1568584385</isbn>
+<isbn13>9781568584386</isbn13>
+<average_rating>3.27</average_rating>
+<ratings_count>127</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>142481</id>
+<name>Roberta Brandes Gratz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/142481.Roberta_Brandes_Gratz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1439038</id>
+<title><![CDATA[Feasting the Heart: Fifty-Two Commentaries for the Air]]></title>
+<title_without_series><![CDATA[Feasting the Heart: Fifty-Two Commentaries for the Air]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1439038.Feasting_the_Heart]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>434553</id>
+</work>
+<isbn>0743203690</isbn>
+<isbn13>9780743203692</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>58</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>8167</id>
+<name>Reynolds Price</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8167.Reynolds_Price]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>210805</id>
+<title>The Duke of Deception</title>
+<title_without_series>The Duke of Deception</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/210805.The_Duke_of_Deception]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>335384</id>
+</work>
+<isbn>0679727523</isbn>
+<isbn13>9780679727521</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>959</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>2</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>105491</id>
+<name>Geoffrey Wolff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/105491.Geoffrey_Wolff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6923472</id>
+<title><![CDATA[Jeff Corwin: A Wild Life: The Authorized Biography]]></title>
+<title_without_series><![CDATA[Jeff Corwin: A Wild Life: The Authorized Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6923472-jeff-corwin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7152468</id>
+</work>
+<isbn>0142414034</isbn>
+<isbn13>9780142414033</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>141</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64383</id>
+<name>Jeff Corwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64383.Jeff_Corwin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8264337</id>
+<title><![CDATA[Begin Again: A Biography of John Cage]]></title>
+<title_without_series><![CDATA[Begin Again: A Biography of John Cage]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8264337-begin-again]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320525489s/8264337.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320525489m/8264337.jpg]]></image_url>
+<num_pages>496</num_pages>
+<work>
+<id>13112284</id>
+</work>
+<isbn>1400044375</isbn>
+<isbn13>9781400044375</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>149</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>16935</id>
+<name>Kenneth Silverman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16935.Kenneth_Silverman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8442497</id>
+<title><![CDATA[Keeper: One House, Three Generations, and a Journey into Alzheimer's]]></title>
+<title_without_series><![CDATA[Keeper: One House, Three Generations, and a Journey into Alzheimer's]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8442497-keeper]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320498402s/8442497.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320498402m/8442497.jpg]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>13306318</id>
+</work>
+<isbn>0307719111</isbn>
+<isbn13>9780307719119</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>459</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>2953360</id>
+<name>Andrea Gillies</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2953360.Andrea_Gillies]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7733783</id>
+<title><![CDATA[The Post-American Presidency: The Obama Administration's War on America]]></title>
+<title_without_series><![CDATA[The Post-American Presidency: The Obama Administration's War on America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7733783-the-post-american-presidency]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>376</num_pages>
+<work>
+<id>10520818</id>
+</work>
+<isbn>1439189307</isbn>
+<isbn13>9781439189306</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>128</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>3375852</id>
+<name>Pamela Geller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3375852.Pamela_Geller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>877795</id>
+<title><![CDATA[Tommy's Honor: The Story of Old Tom Morris and Young Tom Morris, Golf's Founding Father and Son]]></title>
+<title_without_series><![CDATA[Tommy's Honor: The Story of Old Tom Morris and Young Tom Morris, Golf's Founding Father and Son]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/877795.Tommy_s_Honor]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>863123</id>
+</work>
+<isbn>1592402976</isbn>
+<isbn13>9781592402977</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>367</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>452068</id>
+<name>Kevin Cook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/452068.Kevin_Cook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6949613</id>
+<title><![CDATA[Crisis and Command: A History of Executive Power from George Washington to George W. Bush]]></title>
+<title_without_series><![CDATA[Crisis and Command: A History of Executive Power from George Washington to George W. Bush]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6949613-crisis-and-command]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328739731s/6949613.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328739731m/6949613.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>7183892</id>
+</work>
+<isbn>1607145553</isbn>
+<isbn13>9781607145554</isbn13>
+<average_rating>3.47</average_rating>
+<ratings_count>87</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>48785</id>
+<name>John Yoo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/48785.John_Yoo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6933081</id>
+<title><![CDATA[A Ticket to the Circus: A Memoir]]></title>
+<title_without_series><![CDATA[A Ticket to the Circus: A Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6933081-a-ticket-to-the-circus]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320397921s/6933081.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320397921m/6933081.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7164445</id>
+</work>
+<isbn>1400067944</isbn>
+<isbn13>9781400067947</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>593</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>130772</id>
+<name>Norris Church Mailer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/130772.Norris_Church_Mailer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6461927</id>
+<title><![CDATA[The Original Curse: Did the Cubs Throw the 1918 World Series to Babe Ruth's Red Sox and Incite the Black Sox Scandal?]]></title>
+<title_without_series><![CDATA[The Original Curse: Did the Cubs Throw the 1918 World Series to Babe Ruth's Red Sox and Incite the Black Sox Scandal?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6461927-the-original-curse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>6652361</id>
+</work>
+<isbn>0071629971</isbn>
+<isbn13>9780071629973</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>131</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2928113</id>
+<name>Sean Deveney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2928113.Sean_Deveney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>642579</id>
+<title><![CDATA[The Etiquette of Illness: What to Say When You Can't Find the Words]]></title>
+<title_without_series><![CDATA[The Etiquette of Illness: What to Say When You Can't Find the Words]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/642579.The_Etiquette_of_Illness]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316131731s/642579.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316131731m/642579.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>628762</id>
+</work>
+<isbn>1582343837</isbn>
+<isbn13>9781582343839</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>408</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>346162</id>
+<name>Susan P. Halpern</name>
+<link><![CDATA[https://www.goodreads.com/author/show/346162.Susan_P_Halpern]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6640452</id>
+<title><![CDATA[Keeping the Feast: One Couple's Story of Love, Food, and Healing in Italy]]></title>
+<title_without_series><![CDATA[Keeping the Feast: One Couple's Story of Love, Food, and Healing in Italy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6640452-keeping-the-feast]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6834911</id>
+</work>
+<isbn>1594488975</isbn>
+<isbn13>9781594488979</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>569</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2994671</id>
+<name>Paula Butturini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2994671.Paula_Butturini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>228456</id>
+<title><![CDATA[Name All the Animals: A Memoir]]></title>
+<title_without_series><![CDATA[Name All the Animals: A Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/228456.Name_All_the_Animals]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>221250</id>
+</work>
+<isbn>0743255232</isbn>
+<isbn13>9780743255233</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>2849</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>120327</id>
+<name>Alison Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/120327.Alison_Smith]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

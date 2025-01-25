@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>625094</id>
+  <title>The Leopard</title>
+  <isbn><![CDATA[0679731210]]></isbn>
+  <isbn13><![CDATA[9780679731214]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0041RRH6S]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1376481466m/625094.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1376481466s/625094.jpg</small_image_url>
+  <publication_year>2007</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>6</publication_day>
+  <publisher>Pantheon</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Set in the 1860s, <i>The Leopard</i> tells the spellbinding story of a decadent, dying Sicilian aristocracy threatened by the approaching forces of democracy and revolution. The dramatic sweep and richness of observation, the seamless intertwining of public and private worlds, and the grasp of human frailty imbue<i> The Leopard</i> with its particular melancholy beauty and power, and place it among the greatest historical novels of our time. <br /><br />Although Giuseppe di Lampedusa had long had the book in mind, he began writing it only in his late fifties; he died at age sixty, soon after the manuscript was rejected as unpublishable. In his introduction, Gioacchino Lanza Tomasi, Lampedusa's nephew, gives us a detailed history of the initial publication and the various editions that followed. And he includes passages Lampedusa wrote for the book that were omitted by the original Italian editors. <br /><br />Here, finally, is the definitive edition of this brilliant and timeless novel.]]></description>
+  <work>
+  <id type="integer">1132275</id>
+  <books_count type="integer">220</books_count>
+  <best_book_id type="integer">625094</best_book_id>
+  <reviews_count type="integer">33174</reviews_count>
+  <ratings_sum type="integer">58684</ratings_sum>
+  <ratings_count type="integer">14705</ratings_count>
+  <text_reviews_count type="integer">1081</text_reviews_count>
+  <original_publication_year type="integer">1958</original_publication_year>
+  <original_publication_month type="integer">11</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Il Gattopardo</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5450|4:5125|3:2984|2:836|1:310|total:14705</rating_dist>
+  <desc_user_id type="integer">39669069</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.99</average_rating>
+  <num_pages><![CDATA[319]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9671]]></ratings_count>
+  <text_reviews_count><![CDATA[625]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/625094.The_Leopard]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/625094.The_Leopard]]></link>
+  <authors>
+<author>
+<id>8407795</id>
+<name>Giuseppe Tomasi di Lampedusa</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417443817p5/8407795.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417443817p2/8407795.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8407795.Giuseppe_Tomasi_di_Lampedusa]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>15909</ratings_count>
+<text_reviews_count>1195</text_reviews_count>
+</author>
+<author>
+<id>6409</id>
+<name>Archibald Colquhoun</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6409.Archibald_Colquhoun]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>29662</ratings_count>
+<text_reviews_count>1669</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/625094.The_Leopard">The Leopard Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0679731210&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/625094.The_Leopard?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="currently-reading" count="552"/>
+      <shelf name="fiction" count="477"/>
+      <shelf name="to-read" count="405"/>
+      <shelf name="historical-fiction" count="306"/>
+      <shelf name="classics" count="298"/>
+      <shelf name="italy" count="208"/>
+      <shelf name="italian" count="177"/>
+      <shelf name="1001-books" count="108"/>
+      <shelf name="italian-literature" count="87"/>
+      <shelf name="literature" count="82"/>
+      <shelf name="owned" count="72"/>
+      <shelf name="1001" count="65"/>
+      <shelf name="novels" count="59"/>
+      <shelf name="historical" count="50"/>
+      <shelf name="history" count="49"/>
+      <shelf name="classic" count="49"/>
+      <shelf name="default" count="47"/>
+      <shelf name="letteratura-italiana" count="39"/>
+      <shelf name="20th-century" count="39"/>
+      <shelf name="italian-lit" count="38"/>
+      <shelf name="book-club" count="35"/>
+      <shelf name="1001-books-to-read-before-you-die" count="35"/>
+      <shelf name="italia" count="34"/>
+      <shelf name="books-i-own" count="31"/>
+      <shelf name="italiano" count="31"/>
+      <shelf name="to-buy" count="30"/>
+      <shelf name="novel" count="29"/>
+      <shelf name="favourites" count="28"/>
+      <shelf name="italiani" count="26"/>
+      <shelf name="1001-books-to-read" count="25"/>
+      <shelf name="europe" count="25"/>
+      <shelf name="1001-import" count="24"/>
+      <shelf name="finished" count="21"/>
+      <shelf name="wish-list" count="21"/>
+      <shelf name="1001-books-you-must-read-before-you" count="21"/>
+      <shelf name="owned-books" count="20"/>
+      <shelf name="translation" count="20"/>
+      <shelf name="literary-fiction" count="20"/>
+      <shelf name="modern-classics" count="19"/>
+      <shelf name="sicily" count="19"/>
+      <shelf name="in-translation" count="18"/>
+      <shelf name="italiana" count="17"/>
+      <shelf name="19th-century" count="17"/>
+      <shelf name="to-read-fiction" count="17"/>
+      <shelf name="library" count="17"/>
+      <shelf name="1001-to-read" count="17"/>
+      <shelf name="daria" count="16"/>
+      <shelf name="bookclub" count="16"/>
+      <shelf name="classic-literature" count="14"/>
+      <shelf name="bowie" count="13"/>
+      <shelf name="audiobook" count="13"/>
+      <shelf name="narrativa-italiana" count="13"/>
+      <shelf name="translated" count="13"/>
+      <shelf name="literatura-italiana" count="12"/>
+      <shelf name="romanzi" count="12"/>
+      <shelf name="fiction-historical" count="12"/>
+      <shelf name="my-library" count="11"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="1950s" count="11"/>
+      <shelf name="european-literature" count="11"/>
+      <shelf name="ebook" count="10"/>
+      <shelf name="literature-italian" count="10"/>
+      <shelf name="my-books" count="10"/>
+      <shelf name="politics" count="10"/>
+      <shelf name="romanzo-storico" count="9"/>
+      <shelf name="book-group" count="9"/>
+      <shelf name="guardian-1000" count="9"/>
+      <shelf name="1001-libri-da-leggere" count="9"/>
+      <shelf name="international" count="9"/>
+      <shelf name="unfinished" count="9"/>
+      <shelf name="literary" count="9"/>
+      <shelf name="novecento" count="9"/>
+      <shelf name="school" count="9"/>
+      <shelf name="european" count="9"/>
+      <shelf name="world-lit" count="9"/>
+      <shelf name="literatura" count="8"/>
+      <shelf name="1001-libri" count="8"/>
+      <shelf name="audio" count="8"/>
+      <shelf name="e-book" count="8"/>
+      <shelf name="italian-authors" count="8"/>
+      <shelf name="biblioteca" count="8"/>
+      <shelf name="modern-fiction" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="read-for-school" count="8"/>
+      <shelf name="1001-read" count="8"/>
+      <shelf name="family" count="8"/>
+      <shelf name="lett-italiana" count="7"/>
+      <shelf name="shelfari-favorites" count="7"/>
+      <shelf name="male-author" count="7"/>
+      <shelf name="italian-books" count="7"/>
+      <shelf name="adult-fiction" count="7"/>
+      <shelf name="preferiti" count="7"/>
+      <shelf name="read-in-italian" count="7"/>
+      <shelf name="i-own" count="7"/>
+      <shelf name="letteratura" count="7"/>
+      <shelf name="translations" count="7"/>
+      <shelf name="100-novels-everyone-should-read" count="7"/>
+      <shelf name="top-100" count="6"/>
+      <shelf name="did-not-finish" count="6"/>
+      <shelf name="romanzi-storici" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>355789</id>
+<title><![CDATA[The Garden of the Finzi-Continis]]></title>
+<title_without_series><![CDATA[The Garden of the Finzi-Continis]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/355789.The_Garden_of_the_Finzi_Continis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>246</num_pages>
+<work>
+<id>345967</id>
+</work>
+<isbn>1400044227</isbn>
+<isbn13>9781400044221</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>4159</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>7</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>203870</id>
+<name>Giorgio Bassani</name>
+<link><![CDATA[https://www.goodreads.com/author/show/203870.Giorgio_Bassani]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>65211</id>
+<title><![CDATA[Christ Stopped at Eboli: The Story of a Year]]></title>
+<title_without_series><![CDATA[Christ Stopped at Eboli: The Story of a Year]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/65211.Christ_Stopped_at_Eboli]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>268</num_pages>
+<work>
+<id>2868409</id>
+</work>
+<isbn>0374530092</isbn>
+<isbn13>9780374530099</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>3570</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>36808</id>
+<name>Carlo Levi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36808.Carlo_Levi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>596986</id>
+<title><![CDATA[That Awful Mess on the Via Merulana]]></title>
+<title_without_series><![CDATA[That Awful Mess on the Via Merulana]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/596986.That_Awful_Mess_on_the_Via_Merulana]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>388</num_pages>
+<work>
+<id>660246</id>
+</work>
+<isbn>1590172221</isbn>
+<isbn13>9781590172223</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1528</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>2</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>299133</id>
+<name>Carlo Emilio Gadda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/299133.Carlo_Emilio_Gadda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>130220</id>
+<title>To Each His Own</title>
+<title_without_series>To Each His Own</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/130220.To_Each_His_Own]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1486579226s/130220.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1486579226m/130220.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>125417</id>
+</work>
+<isbn>0940322528</isbn>
+<isbn13>9780940322523</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2111</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>44709</id>
+<name>Leonardo Sciascia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44709.Leonardo_Sciascia]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2847395</id>
+<title>Uomini e no</title>
+<title_without_series>Uomini e no</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2847395-uomini-e-no]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1402578138s/2847395.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1402578138m/2847395.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>1521854</id>
+</work>
+<isbn>8804495863</isbn>
+<isbn13>9788804495864</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>655</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>222995</id>
+<name>Elio Vittorini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/222995.Elio_Vittorini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1158380</id>
+<title>History</title>
+<title_without_series>History</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1158380.History]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>754</num_pages>
+<work>
+<id>1521719</id>
+</work>
+<isbn>1586420046</isbn>
+<isbn13>9781586420048</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>2395</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>292578</id>
+<name>Elsa Morante</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292578.Elsa_Morante]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1389743</id>
+<title>I Malavoglia</title>
+<title_without_series>I Malavoglia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1389743.I_Malavoglia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1446026837s/1389743.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1446026837m/1389743.jpg]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>1379828</id>
+</work>
+<isbn>8811582962</isbn>
+<isbn13>9788811582960</isbn13>
+<average_rating>3.45</average_rating>
+<ratings_count>5353</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>7</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>194351</id>
+<name>Giovanni Verga</name>
+<link><![CDATA[https://www.goodreads.com/author/show/194351.Giovanni_Verga]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>130971</id>
+<title>Reeds in the Wind</title>
+<title_without_series>Reeds in the Wind</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/130971.Reeds_in_the_Wind]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>126145</id>
+</work>
+<isbn>0934977631</isbn>
+<isbn13>9780934977630</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>986</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1709</id>
+<name>Grazia Deledda</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1709.Grazia_Deledda]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>132376</id>
+<title>The Moon and the Bonfire</title>
+<title_without_series>The Moon and the Bonfire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/132376.The_Moon_and_the_Bonfire]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328830465s/132376.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328830465m/132376.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>1521454</id>
+</work>
+<isbn>0720611199</isbn>
+<isbn13>9780720611199</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>4119</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>76241</id>
+<name>Cesare Pavese</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76241.Cesare_Pavese]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>143250</id>
+<title>Fontamara</title>
+<title_without_series>Fontamara</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/143250.Fontamara]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>214</num_pages>
+<work>
+<id>2455413</id>
+</work>
+<isbn>3462025996</isbn>
+<isbn13>9783462025996</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>1998</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>5</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>468340</id>
+<name>Ignazio Silone</name>
+<link><![CDATA[https://www.goodreads.com/author/show/468340.Ignazio_Silone]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2419122</id>
+<title>The Viceroys</title>
+<title_without_series>The Viceroys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2419122.The_Viceroys]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1318520374s/2419122.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1318520374m/2419122.jpg]]></image_url>
+<num_pages>627</num_pages>
+<work>
+<id>2426299</id>
+</work>
+<isbn>0002718189</isbn>
+<isbn13>9780002718189</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>576</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>49367</id>
+<name>Federico De Roberto</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49367.Federico_De_Roberto]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2458987</id>
+<title>Il partigiano Johnny</title>
+<title_without_series>Il partigiano Johnny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2458987.Il_partigiano_Johnny]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413913429s/2458987.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413913429m/2458987.jpg]]></image_url>
+<num_pages>531</num_pages>
+<work>
+<id>568594</id>
+</work>
+<isbn>8806134701</isbn>
+<isbn13>9788806134709</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>970</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>112498</id>
+<name>Beppe Fenoglio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112498.Beppe_Fenoglio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1358541</id>
+<title>Lessico famigliare</title>
+<title_without_series>Lessico famigliare</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1358541.Lessico_famigliare]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1343559988s/1358541.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1343559988m/1358541.jpg]]></image_url>
+<num_pages>261</num_pages>
+<work>
+<id>206315</id>
+</work>
+<isbn>8806151681</isbn>
+<isbn13>9788806151683</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2467</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21582</id>
+<name>Natalia Ginzburg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21582.Natalia_Ginzburg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>566328</id>
+<title>The Betrothed</title>
+<title_without_series>The Betrothed</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/566328.The_Betrothed]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1442939437s/566328.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1442939437m/566328.jpg]]></image_url>
+<num_pages>720</num_pages>
+<work>
+<id>553434</id>
+</work>
+<isbn>014044274X</isbn>
+<isbn13>9780140442748</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>5732</ratings_count>
+<publication_year>1983</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>136729</id>
+<name>Alessandro Manzoni</name>
+<link><![CDATA[https://www.goodreads.com/author/show/136729.Alessandro_Manzoni]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>967931</id>
+<title>The Ragazzi</title>
+<title_without_series>The Ragazzi</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/967931.The_Ragazzi]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>952828</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>1313</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>37893</id>
+<name>Pier Paolo Pasolini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37893.Pier_Paolo_Pasolini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>392005</id>
+<title>The Silent Duchess</title>
+<title_without_series>The Silent Duchess</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/392005.The_Silent_Duchess]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1304352344s/392005.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1304352344m/392005.jpg]]></image_url>
+<num_pages>264</num_pages>
+<work>
+<id>381607</id>
+</work>
+<isbn>155861222X</isbn>
+<isbn13>9781558612228</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>1094</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>157782</id>
+<name>Dacia Maraini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157782.Dacia_Maraini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>151447</id>
+<title>As a Man Grows Older</title>
+<title_without_series>As a Man Grows Older</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/151447.As_a_Man_Grows_Older]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320554778s/151447.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320554778m/151447.jpg]]></image_url>
+<num_pages>235</num_pages>
+<work>
+<id>2615156</id>
+</work>
+<isbn>0940322846</isbn>
+<isbn13>9780940322844</isbn13>
+<average_rating>3.52</average_rating>
+<ratings_count>1448</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>38706</id>
+<name>Italo Svevo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38706.Italo_Svevo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>67146</id>
+<title>The Conformist</title>
+<title_without_series>The Conformist</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/67146.The_Conformist]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403196961s/67146.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403196961m/67146.jpg]]></image_url>
+<num_pages>323</num_pages>
+<work>
+<id>65114</id>
+</work>
+<isbn>1883642655</isbn>
+<isbn13>9781883642655</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>1298</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>37848</id>
+<name>Alberto Moravia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37848.Alberto_Moravia]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

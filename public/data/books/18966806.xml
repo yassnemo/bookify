@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18966806</id>
+  <title>Morning Star (Red Rising, #3)</title>
+  <isbn><![CDATA[0345539842]]></isbn>
+  <isbn13><![CDATA[9780345539847]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00X61MXTG]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1461354277m/18966806.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1461354277s/18966806.jpg</small_image_url>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>9</publication_day>
+  <publisher>Del Rey</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[#1 NEW YORK TIMES BESTSELLER • Red Rising thrilled readers and announced the presence of a talented new author. Golden Son changed the game and took the story of Darrow to the next level. Now comes the exhilarating conclusion to the Red Rising Trilogy: Morning Star.<br /><br />Darrow would have lived in peace, but his enemies brought him war. The Gold overlords demanded his obedience, hanged his wife, and enslaved his people. But Darrow is determined to fight back. Risking everything to transform himself and breach Gold society, Darrow has battled to survive the cutthroat rivalries that breed Society’s mightiest warriors, climbed the ranks, and waited patiently to unleash the revolution that will tear the hierarchy apart from within.<br /><br />Finally, the time has come.<br /><br />But devotion to honor and hunger for vengeance run deep on both sides. Darrow and his comrades-in-arms face powerful enemies without scruple or mercy. Among them are some Darrow once considered friends. To win, Darrow will need to inspire those shackled in darkness to break their chains, unmake the world their cruel masters have built, and claim a destiny too long denied—and too glorious to surrender.]]></description>
+  <work>
+  <id type="integer">26984941</id>
+  <books_count type="integer">43</books_count>
+  <best_book_id type="integer">18966806</best_book_id>
+  <reviews_count type="integer">138477</reviews_count>
+  <ratings_sum type="integer">277567</ratings_sum>
+  <ratings_count type="integer">61706</ratings_count>
+  <text_reviews_count type="integer">6414</text_reviews_count>
+  <original_publication_year type="integer">2016</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">9</original_publication_day>
+  <original_title>Morning Star</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:38008|4:17756|3:4888|2:785|1:269|total:61706</rating_dist>
+  <desc_user_id type="integer">34691569</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.50</average_rating>
+  <num_pages><![CDATA[524]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[47896]]></ratings_count>
+  <text_reviews_count><![CDATA[5429]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18966806-morning-star]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18966806-morning-star]]></link>
+  <authors>
+<author>
+<id>6474348</id>
+<name>Pierce Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417558860p5/6474348.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417558860p2/6474348.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6474348.Pierce_Brown]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>271047</ratings_count>
+<text_reviews_count>30205</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18966806-morning-star">Morning Star Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0345539842&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/18966806-morning-star?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="19574"/>
+      <shelf name="sci-fi" count="1254"/>
+      <shelf name="science-fiction" count="1173"/>
+      <shelf name="fantasy" count="580"/>
+      <shelf name="currently-reading" count="567"/>
+      <shelf name="dystopian" count="468"/>
+      <shelf name="favorites" count="429"/>
+      <shelf name="fiction" count="416"/>
+      <shelf name="young-adult" count="408"/>
+      <shelf name="series" count="255"/>
+      <shelf name="scifi" count="233"/>
+      <shelf name="ya" count="209"/>
+      <shelf name="read-in-2016" count="197"/>
+      <shelf name="owned" count="161"/>
+      <shelf name="audiobook" count="150"/>
+      <shelf name="books-i-own" count="149"/>
+      <shelf name="read-2016" count="145"/>
+      <shelf name="to-buy" count="123"/>
+      <shelf name="favourites" count="109"/>
+      <shelf name="dystopia" count="106"/>
+      <shelf name="sci-fi-fantasy" count="101"/>
+      <shelf name="audiobooks" count="97"/>
+      <shelf name="2016-releases" count="90"/>
+      <shelf name="kindle" count="85"/>
+      <shelf name="audible" count="81"/>
+      <shelf name="adult" count="80"/>
+      <shelf name="adventure" count="78"/>
+      <shelf name="war" count="77"/>
+      <shelf name="space" count="75"/>
+      <shelf name="2016-reads" count="73"/>
+      <shelf name="read-in-2017" count="72"/>
+      <shelf name="space-opera" count="67"/>
+      <shelf name="ebook" count="62"/>
+      <shelf name="library" count="60"/>
+      <shelf name="red-rising" count="58"/>
+      <shelf name="5-stars" count="56"/>
+      <shelf name="wish-list" count="54"/>
+      <shelf name="sf" count="52"/>
+      <shelf name="audio" count="51"/>
+      <shelf name="scifi-fantasy" count="49"/>
+      <shelf name="fantasy-sci-fi" count="49"/>
+      <shelf name="owned-books" count="46"/>
+      <shelf name="action" count="44"/>
+      <shelf name="romance" count="42"/>
+      <shelf name="2016-read" count="41"/>
+      <shelf name="read-2017" count="40"/>
+      <shelf name="all-time-favorites" count="40"/>
+      <shelf name="adult-fiction" count="39"/>
+      <shelf name="2016-books" count="38"/>
+      <shelf name="ebooks" count="37"/>
+      <shelf name="2016-reading-challenge" count="37"/>
+      <shelf name="favorite" count="36"/>
+      <shelf name="2016-release" count="34"/>
+      <shelf name="audio-books" count="33"/>
+      <shelf name="favorite-books" count="32"/>
+      <shelf name="favorite-series" count="32"/>
+      <shelf name="tbr" count="32"/>
+      <shelf name="futuristic" count="30"/>
+      <shelf name="novels" count="29"/>
+      <shelf name="military" count="29"/>
+      <shelf name="thriller" count="27"/>
+      <shelf name="my-books" count="26"/>
+      <shelf name="science-fiction-fantasy" count="26"/>
+      <shelf name="signed" count="25"/>
+      <shelf name="epic" count="25"/>
+      <shelf name="best-of-2016" count="24"/>
+      <shelf name="finished-series" count="24"/>
+      <shelf name="need-to-buy" count="24"/>
+      <shelf name="e-book" count="24"/>
+      <shelf name="pierce-brown" count="24"/>
+      <shelf name="audio-book" count="23"/>
+      <shelf name="2016-favorites" count="22"/>
+      <shelf name="trilogy" count="22"/>
+      <shelf name="series-to-finish" count="21"/>
+      <shelf name="books-to-buy" count="21"/>
+      <shelf name="made-me-cry" count="20"/>
+      <shelf name="completed-series" count="20"/>
+      <shelf name="on-hold" count="20"/>
+      <shelf name="5-star" count="19"/>
+      <shelf name="action-adventure" count="19"/>
+      <shelf name="mythology" count="19"/>
+      <shelf name="2017-reads" count="18"/>
+      <shelf name="e-books" count="18"/>
+      <shelf name="my-library" count="18"/>
+      <shelf name="red-rising-trilogy" count="18"/>
+      <shelf name="dark" count="17"/>
+      <shelf name="favs" count="17"/>
+      <shelf name="books-read-in-2016" count="17"/>
+      <shelf name="i-own" count="17"/>
+      <shelf name="maybe" count="17"/>
+      <shelf name="library-books" count="16"/>
+      <shelf name="2016-books-read" count="16"/>
+      <shelf name="fantasy-scifi" count="16"/>
+      <shelf name="ya-fantasy" count="16"/>
+      <shelf name="distopia" count="16"/>
+      <shelf name="part-of-a-series" count="16"/>
+      <shelf name="speculative-fiction" count="16"/>
+      <shelf name="future" count="16"/>
+      <shelf name="sequels" count="16"/>
+      <shelf name="male-pov" count="16"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>566915</id>
+<user_position>3</user_position>
+<series>
+<id>117100</id>
+<title>
+<![CDATA[
+    Red Rising
+]]>
+</title>
+<description>
+<![CDATA[
+    Also see <a href="https://www.goodreads.com/series/174262-iron-gold">Iron Gold series</a>, a sequel series set after the events of [book: Morning Star|18966806].
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>18054017</id>
+<title>Catalyst (Insignia, #3)</title>
+<title_without_series>Catalyst</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18054017-catalyst]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392925144s/18054017.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392925144m/18054017.jpg]]></image_url>
+<num_pages>419</num_pages>
+<work>
+<id>25339401</id>
+</work>
+<isbn>0062093053</isbn>
+<isbn13>9780062093059</isbn13>
+<average_rating>4.40</average_rating>
+<ratings_count>2994</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>4792223</id>
+<name>S.J. Kincaid</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4792223.S_J_Kincaid]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20753341</id>
+<title><![CDATA[The Last Mortal Bond (Chronicle of the Unhewn Throne, #3)]]></title>
+<title_without_series>The Last Mortal Bond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20753341-the-last-mortal-bond]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1431018288s/20753341.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1431018288m/20753341.jpg]]></image_url>
+<num_pages>897</num_pages>
+<work>
+<id>40085389</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>8702</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>7086094</id>
+<name>Brian Staveley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7086094.Brian_Staveley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22886612</id>
+<title><![CDATA[Nemesis Games (The Expanse, #5)]]></title>
+<title_without_series>Nemesis Games</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22886612-nemesis-games]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407524221s/22886612.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407524221m/22886612.jpg]]></image_url>
+<num_pages>536</num_pages>
+<work>
+<id>42456264</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>23750</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4192148</id>
+<name>James S.A. Corey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4192148.James_S_A_Corey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15704459</id>
+<title>Firefight (The Reckoners, #2)</title>
+<title_without_series>Firefight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15704459-firefight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413220816s/15704459.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413220816m/15704459.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>21979689</id>
+</work>
+<isbn>0385743580</isbn>
+<isbn13>9780385743587</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>50844</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>1</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>38550</id>
+<name>Brandon Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18071697</id>
+<title><![CDATA[The Shadow's Curse (The Knots Sequence, #2)]]></title>
+<title_without_series>The Shadow&apos;s Curse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18071697-the-shadow-s-curse]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1397639466s/18071697.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1397639466m/18071697.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>25371534</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>247</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5833021</id>
+<name>Amy McCulloch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5833021.Amy_McCulloch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27154427</id>
+<title><![CDATA[The Wheel of Osheim (The Red Queen's War, #3)]]></title>
+<title_without_series>The Wheel of Osheim</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27154427-the-wheel-of-osheim]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1450726066s/27154427.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1450726066m/27154427.jpg]]></image_url>
+<num_pages>656</num_pages>
+<work>
+<id>44648689</id>
+</work>
+<isbn>0007531613</isbn>
+<isbn13>9780007531615</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>6520</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4721536</id>
+<name>Mark  Lawrence</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4721536.Mark_Lawrence]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17950614</id>
+<title>UnDivided (Unwind, #4)</title>
+<title_without_series>UnDivided</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17950614-undivided]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392097377s/17950614.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392097377m/17950614.jpg]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>25166874</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>13046</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>19564</id>
+<name>Neal Shusterman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19564.Neal_Shusterman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17928198</id>
+<title>Endsinger (The Lotus War, #3)</title>
+<title_without_series>Endsinger</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17928198-endsinger]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1400245769s/17928198.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1400245769m/17928198.jpg]]></image_url>
+<num_pages>705</num_pages>
+<work>
+<id>25128526</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>1895</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>11</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20404905</id>
+<title><![CDATA[The Spider's War (The Dagger and the Coin, #5)]]></title>
+<title_without_series>The Spider&apos;s War</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20404905-the-spider-s-war]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410969828s/20404905.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410969828m/20404905.jpg]]></image_url>
+<num_pages>492</num_pages>
+<work>
+<id>28929652</id>
+</work>
+<isbn>0316204056</isbn>
+<isbn13>9780316204057</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>3428</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>13557729</id>
+<name>Daniel Abraham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13557729.Daniel_Abraham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23909755</id>
+<title><![CDATA[City of Blades (The Divine Cities, #2)]]></title>
+<title_without_series>City of Blades</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23909755-city-of-blades]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1426255519s/23909755.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1426255519m/23909755.jpg]]></image_url>
+<num_pages>484</num_pages>
+<work>
+<id>43516764</id>
+</work>
+<isbn>0553419714</isbn>
+<isbn13>9780553419719</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>5557</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>1</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>2916869</id>
+<name>Robert Jackson Bennett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2916869.Robert_Jackson_Bennett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17571270</id>
+<title><![CDATA[Broken Crowns (The Internment Chronicles, #3)]]></title>
+<title_without_series>Broken Crowns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17571270-broken-crowns]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1426603795s/17571270.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1426603795m/17571270.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>24510906</id>
+</work>
+<isbn>1442496444</isbn>
+<isbn13>9781442496446</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>789</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4103366</id>
+<name>Lauren DeStefano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4103366.Lauren_DeStefano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23346335</id>
+<title><![CDATA[The Price of Valour (The Shadow Campaigns, #3)]]></title>
+<title_without_series>The Price of Valour</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23346335-the-price-of-valour]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1443527225s/23346335.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1443527225m/23346335.jpg]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>42905071</id>
+</work>
+<isbn>0091950562</isbn>
+<isbn13>9780091950569</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>4338</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>639491</id>
+<name>Django Wexler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/639491.Django_Wexler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15793041</id>
+<title><![CDATA[Necessary Evil (Milkweed Triptych, #3)]]></title>
+<title_without_series>Necessary Evil</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15793041-necessary-evil]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>15291130</id>
+</work>
+<isbn>0765321521</isbn>
+<isbn13>9780765321527</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>2273</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2924955</id>
+<name>Ian Tregillis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2924955.Ian_Tregillis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20499652</id>
+<title>Bluescreen (Mirador, #1)</title>
+<title_without_series>Bluescreen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20499652-bluescreen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1435161751s/20499652.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1435161751m/20499652.jpg]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>34183956</id>
+</work>
+<isbn>006234787X</isbn>
+<isbn13>9780062347879</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>1220</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>2</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>2740668</id>
+<name>Dan Wells</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2740668.Dan_Wells]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18486037</id>
+<title><![CDATA[The Scarlet Tides (Moontide Quartet, #2)]]></title>
+<title_without_series>The Scarlet Tides</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18486037-the-scarlet-tides]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379181979s/18486037.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379181979m/18486037.jpg]]></image_url>
+<num_pages>688</num_pages>
+<work>
+<id>26165914</id>
+</work>
+<isbn>1780871988</isbn>
+<isbn13>9781780871981</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1584</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>10</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>2880618</id>
+<name>David Hair</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2880618.David_Hair]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23168809</id>
+<title><![CDATA[The End of All Things (Old Man's War, #6)]]></title>
+<title_without_series>The End of All Things</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23168809-the-end-of-all-things]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411134775s/23168809.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411134775m/23168809.jpg]]></image_url>
+<num_pages>380</num_pages>
+<work>
+<id>42713953</id>
+</work>
+<isbn>0765376075</isbn>
+<isbn13>9780765376077</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>9977</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4763</id>
+<name>John Scalzi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4763.John_Scalzi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>24683898</id>
+<title><![CDATA[The Death of Dulgath (The Riyria Chronicles, #3)]]></title>
+<title_without_series>The Death of Dulgath</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/24683898-the-death-of-dulgath]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1440823815s/24683898.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1440823815m/24683898.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>44301324</id>
+</work>
+<isbn>1943363005</isbn>
+<isbn13>9781943363001</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>6382</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2063919</id>
+<name>Michael J. Sullivan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2063919.Michael_J_Sullivan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15790894</id>
+<title>Fortune&apos;s Pawn (Paradox #1)</title>
+<title_without_series>Fortune&apos;s Pawn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15790894-fortune-s-pawn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1375610325s/15790894.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1375610325m/15790894.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>21512449</id>
+</work>
+<isbn>0316221112</isbn>
+<isbn13>9780316221115</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>9465</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6572837</id>
+<name>Rachel Bach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6572837.Rachel_Bach]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

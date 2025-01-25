@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>22522202</id>
+  <title><![CDATA[Until Friday Night (The Field Party, #1)]]></title>
+  <isbn><![CDATA[1481438867]]></isbn>
+  <isbn13><![CDATA[9781481438865]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1429191171m/22522202.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1429191171s/22522202.jpg</small_image_url>
+  <publication_year>2015</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Simon Pulse</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[To everyone who knows him, West Ashby has always been that guy: the cocky, popular, way-too-handsome-for-his-own-good football god who led Lawton High to the state championships. But while West may be Big Man on Campus on the outside, on the inside he’s battling the grief that comes with watching his father slowly die of cancer.<br /><br />Two years ago, Maggie Carleton’s life fell apart when her father murdered her mother. And after she told the police what happened, she stopped speaking and hasn’t spoken since. Even the move to Lawton, Alabama, couldn’t draw Maggie back out. So she stayed quiet, keeping her sorrow and her fractured heart hidden away.<br /><br />As West’s pain becomes too much to handle, he knows he needs to talk to someone about his father—so in the dark shadows of a post-game party, he opens up to the one girl who he knows won’t tell anyone else.<br /><br />West expected that talking about his dad would bring some relief, or at least a flood of emotions he couldn’t control. But he never expected the quiet new girl to reply, to reveal a pain even deeper than his own—or for them to form a connection so strong that he couldn’t ever let her go…]]></description>
+  <work>
+  <id type="integer">41969628</id>
+  <books_count type="integer">16</books_count>
+  <best_book_id type="integer">22522202</best_book_id>
+  <reviews_count type="integer">58068</reviews_count>
+  <ratings_sum type="integer">100475</ratings_sum>
+  <ratings_count type="integer">25074</ratings_count>
+  <text_reviews_count type="integer">2572</text_reviews_count>
+  <original_publication_year type="integer">2015</original_publication_year>
+  <original_publication_month type="integer">8</original_publication_month>
+  <original_publication_day type="integer">25</original_publication_day>
+  <original_title>Until Friday Night</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9716|4:8494|3:4808|2:1439|1:617|total:25074</rating_dist>
+  <desc_user_id type="integer">6828856</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.01</average_rating>
+  <num_pages><![CDATA[336]]></num_pages>
+  <format><![CDATA[ebook]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[20847]]></ratings_count>
+  <text_reviews_count><![CDATA[2102]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/22522202-until-friday-night]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/22522202-until-friday-night]]></link>
+  <authors>
+<author>
+<id>4872191</id>
+<name>Abbi Glines</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454175469p5/4872191.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454175469p2/4872191.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4872191.Abbi_Glines]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>1187211</ratings_count>
+<text_reviews_count>72981</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/22522202-until-friday-night">Until Friday Night Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1481438867&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/22522202-until-friday-night?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="642"/>
+      <shelf name="romance" count="443"/>
+      <shelf name="young-adult" count="431"/>
+      <shelf name="favorites" count="338"/>
+      <shelf name="contemporary" count="283"/>
+      <shelf name="ya" count="211"/>
+      <shelf name="new-adult" count="203"/>
+      <shelf name="sports" count="159"/>
+      <shelf name="series" count="138"/>
+      <shelf name="abbi-glines" count="114"/>
+      <shelf name="books-i-own" count="112"/>
+      <shelf name="high-school" count="110"/>
+      <shelf name="read-in-2015" count="75"/>
+      <shelf name="read-in-2016" count="66"/>
+      <shelf name="kindle" count="66"/>
+      <shelf name="contemporary-romance" count="60"/>
+      <shelf name="2015-releases" count="53"/>
+      <shelf name="dnf" count="50"/>
+      <shelf name="2015-reads" count="49"/>
+      <shelf name="currently-reading" count="46"/>
+      <shelf name="read-2015" count="46"/>
+      <shelf name="sports-romance" count="46"/>
+      <shelf name="owned" count="45"/>
+      <shelf name="2016-reads" count="41"/>
+      <shelf name="library" count="41"/>
+      <shelf name="fiction" count="41"/>
+      <shelf name="ebook" count="38"/>
+      <shelf name="to-buy" count="37"/>
+      <shelf name="owned-books" count="36"/>
+      <shelf name="realistic-fiction" count="36"/>
+      <shelf name="favourites" count="35"/>
+      <shelf name="friends-to-lovers" count="34"/>
+      <shelf name="read-2016" count="33"/>
+      <shelf name="ya-romance" count="32"/>
+      <shelf name="ya-contemporary" count="32"/>
+      <shelf name="ebooks" count="32"/>
+      <shelf name="audiobooks" count="28"/>
+      <shelf name="august-2015" count="28"/>
+      <shelf name="chick-lit" count="28"/>
+      <shelf name="dual-pov" count="27"/>
+      <shelf name="audiobook" count="26"/>
+      <shelf name="2015-read" count="25"/>
+      <shelf name="football" count="25"/>
+      <shelf name="drama" count="24"/>
+      <shelf name="death" count="23"/>
+      <shelf name="4-stars" count="22"/>
+      <shelf name="did-not-finish" count="22"/>
+      <shelf name="teen" count="22"/>
+      <shelf name="favorite" count="21"/>
+      <shelf name="made-me-cry" count="21"/>
+      <shelf name="arc" count="21"/>
+      <shelf name="read-in-2017" count="20"/>
+      <shelf name="abuse" count="20"/>
+      <shelf name="favorite-authors" count="20"/>
+      <shelf name="audio" count="20"/>
+      <shelf name="not-yet-released" count="20"/>
+      <shelf name="i-own" count="19"/>
+      <shelf name="family" count="19"/>
+      <shelf name="highschool" count="19"/>
+      <shelf name="edelweiss" count="19"/>
+      <shelf name="high-school-romance" count="18"/>
+      <shelf name="sport" count="18"/>
+      <shelf name="love" count="18"/>
+      <shelf name="maybe" count="18"/>
+      <shelf name="5-stars" count="17"/>
+      <shelf name="alpha-male" count="17"/>
+      <shelf name="na" count="17"/>
+      <shelf name="first-in-series" count="17"/>
+      <shelf name="2016-read" count="15"/>
+      <shelf name="athletes" count="15"/>
+      <shelf name="must-read" count="15"/>
+      <shelf name="ya-books" count="14"/>
+      <shelf name="my-books" count="14"/>
+      <shelf name="emotional" count="14"/>
+      <shelf name="tbr" count="14"/>
+      <shelf name="kindle-books" count="13"/>
+      <shelf name="e-books" count="13"/>
+      <shelf name="3-stars" count="13"/>
+      <shelf name="2015-release" count="13"/>
+      <shelf name="read-2017" count="12"/>
+      <shelf name="small-town" count="12"/>
+      <shelf name="book-boyfriend" count="12"/>
+      <shelf name="2015-reading-challenge" count="12"/>
+      <shelf name="tear-jerker" count="12"/>
+      <shelf name="bad-boys" count="12"/>
+      <shelf name="favorite-books" count="11"/>
+      <shelf name="meh" count="11"/>
+      <shelf name="sweet" count="11"/>
+      <shelf name="book-boyfriends" count="11"/>
+      <shelf name="angst" count="11"/>
+      <shelf name="favorite-author" count="11"/>
+      <shelf name="young-adult-romance" count="11"/>
+      <shelf name="coming-of-age" count="10"/>
+      <shelf name="e-book" count="10"/>
+      <shelf name="overdrive" count="10"/>
+      <shelf name="all-time-favorites" count="10"/>
+      <shelf name="ya-na" count="10"/>
+      <shelf name="tragedy" count="10"/>
+      <shelf name="friendship" count="10"/>
+      <shelf name="books-read-in-2015" count="10"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>647329</id>
+<user_position>1</user_position>
+<series>
+<id>130843</id>
+<title>
+<![CDATA[
+    The Field Party
+]]>
+</title>
+<description>
+<![CDATA[
+    A new YA series set in the world of Southern bad boys, pickup trucks, football and high school field parties.
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>22921756</id>
+<title><![CDATA[Finding Willow (Freedom, #0.5)]]></title>
+<title_without_series>Finding Willow</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22921756-finding-willow]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408173226s/22921756.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408173226m/22921756.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42489345</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>127</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>10</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>5448974</id>
+<name>Michelle K. Pickett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5448974.Michelle_K_Pickett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25058139</id>
+<title><![CDATA[Inspiring You (Unraveling You, #4)]]></title>
+<title_without_series>Inspiring You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25058139-inspiring-you]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1429204346s/25058139.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1429204346m/25058139.jpg]]></image_url>
+<num_pages>135</num_pages>
+<work>
+<id>44740076</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2551</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>7</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>4601855</id>
+<name>Jessica Sorensen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4601855.Jessica_Sorensen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29509845</id>
+<title>Normal (Something More, #1)</title>
+<title_without_series>Normal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29509845-normal]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1458008522s/29509845.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1458008522m/29509845.jpg]]></image_url>
+<num_pages>445</num_pages>
+<work>
+<id>42564470</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>3145</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8470935</id>
+<name>Danielle Pearl</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8470935.Danielle_Pearl]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18487371</id>
+<title><![CDATA[Damaged Goods (The Outsider Chronicles, #2)]]></title>
+<title_without_series>Damaged Goods</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18487371-damaged-goods]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407959567s/18487371.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407959567m/18487371.jpg]]></image_url>
+<num_pages>410</num_pages>
+<work>
+<id>26168487</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1734</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>4887264</id>
+<name>Nicole  Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4887264.Nicole_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27354942</id>
+<title><![CDATA[Black Diamond (Stark Springs Academy #1)]]></title>
+<title_without_series>Black Diamond</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27354942-black-diamond]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1449770687s/27354942.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1449770687m/27354942.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>47404833</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1697</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7237069</id>
+<name>Ali Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7237069.Ali_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18880895</id>
+<title>Secret Life (RVHS Secrets #2)</title>
+<title_without_series>Secret Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18880895-secret-life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>26401792</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>823</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7096150</id>
+<name>Bria Quinlan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7096150.Bria_Quinlan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18045624</id>
+<title>Scorched (Frigid, #2)</title>
+<title_without_series>Scorched</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18045624-scorched]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1420636173s/18045624.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1420636173m/18045624.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>25324637</id>
+</work>
+<isbn>1633920151</isbn>
+<isbn13>9781633920156</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>6801</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>6</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>4476934</id>
+<name>Jennifer L. Armentrout</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4476934.Jennifer_L_Armentrout]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17928147</id>
+<title><![CDATA[Walk the Edge (Thunder Road, #2)]]></title>
+<title_without_series>Walk the Edge</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17928147-walk-the-edge]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456569089s/17928147.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456569089m/17928147.jpg]]></image_url>
+<num_pages>426</num_pages>
+<work>
+<id>25128420</id>
+</work>
+<isbn>0373211627</isbn>
+<isbn13>9780373211623</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>5549</ratings_count>
+<publication_year>2016</publication_year>
+<publication_month>3</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4575371</id>
+<name>Katie McGarry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4575371.Katie_McGarry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18807019</id>
+<title><![CDATA[Waiting on the Sidelines (Waiting on the Sidelines, #1)]]></title>
+<title_without_series>Waiting on the Sidelines</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18807019-waiting-on-the-sidelines]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1384523158s/18807019.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1384523158m/18807019.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>24937182</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>4337</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>7055100</id>
+<name>Ginger Scott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7055100.Ginger_Scott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>26033727</id>
+<title><![CDATA[Stupid Love (Stupid in Love, #3)]]></title>
+<title_without_series>Stupid Love</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/26033727-stupid-love]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1438635744s/26033727.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1438635744m/26033727.jpg]]></image_url>
+<num_pages>247</num_pages>
+<work>
+<id>45959937</id>
+</work>
+<isbn></isbn>
+<isbn13>9781942356301</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>528</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>275252</id>
+<name>Cindy Miles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/275252.Cindy_Miles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8434032</id>
+<title>Recitatif/To Room Nineteen</title>
+<title_without_series>Recitatif/To Room Nineteen</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8434032-recitatif-to-room-nineteen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1488067674s/8434032.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1488067674m/8434032.jpg]]></image_url>
+<num_pages>110</num_pages>
+<work>
+<id>13297516</id>
+</work>
+<isbn>8484436802</isbn>
+<isbn13>9788484436805</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>755</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3534</id>
+<name>Toni Morrison</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3534.Toni_Morrison]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25411167</id>
+<title><![CDATA[Devious Minds (Devious Minds, #1)]]></title>
+<title_without_series>Devious Minds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25411167-devious-minds]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>44381194</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>4845</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8573726</id>
+<name>K.F. Germaine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8573726.K_F_Germaine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25640933</id>
+<title><![CDATA[A Kiss Like This (Kiss and Make Up #3)]]></title>
+<title_without_series>A Kiss Like This</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25640933-a-kiss-like-this]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1492571895s/25640933.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1492571895m/25640933.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>45458737</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>1746</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7798960</id>
+<name>Sara Ney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7798960.Sara_Ney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27389653</id>
+<title><![CDATA[The Girl's Got Secrets (Forbidden Men, #7)]]></title>
+<title_without_series>The Girl&apos;s Got Secrets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27389653-the-girl-s-got-secrets]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1446147797s/27389653.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1446147797m/27389653.jpg]]></image_url>
+<num_pages>426</num_pages>
+<work>
+<id>47433750</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>4305</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>11</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>3213942</id>
+<name>Linda Kage</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3213942.Linda_Kage]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>23015992</id>
+<title><![CDATA[Changing Everything (Forgiving Lies, #2.5)]]></title>
+<title_without_series>Changing Everything</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/23015992-changing-everything]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1421342560s/23015992.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1421342560m/23015992.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>42581989</id>
+</work>
+<isbn>0062391402</isbn>
+<isbn13>9780062391407</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2319</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6436698</id>
+<name>Molly McAdams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6436698.Molly_McAdams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20653654</id>
+<title>Sweet Rome (Sweet Home, #1.5)</title>
+<title_without_series>Sweet Rome</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20653654-sweet-rome]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>455</num_pages>
+<work>
+<id>26654494</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>12439</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7074846</id>
+<name>Tillie Cole</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7074846.Tillie_Cole]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22715924</id>
+<title><![CDATA[No One Like You (Barefoot William, #4)]]></title>
+<title_without_series>No One Like You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22715924-no-one-like-you]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1440328567s/22715924.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1440328567m/22715924.jpg]]></image_url>
+<num_pages>290</num_pages>
+<work>
+<id>42243170</id>
+</work>
+<isbn>0758291302</isbn>
+<isbn13>9780758291301</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>918</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>162023</id>
+<name>Kate Angell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/162023.Kate_Angell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22823490</id>
+<title>Caught (Heart On, #1)</title>
+<title_without_series>Caught</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22823490-caught]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1427114240s/22823490.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1427114240m/22823490.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>42376488</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>2045</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>4</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>6625020</id>
+<name>Erika Ashby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6625020.Erika_Ashby]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

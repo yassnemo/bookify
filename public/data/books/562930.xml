@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>562930</id>
+  <title>The Book of Luke</title>
+  <isbn><![CDATA[1416520406]]></isbn>
+  <isbn13><![CDATA[9781416520405]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Emily Abbott has always been considered the Girl Most Likely to Be Nice -- but lately being nice hasn't done her any good. Her parents have decided to move the family from Chicago back to their hometown of Boston in the middle of Emily's senior year. Only Emily's first real boyfriend, Sean, is in Chicago, and so is her shot at class valedictorian and early admission to the Ivy League. What's a nice girl to do? <p> Then Sean dumps Emily <i>on moving day</i> and her father announces he's staying behind in Chicago "to tie up loose ends," and Emily decides that what a nice girl needs to do is to stop being nice. </p><p> She reconnects with her best friends in Boston, Josie and Lucy, only to discover that they too have been on the receiving end of some glaring Guy Don'ts. So when the girls have to come up with something to put in the senior class time capsule, they know exactly what to do. They'll create a not-so-nice reference guide for future generations of guys -- an instruction book that teaches them the right way to treat girls. </p><p> But when her friends draft Emily to test out their tips on Luke Preston -- the hottest, most popular guy in school, who just broke up with Josie <i>by email</i> -- Emily soon finds that Luke is the trickiest of test subjects . . . and that even a nice girl like Emily has a few things to learn about love.</p>]]></description>
+  <work>
+  <id type="integer">550071</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">562930</best_book_id>
+  <reviews_count type="integer">27233</reviews_count>
+  <ratings_sum type="integer">47612</ratings_sum>
+  <ratings_count type="integer">12759</ratings_count>
+  <text_reviews_count type="integer">355</text_reviews_count>
+  <original_publication_year type="integer">2007</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">3</original_publication_day>
+  <original_title>The Book of Luke</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:3784|4:3699|3:3726|2:1168|1:382|total:12759</rating_dist>
+  <desc_user_id type="integer">4027979</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.73</average_rating>
+  <num_pages><![CDATA[291]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12625]]></ratings_count>
+  <text_reviews_count><![CDATA[337]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/562930.The_Book_of_Luke]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/562930.The_Book_of_Luke]]></link>
+  <authors>
+<author>
+<id>30460</id>
+<name>Jenny O&apos;Connell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209127518p5/30460.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209127518p2/30460.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30460.Jenny_O_Connell]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>15802</ratings_count>
+<text_reviews_count>484</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/562930.The_Book_of_Luke">The Book of Luke Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1416520406&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/562930.The_Book_of_Luke?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="13550"/>
+      <shelf name="young-adult" count="195"/>
+      <shelf name="ya" count="129"/>
+      <shelf name="romance" count="117"/>
+      <shelf name="currently-reading" count="81"/>
+      <shelf name="favorites" count="73"/>
+      <shelf name="contemporary" count="64"/>
+      <shelf name="chick-lit" count="51"/>
+      <shelf name="books-i-own" count="42"/>
+      <shelf name="high-school" count="41"/>
+      <shelf name="teen" count="31"/>
+      <shelf name="realistic-fiction" count="30"/>
+      <shelf name="ya-romance" count="24"/>
+      <shelf name="stand-alone" count="19"/>
+      <shelf name="fiction" count="19"/>
+      <shelf name="owned" count="18"/>
+      <shelf name="ya-contemporary" count="17"/>
+      <shelf name="contemporary-romance" count="16"/>
+      <shelf name="wish-list" count="15"/>
+      <shelf name="love" count="14"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="kindle" count="13"/>
+      <shelf name="read-in-2010" count="13"/>
+      <shelf name="to-buy" count="13"/>
+      <shelf name="ebooks" count="12"/>
+      <shelf name="my-books" count="11"/>
+      <shelf name="summer-reads" count="11"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="teen-romance" count="10"/>
+      <shelf name="maybe" count="8"/>
+      <shelf name="coming-of-age" count="8"/>
+      <shelf name="want-to-read" count="8"/>
+      <shelf name="ya-fiction" count="8"/>
+      <shelf name="i-own" count="7"/>
+      <shelf name="realistic" count="7"/>
+      <shelf name="female-pov" count="6"/>
+      <shelf name="summer" count="6"/>
+      <shelf name="read-in-english" count="6"/>
+      <shelf name="friendship" count="6"/>
+      <shelf name="young-adult-romance" count="6"/>
+      <shelf name="non-series" count="6"/>
+      <shelf name="not-at-library" count="6"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="3-stars" count="5"/>
+      <shelf name="young-adult-contemporary" count="5"/>
+      <shelf name="have" count="5"/>
+      <shelf name="read-2011" count="5"/>
+      <shelf name="chicklit" count="5"/>
+      <shelf name="ya-lit" count="5"/>
+      <shelf name="e-book" count="5"/>
+      <shelf name="to-get" count="5"/>
+      <shelf name="single-books" count="5"/>
+      <shelf name="y-a" count="5"/>
+      <shelf name="cute" count="5"/>
+      <shelf name="teen-fiction" count="5"/>
+      <shelf name="youngadult" count="5"/>
+      <shelf name="young-adult-fiction" count="5"/>
+      <shelf name="read-in-2015" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="read-2013" count="4"/>
+      <shelf name="looks-interesting" count="4"/>
+      <shelf name="downloaded" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="book-i-own" count="4"/>
+      <shelf name="beach-reads" count="4"/>
+      <shelf name="novel" count="4"/>
+      <shelf name="school" count="4"/>
+      <shelf name="summer-reading" count="4"/>
+      <shelf name="romantic" count="4"/>
+      <shelf name="normal" count="4"/>
+      <shelf name="contemporary-ya" count="4"/>
+      <shelf name="teens" count="4"/>
+      <shelf name="did-not-finish" count="4"/>
+      <shelf name="drama" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="comedy" count="4"/>
+      <shelf name="teeny-bopper" count="4"/>
+      <shelf name="chick" count="4"/>
+      <shelf name="teen-lit" count="4"/>
+      <shelf name="real-life" count="4"/>
+      <shelf name="read-in-2009" count="4"/>
+      <shelf name="books" count="3"/>
+      <shelf name="paperback" count="3"/>
+      <shelf name="meh" count="3"/>
+      <shelf name="ya-contemp" count="3"/>
+      <shelf name="beautiful-cover" count="3"/>
+      <shelf name="read-in-2013" count="3"/>
+      <shelf name="predictable" count="3"/>
+      <shelf name="ya-realistic-fiction" count="3"/>
+      <shelf name="slice-of-life" count="3"/>
+      <shelf name="stand-alones" count="3"/>
+      <shelf name="high-school-romance" count="3"/>
+      <shelf name="bad-boys" count="3"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="read-in-2012" count="3"/>
+      <shelf name="read-2012" count="3"/>
+      <shelf name="ya-books" count="3"/>
+      <shelf name="so-so" count="3"/>
+      <shelf name="4-stars" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>501127</id>
+<title>Getting Lost with Boys</title>
+<title_without_series>Getting Lost with Boys</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/501127.Getting_Lost_with_Boys]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>489230</id>
+</work>
+<isbn>0060824328</isbn>
+<isbn13>9780060824327</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>4061</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>21913</id>
+<name>Hailey Abbott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21913.Hailey_Abbott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3873373</id>
+<title>Breathing</title>
+<title_without_series>Breathing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3873373-breathing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>265</num_pages>
+<work>
+<id>3918566</id>
+</work>
+<isbn>0670011231</isbn>
+<isbn13>9780670011230</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>2022</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1651902</id>
+<name>Cheryl Renee Herbsman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1651902.Cheryl_Renee_Herbsman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>538581</id>
+<title>Lost It</title>
+<title_without_series>Lost It</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/538581.Lost_It]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>276</num_pages>
+<work>
+<id>525983</id>
+</work>
+<isbn>1416934758</isbn>
+<isbn13>9781416934752</isbn13>
+<average_rating>3.46</average_rating>
+<ratings_count>3880</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>296913</id>
+<name>Kristen Tracy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/296913.Kristen_Tracy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7148786</id>
+<title>Take Me There</title>
+<title_without_series>Take Me There</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7148786-take-me-there]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1313987231s/7148786.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1313987231m/7148786.jpg]]></image_url>
+<num_pages>325</num_pages>
+<work>
+<id>7413764</id>
+</work>
+<isbn>1416989501</isbn>
+<isbn13>9781416989509</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>7051</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>564425</id>
+<name>Carolee Dean</name>
+<link><![CDATA[https://www.goodreads.com/author/show/564425.Carolee_Dean]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7148780</id>
+<title>Caleb + Kate</title>
+<title_without_series>Caleb + Kate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7148780-caleb-kate]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380855970s/7148780.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380855970m/7148780.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7413757</id>
+</work>
+<isbn>1595546782</isbn>
+<isbn13>9781595546784</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>3469</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7047320</id>
+<name>Cindy Martinusen Coloma</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7047320.Cindy_Martinusen_Coloma]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>678891</id>
+<title>Bloom</title>
+<title_without_series>Bloom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/678891.Bloom]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298132153s/678891.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298132153m/678891.jpg]]></image_url>
+<num_pages>231</num_pages>
+<work>
+<id>10077572</id>
+</work>
+<isbn>1416926836</isbn>
+<isbn13>9781416926832</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>12937</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>4</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>363405</id>
+<name>Elizabeth Scott</name>
+<link><![CDATA[https://www.goodreads.com/author/show/363405.Elizabeth_Scott]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>818601</id>
+<title><![CDATA[The Boyfriend Trick (First Kisses, #2)]]></title>
+<title_without_series>The Boyfriend Trick</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/818601.The_Boyfriend_Trick]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>804465</id>
+</work>
+<isbn>006114309X</isbn>
+<isbn13>9780061143090</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>763</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>61179</id>
+<name>Stephie Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/61179.Stephie_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7111552</id>
+<title><![CDATA[One Night That Changes Everything (One Night That Changes Everything, #1)]]></title>
+<title_without_series><![CDATA[One Night That Changes Everything]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7111552-one-night-that-changes-everything]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>7370955</id>
+</work>
+<isbn>1416994793</isbn>
+<isbn13>9781416994794</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>12809</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>262086</id>
+<name>Lauren Barnholdt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/262086.Lauren_Barnholdt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2879805</id>
+<title>I Know It&apos;s Over</title>
+<title_without_series>I Know It&apos;s Over</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2879805-i-know-it-s-over]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>244</num_pages>
+<work>
+<id>2905991</id>
+</work>
+<isbn>0375845666</isbn>
+<isbn13>9780375845666</isbn13>
+<average_rating>3.51</average_rating>
+<ratings_count>2884</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>3015727</id>
+<name>C.K. Kelly Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3015727.C_K_Kelly_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3535946</id>
+<title>What Would Emma Do?</title>
+<title_without_series>What Would Emma Do?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3535946-what-would-emma-do]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>307</num_pages>
+<work>
+<id>3577909</id>
+</work>
+<isbn>1416974326</isbn>
+<isbn13>9781416974321</isbn13>
+<average_rating>3.43</average_rating>
+<ratings_count>1657</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>12</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>1049315</id>
+<name>Eileen Cook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1049315.Eileen_Cook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8430896</id>
+<title>Rhymes with Cupid</title>
+<title_without_series>Rhymes with Cupid</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8430896-rhymes-with-cupid]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1289321594s/8430896.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1289321594m/8430896.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>13294264</id>
+</work>
+<isbn>0061935018</isbn>
+<isbn13>9780061935015</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>1975</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>12</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>4077562</id>
+<name>Anna Humphrey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4077562.Anna_Humphrey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8255649</id>
+<title>So Over You</title>
+<title_without_series>So Over You</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8255649-so-over-you]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1300892268s/8255649.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1300892268m/8255649.jpg]]></image_url>
+<num_pages>226</num_pages>
+<work>
+<id>13103408</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>7482</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>2812835</id>
+<name>Gwen Hayes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2812835.Gwen_Hayes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>403129</id>
+<title>The Boyfriend League</title>
+<title_without_series>The Boyfriend League</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/403129.The_Boyfriend_League]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>315</num_pages>
+<work>
+<id>392513</id>
+</work>
+<isbn>0061138371</isbn>
+<isbn13>9780061138379</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>8151</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>99642</id>
+<name>Rachel Hawthorne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99642.Rachel_Hawthorne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7806594</id>
+<title><![CDATA[Love at First Click (First Kisses, #6)]]></title>
+<title_without_series>Love at First Click</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7806594-love-at-first-click]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1300128498s/7806594.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1300128498m/7806594.jpg]]></image_url>
+<num_pages>185</num_pages>
+<work>
+<id>10805785</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>3286</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>53574</id>
+<name>Elizabeth Chandler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53574.Elizabeth_Chandler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6162873</id>
+<title>Drive Me Crazy</title>
+<title_without_series>Drive Me Crazy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6162873-drive-me-crazy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>210</num_pages>
+<work>
+<id>6342071</id>
+</work>
+<isbn>1416974849</isbn>
+<isbn13>9781416974840</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>3236</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>237997</id>
+<name>Erin Downing</name>
+<link><![CDATA[https://www.goodreads.com/author/show/237997.Erin_Downing]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11749440</id>
+<title>The Wrong Path</title>
+<title_without_series>The Wrong Path</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11749440-the-wrong-path]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>158</num_pages>
+<work>
+<id>16699279</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>1513</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1584143</id>
+<name>Vivian Marie Aubin du Paris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1584143.Vivian_Marie_Aubin_du_Paris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9463563</id>
+<title>Second Kiss (Second Kiss, #1)</title>
+<title_without_series>Second Kiss</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9463563-second-kiss]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1324983554s/9463563.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1324983554m/9463563.jpg]]></image_url>
+<num_pages>237</num_pages>
+<work>
+<id>14348502</id>
+</work>
+<isbn>1616637676</isbn>
+<isbn13>9781616637675</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>6630</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4397603</id>
+<name>Natalie Palmer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4397603.Natalie_Palmer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1641683</id>
+<title>Falling for Romeo</title>
+<title_without_series>Falling for Romeo</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1641683.Falling_for_Romeo]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1279101957s/1641683.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1279101957m/1641683.jpg]]></image_url>
+<num_pages>197</num_pages>
+<work>
+<id>1636018</id>
+</work>
+<isbn>1933963948</isbn>
+<isbn13>9781933963945</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>2007</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>758992</id>
+<name>Jennifer Laurens</name>
+<link><![CDATA[https://www.goodreads.com/author/show/758992.Jennifer_Laurens]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

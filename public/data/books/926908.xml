@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>926908</id>
+  <title>Gnomes</title>
+  <isbn><![CDATA[0810909650]]></isbn>
+  <isbn13><![CDATA[9780810909656]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1463189122m/926908.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1463189122s/926908.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["One of the most enchanting books. . . . The deadpan drollery here is delicious. An all-ages romp."--Publishers Weekly "Gnomes is the most original and sustained piece of whimsy since the productions of J.R.R. Tolkien. . . . Designed to be savored by the entire family."--Time "Only a villain could look through these pages without falling in love with the tiny folks."--People Abrams launched Gnomes into the hearts of Americans in 1977 and quickly racked up astrognomic sales in bookstores across the country, ultimately achieving a 62-week run on the New York Times best-seller list. Come join in the 20th-anniversary fun as gnomania strikes again!Did you know that gnome couples always have twin children? Or that a gnome is seven times as strong as a human? Do you want to hear some gossip from the gnome who knew Rembrandt? Dutch artist Rien Poortvliet's charming illustrations and physician Wil Huygen's detailed observations of the gnomes' habits, anatomy, and lifestyle are a delight for readers of all ages. Children will adore the gnome family's underground home and the constant interaction with animals; adults will appreciate the tongue-in-cheek scientific data.Gnomebody is immune to the gnomes' tremendous appeal--and a whole new generation is waiting to love them for the first time! -- from the publisher, courtesy Strand.com]]></description>
+  <work>
+  <id type="integer">2653871</id>
+  <books_count type="integer">36</books_count>
+  <best_book_id type="integer">926908</best_book_id>
+  <reviews_count type="integer">33220</reviews_count>
+  <ratings_sum type="integer">93588</ratings_sum>
+  <ratings_count type="integer">23331</ratings_count>
+  <text_reviews_count type="integer">329</text_reviews_count>
+  <original_publication_year type="integer">1976</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Leven en werken van de Kabouter</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10026|4:6455|3:4698|2:1392|1:760|total:23331</rating_dist>
+  <desc_user_id type="integer">2631425</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.01</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[22610]]></ratings_count>
+  <text_reviews_count><![CDATA[268]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/926908.Gnomes]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/926908.Gnomes]]></link>
+  <authors>
+<author>
+<id>53530</id>
+<name>Rien Poortvliet</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373960160p5/53530.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373960160p2/53530.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/53530.Rien_Poortvliet]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>25949</ratings_count>
+<text_reviews_count>443</text_reviews_count>
+</author>
+<author>
+<id>58024</id>
+<name>Wil Huygen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1463951068p5/58024.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1463951068p2/58024.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58024.Wil_Huygen]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>23633</ratings_count>
+<text_reviews_count>346</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/926908.Gnomes">Gnomes Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0810909650&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/926908.Gnomes?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="9634"/>
+      <shelf name="fantasy" count="259"/>
+      <shelf name="art" count="143"/>
+      <shelf name="favorites" count="135"/>
+      <shelf name="fiction" count="77"/>
+      <shelf name="children" count="49"/>
+      <shelf name="currently-reading" count="48"/>
+      <shelf name="childhood" count="46"/>
+      <shelf name="non-fiction" count="38"/>
+      <shelf name="childrens" count="35"/>
+      <shelf name="owned" count="31"/>
+      <shelf name="books-i-own" count="28"/>
+      <shelf name="picture-books" count="27"/>
+      <shelf name="humor" count="25"/>
+      <shelf name="reference" count="23"/>
+      <shelf name="art-books" count="20"/>
+      <shelf name="default" count="19"/>
+      <shelf name="mythology" count="18"/>
+      <shelf name="fairy-tales" count="17"/>
+      <shelf name="children-s" count="16"/>
+      <shelf name="children-s-books" count="16"/>
+      <shelf name="folklore" count="15"/>
+      <shelf name="nonfiction" count="14"/>
+      <shelf name="childhood-favorites" count="13"/>
+      <shelf name="classics" count="13"/>
+      <shelf name="dutch" count="12"/>
+      <shelf name="graphic-novels" count="12"/>
+      <shelf name="illustrated" count="12"/>
+      <shelf name="kids" count="11"/>
+      <shelf name="sci-fi-fantasy" count="10"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="gnomes" count="9"/>
+      <shelf name="coffee-table" count="9"/>
+      <shelf name="childrens-books" count="8"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="all-time-favorites" count="8"/>
+      <shelf name="favourites" count="7"/>
+      <shelf name="library" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="favorite" count="7"/>
+      <shelf name="magic" count="7"/>
+      <shelf name="illustration" count="6"/>
+      <shelf name="i-own" count="6"/>
+      <shelf name="1970s" count="6"/>
+      <shelf name="nederlands" count="6"/>
+      <shelf name="kinderboeken" count="6"/>
+      <shelf name="youth" count="6"/>
+      <shelf name="childrens-literature" count="6"/>
+      <shelf name="humour" count="6"/>
+      <shelf name="classic" count="5"/>
+      <shelf name="fairy-tale" count="5"/>
+      <shelf name="mythology-folklore" count="5"/>
+      <shelf name="fairytales" count="5"/>
+      <shelf name="young-adult" count="5"/>
+      <shelf name="picture-book" count="5"/>
+      <shelf name="fantasy-sci-fi" count="5"/>
+      <shelf name="nostalgia" count="4"/>
+      <shelf name="fantasia" count="4"/>
+      <shelf name="nature" count="4"/>
+      <shelf name="coffee-table-books" count="4"/>
+      <shelf name="kids-books" count="4"/>
+      <shelf name="childhood-faves" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="children-books" count="4"/>
+      <shelf name="myth" count="4"/>
+      <shelf name="magical-creatures" count="4"/>
+      <shelf name="faerie" count="4"/>
+      <shelf name="scifi-fantasy" count="4"/>
+      <shelf name="funny" count="4"/>
+      <shelf name="artbooks" count="4"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="my-childhood" count="3"/>
+      <shelf name="children-s-book" count="3"/>
+      <shelf name="shelfari-favorites" count="3"/>
+      <shelf name="netherlands" count="3"/>
+      <shelf name="mythology-and-folklore" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="fiction-fantasy" count="3"/>
+      <shelf name="fictie" count="3"/>
+      <shelf name="borrowed" count="3"/>
+      <shelf name="fae" count="3"/>
+      <shelf name="ilustración" count="3"/>
+      <shelf name="art-book" count="3"/>
+      <shelf name="own-read" count="3"/>
+      <shelf name="personal-library" count="3"/>
+      <shelf name="graphic-novel" count="3"/>
+      <shelf name="science-fiction-and-fantasy" count="3"/>
+      <shelf name="20th-century" count="3"/>
+      <shelf name="finished" count="3"/>
+      <shelf name="fantasy-art" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="books-we-own" count="3"/>
+      <shelf name="faeries" count="3"/>
+      <shelf name="europe" count="3"/>
+      <shelf name="childhood-books" count="3"/>
+      <shelf name="graphic" count="3"/>
+      <shelf name="fairy" count="3"/>
+      <shelf name="sf-fantasy" count="3"/>
+      <shelf name="informational" count="3"/>
+      <shelf name="childrens-fiction" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>227570</id>
+<title><![CDATA[Lady Cottington's Pressed Fairy Book]]></title>
+<title_without_series><![CDATA[Lady Cottington's Pressed Fairy Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/227570.Lady_Cottington_s_Pressed_Fairy_Book]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408938052s/227570.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408938052m/227570.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1153604</id>
+</work>
+<isbn>1857933362</isbn>
+<isbn13>9781857933369</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>12285</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>209</id>
+<name>Terry Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/209.Terry_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100593</id>
+<title><![CDATA[Goblins! A Survival Guide and Fiasco in Four Parts]]></title>
+<title_without_series><![CDATA[Goblins! A Survival Guide and Fiasco in Four Parts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100593.Goblins_A_Survival_Guide_and_Fiasco_in_Four_Parts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>96992</id>
+</work>
+<isbn>0810949415</isbn>
+<isbn13>9780810949416</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>2133</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9345</id>
+<name>Brian Froud</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9345.Brian_Froud]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>847018</id>
+<title>Castle</title>
+<title_without_series>Castle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/847018.Castle]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1295715078s/847018.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1295715078m/847018.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1499337</id>
+</work>
+<isbn>0395257840</isbn>
+<isbn13>9780395257845</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>3060</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>18539</id>
+<name>David Macaulay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18539.David_Macaulay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>245700</id>
+<title>The Art of Amy Brown</title>
+<title_without_series>The Art of Amy Brown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/245700.The_Art_of_Amy_Brown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328765892s/245700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328765892m/245700.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>238058</id>
+</work>
+<isbn>0974461229</isbn>
+<isbn13>9780974461229</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>8725</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88916</id>
+<name>Amy Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88916.Amy_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100631</id>
+<title><![CDATA[The Great Encyclopedia Of Faeries]]></title>
+<title_without_series><![CDATA[The Great Encyclopedia Of Faeries]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100631.The_Great_Encyclopedia_Of_Faeries]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>97029</id>
+</work>
+<isbn>0684869578</isbn>
+<isbn13>9780684869575</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3611</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>58075</id>
+<name>Pierre Dubois</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58075.Pierre_Dubois]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>830942</id>
+<title><![CDATA[Fairyopolis: A Flower Fairies Journal]]></title>
+<title_without_series><![CDATA[Fairyopolis: A Flower Fairies Journal]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/830942.Fairyopolis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>816599</id>
+</work>
+<isbn>0723257248</isbn>
+<isbn13>9780723257240</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5661</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>22490</id>
+<name>Cicely Mary Barker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22490.Cicely_Mary_Barker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1070326</id>
+<title>The Unicorn</title>
+<title_without_series>The Unicorn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1070326.The_Unicorn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332570903s/1070326.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332570903m/1070326.jpg]]></image_url>
+<num_pages>191</num_pages>
+<work>
+<id>1057009</id>
+</work>
+<isbn>0517449021</isbn>
+<isbn13>9780517449028</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>463</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>292278</id>
+<name>Nancy Hathaway</name>
+<link><![CDATA[https://www.goodreads.com/author/show/292278.Nancy_Hathaway]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46870</id>
+<title><![CDATA[The Fairies: Photographic Evidence of the Existence of Another World]]></title>
+<title_without_series><![CDATA[The Fairies: Photographic Evidence of the Existence of Another World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46870.The_Fairies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>45941</id>
+</work>
+<isbn>0060282347</isbn>
+<isbn13>9780060282349</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1504</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26291</id>
+<name>Suza Scalora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26291.Suza_Scalora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>701615</id>
+<title><![CDATA[Fairies and Elves (The Enchanted World Series)]]></title>
+<title_without_series>Fairies and Elves</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/701615.Fairies_and_Elves]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1306910245s/701615.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1306910245m/701615.jpg]]></image_url>
+<num_pages>143</num_pages>
+<work>
+<id>687915</id>
+</work>
+<isbn>080945212X</isbn>
+<isbn13>9780809452125</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>348</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>593083</id>
+<name>Tristram Potter Coffin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/593083.Tristram_Potter_Coffin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>34234</id>
+<title><![CDATA[Wizards and Witches (The Enchanted World Series)]]></title>
+<title_without_series>Wizards and Witches</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/34234.Wizards_and_Witches]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>34243</id>
+</work>
+<isbn>0809452057</isbn>
+<isbn13>9780809452057</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>362</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>369847</id>
+<name>Brendan Lehane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/369847.Brendan_Lehane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1006591</id>
+<title><![CDATA[Fairie-ality: The Fashion Collection from the House of Ellwand]]></title>
+<title_without_series><![CDATA[Fairie-ality: The Fashion Collection from the House of Ellwand]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1006591.Fairie_ality]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320557679s/1006591.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320557679m/1006591.jpg]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>992717</id>
+</work>
+<isbn>0763614130</isbn>
+<isbn13>9780763614133</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1436</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128488</id>
+<name>Eugenie Bird</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128488.Eugenie_Bird]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>88770</id>
+<title><![CDATA[The Element Encyclopedia of Magical Creatures: The Ultimate A-Z of Fantastic Beings from Myth and Magic]]></title>
+<title_without_series><![CDATA[The Element Encyclopedia of Magical Creatures: The Ultimate A-Z of Fantastic Beings from Myth and Magic]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88770.The_Element_Encyclopedia_of_Magical_Creatures]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328858786s/88770.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328858786m/88770.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>85635</id>
+</work>
+<isbn>140273543X</isbn>
+<isbn13>9781402735431</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>4744</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10900</id>
+<name>John Matthews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10900.John_Matthews]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

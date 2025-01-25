@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>9418327</id>
+  <title>Bossypants</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1481509554m/9418327.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1481509554s/9418327.jpg</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>5</publication_day>
+  <publisher>Reagan Arthur Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[Before Liz Lemon, before "Weekend Update," before "Sarah Palin," Tina Fey was just a young girl with a dream: a recurring stress dream that she was being chased through a local airport by her middle-school gym teacher. She also had a dream that one day she would be a comedian on TV.<br /><br />She has seen both these dreams come true.<br /><br />At last, Tina Fey's story can be told. From her youthful days as a vicious nerd to her tour of duty on <i>Saturday Night Live</i>; from her passionately halfhearted pursuit of physical beauty to her life as a mother eating things off the floor; from her one-sided college romance to her nearly fatal honeymoon—from the beginning of this paragraph to this final sentence.<br /><br />Tina Fey reveals all, and proves what we've all suspected: you're no one until someone calls you bossy.<br /><br /><i>(Includes Special, Never-Before-Solicited Opinions on Breastfeeding, Princesses, Photoshop, the Electoral Process, and Italian Rum Cake!)</i><br /><br /><i>An unabridged recording on 5 CDs (5.5 Hours).</i>]]></description>
+  <work>
+  <id type="integer">14302659</id>
+  <books_count type="integer">48</books_count>
+  <best_book_id type="integer">9418327</best_book_id>
+  <reviews_count type="integer">994128</reviews_count>
+  <ratings_sum type="integer">2405254</ratings_sum>
+  <ratings_count type="integer">609882</ratings_count>
+  <text_reviews_count type="integer">35154</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">5</original_publication_day>
+  <original_title>Bossypants</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:203427|4:230278|3:129525|2:31780|1:14872|total:609882</rating_dist>
+  <desc_user_id type="integer">21784227</desc_user_id>
+  <default_chaptering_book_id type="integer">9476337</default_chaptering_book_id>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.94</average_rating>
+  <num_pages><![CDATA[283]]></num_pages>
+  <format><![CDATA[Kindle Edition]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[506837]]></ratings_count>
+  <text_reviews_count><![CDATA[25527]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/9418327-bossypants]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/9418327-bossypants]]></link>
+  <authors>
+<author>
+<id>4385839</id>
+<name>Tina Fey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286658273p5/4385839.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286658273p2/4385839.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4385839.Tina_Fey]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>609915</ratings_count>
+<text_reviews_count>35157</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/9418327-bossypants">Bossypants Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/9418327-bossypants?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="332278"/>
+      <shelf name="currently-reading" count="9704"/>
+      <shelf name="non-fiction" count="6675"/>
+      <shelf name="humor" count="3748"/>
+      <shelf name="memoir" count="3631"/>
+      <shelf name="favorites" count="2826"/>
+      <shelf name="nonfiction" count="2805"/>
+      <shelf name="biography" count="2347"/>
+      <shelf name="audiobook" count="1588"/>
+      <shelf name="audiobooks" count="1395"/>
+      <shelf name="memoirs" count="1350"/>
+      <shelf name="comedy" count="1260"/>
+      <shelf name="book-club" count="1038"/>
+      <shelf name="audio" count="886"/>
+      <shelf name="autobiography" count="852"/>
+      <shelf name="funny" count="839"/>
+      <shelf name="biography-memoir" count="599"/>
+      <shelf name="biographies" count="582"/>
+      <shelf name="humour" count="550"/>
+      <shelf name="books-i-own" count="485"/>
+      <shelf name="audio-books" count="468"/>
+      <shelf name="adult" count="468"/>
+      <shelf name="feminism" count="460"/>
+      <shelf name="kindle" count="460"/>
+      <shelf name="owned" count="438"/>
+      <shelf name="audio-book" count="426"/>
+      <shelf name="read-in-2011" count="419"/>
+      <shelf name="húmor" count="415"/>
+      <shelf name="library" count="330"/>
+      <shelf name="memoir-biography" count="292"/>
+      <shelf name="audible" count="281"/>
+      <shelf name="read-in-2012" count="247"/>
+      <shelf name="essays" count="229"/>
+      <shelf name="women" count="216"/>
+      <shelf name="bio" count="199"/>
+      <shelf name="read-in-2015" count="197"/>
+      <shelf name="read-in-2013" count="193"/>
+      <shelf name="ebook" count="190"/>
+      <shelf name="owned-books" count="177"/>
+      <shelf name="read-in-2014" count="173"/>
+      <shelf name="listened-to" count="170"/>
+      <shelf name="to-buy" count="170"/>
+      <shelf name="read-2011" count="164"/>
+      <shelf name="bookclub" count="153"/>
+      <shelf name="bios" count="151"/>
+      <shelf name="abandoned" count="140"/>
+      <shelf name="biographies-memoirs" count="135"/>
+      <shelf name="biography-autobiography" count="135"/>
+      <shelf name="contemporary" count="135"/>
+      <shelf name="autobiographies" count="134"/>
+      <shelf name="bio-memoir" count="133"/>
+      <shelf name="humorous" count="132"/>
+      <shelf name="read-in-2016" count="131"/>
+      <shelf name="ebooks" count="128"/>
+      <shelf name="autobiography-memoir" count="121"/>
+      <shelf name="favourites" count="116"/>
+      <shelf name="feminist" count="113"/>
+      <shelf name="biographical" count="112"/>
+      <shelf name="did-not-finish" count="112"/>
+      <shelf name="didn-t-finish" count="111"/>
+      <shelf name="memoirs-biographies" count="110"/>
+      <shelf name="read-2012" count="107"/>
+      <shelf name="non-fic" count="104"/>
+      <shelf name="borrowed" count="101"/>
+      <shelf name="read-2015" count="100"/>
+      <shelf name="american" count="100"/>
+      <shelf name="fun" count="99"/>
+      <shelf name="listened" count="98"/>
+      <shelf name="hilarious" count="97"/>
+      <shelf name="adult-non-fiction" count="96"/>
+      <shelf name="auto-biography" count="95"/>
+      <shelf name="memoir-bio" count="94"/>
+      <shelf name="read-2014" count="92"/>
+      <shelf name="2011-reads" count="90"/>
+      <shelf name="tina-fey" count="85"/>
+      <shelf name="fiction" count="85"/>
+      <shelf name="adult-nonfiction" count="82"/>
+      <shelf name="2011-books" count="82"/>
+      <shelf name="female-authors" count="82"/>
+      <shelf name="pop-culture" count="78"/>
+      <shelf name="female-author" count="77"/>
+      <shelf name="book-club-books" count="77"/>
+      <shelf name="chick-lit" count="76"/>
+      <shelf name="celebrity" count="76"/>
+      <shelf name="my-library" count="76"/>
+      <shelf name="memoir-autobiography" count="75"/>
+      <shelf name="my-books" count="71"/>
+      <shelf name="library-books" count="70"/>
+      <shelf name="read-2016" count="69"/>
+      <shelf name="2016-reading-challenge" count="69"/>
+      <shelf name="library-book" count="69"/>
+      <shelf name="e-book" count="68"/>
+      <shelf name="read-2013" count="68"/>
+      <shelf name="biographies-and-memoirs" count="66"/>
+      <shelf name="nook" count="65"/>
+      <shelf name="television" count="65"/>
+      <shelf name="for-fun" count="64"/>
+      <shelf name="read-in-2017" count="63"/>
+      <shelf name="own-it" count="63"/>
+      <shelf name="wish-list" count="63"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>7684650</id>
+<title><![CDATA[Gunn's Golden Rules: Life's Little Lessons for Making It Work]]></title>
+<title_without_series><![CDATA[Gunn's Golden Rules: Life's Little Lessons for Making It Work]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7684650-gunn-s-golden-rules]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>10334815</id>
+</work>
+<isbn>1439176566</isbn>
+<isbn13>9781439176566</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>4353</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>93162</id>
+<name>Tim Gunn</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93162.Tim_Gunn]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12511117</id>
+<title><![CDATA[You're Not Doing It Right: Tales of Marriage, Sex, Death, and Other Humiliations]]></title>
+<title_without_series><![CDATA[You're Not Doing It Right: Tales of Marriage, Sex, Death, and Other Humiliations]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12511117-you-re-not-doing-it-right]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1326168351s/12511117.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1326168351m/12511117.jpg]]></image_url>
+<num_pages>245</num_pages>
+<work>
+<id>17496863</id>
+</work>
+<isbn>1439167850</isbn>
+<isbn13>9781439167854</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>6678</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>1233745</id>
+<name>Michael Ian Black</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1233745.Michael_Ian_Black]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6523058</id>
+<title><![CDATA[The New York Regional Mormon Singles Halloween Dance: A Memoir]]></title>
+<title_without_series><![CDATA[The New York Regional Mormon Singles Halloween Dance: A Memoir]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6523058-the-new-york-regional-mormon-singles-halloween-dance]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2661475</id>
+</work>
+<isbn>0525951350</isbn>
+<isbn13>9780525951353</isbn13>
+<average_rating>3.58</average_rating>
+<ratings_count>6061</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1161302</id>
+<name>Elna Baker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1161302.Elna_Baker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12143200</id>
+<title><![CDATA[Drift: The Unmooring of American Military Power]]></title>
+<title_without_series><![CDATA[Drift: The Unmooring of American Military Power]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12143200-drift]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1318753897s/12143200.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1318753897m/12143200.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>17113518</id>
+</work>
+<isbn>0307970388</isbn>
+<isbn13>9780307970381</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>14946</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4085286</id>
+<name>Rachel Maddow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4085286.Rachel_Maddow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7551220</id>
+<title><![CDATA[I Know I Am, But What Are You?]]></title>
+<title_without_series><![CDATA[I Know I Am, But What Are You?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7551220-i-know-i-am-but-what-are-you]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268622672s/7551220.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268622672m/7551220.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>9845253</id>
+</work>
+<isbn>1439142734</isbn>
+<isbn13>9781439142738</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>8257</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3122220</id>
+<name>Samantha Bee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3122220.Samantha_Bee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10211494</id>
+<title><![CDATA[Stories I Only Tell My Friends]]></title>
+<title_without_series><![CDATA[Stories I Only Tell My Friends]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10211494-stories-i-only-tell-my-friends]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>15110962</id>
+</work>
+<isbn>080509329X</isbn>
+<isbn13>9780805093292</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>50497</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>438483</id>
+<name>Rob Lowe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/438483.Rob_Lowe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10723227</id>
+<title><![CDATA[The Nerdist Way: How to Reach the Next Level (In Real Life)]]></title>
+<title_without_series><![CDATA[The Nerdist Way: How to Reach the Next Level]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10723227-the-nerdist-way]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327905067s/10723227.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327905067m/10723227.jpg]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>15633919</id>
+</work>
+<isbn>0425243540</isbn>
+<isbn13>9780425243541</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>4274</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4460742</id>
+<name>Chris Hardwick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4460742.Chris_Hardwick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12358</id>
+<title>The Partly Cloudy Patriot</title>
+<title_without_series>The Partly Cloudy Patriot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12358.The_Partly_Cloudy_Patriot]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1430720573s/12358.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1430720573m/12358.jpg]]></image_url>
+<num_pages>197</num_pages>
+<work>
+<id>229722</id>
+</work>
+<isbn>0743243803</isbn>
+<isbn13>9780743243803</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>23827</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2122</id>
+<name>Sarah Vowell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2122.Sarah_Vowell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7284508</id>
+<title><![CDATA[Confessions of a Prairie Bitch: How I Survived Nellie Oleson and Learned to Love Being Hated]]></title>
+<title_without_series><![CDATA[Confessions of a Prairie Bitch: How I Survived Nellie Oleson and Learned to Love Being Hated]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7284508-confessions-of-a-prairie-bitch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1280695574s/7284508.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1280695574m/7284508.jpg]]></image_url>
+<num_pages>302</num_pages>
+<work>
+<id>8507071</id>
+</work>
+<isbn>0061962147</isbn>
+<isbn13>9780061962141</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>9803</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3219726</id>
+<name>Alison Arngrim</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3219726.Alison_Arngrim]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17345259</id>
+<title><![CDATA[Mother. Wife. Sister. Human. Warrior. Falcon. Yardstick. Turban. Cabbage.]]></title>
+<title_without_series><![CDATA[Mother. Wife. Sister. Human. Warrior. Falcon. Yardstick. Turban. Cabbage.]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17345259-mother-wife-sister-human-warrior-falcon-yardstick-turban-cabbage]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>24084455</id>
+</work>
+<isbn>081299308X</isbn>
+<isbn13>9780812993080</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>6069</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>6586630</id>
+<name>Rob Delaney</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6586630.Rob_Delaney]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17259934</id>
+<title>Meaty</title>
+<title_without_series>Meaty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17259934-meaty]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1359048131s/17259934.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1359048131m/17259934.jpg]]></image_url>
+<num_pages>250</num_pages>
+<work>
+<id>23855481</id>
+</work>
+<isbn>0988480425</isbn>
+<isbn13>9780988480421</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1961</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>9</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>6896957</id>
+<name>Samantha Irby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6896957.Samantha_Irby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6534932</id>
+<title><![CDATA[Official Book Club Selection: A Memoir According to Kathy Griffin]]></title>
+<title_without_series><![CDATA[Official Book Club Selection: A Memoir According to Kathy Griffin]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6534932-official-book-club-selection]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>348</num_pages>
+<work>
+<id>6727073</id>
+</work>
+<isbn>0345518519</isbn>
+<isbn13>9780345518514</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>32740</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2956496</id>
+<name>Kathy Griffin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2956496.Kathy_Griffin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10604115</id>
+<title>Happy Accidents: A Memoir</title>
+<title_without_series>Happy Accidents: A Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10604115-happy-accidents]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>16463829</id>
+</work>
+<isbn>1401341764</isbn>
+<isbn13>9781401341763</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>11417</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2316952</id>
+<name>Jane Lynch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2316952.Jane_Lynch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13528506</id>
+<title><![CDATA[America Again: Re-becoming the Greatness We Never Weren't]]></title>
+<title_without_series><![CDATA[America Again: Re-becoming the Greatness We Never Weren't]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13528506-america-again]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1348708518s/13528506.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1348708518m/13528506.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>19089230</id>
+</work>
+<isbn>0446583979</isbn>
+<isbn13>9780446583978</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>9971</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6649</id>
+<name>Stephen Colbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6649.Stephen_Colbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10445900</id>
+<title><![CDATA[Pawnee: The Greatest Town in America]]></title>
+<title_without_series><![CDATA[Pawnee: The Greatest Town in America]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10445900-pawnee]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1308099851s/10445900.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1308099851m/10445900.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>15350617</id>
+</work>
+<isbn>1401310648</isbn>
+<isbn13>9781401310646</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>3871</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4642262</id>
+<name>Leslie Knope</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4642262.Leslie_Knope]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6948511</id>
+<title>Shockaholic</title>
+<title_without_series>Shockaholic</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6948511-shockaholic]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>7182743</id>
+</work>
+<isbn>0743264827</isbn>
+<isbn13>9780743264822</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>6613</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>90150</id>
+<name>Carrie Fisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90150.Carrie_Fisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10836585</id>
+<title>Life Itself</title>
+<title_without_series>Life Itself</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10836585-life-itself]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>436</num_pages>
+<work>
+<id>15750735</id>
+</work>
+<isbn>0446584975</isbn>
+<isbn13>9780446584975</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>5001</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>13300</id>
+<name>Roger Ebert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13300.Roger_Ebert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7775841</id>
+<title><![CDATA[Sleepwalk With Me and Other Painfully True Stories]]></title>
+<title_without_series><![CDATA[Sleepwalk With Me and Other Painfully True Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7775841-sleepwalk-with-me-and-other-painfully-true-stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>191</num_pages>
+<work>
+<id>10682678</id>
+</work>
+<isbn>1439157995</isbn>
+<isbn13>9781439157992</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>11507</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>3390625</id>
+<name>Mike Birbiglia</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3390625.Mike_Birbiglia]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

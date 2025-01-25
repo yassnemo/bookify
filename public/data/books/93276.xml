@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>93276</id>
+  <title><![CDATA[King Arthur and His Knights: Selected Tales]]></title>
+  <isbn><![CDATA[0195019059]]></isbn>
+  <isbn13><![CDATA[9780195019056]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1975</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Oxford University Press, USA</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Thomas Malory, knight, adventurer, and soldier, was born in the early years of the fifteenth century and died on March 14, 1471, having spent much of the last twenty years of his life in prison. It was there that he wrote most, if not all, of his works, completing the last in about 1470. Some fifteen years later William Caxton published the entire collection of his tales in one volume, "Le Morte Darthur."]]></description>
+  <work>
+  <id type="integer">89928</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">93276</best_book_id>
+  <reviews_count type="integer">20753</reviews_count>
+  <ratings_sum type="integer">54759</ratings_sum>
+  <ratings_count type="integer">13351</ratings_count>
+  <text_reviews_count type="integer">43</text_reviews_count>
+  <original_publication_year type="integer">1860</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Story of King Arthur</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5307|4:4726|3:2786|2:430|1:102|total:13351</rating_dist>
+  <desc_user_id type="integer">-110</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[272]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[13287]]></ratings_count>
+  <text_reviews_count><![CDATA[38]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/93276.King_Arthur_and_His_Knights]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/93276.King_Arthur_and_His_Knights]]></link>
+  <authors>
+<author>
+<id>53519</id>
+<name>Thomas Malory</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/53519.Thomas_Malory]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>50967</ratings_count>
+<text_reviews_count>995</text_reviews_count>
+</author>
+<author>
+<id>4041274</id>
+<name>Eugène Vinaver</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4041274.Eug_ne_Vinaver]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>13949</ratings_count>
+<text_reviews_count>75</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/93276.King_Arthur_and_His_Knights">King Arthur and His Knights Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0195019059&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/93276.King_Arthur_and_His_Knights?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="7123"/>
+      <shelf name="classics" count="152"/>
+      <shelf name="fantasy" count="58"/>
+      <shelf name="fiction" count="57"/>
+      <shelf name="currently-reading" count="47"/>
+      <shelf name="classic" count="36"/>
+      <shelf name="historical-fiction" count="22"/>
+      <shelf name="favorites" count="17"/>
+      <shelf name="literature" count="15"/>
+      <shelf name="kindle" count="14"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="arthurian" count="12"/>
+      <shelf name="mythology" count="11"/>
+      <shelf name="historical" count="11"/>
+      <shelf name="adventure" count="9"/>
+      <shelf name="history" count="9"/>
+      <shelf name="owned" count="8"/>
+      <shelf name="arthurian-legend" count="7"/>
+      <shelf name="king-arthur" count="7"/>
+      <shelf name="classic-literature" count="6"/>
+      <shelf name="medieval" count="6"/>
+      <shelf name="folklore" count="5"/>
+      <shelf name="school-books" count="5"/>
+      <shelf name="magic" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="read-for-school" count="4"/>
+      <shelf name="owned-books" count="4"/>
+      <shelf name="childrens" count="4"/>
+      <shelf name="classic-lit" count="4"/>
+      <shelf name="school-reads" count="3"/>
+      <shelf name="for-school" count="3"/>
+      <shelf name="england" count="3"/>
+      <shelf name="school" count="3"/>
+      <shelf name="classics-read" count="3"/>
+      <shelf name="adult-fiction" count="3"/>
+      <shelf name="to-buy" count="3"/>
+      <shelf name="default" count="3"/>
+      <shelf name="sci-fi-fantasy" count="3"/>
+      <shelf name="children" count="3"/>
+      <shelf name="kids" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="novel" count="3"/>
+      <shelf name="young-adult" count="3"/>
+      <shelf name="love" count="3"/>
+      <shelf name="college" count="2"/>
+      <shelf name="to-read-kindle" count="2"/>
+      <shelf name="literary" count="2"/>
+      <shelf name="english-literature" count="2"/>
+      <shelf name="british" count="2"/>
+      <shelf name="never-finished" count="2"/>
+      <shelf name="classical-fiction" count="2"/>
+      <shelf name="arthur" count="2"/>
+      <shelf name="books-i-own-but-haven-t-read" count="2"/>
+      <shelf name="war" count="2"/>
+      <shelf name="english-history" count="2"/>
+      <shelf name="literature-classics" count="2"/>
+      <shelf name="kindle-books" count="2"/>
+      <shelf name="childhood" count="2"/>
+      <shelf name="on-my-kindle" count="2"/>
+      <shelf name="children-s-books" count="2"/>
+      <shelf name="poetry" count="2"/>
+      <shelf name="to-find" count="2"/>
+      <shelf name="myth" count="2"/>
+      <shelf name="fantasia" count="2"/>
+      <shelf name="ancient" count="2"/>
+      <shelf name="recommended" count="2"/>
+      <shelf name="english-lit" count="2"/>
+      <shelf name="to-read-classics" count="2"/>
+      <shelf name="arthurian-legends" count="2"/>
+      <shelf name="thomas-malory" count="2"/>
+      <shelf name="favourites" count="2"/>
+      <shelf name="middle-ages" count="2"/>
+      <shelf name="legend" count="2"/>
+      <shelf name="classics-to-read" count="2"/>
+      <shelf name="home-library" count="2"/>
+      <shelf name="university" count="2"/>
+      <shelf name="myths-and-legends" count="2"/>
+      <shelf name="e-books" count="2"/>
+      <shelf name="maybe-read" count="2"/>
+      <shelf name="celtic-myth" count="2"/>
+      <shelf name="folklore-mythology" count="2"/>
+      <shelf name="children-s" count="2"/>
+      <shelf name="fun" count="2"/>
+      <shelf name="books-in-library" count="1"/>
+      <shelf name="scholastic" count="1"/>
+      <shelf name="from-spa" count="1"/>
+      <shelf name="spec-fic" count="1"/>
+      <shelf name="reread-or-finish" count="1"/>
+      <shelf name="60-s" count="1"/>
+      <shelf name="classic-cannon" count="1"/>
+      <shelf name="abbe-faria" count="1"/>
+      <shelf name="order" count="1"/>
+      <shelf name="no-audio" count="1"/>
+      <shelf name="nonseries" count="1"/>
+      <shelf name="boston" count="1"/>
+      <shelf name="on-shelf-at-home" count="1"/>
+      <shelf name="not-on-dl" count="1"/>
+      <shelf name="excellent-fiction" count="1"/>
+      <shelf name="excellent-fantasy" count="1"/>
+      <shelf name="copilărie" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>93008</id>
+<title>The Adventures of Robin Hood</title>
+<title_without_series>The Adventures of Robin Hood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/93008.The_Adventures_of_Robin_Hood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309207327s/93008.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309207327m/93008.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>199675</id>
+</work>
+<isbn>0140367004</isbn>
+<isbn13>9780140367003</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>10243</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13867</id>
+<name>Roger Lancelyn Green</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13867.Roger_Lancelyn_Green]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>73445</id>
+<title>The Complete Poetry</title>
+<title_without_series>The Complete Poetry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/73445.The_Complete_Poetry]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>6464349</id>
+</work>
+<isbn>0451526406</isbn>
+<isbn13>9780451526403</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>7022</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>11</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>93007</id>
+<title><![CDATA[The Merry Adventures of Robin Hood]]></title>
+<title_without_series><![CDATA[The Merry Adventures of Robin Hood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/93007.The_Merry_Adventures_of_Robin_Hood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1389006722s/93007.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1389006722m/93007.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>1411202</id>
+</work>
+<isbn>1595406557</isbn>
+<isbn13>9781595406552</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>52006</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>53350</id>
+<name>Howard Pyle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53350.Howard_Pyle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5784403</id>
+<title>Beauty and the Beast</title>
+<title_without_series>Beauty and the Beast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5784403-beauty-and-the-beast]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328106999s/5784403.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328106999m/5784403.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>21858997</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>10871</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4955836</id>
+<name><![CDATA[Jeanne-Marie Leprince de Beaumont]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/4955836.Jeanne_Marie_Leprince_de_Beaumont]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6328360</id>
+<title>Cinderella</title>
+<title_without_series>Cinderella</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6328360-cinderella]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327280287s/6328360.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327280287m/6328360.jpg]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>6513983</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>3375</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2559697</id>
+<name>Henry W. Hewet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2559697.Henry_W_Hewet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138951</id>
+<title><![CDATA[The Kitchen Knight: A Tale of King Arthur]]></title>
+<title_without_series><![CDATA[The Kitchen Knight: A Tale of King Arthur]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138951.The_Kitchen_Knight]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>623576</id>
+</work>
+<isbn>082340787X</isbn>
+<isbn13>9780823407873</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>719</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6604</id>
+<name>Margaret Hodges</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6604.Margaret_Hodges]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>844051</id>
+<title><![CDATA[Mutiny on the Bounty (The Bounty Trilogy, #1)]]></title>
+<title_without_series>Mutiny on the Bounty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/844051.Mutiny_on_the_Bounty]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344266653s/844051.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344266653m/844051.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>246330</id>
+</work>
+<isbn>0316611689</isbn>
+<isbn13>9780316611688</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>12267</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6527479</id>
+<name>Charles Bernard Nordhoff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6527479.Charles_Bernard_Nordhoff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>103086</id>
+<title>The Man Who Would Be King</title>
+<title_without_series>The Man Who Would Be King</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/103086.The_Man_Who_Would_Be_King]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>818983</id>
+</work>
+<isbn>0976140705</isbn>
+<isbn13>9780976140702</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>8674</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6989</id>
+<name>Rudyard Kipling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6989.Rudyard_Kipling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>388223</id>
+<title><![CDATA[Robin Hood, The Prince of Thieves]]></title>
+<title_without_series><![CDATA[Robin Hood, The Prince of Thieves]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/388223.Robin_Hood_The_Prince_of_Thieves]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>377847</id>
+</work>
+<isbn>3704313173</isbn>
+<isbn13>9783704313171</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>15155</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4785</id>
+<name>Alexandre Dumas</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4785.Alexandre_Dumas]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>449589</id>
+<title>Arthurian Romances</title>
+<title_without_series>Arthurian Romances</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/449589.Arthurian_Romances]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1427408076s/449589.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1427408076m/449589.jpg]]></image_url>
+<num_pages>521</num_pages>
+<work>
+<id>438235</id>
+</work>
+<isbn>0140445218</isbn>
+<isbn13>9780140445213</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>6496</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>20903</id>
+<name>Chrétien de Troyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20903.Chr_tien_de_Troyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>93038</id>
+<title>The Adventures of Robin Hood</title>
+<title_without_series>The Adventures of Robin Hood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/93038.The_Adventures_of_Robin_Hood]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>89702</id>
+</work>
+<isbn>0762421975</isbn>
+<isbn13>9780762421978</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>2525</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>53369</id>
+<name>J. Walker McSpadden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53369.J_Walker_McSpadden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>81081</id>
+<title><![CDATA[Rose Red & Snow White: A Grimms Fairy Tale]]></title>
+<title_without_series><![CDATA[Rose Red & Snow White: A Grimms Fairy Tale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/81081.Rose_Red_Snow_White]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>572329</id>
+</work>
+<isbn>0316770949</isbn>
+<isbn13>9780316770941</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1680</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>68042</id>
+<name>Ruth Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68042.Ruth_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>849915</id>
+<title>Robin Hood</title>
+<title_without_series>Robin Hood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/849915.Robin_Hood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1413703210s/849915.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1413703210m/849915.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>835427</id>
+</work>
+<isbn>1853261270</isbn>
+<isbn13>9781853261275</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>2439</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>34825</id>
+<name>Henry Gilbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/34825.Henry_Gilbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2480283</id>
+<title>Merlin</title>
+<title_without_series>Merlin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2480283.Merlin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>2487484</id>
+</work>
+<isbn>0886778417</isbn>
+<isbn13>9780886778415</isbn13>
+<average_rating>3.46</average_rating>
+<ratings_count>71</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>6436872</id>
+<name>Martin H. Greenberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6436872.Martin_H_Greenberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>229724</id>
+<title>The Quest of the Holy Grail</title>
+<title_without_series>The Quest of the Holy Grail</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/229724.The_Quest_of_the_Holy_Grail]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>222463</id>
+</work>
+<isbn>0140442200</isbn>
+<isbn13>9780140442205</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1641</ratings_count>
+<publication_year>1969</publication_year>
+<publication_month>2</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>393636</id>
+<title>Idylls of the King</title>
+<title_without_series>Idylls of the King</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/393636.Idylls_of_the_King]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380979896s/393636.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380979896m/393636.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>937372</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>7981</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>13638502</id>
+<name>Alfred Tennyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13638502.Alfred_Tennyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>403277</id>
+<title><![CDATA[The Land That Time Forgot (Caspak, #1-3)]]></title>
+<title_without_series>The Land That Time Forgot</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/403277.The_Land_That_Time_Forgot]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328818810s/403277.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328818810m/403277.jpg]]></image_url>
+<num_pages>434</num_pages>
+<work>
+<id>1791151</id>
+</work>
+<isbn>0803261543</isbn>
+<isbn13>9780803261549</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>6982</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10885</id>
+<name>Edgar Rice Burroughs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10885.Edgar_Rice_Burroughs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14116</id>
+<title>Beauty and the Beast</title>
+<title_without_series>Beauty and the Beast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14116.Beauty_and_the_Beast]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>16199</id>
+</work>
+<isbn>1587171481</isbn>
+<isbn13>9781587171482</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>5465</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4343</id>
+<name>Marianna Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4343.Marianna_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

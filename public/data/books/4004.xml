@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>4004</id>
+  <title>The Pilgrimage</title>
+  <isbn><![CDATA[0722534876]]></isbn>
+  <isbn13><![CDATA[9780722534878]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B000JMKNZG]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1307909268m/4004.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1307909268s/4004.jpg</small_image_url>
+  <publication_year>1997</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day></publication_day>
+  <publisher>Thorsons</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>The Pilgrimage</i> recounts the spectacular trials of Paulo Coelho and his mysterious mentor, Petrus, as they journey across Spain in search of a miraculous sword.<br /><br /><i>The Pilgrimage</i> paved the way to Paulo Coelho's international bestselling novel <i>The Alchemist</i>. In many ways, these two volumes are companions—to truly comprehend one, you must read the other.<br /><br />Step inside this captivating account of Paulo Coelho's pilgrimage along the road to Santiago. This fascinating parable explores the need to find one's own path. In the end, we discover that the extraordinary is always found in the ordinary and simple ways of everyday people. Part adventure story, part guide to self-discovery, this compelling tale delivers the perfect combination of enchantment and insight.]]></description>
+  <work>
+  <id type="integer">6186633</id>
+  <books_count type="integer">171</books_count>
+  <best_book_id type="integer">4004</best_book_id>
+  <reviews_count type="integer">64899</reviews_count>
+  <ratings_sum type="integer">129288</ratings_sum>
+  <ratings_count type="integer">35544</ratings_count>
+  <text_reviews_count type="integer">1453</text_reviews_count>
+  <original_publication_year type="integer">1987</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>O Diário de um Mago</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9306|4:11007|3:9836|2:3827|1:1568|total:35544</rating_dist>
+  <desc_user_id type="integer">5382135</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.64</average_rating>
+  <num_pages><![CDATA[226]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[28303]]></ratings_count>
+  <text_reviews_count><![CDATA[933]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/4004.The_Pilgrimage]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/4004.The_Pilgrimage]]></link>
+  <authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>2206151</ratings_count>
+<text_reviews_count>99600</text_reviews_count>
+</author>
+<author>
+<id>488758</id>
+<name>Alan R. Clarke</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/488758.Alan_R_Clarke]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>1440266</ratings_count>
+<text_reviews_count>53452</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/4004.The_Pilgrimage">The Pilgrimage Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0722534876&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/4004.The_Pilgrimage?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="20107"/>
+      <shelf name="currently-reading" count="1539"/>
+      <shelf name="fiction" count="318"/>
+      <shelf name="paulo-coelho" count="240"/>
+      <shelf name="owned" count="115"/>
+      <shelf name="favorites" count="102"/>
+      <shelf name="philosophy" count="101"/>
+      <shelf name="spiritual" count="85"/>
+      <shelf name="spirituality" count="82"/>
+      <shelf name="books-i-own" count="69"/>
+      <shelf name="novels" count="66"/>
+      <shelf name="novel" count="62"/>
+      <shelf name="travel" count="56"/>
+      <shelf name="inspirational" count="52"/>
+      <shelf name="non-fiction" count="48"/>
+      <shelf name="owned-books" count="38"/>
+      <shelf name="coelho" count="38"/>
+      <shelf name="religion" count="36"/>
+      <shelf name="literature" count="33"/>
+      <shelf name="contemporary" count="30"/>
+      <shelf name="default" count="30"/>
+      <shelf name="kindle" count="23"/>
+      <shelf name="my-library" count="23"/>
+      <shelf name="self-help" count="23"/>
+      <shelf name="my-books" count="22"/>
+      <shelf name="ebooks" count="22"/>
+      <shelf name="library" count="20"/>
+      <shelf name="unfinished" count="19"/>
+      <shelf name="to-buy" count="19"/>
+      <shelf name="biography" count="18"/>
+      <shelf name="paulo" count="16"/>
+      <shelf name="fantasy" count="15"/>
+      <shelf name="spain" count="15"/>
+      <shelf name="adult" count="14"/>
+      <shelf name="adventure" count="13"/>
+      <shelf name="ebook" count="13"/>
+      <shelf name="memoir" count="13"/>
+      <shelf name="wish-list" count="13"/>
+      <shelf name="english" count="13"/>
+      <shelf name="camino" count="13"/>
+      <shelf name="i-own" count="12"/>
+      <shelf name="my-bookshelf" count="12"/>
+      <shelf name="spiritual-journey" count="11"/>
+      <shelf name="autobiography" count="11"/>
+      <shelf name="books" count="11"/>
+      <shelf name="camino-de-santiago" count="10"/>
+      <shelf name="classics" count="10"/>
+      <shelf name="contemporary-fiction" count="10"/>
+      <shelf name="philosophical" count="10"/>
+      <shelf name="europe" count="10"/>
+      <shelf name="abandoned" count="10"/>
+      <shelf name="nonfiction" count="10"/>
+      <shelf name="latin-american" count="10"/>
+      <shelf name="brazilian" count="10"/>
+      <shelf name="general-fiction" count="10"/>
+      <shelf name="brazilian-literature" count="9"/>
+      <shelf name="roman" count="9"/>
+      <shelf name="e-book" count="9"/>
+      <shelf name="religious" count="9"/>
+      <shelf name="personal-development" count="9"/>
+      <shelf name="own-it" count="9"/>
+      <shelf name="inspiration" count="9"/>
+      <shelf name="new-age" count="8"/>
+      <shelf name="favourites" count="8"/>
+      <shelf name="paolo-coelho" count="8"/>
+      <shelf name="own-to-read" count="8"/>
+      <shelf name="paulo-coehlo" count="8"/>
+      <shelf name="romance" count="7"/>
+      <shelf name="spiritual-fiction" count="7"/>
+      <shelf name="other" count="7"/>
+      <shelf name="audiobooks" count="7"/>
+      <shelf name="finished" count="7"/>
+      <shelf name="روايات" count="7"/>
+      <shelf name="mine" count="7"/>
+      <shelf name="pilgrimage" count="7"/>
+      <shelf name="my-collection" count="6"/>
+      <shelf name="audiobook" count="6"/>
+      <shelf name="the-pilgrimage" count="6"/>
+      <shelf name="biblioteca" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="classic" count="6"/>
+      <shelf name="have" count="6"/>
+      <shelf name="didn-t-finish" count="6"/>
+      <shelf name="coelho-paulo" count="6"/>
+      <shelf name="magical-realism" count="6"/>
+      <shelf name="english-novels" count="6"/>
+      <shelf name="read-in-spanish" count="6"/>
+      <shelf name="20th-century" count="5"/>
+      <shelf name="tbr" count="5"/>
+      <shelf name="shelfari-wishlist" count="5"/>
+      <shelf name="unread" count="5"/>
+      <shelf name="read-2015" count="5"/>
+      <shelf name="español" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="literatura-brasileira" count="5"/>
+      <shelf name="life" count="5"/>
+      <shelf name="books-i-have" count="5"/>
+      <shelf name="nook" count="5"/>
+      <shelf name="shelved" count="5"/>
+      <shelf name="bought" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>53813</id>
+<title><![CDATA[Paulo Coelho: Confessions of a Pilgrim]]></title>
+<title_without_series><![CDATA[Paulo Coelho: Confessions of a Pilgrim]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53813.Paulo_Coelho]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>19203104</id>
+</work>
+<isbn>0007114370</isbn>
+<isbn13>9780007114375</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2032</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>30455</id>
+<name>Juan Arias</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30455.Juan_Arias]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6095360</id>
+<title><![CDATA[Paulo Coelho: A Warrior's Life - The Authorized Biography]]></title>
+<title_without_series><![CDATA[Paulo Coelho: A Warrior's Life - The Authorized Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6095360-paulo-coelho]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360181550s/6095360.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360181550m/6095360.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6272393</id>
+</work>
+<isbn>0061718882</isbn>
+<isbn13>9780061718885</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>2481</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>62166</id>
+<name>Fernando Morais</name>
+<link><![CDATA[https://www.goodreads.com/author/show/62166.Fernando_Morais]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11506</id>
+<title>The Gates of November</title>
+<title_without_series>The Gates of November</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11506.The_Gates_of_November]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320492153s/11506.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320492153m/11506.jpg]]></image_url>
+<num_pages>270</num_pages>
+<work>
+<id>1192906</id>
+</work>
+<isbn>044991240X</isbn>
+<isbn13>9780449912409</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>443</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>7385</id>
+<name>Chaim Potok</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7385.Chaim_Potok]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>888411</id>
+<title><![CDATA[The Daughters of Joy: An Adventure of the Heart]]></title>
+<title_without_series><![CDATA[The Daughters of Joy: An Adventure of the Heart]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/888411.The_Daughters_of_Joy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309202027s/888411.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309202027m/888411.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>873660</id>
+</work>
+<isbn>0451209354</isbn>
+<isbn13>9780451209351</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>198</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>138207</id>
+<name>Deepak Chopra</name>
+<link><![CDATA[https://www.goodreads.com/author/show/138207.Deepak_Chopra]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8201466</id>
+<title><![CDATA[The Masque of Africa: Glimpses of African Belief]]></title>
+<title_without_series><![CDATA[The Masque of Africa: Glimpses of African Belief]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8201466-the-masque-of-africa]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320519630s/8201466.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320519630m/8201466.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>13048428</id>
+</work>
+<isbn>0307270734</isbn>
+<isbn13>9780307270733</isbn13>
+<average_rating>3.16</average_rating>
+<ratings_count>372</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3989</id>
+<name>V.S. Naipaul</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3989.V_S_Naipaul]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3822089</id>
+<title><![CDATA[Oneness With All Life: Inspirational Selections from A New Earth]]></title>
+<title_without_series><![CDATA[Oneness With All Life: Inspirational Selections from A New Earth]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3822089-oneness-with-all-life]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>6175907</id>
+</work>
+<isbn>0525950885</isbn>
+<isbn13>9780525950882</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>761</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>4493</id>
+<name>Eckhart Tolle</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4493.Eckhart_Tolle]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9268014</id>
+<title><![CDATA[The Year We Seized the Day: A True Story of Friendship and Renewal on the Camino]]></title>
+<title_without_series><![CDATA[The Year We Seized the Day: A True Story of Friendship and Renewal on the Camino]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9268014-the-year-we-seized-the-day]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328732966s/9268014.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328732966m/9268014.jpg]]></image_url>
+<num_pages>322</num_pages>
+<work>
+<id>14149484</id>
+</work>
+<isbn>1742372953</isbn>
+<isbn13>9781742372952</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>244</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>174154</id>
+<name>Elizabeth Best</name>
+<link><![CDATA[https://www.goodreads.com/author/show/174154.Elizabeth_Best]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>144951</id>
+<title><![CDATA[The Art of Pilgrimage: The Seeker's Guide to Making Travel Sacred]]></title>
+<title_without_series><![CDATA[The Art of Pilgrimage: The Seeker's Guide to Making Travel Sacred]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/144951.The_Art_of_Pilgrimage]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>139857</id>
+</work>
+<isbn>1573245097</isbn>
+<isbn13>9781573245098</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>595</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>79993</id>
+<name>Phil Cousineau</name>
+<link><![CDATA[https://www.goodreads.com/author/show/79993.Phil_Cousineau]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13032988</id>
+<title>Camino de Santiago In 20 Days</title>
+<title_without_series>Camino de Santiago In 20 Days</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13032988-camino-de-santiago-in-20-days]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>18196386</id>
+</work>
+<isbn>0987709003</isbn>
+<isbn13>9780987709004</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>68</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5322539</id>
+<name>Randall St. Germain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5322539.Randall_St_Germain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5966534</id>
+<title><![CDATA[When Everything Changes, Change Everything: In a Time of Turmoil, A Pathway to Peace]]></title>
+<title_without_series><![CDATA[When Everything Changes, Change Everything: In a Time of Turmoil, A Pathway to Peace]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5966534-when-everything-changes-change-everything]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1381324481s/5966534.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1381324481m/5966534.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>6139459</id>
+</work>
+<isbn>1571746064</isbn>
+<isbn13>9781571746061</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>499</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>9374</id>
+<name>Neale Donald Walsch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9374.Neale_Donald_Walsch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6434804</id>
+<title>Thank You and You&apos;re Welcome</title>
+<title_without_series>Thank You and You&apos;re Welcome</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6434804-thank-you-and-you-re-welcome]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>52</num_pages>
+<work>
+<id>3517679</id>
+</work>
+<isbn>0978967917</isbn>
+<isbn13>9780978967918</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>172</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>859800</id>
+<name>Kanye West</name>
+<link><![CDATA[https://www.goodreads.com/author/show/859800.Kanye_West]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>29948</id>
+<title><![CDATA[The Bridge Across Forever: A True Love Story]]></title>
+<title_without_series><![CDATA[The Bridge Across Forever: A True Love Story]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/29948.The_Bridge_Across_Forever]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>172963</id>
+</work>
+<isbn>0061148482</isbn>
+<isbn13>9780061148484</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>9269</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>16904</id>
+<name>Richard Bach</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16904.Richard_Bach]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>916131</id>
+<title><![CDATA[The Cure for Anything Is Salt Water: How I Threw My Life Overboard and Found Happiness at Sea]]></title>
+<title_without_series><![CDATA[The Cure for Anything Is Salt Water: How I Threw My Life Overboard and Found Happiness at Sea]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/916131.The_Cure_for_Anything_Is_Salt_Water]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1417719272s/916131.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1417719272m/916131.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>2072872</id>
+</work>
+<isbn>0060747021</isbn>
+<isbn13>9780060747022</isbn13>
+<average_rating>3.22</average_rating>
+<ratings_count>237</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>468314</id>
+<name>Mary South</name>
+<link><![CDATA[https://www.goodreads.com/author/show/468314.Mary_South]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6947028</id>
+<title>Hunter&apos;s Moon</title>
+<title_without_series>Hunter&apos;s Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6947028-hunter-s-moon]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>382</num_pages>
+<work>
+<id>7181078</id>
+</work>
+<isbn>0764205617</isbn>
+<isbn13>9780764205613</isbn13>
+<average_rating>3.28</average_rating>
+<ratings_count>82</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2113161</id>
+<name>Don Hoesel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2113161.Don_Hoesel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31219</id>
+<title><![CDATA[The Secret of Shambhala: In Search of the Eleventh Insight (Celestine Prophecy, #3)]]></title>
+<title_without_series><![CDATA[The Secret of Shambhala: In Search of the Eleventh Insight]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31219.The_Secret_of_Shambhala]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1418330</id>
+</work>
+<isbn>0446676489</isbn>
+<isbn13>9780446676489</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>4097</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8203</id>
+<name>James Redfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8203.James_Redfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4222760</id>
+<title><![CDATA[Tales of Wonder: Adventures Chasing the Divine, an Autobiography]]></title>
+<title_without_series><![CDATA[Tales of Wonder: Adventures Chasing the Divine, an Autobiography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4222760-tales-of-wonder]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>188</num_pages>
+<work>
+<id>4270159</id>
+</work>
+<isbn>0061154261</isbn>
+<isbn13>9780061154263</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>310</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6734</id>
+<name>Huston Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6734.Huston_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1812399</id>
+<title>Kuda Terbang Maria Pinto</title>
+<title_without_series>Kuda Terbang Maria Pinto</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1812399.Kuda_Terbang_Maria_Pinto]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>134</num_pages>
+<work>
+<id>1811771</id>
+</work>
+<isbn>9799830206</isbn>
+<isbn13>9789799830203</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>217</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>2</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>828485</id>
+<name>Linda Christanty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/828485.Linda_Christanty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12857869</id>
+<title>Os Olhos de Ana Marta</title>
+<title_without_series>Os Olhos de Ana Marta</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12857869-os-olhos-de-ana-marta]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>156</num_pages>
+<work>
+<id>18009578</id>
+</work>
+<isbn>9722105450</isbn>
+<isbn13></isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>213</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>467833</id>
+<name>Alice Vieira</name>
+<link><![CDATA[https://www.goodreads.com/author/show/467833.Alice_Vieira]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

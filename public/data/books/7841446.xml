@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7841446</id>
+  <title><![CDATA[In the Plex: How Google Thinks, Works, and Shapes Our Lives]]></title>
+  <isbn><![CDATA[1416596585]]></isbn>
+  <isbn13><![CDATA[9781416596585]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Written with full cooperation from top management, including cofounders Sergey Brin and Larry Page, this is the inside story behind Google, the most successful and most admired technology company of our time, told by one of our best technology writers.<br /><br />Few companies in history have ever been as successful and as admired as Google, the company that has transformed the Internet and become an indispensable part of our lives. How has Google done it? Veteran technology reporter Steven Levy was granted unprecedented access to the company, and in this revelatory book he takes readers inside Google headquarters—the Googleplex—to show how Google works.<br /><br />While they were still students at Stanford, Google cofounders Larry Page and Sergey Brin revolutionized Internet search. They followed this brilliant innovation with another, as two of Google’s earliest employees found a way to do what no one else had: make billions of dollars from Internet advertising. With this cash cow, Google was able to expand dramatically and take on other transformative projects: more efficient data centers, open-source cell phones, free Internet video (YouTube), cloud computing, digitizing books, and much more.<br /><br />The key to Google’s success in all these businesses, Levy reveals, is its engineering mind-set and adoption of such Internet values as speed, openness, experimentation, and risk taking. After its unapologetically elitist approach to hiring, Google pampers its engineers—free food and dry cleaning, on-site doctors and masseuses—and gives them all the resources they need to succeed. Even today, with a workforce of more than 23,000, Larry Page signs off on every hire.<br /><br />But has Google lost its innovative edge? With its newest initiative, social networking, Google is chasing a successful competitor for the first time. Some employees are leaving the company for smaller, nimbler start-ups. Can the company that famously decided not to be evil still compete?<br /><br />No other book has ever turned Google inside out as Levy does with In the Plex.]]></description>
+  <work>
+  <id type="integer">10934698</id>
+  <books_count type="integer">23</books_count>
+  <best_book_id type="integer">7841446</best_book_id>
+  <reviews_count type="integer">44069</reviews_count>
+  <ratings_sum type="integer">74829</ratings_sum>
+  <ratings_count type="integer">19517</ratings_count>
+  <text_reviews_count type="integer">806</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">4</original_publication_month>
+  <original_publication_day type="integer">12</original_publication_day>
+  <original_title>In the Plex: How Google Thinks, Works, and Shapes Our Lives</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5908|4:7397|3:4150|2:1189|1:873|total:19517</rating_dist>
+  <desc_user_id type="integer">2705488</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[432]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[18504]]></ratings_count>
+  <text_reviews_count><![CDATA[749]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7841446-in-the-plex]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7841446-in-the-plex]]></link>
+  <authors>
+<author>
+<id>32131</id>
+<name>Steven Levy</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32131.Steven_Levy]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>27646</ratings_count>
+<text_reviews_count>1288</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7841446-in-the-plex">In the Plex Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1416596585&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7841446-in-the-plex?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2155"/>
+      <shelf name="currently-reading" count="714"/>
+      <shelf name="business" count="382"/>
+      <shelf name="non-fiction" count="332"/>
+      <shelf name="technology" count="193"/>
+      <shelf name="nonfiction" count="123"/>
+      <shelf name="tech" count="92"/>
+      <shelf name="audible" count="64"/>
+      <shelf name="history" count="54"/>
+      <shelf name="audiobook" count="49"/>
+      <shelf name="biography" count="43"/>
+      <shelf name="audiobooks" count="39"/>
+      <shelf name="favorites" count="35"/>
+      <shelf name="to-buy" count="30"/>
+      <shelf name="science" count="30"/>
+      <shelf name="computers" count="29"/>
+      <shelf name="google" count="28"/>
+      <shelf name="internet" count="27"/>
+      <shelf name="audio" count="25"/>
+      <shelf name="management" count="22"/>
+      <shelf name="kindle" count="22"/>
+      <shelf name="entrepreneurship" count="21"/>
+      <shelf name="library" count="17"/>
+      <shelf name="owned" count="16"/>
+      <shelf name="audio-book" count="14"/>
+      <shelf name="economics" count="14"/>
+      <shelf name="work" count="13"/>
+      <shelf name="business-books" count="13"/>
+      <shelf name="computer" count="12"/>
+      <shelf name="to-read-non-fiction" count="12"/>
+      <shelf name="startup" count="12"/>
+      <shelf name="ebooks" count="12"/>
+      <shelf name="product-management" count="11"/>
+      <shelf name="calibre" count="11"/>
+      <shelf name="computing" count="11"/>
+      <shelf name="audio-books" count="11"/>
+      <shelf name="to-read-business" count="11"/>
+      <shelf name="programming" count="10"/>
+      <shelf name="culture" count="10"/>
+      <shelf name="abandoned" count="9"/>
+      <shelf name="startups" count="9"/>
+      <shelf name="to-read-nonfiction" count="9"/>
+      <shelf name="listened" count="9"/>
+      <shelf name="charlie-munger" count="8"/>
+      <shelf name="science-technology" count="8"/>
+      <shelf name="maybe" count="8"/>
+      <shelf name="general" count="8"/>
+      <shelf name="munger" count="7"/>
+      <shelf name="books-i-own" count="7"/>
+      <shelf name="search" count="7"/>
+      <shelf name="sociology" count="7"/>
+      <shelf name="english" count="7"/>
+      <shelf name="professional" count="6"/>
+      <shelf name="biz" count="6"/>
+      <shelf name="default" count="6"/>
+      <shelf name="leadership" count="6"/>
+      <shelf name="biographies" count="6"/>
+      <shelf name="it" count="6"/>
+      <shelf name="listened-to" count="6"/>
+      <shelf name="corporate-culture" count="5"/>
+      <shelf name="my-library" count="5"/>
+      <shelf name="e-commerce" count="5"/>
+      <shelf name="my-books" count="5"/>
+      <shelf name="read-in-2014" count="5"/>
+      <shelf name="read-in-2013" count="5"/>
+      <shelf name="books" count="5"/>
+      <shelf name="web" count="5"/>
+      <shelf name="engineering" count="5"/>
+      <shelf name="software" count="5"/>
+      <shelf name="corporate" count="5"/>
+      <shelf name="innovation" count="5"/>
+      <shelf name="half-read" count="5"/>
+      <shelf name="business-economics" count="5"/>
+      <shelf name="career" count="4"/>
+      <shelf name="unfinished" count="4"/>
+      <shelf name="psychology" count="4"/>
+      <shelf name="ict" count="4"/>
+      <shelf name="cs" count="4"/>
+      <shelf name="research" count="4"/>
+      <shelf name="companies" count="4"/>
+      <shelf name="non-fic" count="4"/>
+      <shelf name="to-listen" count="4"/>
+      <shelf name="want" count="4"/>
+      <shelf name="on-kindle" count="4"/>
+      <shelf name="stopped-reading" count="4"/>
+      <shelf name="industry" count="4"/>
+      <shelf name="e-book" count="4"/>
+      <shelf name="read-2012" count="4"/>
+      <shelf name="dnf" count="4"/>
+      <shelf name="marketing" count="4"/>
+      <shelf name="read-in-2012" count="4"/>
+      <shelf name="geek" count="4"/>
+      <shelf name="wish-list" count="4"/>
+      <shelf name="product" count="4"/>
+      <shelf name="business-management" count="3"/>
+      <shelf name="e-books" count="3"/>
+      <shelf name="charlie-munger-recommendations" count="3"/>
+      <shelf name="other" count="3"/>
+      <shelf name="seo" count="3"/>
+      <shelf name="company-biography" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>9871673</id>
+<title><![CDATA[I'm Feeling Lucky: The Confessions of Google Employee Number 59]]></title>
+<title_without_series><![CDATA[I'm Feeling Lucky: The Confessions of Google Employee Number 59]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9871673-i-m-feeling-lucky]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>14763328</id>
+</work>
+<isbn>0547416997</isbn>
+<isbn13>9780547416991</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>3666</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4325674</id>
+<name>Douglas Edwards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4325674.Douglas_Edwards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8201080</id>
+<title><![CDATA[The Master Switch: The Rise and Fall of Information Empires]]></title>
+<title_without_series><![CDATA[The Master Switch: The Rise and Fall of Information Empires]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8201080-the-master-switch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320518400s/8201080.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320518400m/8201080.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>13048036</id>
+</work>
+<isbn>0307269930</isbn>
+<isbn13>9780307269935</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>4887</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>11</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>303279</id>
+<name>Tim Wu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/303279.Tim_Wu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9962121</id>
+<title><![CDATA[The Googlization of Everything: (And Why We Should Worry)]]></title>
+<title_without_series><![CDATA[The Googlization of Everything:]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9962121-the-googlization-of-everything]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>280</num_pages>
+<work>
+<id>14856054</id>
+</work>
+<isbn>0520258827</isbn>
+<isbn13>9780520258822</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>604</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>139658</id>
+<name>Siva Vaidhyanathan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/139658.Siva_Vaidhyanathan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11238922</id>
+<title><![CDATA[Public Parts: How Sharing in the Digital Age is Revolutionizing Life, Business, and Society]]></title>
+<title_without_series><![CDATA[Public Parts: How Sharing in the Digital Age is Revolutionizing Life, Business, and Society]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11238922-public-parts]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>16165113</id>
+</work>
+<isbn>1451636008</isbn>
+<isbn13>9781451636000</isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>1063</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>2111906</id>
+<name>Jeff Jarvis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2111906.Jeff_Jarvis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10596103</id>
+<title><![CDATA[The Filter Bubble: What the Internet is Hiding From You]]></title>
+<title_without_series><![CDATA[The Filter Bubble: What the Internet is Hiding From You]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10596103-the-filter-bubble]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>294</num_pages>
+<work>
+<id>15503719</id>
+</work>
+<isbn>1594203008</isbn>
+<isbn13>9781594203008</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>3631</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3951463</id>
+<name>Eli Pariser</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3951463.Eli_Pariser]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2288436</id>
+<title><![CDATA[Once You're Lucky, Twice You're Good: The Rebirth of Silicon Valley and the Rise of Web 2.0]]></title>
+<title_without_series><![CDATA[Once You're Lucky, Twice You're Good: The Rebirth of Silicon Valley and the Rise of Web 2.0]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2288436.Once_You_re_Lucky_Twice_You_re_Good]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2294643</id>
+</work>
+<isbn>1592403824</isbn>
+<isbn13>9781592403820</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>367</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1030535</id>
+<name>Sarah Lacy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1030535.Sarah_Lacy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6514908</id>
+<title><![CDATA[Googled: The End of the World as We Know It]]></title>
+<title_without_series><![CDATA[Googled: The End of the World as We Know It]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6514908-googled]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>6706693</id>
+</work>
+<isbn>1594202354</isbn>
+<isbn13>9781594202353</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>2596</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>92142</id>
+<name>Ken Auletta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92142.Ken_Auletta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7518289</id>
+<title><![CDATA[The Facebook Effect: The Inside Story of the Company That is Connecting the World]]></title>
+<title_without_series><![CDATA[The Facebook Effect: The Inside Story of the Company That is Connecting the World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7518289-the-facebook-effect]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>9732949</id>
+</work>
+<isbn>1439102112</isbn>
+<isbn13>9781439102114</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>8062</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>3301021</id>
+<name>David Kirkpatrick</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3301021.David_Kirkpatrick]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2632830</id>
+<title><![CDATA[The Pixar Touch: The Making of a Company]]></title>
+<title_without_series><![CDATA[The Pixar Touch: The Making of a Company]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2632830-the-pixar-touch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>2657537</id>
+</work>
+<isbn>0307265757</isbn>
+<isbn13>9780307265753</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>4729</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>154491</id>
+<name>David A. Price</name>
+<link><![CDATA[https://www.goodreads.com/author/show/154491.David_A_Price]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13059717</id>
+<title><![CDATA[Consent of the Networked: The Worldwide Struggle For Internet Freedom]]></title>
+<title_without_series><![CDATA[Consent of the Networked: The Worldwide Struggle For Internet Freedom]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13059717-consent-of-the-networked]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344678982s/13059717.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344678982m/13059717.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>18225057</id>
+</work>
+<isbn>0465024424</isbn>
+<isbn13>9780465024421</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>386</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>1906611</id>
+<name>Rebecca MacKinnon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1906611.Rebecca_MacKinnon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>281818</id>
+<title><![CDATA[Where Wizards Stay Up Late: The Origins of the Internet]]></title>
+<title_without_series><![CDATA[Where Wizards Stay Up Late: The Origins of the Internet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405259838s/281818.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405259838m/281818.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1290875</id>
+</work>
+<isbn>0684832674</isbn>
+<isbn13>9780684832678</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>2609</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6938812</id>
+<name>Katie  Hafner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6938812.Katie_Hafner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9319468</id>
+<title><![CDATA[Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground]]></title>
+<title_without_series><![CDATA[Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9319468-kingpin]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320477825s/9319468.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320477825m/9319468.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>14202643</id>
+</work>
+<isbn>0307588688</isbn>
+<isbn13>9780307588685</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>4932</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>2</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4353912</id>
+<name>Kevin Poulsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4353912.Kevin_Poulsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>27652</id>
+<title>Accidental Empires</title>
+<title_without_series>Accidental Empires</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/27652.Accidental_Empires]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>28257</id>
+</work>
+<isbn>0887308554</isbn>
+<isbn13>9780887308550</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>1162</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>15566</id>
+<name>Robert X. Cringely</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15566.Robert_X_Cringely]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414678</id>
+<title><![CDATA[Makers: The New Industrial Revolution]]></title>
+<title_without_series><![CDATA[Makers: The New Industrial Revolution]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414678-makers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344371795s/13414678.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344371795m/13414678.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>18714063</id>
+</work>
+<isbn>0307720950</isbn>
+<isbn13>9780307720955</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>2985</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1756</id>
+<name>Chris Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1756.Chris_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13197136</id>
+<title><![CDATA[Digital Wars: Apple, Google, Microsoft and the Battle for the Internet]]></title>
+<title_without_series><![CDATA[Digital Wars: Apple, Google, Microsoft and the Battle for the Internet]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13197136-digital-wars]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360057466s/13197136.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360057466m/13197136.jpg]]></image_url>
+<num_pages>272</num_pages>
+<work>
+<id>18379714</id>
+</work>
+<isbn>0749464135</isbn>
+<isbn13>9780749464134</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>328</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>245660</id>
+<name>Charles Arthur</name>
+<link><![CDATA[https://www.goodreads.com/author/show/245660.Charles_Arthur]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13588384</id>
+<title><![CDATA[Netflixed: The Epic Battle for America's Eyeballs]]></title>
+<title_without_series><![CDATA[Netflixed: The Epic Battle for America's Eyeballs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13588384-netflixed]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>19175786</id>
+</work>
+<isbn>1591844789</isbn>
+<isbn13>9781591844785</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>681</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>5810567</id>
+<name>Gina Keating</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5810567.Gina_Keating]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16241165</id>
+<title><![CDATA[The Big Switch: Rewiring the World, from Edison to Google]]></title>
+<title_without_series><![CDATA[The Big Switch: Rewiring the World, from Edison to Google]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16241165-the-big-switch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1367516473s/16241165.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1367516473m/16241165.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>1141344</id>
+</work>
+<isbn>039334522X</isbn>
+<isbn13>9780393345223</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1902</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>151353</id>
+<name>Nicholas Carr</name>
+<link><![CDATA[https://www.goodreads.com/author/show/151353.Nicholas_Carr]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2442173</id>
+<title><![CDATA[The Future of the Internet and How to Stop It]]></title>
+<title_without_series><![CDATA[The Future of the Internet and How to Stop It]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2442173.The_Future_of_the_Internet_and_How_to_Stop_It]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328828182s/2442173.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328828182m/2442173.jpg]]></image_url>
+<num_pages>342</num_pages>
+<work>
+<id>2449367</id>
+</work>
+<isbn>0300124872</isbn>
+<isbn13>9780300124873</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>992</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>733045</id>
+<name>Jonathan L. Zittrain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/733045.Jonathan_L_Zittrain]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

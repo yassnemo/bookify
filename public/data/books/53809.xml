@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>53809</id>
+  <title>Maktub</title>
+  <isbn><![CDATA[8408057235]]></isbn>
+  <isbn13><![CDATA[9788408057239]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00CS4POI4]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1361293164m/53809.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1361293164s/53809.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>spa</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Maktub não é um livro de conselhos, mas uma troca de experiências. A maior parte dos textos se refere a ensinamentos que Paulo Coelho recebeu de seu mestre ao longo de 11 anos. Outros são relatos de amigos ou pessoas desconhecidas que de uma forma ou de outra lhe deixaram uma mensagem inesquecível. Finalmente, existem trechos de livros que ele leu e de histórias que pertencem à herança espiritual da raça humana. <br /><br />A proposta do autor é reunir um apanhado da sabedoria universal destacando um ponto comum a todas as histórias: a busca da felicidade. Embora o desejo de ser feliz seja relatado em contextos tão diversos, fica fácil concluir que, não importa o lugar ou a época, ele sempre se baseia nos mesmos pilares: amor, humildade, solidariedade e renúncia. <br /><br />Maktub oferece aos leitores uma oportunidade de refletir e se reencontrar. <br /><br />Se você está percorrendo o caminho de seus sonhos, comprometa-se com ele. Não deixe a porta de saída aberta através da desculpa: “Ainda não é bem isto que eu queria.” Assuma o seu caminho. Mesmo que precise dar passos incertos, mesmo que saiba que pode fazer melhor o que está fazendo. Se você aceitar suas possibilidades no presente, com toda certeza vai se sair melhor no futuro.]]></description>
+  <work>
+  <id type="integer">464034</id>
+  <books_count type="integer">68</books_count>
+  <best_book_id type="integer">53809</best_book_id>
+  <reviews_count type="integer">20008</reviews_count>
+  <ratings_sum type="integer">29976</ratings_sum>
+  <ratings_count type="integer">8796</ratings_count>
+  <text_reviews_count type="integer">592</text_reviews_count>
+  <original_publication_year type="integer">1994</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Maktub</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:1867|4:2331|3:2723|2:1273|1:602|total:8796</rating_dist>
+  <desc_user_id type="integer">34811336</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.41</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[5905]]></ratings_count>
+  <text_reviews_count><![CDATA[263]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/53809.Maktub]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/53809.Maktub]]></link>
+  <authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>2206293</ratings_count>
+<text_reviews_count>99605</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/53809.Maktub">Maktub Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=8408057235&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/53809.Maktub?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="346"/>
+      <shelf name="philosophy" count="26"/>
+      <shelf name="to-buy" count="18"/>
+      <shelf name="short-stories" count="17"/>
+      <shelf name="default" count="12"/>
+      <shelf name="ebooks" count="12"/>
+      <shelf name="owned" count="12"/>
+      <shelf name="inspirational" count="12"/>
+      <shelf name="currently-reading" count="11"/>
+      <shelf name="non-fiction" count="11"/>
+      <shelf name="spirituality" count="11"/>
+      <shelf name="spiritual" count="11"/>
+      <shelf name="novel" count="8"/>
+      <shelf name="self-help" count="8"/>
+      <shelf name="e-book" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="kindle" count="7"/>
+      <shelf name="paolo-coelho" count="6"/>
+      <shelf name="portuguese" count="6"/>
+      <shelf name="coelho" count="6"/>
+      <shelf name="paulo" count="6"/>
+      <shelf name="paulo-coelho" count="5"/>
+      <shelf name="read-in-french" count="5"/>
+      <shelf name="أدب" count="5"/>
+      <shelf name="calibre" count="5"/>
+      <shelf name="أدب-عالمي" count="5"/>
+      <shelf name="religion" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="مكتبتي" count="4"/>
+      <shelf name="my-library" count="4"/>
+      <shelf name="mine" count="4"/>
+      <shelf name="contemporary" count="4"/>
+      <shelf name="latin-american" count="4"/>
+      <shelf name="theosophy" count="4"/>
+      <shelf name="litterature" count="4"/>
+      <shelf name="fiction" count="3"/>
+      <shelf name="not-read" count="3"/>
+      <shelf name="unread" count="3"/>
+      <shelf name="roman" count="3"/>
+      <shelf name="translated" count="3"/>
+      <shelf name="روايات-عالمية" count="3"/>
+      <shelf name="english" count="3"/>
+      <shelf name="books-i-have" count="3"/>
+      <shelf name="my-shelf" count="3"/>
+      <shelf name="arabic-books" count="3"/>
+      <shelf name="other" count="3"/>
+      <shelf name="translated-novels" count="3"/>
+      <shelf name="coelho-paulo" count="3"/>
+      <shelf name="in-my-library" count="3"/>
+      <shelf name="تنمية-بشرية" count="3"/>
+      <shelf name="author-paulo-coelho" count="3"/>
+      <shelf name="spanish" count="3"/>
+      <shelf name="need-to-buy" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="باولو-كويلو" count="2"/>
+      <shelf name="novels" count="2"/>
+      <shelf name="e-books" count="2"/>
+      <shelf name="favorites" count="2"/>
+      <shelf name="pdf" count="2"/>
+      <shelf name="biblioteca-cruz" count="2"/>
+      <shelf name="literatura-brasileira" count="2"/>
+      <shelf name="رمان" count="2"/>
+      <shelf name="brasil" count="2"/>
+      <shelf name="past" count="2"/>
+      <shelf name="nonfiction" count="2"/>
+      <shelf name="to-read-owned" count="2"/>
+      <shelf name="shelfari-wishlist" count="2"/>
+      <shelf name="personal-library" count="2"/>
+      <shelf name="given-away" count="2"/>
+      <shelf name="رمان-داستان" count="2"/>
+      <shelf name="أدب-عالمي-مترجم" count="2"/>
+      <shelf name="روايات-مترجمة" count="2"/>
+      <shelf name="classics" count="2"/>
+      <shelf name="foreign-novels" count="2"/>
+      <shelf name="پائولو-کوئیلو" count="2"/>
+      <shelf name="not-interested" count="2"/>
+      <shelf name="done" count="2"/>
+      <shelf name="drama" count="2"/>
+      <shelf name="فكر" count="2"/>
+      <shelf name="متون-ادبی" count="2"/>
+      <shelf name="tbr-pile" count="2"/>
+      <shelf name="آموزنده" count="2"/>
+      <shelf name="جديد" count="2"/>
+      <shelf name="psychology" count="2"/>
+      <shelf name="life" count="2"/>
+      <shelf name="brazilian-literature" count="2"/>
+      <shelf name="belletristik" count="2"/>
+      <shelf name="brazilian-lit" count="2"/>
+      <shelf name="i-have-on-kindle" count="2"/>
+      <shelf name="maktub" count="2"/>
+      <shelf name="good-books" count="2"/>
+      <shelf name="باولو-كويهلو" count="2"/>
+      <shelf name="باولو-كويلهو" count="2"/>
+      <shelf name="book" count="2"/>
+      <shelf name="world-literature" count="2"/>
+      <shelf name="not-read-yet" count="2"/>
+      <shelf name="1" count="2"/>
+      <shelf name="coehlo" count="2"/>
+      <shelf name="français" count="2"/>
+      <shelf name="Пауло-Коэльо" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>6804</id>
+        <document_url>
+          
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>53813</id>
+<title><![CDATA[Paulo Coelho: Confessions of a Pilgrim]]></title>
+<title_without_series><![CDATA[Paulo Coelho: Confessions of a Pilgrim]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/53813.Paulo_Coelho]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>254</num_pages>
+<work>
+<id>19203104</id>
+</work>
+<isbn>0007114370</isbn>
+<isbn13>9780007114375</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>2032</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>30455</id>
+<name>Juan Arias</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30455.Juan_Arias]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6095360</id>
+<title><![CDATA[Paulo Coelho: A Warrior's Life - The Authorized Biography]]></title>
+<title_without_series><![CDATA[Paulo Coelho: A Warrior's Life - The Authorized Biography]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6095360-paulo-coelho]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360181550s/6095360.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360181550m/6095360.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6272393</id>
+</work>
+<isbn>0061718882</isbn>
+<isbn13>9780061718885</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>2481</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>62166</id>
+<name>Fernando Morais</name>
+<link><![CDATA[https://www.goodreads.com/author/show/62166.Fernando_Morais]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58245</id>
+<title>نون والقلم</title>
+<title_without_series>نون والقلم</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58245._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1895851</id>
+</work>
+<isbn>9645509645</isbn>
+<isbn13>9789645509642</isbn13>
+<average_rating>3.40</average_rating>
+<ratings_count>980</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>385118</id>
+<name><![CDATA[جلال آل احمد (Jalal Al-e-Ahmad)]]></name>
+<link><![CDATA[https://www.goodreads.com/author/show/385118._Jalal_Al_e_Ahmad_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6632117</id>
+<title>لم أعرف أن الطواويس تطير</title>
+<title_without_series>لم أعرف أن الطواويس تطير</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6632117]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>113</num_pages>
+<work>
+<id>6826489</id>
+</work>
+<isbn></isbn>
+<isbn13>9789770926488</isbn13>
+<average_rating>3.26</average_rating>
+<ratings_count>2097</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>636118</id>
+<name>بهاء طاهر</name>
+<link><![CDATA[https://www.goodreads.com/author/show/636118._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7724609</id>
+<title>عظماء في طفولتهم</title>
+<title_without_series>عظماء في طفولتهم</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7724609]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1486746889s/7724609.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1486746889m/7724609.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>10484437</id>
+</work>
+<isbn>977023320x</isbn>
+<isbn13></isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>633</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2499187</id>
+<name>محمد المنسي قنديل</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2499187._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6150360</id>
+<title>حبة هوا...</title>
+<title_without_series>حبة هوا...</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6150360]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>6329498</id>
+</work>
+<isbn></isbn>
+<isbn13>9789770925694</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>5922</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2732850</id>
+<name>وليد طاهر</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2732850._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2504491</id>
+<title>مدن تأكل العشب</title>
+<title_without_series>مدن تأكل العشب</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2504491._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1381944963s/2504491.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1381944963m/2504491.jpg]]></image_url>
+<num_pages>349</num_pages>
+<work>
+<id>2511858</id>
+</work>
+<isbn>1855168839</isbn>
+<isbn13>9781855168831</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>711</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>1013261</id>
+<name>عبده خال</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1013261._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5639869</id>
+<title>أوتار الماء</title>
+<title_without_series>أوتار الماء</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5639869]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>116</num_pages>
+<work>
+<id>5811313</id>
+</work>
+<isbn>9770187771</isbn>
+<isbn13>9789770187777</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>1055</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1468802</id>
+<name>محمد المخزنجي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1468802._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3599532</id>
+<title>في صالون العقاد كانت لنا أيام</title>
+<title_without_series>في صالون العقاد كانت لنا أيام</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3599532]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1456684703s/3599532.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1456684703m/3599532.jpg]]></image_url>
+<num_pages>667</num_pages>
+<work>
+<id>3642235</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>2404</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1270552</id>
+<name>أنيس منصور</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1270552._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6060934</id>
+<title>سيناريو الحياة</title>
+<title_without_series>سيناريو الحياة</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6060934]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>351</num_pages>
+<work>
+<id>6237114</id>
+</work>
+<isbn>9773680916</isbn>
+<isbn13></isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>110</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1412295</id>
+<name>عادل صادق</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1412295._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6135226</id>
+<title>للكبار فقط</title>
+<title_without_series>للكبار فقط</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6135226]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1258025249s/6135226.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1258025249m/6135226.jpg]]></image_url>
+<num_pages>120</num_pages>
+<work>
+<id>6313808</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.37</average_rating>
+<ratings_count>864</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1532329</id>
+<name>محمد عفيفي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1532329._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6218948</id>
+<title>مسلمون ثوار</title>
+<title_without_series>مسلمون ثوار</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6218948]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>540</num_pages>
+<work>
+<id>6399623</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>265</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1263751</id>
+<name>محمد عمارة</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1263751._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4913470</id>
+<title>المثقفون العرب وإسرائيل</title>
+<title_without_series>المثقفون العرب وإسرائيل</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4913470]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1258548438s/4913470.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1258548438m/4913470.jpg]]></image_url>
+<num_pages>229</num_pages>
+<work>
+<id>4979012</id>
+</work>
+<isbn>9770904279</isbn>
+<isbn13>9789770904275</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>223</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1480957</id>
+<name>جلال أمين</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1480957._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>804258</id>
+<title>داستان شاهدخت سرزمین ابدیت</title>
+<title_without_series>داستان شاهدخت سرزمین ابدیت</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/804258._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>580463</id>
+</work>
+<isbn>9647033834</isbn>
+<isbn13>9789647033831</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>527</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1001748</id>
+<name>Arash Hejazi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1001748.Arash_Hejazi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6136499</id>
+<title>السكان الأصليين لمصر</title>
+<title_without_series>السكان الأصليين لمصر</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6136499]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>6315125</id>
+</work>
+<isbn>9773514307</isbn>
+<isbn13></isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>2794</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1499778</id>
+<name>بلال فضل</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1499778._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>213315</id>
+<title>مجموعه ی کامل آثار</title>
+<title_without_series>مجموعه ی کامل آثار</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/213315._]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>533</num_pages>
+<work>
+<id>206499</id>
+</work>
+<isbn>9647033486</isbn>
+<isbn13></isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>333</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42464</id>
+<name>Samad Behrangi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42464.Samad_Behrangi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>292</id>
+<title>Sand and Foam</title>
+<title_without_series>Sand and Foam</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/292.Sand_and_Foam]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>100</num_pages>
+<work>
+<id>2779610</id>
+</work>
+<isbn>067943920X</isbn>
+<isbn13>9780679439202</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>4281</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>6466154</id>
+<name>Kahlil Gibran</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6466154.Kahlil_Gibran]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>265858</id>
+<title>پدر، مادر، ما متهمیم</title>
+<title_without_series>پدر، مادر، ما متهمیم</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/265858._]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1440084560s/265858.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1440084560m/265858.jpg]]></image_url>
+<num_pages>140</num_pages>
+<work>
+<id>1640347</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>1693</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>801874</id>
+<name>Ali Shariati</name>
+<link><![CDATA[https://www.goodreads.com/author/show/801874.Ali_Shariati]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

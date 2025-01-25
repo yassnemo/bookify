@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>870</id>
+  <title><![CDATA[Fullmetal Alchemist, Vol. 1 (Fullmetal Alchemist, #1)]]></title>
+  <isbn><![CDATA[1591169208]]></isbn>
+  <isbn13><![CDATA[9781591169208]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00JDRKY48]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>VIZ Media LLC</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Alchemy: the mystical power to alter the natural world; something between magic, art and science. When two brothers, Edward and Alphonse Elric, dabbled in this power to grant their dearest wish, one of them lost an arm and a leg...and the other became nothing but a soul locked into a body of living steel. Now Edward is an agent of the government, a slave of the military-alchemical complex, using his unique powers to obey orders...even to kill. Except his powers aren't unique. The world has been ravaged by the abuse of alchemy. And in pursuit of the ultimate alchemical treasure, the Philosopher's Stone, their enemies are even more ruthless than they are...]]></description>
+  <work>
+  <id type="integer">1959820</id>
+  <books_count type="integer">37</books_count>
+  <best_book_id type="integer">870</best_book_id>
+  <reviews_count type="integer">129302</reviews_count>
+  <ratings_sum type="integer">425816</ratings_sum>
+  <ratings_count type="integer">94830</ratings_count>
+  <text_reviews_count type="integer">1104</text_reviews_count>
+  <original_publication_year type="integer">2002</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>鋼の錬金術師 1</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:61620|4:21764|3:8740|2:1734|1:972|total:94830</rating_dist>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.49</average_rating>
+  <num_pages><![CDATA[192]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[94051]]></ratings_count>
+  <text_reviews_count><![CDATA[1028]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1]]></link>
+  <authors>
+<author>
+<id>4698899</id>
+<name>Hiromu Arakawa</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1350676202p5/4698899.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1350676202p2/4698899.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4698899.Hiromu_Arakawa]]></link>
+<average_rating>4.55</average_rating>
+<ratings_count>305644</ratings_count>
+<text_reviews_count>5073</text_reviews_count>
+</author>
+<author>
+<id>1945379</id>
+<name>Akira Watanabe</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1945379.Akira_Watanabe]]></link>
+<average_rating>4.55</average_rating>
+<ratings_count>281720</ratings_count>
+<text_reviews_count>3983</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1">Fullmetal Alchemist, Vol. 1 Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1591169208&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2960"/>
+      <shelf name="favorites" count="697"/>
+      <shelf name="manga" count="381"/>
+      <shelf name="graphic-novels" count="311"/>
+      <shelf name="graphic-novel" count="141"/>
+      <shelf name="fiction" count="107"/>
+      <shelf name="science-fiction" count="100"/>
+      <shelf name="young-adult" count="98"/>
+      <shelf name="sci-fi" count="96"/>
+      <shelf name="owned" count="88"/>
+      <shelf name="adventure" count="81"/>
+      <shelf name="manga-comics" count="80"/>
+      <shelf name="books-i-own" count="72"/>
+      <shelf name="action" count="69"/>
+      <shelf name="anime" count="63"/>
+      <shelf name="read-manga" count="58"/>
+      <shelf name="manga-read" count="57"/>
+      <shelf name="favourites" count="56"/>
+      <shelf name="fantasy" count="51"/>
+      <shelf name="shounen" count="51"/>
+      <shelf name="series" count="47"/>
+      <shelf name="manga-graphic-novels" count="47"/>
+      <shelf name="ya" count="46"/>
+      <shelf name="comics-manga" count="43"/>
+      <shelf name="currently-reading" count="39"/>
+      <shelf name="comic" count="37"/>
+      <shelf name="manga-manhwa" count="35"/>
+      <shelf name="default" count="31"/>
+      <shelf name="graphic-novels-manga" count="31"/>
+      <shelf name="owned-books" count="31"/>
+      <shelf name="japanese" count="31"/>
+      <shelf name="magic" count="31"/>
+      <shelf name="library" count="29"/>
+      <shelf name="manga-and-comics" count="29"/>
+      <shelf name="comics-and-manga" count="28"/>
+      <shelf name="supernatural" count="26"/>
+      <shelf name="comics" count="25"/>
+      <shelf name="alchemy" count="24"/>
+      <shelf name="to-read-manga" count="24"/>
+      <shelf name="manga-to-read" count="24"/>
+      <shelf name="manga-and-graphic-novels" count="24"/>
+      <shelf name="sequential-art" count="22"/>
+      <shelf name="teen" count="22"/>
+      <shelf name="action-adventure" count="22"/>
+      <shelf name="comedy" count="22"/>
+      <shelf name="graphic-novels-and-manga" count="21"/>
+      <shelf name="comics-graphic-novels" count="20"/>
+      <shelf name="fma" count="20"/>
+      <shelf name="mangas" count="18"/>
+      <shelf name="5-stars" count="18"/>
+      <shelf name="mystery" count="18"/>
+      <shelf name="to-buy" count="18"/>
+      <shelf name="favorite-manga" count="17"/>
+      <shelf name="manga-comic" count="17"/>
+      <shelf name="4-stars" count="17"/>
+      <shelf name="comic-books" count="17"/>
+      <shelf name="comics-and-graphic-novels" count="15"/>
+      <shelf name="comic-manga" count="14"/>
+      <shelf name="manga-anime" count="14"/>
+      <shelf name="scifi" count="14"/>
+      <shelf name="graphic-novels-comics" count="14"/>
+      <shelf name="fullmetal-alchemist" count="13"/>
+      <shelf name="my-books" count="13"/>
+      <shelf name="all-time-favorites" count="13"/>
+      <shelf name="wish-list" count="13"/>
+      <shelf name="manga-shounen" count="12"/>
+      <shelf name="anime-manga" count="12"/>
+      <shelf name="favorite" count="12"/>
+      <shelf name="graphic-novel-manga" count="12"/>
+      <shelf name="manga-series" count="11"/>
+      <shelf name="comics-graphic-novels-manga" count="11"/>
+      <shelf name="funny" count="11"/>
+      <shelf name="read-in-english" count="11"/>
+      <shelf name="i-own" count="11"/>
+      <shelf name="translated" count="11"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="full-metal-alchemist" count="10"/>
+      <shelf name="re-read" count="10"/>
+      <shelf name="favorite-books" count="10"/>
+      <shelf name="hiromu-arakawa" count="10"/>
+      <shelf name="fullmetal" count="10"/>
+      <shelf name="owned-manga" count="10"/>
+      <shelf name="graphic-novels-and-comics" count="10"/>
+      <shelf name="manga-graphic-novel" count="10"/>
+      <shelf name="shonen-manga" count="10"/>
+      <shelf name="read-in-2015" count="9"/>
+      <shelf name="read-2014" count="9"/>
+      <shelf name="female-authors" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="romance" count="9"/>
+      <shelf name="epic" count="9"/>
+      <shelf name="my-manga" count="9"/>
+      <shelf name="reread" count="9"/>
+      <shelf name="military" count="9"/>
+      <shelf name="read-in-2017" count="8"/>
+      <shelf name="manga-manhwa-manhua" count="8"/>
+      <shelf name="paperback" count="8"/>
+      <shelf name="read-comics" count="8"/>
+      <shelf name="manga-comics-graphic-novels" count="8"/>
+      <shelf name="read-in-2013" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>180247</id>
+<user_position>1</user_position>
+<series>
+<id>49276</id>
+<title>
+<![CDATA[
+    Fullmetal Alchemist
+]]>
+</title>
+<description>
+<![CDATA[
+    Also known as:
+    * 鋼の錬金術師 (Hagane no Renkinjutsushi, often shorted to Hagaren) in Japanese
+    * 鋼之鍊金術師 in Chinese
+    
+    See also:
+    * <a href="https://www.goodreads.com/series/127663-fullmetal-alchemist-omnibus-editions">Fullmetal Alchemist: Omnibus editions</a>
+    * <a href="http://www.goodreads.com/series/49279-fullmetal-alchemist-novels">Fullmetal Alchemist Novels</a>
+    * <a href="http://www.goodreads.com/series/49278-tv-anime-fullmetal-alchemist-official-fanbooks">TV Anime Fullmetal Alchemist Official Fanbooks</a>
+    * <a href="http://www.goodreads.com/series/83422-fullmetal-alchemist-art-companion-books">Fullmetal Alchemist Art & Companion Books</a>
+]]>
+</description>
+<note>
+<![CDATA[
+    Please only add primary works. This excludes omnibuses, light novels, and box sets.
+]]>
+</note>
+<series_works_count>28</series_works_count>
+<primary_work_count>27</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>2882</id>
+<title>Bleach, Volume 11</title>
+<title_without_series>Bleach, Volume 11</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2882.Bleach_Volume_11]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>3328600</id>
+</work>
+<isbn>1421502712</isbn>
+<isbn13>9781421502717</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>7545</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>1977</id>
+<name>Tite Kubo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1977.Tite_Kubo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13577</id>
+<title><![CDATA[Tsubasa: RESERVoir CHRoNiCLE, Vol. 04]]></title>
+<title_without_series><![CDATA[Tsubasa: RESERVoir CHRoNiCLE, Vol. 04]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13577.Tsubasa]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>15717</id>
+</work>
+<isbn>034547791X</isbn>
+<isbn13>9780345477910</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>3845</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>8476</id>
+<name>CLAMP</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8476.CLAMP]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6735082</id>
+<title><![CDATA[Bakuman, Band 1: Traum und Realität]]></title>
+<title_without_series><![CDATA[Bakuman, Band 1: Traum und Realität]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6735082-bakuman-band-1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1346333264s/6735082.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1346333264m/6735082.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>6931373</id>
+</work>
+<isbn>3867197571</isbn>
+<isbn13>9783867197571</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>15703</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5502079</id>
+<name>Tsugumi Ohba</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5502079.Tsugumi_Ohba]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>642460</id>
+<title><![CDATA[Chrno Crusade, Vol. 1 (Chrno Crusade, #1)]]></title>
+<title_without_series>Chrno Crusade, Vol. 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/642460.Chrno_Crusade_Vol_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2043165</id>
+</work>
+<isbn>1413900844</isbn>
+<isbn13>9781413900842</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2888</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>227048</id>
+<name>Daisuke Moriyama</name>
+<link><![CDATA[https://www.goodreads.com/author/show/227048.Daisuke_Moriyama]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>569434</id>
+<title>D.Gray-man, Volume 06</title>
+<title_without_series>D.Gray-man, Volume 06</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/569434.D_Gray_man_Volume_06]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>187</num_pages>
+<work>
+<id>556485</id>
+</work>
+<isbn>1421510545</isbn>
+<isbn13>9781421510545</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>4600</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>8</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>311098</id>
+<name>Katsura Hoshino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/311098.Katsura_Hoshino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1048089</id>
+<title>Saiyuki, Vol. 1</title>
+<title_without_series>Saiyuki, Vol. 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1048089.Saiyuki_Vol_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1034525</id>
+</work>
+<isbn>1591826519</isbn>
+<isbn13>9781591826514</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>5649</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>60631</id>
+<name>Kazuya Minekura</name>
+<link><![CDATA[https://www.goodreads.com/author/show/60631.Kazuya_Minekura]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>555469</id>
+<title><![CDATA[Trigun Maximum Volume 1: Hero Returns (Trigun Maximum, #1)]]></title>
+<title_without_series><![CDATA[Trigun Maximum Volume 1: Hero Returns]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/555469.Trigun_Maximum_Volume_1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403207216s/555469.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403207216m/555469.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>542674</id>
+</work>
+<isbn>1593071965</isbn>
+<isbn13>9781593071967</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>8371</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>12860</id>
+<name>Yasuhiro Nightow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12860.Yasuhiro_Nightow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294978</id>
+<title>Rurouni Kenshin, Volume 17</title>
+<title_without_series>Rurouni Kenshin, Volume 17</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294978.Rurouni_Kenshin_Volume_17]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>286228</id>
+</work>
+<isbn>1591168767</isbn>
+<isbn13>9781591168768</isbn13>
+<average_rating>4.42</average_rating>
+<ratings_count>1724</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>18100</id>
+<name>Nobuhiro Watsuki</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18100.Nobuhiro_Watsuki]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>204043</id>
+<title><![CDATA[Naruto, Vol. 02: The Worst Client (Naruto, #2)]]></title>
+<title_without_series><![CDATA[Naruto, Vol. 02: The Worst Client]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/204043.Naruto_Vol_02]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1435524857s/204043.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1435524857m/204043.jpg]]></image_url>
+<num_pages>216</num_pages>
+<work>
+<id>197437</id>
+</work>
+<isbn>1591161789</isbn>
+<isbn13>9781591161783</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>12975</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>11047</id>
+<name>Masashi Kishimoto</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11047.Masashi_Kishimoto]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

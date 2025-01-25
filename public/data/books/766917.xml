@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>766917</id>
+  <title>Homer Price (A Puffin Book)</title>
+  <isbn><![CDATA[0140309276]]></isbn>
+  <isbn13><![CDATA[9780140309270]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00IXX4J08]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Six episodes in the life of Homer Price including one in which he and his pet skunk capture four bandits and another about a donut machine on the rampage.]]></description>
+  <work>
+  <id type="integer">3259531</id>
+  <books_count type="integer">24</books_count>
+  <best_book_id type="integer">766917</best_book_id>
+  <reviews_count type="integer">22363</reviews_count>
+  <ratings_sum type="integer">70316</ratings_sum>
+  <ratings_count type="integer">17261</ratings_count>
+  <text_reviews_count type="integer">445</text_reviews_count>
+  <original_publication_year type="integer">1942</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Homer Price</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6971|4:5766|3:3604|2:665|1:255|total:17261</rating_dist>
+  <desc_user_id type="integer">24666244</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.07</average_rating>
+  <num_pages><![CDATA[149]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[16842]]></ratings_count>
+  <text_reviews_count><![CDATA[401]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/766917.Homer_Price]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/766917.Homer_Price]]></link>
+  <authors>
+<author>
+<id>14635</id>
+<name>Robert McCloskey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201020229p5/14635.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201020229p2/14635.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14635.Robert_McCloskey]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>173550</ratings_count>
+<text_reviews_count>3620</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/766917.Homer_Price">Homer Price Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0140309276&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/766917.Homer_Price?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="3813"/>
+      <shelf name="childrens" count="151"/>
+      <shelf name="fiction" count="147"/>
+      <shelf name="children" count="126"/>
+      <shelf name="children-s-books" count="105"/>
+      <shelf name="children-s" count="102"/>
+      <shelf name="kids" count="69"/>
+      <shelf name="currently-reading" count="66"/>
+      <shelf name="favorites" count="60"/>
+      <shelf name="read-alouds" count="58"/>
+      <shelf name="classics" count="56"/>
+      <shelf name="humor" count="49"/>
+      <shelf name="read-aloud" count="48"/>
+      <shelf name="childrens-books" count="44"/>
+      <shelf name="young-adult" count="42"/>
+      <shelf name="kids-books" count="39"/>
+      <shelf name="childhood" count="36"/>
+      <shelf name="childhood-favorites" count="34"/>
+      <shelf name="juvenile" count="28"/>
+      <shelf name="children-s-literature" count="27"/>
+      <shelf name="children-s-lit" count="25"/>
+      <shelf name="sonlight" count="25"/>
+      <shelf name="middle-grade" count="22"/>
+      <shelf name="school" count="21"/>
+      <shelf name="homeschool" count="21"/>
+      <shelf name="chapter-books" count="21"/>
+      <shelf name="short-stories" count="21"/>
+      <shelf name="juvenile-fiction" count="21"/>
+      <shelf name="books-i-own" count="20"/>
+      <shelf name="read-to-kids" count="19"/>
+      <shelf name="owned" count="18"/>
+      <shelf name="classic" count="18"/>
+      <shelf name="children-s-fiction" count="16"/>
+      <shelf name="kid-lit" count="15"/>
+      <shelf name="picture-books" count="14"/>
+      <shelf name="youth" count="14"/>
+      <shelf name="historical-fiction" count="12"/>
+      <shelf name="home-library" count="12"/>
+      <shelf name="childrens-lit" count="12"/>
+      <shelf name="family-read-alouds" count="12"/>
+      <shelf name="default" count="11"/>
+      <shelf name="realistic-fiction" count="11"/>
+      <shelf name="read-as-a-kid" count="11"/>
+      <shelf name="childrens-literature" count="11"/>
+      <shelf name="childhood-reads" count="10"/>
+      <shelf name="funny" count="10"/>
+      <shelf name="classroom-library" count="9"/>
+      <shelf name="kid-books" count="8"/>
+      <shelf name="core-b" count="7"/>
+      <shelf name="audiobook" count="7"/>
+      <shelf name="sonlight-b" count="7"/>
+      <shelf name="kids-to-read" count="7"/>
+      <shelf name="mystery" count="7"/>
+      <shelf name="read-with-kids" count="7"/>
+      <shelf name="americana" count="7"/>
+      <shelf name="kids-chapter-books" count="6"/>
+      <shelf name="childrens-chapter" count="6"/>
+      <shelf name="children-young-adult" count="6"/>
+      <shelf name="adventure" count="6"/>
+      <shelf name="books-from-my-childhood" count="6"/>
+      <shelf name="for-the-kids" count="6"/>
+      <shelf name="to-read-with-kids" count="6"/>
+      <shelf name="for-school" count="6"/>
+      <shelf name="library" count="6"/>
+      <shelf name="children-s-novels" count="6"/>
+      <shelf name="family-read-aloud" count="6"/>
+      <shelf name="elementary" count="6"/>
+      <shelf name="my-childhood" count="6"/>
+      <shelf name="read-more-than-once" count="6"/>
+      <shelf name="kid-s-books" count="6"/>
+      <shelf name="children-ya" count="6"/>
+      <shelf name="own-it" count="6"/>
+      <shelf name="for-children" count="5"/>
+      <shelf name="sonlight-core-b" count="5"/>
+      <shelf name="for-the-boys" count="5"/>
+      <shelf name="children-s-chapter-books" count="5"/>
+      <shelf name="school-books" count="5"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="literature" count="5"/>
+      <shelf name="american" count="5"/>
+      <shelf name="3rd-grade" count="5"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="youth-fiction" count="5"/>
+      <shelf name="children-fiction" count="5"/>
+      <shelf name="childhood-books" count="5"/>
+      <shelf name="childrens-book" count="5"/>
+      <shelf name="chapter-book" count="5"/>
+      <shelf name="kids-fiction" count="5"/>
+      <shelf name="childhood-favorite" count="4"/>
+      <shelf name="shelfari-favorites" count="4"/>
+      <shelf name="middle-grades" count="4"/>
+      <shelf name="with-the-kids" count="4"/>
+      <shelf name="mensa-4-6" count="4"/>
+      <shelf name="kids-lit" count="4"/>
+      <shelf name="read-for-school" count="4"/>
+      <shelf name="kids-read-alouds" count="4"/>
+      <shelf name="for-kids" count="4"/>
+      <shelf name="for-the-kiddos" count="4"/>
+      <shelf name="favorite-children-s-books" count="4"/>
+      <shelf name="kids-read" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>569674</id>
+<user_position>1</user_position>
+<series>
+<id>117643</id>
+<title>
+<![CDATA[
+    Homer Price
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>2</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>181775</id>
+<title>Henry Reed, Inc.</title>
+<title_without_series>Henry Reed, Inc.</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/181775.Henry_Reed_Inc_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>175649</id>
+</work>
+<isbn>0140341447</isbn>
+<isbn13>9780140341447</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>2398</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>57931</id>
+<name>Keith Robertson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57931.Keith_Robertson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>847146</id>
+<title>Little Pear</title>
+<title_without_series>Little Pear</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/847146.Little_Pear]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328875836s/847146.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328875836m/847146.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>832663</id>
+</work>
+<isbn>0152055029</isbn>
+<isbn13>9780152055028</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>2045</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>304159</id>
+<name>Eleanor Frances Lattimore</name>
+<link><![CDATA[https://www.goodreads.com/author/show/304159.Eleanor_Frances_Lattimore]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>886985</id>
+<title>Mountain Born</title>
+<title_without_series>Mountain Born</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/886985.Mountain_Born]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>106</num_pages>
+<work>
+<id>2521766</id>
+</work>
+<isbn>0890847061</isbn>
+<isbn13>9780890847060</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1396</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>148577</id>
+<name>Elizabeth Yates</name>
+<link><![CDATA[https://www.goodreads.com/author/show/148577.Elizabeth_Yates]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>707616</id>
+<title><![CDATA[The Year of Miss Agnes (Aladdin Historical Fiction)]]></title>
+<title_without_series>The Year of Miss Agnes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/707616.The_Year_of_Miss_Agnes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1124494</id>
+</work>
+<isbn>0689851243</isbn>
+<isbn13>9780689851247</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3321</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>51591</id>
+<name>Kirkpatrick Hill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51591.Kirkpatrick_Hill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>859358</id>
+<title>Detectives in Togas</title>
+<title_without_series>Detectives in Togas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/859358.Detectives_in_Togas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876124s/859358.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876124m/859358.jpg]]></image_url>
+<num_pages>249</num_pages>
+<work>
+<id>844798</id>
+</work>
+<isbn>0152162801</isbn>
+<isbn13>9780152162801</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>4276</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>117748</id>
+<name>Henry Winterfeld</name>
+<link><![CDATA[https://www.goodreads.com/author/show/117748.Henry_Winterfeld]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>648958</id>
+<title>Follow My Leader</title>
+<title_without_series>Follow My Leader</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/648958.Follow_My_Leader]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>635097</id>
+</work>
+<isbn>0140364854</isbn>
+<isbn13>9780140364859</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>2778</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>229551</id>
+<name>James B. Garfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/229551.James_B_Garfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>573572</id>
+<title>The Sword in the Tree</title>
+<title_without_series>The Sword in the Tree</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/573572.The_Sword_in_the_Tree]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1348702080s/573572.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1348702080m/573572.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>2291920</id>
+</work>
+<isbn>0064421325</isbn>
+<isbn13>9780064421324</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1573</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>5</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>18203</id>
+<name>Clyde Robert Bulla</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18203.Clyde_Robert_Bulla]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>403063</id>
+<title>Favorite Poems of Childhood</title>
+<title_without_series>Favorite Poems of Childhood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/403063.Favorite_Poems_of_Childhood]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>392449</id>
+</work>
+<isbn>0486270890</isbn>
+<isbn13>9780486270890</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>542</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>53416</id>
+<name>Philip Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53416.Philip_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>853707</id>
+<title>Tut&apos;s Mummy: Lost...and Found</title>
+<title_without_series>Tut&apos;s Mummy: Lost...and Found</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/853707.Tut_s_Mummy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320404438s/853707.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320404438m/853707.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>839205</id>
+</work>
+<isbn>0394891899</isbn>
+<isbn13>9780394891897</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>784</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>5</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>157962</id>
+<name>Judy Donnelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/157962.Judy_Donnelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>175422</id>
+<title>Usborne Time Traveler</title>
+<title_without_series>Usborne Time Traveler</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/175422.Usborne_Time_Traveler]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>169465</id>
+</work>
+<isbn>0746033656</isbn>
+<isbn13>9780746033654</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>1193</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>65216</id>
+<name>Judy Hindley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65216.Judy_Hindley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>828220</id>
+<title>A Grain of Rice</title>
+<title_without_series>A Grain of Rice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/828220.A_Grain_of_Rice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>813918</id>
+</work>
+<isbn>044041301X</isbn>
+<isbn13>9780440413011</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1559</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>12</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>393139</id>
+<name>Helena Clare Pittman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/393139.Helena_Clare_Pittman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>709269</id>
+<title><![CDATA[Missionary Stories with the Millers (Miller Family)]]></title>
+<title_without_series><![CDATA[Missionary Stories with the Millers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/709269.Missionary_Stories_with_the_Millers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1201546629s/709269.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1201546629m/709269.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>695541</id>
+</work>
+<isbn>0962764345</isbn>
+<isbn13>9780962764349</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>430</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>107013</id>
+<name>Mildred A. Martin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/107013.Mildred_A_Martin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>494301</id>
+<title><![CDATA[George Muller: The Guardian of Bristol's Orphans (Christian Heroes: Then & Now)]]></title>
+<title_without_series><![CDATA[George Muller: The Guardian of Bristol's Orphans]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/494301.George_Muller]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1376427958s/494301.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1376427958m/494301.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>482460</id>
+</work>
+<isbn>1576581454</isbn>
+<isbn13>9781576581452</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>2242</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>12</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>1180</id>
+<name>Janet Benge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1180.Janet_Benge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1127492</id>
+<title>The Little Riders</title>
+<title_without_series>The Little Riders</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1127492.The_Little_Riders]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1348097744s/1127492.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1348097744m/1127492.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>1114666</id>
+</work>
+<isbn>0688124992</isbn>
+<isbn13>9780688124991</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1133</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>21</publication_day>
+<authors>
+<author>
+<id>554595</id>
+<name>Margaretha Shemin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/554595.Margaretha_Shemin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>339178</id>
+<title>The Great Wall Of China</title>
+<title_without_series>The Great Wall Of China</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/339178.The_Great_Wall_Of_China]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>329576</id>
+</work>
+<isbn>0689801785</isbn>
+<isbn13>9780689801785</isbn13>
+<average_rating>3.86</average_rating>
+<ratings_count>280</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>38476</id>
+<name>Leonard Everett Fisher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38476.Leonard_Everett_Fisher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2079830</id>
+<title>The Greek News</title>
+<title_without_series>The Greek News</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2079830.The_Greek_News]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320429610s/2079830.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320429610m/2079830.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2085106</id>
+</work>
+<isbn>0763603406</isbn>
+<isbn13>9780763603403</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>113</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>110370</id>
+<name>Anton Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110370.Anton_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>568476</id>
+<title><![CDATA[Henry Huggins (Henry Huggins, #1)]]></title>
+<title_without_series>Henry Huggins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/568476.Henry_Huggins]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>155</num_pages>
+<work>
+<id>86428</id>
+</work>
+<isbn>0688213855</isbn>
+<isbn13>9780688213855</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>22628</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>403</id>
+<name>Beverly Cleary</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403.Beverly_Cleary]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>79627</id>
+<title><![CDATA[Greek Myths For Young Children]]></title>
+<title_without_series><![CDATA[Greek Myths For Young Children]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/79627.Greek_Myths_For_Young_Children]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>76889</id>
+</work>
+<isbn>0746037252</isbn>
+<isbn13>9780746037256</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>978</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2726</id>
+<name>Heather Amery</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2726.Heather_Amery]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

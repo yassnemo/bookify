@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>5359</id>
+  <title>The Client</title>
+  <isbn><![CDATA[0385339089]]></isbn>
+  <isbn13><![CDATA[9780385339087]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B003IDMUWM]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>16</publication_day>
+  <publisher>Delta</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In a weedy lot on the outskirts of Memphis, two boys watch a shiny Lincoln pull up to the curb...Eleven-year-old Mark Sway and his younger brother were sharing a forbidden cigarette when a chance encounter with a suicidal lawyer left Mark knowing a bloody and explosive secret: the whereabouts of the most sought-after dead body in America. Now Mark is caught between a legal system gone mad and a mob killer desperate to cover up his crime. And his only ally is a woman named Reggie Love, who has been a lawyer for all of four years. Prosecutors are willing to break all the rules to make Mark talk. The mob will stop at nothing to keep him quiet. And Reggie will do anything to protect her client --even take a last, desperate gamble that could win Mark his freedom... or cost them both their lives.]]></description>
+  <work>
+  <id type="integer">137715</id>
+  <books_count type="integer">134</books_count>
+  <best_book_id type="integer">5359</best_book_id>
+  <reviews_count type="integer">399033</reviews_count>
+  <ratings_sum type="integer">1293904</ratings_sum>
+  <ratings_count type="integer">325853</ratings_count>
+  <text_reviews_count type="integer">1917</text_reviews_count>
+  <original_publication_year type="integer">1993</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Client</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:102444|4:129096|3:79208|2:12571|1:2534|total:325853</rating_dist>
+  <desc_user_id type="integer">7268784</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.97</average_rating>
+  <num_pages><![CDATA[483]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[320263]]></ratings_count>
+  <text_reviews_count><![CDATA[1643]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/5359.The_Client]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/5359.The_Client]]></link>
+  <authors>
+<author>
+<id>721</id>
+<name>John Grisham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1413390525p5/721.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1413390525p2/721.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/721.John_Grisham]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>3691230</ratings_count>
+<text_reviews_count>112092</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/5359.The_Client">The Client Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0385339089&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/5359.The_Client?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="46705"/>
+      <shelf name="fiction" count="1844"/>
+      <shelf name="john-grisham" count="896"/>
+      <shelf name="mystery" count="871"/>
+      <shelf name="thriller" count="789"/>
+      <shelf name="currently-reading" count="768"/>
+      <shelf name="suspense" count="348"/>
+      <shelf name="crime" count="336"/>
+      <shelf name="favorites" count="315"/>
+      <shelf name="grisham" count="300"/>
+      <shelf name="owned" count="249"/>
+      <shelf name="legal-thriller" count="247"/>
+      <shelf name="books-i-own" count="203"/>
+      <shelf name="mystery-thriller" count="201"/>
+      <shelf name="default" count="193"/>
+      <shelf name="legal" count="189"/>
+      <shelf name="thrillers" count="132"/>
+      <shelf name="law" count="117"/>
+      <shelf name="mystery-suspense" count="116"/>
+      <shelf name="grisham-john" count="95"/>
+      <shelf name="adult-fiction" count="91"/>
+      <shelf name="novels" count="90"/>
+      <shelf name="adult" count="83"/>
+      <shelf name="owned-books" count="79"/>
+      <shelf name="novel" count="77"/>
+      <shelf name="mysteries" count="74"/>
+      <shelf name="legal-thrillers" count="71"/>
+      <shelf name="general-fiction" count="71"/>
+      <shelf name="drama" count="63"/>
+      <shelf name="legal-fiction" count="63"/>
+      <shelf name="my-books" count="58"/>
+      <shelf name="library" count="53"/>
+      <shelf name="contemporary-fiction" count="53"/>
+      <shelf name="contemporary" count="53"/>
+      <shelf name="mystery-crime" count="48"/>
+      <shelf name="my-library" count="47"/>
+      <shelf name="crime-fiction" count="44"/>
+      <shelf name="suspense-thriller" count="44"/>
+      <shelf name="crime-thriller" count="41"/>
+      <shelf name="crime-mystery" count="37"/>
+      <shelf name="american" count="36"/>
+      <shelf name="lawyers" count="35"/>
+      <shelf name="thriller-suspense" count="34"/>
+      <shelf name="popular-fiction" count="33"/>
+      <shelf name="kindle" count="32"/>
+      <shelf name="ebooks" count="31"/>
+      <shelf name="ebook" count="29"/>
+      <shelf name="i-own" count="29"/>
+      <shelf name="detective" count="28"/>
+      <shelf name="general" count="28"/>
+      <shelf name="southern" count="27"/>
+      <shelf name="courtroom-drama" count="26"/>
+      <shelf name="books" count="25"/>
+      <shelf name="movie" count="25"/>
+      <shelf name="e-books" count="24"/>
+      <shelf name="mystery-thrillers" count="24"/>
+      <shelf name="audiobook" count="23"/>
+      <shelf name="crime-mystery-thriller" count="22"/>
+      <shelf name="suicide" count="22"/>
+      <shelf name="movies" count="22"/>
+      <shelf name="book-to-movie" count="21"/>
+      <shelf name="own-it" count="21"/>
+      <shelf name="action" count="21"/>
+      <shelf name="finished" count="20"/>
+      <shelf name="calibre" count="20"/>
+      <shelf name="new" count="20"/>
+      <shelf name="borrowed" count="20"/>
+      <shelf name="shelfari-favorites" count="19"/>
+      <shelf name="audiobooks" count="19"/>
+      <shelf name="memphis" count="19"/>
+      <shelf name="favourites" count="19"/>
+      <shelf name="have" count="19"/>
+      <shelf name="courtroom" count="19"/>
+      <shelf name="audio" count="19"/>
+      <shelf name="adventure" count="19"/>
+      <shelf name="mystery-thriller-suspense" count="19"/>
+      <shelf name="thriller-mystery" count="19"/>
+      <shelf name="witnesses" count="18"/>
+      <shelf name="child" count="18"/>
+      <shelf name="women" count="18"/>
+      <shelf name="brothers" count="18"/>
+      <shelf name="english" count="18"/>
+      <shelf name="murder-mystery" count="18"/>
+      <shelf name="favorite-authors" count="18"/>
+      <shelf name="1993" count="18"/>
+      <shelf name="wish-list" count="18"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="tenn" count="17"/>
+      <shelf name="la" count="17"/>
+      <shelf name="organized" count="17"/>
+      <shelf name="victims" count="17"/>
+      <shelf name="client" count="17"/>
+      <shelf name="attorney" count="17"/>
+      <shelf name="orleans" count="17"/>
+      <shelf name="usa" count="17"/>
+      <shelf name="already-read" count="17"/>
+      <shelf name="paperback" count="17"/>
+      <shelf name="mystery-suspense-thriller" count="17"/>
+      <shelf name="lawyer" count="17"/>
+      <shelf name="stories" count="16"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>4684</id>
+<title>Pleading Guilty</title>
+<title_without_series>Pleading Guilty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4684.Pleading_Guilty]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1380436786s/4684.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1380436786m/4684.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2268575</id>
+</work>
+<isbn>0374701032</isbn>
+<isbn13>9780374701031</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>5941</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2749</id>
+<name>Scott Turow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2749.Scott_Turow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>341587</id>
+<title><![CDATA[The 13th Juror (Dismas Hardy, #4)]]></title>
+<title_without_series>The 13th Juror</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/341587.The_13th_Juror]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>82560</id>
+</work>
+<isbn>0451215931</isbn>
+<isbn13>9780451215932</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>7026</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>10521</id>
+<name>John Lescroart</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10521.John_Lescroart]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15159</id>
+<title>Absolute Power</title>
+<title_without_series>Absolute Power</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15159.Absolute_Power]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328399707s/15159.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328399707m/15159.jpg]]></image_url>
+<num_pages>550</num_pages>
+<work>
+<id>2837</id>
+</work>
+<isbn>0330419641</isbn>
+<isbn13>9780330419642</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>76247</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32682</id>
+<title><![CDATA[Patriot Games (Jack Ryan Universe, #2)]]></title>
+<title_without_series>Patriot Games</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32682.Patriot_Games]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328007145s/32682.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328007145m/32682.jpg]]></image_url>
+<num_pages>503</num_pages>
+<work>
+<id>5054702</id>
+</work>
+<isbn>0425134350</isbn>
+<isbn13>9780425134351</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>146344</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3892</id>
+<name>Tom Clancy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3892.Tom_Clancy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13130</id>
+<title>Judge &amp; Jury</title>
+<title_without_series>Judge &amp; Jury</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13130.Judge_Jury]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>419</num_pages>
+<work>
+<id>2513160</id>
+</work>
+<isbn>0316013935</isbn>
+<isbn13>9780316013932</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>40629</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3780</id>
+<name>James Patterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3780.James_Patterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2430</id>
+<title>The List</title>
+<title_without_series>The List</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2430.The_List]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>451</num_pages>
+<work>
+<id>2758207</id>
+</work>
+<isbn>0515121495</isbn>
+<isbn13>9780515121490</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>11853</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1648</id>
+<name>Steve Martini</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1648.Steve_Martini]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>481372</id>
+<title><![CDATA[Degree of Guilt (Christopher Paget, #2)]]></title>
+<title_without_series>Degree of Guilt</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/481372.Degree_of_Guilt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>534</num_pages>
+<work>
+<id>103597</id>
+</work>
+<isbn>034538184X</isbn>
+<isbn13>9780345381842</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>8671</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>12</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>38537</id>
+<name>Richard North Patterson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38537.Richard_North_Patterson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1432640</id>
+<title>The Juror</title>
+<title_without_series>The Juror</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1432640.The_Juror]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1332981426s/1432640.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1332981426m/1432640.jpg]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>1832545</id>
+</work>
+<isbn>0553504878</isbn>
+<isbn13>9780553504873</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>6413</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>1</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>290369</id>
+<name>George Dawes Green</name>
+<link><![CDATA[https://www.goodreads.com/author/show/290369.George_Dawes_Green]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>259538</id>
+<title><![CDATA[Outbreak (Dr. Marissa Blumenthal, #1)]]></title>
+<title_without_series>Outbreak</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/259538.Outbreak]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344166275s/259538.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344166275m/259538.jpg]]></image_url>
+<num_pages>340</num_pages>
+<work>
+<id>1176781</id>
+</work>
+<isbn>042510687X</isbn>
+<isbn13>9780425106877</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>49189</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19697</id>
+<name>Robin Cook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19697.Robin_Cook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2761626</id>
+<title><![CDATA[The Brass Verdict (Harry Bosch, #14; Mickey Haller, #2; Harry Bosch Universe, #17)]]></title>
+<title_without_series>The Brass Verdict</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2761626-the-brass-verdict]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>422</num_pages>
+<work>
+<id>2787335</id>
+</work>
+<isbn>0316166294</isbn>
+<isbn13>9780316166294</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>42880</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12470</id>
+<name>Michael Connelly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12470.Michael_Connelly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>98427</id>
+<title>The General&apos;s Daughter</title>
+<title_without_series>The General&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/98427.The_General_s_Daughter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334443536s/98427.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334443536m/98427.jpg]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>1832579</id>
+</work>
+<isbn>0446364800</isbn>
+<isbn13>9780446364805</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>51643</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1238</id>
+<name>Nelson DeMille</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1238.Nelson_DeMille]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7675</id>
+<title>Disclosure</title>
+<title_without_series>Disclosure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7675.Disclosure]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1398678136s/7675.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1398678136m/7675.jpg]]></image_url>
+<num_pages>455</num_pages>
+<work>
+<id>1511269</id>
+</work>
+<isbn>0099303744</isbn>
+<isbn13>9780099303749</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>60100</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5194</id>
+<name>Michael Crichton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5194.Michael_Crichton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14785</id>
+<title><![CDATA[Chosen Prey (Lucas Davenport, #12)]]></title>
+<title_without_series>Chosen Prey</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14785.Chosen_Prey]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>383</num_pages>
+<work>
+<id>1652157</id>
+</work>
+<isbn>0425182878</isbn>
+<isbn13>9780425182871</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>21396</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4610</id>
+<name>John Sandford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4610.John_Sandford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31260</id>
+<title>The Sigma Protocol</title>
+<title_without_series>The Sigma Protocol</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31260.The_Sigma_Protocol]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>662</num_pages>
+<work>
+<id>2470112</id>
+</work>
+<isbn>0312982518</isbn>
+<isbn13>9780312982515</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>8664</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>5293</id>
+<name>Robert Ludlum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5293.Robert_Ludlum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>147074</id>
+<title><![CDATA[Janet Evanovich Three and Four Two-Book Set (Stephanie Plum, #3-4)]]></title>
+<title_without_series><![CDATA[Janet Evanovich Three and Four Two-Book Set]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/147074.Janet_Evanovich_Three_and_Four_Two_Book_Set]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317792858s/147074.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317792858m/147074.jpg]]></image_url>
+<num_pages>682</num_pages>
+<work>
+<id>40008</id>
+</work>
+<isbn>0312990227</isbn>
+<isbn13>9780312990220</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>63735</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>2384</id>
+<name>Janet Evanovich</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2384.Janet_Evanovich]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>85321</id>
+<title>The Tenth Justice</title>
+<title_without_series>The Tenth Justice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/85321.The_Tenth_Justice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>483</num_pages>
+<work>
+<id>530174</id>
+</work>
+<isbn>0446606243</isbn>
+<isbn13>9780446606240</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>10771</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>14610</id>
+<name>Brad Meltzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14610.Brad_Meltzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>643974</id>
+<title><![CDATA[I is for Innocent (Kinsey Millhone, #9)]]></title>
+<title_without_series>I is for Innocent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/643974.I_is_for_Innocent]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>352</num_pages>
+<work>
+<id>62899</id>
+</work>
+<isbn>0449221512</isbn>
+<isbn13>9780449221518</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>23509</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>9559</id>
+<name>Sue Grafton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9559.Sue_Grafton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

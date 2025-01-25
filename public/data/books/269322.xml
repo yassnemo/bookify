@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>269322</id>
+  <title>The Raven and other poems</title>
+  <isbn><![CDATA[0439224063]]></isbn>
+  <isbn13><![CDATA[9780439224062]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1297913274m/269322.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1297913274s/269322.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A chilling, thrilling collection of Edgar Allan Poe's poetry, introduced by best-selling author Philip Pullman<br /><br />The Raven . . . Annabel Lee . . . Ulalume . . . these are some of the spookiest, most macabre poems ever written, now collected in this chilling, affordable volume.<br /><br />Dreams --<br />Lake --<br />Sonnet --<br />to science --<br />[Alone] --<br />Introduction --<br />To Helen --<br />Israfel --<br />Valley of unrest --<br />City in the sea --<br />To one in paradise --<br />Coliseum --<br />Haunted palace --<br />Conqueror worm --<br />Dream-land --<br />Eulalie --<br />Raven --<br />["Deep in earth"] --<br />To M.L.S.- --<br />Ulalume --<br />a ballad --<br />Bells --<br />To Helen [Whitman] --<br />Dream within a dream --<br />For Annie --<br />Eldorado --<br />To my mother --<br />Annabel Lee.]]></description>
+  <work>
+  <id type="integer">11775</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">269322</best_book_id>
+  <reviews_count type="integer">46807</reviews_count>
+  <ratings_sum type="integer">148742</ratings_sum>
+  <ratings_count type="integer">34610</ratings_count>
+  <text_reviews_count type="integer">288</text_reviews_count>
+  <original_publication_year type="integer">1845</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>The Raven and Other Poems</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:17688|4:10926|3:4908|2:786|1:302|total:34610</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.30</average_rating>
+  <num_pages><![CDATA[73]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Scholastic Classics]]></edition_information>
+  <ratings_count><![CDATA[34447]]></ratings_count>
+  <text_reviews_count><![CDATA[285]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/269322.The_Raven_and_other_poems]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/269322.The_Raven_and_other_poems]]></link>
+  <authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p5/4624490.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p2/4624490.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>1019839</ratings_count>
+<text_reviews_count>21641</text_reviews_count>
+</author>
+<author>
+<id>3618</id>
+<name>Philip Pullman</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1396622492p5/3618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1396622492p2/3618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1741898</ratings_count>
+<text_reviews_count>40886</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/269322.The_Raven_and_other_poems">The Raven and other poems Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0439224063&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/269322.The_Raven_and_other_poems?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="10143"/>
+      <shelf name="poetry" count="868"/>
+      <shelf name="classics" count="458"/>
+      <shelf name="favorites" count="200"/>
+      <shelf name="horror" count="146"/>
+      <shelf name="currently-reading" count="109"/>
+      <shelf name="classic" count="92"/>
+      <shelf name="fiction" count="87"/>
+      <shelf name="gothic" count="47"/>
+      <shelf name="books-i-own" count="42"/>
+      <shelf name="owned" count="33"/>
+      <shelf name="literature" count="29"/>
+      <shelf name="short-stories" count="28"/>
+      <shelf name="fantasy" count="24"/>
+      <shelf name="american" count="20"/>
+      <shelf name="american-literature" count="18"/>
+      <shelf name="19th-century" count="18"/>
+      <shelf name="school" count="17"/>
+      <shelf name="owned-books" count="16"/>
+      <shelf name="poems" count="16"/>
+      <shelf name="rory-gilmore-reading-challenge" count="16"/>
+      <shelf name="classic-literature" count="15"/>
+      <shelf name="mystery" count="14"/>
+      <shelf name="favourites" count="14"/>
+      <shelf name="dark" count="12"/>
+      <shelf name="poe" count="12"/>
+      <shelf name="edgar-allan-poe" count="11"/>
+      <shelf name="classic-lit" count="11"/>
+      <shelf name="i-own" count="10"/>
+      <shelf name="poesia" count="10"/>
+      <shelf name="rory-gilmore-challenge" count="10"/>
+      <shelf name="adult" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="library" count="8"/>
+      <shelf name="favorite-books" count="8"/>
+      <shelf name="high-school" count="8"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="anthology" count="7"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="school-books" count="7"/>
+      <shelf name="the-classics" count="7"/>
+      <shelf name="to-buy" count="7"/>
+      <shelf name="historical" count="6"/>
+      <shelf name="read-in-english" count="6"/>
+      <shelf name="read-for-school" count="6"/>
+      <shelf name="other" count="6"/>
+      <shelf name="rory-gilmore-reading-list" count="6"/>
+      <shelf name="american-lit" count="6"/>
+      <shelf name="poem" count="6"/>
+      <shelf name="horror-thriller" count="5"/>
+      <shelf name="young-adult" count="5"/>
+      <shelf name="personal-library" count="5"/>
+      <shelf name="adult-fiction" count="5"/>
+      <shelf name="usa" count="5"/>
+      <shelf name="default" count="5"/>
+      <shelf name="rory-gilmore" count="5"/>
+      <shelf name="read-classics" count="5"/>
+      <shelf name="read-in-2012" count="5"/>
+      <shelf name="childhood" count="5"/>
+      <shelf name="thriller" count="5"/>
+      <shelf name="all-time-favorites" count="5"/>
+      <shelf name="read-in-school" count="5"/>
+      <shelf name="2016-reading-challenge" count="4"/>
+      <shelf name="book-club" count="4"/>
+      <shelf name="english" count="4"/>
+      <shelf name="poetry-plays" count="4"/>
+      <shelf name="books" count="4"/>
+      <shelf name="read-fiction" count="4"/>
+      <shelf name="short-story" count="4"/>
+      <shelf name="to-read-poetry" count="4"/>
+      <shelf name="school-reads" count="4"/>
+      <shelf name="to-re-read" count="4"/>
+      <shelf name="gothic-fiction" count="4"/>
+      <shelf name="faves" count="4"/>
+      <shelf name="horror-suspense" count="4"/>
+      <shelf name="suspense" count="4"/>
+      <shelf name="favorite-authors" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="poetry-and-plays" count="3"/>
+      <shelf name="mystery-suspense" count="3"/>
+      <shelf name="halloween" count="3"/>
+      <shelf name="favorite-classics" count="3"/>
+      <shelf name="english-literature" count="3"/>
+      <shelf name="re-read" count="3"/>
+      <shelf name="non-fiction" count="3"/>
+      <shelf name="kindle" count="3"/>
+      <shelf name="ebooks" count="3"/>
+      <shelf name="classroom" count="3"/>
+      <shelf name="gilmore-girls-reading-list" count="3"/>
+      <shelf name="united-states" count="3"/>
+      <shelf name="all-time-favs" count="3"/>
+      <shelf name="edgar-allen-poe" count="3"/>
+      <shelf name="19th-century-american" count="3"/>
+      <shelf name="literary" count="3"/>
+      <shelf name="50-book-challenge" count="3"/>
+      <shelf name="inspirational" count="3"/>
+      <shelf name="read-in-czech" count="3"/>
+      <shelf name="sci-fi" count="3"/>
+      <shelf name="literary-fiction" count="3"/>
+      <shelf name="ebook" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>116381</id>
+<title>The Highwayman</title>
+<title_without_series>The Highwayman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/116381.The_Highwayman]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>112077</id>
+</work>
+<isbn>0192723707</isbn>
+<isbn13>9780192723703</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>4639</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>42249</id>
+<name>Alfred Noyes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42249.Alfred_Noyes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>724371</id>
+<title>The Lady of Shalott</title>
+<title_without_series>The Lady of Shalott</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/724371.The_Lady_of_Shalott]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1400891098s/724371.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1400891098m/724371.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1026788</id>
+</work>
+<isbn>0192723715</isbn>
+<isbn13>9780192723710</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>15240</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>13638502</id>
+<name>Alfred Tennyson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13638502.Alfred_Tennyson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>732562</id>
+<title><![CDATA[The Rime of the Ancient Mariner]]></title>
+<title_without_series><![CDATA[The Rime of the Ancient Mariner]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/732562.The_Rime_of_the_Ancient_Mariner]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1436976206s/732562.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1436976206m/732562.jpg]]></image_url>
+<num_pages>77</num_pages>
+<work>
+<id>678243</id>
+</work>
+<isbn>0486223051</isbn>
+<isbn13>9780486223056</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>39721</ratings_count>
+<publication_year>1970</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>11525</id>
+<name>Samuel Taylor Coleridge</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11525.Samuel_Taylor_Coleridge]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42040</id>
+<title>Love Poems and Sonnets</title>
+<title_without_series>Love Poems and Sonnets</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42040.Love_Poems_and_Sonnets]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1420238175s/42040.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1420238175m/42040.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>26657685</id>
+</work>
+<isbn>0385017332</isbn>
+<isbn13>9780385017336</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>5750</ratings_count>
+<publication_year>1957</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>171547</id>
+<title><![CDATA[Songs of Innocence and of Experience]]></title>
+<title_without_series><![CDATA[Songs of Innocence and of Experience]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/171547.Songs_of_Innocence_and_of_Experience]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>56</num_pages>
+<work>
+<id>24839</id>
+</work>
+<isbn>1420925806</isbn>
+<isbn13>9781420925807</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>29533</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13453</id>
+<name>William Blake</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13453.William_Blake]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>780875</id>
+<title>The Song of Hiawatha</title>
+<title_without_series>The Song of Hiawatha</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/780875.The_Song_of_Hiawatha]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391963647s/780875.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391963647m/780875.jpg]]></image_url>
+<num_pages>184</num_pages>
+<work>
+<id>2783902</id>
+</work>
+<isbn>1595400354</isbn>
+<isbn13>9781595400352</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>1965</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2697</id>
+<name>Henry Wadsworth Longfellow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2697.Henry_Wadsworth_Longfellow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>118389</id>
+<title><![CDATA[The Love Song of J. Alfred Prufrock and Other Poems]]></title>
+<title_without_series><![CDATA[The Love Song of J. Alfred Prufrock and Other Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/118389.The_Love_Song_of_J_Alfred_Prufrock_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>1800811</id>
+</work>
+<isbn>0848809971</isbn>
+<isbn13>9780848809973</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>15156</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18540</id>
+<name>T.S. Eliot</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18540.T_S_Eliot]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>244887</id>
+<title>Goblin Market and Other Poems</title>
+<title_without_series>Goblin Market and Other Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/244887.Goblin_Market_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>419763</id>
+</work>
+<isbn>0486280551</isbn>
+<isbn13>9780486280554</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>3195</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>5</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>143178</id>
+<name>Christina Rossetti</name>
+<link><![CDATA[https://www.goodreads.com/author/show/143178.Christina_Rossetti]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>112200</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/112200.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1260829838s/112200.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1260829838m/112200.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>471777</id>
+</work>
+<isbn>0517206064</isbn>
+<isbn13>9780517206065</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>18052</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>7440</id>
+<name>Emily Dickinson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7440.Emily_Dickinson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>143466</id>
+<title>Jabberwocky and Other Poems</title>
+<title_without_series>Jabberwocky and Other Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/143466.Jabberwocky_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328866147s/143466.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328866147m/143466.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>138399</id>
+</work>
+<isbn>0486415821</isbn>
+<isbn13>9780486415826</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>4757</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>6</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>8164</id>
+<name>Lewis Carroll</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8164.Lewis_Carroll]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>134017</id>
+<title>John Donne&apos;s Poetry</title>
+<title_without_series>John Donne&apos;s Poetry</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/134017.John_Donne_s_Poetry]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>46088943</id>
+</work>
+<isbn>0393926486</isbn>
+<isbn13>9780393926484</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>6962</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>77318</id>
+<name>John Donne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/77318.John_Donne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12204</id>
+<title><![CDATA[The Road Not Taken and Other Poems]]></title>
+<title_without_series><![CDATA[The Road Not Taken and Other Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12204.The_Road_Not_Taken_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1415677882s/12204.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1415677882m/12204.jpg]]></image_url>
+<num_pages>49</num_pages>
+<work>
+<id>14527</id>
+</work>
+<isbn>0486275507</isbn>
+<isbn13>9780486275505</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>31420</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>7715</id>
+<name>Robert Frost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7715.Robert_Frost]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>45287</id>
+<title><![CDATA[Poetry and Prose (Library of America)]]></title>
+<title_without_series>Poetry and Prose</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/45287.Poetry_and_Prose]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1407</num_pages>
+<work>
+<id>44546</id>
+</work>
+<isbn>1883011353</isbn>
+<isbn13>9781883011352</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>6230</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1438</id>
+<name>Walt Whitman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1438.Walt_Whitman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119239</id>
+<title>Selected Poems</title>
+<title_without_series>Selected Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119239.Selected_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1411634706s/119239.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1411634706m/119239.jpg]]></image_url>
+<num_pages>864</num_pages>
+<work>
+<id>1697235</id>
+</work>
+<isbn>0140424504</isbn>
+<isbn13>9780140424508</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>11321</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>11</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>44407</id>
+<name>George Gordon Byron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44407.George_Gordon_Byron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>223394</id>
+<title>The Complete Poems</title>
+<title_without_series>The Complete Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/223394.The_Complete_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1346376073s/223394.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1346376073m/223394.jpg]]></image_url>
+<num_pages>944</num_pages>
+<work>
+<id>1651023</id>
+</work>
+<isbn>0679601112</isbn>
+<isbn13>9780679601111</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>7357</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>45882</id>
+<name>Percy Bysshe Shelley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45882.Percy_Bysshe_Shelley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>430400</id>
+<title><![CDATA[My Last Duchess and Other Poems]]></title>
+<title_without_series><![CDATA[My Last Duchess and Other Poems]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/430400.My_Last_Duchess_and_Other_Poems]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328868461s/430400.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328868461m/430400.jpg]]></image_url>
+<num_pages>110</num_pages>
+<work>
+<id>419380</id>
+</work>
+<isbn>0486277836</isbn>
+<isbn13>9780486277837</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>4855</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>12</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>24391</id>
+<name>Robert Browning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24391.Robert_Browning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>154387</id>
+<title>Sonnets from the Portuguese</title>
+<title_without_series>Sonnets from the Portuguese</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/154387.Sonnets_from_the_Portuguese]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>738953</id>
+</work>
+<isbn>031274501X</isbn>
+<isbn13>9780312745011</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>9831</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>67032</id>
+<name>Elizabeth Barrett Browning</name>
+<link><![CDATA[https://www.goodreads.com/author/show/67032.Elizabeth_Barrett_Browning]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>138134</id>
+<title>The Complete Poems</title>
+<title_without_series>The Complete Poems</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/138134.The_Complete_Poems]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>1701632</id>
+</work>
+<isbn>0679601082</isbn>
+<isbn13>9780679601081</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>17892</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>11978</id>
+<name>John Keats</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11978.John_Keats]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

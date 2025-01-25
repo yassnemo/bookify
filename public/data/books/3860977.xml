@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>3860977</id>
+  <title>How We Decide</title>
+  <isbn><![CDATA[0618620117]]></isbn>
+  <isbn13><![CDATA[9780618620111]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1382946716m/3860977.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1382946716s/3860977.jpg</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The first book to use the unexpected discoveries of neuroscience to help us make the best decisions.<br /><br />Since Plato, philosophers have described the decision-making process as either rational or emotional: we carefully deliberate, or we “blink” and go with our gut. But as scientists break open the mind’s black box with the latest tools of neuroscience, they’re discovering that this is not how the mind works. Our best decisions are a finely tuned blend of both feeling and reason—and the precise mix depends on the situation. When buying a house, for example, it’s best to let our unconscious mull over the many variables. But when we’re picking a stock, intuition often leads us astray. The trick is to determine when to use the different parts of the brain, and to do this, we need to think harder (and smarter) about how we think.<br /><br />Jonah Lehrer arms us with the tools we need, drawing on cutting-edge research as well as the real-world experiences of a wide range of “deciders”—from airplane pilots and hedge fund investors to serial killers and poker players.<br /><br />Lehrer shows how people are taking advantage of the new science to make better television shows, win more football games, and improve military intelligence. His goal is to answer two questions that are of interest to just about anyone, from CEOs to firefighters: How does the human mind make decisions? And how can we make those decisions better?]]></description>
+  <work>
+  <id type="integer">3906123</id>
+  <books_count type="integer">37</books_count>
+  <best_book_id type="integer">3860977</best_book_id>
+  <reviews_count type="integer">118479</reviews_count>
+  <ratings_sum type="integer">128724</ratings_sum>
+  <ratings_count type="integer">33768</ratings_count>
+  <text_reviews_count type="integer">1401</text_reviews_count>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>How We Decide</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9842|4:12121|3:8555|2:2115|1:1135|total:33768</rating_dist>
+  <desc_user_id type="integer">6304446</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[259]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[32520]]></ratings_count>
+  <text_reviews_count><![CDATA[1263]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3860977-how-we-decide]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3860977-how-we-decide]]></link>
+  <authors>
+<author>
+<id>428923</id>
+<name>Jonah Lehrer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1330380968p5/428923.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1330380968p2/428923.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/428923.Jonah_Lehrer]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>66606</ratings_count>
+<text_reviews_count>3826</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/3860977-how-we-decide">How We Decide Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0618620117&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/3860977-how-we-decide?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8202"/>
+      <shelf name="non-fiction" count="754"/>
+      <shelf name="psychology" count="645"/>
+      <shelf name="science" count="318"/>
+      <shelf name="nonfiction" count="283"/>
+      <shelf name="business" count="91"/>
+      <shelf name="neuroscience" count="74"/>
+      <shelf name="favorites" count="68"/>
+      <shelf name="currently-reading" count="61"/>
+      <shelf name="self-help" count="55"/>
+      <shelf name="kindle" count="53"/>
+      <shelf name="to-buy" count="42"/>
+      <shelf name="sociology" count="42"/>
+      <shelf name="brain" count="40"/>
+      <shelf name="economics" count="39"/>
+      <shelf name="owned" count="38"/>
+      <shelf name="decision-making" count="36"/>
+      <shelf name="library" count="35"/>
+      <shelf name="psych" count="30"/>
+      <shelf name="to-read-nonfiction" count="28"/>
+      <shelf name="to-read-non-fiction" count="24"/>
+      <shelf name="self-improvement" count="23"/>
+      <shelf name="books-i-own" count="23"/>
+      <shelf name="audio" count="22"/>
+      <shelf name="audiobook" count="21"/>
+      <shelf name="philosophy" count="20"/>
+      <shelf name="personal-development" count="20"/>
+      <shelf name="social-science" count="20"/>
+      <shelf name="ebook" count="19"/>
+      <shelf name="behavioral-economics" count="19"/>
+      <shelf name="audiobooks" count="18"/>
+      <shelf name="ebooks" count="16"/>
+      <shelf name="adult" count="16"/>
+      <shelf name="wish-list" count="16"/>
+      <shelf name="audible" count="15"/>
+      <shelf name="cognitive-science" count="14"/>
+      <shelf name="marketing" count="14"/>
+      <shelf name="design" count="13"/>
+      <shelf name="mind" count="13"/>
+      <shelf name="audio-books" count="13"/>
+      <shelf name="abandoned" count="13"/>
+      <shelf name="maybe" count="13"/>
+      <shelf name="self-development" count="12"/>
+      <shelf name="book-club" count="12"/>
+      <shelf name="audio-book" count="12"/>
+      <shelf name="thinking" count="12"/>
+      <shelf name="cognition" count="12"/>
+      <shelf name="non-fiction-to-read" count="11"/>
+      <shelf name="shelfari-wishlist" count="10"/>
+      <shelf name="popular-science" count="10"/>
+      <shelf name="cognitive" count="10"/>
+      <shelf name="behavior" count="10"/>
+      <shelf name="business-books" count="10"/>
+      <shelf name="professional" count="9"/>
+      <shelf name="human-behavior" count="9"/>
+      <shelf name="work" count="9"/>
+      <shelf name="brain-science" count="9"/>
+      <shelf name="life" count="9"/>
+      <shelf name="pop-psychology" count="9"/>
+      <shelf name="didn-t-finish" count="9"/>
+      <shelf name="non-fic" count="8"/>
+      <shelf name="educational" count="8"/>
+      <shelf name="social-sciences" count="8"/>
+      <shelf name="management" count="8"/>
+      <shelf name="pop-science" count="8"/>
+      <shelf name="default" count="7"/>
+      <shelf name="brains" count="7"/>
+      <shelf name="decision" count="7"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="psy" count="7"/>
+      <shelf name="biology" count="7"/>
+      <shelf name="gave-up" count="7"/>
+      <shelf name="recommended" count="7"/>
+      <shelf name="social-psychology" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="behavioral" count="7"/>
+      <shelf name="leadership" count="7"/>
+      <shelf name="research" count="7"/>
+      <shelf name="creativity" count="7"/>
+      <shelf name="nonfiction-to-read" count="7"/>
+      <shelf name="want-to-read" count="7"/>
+      <shelf name="other" count="7"/>
+      <shelf name="the-mind" count="6"/>
+      <shelf name="interesting" count="6"/>
+      <shelf name="to-read-business" count="6"/>
+      <shelf name="psychology-to-read" count="6"/>
+      <shelf name="on-kindle" count="6"/>
+      <shelf name="social" count="6"/>
+      <shelf name="english" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="behavioural-economics" count="6"/>
+      <shelf name="recommendations" count="6"/>
+      <shelf name="read-in-2010" count="6"/>
+      <shelf name="nonfic" count="6"/>
+      <shelf name="shelfari-favorites" count="5"/>
+      <shelf name="not-interested" count="5"/>
+      <shelf name="learning" count="5"/>
+      <shelf name="maybe-someday" count="5"/>
+      <shelf name="must-read" count="5"/>
+      <shelf name="psycology" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>2740964</id>
+<title><![CDATA[On Being Certain: Believing You Are Right Even When You're Not]]></title>
+<title_without_series><![CDATA[On Being Certain: Believing You Are Right Even When You're Not]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2740964-on-being-certain]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2766617</id>
+</work>
+<isbn>0312359209</isbn>
+<isbn13>9780312359201</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1728</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1309940</id>
+<name>Robert A. Burton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1309940.Robert_A_Burton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2118114</id>
+<title><![CDATA[Sway: The Irresistible Pull of Irrational Behavior]]></title>
+<title_without_series><![CDATA[Sway: The Irresistible Pull of Irrational Behavior]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2118114.Sway]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320419177s/2118114.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320419177m/2118114.jpg]]></image_url>
+<num_pages>206</num_pages>
+<work>
+<id>2123548</id>
+</work>
+<isbn>0385524382</isbn>
+<isbn13>9780385524384</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>15215</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>6</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>12441</id>
+<name>Ori Brafman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12441.Ori_Brafman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5040579</id>
+<title><![CDATA[Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average]]></title>
+<title_without_series><![CDATA[Why We Make Mistakes: How We Look Without Seeing, Forget Things in Seconds, and Are All Pretty Sure We Are Way Above Average]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5040579-why-we-make-mistakes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1412952226s/5040579.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1412952226m/5040579.jpg]]></image_url>
+<num_pages>221</num_pages>
+<work>
+<id>5107177</id>
+</work>
+<isbn>0767928059</isbn>
+<isbn13>9780767928052</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>6738</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>2</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>2090913</id>
+<name>Joseph T. Hallinan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2090913.Joseph_T_Hallinan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>522525</id>
+<title><![CDATA[Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts]]></title>
+<title_without_series><![CDATA[Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/522525.Mistakes_Were_Made_But_Not_by_Me_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328876733s/522525.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328876733m/522525.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>2171014</id>
+</work>
+<isbn>0151010986</isbn>
+<isbn13>9780151010981</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>16376</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>5</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>58990</id>
+<name>Carol Tavris</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58990.Carol_Tavris]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>357666</id>
+<title><![CDATA[A Mind of Its Own: How Your Brain Distorts and Deceives]]></title>
+<title_without_series><![CDATA[A Mind of Its Own: How Your Brain Distorts and Deceives]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/357666.A_Mind_of_Its_Own]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>243</num_pages>
+<work>
+<id>347815</id>
+</work>
+<isbn>0393062139</isbn>
+<isbn13>9780393062137</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>2040</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>7</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>204893</id>
+<name>Cordelia Fine</name>
+<link><![CDATA[https://www.goodreads.com/author/show/204893.Cordelia_Fine]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2251306</id>
+<title><![CDATA[Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School]]></title>
+<title_without_series><![CDATA[Brain Rules: 12 Principles for Surviving and Thriving at Work, Home, and School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2251306.Brain_Rules]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328763686s/2251306.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328763686m/2251306.jpg]]></image_url>
+<num_pages>301</num_pages>
+<work>
+<id>2257186</id>
+</work>
+<isbn>0979777704</isbn>
+<isbn13>9780979777707</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>21902</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>2</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>341696</id>
+<name>John Medina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/341696.John_Medina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9272404</id>
+<title><![CDATA[The Compass of Pleasure: How Our Brains Make Fatty Foods, Orgasm, Exercise, Marijuana, Generosity, Vodka, Learning, and Gambling Feel So Good]]></title>
+<title_without_series><![CDATA[The Compass of Pleasure: How Our Brains Make Fatty Foods, Orgasm, Exercise, Marijuana, Generosity, Vodka, Learning, and Gambling Feel So Good]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9272404-the-compass-of-pleasure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>14154141</id>
+</work>
+<isbn>0670022586</isbn>
+<isbn13>9780670022588</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>4132</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>216998</id>
+<name>David J. Linden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/216998.David_J_Linden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>226665</id>
+<title><![CDATA[The Psychology of Judgment and Decision Making]]></title>
+<title_without_series><![CDATA[The Psychology of Judgment and Decision Making]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/226665.The_Psychology_of_Judgment_and_Decision_Making]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414347295s/226665.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414347295m/226665.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>219553</id>
+</work>
+<isbn>0070504776</isbn>
+<isbn13>9780070504776</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>460</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>51188</id>
+<name>Scott Plous</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51188.Scott_Plous]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>36087</id>
+<title><![CDATA[Mind Wide Open: Your Brain and the Neuroscience of Everyday Life]]></title>
+<title_without_series><![CDATA[Mind Wide Open: Your Brain and the Neuroscience of Everyday Life]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/36087.Mind_Wide_Open]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330809520s/36087.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330809520m/36087.jpg]]></image_url>
+<num_pages>274</num_pages>
+<work>
+<id>35996</id>
+</work>
+<isbn>0743241665</isbn>
+<isbn13>9780743241663</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>4309</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1563</id>
+<name>Steven Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1563.Steven_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6283340</id>
+<title><![CDATA[Spent: Sex, Evolution, and Consumer Behavior]]></title>
+<title_without_series><![CDATA[Spent: Sex, Evolution, and Consumer Behavior]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6283340-spent]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6467334</id>
+</work>
+<isbn>0670020621</isbn>
+<isbn13>9780670020621</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>15428</id>
+<name>Geoffrey Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15428.Geoffrey_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>786560</id>
+<title><![CDATA[Gut Feelings: The Intelligence of the Unconscious]]></title>
+<title_without_series><![CDATA[Gut Feelings: The Intelligence of the Unconscious]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/786560.Gut_Feelings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2162535</id>
+</work>
+<isbn>0670038636</isbn>
+<isbn13>9780670038633</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>1272</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>184050</id>
+<name>Gerd Gigerenzer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/184050.Gerd_Gigerenzer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7815744</id>
+<title><![CDATA[The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home]]></title>
+<title_without_series><![CDATA[The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268511997s/7815744.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268511997m/7815744.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10840474</id>
+</work>
+<isbn>0061995037</isbn>
+<isbn13>9780061995033</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>23598</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>788461</id>
+<name>Dan Ariely</name>
+<link><![CDATA[https://www.goodreads.com/author/show/788461.Dan_Ariely]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5752</id>
+<title><![CDATA[The Blank Slate: The Modern Denial of Human Nature]]></title>
+<title_without_series><![CDATA[The Blank Slate: The Modern Denial of Human Nature]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5752.The_Blank_Slate]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>9151</id>
+</work>
+<isbn>0142003344</isbn>
+<isbn13>9780142003343</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>16446</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>3915</id>
+<name>Steven Pinker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3915.Steven_Pinker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11437838</id>
+<title><![CDATA[What Makes Your Brain Happy and Why You Should Do the Opposite]]></title>
+<title_without_series><![CDATA[What Makes Your Brain Happy and Why You Should Do the Opposite]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11437838-what-makes-your-brain-happy-and-why-you-should-do-the-opposite]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369818888s/11437838.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369818888m/11437838.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>16371475</id>
+</work>
+<isbn>1616144831</isbn>
+<isbn13>9781616144838</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>2424</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>4175123</id>
+<name>David DiSalvo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4175123.David_DiSalvo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6494620</id>
+<title><![CDATA[Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives]]></title>
+<title_without_series><![CDATA[Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6494620-connected]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>6686065</id>
+</work>
+<isbn>0316036145</isbn>
+<isbn13>9780316036146</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>2541</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>145637</id>
+<name>Nicholas A. Christakis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/145637.Nicholas_A_Christakis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11213439</id>
+<title><![CDATA[Brain Bugs: How the Brain's Flaws Shape Our Lives]]></title>
+<title_without_series><![CDATA[Brain Bugs: How the Brain's Flaws Shape Our Lives]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11213439-brain-bugs]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>310</num_pages>
+<work>
+<id>16138914</id>
+</work>
+<isbn>0393076024</isbn>
+<isbn13>9780393076028</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>1952</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>4814243</id>
+<name>Dean Buonomano</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4814243.Dean_Buonomano]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11516274</id>
+<title><![CDATA[Redirect: The Surprising New Science of Psychological Change]]></title>
+<title_without_series><![CDATA[Redirect: The Surprising New Science of Psychological Change]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11516274-redirect]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1344271721s/11516274.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1344271721m/11516274.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>16452729</id>
+</work>
+<isbn>0316051888</isbn>
+<isbn13>9780316051880</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1275</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>3447853</id>
+<name>Timothy D. Wilson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3447853.Timothy_D_Wilson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10639</id>
+<title><![CDATA[The Paradox of Choice: Why More Is Less]]></title>
+<title_without_series><![CDATA[The Paradox of Choice: Why More Is Less]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410138134s/10639.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410138134m/10639.jpg]]></image_url>
+<num_pages>265</num_pages>
+<work>
+<id>1157840</id>
+</work>
+<isbn>0060005696</isbn>
+<isbn13>9780060005696</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>21883</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>1</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>6957</id>
+<name>Barry Schwartz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6957.Barry_Schwartz]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

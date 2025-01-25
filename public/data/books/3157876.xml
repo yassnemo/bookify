@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>3157876</id>
+  <title><![CDATA[Do-It-Yourself Book (Diary of a Wimpy Kid)]]></title>
+  <isbn><![CDATA[0810979772]]></isbn>
+  <isbn13><![CDATA[9780810979772]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1261505077m/3157876.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1261505077s/3157876.jpg</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Harry N. Abrams</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Now every kid can write like a Wimpy Kid! An exciting companion to the bestselling <i>Diary of a Wimpy Kid </i>series.<br /><br /><i>“First of all, let me get something straight: This is a journal, not a diary.”</i><br /><br />This innovative interactive journal based on Greg Heffley’s own “diary” lets kids express themselves in an exciting new way. In <i>Diary of a Wimpy Kid Do-It-Yourself Book</i>, kids will be asked: What was the best dream you ever had? The worst thing you ever ate? The best secret you ever heard? The most trouble you ever got in for something that wasn’t even your fault to begin with? This <i>Do-It-Yourself Book</i> features art throughout, along with ruled and blank pages for readers to create their own stories, keep their own diaries, and record their favorites and least faves. Includes a bonus full-color comics section featuring the collected cartoons of Greg Heffley and his best friend, Rowley.<br /><br />Includes 16 pages of full-color comics!]]></description>
+  <work>
+  <id type="integer">3189584</id>
+  <books_count type="integer">34</books_count>
+  <best_book_id type="integer">3157876</best_book_id>
+  <reviews_count type="integer">37162</reviews_count>
+  <ratings_sum type="integer">89931</ratings_sum>
+  <ratings_count type="integer">21562</ratings_count>
+  <text_reviews_count type="integer">658</text_reviews_count>
+  <original_publication_year type="integer">2007</original_publication_year>
+  <original_publication_month type="integer">10</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title></original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:12615|4:3545|3:2938|2:1398|1:1066|total:21562</rating_dist>
+  <desc_user_id type="integer">5859020</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.17</average_rating>
+  <num_pages><![CDATA[224]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[20554]]></ratings_count>
+  <text_reviews_count><![CDATA[573]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3157876-do-it-yourself-book]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3157876-do-it-yourself-book]]></link>
+  <authors>
+<author>
+<id>221559</id>
+<name>Jeff Kinney</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383777030p5/221559.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383777030p2/221559.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/221559.Jeff_Kinney]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>881032</ratings_count>
+<text_reviews_count>47054</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/3157876-do-it-yourself-book">Do-It-Yourself Book Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0810979772&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/3157876-do-it-yourself-book?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2847"/>
+      <shelf name="currently-reading" count="194"/>
+      <shelf name="diary-of-a-wimpy-kid" count="166"/>
+      <shelf name="books-i-own" count="68"/>
+      <shelf name="wimpy-kid" count="45"/>
+      <shelf name="my-books" count="35"/>
+      <shelf name="owned" count="32"/>
+      <shelf name="favorites" count="32"/>
+      <shelf name="default" count="28"/>
+      <shelf name="childrens" count="27"/>
+      <shelf name="jeff-kinney" count="26"/>
+      <shelf name="fiction" count="25"/>
+      <shelf name="realistic-fiction" count="24"/>
+      <shelf name="humor" count="24"/>
+      <shelf name="children" count="22"/>
+      <shelf name="kids" count="22"/>
+      <shelf name="books" count="21"/>
+      <shelf name="graphic-novels" count="18"/>
+      <shelf name="series" count="18"/>
+      <shelf name="dairy-of-a-wimpy-kid" count="16"/>
+      <shelf name="funny" count="16"/>
+      <shelf name="owned-books" count="15"/>
+      <shelf name="diary" count="13"/>
+      <shelf name="middle-grade" count="12"/>
+      <shelf name="kids-books" count="12"/>
+      <shelf name="children-s-books" count="12"/>
+      <shelf name="comedy" count="12"/>
+      <shelf name="childhood" count="11"/>
+      <shelf name="i-own" count="11"/>
+      <shelf name="have" count="10"/>
+      <shelf name="children-s" count="10"/>
+      <shelf name="young-adult" count="9"/>
+      <shelf name="comics" count="8"/>
+      <shelf name="diary-of-wimpy-kid" count="7"/>
+      <shelf name="diaries" count="7"/>
+      <shelf name="diary-of-a-wimpy-kid-series" count="7"/>
+      <shelf name="my-library" count="6"/>
+      <shelf name="favorite-books" count="6"/>
+      <shelf name="1" count="6"/>
+      <shelf name="book" count="6"/>
+      <shelf name="diary-of-the-wimpy-kid" count="6"/>
+      <shelf name="kid" count="6"/>
+      <shelf name="middle-school" count="6"/>
+      <shelf name="graphic-novel" count="6"/>
+      <shelf name="english-books" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="good-books" count="5"/>
+      <shelf name="non-fiction" count="5"/>
+      <shelf name="diary-of-a-wimpy-kid-books" count="5"/>
+      <shelf name="cool-books" count="5"/>
+      <shelf name="comic" count="5"/>
+      <shelf name="school" count="5"/>
+      <shelf name="childrens-books" count="5"/>
+      <shelf name="bookshelf" count="4"/>
+      <shelf name="lol" count="4"/>
+      <shelf name="books-i-have" count="4"/>
+      <shelf name="humour" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="childhood-books" count="4"/>
+      <shelf name="chapter-books" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="all" count="3"/>
+      <shelf name="own-it" count="3"/>
+      <shelf name="ibooks" count="3"/>
+      <shelf name="my-childhood" count="3"/>
+      <shelf name="classroom-library" count="3"/>
+      <shelf name="jeff-s-books" count="3"/>
+      <shelf name="my-book" count="3"/>
+      <shelf name="2" count="3"/>
+      <shelf name="3-stars" count="3"/>
+      <shelf name="doawk" count="3"/>
+      <shelf name="read-in-2013" count="3"/>
+      <shelf name="faves" count="3"/>
+      <shelf name="my-favorites" count="3"/>
+      <shelf name="library-books" count="3"/>
+      <shelf name="my-shelf" count="3"/>
+      <shelf name="need-to-read" count="3"/>
+      <shelf name="2012-reads" count="3"/>
+      <shelf name="diary-of-a-whimpy-kid" count="3"/>
+      <shelf name="new-books" count="3"/>
+      <shelf name="activity" count="3"/>
+      <shelf name="kid-books" count="3"/>
+      <shelf name="fun-books" count="3"/>
+      <shelf name="comic-books" count="3"/>
+      <shelf name="dairy" count="3"/>
+      <shelf name="realistic" count="3"/>
+      <shelf name="mine" count="3"/>
+      <shelf name="josh" count="3"/>
+      <shelf name="wimpy-kid-books" count="3"/>
+      <shelf name="picture-books" count="3"/>
+      <shelf name="7th-grade" count="3"/>
+      <shelf name="do-it-yourself" count="3"/>
+      <shelf name="5b" count="3"/>
+      <shelf name="fantasy" count="3"/>
+      <shelf name="awesome" count="3"/>
+      <shelf name="bought" count="3"/>
+      <shelf name="kid-lit" count="3"/>
+      <shelf name="children-and-middle-grade" count="2"/>
+      <shelf name="read-before-2017" count="2"/>
+      <shelf name="books-i-read-as-a-kid" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>332818</id>
+<user_position></user_position>
+<series>
+<id>45336</id>
+<title>
+<![CDATA[
+    Diary of a Wimpy Kid
+]]>
+</title>
+<description>
+<![CDATA[
+    <i>Diary of a Wimpy Kid</i> is a satirical realistic fiction comedy novel for children and teenagers written and illustrated by Jeff Kinney.  The book is about a boy named Greg Heffley and his struggles to fit in as he begins middle school.
+    
+    Afrikaans: Dagboek van 'n Wimpy Kid
+    Arabic: مذكرات طالب
+    Bulgarian: Дневникът на един дръндьо
+    Catalan: Diari del Greg
+    Chinese: 遜咖日記
+    Croatian: Gregov dnevnik
+    Czech: Deník malého poseroutky
+    Danish: Ikke en dagbog
+    Dutch: Het leven van een Loser
+    Estonian: Ühe äpardi päevik
+    Finnish: Neropatin päiväkirja
+    French: Journal d'un dégonflé
+    Georgian: წრიპა ბიჭის
+    German; Gregs Tagebuch
+    Greek: Το ημερολόγιο ενός σπασίκλα
+    Hebrew: יומנו של חנון
+    Hungarian: Egy ropi naplója
+    Indonesian: Diary si Bocah Tengil
+    Irish Dialann Dúradáin
+    Italian: Diario di una schiappa
+    Japanese: グレッグのダメ日記
+    Korean: 윔피키드
+    Latin: Commentarii de Inepto Puero
+    Latvian: Grega dienasgrāmata
+    Norwegian: En pingles dagbok
+    Persian: خاطرات یک بیعرضه
+    Polish: Dziennik cwaniaczka
+    Portuguese: O Diário de Um Banana
+    Romanian: Jurnalul unui puşti
+    Serbian: Dnevnik šonjavka
+    Slovak: Denník odvážneho bojka
+    Spanish: Diario de Greg
+    Swedish: Dagbök for alla mina fans
+    Thai: ไดอารี่ของเด็กไม่เอาถ่าน
+    Turkish: Saftirik - Greg'in günlüğü
+    Vietnamese: Nhật Ký Chú Bé Nhút Nhát
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>34</series_works_count>
+<primary_work_count>12</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>8526824</id>
+<title><![CDATA[Diary of a Wimpy Kid: List of Characters]]></title>
+<title_without_series><![CDATA[Diary of a Wimpy Kid: List of Characters]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8526824-diary-of-a-wimpy-kid]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15179103</id>
+</work>
+<isbn>1155347641</isbn>
+<isbn13>9781155347646</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>474</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4340042</id>
+<name>Books LLC</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4340042.Books_LLC]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>835225</id>
+<title><![CDATA[Captain Underpants and the Big Bad Battle of the Bionic Booger Boy, Part 2: Revenge of the Ridiculous Robo-Boogers (Captain Underpants, #7)]]></title>
+<title_without_series><![CDATA[Captain Underpants and the Big Bad Battle of the Bionic Booger Boy, Part 2: Revenge of the Ridiculous Robo-Boogers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/835225.Captain_Underpants_and_the_Big_Bad_Battle_of_the_Bionic_Booger_Boy_Part_2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>207482</id>
+</work>
+<isbn>043997772X</isbn>
+<isbn13>9780439977722</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>7287</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>33280</id>
+<name>Dav Pilkey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33280.Dav_Pilkey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9807272</id>
+<title><![CDATA[Big Nate Boredom Buster: Super Scribbles, Cool Comix, and Lots of Laughs]]></title>
+<title_without_series><![CDATA[Big Nate Boredom Buster: Super Scribbles, Cool Comix, and Lots of Laughs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9807272-big-nate-boredom-buster]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>14697592</id>
+</work>
+<isbn>0062060945</isbn>
+<isbn13>9780062060945</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>1663</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>4</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>815278</id>
+<name>Lincoln Peirce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/815278.Lincoln_Peirce]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10854669</id>
+<title>Diary of a Wimpy Kid Type</title>
+<title_without_series>Diary of a Wimpy Kid Type</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10854669-diary-of-a-wimpy-kid-type]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15769484</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>467</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3524918</id>
+<name>Stevie Thompson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3524918.Stevie_Thompson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9449355</id>
+<title><![CDATA[Diary of a Wimpy Kid: Rodrick Rules]]></title>
+<title_without_series><![CDATA[Diary of a Wimpy Kid: Rodrick Rules]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9449355-diary-of-a-wimpy-kid]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>84</num_pages>
+<work>
+<id>14334089</id>
+</work>
+<isbn>6132803815</isbn>
+<isbn13>9786132803818</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>2940867</id>
+<name>Frederic P.  Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2940867.Frederic_P_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7231970</id>
+<title><![CDATA[Games and Puzzles from the Ice House (Magic Tree Hous Activity Book)]]></title>
+<title_without_series><![CDATA[Games and Puzzles from the Ice House]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7231970-games-and-puzzles-from-the-ice-house]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320427173s/7231970.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320427173m/7231970.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>8093664</id>
+</work>
+<isbn>0375862161</isbn>
+<isbn13>9780375862168</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>118</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>578</id>
+<name>Mary Pope Osborne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/578.Mary_Pope_Osborne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15058509</id>
+<title><![CDATA[Read & Respond Activities Based on Diary of a Wimpy Kid]]></title>
+<title_without_series><![CDATA[Read & Respond Activities Based on Diary of a Wimpy Kid]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15058509-read-respond-activities-based-on-diary-of-a-wimpy-kid]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358745402s/15058509.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358745402m/15058509.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>20713197</id>
+</work>
+<isbn>1407127276</isbn>
+<isbn13>9781407127279</isbn13>
+<average_rating>4.48</average_rating>
+<ratings_count>251</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4007794</id>
+<name>Pam Dowson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4007794.Pam_Dowson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6772858</id>
+<title><![CDATA[Phineas and Ferb Laughapalooza Joke Book]]></title>
+<title_without_series><![CDATA[Phineas and Ferb Laughapalooza Joke Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6772858-phineas-and-ferb-laughapalooza-joke-book]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360565769s/6772858.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360565769m/6772858.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>6972690</id>
+</work>
+<isbn>1423123190</isbn>
+<isbn13>9781423123194</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>130</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>17715</id>
+<name>Kitty Richards</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17715.Kitty_Richards]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4702458</id>
+<title><![CDATA[It's Not My Fault I Know Everything (Dear Dumb Diary #8)]]></title>
+<title_without_series><![CDATA[It's Not My Fault I Know Everything]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4702458-it-s-not-my-fault-i-know-everything]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328842965s/4702458.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328842965m/4702458.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>4766781</id>
+</work>
+<isbn>0439825970</isbn>
+<isbn13>9780439825979</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>6707</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>26839</id>
+<name>Jim Benton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26839.Jim_Benton]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>11125</id>
+  <title>Digital Fortress</title>
+  <isbn><![CDATA[0552151696]]></isbn>
+  <isbn13><![CDATA[9780552151696]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B0052Z0MJW]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1360095966m/11125.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1360095966s/11125.jpg</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Corgi books</publisher>
+  <language_code>en-GB</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Before the multi-million, runaway bestseller <i>The Da Vinci Code</i>, Dan Brown set his razor-sharp research and storytelling skills on the most powerful intelligence organization on earth--the National Security Agency (NSA), an ultra-secret, multibillion-dollar agency many times more powerful than the CIA.<p>When the NSA's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage...not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence.</p><p>Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.</p><p>From the underground hallways of power to the skyscrapers of Tokyo to the towering cathedrals of Spain, a desperate race unfolds. It is a battle for survival--a crucial bid to destroy a creation of inconceivable genius...an impregnable code-writing formula that threatens to obliterate the post-cold war balance of power. Forever.</p>]]></description>
+  <work>
+  <id type="integer">40195</id>
+  <books_count type="integer">185</books_count>
+  <best_book_id type="integer">11125</best_book_id>
+  <reviews_count type="integer">583560</reviews_count>
+  <ratings_sum type="integer">1613688</ratings_sum>
+  <ratings_count type="integer">447892</ratings_count>
+  <text_reviews_count type="integer">7541</text_reviews_count>
+  <original_publication_year type="integer">1998</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Digital Fortress</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:103293|4:144161|3:136304|2:47533|1:16601|total:447892</rating_dist>
+  <desc_user_id type="integer">39232369</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.60</average_rating>
+  <num_pages><![CDATA[510]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[423368]]></ratings_count>
+  <text_reviews_count><![CDATA[5869]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/11125.Digital_Fortress]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/11125.Digital_Fortress]]></link>
+  <authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>5340521</ratings_count>
+<text_reviews_count>140541</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/11125.Digital_Fortress">Digital Fortress Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0552151696&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/11125.Digital_Fortress?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6381"/>
+      <shelf name="fiction" count="3234"/>
+      <shelf name="thriller" count="2213"/>
+      <shelf name="mystery" count="1479"/>
+      <shelf name="dan-brown" count="1378"/>
+      <shelf name="currently-reading" count="1052"/>
+      <shelf name="favorites" count="895"/>
+      <shelf name="owned" count="683"/>
+      <shelf name="books-i-own" count="537"/>
+      <shelf name="suspense" count="510"/>
+      <shelf name="default" count="463"/>
+      <shelf name="mystery-thriller" count="335"/>
+      <shelf name="crime" count="310"/>
+      <shelf name="thrillers" count="300"/>
+      <shelf name="adventure" count="300"/>
+      <shelf name="science-fiction" count="283"/>
+      <shelf name="novels" count="273"/>
+      <shelf name="sci-fi" count="263"/>
+      <shelf name="owned-books" count="233"/>
+      <shelf name="novel" count="186"/>
+      <shelf name="my-books" count="163"/>
+      <shelf name="action" count="155"/>
+      <shelf name="adult" count="149"/>
+      <shelf name="contemporary" count="139"/>
+      <shelf name="mystery-suspense" count="123"/>
+      <shelf name="adult-fiction" count="123"/>
+      <shelf name="library" count="117"/>
+      <shelf name="english" count="110"/>
+      <shelf name="favourites" count="107"/>
+      <shelf name="my-library" count="104"/>
+      <shelf name="action-adventure" count="97"/>
+      <shelf name="brown-dan" count="96"/>
+      <shelf name="general-fiction" count="92"/>
+      <shelf name="i-own" count="82"/>
+      <shelf name="books" count="81"/>
+      <shelf name="brown" count="80"/>
+      <shelf name="suspense-thriller" count="80"/>
+      <shelf name="crime-thriller" count="77"/>
+      <shelf name="thriller-mystery" count="73"/>
+      <shelf name="ebooks" count="70"/>
+      <shelf name="روايات" count="69"/>
+      <shelf name="audiobook" count="69"/>
+      <shelf name="contemporary-fiction" count="69"/>
+      <shelf name="to-buy" count="65"/>
+      <shelf name="espionage" count="62"/>
+      <shelf name="conspiracy" count="60"/>
+      <shelf name="finished" count="60"/>
+      <shelf name="borrowed" count="60"/>
+      <shelf name="cryptography" count="59"/>
+      <shelf name="ebook" count="59"/>
+      <shelf name="crime-mystery" count="57"/>
+      <shelf name="computers" count="57"/>
+      <shelf name="kindle" count="57"/>
+      <shelf name="american" count="56"/>
+      <shelf name="mysteries" count="56"/>
+      <shelf name="paperback" count="55"/>
+      <shelf name="technology" count="53"/>
+      <shelf name="literature" count="53"/>
+      <shelf name="techno-thriller" count="52"/>
+      <shelf name="drama" count="51"/>
+      <shelf name="own-it" count="51"/>
+      <shelf name="thriller-suspense" count="51"/>
+      <shelf name="scifi" count="49"/>
+      <shelf name="american-literature" count="45"/>
+      <shelf name="fantasy" count="42"/>
+      <shelf name="audiobooks" count="41"/>
+      <shelf name="2005" count="41"/>
+      <shelf name="mystery-thrillers" count="41"/>
+      <shelf name="general" count="40"/>
+      <shelf name="romance" count="39"/>
+      <shelf name="modern" count="39"/>
+      <shelf name="other" count="38"/>
+      <shelf name="mystery-crime" count="37"/>
+      <shelf name="have" count="37"/>
+      <shelf name="action-thriller" count="37"/>
+      <shelf name="home" count="37"/>
+      <shelf name="audio" count="37"/>
+      <shelf name="دان-براون" count="36"/>
+      <shelf name="computer" count="36"/>
+      <shelf name="modern-fiction" count="36"/>
+      <shelf name="science" count="35"/>
+      <shelf name="home-library" count="35"/>
+      <shelf name="audio-books" count="35"/>
+      <shelf name="wish-list" count="34"/>
+      <shelf name="e-book" count="33"/>
+      <shelf name="2004" count="33"/>
+      <shelf name="shelfari-favorites" count="32"/>
+      <shelf name="stand-alone" count="31"/>
+      <shelf name="my-shelf" count="31"/>
+      <shelf name="security" count="31"/>
+      <shelf name="abandoned" count="30"/>
+      <shelf name="mistery" count="30"/>
+      <shelf name="popular-fiction" count="30"/>
+      <shelf name="bookshelf" count="29"/>
+      <shelf name="detective" count="29"/>
+      <shelf name="2006" count="29"/>
+      <shelf name="books-i-have" count="28"/>
+      <shelf name="read-fiction" count="28"/>
+      <shelf name="favorite" count="28"/>
+      <shelf name="historical-fiction" count="27"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>5369</id>
+<title>The Amber Room</title>
+<title_without_series>The Amber Room</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5369.The_Amber_Room]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329497506s/5369.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329497506m/5369.jpg]]></image_url>
+<num_pages>416</num_pages>
+<work>
+<id>2696461</id>
+</work>
+<isbn>034548343X</isbn>
+<isbn13></isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>18199</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3621</id>
+<name>Steve Berry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3621.Steve_Berry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14839</id>
+<title>Last Man Standing</title>
+<title_without_series>Last Man Standing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14839.Last_Man_Standing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>656</num_pages>
+<work>
+<id>3238533</id>
+</work>
+<isbn>0446611778</isbn>
+<isbn13>9780446611770</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>38141</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>992696</id>
+<title><![CDATA[Ruthless.com (Tom Clancy's Power Plays, #2)]]></title>
+<title_without_series>Ruthless.com</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/992696.Ruthless_com]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>353</num_pages>
+<work>
+<id>5054758</id>
+</work>
+<isbn>0425165701</isbn>
+<isbn13>9780425165706</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>2844</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11758</id>
+<name>Jerome Preisler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11758.Jerome_Preisler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>294046</id>
+<title><![CDATA[The Judas Strain (Sigma Force, #4)]]></title>
+<title_without_series>The Judas Strain</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/294046.The_Judas_Strain]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1367267369s/294046.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1367267369m/294046.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>868207</id>
+</work>
+<isbn>0060763892</isbn>
+<isbn13>9780060763893</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>23157</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>38809</id>
+<name>James Rollins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38809.James_Rollins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>865673</id>
+<title>The Apocalypse Watch</title>
+<title_without_series>The Apocalypse Watch</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/865673.The_Apocalypse_Watch]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>751</num_pages>
+<work>
+<id>1622846</id>
+</work>
+<isbn>0553569570</isbn>
+<isbn13>9780553569575</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>6320</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5293</id>
+<name>Robert Ludlum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5293.Robert_Ludlum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1072949</id>
+<title>The Righteous Men</title>
+<title_without_series>The Righteous Men</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1072949.The_Righteous_Men]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>568</num_pages>
+<work>
+<id>1059644</id>
+</work>
+<isbn>0007203306</isbn>
+<isbn13>9780007203307</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>5353</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>75626</id>
+<name>Sam Bourne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/75626.Sam_Bourne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10853886</id>
+<title><![CDATA[Scarecrow Returns (Shane Schofield, #4)]]></title>
+<title_without_series>Scarecrow Returns</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10853886-scarecrow-returns]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1420405962s/10853886.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1420405962m/10853886.jpg]]></image_url>
+<num_pages>389</num_pages>
+<work>
+<id>15768682</id>
+</work>
+<isbn>1416577599</isbn>
+<isbn13>9781416577591</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>9134</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>83714</id>
+<name>Matthew Reilly</name>
+<link><![CDATA[https://www.goodreads.com/author/show/83714.Matthew_Reilly]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>136640</id>
+<title>The Codex</title>
+<title_without_series>The Codex</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/136640.The_Codex]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316729332s/136640.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316729332m/136640.jpg]]></image_url>
+<num_pages>404</num_pages>
+<work>
+<id>1415837</id>
+</work>
+<isbn>076534629X</isbn>
+<isbn13>9780765346292</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>16130</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12577</id>
+<name>Douglas Preston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12577.Douglas_Preston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8458698</id>
+<title>Race the Pale Horse</title>
+<title_without_series>Race the Pale Horse</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8458698-race-the-pale-horse]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>13322877</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.43</average_rating>
+<ratings_count>199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>750838</id>
+<name>Dan  Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/750838.Dan_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>458822</id>
+<title>Lost City (NUMA Files, #5)</title>
+<title_without_series>Lost City</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/458822.Lost_City]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>6818199</id>
+</work>
+<isbn>0141017716</isbn>
+<isbn13>9780141017716</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>5604</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>18411</id>
+<name>Clive Cussler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18411.Clive_Cussler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>43998</id>
+<title>Dark Matter</title>
+<title_without_series>Dark Matter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/43998.Dark_Matter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>519</num_pages>
+<work>
+<id>5951641</id>
+</work>
+<isbn>0340822740</isbn>
+<isbn13>9780340822746</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>7163</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19696</id>
+<name>Greg Iles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19696.Greg_Iles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>377347</id>
+<title><![CDATA[Vector (Jack Stapleton & Laurie Montgomery, #4)]]></title>
+<title_without_series>Vector</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/377347.Vector]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>395</num_pages>
+<work>
+<id>299238</id>
+</work>
+<isbn>0425172996</isbn>
+<isbn13>9780425172995</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>7372</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>19697</id>
+<name>Robin Cook</name>
+<link><![CDATA[https://www.goodreads.com/author/show/19697.Robin_Cook]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>119389</id>
+<title>Windmills of the Gods</title>
+<title_without_series>Windmills of the Gods</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/119389.Windmills_of_the_Gods]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405239745s/119389.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405239745m/119389.jpg]]></image_url>
+<num_pages>419</num_pages>
+<work>
+<id>291433</id>
+</work>
+<isbn>0006174426</isbn>
+<isbn13>9780006174424</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>24658</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9068</id>
+<name>Sidney Sheldon</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9068.Sidney_Sheldon]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>62148</id>
+<title><![CDATA[Point of Impact (Tom Clancy's Net Force, #5)]]></title>
+<title_without_series>Point of Impact</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/62148.Point_of_Impact]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>60387</id>
+</work>
+<isbn>0425179230</isbn>
+<isbn13>9780425179239</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>2635</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>4</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>6262</id>
+<name>Steve Perry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6262.Steve_Perry]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

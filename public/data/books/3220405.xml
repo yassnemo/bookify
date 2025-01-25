@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>3220405</id>
+  <title><![CDATA[Ender in Exile (Ender's Saga, #1.2)]]></title>
+  <isbn><![CDATA[0765304961]]></isbn>
+  <isbn13><![CDATA[9780765304964]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B006CQQN98]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>At first, Ender believed that they would bring him back to Earth as soon as things quieted down. But things were quiet now, had been quiet for a year, and it was plain to him now that they would not bring him back at all, that he was much more useful as a name and a story than he would ever be as an inconvenient flesh-and-blood person.</i><br /><br />At the close of <i>Ender's Game</i>, Andrew Wiggin--called Ender by everyone--knows that he cannot live on Earth. He has become far more than just a boy who won a game: He is the Savior of Earth, a hero, a military genius whose allegiance is sought by every nation of the newly shattered Earth Hegemony.<br /><br />He is offered the choice of living under the Hegemon's control, a pawn in his brother Peter's political games. Or he can join the colony ships and go out to settle one of the new worlds won in the war.<br /><br />The story of those years on the colony worlds has never been told...until now.<br /><br /><i>The voyage was long. By the end of it, Val had finished the first volume of her history of the bugger wars and transmitted it by ansible, under Demosthenes' name, back to Earth, and Ender had won something better than the adulation of the passengers. They knew him now, and he had won their love and their respect.</i><br /><br />Ender was twelve when he chose to leave his home world and begin the long relativistic journey out to the colonies. With him went his sister, Valentine, and the core of the artificial intelligence that would become Jane. He wrote The Hive Queen and The Hegemon, and his sister wrote The Speaker for the Dead.<br /><br />He served as governor of his first colony world, but now Ender is on the move, looking for a planet where the hive queens might be reestablished.<br /><br />What he finds in the Ganges colony is more than he bargained for--a resentful governor who caused a devastating war on Earth and a brilliant young colonist who is out to destroy him, starting with his reputation and ending, perhaps, with his life.]]></description>
+  <work>
+  <id type="integer">3465687</id>
+  <books_count type="integer">31</books_count>
+  <best_book_id type="integer">3220405</best_book_id>
+  <reviews_count type="integer">66849</reviews_count>
+  <ratings_sum type="integer">149399</ratings_sum>
+  <ratings_count type="integer">38435</ratings_count>
+  <text_reviews_count type="integer">1890</text_reviews_count>
+  <original_publication_year type="integer">2008</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Ender in Exile (The Ender Quintet, #2)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:10654|4:15493|3:10019|2:1831|1:438|total:38435</rating_dist>
+  <desc_user_id type="integer">9840924</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.89</average_rating>
+  <num_pages><![CDATA[369]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[29404]]></ratings_count>
+  <text_reviews_count><![CDATA[1617]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3220405-ender-in-exile]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3220405-ender-in-exile]]></link>
+  <authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>2152183</ratings_count>
+<text_reviews_count>92077</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/3220405-ender-in-exile">Ender in Exile Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0765304961&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/3220405-ender-in-exile?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="6989"/>
+      <shelf name="science-fiction" count="282"/>
+      <shelf name="sci-fi" count="264"/>
+      <shelf name="currently-reading" count="150"/>
+      <shelf name="fiction" count="116"/>
+      <shelf name="default" count="85"/>
+      <shelf name="owned" count="73"/>
+      <shelf name="books-i-own" count="64"/>
+      <shelf name="scifi" count="57"/>
+      <shelf name="library" count="55"/>
+      <shelf name="favorites" count="45"/>
+      <shelf name="fantasy" count="41"/>
+      <shelf name="space" count="41"/>
+      <shelf name="young-adult" count="38"/>
+      <shelf name="series" count="37"/>
+      <shelf name="ebooks" count="35"/>
+      <shelf name="orson-scott-card" count="33"/>
+      <shelf name="audio" count="33"/>
+      <shelf name="science" count="27"/>
+      <shelf name="ender-series" count="25"/>
+      <shelf name="my-books" count="23"/>
+      <shelf name="audible" count="21"/>
+      <shelf name="ya" count="20"/>
+      <shelf name="audio-book" count="20"/>
+      <shelf name="my-library" count="19"/>
+      <shelf name="adult" count="19"/>
+      <shelf name="audiobook" count="18"/>
+      <shelf name="sci-fi-fantasy" count="17"/>
+      <shelf name="books" count="17"/>
+      <shelf name="ender-s-saga" count="17"/>
+      <shelf name="war" count="16"/>
+      <shelf name="enders-game" count="16"/>
+      <shelf name="sci-fi-and-fantasy" count="16"/>
+      <shelf name="unread" count="15"/>
+      <shelf name="ender" count="14"/>
+      <shelf name="to-buy" count="14"/>
+      <shelf name="sf" count="14"/>
+      <shelf name="bookshelf" count="14"/>
+      <shelf name="own-it" count="14"/>
+      <shelf name="owned-books" count="13"/>
+      <shelf name="calibre" count="13"/>
+      <shelf name="audio-books" count="13"/>
+      <shelf name="sf-fantasy" count="13"/>
+      <shelf name="shelfari-wishlist" count="12"/>
+      <shelf name="next-in-series" count="12"/>
+      <shelf name="enders-saga" count="12"/>
+      <shelf name="i-own" count="12"/>
+      <shelf name="adventure" count="11"/>
+      <shelf name="novels" count="11"/>
+      <shelf name="ender-s-game" count="11"/>
+      <shelf name="english" count="11"/>
+      <shelf name="card-orson-scott" count="11"/>
+      <shelf name="read-in-2009" count="11"/>
+      <shelf name="audiobooks" count="10"/>
+      <shelf name="kindle" count="10"/>
+      <shelf name="read-in-2014" count="10"/>
+      <shelf name="ender-quintet" count="10"/>
+      <shelf name="space-travel" count="10"/>
+      <shelf name="general" count="10"/>
+      <shelf name="american" count="10"/>
+      <shelf name="read-in-2010" count="10"/>
+      <shelf name="home-library" count="10"/>
+      <shelf name="aliens" count="9"/>
+      <shelf name="space-opera" count="9"/>
+      <shelf name="the-ender-quintet" count="9"/>
+      <shelf name="wiggin" count="9"/>
+      <shelf name="fictitious" count="9"/>
+      <shelf name="character" count="9"/>
+      <shelf name="hardcover" count="9"/>
+      <shelf name="children" count="9"/>
+      <shelf name="want" count="9"/>
+      <shelf name="sff" count="9"/>
+      <shelf name="to-read-fiction" count="9"/>
+      <shelf name="dystopian" count="8"/>
+      <shelf name="read-in-2013" count="8"/>
+      <shelf name="e-books" count="8"/>
+      <shelf name="unfinished-series" count="8"/>
+      <shelf name="need" count="8"/>
+      <shelf name="read-2009" count="8"/>
+      <shelf name="read-in-2016" count="7"/>
+      <shelf name="dystopia" count="7"/>
+      <shelf name="action" count="7"/>
+      <shelf name="fun" count="7"/>
+      <shelf name="books-to-buy" count="7"/>
+      <shelf name="read-fiction" count="7"/>
+      <shelf name="read-in-2012" count="7"/>
+      <shelf name="ciencia-ficcion" count="7"/>
+      <shelf name="gifted" count="7"/>
+      <shelf name="colonies" count="7"/>
+      <shelf name="flight" count="7"/>
+      <shelf name="telepathy" count="7"/>
+      <shelf name="sisters" count="7"/>
+      <shelf name="brothers" count="7"/>
+      <shelf name="and" count="7"/>
+      <shelf name="series-ender" count="7"/>
+      <shelf name="enderverse" count="6"/>
+      <shelf name="scifi-fantasy" count="6"/>
+      <shelf name="read-2016" count="6"/>
+      <shelf name="wish-list" count="6"/>
+      <shelf name="need-to-buy" count="6"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>288280</id>
+<user_position>11</user_position>
+<series>
+<id>65565</id>
+<title>
+<![CDATA[
+    Enderverse:  Publication Order
+]]>
+</title>
+<description>
+<![CDATA[
+    This series listing gives the Ender books in publication order.
+    
+    For the books in chronological order, see <a href="http://www.goodreads.com/series/43963-ender-s-saga">The Ender Quintet</a> (which will also give more complete information about the series) and <a href="http://www.goodreads.com/series/40409-shadow">The Shadow Series</a>.
+    
+    For other short stories of the Ender's universe, see <a href="https://www.goodreads.com/series/116779-ender-s-saga-short-stories">Ender's Saga short stories</a>
+    
+    Note: Omnibuses/box sets are not included in this listing.
+]]>
+</description>
+<note>
+<![CDATA[
+    The Ender Quintet is the official series title. I updated the title accordingly. Ender's Saga is a popular term but is not accurate.  
+    
+    The Shadow Series is official where Shadow Saga is not... someone else had mentioned that "Series" should not be in series title due to goodreads rules, but the librarian manual does <b>not</b> state this.  However, with this in mind, the series most commonly recognized across the web is "Ender's Shadow" series. So it was updated accordingly.
+]]>
+</note>
+<series_works_count>17</series_works_count>
+<primary_work_count>17</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>578762</id>
+<user_position>9</user_position>
+<series>
+<id>119216</id>
+<title>
+<![CDATA[
+    The Enderverse
+]]>
+</title>
+<description>
+<![CDATA[
+    Chronological Order
+    
+    This contains all the books in the universe of Ender's Game, to include <a href="https://www.goodreads.com/series/43963-the-ender-quintet/">The Ender Quintet</a>, <ahref="https://www.goodreads.com/series/40409-ender-s-shadow">The Shadow Saga</a>, and <a href="https://www.goodreads.com/series/72732-the-first-formic-war">The First Formic War</a>.
+    
+    For the best order to read the books in, follow this list Starting at First Meetings through Shadows Alive, then read the prequel trilogy.
+]]>
+</description>
+<note>
+<![CDATA[
+    Chronological Order)
+]]>
+</note>
+<series_works_count>17</series_works_count>
+<primary_work_count>14</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>765660</id>
+<user_position>1.2</user_position>
+<series>
+<id>43963</id>
+<title>
+<![CDATA[
+    The Ender Quintet
+]]>
+</title>
+<description>
+<![CDATA[
+    The Ender's Game series (sometimes called Enderverse or the Ender series) is a series of science fiction books by Orson Scott Card. The series started with the novelette "Ender's Game", which was later expanded into the novel Ender's Game. It currently consists of eleven novels and ten short stories. The first two novels in the series, Ender's Game and Speaker for the Dead, each won both the Hugo and Nebula Awards, and were among the most influential science fiction novels of the 1980s.
+    
+    Also See <a href="https://www.goodreads.com/series/40409-ender-s-shadow">Ender's Shadow</a> parallel series and <a href="https://www.goodreads.com/series/72732-the-first-formic-war">The First Formic War</a> prequel series.
+    
+    For the entire Ender's Universe in Chronological Order, see <a href="https://www.goodreads.com/series/119216-the-enderverse-chronological-order">The Enderverse (Chronological Order)</a>.
+    
+    First Meetings in Ender's Universe is a collection of 3 Short Stories, and the original Ender's Game Novella.  The two short stories titles Polish Boy and Teacher's Pest are prequels to the entire Ender's Saga. The short story Investment Counselor takes place between Ender in Exile and Speaker for the Dead.
+    
+    A War of Gifts is a short story that takes place during Ender's Game, sometime during the middle of the book.
+    
+    Ender in Exile replaces the last chapter of Ender's Game and expands it into its own novel. It also occurs consecutively with <a href=http://www.goodreads.com/series/40409-shadow>The Shadow Saga</a>, a side-series that occurs before Speaker for the Dead.
+    
+    For the series in publication order, see: <a href="http://www.goodreads.com/series/65565-ender-s-saga-publication-order">Ender's Saga (Publication Order)</a>.
+    
+    For other short stories of the Ender's universe, see <a href="https://www.goodreads.com/series/116779-ender-s-saga-short-stories">Ender's Saga short stories</a>.
+]]>
+</description>
+<note>
+<![CDATA[
+    http://en.wikipedia.org/wiki/Ender%27s_Game_series
+    
+    The Ender Quintet is the actual name of the series, popularly known as "Ender's Saga".
+    
+    
+    
+    
+    Librarians Note: First Meetings in Ender's Universe is a collection of 3 Short Stories, and the original Ender's Game Novella.  The two short stories titles Polish Boy and Teacher's Pest are prequels to the entire Ender's Saga. The short story Investment Counselor takes place between Ender in Exile and Speaker for the Dead.
+    
+    A War of Gifts is a short story that takes place during Ender's Game, sometime during the middle of the book.
+    
+    Ender in Exile replaces the last chapter of Ender's Game and expands it into its own novel. It also occurs consecutively with <a href=http://www.goodreads.com/series/40409-shadow>The Shadow Saga</a>, a side-series that occurs before Speaker for the Dead.
+    
+    Shadows in Flight takes place during the books Speaker for the Dead, Xenocide, and Children of the Mind.
+    
+    Shadows Alive, the last, and as-of-yet unwritten, book in the Shadow Saga is a book that occurs after the conclusion of Children of the Mind
+    
+    For the series in publication order, see: <a href="http://www.goodreads.com/series/65565-ender-s-saga-publication-order">Ender's Saga (Publication Order)</a>.
+    
+    For other short stories of the Ender's universe, see <a href="https://www.goodreads.com/series/116779-ender-s-saga-short-stories">Ender's Saga short stories</a>.
+]]>
+</note>
+<series_works_count>7</series_works_count>
+<primary_work_count>4</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>7284642</id>
+<title><![CDATA[Ender's Shadow: Command School ]]></title>
+<title_without_series><![CDATA[Ender's Shadow: Command School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7284642-ender-s-shadow]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>8509343</id>
+</work>
+<isbn>0785135987</isbn>
+<isbn13>9780785135982</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>9199</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9018</id>
+<name>Mike Carey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9018.Mike_Carey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7025086</id>
+<title><![CDATA[Ender's Game, Volume 2: Command School]]></title>
+<title_without_series><![CDATA[Ender's Game, Volume 2: Command School]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7025086-ender-s-game-volume-2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>7272274</id>
+</work>
+<isbn>0785135820</isbn>
+<isbn13>9780785135821</isbn13>
+<average_rating>4.60</average_rating>
+<ratings_count>11663</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>38491</id>
+<name>Christopher Yost</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38491.Christopher_Yost]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2316941</id>
+<title><![CDATA[Orson Scott Card's InterGalactic Medicine Show: An Anthology (v. 1)]]></title>
+<title_without_series><![CDATA[Orson Scott Card's InterGalactic Medicine Show: An Anthology]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2316941.Orson_Scott_Card_s_InterGalactic_Medicine_Show]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316130004s/2316941.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316130004m/2316941.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2323458</id>
+</work>
+<isbn>0765320002</isbn>
+<isbn13>9780765320001</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1678</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2285270</id>
+<name>Edmund R. Schubert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2285270.Edmund_R_Schubert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7734468</id>
+<title>Ender&apos;s Game: War of Gifts</title>
+<title_without_series>Ender&apos;s Game: War of Gifts</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7734468-ender-s-game]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>10523104</id>
+</work>
+<isbn>0785135901</isbn>
+<isbn13>9780785135906</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>652</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>236462</id>
+<name>Jake Black</name>
+<link><![CDATA[https://www.goodreads.com/author/show/236462.Jake_Black]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76688</id>
+<title>Robots and Empire (Robot #4)</title>
+<title_without_series>Robots and Empire</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76688.Robots_and_Empire]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335782304s/76688.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335782304m/76688.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>1932588</id>
+</work>
+<isbn>0586062009</isbn>
+<isbn13>9780586062005</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>20083</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16667</id>
+<name>Isaac Asimov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16667.Isaac_Asimov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>42434</id>
+<title><![CDATA[Sandworms of Dune (Dune Chronicles #8)]]></title>
+<title_without_series>Sandworms of Dune</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/42434.Sandworms_of_Dune]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>494</num_pages>
+<work>
+<id>41917</id>
+</work>
+<isbn>076531293X</isbn>
+<isbn13>9780765312938</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>8401</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>56</id>
+<name>Brian Herbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/56.Brian_Herbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13167780</id>
+<title><![CDATA[Fate of Worlds: Return from the Ringworld (Ringworld, #5)]]></title>
+<title_without_series><![CDATA[Fate of Worlds: Return from the Ringworld]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13167780-fate-of-worlds]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>18347036</id>
+</work>
+<isbn>0765331004</isbn>
+<isbn13>9780765331007</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1364</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>12534</id>
+<name>Larry Niven</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12534.Larry_Niven]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>77740</id>
+<title><![CDATA[In Enemy Hands (Honor Harrington, #7)]]></title>
+<title_without_series>In Enemy Hands</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/77740.In_Enemy_Hands]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1321561738s/77740.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1321561738m/77740.jpg]]></image_url>
+<num_pages>530</num_pages>
+<work>
+<id>2684782</id>
+</work>
+<isbn>0671577700</isbn>
+<isbn13>9780671577704</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>12333</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>10517</id>
+<name>David Weber</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10517.David_Weber]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>287090</id>
+<title>Robota</title>
+<title_without_series>Robota</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/287090.Robota]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>278527</id>
+</work>
+<isbn>0811840417</isbn>
+<isbn13>9780811840415</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>456</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>166486</id>
+<name>Doug Chiang</name>
+<link><![CDATA[https://www.goodreads.com/author/show/166486.Doug_Chiang]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3076046</id>
+<title><![CDATA[The Devil's Eye (Alex Benedict, #4)]]></title>
+<title_without_series>The Devil&apos;s Eye</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3076046-the-devil-s-eye]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3107075</id>
+</work>
+<isbn>0441016359</isbn>
+<isbn13>9780441016358</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>2729</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>73812</id>
+<name>Jack McDevitt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73812.Jack_McDevitt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>88071</id>
+<title><![CDATA[The Last Colony (Old Man's War #3)]]></title>
+<title_without_series>The Last Colony</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/88071.The_Last_Colony]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>18279847</id>
+</work>
+<isbn>0765316978</isbn>
+<isbn13>9780765316974</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>35995</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4763</id>
+<name>John Scalzi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4763.John_Scalzi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>89188</id>
+<title>Galactic North</title>
+<title_without_series>Galactic North</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/89188.Galactic_North]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1113882</id>
+</work>
+<isbn>0441015131</isbn>
+<isbn13>9780441015139</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>5451</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>51204</id>
+<name>Alastair Reynolds</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51204.Alastair_Reynolds]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>768916</id>
+<title>Mercury (The Grand Tour, #16)</title>
+<title_without_series>Mercury</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/768916.Mercury]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317791365s/768916.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317791365m/768916.jpg]]></image_url>
+<num_pages>334</num_pages>
+<work>
+<id>818780</id>
+</work>
+<isbn>0765343142</isbn>
+<isbn13>9780765343147</isbn13>
+<average_rating>3.68</average_rating>
+<ratings_count>867</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>3</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>12407</id>
+<name>Ben Bova</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12407.Ben_Bova]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>76890</id>
+<title><![CDATA[The Long Night of Centauri Prime (Babylon 5: Legions of Fire, #1)]]></title>
+<title_without_series><![CDATA[The Long Night of Centauri Prime]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/76890.The_Long_Night_of_Centauri_Prime]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1339583137s/76890.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1339583137m/76890.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>74356</id>
+</work>
+<isbn>0345427181</isbn>
+<isbn13>9780345427182</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>643</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>13681</id>
+<name>Peter David</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13681.Peter_David]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>61906</id>
+<title><![CDATA[The Warrior's Apprentice (Vorkosigan Saga, #2)]]></title>
+<title_without_series>The Warrior&apos;s Apprentice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/61906.The_Warrior_s_Apprentice]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>372</num_pages>
+<work>
+<id>2792</id>
+</work>
+<isbn>0743468406</isbn>
+<isbn13>9780743468404</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>17974</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>16094</id>
+<name>Lois McMaster Bujold</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16094.Lois_McMaster_Bujold]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>464609</id>
+<title><![CDATA[Anvil of Stars (Forge of God, #2)]]></title>
+<title_without_series>Anvil of Stars</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/464609.Anvil_of_Stars]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>471</num_pages>
+<work>
+<id>4283</id>
+</work>
+<isbn>0446364037</isbn>
+<isbn13>9780446364034</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>4942</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16024</id>
+<name>Greg Bear</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16024.Greg_Bear]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

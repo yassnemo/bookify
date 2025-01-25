@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>209631</id>
+  <title>Cinderella</title>
+  <isbn><![CDATA[0735814864]]></isbn>
+  <isbn13><![CDATA[9780735814868]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1393792231m/209631.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1393792231s/209631.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>NorthSouth Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA["Illustrations featuring mix of styles in both clothing and architecture set the story in an imaginary yet vaguely familiar landscape, lit by a dreamlike haze. The smoothly told story contains the familiar details and a happy ending in which Cinderella forgives her stepfamily." - The Horn Book Club -<br /><br />"This satisfying tale never grows old. Koopman's illustrations are jewel-toned and Cinderella herself is attractive as a person and figure." - Yellow Brick Road -]]></description>
+  <work>
+  <id type="integer">617184</id>
+  <books_count type="integer">5</books_count>
+  <best_book_id type="integer">209631</best_book_id>
+  <reviews_count type="integer">12676</reviews_count>
+  <ratings_sum type="integer">41557</ratings_sum>
+  <ratings_count type="integer">9843</ratings_count>
+  <text_reviews_count type="integer">169</text_reviews_count>
+  <original_publication_year type="integer">1812</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Cinderella</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5088|4:2428|3:1861|2:356|1:110|total:9843</rating_dist>
+  <desc_user_id type="integer">23069756</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.22</average_rating>
+  <num_pages><![CDATA[32]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[9837]]></ratings_count>
+  <text_reviews_count><![CDATA[169]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/209631.Cinderella]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/209631.Cinderella]]></link>
+  <authors>
+<author>
+<id>122724</id>
+<name>Loek Koopmans</name>
+<role>Illustrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/122724.Loek_Koopmans]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>9959</ratings_count>
+<text_reviews_count>179</text_reviews_count>
+</author>
+<author>
+<id>35760</id>
+<name>Charles Perrault</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267516341p5/35760.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267516341p2/35760.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/35760.Charles_Perrault]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>43747</ratings_count>
+<text_reviews_count>1744</text_reviews_count>
+</author>
+<author>
+<id>25355</id>
+<name>Anthea Bell</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338742712p5/25355.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338742712p2/25355.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25355.Anthea_Bell]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>631970</ratings_count>
+<text_reviews_count>32979</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/209631.Cinderella">Cinderella Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0735814864&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/209631.Cinderella?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="388"/>
+      <shelf name="currently-reading" count="63"/>
+      <shelf name="classics" count="50"/>
+      <shelf name="fairy-tales" count="35"/>
+      <shelf name="childrens" count="35"/>
+      <shelf name="picture-books" count="35"/>
+      <shelf name="children" count="31"/>
+      <shelf name="fantasy" count="30"/>
+      <shelf name="fiction" count="21"/>
+      <shelf name="fairy-tale" count="20"/>
+      <shelf name="cinderella" count="18"/>
+      <shelf name="children-s-books" count="17"/>
+      <shelf name="children-s" count="16"/>
+      <shelf name="childhood" count="13"/>
+      <shelf name="classic" count="13"/>
+      <shelf name="favorites" count="13"/>
+      <shelf name="picture-book" count="12"/>
+      <shelf name="traditional-literature" count="12"/>
+      <shelf name="romance" count="12"/>
+      <shelf name="caldecott" count="11"/>
+      <shelf name="fairytales" count="10"/>
+      <shelf name="traditional-lit" count="8"/>
+      <shelf name="traditional" count="8"/>
+      <shelf name="fairytale" count="8"/>
+      <shelf name="children-books" count="8"/>
+      <shelf name="short-stories" count="6"/>
+      <shelf name="childhood-books" count="6"/>
+      <shelf name="french" count="6"/>
+      <shelf name="folklore" count="6"/>
+      <shelf name="children-s-literature" count="6"/>
+      <shelf name="kids" count="5"/>
+      <shelf name="children-s-lit" count="5"/>
+      <shelf name="caldecott-winners" count="5"/>
+      <shelf name="magic" count="4"/>
+      <shelf name="kids-books" count="4"/>
+      <shelf name="disney" count="4"/>
+      <shelf name="childrens-books" count="4"/>
+      <shelf name="january" count="4"/>
+      <shelf name="traditional-tales" count="4"/>
+      <shelf name="books-i-own" count="3"/>
+      <shelf name="folktales" count="3"/>
+      <shelf name="school" count="3"/>
+      <shelf name="edrd-314" count="3"/>
+      <shelf name="classic-fairy-tales" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="picturebooks" count="3"/>
+      <shelf name="nerdcott" count="3"/>
+      <shelf name="childrens-picture-books" count="3"/>
+      <shelf name="caldecott-books" count="3"/>
+      <shelf name="caldecott-award" count="3"/>
+      <shelf name="4-stars" count="3"/>
+      <shelf name="my-books" count="3"/>
+      <shelf name="ch-06-traditional" count="3"/>
+      <shelf name="eng-261" count="3"/>
+      <shelf name="childhood-reads" count="3"/>
+      <shelf name="folk" count="3"/>
+      <shelf name="movies" count="3"/>
+      <shelf name="classic-fairytales" count="3"/>
+      <shelf name="read-2012" count="2"/>
+      <shelf name="read-in-2015" count="2"/>
+      <shelf name="princess" count="2"/>
+      <shelf name="literature" count="2"/>
+      <shelf name="e-books" count="2"/>
+      <shelf name="young-adult" count="2"/>
+      <shelf name="read-in-2013" count="2"/>
+      <shelf name="pre-2000" count="2"/>
+      <shelf name="novels" count="2"/>
+      <shelf name="children-ya" count="2"/>
+      <shelf name="children-s-book" count="2"/>
+      <shelf name="4-star" count="2"/>
+      <shelf name="01-folklore" count="2"/>
+      <shelf name="03-classic-fairy" count="2"/>
+      <shelf name="youth-fiction" count="2"/>
+      <shelf name="kindle" count="2"/>
+      <shelf name="default" count="2"/>
+      <shelf name="cinderella-stories" count="2"/>
+      <shelf name="childrens-lit" count="2"/>
+      <shelf name="caldecott-winner" count="2"/>
+      <shelf name="caldecott-medal" count="2"/>
+      <shelf name="books" count="2"/>
+      <shelf name="t-l-307" count="2"/>
+      <shelf name="03-classic-fairy-tales" count="2"/>
+      <shelf name="princess-books" count="2"/>
+      <shelf name="for-school" count="2"/>
+      <shelf name="children-s-picture" count="2"/>
+      <shelf name="children-young-adults" count="2"/>
+      <shelf name="fairy-tails" count="2"/>
+      <shelf name="classic-books" count="2"/>
+      <shelf name="children-s-stories" count="2"/>
+      <shelf name="favorite-fairy-tales" count="2"/>
+      <shelf name="top-shelf" count="2"/>
+      <shelf name="age-picture-books" count="2"/>
+      <shelf name="books-that-became-movies" count="2"/>
+      <shelf name="fairy-tales-and-fables" count="2"/>
+      <shelf name="folktale-fairytale" count="2"/>
+      <shelf name="for-class" count="2"/>
+      <shelf name="to-read-fairy-tales" count="1"/>
+      <shelf name="tjed-family-classics" count="1"/>
+      <shelf name="thomas-jefferson-education-lists" count="1"/>
+      <shelf name="re-read" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>209638</id>
+<title>Cinderella</title>
+<title_without_series>Cinderella</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/209638.Cinderella]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>45983652</id>
+</work>
+<isbn>0316779652</isbn>
+<isbn13>9780316779654</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>4161</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>68042</id>
+<name>Ruth Sanderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/68042.Ruth_Sanderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>815158</id>
+<title>Rapunzel</title>
+<title_without_series>Rapunzel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/815158.Rapunzel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>2028676</id>
+</work>
+<isbn>0525456074</isbn>
+<isbn13>9780525456070</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>14378</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>64039</id>
+<name>Paul O. Zelinsky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/64039.Paul_O_Zelinsky]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>292701</id>
+<title>Hansel and Gretel</title>
+<title_without_series>Hansel and Gretel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/292701.Hansel_and_Gretel]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1288567</id>
+</work>
+<isbn>0888992122</isbn>
+<isbn13>9780888992123</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>8111</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>3</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>119700</id>
+<name>Ian Wallace</name>
+<link><![CDATA[https://www.goodreads.com/author/show/119700.Ian_Wallace]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6933961</id>
+<title><![CDATA[Sleeping Beauty (Classics Illustrated)]]></title>
+<title_without_series>Sleeping Beauty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6933961-sleeping-beauty]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>18064876</id>
+</work>
+<isbn>1906814082</isbn>
+<isbn13>9781906814083</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>770</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35760</id>
+<name>Charles Perrault</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35760.Charles_Perrault]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>375990</id>
+<title>The Sleeping Beauty</title>
+<title_without_series>The Sleeping Beauty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/375990.The_Sleeping_Beauty]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>2565303</id>
+</work>
+<isbn>0316387029</isbn>
+<isbn13>9780316387026</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>7613</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>6603</id>
+<name>Trina Schart Hyman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6603.Trina_Schart_Hyman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>670717</id>
+<title>Cinderella</title>
+<title_without_series>Cinderella</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/670717.Cinderella]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330364542s/670717.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330364542m/670717.jpg]]></image_url>
+<num_pages>29</num_pages>
+<work>
+<id>656750</id>
+</work>
+<isbn>1587170051</isbn>
+<isbn13>9781587170058</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>5594</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>340562</id>
+<name>Kinuko Y. Craft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/340562.Kinuko_Y_Craft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>209623</id>
+<title>The Persian Cinderella</title>
+<title_without_series>The Persian Cinderella</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/209623.The_Persian_Cinderella]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1356486</id>
+</work>
+<isbn>0064438538</isbn>
+<isbn13>9780064438537</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>782</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>42026</id>
+<name>Shirley Climo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/42026.Shirley_Climo]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2317963</id>
+<title><![CDATA[Snow White and the Seven Dwarfs]]></title>
+<title_without_series><![CDATA[Snow White and the Seven Dwarfs]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2317963.Snow_White_and_the_Seven_Dwarfs]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1284005333s/2317963.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1284005333m/2317963.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>2324483</id>
+</work>
+<isbn>0571064965</isbn>
+<isbn13>9780571064960</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>391</ratings_count>
+<publication_year>1938</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5051196</id>
+<name>Wanda Gág</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5051196.Wanda_G_g]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14116</id>
+<title>Beauty and the Beast</title>
+<title_without_series>Beauty and the Beast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14116.Beauty_and_the_Beast]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>16199</id>
+</work>
+<isbn>1587171481</isbn>
+<isbn13>9781587171482</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>5465</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>4343</id>
+<name>Marianna Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4343.Marianna_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>382818</id>
+<title>The Wild Swans</title>
+<title_without_series>The Wild Swans</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/382818.The_Wild_Swans]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12556</id>
+</work>
+<isbn>1841481181</isbn>
+<isbn13>9781841481180</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>2611</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6378</id>
+<name>Hans Christian Andersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6378.Hans_Christian_Andersen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>196958</id>
+<title>Beauty and the Beast</title>
+<title_without_series>Beauty and the Beast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/196958.Beauty_and_the_Beast]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1267628893s/196958.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1267628893m/196958.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>190504</id>
+</work>
+<isbn>0899194974</isbn>
+<isbn13>9780899194974</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>3639</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>16325</id>
+<name>Jan Brett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16325.Jan_Brett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3573569</id>
+<title>The Twelve Dancing Princesses</title>
+<title_without_series>The Twelve Dancing Princesses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3573569-the-twelve-dancing-princesses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>48160742</id>
+</work>
+<isbn>1558582169</isbn>
+<isbn13>9781558582163</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>142</ratings_count>
+<publication_year>1997</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>501536</id>
+<name>Dorothée Duntze</name>
+<link><![CDATA[https://www.goodreads.com/author/show/501536.Doroth_e_Duntze]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>730596</id>
+<title>Snow White</title>
+<title_without_series>Snow White</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/730596.Snow_White]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1313866835s/730596.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1313866835m/730596.jpg]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>39902273</id>
+</work>
+<isbn>0316354503</isbn>
+<isbn13>9780316354509</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>9399</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>11</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2938140</id>
+<name>Jacob Grimm</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2938140.Jacob_Grimm]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>14117</id>
+<title>Beauty and the Beast</title>
+<title_without_series>Beauty and the Beast</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/14117.Beauty_and_the_Beast]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320468795s/14117.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320468795m/14117.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>16200</id>
+</work>
+<isbn>0763631604</isbn>
+<isbn13>9780763631604</isbn13>
+<average_rating>4.36</average_rating>
+<ratings_count>3291</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>8763</id>
+<name>Max Eilenberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8763.Max_Eilenberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>857556</id>
+<title><![CDATA[Goldilocks and the Three Bears]]></title>
+<title_without_series><![CDATA[Goldilocks and the Three Bears]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/857556.Goldilocks_and_the_Three_Bears]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1362346288s/857556.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1362346288m/857556.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3335106</id>
+</work>
+<isbn>0803705425</isbn>
+<isbn13>9780803705425</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>8655</ratings_count>
+<publication_year>1988</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>27881</id>
+<name>James  Marshall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27881.James_Marshall]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>386272</id>
+<title>The Sleeping Beauty</title>
+<title_without_series>The Sleeping Beauty</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/386272.The_Sleeping_Beauty]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1414130304s/386272.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1414130304m/386272.jpg]]></image_url>
+<num_pages>42</num_pages>
+<work>
+<id>375948</id>
+</work>
+<isbn>0027653404</isbn>
+<isbn13>9780027653403</isbn13>
+<average_rating>4.29</average_rating>
+<ratings_count>1931</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3049228</id>
+<title>Hansel and Gretel</title>
+<title_without_series>Hansel and Gretel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3049228-hansel-and-gretel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360567122s/3049228.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360567122m/3049228.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>3080052</id>
+</work>
+<isbn>1423111869</isbn>
+<isbn13>9781423111863</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>2238</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>5411</id>
+<name>Cynthia Rylant</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5411.Cynthia_Rylant]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>137075</id>
+<title><![CDATA[The Frog Prince (We Both Read - Level 1-2)]]></title>
+<title_without_series>The Frog Prince</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/137075.The_Frog_Prince]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1409219</id>
+</work>
+<isbn>1891327291</isbn>
+<isbn13>9781891327292</isbn13>
+<average_rating>4.00</average_rating>
+<ratings_count>2221</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128445</id>
+<name>Sindy McKay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128445.Sindy_McKay]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

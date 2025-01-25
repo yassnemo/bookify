@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>53413</id>
+  <title>Hopscotch</title>
+  <isbn><![CDATA[0394752848]]></isbn>
+  <isbn13><![CDATA[9780394752846]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1367728486m/53413.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1367728486s/53413.jpg</small_image_url>
+  <publication_year>1987</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>12</publication_day>
+  <publisher>Pantheon</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Horacio Oliveira is an Argentinian writer who lives in Paris with his mistress, La Maga, surrounded by a loose-knit circle of bohemian friends who call themselves "the Club." A child's death and La Maga's disappearance put an end to his life of empty pleasures and intellectual acrobatics, and prompt Oliveira to return to Buenos Aires, where he works by turns as a salesman, a keeper of a circus cat which can truly count, and an attendant in an insane asylum. Hopscotch is the dazzling, freewheeling account of Oliveira's astonishing adventures.<br /><br />The book is highly influenced by Henry Miller’s reckless and relentless search for truth in post-decadent Paris and Daisetz Teitaro Suzuki’s modal teachings on Zen Buddhism.<br /><br />Cortázar's employment of interior monologue, punning, slang, and his use of different languages is reminiscent of Modernist writers like Joyce, although his main influences were Surrealism and the French New Novel, as well as the "riffing" aesthetic of jazz and New Wave Cinema.<br /><br />In 1966, Gregory Rabassa won the first National Book Award to recognize the work of a translator, for his English-language edition of <i>Hopscotch</i>. Julio Cortazar was so pleased with Rabassa's translation of <i>Hopscotch</i> that he recommended the translator to Gabriel García Márquez when García Márquez was looking for someone to translate his novel <i>One Hundred Years of Solitude</i> into English. "Rabassa's <i>One Hundred Years of Solitude</i> improved the original," according to García Márquez.]]></description>
+  <work>
+  <id type="integer">1794732</id>
+  <books_count type="integer">191</books_count>
+  <best_book_id type="integer">53413</best_book_id>
+  <reviews_count type="integer">55707</reviews_count>
+  <ratings_sum type="integer">88343</ratings_sum>
+  <ratings_count type="integer">20780</ratings_count>
+  <text_reviews_count type="integer">1340</text_reviews_count>
+  <original_publication_year type="integer">1963</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Rayuela</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:11065|4:5708|3:2626|2:927|1:454|total:20780</rating_dist>
+  <desc_user_id type="integer">25977316</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.25</average_rating>
+  <num_pages><![CDATA[564]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10320]]></ratings_count>
+  <text_reviews_count><![CDATA[596]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/53413.Hopscotch]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/53413.Hopscotch]]></link>
+  <authors>
+<author>
+<id>25824</id>
+<name>Julio Cortázar</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496948373p5/25824.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496948373p2/25824.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25824.Julio_Cort_zar]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>89801</ratings_count>
+<text_reviews_count>4671</text_reviews_count>
+</author>
+<author>
+<id>50060</id>
+<name>Gregory Rabassa</name>
+<role>Translator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1464035315p5/50060.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1464035315p2/50060.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/50060.Gregory_Rabassa]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>625403</ratings_count>
+<text_reviews_count>21680</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/53413.Hopscotch">Hopscotch Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0394752848&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/53413.Hopscotch?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="28458"/>
+      <shelf name="currently-reading" count="2966"/>
+      <shelf name="favorites" count="544"/>
+      <shelf name="fiction" count="416"/>
+      <shelf name="classics" count="157"/>
+      <shelf name="owned" count="145"/>
+      <shelf name="argentina" count="139"/>
+      <shelf name="latin-america" count="104"/>
+      <shelf name="latin-american" count="91"/>
+      <shelf name="literature" count="85"/>
+      <shelf name="spanish" count="79"/>
+      <shelf name="novels" count="72"/>
+      <shelf name="books-i-own" count="66"/>
+      <shelf name="magical-realism" count="58"/>
+      <shelf name="to-buy" count="54"/>
+      <shelf name="español" count="49"/>
+      <shelf name="latin-american-literature" count="48"/>
+      <shelf name="novel" count="44"/>
+      <shelf name="unfinished" count="43"/>
+      <shelf name="owned-books" count="41"/>
+      <shelf name="default" count="38"/>
+      <shelf name="favourites" count="35"/>
+      <shelf name="wish-list" count="34"/>
+      <shelf name="favoritos" count="34"/>
+      <shelf name="abandoned" count="34"/>
+      <shelf name="novela" count="30"/>
+      <shelf name="20th-century" count="29"/>
+      <shelf name="on-hold" count="24"/>
+      <shelf name="latin-american-lit" count="23"/>
+      <shelf name="literatura" count="22"/>
+      <shelf name="contemporary" count="22"/>
+      <shelf name="translated" count="22"/>
+      <shelf name="biblioteca" count="21"/>
+      <shelf name="latinoamerica" count="21"/>
+      <shelf name="library" count="21"/>
+      <shelf name="literary-fiction" count="21"/>
+      <shelf name="experimental" count="21"/>
+      <shelf name="argentinos" count="20"/>
+      <shelf name="literatura-latinoamericana" count="20"/>
+      <shelf name="to-re-read" count="20"/>
+      <shelf name="argentinian" count="20"/>
+      <shelf name="latin" count="19"/>
+      <shelf name="spanish-literature" count="19"/>
+      <shelf name="narrativa" count="17"/>
+      <shelf name="latinoamericana" count="17"/>
+      <shelf name="lit" count="17"/>
+      <shelf name="classic" count="16"/>
+      <shelf name="translation" count="16"/>
+      <shelf name="south-america" count="16"/>
+      <shelf name="1960s" count="15"/>
+      <shelf name="literary" count="15"/>
+      <shelf name="i-own" count="14"/>
+      <shelf name="espanol" count="14"/>
+      <shelf name="abandonados" count="14"/>
+      <shelf name="my-library" count="14"/>
+      <shelf name="to-read-fiction" count="14"/>
+      <shelf name="in-spanish" count="14"/>
+      <shelf name="argentine" count="14"/>
+      <shelf name="owned-to-read" count="13"/>
+      <shelf name="argentine-literature" count="13"/>
+      <shelf name="romance" count="13"/>
+      <shelf name="literatura-argentina" count="13"/>
+      <shelf name="clásicos" count="13"/>
+      <shelf name="ficción" count="13"/>
+      <shelf name="latino" count="13"/>
+      <shelf name="clasicos" count="13"/>
+      <shelf name="favorite-books" count="12"/>
+      <shelf name="cortazar" count="12"/>
+      <shelf name="metafiction" count="12"/>
+      <shelf name="novelas" count="11"/>
+      <shelf name="to-read-again" count="11"/>
+      <shelf name="dnf" count="11"/>
+      <shelf name="my-books" count="11"/>
+      <shelf name="favourite" count="11"/>
+      <shelf name="south-american" count="11"/>
+      <shelf name="en-español" count="10"/>
+      <shelf name="to-reread" count="10"/>
+      <shelf name="re-read" count="10"/>
+      <shelf name="maybe" count="10"/>
+      <shelf name="kindle" count="10"/>
+      <shelf name="hispanic" count="10"/>
+      <shelf name="partially-read" count="10"/>
+      <shelf name="postmodern" count="10"/>
+      <shelf name="in-translation" count="10"/>
+      <shelf name="tbr" count="9"/>
+      <shelf name="ebooks" count="9"/>
+      <shelf name="ebook" count="9"/>
+      <shelf name="julio-cortazar" count="9"/>
+      <shelf name="magic-realism" count="9"/>
+      <shelf name="book-club" count="9"/>
+      <shelf name="paris" count="9"/>
+      <shelf name="fiction-to-read" count="9"/>
+      <shelf name="not-finished" count="9"/>
+      <shelf name="mi-biblioteca" count="8"/>
+      <shelf name="bookshelf" count="8"/>
+      <shelf name="stand-by" count="8"/>
+      <shelf name="lo-tengo" count="8"/>
+      <shelf name="world-literature" count="8"/>
+      <shelf name="cultural" count="8"/>
+      <shelf name="france" count="8"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>382975</id>
+<title>The Obscene Bird of Night</title>
+<title_without_series>The Obscene Bird of Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/382975.The_Obscene_Bird_of_Night]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>438</num_pages>
+<work>
+<id>372745</id>
+</work>
+<isbn>1567920462</isbn>
+<isbn13>9781567920468</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1548</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>37871</id>
+<name>José Donoso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/37871.Jos_Donoso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6554891</id>
+<title><![CDATA[The Museum of Eterna's Novel (The First Good Novel)]]></title>
+<title_without_series>The Museum of Eterna&apos;s Novel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6554891-the-museum-of-eterna-s-novel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1392868840s/6554891.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1392868840m/6554891.jpg]]></image_url>
+<num_pages>238</num_pages>
+<work>
+<id>3236796</id>
+</work>
+<isbn>1934824062</isbn>
+<isbn13>9781934824061</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>298</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>321535</id>
+<name>Macedonio Fernández</name>
+<link><![CDATA[https://www.goodreads.com/author/show/321535.Macedonio_Fern_ndez]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1677</id>
+<title>Sobre héroes y tumbas</title>
+<title_without_series>Sobre héroes y tumbas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1677.Sobre_h_roes_y_tumbas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1322161433s/1677.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1322161433m/1677.jpg]]></image_url>
+<num_pages>547</num_pages>
+<work>
+<id>5803</id>
+</work>
+<isbn>9500716054</isbn>
+<isbn13>9789500716055</isbn13>
+<average_rating>4.27</average_rating>
+<ratings_count>6099</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5775606</id>
+<name>Ernesto Sabato</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5775606.Ernesto_Sabato]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>152809</id>
+<title><![CDATA[An Episode in the Life of a Landscape Painter]]></title>
+<title_without_series><![CDATA[An Episode in the Life of a Landscape Painter]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/152809.An_Episode_in_the_Life_of_a_Landscape_Painter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327932983s/152809.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327932983m/152809.jpg]]></image_url>
+<num_pages>88</num_pages>
+<work>
+<id>147499</id>
+</work>
+<isbn>0811216306</isbn>
+<isbn13>9780811216302</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>1737</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>5</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88379</id>
+<name>César Aira</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88379.C_sar_Aira]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>460006</id>
+<title>Paradiso</title>
+<title_without_series>Paradiso</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/460006.Paradiso]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1463852136s/460006.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1463852136m/460006.jpg]]></image_url>
+<num_pages>466</num_pages>
+<work>
+<id>448478</id>
+</work>
+<isbn>156478228X</isbn>
+<isbn13>9781564782281</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>493</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>119762</id>
+<name>José Lezama Lima</name>
+<link><![CDATA[https://www.goodreads.com/author/show/119762.Jos_Lezama_Lima]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59415</id>
+<title>Terra Nostra</title>
+<title_without_series>Terra Nostra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59415.Terra_Nostra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>785</num_pages>
+<work>
+<id>1451924</id>
+</work>
+<isbn>1564782875</isbn>
+<isbn13>9781564782878</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>786</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1367127</id>
+<name>Carlos Fuentes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1367127.Carlos_Fuentes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>63030</id>
+<title>Distant Star</title>
+<title_without_series>Distant Star</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/63030.Distant_Star]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>150</num_pages>
+<work>
+<id>659820</id>
+</work>
+<isbn></isbn>
+<isbn13>9780811215862</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>5057</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>72039</id>
+<name>Roberto Bolaño</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72039.Roberto_Bola_o]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>214703</id>
+<title>El juguete rabioso</title>
+<title_without_series>El juguete rabioso</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/214703.El_juguete_rabioso]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>155</num_pages>
+<work>
+<id>207855</id>
+</work>
+<isbn>8495311801</isbn>
+<isbn13>9788495311801</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>2710</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>111215</id>
+<name>Roberto Arlt</name>
+<link><![CDATA[https://www.goodreads.com/author/show/111215.Roberto_Arlt]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94486</id>
+<title>The Invention of Morel</title>
+<title_without_series>The Invention of Morel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94486.The_Invention_of_Morel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327960951s/94486.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327960951m/94486.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>2302985</id>
+</work>
+<isbn>1590170571</isbn>
+<isbn13>9781590170571</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>11055</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>8</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>3424060</id>
+<name>Adolfo Bioy Casares</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3424060.Adolfo_Bioy_Casares]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59504</id>
+<title>El siglo de las luces</title>
+<title_without_series>El siglo de las luces</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59504.El_siglo_de_las_luces]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1354467957s/59504.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1354467957m/59504.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>416</id>
+</work>
+<isbn>8432216976</isbn>
+<isbn13>9788432216978</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>1615</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>12551</id>
+<name>Alejo Carpentier</name>
+<link><![CDATA[https://www.goodreads.com/author/show/12551.Alejo_Carpentier]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>223455</id>
+<title>Three Trapped Tigers</title>
+<title_without_series>Three Trapped Tigers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/223455.Three_Trapped_Tigers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1403209034s/223455.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1403209034m/223455.jpg]]></image_url>
+<num_pages>487</num_pages>
+<work>
+<id>83198</id>
+</work>
+<isbn>1564783790</isbn>
+<isbn13>9781564783790</isbn13>
+<average_rating>3.97</average_rating>
+<ratings_count>1167</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>49326</id>
+<name>Guillermo Cabrera Infante</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49326.Guillermo_Cabrera_Infante]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>401060</id>
+<title>Poesía completa</title>
+<title_without_series>Poesía completa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/401060.Poes_a_completa]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1369199656s/401060.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1369199656m/401060.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>390470</id>
+</work>
+<isbn>8426428258</isbn>
+<isbn13>9788426428257</isbn13>
+<average_rating>4.56</average_rating>
+<ratings_count>1533</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>112534</id>
+<name>Alejandra Pizarnik</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112534.Alejandra_Pizarnik]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1292907</id>
+<title>Boquitas pintadas</title>
+<title_without_series>Boquitas pintadas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1292907.Boquitas_pintadas]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>957471</id>
+</work>
+<isbn>0140255796</isbn>
+<isbn13>9780140255799</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>2866</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>35548</id>
+<name>Manuel Puig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35548.Manuel_Puig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>311643</id>
+<title>Palinuro de México</title>
+<title_without_series>Palinuro de México</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/311643.Palinuro_de_M_xico]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1339624514s/311643.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1339624514m/311643.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>302569</id>
+</work>
+<isbn>8420421081</isbn>
+<isbn13>9788420421087</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>295</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>179515</id>
+<name>Fernando del Paso</name>
+<link><![CDATA[https://www.goodreads.com/author/show/179515.Fernando_del_Paso]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5787</id>
+<title>The Aleph and Other Stories </title>
+<title_without_series>The Aleph and Other Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>210</num_pages>
+<work>
+<id>2707897</id>
+</work>
+<isbn>0142437883</isbn>
+<isbn13>9780142437889</isbn13>
+<average_rating>4.39</average_rating>
+<ratings_count>22665</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>500</id>
+<name>Jorge Luis Borges</name>
+<link><![CDATA[https://www.goodreads.com/author/show/500.Jorge_Luis_Borges]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

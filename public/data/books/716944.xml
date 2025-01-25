@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>716944</id>
+  <title>Owl Babies</title>
+  <isbn><![CDATA[0744592704]]></isbn>
+  <isbn13><![CDATA[9780744592702]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00AR3GPHW]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1408930554m/716944.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1408930554s/716944.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>3</publication_day>
+  <publisher>Not Avail</publisher>
+  <language_code>en-GB</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[This is the story of three baby owls who wake up one night in their hole in the tree to find that their mother has gone, so they sit on the branch and wait, wondering when she will return. At last she does, and they all bounce up and down with joy, welcoming her home.]]></description>
+  <work>
+  <id type="integer">2961469</id>
+  <books_count type="integer">51</books_count>
+  <best_book_id type="integer">716944</best_book_id>
+  <reviews_count type="integer">15722</reviews_count>
+  <ratings_sum type="integer">49945</ratings_sum>
+  <ratings_count type="integer">11909</ratings_count>
+  <text_reviews_count type="integer">562</text_reviews_count>
+  <original_publication_year type="integer">1975</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Owl Babies</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:5781|4:3358|3:2194|2:450|1:126|total:11909</rating_dist>
+  <desc_user_id type="integer" nil="true"/>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.19</average_rating>
+  <num_pages><![CDATA[25]]></num_pages>
+  <format><![CDATA[Unknown Binding]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[11303]]></ratings_count>
+  <text_reviews_count><![CDATA[485]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/716944.Owl_Babies]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/716944.Owl_Babies]]></link>
+  <authors>
+<author>
+<id>36722</id>
+<name>Martin Waddell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272909419p5/36722.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272909419p2/36722.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/36722.Martin_Waddell]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>25698</ratings_count>
+<text_reviews_count>1542</text_reviews_count>
+</author>
+<author>
+<id>155273</id>
+<name>Patrick Benson</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272909506p5/155273.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1272909506p2/155273.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/155273.Patrick_Benson]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>17884</ratings_count>
+<text_reviews_count>1163</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/716944.Owl_Babies">Owl Babies Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0744592704&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/716944.Owl_Babies?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2695"/>
+      <shelf name="picture-books" count="394"/>
+      <shelf name="childrens" count="169"/>
+      <shelf name="children-s-books" count="145"/>
+      <shelf name="animals" count="125"/>
+      <shelf name="children" count="122"/>
+      <shelf name="children-s" count="97"/>
+      <shelf name="picture-book" count="97"/>
+      <shelf name="kids" count="79"/>
+      <shelf name="childrens-books" count="68"/>
+      <shelf name="family" count="56"/>
+      <shelf name="storytime" count="53"/>
+      <shelf name="owls" count="49"/>
+      <shelf name="kids-books" count="44"/>
+      <shelf name="favorites" count="43"/>
+      <shelf name="fiction" count="39"/>
+      <shelf name="currently-reading" count="34"/>
+      <shelf name="board-books" count="34"/>
+      <shelf name="birds" count="32"/>
+      <shelf name="preschool" count="32"/>
+      <shelf name="children-s-literature" count="24"/>
+      <shelf name="social-emotional" count="22"/>
+      <shelf name="picturebooks" count="19"/>
+      <shelf name="childhood" count="18"/>
+      <shelf name="children-s-lit" count="17"/>
+      <shelf name="ks1" count="12"/>
+      <shelf name="default" count="12"/>
+      <shelf name="library" count="12"/>
+      <shelf name="nature" count="12"/>
+      <shelf name="picture" count="12"/>
+      <shelf name="childrens-picture-books" count="12"/>
+      <shelf name="children-s-picture-books" count="11"/>
+      <shelf name="emotions" count="11"/>
+      <shelf name="read-aloud" count="11"/>
+      <shelf name="story-time" count="11"/>
+      <shelf name="books-i-own" count="11"/>
+      <shelf name="science" count="10"/>
+      <shelf name="classics" count="10"/>
+      <shelf name="favorite-children-s-books" count="9"/>
+      <shelf name="owned" count="9"/>
+      <shelf name="mothers" count="9"/>
+      <shelf name="picture-books-read" count="9"/>
+      <shelf name="favorite-picture-books" count="9"/>
+      <shelf name="kindergarten" count="8"/>
+      <shelf name="love" count="8"/>
+      <shelf name="animal" count="8"/>
+      <shelf name="feelings" count="8"/>
+      <shelf name="children-books" count="8"/>
+      <shelf name="bedtime" count="8"/>
+      <shelf name="owned-books" count="7"/>
+      <shelf name="siblings" count="7"/>
+      <shelf name="baby-books" count="7"/>
+      <shelf name="preschool-storytime" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="kid-books" count="7"/>
+      <shelf name="storytime-books" count="7"/>
+      <shelf name="childrens-lit" count="7"/>
+      <shelf name="separation-anxiety" count="7"/>
+      <shelf name="toddler" count="7"/>
+      <shelf name="repetition" count="6"/>
+      <shelf name="baby" count="6"/>
+      <shelf name="kiddos" count="6"/>
+      <shelf name="pre-k" count="6"/>
+      <shelf name="1001-childrens-books" count="6"/>
+      <shelf name="1001-children-s-books" count="6"/>
+      <shelf name="picturebook" count="6"/>
+      <shelf name="board-book" count="6"/>
+      <shelf name="children-s-book" count="5"/>
+      <shelf name="children-s-books-read" count="5"/>
+      <shelf name="read-kids" count="5"/>
+      <shelf name="childrens-literature" count="5"/>
+      <shelf name="school" count="5"/>
+      <shelf name="nocturnal-animals" count="5"/>
+      <shelf name="kid-s-books" count="5"/>
+      <shelf name="childhood-books" count="5"/>
+      <shelf name="childhood-favourites" count="5"/>
+      <shelf name="night" count="5"/>
+      <shelf name="children-picture-books" count="5"/>
+      <shelf name="narrative-skills" count="5"/>
+      <shelf name="toddlers" count="5"/>
+      <shelf name="own-it" count="5"/>
+      <shelf name="spanish" count="5"/>
+      <shelf name="babies" count="5"/>
+      <shelf name="owl" count="5"/>
+      <shelf name="read-2017" count="4"/>
+      <shelf name="key-stage-1" count="4"/>
+      <shelf name="separation" count="4"/>
+      <shelf name="format-picture-book" count="4"/>
+      <shelf name="311" count="4"/>
+      <shelf name="families" count="4"/>
+      <shelf name="moms" count="4"/>
+      <shelf name="toddler-storytime" count="4"/>
+      <shelf name="young-children" count="4"/>
+      <shelf name="juvenile" count="4"/>
+      <shelf name="animal-stories" count="4"/>
+      <shelf name="storytime-favorites" count="4"/>
+      <shelf name="have" count="3"/>
+      <shelf name="kids-books-to-read" count="3"/>
+      <shelf name="bravery" count="3"/>
+      <shelf name="mom" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>8036503</id>
+<title>Little Owl Lost</title>
+<title_without_series>Little Owl Lost</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8036503-little-owl-lost]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1340401335s/8036503.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1340401335m/8036503.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>12651904</id>
+</work>
+<isbn>0763650226</isbn>
+<isbn13>9780763650223</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>2492</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3483139</id>
+<name>Chris Haughton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3483139.Chris_Haughton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>715540</id>
+<title>I&apos;m Not Cute!</title>
+<title_without_series>I&apos;m Not Cute!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/715540.I_m_Not_Cute_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>701792</id>
+</work>
+<isbn>0786837209</isbn>
+<isbn13>9780786837205</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1163</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>112904</id>
+<name>Jonathan Allen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/112904.Jonathan_Allen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>420403</id>
+<title>Rosie&apos;s Walk</title>
+<title_without_series>Rosie&apos;s Walk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/420403.Rosie_s_Walk]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358594679s/420403.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358594679m/420403.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2889655</id>
+</work>
+<isbn>1416908358</isbn>
+<isbn13>9781416908357</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>5883</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>144150</id>
+<name>Pat Hutchins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/144150.Pat_Hutchins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6527980</id>
+<title>A Book of Sleep</title>
+<title_without_series>A Book of Sleep</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6527980-a-book-of-sleep]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6719937</id>
+</work>
+<isbn>0375862234</isbn>
+<isbn13>9780375862236</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>2314</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2930191</id>
+<name>Il Sung Na</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2930191.Il_Sung_Na]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1572416</id>
+<title><![CDATA[Handa's Surprise: Read and Share (Reading and Math Together)]]></title>
+<title_without_series><![CDATA[Handa's Surprise: Read and Share]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1572416.Handa_s_Surprise]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>135404</id>
+</work>
+<isbn>0763608637</isbn>
+<isbn13>9780763608637</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>1088</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>81166</id>
+<name>Eileen Browne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/81166.Eileen_Browne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6903371</id>
+<title>Wow! Said the Owl</title>
+<title_without_series>Wow! Said the Owl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6903371-wow-said-the-owl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312047449s/6903371.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312047449m/6903371.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>7127146</id>
+</work>
+<isbn>0374385181</isbn>
+<isbn13>9780374385187</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1067</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>9</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>2422552</id>
+<name>Tim Hopgood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2422552.Tim_Hopgood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>999378</id>
+<title>Where&apos;s My Teddy?</title>
+<title_without_series>Where&apos;s My Teddy?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/999378.Where_s_My_Teddy_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1457998098s/999378.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1457998098m/999378.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>2337357</id>
+</work>
+<isbn>1564022803</isbn>
+<isbn13>9781564022806</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>4877</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>107373</id>
+<name>Jez Alborough</name>
+<link><![CDATA[https://www.goodreads.com/author/show/107373.Jez_Alborough]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>999371</id>
+<title>Mr. Gumpy&apos;s Outing</title>
+<title_without_series>Mr. Gumpy&apos;s Outing</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/999371.Mr_Gumpy_s_Outing]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>984862</id>
+</work>
+<isbn>0805013156</isbn>
+<isbn13>9780805013153</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>3661</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>3</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>93835</id>
+<name>John Burningham</name>
+<link><![CDATA[https://www.goodreads.com/author/show/93835.John_Burningham]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1296603</id>
+<title>Tickle, Tickle</title>
+<title_without_series>Tickle, Tickle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1296603.Tickle_Tickle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>10</num_pages>
+<work>
+<id>1285735</id>
+</work>
+<isbn>0689819862</isbn>
+<isbn13>9780689819865</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>517</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72144</id>
+<name>Helen Oxenbury</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72144.Helen_Oxenbury]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6084058</id>
+<title>Birds</title>
+<title_without_series>Birds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6084058-birds]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6260837</id>
+</work>
+<isbn>0061363049</isbn>
+<isbn13>9780061363047</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>1755</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>193</id>
+<name>Kevin Henkes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/193.Kevin_Henkes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3049513</id>
+<title>The Odd Egg</title>
+<title_without_series>The Odd Egg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3049513-the-odd-egg]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329773200s/3049513.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329773200m/3049513.jpg]]></image_url>
+<num_pages>25</num_pages>
+<work>
+<id>3080337</id>
+</work>
+<isbn>0230014917</isbn>
+<isbn13>9780230014916</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>1973</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>99790</id>
+<name>Emily Gravett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99790.Emily_Gravett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1066391</id>
+<title>I Went Walking</title>
+<title_without_series>I Went Walking</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1066391.I_Went_Walking]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1053038</id>
+</work>
+<isbn>0152007717</isbn>
+<isbn13>9780152007713</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>5327</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>71427</id>
+<name>Sue     Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/71427.Sue_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10427002</id>
+<title><![CDATA[Do You Know Which Ones Will Grow?]]></title>
+<title_without_series><![CDATA[Do You Know Which Ones Will Grow?]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10427002-do-you-know-which-ones-will-grow]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333598567s/10427002.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333598567m/10427002.jpg]]></image_url>
+<num_pages>38</num_pages>
+<work>
+<id>15331386</id>
+</work>
+<isbn>1609050622</isbn>
+<isbn13>9781609050627</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1392</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>4636982</id>
+<name>Susan A. Shea</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4636982.Susan_A_Shea]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>300394</id>
+<title>Hi, Pizza Man!</title>
+<title_without_series>Hi, Pizza Man!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/300394.Hi_Pizza_Man_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>291465</id>
+</work>
+<isbn>0531071073</isbn>
+<isbn13>9780531071076</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>641</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>173159</id>
+<name>Virginia Walter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/173159.Virginia_Walter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1407442</id>
+<title>Penguin</title>
+<title_without_series>Penguin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1407442.Penguin]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320449693s/1407442.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320449693m/1407442.jpg]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>1397700</id>
+</work>
+<isbn>0763634042</isbn>
+<isbn13>9780763634049</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>1130</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>70403</id>
+<name>Polly Dunbar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/70403.Polly_Dunbar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6637999</id>
+<title><![CDATA[Maisy Goes to Preschool: A Maisy First Experiences Book]]></title>
+<title_without_series><![CDATA[Maisy Goes to Preschool: A Maisy First Experiences Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6637999-maisy-goes-to-preschool]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320428488s/6637999.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320428488m/6637999.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6832436</id>
+</work>
+<isbn>0763642541</isbn>
+<isbn13>9780763642549</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>643</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>30927</id>
+<name>Lucy Cousins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30927.Lucy_Cousins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>870012</id>
+<title>The Squeaky Door</title>
+<title_without_series>The Squeaky Door</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/870012.The_Squeaky_Door]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>855384</id>
+</work>
+<isbn>0060283734</isbn>
+<isbn13>9780060283735</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>373</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>302049</id>
+<name>Margaret Read MacDonald</name>
+<link><![CDATA[https://www.goodreads.com/author/show/302049.Margaret_Read_MacDonald]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1596064</id>
+<title>Goodnight, Me</title>
+<title_without_series>Goodnight, Me</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1596064.Goodnight_Me]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317066736s/1596064.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317066736m/1596064.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>1589160</id>
+</work>
+<isbn>1599901536</isbn>
+<isbn13>9781599901534</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>210</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>740427</id>
+<name>Andrew Daddo</name>
+<link><![CDATA[https://www.goodreads.com/author/show/740427.Andrew_Daddo]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

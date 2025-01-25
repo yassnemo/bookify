@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>120253</id>
+  <title>Good Faeries/Bad Faeries</title>
+  <isbn><![CDATA[0684847817]]></isbn>
+  <isbn13><![CDATA[9780684847818]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher></publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Since he illustrated the Faeries in 1978, Brian Froud has been fascinated by faery lore. Now, 20 years later, this book describes and illustrates the faery folk who still crowd his imagination.]]></description>
+  <work>
+  <id type="integer">115789</id>
+  <books_count type="integer">7</books_count>
+  <best_book_id type="integer">120253</best_book_id>
+  <reviews_count type="integer">70129</reviews_count>
+  <ratings_sum type="integer">136931</ratings_sum>
+  <ratings_count type="integer">35295</ratings_count>
+  <text_reviews_count type="integer">119</text_reviews_count>
+  <original_publication_year type="integer">1998</original_publication_year>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Good Faeries, Bad Faeries</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:14628|4:8714|3:7143|2:2696|1:2114|total:35295</rating_dist>
+  <desc_user_id type="integer">-51</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.88</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[35148]]></ratings_count>
+  <text_reviews_count><![CDATA[116]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/120253.Good_Faeries_Bad_Faeries]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/120253.Good_Faeries_Bad_Faeries]]></link>
+  <authors>
+<author>
+<id>9345</id>
+<name>Brian Froud</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307006013p5/9345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307006013p2/9345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9345.Brian_Froud]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>107706</ratings_count>
+<text_reviews_count>1357</text_reviews_count>
+</author>
+<author>
+<id>4687563</id>
+<name>Terry Windling</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4687563.Terry_Windling]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>35428</ratings_count>
+<text_reviews_count>202</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/120253.Good_Faeries_Bad_Faeries">Good Faeries/Bad Faeries Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0684847817&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/120253.Good_Faeries_Bad_Faeries?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="35892"/>
+      <shelf name="fantasy" count="233"/>
+      <shelf name="art" count="209"/>
+      <shelf name="currently-reading" count="105"/>
+      <shelf name="favorites" count="62"/>
+      <shelf name="fiction" count="46"/>
+      <shelf name="faeries" count="42"/>
+      <shelf name="art-books" count="36"/>
+      <shelf name="owned" count="35"/>
+      <shelf name="non-fiction" count="32"/>
+      <shelf name="fairies" count="26"/>
+      <shelf name="mythology" count="22"/>
+      <shelf name="books-i-own" count="19"/>
+      <shelf name="folklore" count="17"/>
+      <shelf name="faerie" count="17"/>
+      <shelf name="fairy-tales" count="17"/>
+      <shelf name="picture-books" count="16"/>
+      <shelf name="magic" count="13"/>
+      <shelf name="nonfiction" count="13"/>
+      <shelf name="reference" count="12"/>
+      <shelf name="sci-fi-fantasy" count="12"/>
+      <shelf name="default" count="11"/>
+      <shelf name="fae" count="11"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="my-library" count="10"/>
+      <shelf name="to-buy" count="10"/>
+      <shelf name="owned-books" count="8"/>
+      <shelf name="my-books" count="8"/>
+      <shelf name="fairy" count="8"/>
+      <shelf name="brian-froud" count="8"/>
+      <shelf name="illustration" count="8"/>
+      <shelf name="children" count="8"/>
+      <shelf name="comics" count="7"/>
+      <shelf name="fairy-tale" count="7"/>
+      <shelf name="humor" count="7"/>
+      <shelf name="paranormal" count="7"/>
+      <shelf name="fantasy-art" count="7"/>
+      <shelf name="childrens" count="7"/>
+      <shelf name="fantasy-sci-fi" count="7"/>
+      <shelf name="fairytales" count="6"/>
+      <shelf name="illustrated" count="6"/>
+      <shelf name="magick" count="5"/>
+      <shelf name="graphic-novels" count="5"/>
+      <shelf name="fey" count="5"/>
+      <shelf name="own-it" count="5"/>
+      <shelf name="scifi-fantasy" count="5"/>
+      <shelf name="research" count="4"/>
+      <shelf name="pagan" count="4"/>
+      <shelf name="fairy-books" count="4"/>
+      <shelf name="spirituality" count="4"/>
+      <shelf name="library" count="4"/>
+      <shelf name="mine" count="4"/>
+      <shelf name="faery" count="4"/>
+      <shelf name="kids" count="4"/>
+      <shelf name="pretty-pictures" count="4"/>
+      <shelf name="british" count="4"/>
+      <shelf name="5-star" count="4"/>
+      <shelf name="young-adult" count="4"/>
+      <shelf name="artbook" count="4"/>
+      <shelf name="home-library" count="4"/>
+      <shelf name="artsy" count="4"/>
+      <shelf name="1990s" count="3"/>
+      <shelf name="fantastical" count="3"/>
+      <shelf name="wish-list" count="3"/>
+      <shelf name="fiction-fantasy" count="3"/>
+      <shelf name="children-books" count="3"/>
+      <shelf name="fantasy-magic" count="3"/>
+      <shelf name="children-s" count="3"/>
+      <shelf name="whimsical" count="3"/>
+      <shelf name="supernatural" count="3"/>
+      <shelf name="children-s-books" count="3"/>
+      <shelf name="visual" count="3"/>
+      <shelf name="fairytale" count="3"/>
+      <shelf name="art-book" count="3"/>
+      <shelf name="spiritual" count="3"/>
+      <shelf name="my-bookshelf" count="3"/>
+      <shelf name="myth" count="3"/>
+      <shelf name="froud" count="3"/>
+      <shelf name="mythology-folklore" count="3"/>
+      <shelf name="library-books" count="2"/>
+      <shelf name="fantasy-mythology" count="2"/>
+      <shelf name="classics" count="2"/>
+      <shelf name="1" count="2"/>
+      <shelf name="shelfari-favorites" count="2"/>
+      <shelf name="shelfari-wishlist" count="2"/>
+      <shelf name="physical-books" count="2"/>
+      <shelf name="hard-cover" count="2"/>
+      <shelf name="physical-copy" count="2"/>
+      <shelf name="art-and-illustration" count="2"/>
+      <shelf name="2" count="2"/>
+      <shelf name="unread" count="2"/>
+      <shelf name="poetry" count="2"/>
+      <shelf name="biography" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="bookshelf" count="2"/>
+      <shelf name="print" count="2"/>
+      <shelf name="want" count="2"/>
+      <shelf name="myths-legends" count="2"/>
+      <shelf name="art-to-read" count="2"/>
+      <shelf name="m" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>227570</id>
+<title><![CDATA[Lady Cottington's Pressed Fairy Book]]></title>
+<title_without_series><![CDATA[Lady Cottington's Pressed Fairy Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/227570.Lady_Cottington_s_Pressed_Fairy_Book]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408938052s/227570.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408938052m/227570.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>1153604</id>
+</work>
+<isbn>1857933362</isbn>
+<isbn13>9781857933369</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>12285</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>209</id>
+<name>Terry Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/209.Terry_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>46870</id>
+<title><![CDATA[The Fairies: Photographic Evidence of the Existence of Another World]]></title>
+<title_without_series><![CDATA[The Fairies: Photographic Evidence of the Existence of Another World]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/46870.The_Fairies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>36</num_pages>
+<work>
+<id>45941</id>
+</work>
+<isbn>0060282347</isbn>
+<isbn13>9780060282349</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>1504</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>26291</id>
+<name>Suza Scalora</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26291.Suza_Scalora]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>222218</id>
+<title><![CDATA[A Midsummer Night's Faery Tale]]></title>
+<title_without_series><![CDATA[A Midsummer Night's Faery Tale]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/222218.A_Midsummer_Night_s_Faery_Tale]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>51</num_pages>
+<work>
+<id>215205</id>
+</work>
+<isbn>0684855593</isbn>
+<isbn13>9780684855592</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>2353</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>46137</id>
+<name>Terri Windling</name>
+<link><![CDATA[https://www.goodreads.com/author/show/46137.Terri_Windling]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>245700</id>
+<title>The Art of Amy Brown</title>
+<title_without_series>The Art of Amy Brown</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/245700.The_Art_of_Amy_Brown]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328765892s/245700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328765892m/245700.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>238058</id>
+</work>
+<isbn>0974461229</isbn>
+<isbn13>9780974461229</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>8725</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>88916</id>
+<name>Amy Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/88916.Amy_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100631</id>
+<title><![CDATA[The Great Encyclopedia Of Faeries]]></title>
+<title_without_series><![CDATA[The Great Encyclopedia Of Faeries]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100631.The_Great_Encyclopedia_Of_Faeries]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>97029</id>
+</work>
+<isbn>0684869578</isbn>
+<isbn13>9780684869575</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3611</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>58075</id>
+<name>Pierre Dubois</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58075.Pierre_Dubois]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100610</id>
+<title>The Art of Faery</title>
+<title_without_series>The Art of Faery</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100610.The_Art_of_Faery]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328850054s/100610.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328850054m/100610.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>97008</id>
+</work>
+<isbn>1843400952</isbn>
+<isbn13>9781843400950</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>188</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>26285</id>
+<name>David Riche</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26285.David_Riche]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>830942</id>
+<title><![CDATA[Fairyopolis: A Flower Fairies Journal]]></title>
+<title_without_series><![CDATA[Fairyopolis: A Flower Fairies Journal]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/830942.Fairyopolis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>816599</id>
+</work>
+<isbn>0723257248</isbn>
+<isbn13>9780723257240</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>5661</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>22490</id>
+<name>Cicely Mary Barker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22490.Cicely_Mary_Barker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>926908</id>
+<title>Gnomes</title>
+<title_without_series>Gnomes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/926908.Gnomes]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1463189122s/926908.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1463189122m/926908.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2653871</id>
+</work>
+<isbn>0810909650</isbn>
+<isbn13>9780810909656</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>23331</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>53530</id>
+<name>Rien Poortvliet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/53530.Rien_Poortvliet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1006591</id>
+<title><![CDATA[Fairie-ality: The Fashion Collection from the House of Ellwand]]></title>
+<title_without_series><![CDATA[Fairie-ality: The Fashion Collection from the House of Ellwand]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1006591.Fairie_ality]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320557679s/1006591.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320557679m/1006591.jpg]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>992717</id>
+</work>
+<isbn>0763614130</isbn>
+<isbn13>9780763614133</isbn13>
+<average_rating>4.26</average_rating>
+<ratings_count>1436</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128488</id>
+<name>Eugenie Bird</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128488.Eugenie_Bird]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>595136</id>
+<title><![CDATA[How to Draw and Paint Fairies: From Finding Inspiration to Capturing Diaphanous Detail, a Step-By-Step Guide to Fairy Art]]></title>
+<title_without_series><![CDATA[How to Draw and Paint Fairies: From Finding Inspiration to Capturing Diaphanous Detail, a Step-By-Step Guide to Fairy Art]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/595136.How_to_Draw_and_Paint_Fairies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>581847</id>
+</work>
+<isbn>0823023834</isbn>
+<isbn13>9780823023837</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>283</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>323818</id>
+<name>Linda Ravenscroft</name>
+<link><![CDATA[https://www.goodreads.com/author/show/323818.Linda_Ravenscroft]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>222213</id>
+<title><![CDATA[A Complete Guide to Faeries & Magical Beings: Explore the Mystical Realm of the Little People]]></title>
+<title_without_series><![CDATA[A Complete Guide to Faeries & Magical Beings: Explore the Mystical Realm of the Little People]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/222213.A_Complete_Guide_to_Faeries_Magical_Beings]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>215200</id>
+</work>
+<isbn>1578632676</isbn>
+<isbn13>9781578632671</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>237</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>122831</id>
+<name>Cassandra Eason</name>
+<link><![CDATA[https://www.goodreads.com/author/show/122831.Cassandra_Eason]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100616</id>
+<title>The Winter Child</title>
+<title_without_series>The Winter Child</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100616.The_Winter_Child]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>59</num_pages>
+<work>
+<id>97014</id>
+</work>
+<isbn>0743202341</isbn>
+<isbn13>9780743202343</isbn13>
+<average_rating>4.33</average_rating>
+<ratings_count>229</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>58065</id>
+<name>Wendy Froud</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58065.Wendy_Froud]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>100505</id>
+<title><![CDATA[The World Guide to Gnomes, Fairies, Elves and Other Little People]]></title>
+<title_without_series><![CDATA[The World Guide to Gnomes, Fairies, Elves and Other Little People]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/100505.The_World_Guide_to_Gnomes_Fairies_Elves_and_Other_Little_People]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>96904</id>
+</work>
+<isbn>0517263130</isbn>
+<isbn13>9780517263136</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>628</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>58028</id>
+<name>Thomas Keightley</name>
+<link><![CDATA[https://www.goodreads.com/author/show/58028.Thomas_Keightley]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11996019</id>
+<title>The King&apos;s Agent</title>
+<title_without_series>The King&apos;s Agent</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11996019-the-king-s-agent]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1313276211s/11996019.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1313276211m/11996019.jpg]]></image_url>
+<num_pages>411</num_pages>
+<work>
+<id>16960201</id>
+</work>
+<isbn>075824682X</isbn>
+<isbn13>9780758246820</isbn13>
+<average_rating>3.81</average_rating>
+<ratings_count>8261</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2729597</id>
+<name>Donna Russo Morin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2729597.Donna_Russo_Morin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>561850</id>
+<title><![CDATA[Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, & Other Supernatural Creatures]]></title>
+<title_without_series><![CDATA[Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, & Other Supernatural Creatures]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/561850.Encyclopedia_of_Fairies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>453</num_pages>
+<work>
+<id>548999</id>
+</work>
+<isbn>039473467X</isbn>
+<isbn13>9780394734675</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>1030</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2870744</id>
+<name>Katharine Mary Briggs</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2870744.Katharine_Mary_Briggs]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>381102</id>
+<title><![CDATA[Griffin and Sabine (Griffin & Sabine #1)]]></title>
+<title_without_series>Griffin and Sabine</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/381102.Griffin_and_Sabine]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356716196s/381102.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356716196m/381102.jpg]]></image_url>
+<num_pages>46</num_pages>
+<work>
+<id>981140</id>
+</work>
+<isbn>1551924013</isbn>
+<isbn13>9781551924014</isbn13>
+<average_rating>4.01</average_rating>
+<ratings_count>38484</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>28699</id>
+<name>Nick Bantock</name>
+<link><![CDATA[https://www.goodreads.com/author/show/28699.Nick_Bantock]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>47558</id>
+<title><![CDATA[The Gashlycrumb Tinies (The Vinegar Works, #1)]]></title>
+<title_without_series>The Gashlycrumb Tinies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/47558.The_Gashlycrumb_Tinies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327933644s/47558.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327933644m/47558.jpg]]></image_url>
+<num_pages>32</num_pages>
+<work>
+<id>3211551</id>
+</work>
+<isbn>0747541604</isbn>
+<isbn13>9780747541608</isbn13>
+<average_rating>4.23</average_rating>
+<ratings_count>38500</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>11</publication_month>
+<publication_day>5</publication_day>
+<authors>
+<author>
+<id>21578</id>
+<name>Edward Gorey</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21578.Edward_Gorey]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>64107</id>
+<title><![CDATA[Enchantment of the Faerie Realm: Communicate with Nature Spirits & Elementals]]></title>
+<title_without_series><![CDATA[Enchantment of the Faerie Realm: Communicate with Nature Spirits & Elementals]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/64107.Enchantment_of_the_Faerie_Realm]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>62250</id>
+</work>
+<isbn>0875420028</isbn>
+<isbn13>9780875420028</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>654</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>9</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>36121</id>
+<name>Ted Andrews</name>
+<link><![CDATA[https://www.goodreads.com/author/show/36121.Ted_Andrews]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

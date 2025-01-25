@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>19549841</id>
+  <title>Seraphina (Seraphina, #1)</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1387577872m/19549841.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1387577872s/19549841.jpg</small_image_url>
+  <publication_year>2013</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Random House Books for Young Readers</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Librarian Note: Alternate cover edition for ISBN 9780375866562.</i><br /><br />In her <i>New York Times</i> bestselling and Morris Award-winning debut, Rachel Hartman introduces mathematical dragons in an alternative-medieval world to fantasy and science-fiction readers of all ages. <i>Eragon</i>-author Christopher Paolini calls them, "Some of the most interesting dragons I've read in fantasy."<br /><br />Four decades of peace have done little to ease the mistrust between humans and dragons in the kingdom of Goredd. Folding themselves into human shape, dragons attend court as ambassadors, and lend their rational, mathematical minds to universities as scholars and teachers. As the treaty's anniversary draws near, however, tensions are high.<br /><br />Seraphina Dombegh has reason to fear both sides. An unusually gifted musician, she joins the court just as a member of the royal family is murdered—in suspiciously draconian fashion. Seraphina is drawn into the investigation, partnering with the captain of the Queen's Guard, the dangerously perceptive Prince Lucian Kiggs. While they begin to uncover hints of a sinister plot to destroy the peace, Seraphina struggles to protect her own secret, the secret behind her musical gift, one so terrible that its discovery could mean her very life.]]></description>
+  <work>
+  <id type="integer">17375239</id>
+  <books_count type="integer">56</books_count>
+  <best_book_id type="integer">19549841</best_book_id>
+  <reviews_count type="integer">163588</reviews_count>
+  <ratings_sum type="integer">239045</ratings_sum>
+  <ratings_count type="integer">60050</ratings_count>
+  <text_reviews_count type="integer">7005</text_reviews_count>
+  <original_publication_year type="integer">2012</original_publication_year>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Seraphina</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:21209|4:22764|3:11420|2:3027|1:1630|total:60050</rating_dist>
+  <desc_user_id type="integer">36182584</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.98</average_rating>
+  <num_pages><![CDATA[499]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[33553]]></ratings_count>
+  <text_reviews_count><![CDATA[2350]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/19549841-seraphina]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/19549841-seraphina]]></link>
+  <authors>
+<author>
+<id>357601</id>
+<name>Rachel Hartman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307116804p5/357601.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307116804p2/357601.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/357601.Rachel_Hartman]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>75014</ratings_count>
+<text_reviews_count>9419</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/19549841-seraphina">Seraphina Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/19549841-seraphina?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="95260"/>
+      <shelf name="fantasy" count="5659"/>
+      <shelf name="young-adult" count="2449"/>
+      <shelf name="favorites" count="1523"/>
+      <shelf name="ya" count="1510"/>
+      <shelf name="dragons" count="1390"/>
+      <shelf name="currently-reading" count="1304"/>
+      <shelf name="romance" count="557"/>
+      <shelf name="fiction" count="510"/>
+      <shelf name="series" count="472"/>
+      <shelf name="books-i-own" count="435"/>
+      <shelf name="high-fantasy" count="328"/>
+      <shelf name="ya-fantasy" count="304"/>
+      <shelf name="owned" count="280"/>
+      <shelf name="mystery" count="230"/>
+      <shelf name="adventure" count="227"/>
+      <shelf name="audiobook" count="213"/>
+      <shelf name="teen" count="210"/>
+      <shelf name="library" count="202"/>
+      <shelf name="magic" count="196"/>
+      <shelf name="to-buy" count="157"/>
+      <shelf name="kindle" count="152"/>
+      <shelf name="favourites" count="145"/>
+      <shelf name="read-in-2013" count="130"/>
+      <shelf name="ebook" count="123"/>
+      <shelf name="audiobooks" count="121"/>
+      <shelf name="audio" count="113"/>
+      <shelf name="ya-fiction" count="112"/>
+      <shelf name="sci-fi-fantasy" count="112"/>
+      <shelf name="read-in-2012" count="103"/>
+      <shelf name="read-in-2015" count="102"/>
+      <shelf name="owned-books" count="97"/>
+      <shelf name="fantasy-sci-fi" count="97"/>
+      <shelf name="wish-list" count="97"/>
+      <shelf name="maybe" count="95"/>
+      <shelf name="dnf" count="93"/>
+      <shelf name="did-not-finish" count="92"/>
+      <shelf name="music" count="90"/>
+      <shelf name="read-in-2014" count="81"/>
+      <shelf name="dragon" count="80"/>
+      <shelf name="ebooks" count="77"/>
+      <shelf name="reviewed" count="77"/>
+      <shelf name="paranormal" count="77"/>
+      <shelf name="book-club" count="69"/>
+      <shelf name="young-adult-fiction" count="66"/>
+      <shelf name="abandoned" count="65"/>
+      <shelf name="ya-books" count="65"/>
+      <shelf name="to-read-fantasy" count="65"/>
+      <shelf name="tbr" count="64"/>
+      <shelf name="i-own" count="64"/>
+      <shelf name="ya-lit" count="64"/>
+      <shelf name="read-2015" count="59"/>
+      <shelf name="arc" count="59"/>
+      <shelf name="first-in-series" count="58"/>
+      <shelf name="read-2013" count="57"/>
+      <shelf name="historical" count="54"/>
+      <shelf name="scifi-fantasy" count="53"/>
+      <shelf name="netgalley" count="52"/>
+      <shelf name="re-read" count="51"/>
+      <shelf name="my-books" count="51"/>
+      <shelf name="young-adult-fantasy" count="50"/>
+      <shelf name="audio-book" count="49"/>
+      <shelf name="medieval" count="48"/>
+      <shelf name="cover-love" count="48"/>
+      <shelf name="epic-fantasy" count="47"/>
+      <shelf name="shapeshifters" count="47"/>
+      <shelf name="on-hold" count="47"/>
+      <shelf name="coming-of-age" count="46"/>
+      <shelf name="audio-books" count="44"/>
+      <shelf name="royalty" count="44"/>
+      <shelf name="read-2014" count="42"/>
+      <shelf name="friendship" count="42"/>
+      <shelf name="e-book" count="42"/>
+      <shelf name="must-read" count="42"/>
+      <shelf name="favorite" count="40"/>
+      <shelf name="here-be-dragons" count="40"/>
+      <shelf name="read-in-2016" count="39"/>
+      <shelf name="library-books" count="39"/>
+      <shelf name="supernatural" count="39"/>
+      <shelf name="default" count="38"/>
+      <shelf name="read-2012" count="38"/>
+      <shelf name="5-stars" count="38"/>
+      <shelf name="all-time-favorites" count="38"/>
+      <shelf name="female-protagonist" count="37"/>
+      <shelf name="fantasy-scifi" count="37"/>
+      <shelf name="2012-releases" count="36"/>
+      <shelf name="own-it" count="35"/>
+      <shelf name="unfinished" count="35"/>
+      <shelf name="reread" count="34"/>
+      <shelf name="seraphina" count="34"/>
+      <shelf name="recommended" count="34"/>
+      <shelf name="overdrive" count="33"/>
+      <shelf name="series-to-start" count="32"/>
+      <shelf name="fantasy-to-read" count="32"/>
+      <shelf name="science-fiction" count="32"/>
+      <shelf name="2014-reads" count="31"/>
+      <shelf name="my-library" count="31"/>
+      <shelf name="first-in-a-series" count="31"/>
+      <shelf name="novels" count="31"/>
+      <shelf name="science-fiction-fantasy" count="31"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>390746</id>
+<user_position>1</user_position>
+<series>
+<id>82039</id>
+<title>
+<![CDATA[
+    Seraphina
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>10165761</id>
+<title><![CDATA[Quintana of Charyn (Lumatere Chronicles, #3)]]></title>
+<title_without_series>Quintana of Charyn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10165761-quintana-of-charyn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331187719s/10165761.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331187719m/10165761.jpg]]></image_url>
+<num_pages>516</num_pages>
+<work>
+<id>15064476</id>
+</work>
+<isbn>0670076244</isbn>
+<isbn13>9780670076246</isbn13>
+<average_rating>4.34</average_rating>
+<ratings_count>11706</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>47104</id>
+<name>Melina Marchetta</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47104.Melina_Marchetta]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16068956</id>
+<title><![CDATA[The Story of Owen: Dragon Slayer of Trondheim (The Story of Owen, #1)]]></title>
+<title_without_series><![CDATA[The Story of Owen: Dragon Slayer of Trondheim]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16068956-the-story-of-owen]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1385213342s/16068956.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1385213342m/16068956.jpg]]></image_url>
+<num_pages>312</num_pages>
+<work>
+<id>21861446</id>
+</work>
+<isbn>1467710660</isbn>
+<isbn13>9781467710664</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>2295</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7418796</id>
+<name>E.K. Johnston</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7418796.E_K_Johnston]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10345489</id>
+<title><![CDATA[Liar's Moon (Thief Errant, #2)]]></title>
+<title_without_series>Liar&apos;s Moon</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10345489-liar-s-moon]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1298001260s/10345489.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1298001260m/10345489.jpg]]></image_url>
+<num_pages>400</num_pages>
+<work>
+<id>15248261</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>2989</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>800019</id>
+<name>Elizabeth C. Bunce</name>
+<link><![CDATA[https://www.goodreads.com/author/show/800019.Elizabeth_C_Bunce]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13515074</id>
+<title>The Silvered</title>
+<title_without_series>The Silvered</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13515074-the-silvered]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1347511844s/13515074.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1347511844m/13515074.jpg]]></image_url>
+<num_pages>454</num_pages>
+<work>
+<id>19071091</id>
+</work>
+<isbn>0756407435</isbn>
+<isbn13>9780756407438</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>2256</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>11</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>1967</id>
+<name>Tanya Huff</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1967.Tanya_Huff]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13538708</id>
+<title><![CDATA[The Girl Who Fell Beneath Fairyland and Led the Revels There (Fairyland, #2)]]></title>
+<title_without_series><![CDATA[The Girl Who Fell Beneath Fairyland and Led the Revels There]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13538708-the-girl-who-fell-beneath-fairyland-and-led-the-revels-there]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334547766s/13538708.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334547766m/13538708.jpg]]></image_url>
+<num_pages>258</num_pages>
+<work>
+<id>14556391</id>
+</work>
+<isbn>0312649622</isbn>
+<isbn13>9780312649623</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7650</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>338705</id>
+<name>Catherynne M. Valente</name>
+<link><![CDATA[https://www.goodreads.com/author/show/338705.Catherynne_M_Valente]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7877239</id>
+<title>Plain Kate</title>
+<title_without_series>Plain Kate</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7877239-plain-kate]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328772028s/7877239.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328772028m/7877239.jpg]]></image_url>
+<num_pages>314</num_pages>
+<work>
+<id>7160746</id>
+</work>
+<isbn>0545166640</isbn>
+<isbn13>9780545166645</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>5244</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3099087</id>
+<name>Erin Bow</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3099087.Erin_Bow]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10816908</id>
+<title><![CDATA[The Crown of Embers (Fire and Thorns, #2)]]></title>
+<title_without_series>The Crown of Embers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10816908-the-crown-of-embers]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1335241091s/10816908.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1335241091m/10816908.jpg]]></image_url>
+<num_pages>410</num_pages>
+<work>
+<id>15730581</id>
+</work>
+<isbn>0062026518</isbn>
+<isbn13>9780062026514</isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>35294</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>4074051</id>
+<name>Rae Carson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4074051.Rae_Carson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13056868</id>
+<title>Vessel</title>
+<title_without_series>Vessel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13056868-vessel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333623382s/13056868.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333623382m/13056868.jpg]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>18221998</id>
+</work>
+<isbn>1442423765</isbn>
+<isbn13>9781442423763</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>4952</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>99117</id>
+<name>Sarah Beth Durst</name>
+<link><![CDATA[https://www.goodreads.com/author/show/99117.Sarah_Beth_Durst]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12180226</id>
+<title>Wonder Show</title>
+<title_without_series>Wonder Show</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12180226-wonder-show]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1399968873s/12180226.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1399968873m/12180226.jpg]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>17151976</id>
+</work>
+<isbn>0547599803</isbn>
+<isbn13>9780547599809</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>3</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>5079315</id>
+<name>Hannah Barnaby</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5079315.Hannah_Barnaby]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9943270</id>
+<title><![CDATA[Dark Triumph (His Fair Assassin, #2)]]></title>
+<title_without_series>Dark Triumph</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9943270-dark-triumph]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1346852168s/9943270.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1346852168m/9943270.jpg]]></image_url>
+<num_pages>385</num_pages>
+<work>
+<id>14836636</id>
+</work>
+<isbn>0547628382</isbn>
+<isbn13>9780547628387</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>30107</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>6914204</id>
+<name>Robin LaFevers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6914204.Robin_LaFevers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12009173</id>
+<title>The Brides of Rollrock Island</title>
+<title_without_series>The Brides of Rollrock Island</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12009173-the-brides-of-rollrock-island]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1326364399s/12009173.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1326364399m/12009173.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>13420646</id>
+</work>
+<isbn>0857560336</isbn>
+<isbn13>9780857560339</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>3563</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>277536</id>
+<name>Margo Lanagan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/277536.Margo_Lanagan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13409145</id>
+<title><![CDATA[Necromancing the Stone (Necromancer, #2)]]></title>
+<title_without_series>Necromancing the Stone</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13409145-necromancing-the-stone]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1360685667s/13409145.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1360685667m/13409145.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>18641697</id>
+</work>
+<isbn>0805090991</isbn>
+<isbn13>9780805090994</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>4442</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>3484883</id>
+<name>Lish McBride</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3484883.Lish_McBride]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13549523</id>
+<title>The Cadet of Tildor</title>
+<title_without_series>The Cadet of Tildor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13549523-the-cadet-of-tildor]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1341267796s/13549523.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1341267796m/13549523.jpg]]></image_url>
+<num_pages>408</num_pages>
+<work>
+<id>19115695</id>
+</work>
+<isbn>0803736819</isbn>
+<isbn13>9780803736818</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>1530</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>5778769</id>
+<name>Alex Lidell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5778769.Alex_Lidell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>15703332</id>
+<title><![CDATA[A Corner of White (The Colors of Madeleine, #1)]]></title>
+<title_without_series>A Corner of White</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/15703332-a-corner-of-white]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1452111287s/15703332.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1452111287m/15703332.jpg]]></image_url>
+<num_pages>375</num_pages>
+<work>
+<id>13533441</id>
+</work>
+<isbn>0545397367</isbn>
+<isbn13>9780545397360</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>3418</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>47290</id>
+<name>Jaclyn Moriarty</name>
+<link><![CDATA[https://www.goodreads.com/author/show/47290.Jaclyn_Moriarty]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>40159</id>
+<title><![CDATA[The King of Attolia (The Queen's Thief, #3)]]></title>
+<title_without_series>The King of Attolia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/40159.The_King_of_Attolia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1293505327s/40159.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1293505327m/40159.jpg]]></image_url>
+<num_pages>387</num_pages>
+<work>
+<id>847545</id>
+</work>
+<isbn>006083577X</isbn>
+<isbn13>9780060835774</isbn13>
+<average_rating>4.37</average_rating>
+<ratings_count>24361</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>1</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>22542</id>
+<name>Megan Whalen Turner</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22542.Megan_Whalen_Turner]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12458860</id>
+<title><![CDATA[No Crystal Stair: A Documentary Novel of the Life and Work of Lewis Michaux, Harlem Bookseller]]></title>
+<title_without_series><![CDATA[No Crystal Stair: A Documentary Novel of the Life and Work of Lewis Michaux, Harlem Bookseller]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12458860-no-crystal-stair]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>188</num_pages>
+<work>
+<id>17442476</id>
+</work>
+<isbn>0761361693</isbn>
+<isbn13>9780761361695</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1349</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>57823</id>
+<name>Vaunda Micheaux Nelson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57823.Vaunda_Micheaux_Nelson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6369113</id>
+<title>Lips Touch: Three Times</title>
+<title_without_series>Lips Touch: Three Times</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6369113-lips-touch]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1341175359s/6369113.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1341175359m/6369113.jpg]]></image_url>
+<num_pages>266</num_pages>
+<work>
+<id>6556598</id>
+</work>
+<isbn>0545055857</isbn>
+<isbn13>9780545055857</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>10722</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>324620</id>
+<name>Laini Taylor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/324620.Laini_Taylor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12795973</id>
+<title><![CDATA[Dust Girl (The American Fairy, #1)]]></title>
+<title_without_series>Dust Girl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12795973-dust-girl]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1334267938s/12795973.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1334267938m/12795973.jpg]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>17944089</id>
+</work>
+<isbn>0375869387</isbn>
+<isbn13>9780375869389</isbn13>
+<average_rating>3.46</average_rating>
+<ratings_count>1351</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>110249</id>
+<name>Sarah Zettel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/110249.Sarah_Zettel]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

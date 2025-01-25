@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>12857</id>
+  <title>The Gambler</title>
+  <isbn><![CDATA[0812966937]]></isbn>
+  <isbn13><![CDATA[9780812966930]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B072S3C7CY]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>8</publication_day>
+  <publisher>Modern Library</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[In this dark and compelling short novel, Fyodor Dostoevsky tells the story of Alexey Ivanovitch, a young tutor working in the household of an imperious Russian general. Alexey tries to break through the wall of the established order in Russia, but instead becomes mired in the endless downward spiral of betting and loss. His intense and inescapable addiction is accentuated by his affair with the General’s cruel yet seductive niece, Polina. In <i>The Gambler</i>, Dostoevsky reaches the heights of drama with this stunning psychological portrait.]]></description>
+  <work>
+  <id type="integer">4356972</id>
+  <books_count type="integer">664</books_count>
+  <best_book_id type="integer">12857</best_book_id>
+  <reviews_count type="integer">57555</reviews_count>
+  <ratings_sum type="integer">126358</ratings_sum>
+  <ratings_count type="integer">32592</ratings_count>
+  <text_reviews_count type="integer">1403</text_reviews_count>
+  <original_publication_year type="integer">1866</original_publication_year>
+  <original_publication_month type="integer">3</original_publication_month>
+  <original_publication_day type="integer">10</original_publication_day>
+  <original_title> Игрок </original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:8368|4:13855|3:8621|2:1487|1:261|total:32592</rating_dist>
+  <desc_user_id type="integer">22719617</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.88</average_rating>
+  <num_pages><![CDATA[188]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[21388]]></ratings_count>
+  <text_reviews_count><![CDATA[607]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/12857.The_Gambler]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/12857.The_Gambler]]></link>
+  <authors>
+<author>
+<id>3137322</id>
+<name>Fyodor Dostoyevsky</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489064524p5/3137322.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489064524p2/3137322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>1021511</ratings_count>
+<text_reviews_count>40897</text_reviews_count>
+</author>
+<author>
+<id>69892</id>
+<name>Constance Garnett</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/69892.Constance_Garnett]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>166393</ratings_count>
+<text_reviews_count>8036</text_reviews_count>
+</author>
+<author>
+<id>212842</id>
+<name>Gary Saul Morson</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/212842.Gary_Saul_Morson]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>22285</ratings_count>
+<text_reviews_count>681</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/12857.The_Gambler">The Gambler Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0812966937&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/12857.The_Gambler?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="classics" count="650"/>
+      <shelf name="fiction" count="460"/>
+      <shelf name="to-read" count="413"/>
+      <shelf name="russian" count="328"/>
+      <shelf name="russian-literature" count="276"/>
+      <shelf name="favorites" count="199"/>
+      <shelf name="owned" count="122"/>
+      <shelf name="novels" count="119"/>
+      <shelf name="russia" count="118"/>
+      <shelf name="novel" count="100"/>
+      <shelf name="classic" count="97"/>
+      <shelf name="russian-lit" count="87"/>
+      <shelf name="19th-century" count="73"/>
+      <shelf name="owned-books" count="63"/>
+      <shelf name="dostoyevsky" count="57"/>
+      <shelf name="default" count="53"/>
+      <shelf name="currently-reading" count="46"/>
+      <shelf name="fyodor-dostoyevsky" count="40"/>
+      <shelf name="to-buy" count="36"/>
+      <shelf name="روايات" count="35"/>
+      <shelf name="classici" count="29"/>
+      <shelf name="kindle" count="28"/>
+      <shelf name="my-library" count="26"/>
+      <shelf name="my-ebooks" count="26"/>
+      <shelf name="narrativa" count="24"/>
+      <shelf name="my-books" count="24"/>
+      <shelf name="historical-fiction" count="24"/>
+      <shelf name="romance" count="24"/>
+      <shelf name="dostoevsky" count="22"/>
+      <shelf name="literatura" count="20"/>
+      <shelf name="russian-classics" count="20"/>
+      <shelf name="ebooks" count="19"/>
+      <shelf name="classic-literature" count="19"/>
+      <shelf name="library" count="18"/>
+      <shelf name="favourites" count="18"/>
+      <shelf name="رمان" count="18"/>
+      <shelf name="russians" count="17"/>
+      <shelf name="roman" count="17"/>
+      <shelf name="drama" count="16"/>
+      <shelf name="letteratura-russa" count="15"/>
+      <shelf name="rússia" count="15"/>
+      <shelf name="klassiker" count="15"/>
+      <shelf name="russi" count="14"/>
+      <shelf name="أدب-روسي" count="14"/>
+      <shelf name="philosophy" count="14"/>
+      <shelf name="novela" count="14"/>
+      <shelf name="finished" count="13"/>
+      <shelf name="translated" count="13"/>
+      <shelf name="الأدب-الروسي" count="13"/>
+      <shelf name="books" count="13"/>
+      <shelf name="e-books" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="دوستويفسكي" count="12"/>
+      <shelf name="russa" count="12"/>
+      <shelf name="clásicos" count="12"/>
+      <shelf name="ebook" count="12"/>
+      <shelf name="translation" count="12"/>
+      <shelf name="gambling" count="12"/>
+      <shelf name="literatura-russa" count="12"/>
+      <shelf name="audiobook" count="12"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="read-in-2014" count="11"/>
+      <shelf name="audiobooks" count="11"/>
+      <shelf name="1800s" count="11"/>
+      <shelf name="russian-authors" count="11"/>
+      <shelf name="psychology" count="10"/>
+      <shelf name="classics-to-read" count="10"/>
+      <shelf name="literature" count="9"/>
+      <shelf name="romans" count="9"/>
+      <shelf name="literary-fiction" count="9"/>
+      <shelf name="biblioteca" count="9"/>
+      <shelf name="to-read-classics" count="9"/>
+      <shelf name="russos" count="9"/>
+      <shelf name="i-own" count="9"/>
+      <shelf name="novella" count="9"/>
+      <shelf name="realism" count="9"/>
+      <shelf name="clasicos" count="8"/>
+      <shelf name="read-in-2017" count="8"/>
+      <shelf name="russe" count="8"/>
+      <shelf name="rusos" count="8"/>
+      <shelf name="addiction" count="8"/>
+      <shelf name="wish-list" count="8"/>
+      <shelf name="dostoyevski" count="8"/>
+      <shelf name="russian-writers" count="8"/>
+      <shelf name="sub" count="8"/>
+      <shelf name="rus" count="8"/>
+      <shelf name="world-literature" count="8"/>
+      <shelf name="russie" count="8"/>
+      <shelf name="existentialism" count="8"/>
+      <shelf name="borrowed" count="8"/>
+      <shelf name="novellas" count="8"/>
+      <shelf name="أدب-عالمي" count="8"/>
+      <shelf name="the-russians" count="8"/>
+      <shelf name="literatura-rusa" count="8"/>
+      <shelf name="on-my-shelf" count="7"/>
+      <shelf name="book-club" count="7"/>
+      <shelf name="owned-not-read" count="7"/>
+      <shelf name="read-2013" count="7"/>
+      <shelf name="read-in-2013" count="7"/>
+      <shelf name="fyodor-dostoevsky" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>307</id>
+        <document_url>
+          http://feedbooks.com/book/3.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>1923531</id>
+<title>Nouvelles de Petersbourg</title>
+<title_without_series>Nouvelles de Petersbourg</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1923531.Nouvelles_de_Petersbourg]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>2816626</id>
+</work>
+<isbn>2080710184</isbn>
+<isbn13>9782080710185</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>2510</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>232932</id>
+<name>Nikolai Gogol</name>
+<link><![CDATA[https://www.goodreads.com/author/show/232932.Nikolai_Gogol]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>28459</id>
+<title>Rudin</title>
+<title_without_series>Rudin</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/28459.Rudin]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>148</num_pages>
+<work>
+<id>51043115</id>
+</work>
+<isbn>1426450427</isbn>
+<isbn13>9781426450426</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>1760</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>410680</id>
+<name>Ivan Turgenev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/410680.Ivan_Turgenev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>50269</id>
+<title>The Sebastopol Sketches</title>
+<title_without_series>The Sebastopol Sketches</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/50269.The_Sebastopol_Sketches]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1441248297s/50269.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1441248297m/50269.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>2279930</id>
+</work>
+<isbn>0140444688</isbn>
+<isbn13>9780140444681</isbn13>
+<average_rating>3.87</average_rating>
+<ratings_count>1563</ratings_count>
+<publication_year>1986</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128382</id>
+<name>Leo Tolstoy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128382.Leo_Tolstoy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>312865</id>
+<title>My Life</title>
+<title_without_series>My Life</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/312865.My_Life]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320404065s/312865.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320404065m/312865.jpg]]></image_url>
+<num_pages>150</num_pages>
+<work>
+<id>703028</id>
+</work>
+<isbn>0974607827</isbn>
+<isbn13>9780974607825</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>702</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>5031025</id>
+<name>Anton Chekhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031025.Anton_Chekhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>132543</id>
+<title>The Golovlyov Family</title>
+<title_without_series>The Golovlyov Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/132543.The_Golovlyov_Family]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1476421804s/132543.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1476421804m/132543.jpg]]></image_url>
+<num_pages>358</num_pages>
+<work>
+<id>127672</id>
+</work>
+<isbn>0940322579</isbn>
+<isbn13>9780940322578</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>1600</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>672320</id>
+<name>Mikhail Saltykov-Shchedrin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/672320.Mikhail_Saltykov_Shchedrin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>604578</id>
+<title>The Captain&apos;s Daughter</title>
+<title_without_series>The Captain&apos;s Daughter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/604578.The_Captain_s_Daughter]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328848446s/604578.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328848446m/604578.jpg]]></image_url>
+<num_pages>124</num_pages>
+<work>
+<id>14192118</id>
+</work>
+<isbn>184391154X</isbn>
+<isbn13>9781843911548</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>10032</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>16070</id>
+<name>Alexander Pushkin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16070.Alexander_Pushkin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1765082</id>
+<title>Seven Who Were Hanged</title>
+<title_without_series>Seven Who Were Hanged</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1765082.Seven_Who_Were_Hanged]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>99</num_pages>
+<work>
+<id>1763127</id>
+</work>
+<isbn>1406933732</isbn>
+<isbn13>9781406933734</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>724</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24953</id>
+<name>Leonid Andreyev</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24953.Leonid_Andreyev]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>163620</id>
+<title>My Childhood</title>
+<title_without_series>My Childhood</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/163620.My_Childhood]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1431264564s/163620.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1431264564m/163620.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>2777614</id>
+</work>
+<isbn>0140182853</isbn>
+<isbn13>9780140182859</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>4264</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3072763</id>
+<name>Maxim Gorky</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3072763.Maxim_Gorky]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

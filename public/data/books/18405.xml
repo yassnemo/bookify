@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>18405</id>
+  <title>Gone with the Wind</title>
+  <isbn><![CDATA[0446675539]]></isbn>
+  <isbn13><![CDATA[9780446675536]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00AXZB2RW]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1328025229m/18405.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328025229s/18405.jpg</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>4</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Grand Central Publishing</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<i>Gone with the Wind</i> is a novel written by Margaret Mitchell, first published in 1936. The story is set in Clayton County, Georgia, and Atlanta during the American Civil War and Reconstruction era. It depicts the struggles of young Scarlett O'Hara, the spoiled daughter of a well-to-do plantation owner, who must use every means at her disposal to claw her way out of the poverty she finds herself in after Sherman's March to the Sea. A historical novel, the story is a Bildungsroman or coming-of-age story, with the title taken from a poem written by Ernest Dowson. <br /><br /><i>Gone with the Wind</i> was popular with American readers from the onset and was the top American fiction bestseller in the year it was published and in 1937. As of 2014, a Harris poll found it to be the second favorite book of American readers, just behind the Bible. More than 30 million copies have been printed worldwide.]]></description>
+  <work>
+  <id type="integer">3358283</id>
+  <books_count type="integer">409</books_count>
+  <best_book_id type="integer">18405</best_book_id>
+  <reviews_count type="integer">1392916</reviews_count>
+  <ratings_sum type="integer">3842624</ratings_sum>
+  <ratings_count type="integer">897770</ratings_count>
+  <text_reviews_count type="integer">16062</text_reviews_count>
+  <original_publication_year type="integer">1936</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Gone with the Wind</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:494035|4:234391|3:116199|2:33143|1:20002|total:897770</rating_dist>
+  <desc_user_id type="integer">1734888</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.28</average_rating>
+  <num_pages><![CDATA[1037]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[874425]]></ratings_count>
+  <text_reviews_count><![CDATA[13442]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18405.Gone_with_the_Wind]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18405.Gone_with_the_Wind]]></link>
+  <authors>
+<author>
+<id>11081</id>
+<name>Margaret Mitchell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1185481392p5/11081.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1185481392p2/11081.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11081.Margaret_Mitchell]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>912095</ratings_count>
+<text_reviews_count>16611</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/18405.Gone_with_the_Wind">Gone with the Wind Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0446675539&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/18405.Gone_with_the_Wind?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="454565"/>
+      <shelf name="classics" count="10242"/>
+      <shelf name="favorites" count="7738"/>
+      <shelf name="historical-fiction" count="5000"/>
+      <shelf name="fiction" count="4259"/>
+      <shelf name="romance" count="2570"/>
+      <shelf name="classic" count="1946"/>
+      <shelf name="historical" count="1248"/>
+      <shelf name="books-i-own" count="919"/>
+      <shelf name="owned" count="754"/>
+      <shelf name="literature" count="496"/>
+      <shelf name="favourites" count="493"/>
+      <shelf name="war" count="487"/>
+      <shelf name="historical-romance" count="433"/>
+      <shelf name="civil-war" count="429"/>
+      <shelf name="novels" count="377"/>
+      <shelf name="to-buy" count="375"/>
+      <shelf name="history" count="363"/>
+      <shelf name="all-time-favorites" count="345"/>
+      <shelf name="1001-books" count="331"/>
+      <shelf name="clàssics" count="316"/>
+      <shelf name="adult" count="305"/>
+      <shelf name="classics-to-read" count="302"/>
+      <shelf name="pulitzer" count="290"/>
+      <shelf name="owned-books" count="272"/>
+      <shelf name="book-club" count="262"/>
+      <shelf name="southern" count="255"/>
+      <shelf name="adult-fiction" count="255"/>
+      <shelf name="american" count="245"/>
+      <shelf name="classic-literature" count="234"/>
+      <shelf name="american-literature" count="232"/>
+      <shelf name="library" count="232"/>
+      <shelf name="novel" count="227"/>
+      <shelf name="favorite-books" count="219"/>
+      <shelf name="pulitzer-prize" count="204"/>
+      <shelf name="to-read-classics" count="202"/>
+      <shelf name="kindle" count="201"/>
+      <shelf name="rory-gilmore-reading-challenge" count="198"/>
+      <shelf name="drama" count="194"/>
+      <shelf name="1001" count="190"/>
+      <shelf name="favorite" count="186"/>
+      <shelf name="currently-reading" count="165"/>
+      <shelf name="my-favorites" count="158"/>
+      <shelf name="1001-books-to-read-before-you-die" count="156"/>
+      <shelf name="default" count="146"/>
+      <shelf name="re-read" count="145"/>
+      <shelf name="20th-century" count="141"/>
+      <shelf name="shelfari-favorites" count="138"/>
+      <shelf name="my-library" count="135"/>
+      <shelf name="wish-list" count="132"/>
+      <shelf name="my-books" count="126"/>
+      <shelf name="chick-lit" count="125"/>
+      <shelf name="i-own" count="124"/>
+      <shelf name="general-fiction" count="121"/>
+      <shelf name="epic" count="119"/>
+      <shelf name="american-lit" count="117"/>
+      <shelf name="banned-books" count="117"/>
+      <shelf name="classic-fiction" count="114"/>
+      <shelf name="love" count="111"/>
+      <shelf name="movies" count="108"/>
+      <shelf name="5-stars" count="106"/>
+      <shelf name="american-civil-war" count="105"/>
+      <shelf name="rory-gilmore-challenge" count="103"/>
+      <shelf name="audiobook" count="103"/>
+      <shelf name="southern-fiction" count="100"/>
+      <shelf name="modern-classics" count="98"/>
+      <shelf name="own-it" count="96"/>
+      <shelf name="the-classics" count="95"/>
+      <shelf name="must-read" count="95"/>
+      <shelf name="movie" count="95"/>
+      <shelf name="southern-lit" count="94"/>
+      <shelf name="to-read-fiction" count="90"/>
+      <shelf name="literary-fiction" count="90"/>
+      <shelf name="margaret-mitchell" count="88"/>
+      <shelf name="usa" count="86"/>
+      <shelf name="audible" count="84"/>
+      <shelf name="classic-lit" count="84"/>
+      <shelf name="america" count="83"/>
+      <shelf name="pulitzer-prize-winners" count="82"/>
+      <shelf name="audiobooks" count="81"/>
+      <shelf name="american-classics" count="81"/>
+      <shelf name="to-re-read" count="80"/>
+      <shelf name="rory-gilmore" count="77"/>
+      <shelf name="abandoned" count="77"/>
+      <shelf name="favourite" count="76"/>
+      <shelf name="ebook" count="75"/>
+      <shelf name="books" count="74"/>
+      <shelf name="19th-century" count="74"/>
+      <shelf name="faves" count="74"/>
+      <shelf name="fiction-historical" count="74"/>
+      <shelf name="english" count="73"/>
+      <shelf name="the-south" count="72"/>
+      <shelf name="women" count="72"/>
+      <shelf name="bbc-big-read" count="69"/>
+      <shelf name="gone-with-the-wind" count="66"/>
+      <shelf name="school" count="66"/>
+      <shelf name="audio" count="65"/>
+      <shelf name="romantic" count="65"/>
+      <shelf name="georgia" count="64"/>
+      <shelf name="bbc-top-100" count="64"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1503274</id>
+<title>Rhett Butler&apos;s People</title>
+<title_without_series>Rhett Butler&apos;s People</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1503274.Rhett_Butler_s_People]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327920861s/1503274.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327920861m/1503274.jpg]]></image_url>
+<num_pages>500</num_pages>
+<work>
+<id>2239187</id>
+</work>
+<isbn>023070395X</isbn>
+<isbn13>9780230703957</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>14294</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>126211</id>
+<name>Donald McCaig</name>
+<link><![CDATA[https://www.goodreads.com/author/show/126211.Donald_McCaig]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>256008</id>
+<title>Lonesome Dove</title>
+<title_without_series>Lonesome Dove</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/256008.Lonesome_Dove]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1378573063s/256008.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1378573063m/256008.jpg]]></image_url>
+<num_pages>945</num_pages>
+<work>
+<id>3281465</id>
+</work>
+<isbn>067168390X</isbn>
+<isbn13>9780671683900</isbn13>
+<average_rating>4.47</average_rating>
+<ratings_count>116495</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1055</id>
+<name>Larry McMurtry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1055.Larry_McMurtry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1052571</id>
+<title>Honey in the Horn</title>
+<title_without_series>Honey in the Horn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1052571.Honey_in_the_Horn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1351803884s/1052571.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1351803884m/1052571.jpg]]></image_url>
+<num_pages>408</num_pages>
+<work>
+<id>1039050</id>
+</work>
+<isbn>089301155X</isbn>
+<isbn13>9780893011550</isbn13>
+<average_rating>3.59</average_rating>
+<ratings_count>813</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3082834</id>
+<name>H.L. Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3082834.H_L_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>267478</id>
+<title>Lamb in His Bosom</title>
+<title_without_series>Lamb in His Bosom</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/267478.Lamb_in_His_Bosom]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>357</num_pages>
+<work>
+<id>259320</id>
+</work>
+<isbn>156145074X</isbn>
+<isbn13>9781561450749</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1071</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>156110</id>
+<name>Caroline Miller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/156110.Caroline_Miller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3412</id>
+<title>The Thorn Birds</title>
+<title_without_series>The Thorn Birds</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3412.The_Thorn_Birds]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391416796s/3412.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391416796m/3412.jpg]]></image_url>
+<num_pages>692</num_pages>
+<work>
+<id>816449</id>
+</work>
+<isbn>0380018179</isbn>
+<isbn13>9780380018178</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>266965</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4917067</id>
+<name>Colleen McCullough</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4917067.Colleen_McCullough]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5368</id>
+<title>Forever Amber </title>
+<title_without_series>Forever Amber</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5368.Forever_Amber]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1350464965s/5368.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1350464965m/5368.jpg]]></image_url>
+<num_pages>972</num_pages>
+<work>
+<id>2522906</id>
+</work>
+<isbn>0141009829</isbn>
+<isbn13>9780141009827</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>14608</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>7</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>3620</id>
+<name>Kathleen Winsor</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3620.Kathleen_Winsor]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>54844</id>
+<title><![CDATA[Dragon's Teeth I (World's End)]]></title>
+<title_without_series>Dragon&apos;s Teeth I</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/54844.Dragon_s_Teeth_I]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2318018</id>
+</work>
+<isbn>1931313032</isbn>
+<isbn13>9781931313032</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>408</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>23510</id>
+<name>Upton Sinclair</name>
+<link><![CDATA[https://www.goodreads.com/author/show/23510.Upton_Sinclair]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>115468</id>
+<title>The Town</title>
+<title_without_series>The Town</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/115468.The_Town]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1409413692s/115468.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1409413692m/115468.jpg]]></image_url>
+<num_pages>309</num_pages>
+<work>
+<id>111194</id>
+</work>
+<isbn>0821409808</isbn>
+<isbn13>9780821409800</isbn13>
+<average_rating>3.92</average_rating>
+<ratings_count>2924</ratings_count>
+<publication_year>1991</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>8559</id>
+<name>Conrad Richter</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8559.Conrad_Richter]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>267115</id>
+<title>Now in November</title>
+<title_without_series>Now in November</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/267115.Now_in_November]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>258987</id>
+</work>
+<isbn>1558610359</isbn>
+<isbn13>9781558610354</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>1030</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>736298</id>
+<name>Josephine Winslow Johnson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/736298.Josephine_Winslow_Johnson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>221327</id>
+<title><![CDATA[Early Autumn: A Story of a Lady]]></title>
+<title_without_series><![CDATA[Early Autumn: A Story of a Lady]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/221327.Early_Autumn]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>214320</id>
+</work>
+<isbn>1888683317</isbn>
+<isbn13>9781888683318</isbn13>
+<average_rating>3.60</average_rating>
+<ratings_count>836</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>129457</id>
+<name>Louis Bromfield</name>
+<link><![CDATA[https://www.goodreads.com/author/show/129457.Louis_Bromfield]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>32261</id>
+<title>Tess of the D&apos;Urbervilles</title>
+<title_without_series>Tess of the D&apos;Urbervilles</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/32261.Tess_of_the_D_Urbervilles]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1497218117s/32261.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1497218117m/32261.jpg]]></image_url>
+<num_pages>518</num_pages>
+<work>
+<id>3331021</id>
+</work>
+<isbn>0141439599</isbn>
+<isbn13>9780141439594</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>190834</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>15905</id>
+<name>Thomas Hardy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15905.Thomas_Hardy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16115</id>
+<title><![CDATA[A Dance to the Music of Time: 2nd Movement (A Dance to the Music of Time, #4-6)]]></title>
+<title_without_series><![CDATA[A Dance to the Music of Time: 2nd Movement]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16115.A_Dance_to_the_Music_of_Time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>722</num_pages>
+<work>
+<id>1844144</id>
+</work>
+<isbn>0226677168</isbn>
+<isbn13>9780226677163</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>1073</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>6</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>9947</id>
+<name>Anthony Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9947.Anthony_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>576666</id>
+<title>And Ladies of the Club</title>
+<title_without_series>And Ladies of the Club</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/576666.And_Ladies_of_the_Club]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1184</num_pages>
+<work>
+<id>1480967</id>
+</work>
+<isbn>0425174409</isbn>
+<isbn13>9780425174401</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>10809</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>92881</id>
+<name>Helen Hooven Santmyer</name>
+<link><![CDATA[https://www.goodreads.com/author/show/92881.Helen_Hooven_Santmyer]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5527</id>
+<title>All the King&apos;s Men</title>
+<title_without_series>All the King&apos;s Men</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5527.All_the_King_s_Men]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1342193852s/5527.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1342193852m/5527.jpg]]></image_url>
+<num_pages>661</num_pages>
+<work>
+<id>900927</id>
+</work>
+<isbn>0156004801</isbn>
+<isbn13>9780156004800</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>47014</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3736</id>
+<name>Robert Penn Warren</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3736.Robert_Penn_Warren]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37095</id>
+<title>The Shell Seekers</title>
+<title_without_series>The Shell Seekers</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37095.The_Shell_Seekers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>530</num_pages>
+<work>
+<id>517040</id>
+</work>
+<isbn>051722285X</isbn>
+<isbn13>9780517222850</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>77754</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>20849</id>
+<name>Rosamunde Pilcher</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20849.Rosamunde_Pilcher]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6217</id>
+<title><![CDATA[Kristin Lavransdatter (Kristin Lavransdatter, #1-3)]]></title>
+<title_without_series>Kristin Lavransdatter</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6217.Kristin_Lavransdatter]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1168</num_pages>
+<work>
+<id>1370150</id>
+</work>
+<isbn>0143039164</isbn>
+<isbn13>9780143039167</isbn13>
+<average_rating>4.28</average_rating>
+<ratings_count>6013</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>4203</id>
+<name>Sigrid Undset</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4203.Sigrid_Undset]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>107301</id>
+<title>A Town Like Alice</title>
+<title_without_series>A Town Like Alice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/107301.A_Town_Like_Alice]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327957610s/107301.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327957610m/107301.jpg]]></image_url>
+<num_pages>359</num_pages>
+<work>
+<id>276591</id>
+</work>
+<isbn>1842323008</isbn>
+<isbn13>9781842323007</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>39738</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>21477</id>
+<name>Nevil Shute</name>
+<link><![CDATA[https://www.goodreads.com/author/show/21477.Nevil_Shute]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>30933</id>
+<title><![CDATA[Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder]]></title>
+<title_without_series><![CDATA[Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/30933.Brideshead_Revisited]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>351</num_pages>
+<work>
+<id>2952196</id>
+</work>
+<isbn>0316926345</isbn>
+<isbn13>9780316926348</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>76293</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11315</id>
+<name>Evelyn Waugh</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11315.Evelyn_Waugh]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

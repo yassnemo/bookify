@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>5899779</id>
+  <title><![CDATA[Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)]]></title>
+  <isbn><![CDATA[1594743347]]></isbn>
+  <isbn13><![CDATA[9781594743344]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B004HW7E6U]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1320449653m/5899779.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1320449653s/5899779.jpg</small_image_url>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Quirk Classics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[<b>The New York Times Best Seller is now a major motion picture starring Lily James and Sam Riley, with Matt Smith, Charles Dance, and Lena Headey. </b><br /><br /><i>“It is a truth universally acknowledged that a zombie in possession of brains must be in want of more brains.”</i><br /><br />So begins <i>Pride and Prejudice and Zombies</i>, an expanded edition of the beloved Jane Austen novel featuring all-new scenes of bone-crunching zombie mayhem. As our story opens, a mysterious plague has fallen upon the quiet English village of Meryton—and the dead are returning to life! Feisty heroine Elizabeth Bennet is determined to wipe out the zombie menace, but she’s soon distracted by the arrival of the haughty and arrogant Mr. Darcy. What ensues is a delightful comedy of manners with plenty of civilized sparring between the two young lovers—and even more violent sparring on the blood-soaked battlefield. Can Elizabeth vanquish the spawn of Satan? And overcome the social prejudices of the class-conscious landed gentry? Complete with romance, heartbreak, swordfights, cannibalism, and thousands of rotting corpses, <i>Pride and Prejudice and Zombies </i>transforms a masterpiece of world literature into something you’d actually want to read.]]></description>
+  <work>
+  <id type="integer">6072122</id>
+  <books_count type="integer">92</books_count>
+  <best_book_id type="integer">5899779</best_book_id>
+  <reviews_count type="integer">216238</reviews_count>
+  <ratings_sum type="integer">362158</ratings_sum>
+  <ratings_count type="integer">110313</ratings_count>
+  <text_reviews_count type="integer">12184</text_reviews_count>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Pride and Prejudice and Zombies</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:19341|4:29977|3:33645|2:17260|1:10090|total:110313</rating_dist>
+  <desc_user_id type="integer">1703299</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.28</average_rating>
+  <num_pages><![CDATA[320]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[104055]]></ratings_count>
+  <text_reviews_count><![CDATA[11142]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/5899779-pride-and-prejudice-and-zombies]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/5899779-pride-and-prejudice-and-zombies]]></link>
+  <authors>
+<author>
+<id>169377</id>
+<name>Seth Grahame-Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1251331015p5/169377.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1251331015p2/169377.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/169377.Seth_Grahame_Smith]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>250030</ratings_count>
+<text_reviews_count>26554</text_reviews_count>
+</author>
+<author>
+<id>1265</id>
+<name>Jane Austen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1380085320p5/1265.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1380085320p2/1265.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>4606282</ratings_count>
+<text_reviews_count>124988</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/5899779-pride-and-prejudice-and-zombies">Pride and Prejudice and Zombies Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1594743347&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/5899779-pride-and-prejudice-and-zombies?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="2717"/>
+      <shelf name="horror" count="1483"/>
+      <shelf name="zombies" count="1241"/>
+      <shelf name="fantasy" count="1232"/>
+      <shelf name="humor" count="872"/>
+      <shelf name="owned" count="684"/>
+      <shelf name="romance" count="555"/>
+      <shelf name="classics" count="544"/>
+      <shelf name="favorites" count="514"/>
+      <shelf name="historical-fiction" count="420"/>
+      <shelf name="paranormal" count="368"/>
+      <shelf name="historical" count="233"/>
+      <shelf name="book-club" count="210"/>
+      <shelf name="zombie" count="204"/>
+      <shelf name="abandoned" count="199"/>
+      <shelf name="jane-austen" count="182"/>
+      <shelf name="supernatural" count="182"/>
+      <shelf name="owned-books" count="180"/>
+      <shelf name="default" count="169"/>
+      <shelf name="humour" count="168"/>
+      <shelf name="did-not-finish" count="158"/>
+      <shelf name="kindle" count="154"/>
+      <shelf name="young-adult" count="148"/>
+      <shelf name="comedy" count="148"/>
+      <shelf name="adult" count="147"/>
+      <shelf name="classic" count="142"/>
+      <shelf name="retellings" count="139"/>
+      <shelf name="dnf" count="133"/>
+      <shelf name="library" count="127"/>
+      <shelf name="sci-fi" count="125"/>
+      <shelf name="my-library" count="123"/>
+      <shelf name="funny" count="121"/>
+      <shelf name="sci-fi-fantasy" count="117"/>
+      <shelf name="to-buy" count="112"/>
+      <shelf name="science-fiction" count="111"/>
+      <shelf name="audiobook" count="110"/>
+      <shelf name="didn-t-finish" count="107"/>
+      <shelf name="satire" count="107"/>
+      <shelf name="unfinished" count="104"/>
+      <shelf name="my-books" count="101"/>
+      <shelf name="series" count="101"/>
+      <shelf name="adult-fiction" count="99"/>
+      <shelf name="i-own" count="97"/>
+      <shelf name="audiobooks" count="96"/>
+      <shelf name="parody" count="93"/>
+      <shelf name="books-i-own" count="90"/>
+      <shelf name="read-in-2009" count="87"/>
+      <shelf name="novels" count="86"/>
+      <shelf name="fiction" count="84"/>
+      <shelf name="gave-up-on" count="82"/>
+      <shelf name="ebook" count="80"/>
+      <shelf name="austen" count="77"/>
+      <shelf name="regency" count="72"/>
+      <shelf name="read-in-2010" count="70"/>
+      <shelf name="ebooks" count="69"/>
+      <shelf name="own-it" count="69"/>
+      <shelf name="england" count="69"/>
+      <shelf name="couldn-t-finish" count="65"/>
+      <shelf name="literature" count="65"/>
+      <shelf name="retelling" count="64"/>
+      <shelf name="ya" count="64"/>
+      <shelf name="never-finished" count="63"/>
+      <shelf name="fantasy-sci-fi" count="62"/>
+      <shelf name="contemporary" count="58"/>
+      <shelf name="adventure" count="55"/>
+      <shelf name="audio" count="52"/>
+      <shelf name="could-not-finish" count="52"/>
+      <shelf name="alternate-history" count="51"/>
+      <shelf name="historical-romance" count="50"/>
+      <shelf name="austen-inspired" count="49"/>
+      <shelf name="bookclub" count="49"/>
+      <shelf name="audible" count="47"/>
+      <shelf name="home-library" count="47"/>
+      <shelf name="wish-list" count="46"/>
+      <shelf name="gave-up" count="42"/>
+      <shelf name="novel" count="41"/>
+      <shelf name="humorous" count="40"/>
+      <shelf name="borrowed" count="40"/>
+      <shelf name="general-fiction" count="40"/>
+      <shelf name="2016-reading-challenge" count="39"/>
+      <shelf name="have" count="39"/>
+      <shelf name="own-to-read" count="39"/>
+      <shelf name="books" count="39"/>
+      <shelf name="on-hold" count="39"/>
+      <shelf name="my-bookshelf" count="38"/>
+      <shelf name="paranormal-romance" count="37"/>
+      <shelf name="contemporary-fiction" count="37"/>
+      <shelf name="pride-and-prejudice" count="36"/>
+      <shelf name="audio-books" count="36"/>
+      <shelf name="paperback" count="35"/>
+      <shelf name="read-2009" count="35"/>
+      <shelf name="british" count="35"/>
+      <shelf name="on-my-shelf" count="34"/>
+      <shelf name="action" count="34"/>
+      <shelf name="personal-library" count="34"/>
+      <shelf name="reviewed" count="34"/>
+      <shelf name="read-in-2012" count="33"/>
+      <shelf name="e-book" count="33"/>
+      <shelf name="parodies" count="33"/>
+      <shelf name="science-fiction-fantasy" count="33"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>248552</id>
+<user_position>1</user_position>
+<series>
+<id>59091</id>
+<title>
+<![CDATA[
+    Pride and Prejudice and Zombies
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>2</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>8718281</id>
+<title><![CDATA[Dreadfully Ever After (Pride and Prejudice and Zombies, #2)]]></title>
+<title_without_series>Dreadfully Ever After</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8718281-dreadfully-ever-after]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320547810s/8718281.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320547810m/8718281.jpg]]></image_url>
+<num_pages>287</num_pages>
+<work>
+<id>19932678</id>
+</work>
+<isbn>1594745021</isbn>
+<isbn13>9781594745027</isbn13>
+<average_rating>3.74</average_rating>
+<ratings_count>3803</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>3</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>146628</id>
+<name>Steve Hockensmith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/146628.Steve_Hockensmith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7551580</id>
+<title>Android Karenina</title>
+<title_without_series>Android Karenina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7551580-android-karenina]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>541</num_pages>
+<work>
+<id>19289943</id>
+</work>
+<isbn>1594744602</isbn>
+<isbn13>9781594744600</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>1443</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>6</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>735413</id>
+<name>Ben H. Winters</name>
+<link><![CDATA[https://www.goodreads.com/author/show/735413.Ben_H_Winters]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6690198</id>
+<title><![CDATA[Adventures of Huckleberry Finn and Zombie Jim]]></title>
+<title_without_series><![CDATA[Adventures of Huckleberry Finn and Zombie Jim]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6690198-adventures-of-huckleberry-finn-and-zombie-jim]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1355139840s/6690198.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1355139840m/6690198.jpg]]></image_url>
+<num_pages>206</num_pages>
+<work>
+<id>25375746</id>
+</work>
+<isbn>1897217978</isbn>
+<isbn13>9781897217979</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>352</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>164602</id>
+<name>W. Bill Czolgosz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164602.W_Bill_Czolgosz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7404415</id>
+<title><![CDATA[The Adventures of Tom Sawyer and the Undead]]></title>
+<title_without_series><![CDATA[The Adventures of Tom Sawyer and the Undead]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7404415-the-adventures-of-tom-sawyer-and-the-undead]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1276718645s/7404415.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1276718645m/7404415.jpg]]></image_url>
+<num_pages>303</num_pages>
+<work>
+<id>9310701</id>
+</work>
+<isbn>0765327295</isbn>
+<isbn13>9780765327291</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>224</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>825538</id>
+<name>Don Borchert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/825538.Don_Borchert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2470643</id>
+<title><![CDATA[Zombie Haiku: Good Poetry for Your...Brains]]></title>
+<title_without_series><![CDATA[Zombie Haiku: Good Poetry for Your...Brains]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2470643.Zombie_Haiku]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2477840</id>
+</work>
+<isbn>1600610706</isbn>
+<isbn13>9781600610707</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>2525</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1098162</id>
+<name>Ryan Mecum</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1098162.Ryan_Mecum]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6515734</id>
+<title><![CDATA[Vampire Darcy's Desire: A Pride and Prejudice Adaptation]]></title>
+<title_without_series><![CDATA[Vampire Darcy's Desire: A Pride and Prejudice Adaptation]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6515734-vampire-darcy-s-desire]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1275780111s/6515734.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1275780111m/6515734.jpg]]></image_url>
+<num_pages>440</num_pages>
+<work>
+<id>6707533</id>
+</work>
+<isbn>1569757313</isbn>
+<isbn13>9781569757314</isbn13>
+<average_rating>3.45</average_rating>
+<ratings_count>848</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>1153072</id>
+<name>Regina Jeffers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1153072.Regina_Jeffers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6493406</id>
+<title><![CDATA[Jane and the Damned (Immortal Jane Austen, #1)]]></title>
+<title_without_series>Jane and the Damned</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6493406-jane-and-the-damned]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>6684844</id>
+</work>
+<isbn>0061958301</isbn>
+<isbn13>9780061958304</isbn13>
+<average_rating>3.38</average_rating>
+<ratings_count>536</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>9</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>441453</id>
+<name>Janet Mullany</name>
+<link><![CDATA[https://www.goodreads.com/author/show/441453.Janet_Mullany]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7093421</id>
+<title>Brains: A Zombie Memoir</title>
+<title_without_series>Brains: A Zombie Memoir</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7093421-brains]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1268604740s/7093421.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1268604740m/7093421.jpg]]></image_url>
+<num_pages>182</num_pages>
+<work>
+<id>7349941</id>
+</work>
+<isbn>0061974056</isbn>
+<isbn13>9780061974052</isbn13>
+<average_rating>3.56</average_rating>
+<ratings_count>2028</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>185780</id>
+<name>Robin Becker</name>
+<link><![CDATA[https://www.goodreads.com/author/show/185780.Robin_Becker]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7519652</id>
+<title><![CDATA[Shakespeare Undead (Shakespeare Undead, #1)]]></title>
+<title_without_series>Shakespeare Undead</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7519652-shakespeare-undead]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>291</num_pages>
+<work>
+<id>9737253</id>
+</work>
+<isbn>0312641524</isbn>
+<isbn13>9780312641528</isbn13>
+<average_rating>3.63</average_rating>
+<ratings_count>1043</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>17060</id>
+<name>Lori Handeland</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17060.Lori_Handeland]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7884969</id>
+<title>Night of the Living Trekkies</title>
+<title_without_series>Night of the Living Trekkies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7884969-night-of-the-living-trekkies]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>253</num_pages>
+<work>
+<id>11097770</id>
+</work>
+<isbn>1594744637</isbn>
+<isbn13>9781594744631</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>2706</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3429015</id>
+<name>Kevin David Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3429015.Kevin_David_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6691280</id>
+<title>Mr. Darcy, Vampyre</title>
+<title_without_series>Mr. Darcy, Vampyre</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6691280-mr-darcy-vampyre]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1479860257s/6691280.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1479860257m/6691280.jpg]]></image_url>
+<num_pages>308</num_pages>
+<work>
+<id>6755766</id>
+</work>
+<isbn>1402236972</isbn>
+<isbn13>9781402236976</isbn13>
+<average_rating>2.87</average_rating>
+<ratings_count>4572</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>17</publication_day>
+<authors>
+<author>
+<id>57198</id>
+<name>Amanda Grange</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57198.Amanda_Grange]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7881742</id>
+<title>Emma and the Vampires</title>
+<title_without_series>Emma and the Vampires</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7881742-emma-and-the-vampires]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>292</num_pages>
+<work>
+<id>11083666</id>
+</work>
+<isbn>1402241348</isbn>
+<isbn13>9781402241345</isbn13>
+<average_rating>3.27</average_rating>
+<ratings_count>486</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3175716</id>
+<name>Wayne Josephson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3175716.Wayne_Josephson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8437831</id>
+<title><![CDATA[Flip This Zombie (Living with the Dead, #2)]]></title>
+<title_without_series>Flip This Zombie</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8437831-flip-this-zombie]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1306046010s/8437831.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1306046010m/8437831.jpg]]></image_url>
+<num_pages>250</num_pages>
+<work>
+<id>13301420</id>
+</work>
+<isbn>0316102954</isbn>
+<isbn13>9780316102957</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>2575</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3369676</id>
+<name>Jesse Petersen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3369676.Jesse_Petersen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7149492</id>
+<title><![CDATA[Robin Hood & Friar Tuck: Zombie Killers]]></title>
+<title_without_series><![CDATA[Robin Hood & Friar Tuck: Zombie Killers]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7149492-robin-hood-friar-tuck]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>7414588</id>
+</work>
+<isbn>1926712234</isbn>
+<isbn13>9781926712239</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>99</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>10</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>2971376</id>
+<name>Paul A. Freeman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2971376.Paul_A_Freeman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>363551</id>
+<title>The Mammoth Book of Zombies </title>
+<title_without_series>The Mammoth Book of Zombies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/363551.The_Mammoth_Book_of_Zombies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330759900s/363551.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330759900m/363551.jpg]]></image_url>
+<num_pages>512</num_pages>
+<work>
+<id>353626</id>
+</work>
+<isbn>0786700238</isbn>
+<isbn13>9780786700233</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>561</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>6943</id>
+<name>Stephen Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6943.Stephen_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7089277</id>
+<title><![CDATA[Mansfield Park and Mummies: Monster Mayhem, Matrimony, Ancient Curses, True Love, and Other Dire Delights ]]></title>
+<title_without_series><![CDATA[Mansfield Park and Mummies: Monster Mayhem, Matrimony, Ancient Curses, True Love, and Other Dire Delights]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7089277-mansfield-park-and-mummies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1258520349s/7089277.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1258520349m/7089277.jpg]]></image_url>
+<num_pages>568</num_pages>
+<work>
+<id>7345225</id>
+</work>
+<isbn>1607620472</isbn>
+<isbn13>9781607620471</isbn13>
+<average_rating>3.45</average_rating>
+<ratings_count>333</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>186145</id>
+<name>Vera Nazarian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/186145.Vera_Nazarian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7014395</id>
+<title>Henry VIII: Wolfman</title>
+<title_without_series>Henry VIII: Wolfman</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7014395-henry-viii]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331049048s/7014395.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331049048m/7014395.jpg]]></image_url>
+<num_pages>407</num_pages>
+<work>
+<id>7260089</id>
+</work>
+<isbn>1444705202</isbn>
+<isbn13>9781444705201</isbn13>
+<average_rating>3.37</average_rating>
+<ratings_count>306</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>8</publication_day>
+<authors>
+<author>
+<id>3127624</id>
+<name>A.E. Moorat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3127624.A_E_Moorat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7430962</id>
+<title><![CDATA[Jane Slayre: The Literary Classic with a Blood-Sucking Twist]]></title>
+<title_without_series><![CDATA[Jane Slayre: The Literary Classic with a Blood-Sucking Twist]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7430962-jane-slayre]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1269829418s/7430962.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1269829418m/7430962.jpg]]></image_url>
+<num_pages>391</num_pages>
+<work>
+<id>9411420</id>
+</work>
+<isbn>1439191182</isbn>
+<isbn13>9781439191187</isbn13>
+<average_rating>3.69</average_rating>
+<ratings_count>3467</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>4</publication_month>
+<publication_day>13</publication_day>
+<authors>
+<author>
+<id>288167</id>
+<name>Sherri Browning Erwin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/288167.Sherri_Browning_Erwin]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

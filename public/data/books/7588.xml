@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>7588</id>
+  <title><![CDATA[A Portrait of the Artist as a Young Man]]></title>
+  <isbn><![CDATA[0142437344]]></isbn>
+  <isbn13><![CDATA[9780142437346]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01DHKRW1Y]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2003</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Penguin Classics</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A Portrait of the Artist as a Young Man is the first novel of Irish writer James Joyce. A Künstlerroman in a modernist style, it traces the religious and intellectual awakening of young Stephen Dedalus, a fictional alter ego of Joyce and an allusion to Daedalus, the consummate craftsman of Greek mythology. Stephen questions and rebels against the Catholic and Irish conventions under which he has grown, culminating in his self-exile from Ireland to Europe. The work uses techniques that Joyce developed more fully in Ulysses (1922) and Finnegans Wake (1939).]]></description>
+  <work>
+  <id type="integer">3298883</id>
+  <books_count type="integer">767</books_count>
+  <best_book_id type="integer">7588</best_book_id>
+  <reviews_count type="integer">190618</reviews_count>
+  <ratings_sum type="integer">372390</ratings_sum>
+  <ratings_count type="integer">103309</ratings_count>
+  <text_reviews_count type="integer">3941</text_reviews_count>
+  <original_publication_year type="integer">1916</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>A Portrait of the Artist as a Young Man</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:26544|4:33188|3:26133|2:11075|1:6369|total:103309</rating_dist>
+  <desc_user_id type="integer">15523061</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.60</average_rating>
+  <num_pages><![CDATA[329]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[92632]]></ratings_count>
+  <text_reviews_count><![CDATA[2943]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/7588.A_Portrait_of_the_Artist_as_a_Young_Man]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/7588.A_Portrait_of_the_Artist_as_a_Young_Man]]></link>
+  <authors>
+<author>
+<id>5144</id>
+<name>James Joyce</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1418595211p5/5144.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1418595211p2/5144.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5144.James_Joyce]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>325579</ratings_count>
+<text_reviews_count>15698</text_reviews_count>
+</author>
+<author>
+<id>5143</id>
+<name>Seamus Deane</name>
+<role>Annotations</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338971938p5/5143.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338971938p2/5143.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5143.Seamus_Deane]]></link>
+<average_rating>3.60</average_rating>
+<ratings_count>97098</ratings_count>
+<text_reviews_count>3320</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/7588.A_Portrait_of_the_Artist_as_a_Young_Man">A Portrait of the Artist as a Young Man Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0142437344&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/7588.A_Portrait_of_the_Artist_as_a_Young_Man?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="66986"/>
+      <shelf name="currently-reading" count="3223"/>
+      <shelf name="classics" count="3039"/>
+      <shelf name="fiction" count="2364"/>
+      <shelf name="favorites" count="935"/>
+      <shelf name="literature" count="589"/>
+      <shelf name="owned" count="530"/>
+      <shelf name="classic" count="453"/>
+      <shelf name="books-i-own" count="397"/>
+      <shelf name="irish" count="354"/>
+      <shelf name="novels" count="314"/>
+      <shelf name="ireland" count="300"/>
+      <shelf name="modernism" count="189"/>
+      <shelf name="20th-century" count="186"/>
+      <shelf name="school" count="162"/>
+      <shelf name="owned-books" count="153"/>
+      <shelf name="irish-literature" count="152"/>
+      <shelf name="novel" count="147"/>
+      <shelf name="kindle" count="143"/>
+      <shelf name="default" count="126"/>
+      <shelf name="literary-fiction" count="125"/>
+      <shelf name="1001" count="121"/>
+      <shelf name="english" count="105"/>
+      <shelf name="library" count="94"/>
+      <shelf name="irish-lit" count="94"/>
+      <shelf name="classic-literature" count="93"/>
+      <shelf name="my-library" count="89"/>
+      <shelf name="biography" count="86"/>
+      <shelf name="bildungsroman" count="82"/>
+      <shelf name="read-for-school" count="79"/>
+      <shelf name="to-buy" count="77"/>
+      <shelf name="coming-of-age" count="76"/>
+      <shelf name="abandoned" count="76"/>
+      <shelf name="joyce" count="71"/>
+      <shelf name="classics-to-read" count="68"/>
+      <shelf name="modern-library-100" count="67"/>
+      <shelf name="college" count="65"/>
+      <shelf name="favourites" count="64"/>
+      <shelf name="1001-books-to-read-before-you-die" count="64"/>
+      <shelf name="modern-classics" count="63"/>
+      <shelf name="unfinished" count="60"/>
+      <shelf name="james-joyce" count="59"/>
+      <shelf name="high-school" count="57"/>
+      <shelf name="for-school" count="57"/>
+      <shelf name="classic-fiction" count="57"/>
+      <shelf name="religion" count="56"/>
+      <shelf name="literary" count="55"/>
+      <shelf name="english-literature" count="55"/>
+      <shelf name="my-books" count="54"/>
+      <shelf name="british-literature" count="54"/>
+      <shelf name="british" count="54"/>
+      <shelf name="lit" count="53"/>
+      <shelf name="re-read" count="53"/>
+      <shelf name="classic-lit" count="52"/>
+      <shelf name="i-own" count="52"/>
+      <shelf name="general-fiction" count="52"/>
+      <shelf name="memoir" count="50"/>
+      <shelf name="adult-fiction" count="47"/>
+      <shelf name="audiobook" count="47"/>
+      <shelf name="to-re-read" count="46"/>
+      <shelf name="modern-library-top-100" count="46"/>
+      <shelf name="to-reread" count="46"/>
+      <shelf name="adult" count="46"/>
+      <shelf name="1910s" count="46"/>
+      <shelf name="ebook" count="45"/>
+      <shelf name="modern" count="45"/>
+      <shelf name="to-read-classics" count="44"/>
+      <shelf name="modernist" count="44"/>
+      <shelf name="university" count="42"/>
+      <shelf name="1001-books-to-read" count="41"/>
+      <shelf name="modern-library-100-best-novels" count="40"/>
+      <shelf name="book-club" count="39"/>
+      <shelf name="school-books" count="39"/>
+      <shelf name="audible" count="38"/>
+      <shelf name="1001-books-you-must-read-before-you" count="38"/>
+      <shelf name="audiobooks" count="38"/>
+      <shelf name="home-library" count="37"/>
+      <shelf name="to-read-fiction" count="37"/>
+      <shelf name="did-not-finish" count="37"/>
+      <shelf name="non-fiction" count="37"/>
+      <shelf name="philosophy" count="36"/>
+      <shelf name="wish-list" count="36"/>
+      <shelf name="historical-fiction" count="34"/>
+      <shelf name="europe" count="34"/>
+      <shelf name="personal-library" count="32"/>
+      <shelf name="stream-of-consciousness" count="32"/>
+      <shelf name="ebooks" count="31"/>
+      <shelf name="modern-library" count="30"/>
+      <shelf name="bookshelf" count="30"/>
+      <shelf name="historical" count="30"/>
+      <shelf name="own-it" count="29"/>
+      <shelf name="never-finished" count="28"/>
+      <shelf name="autobiography" count="27"/>
+      <shelf name="20th-century-literature" count="27"/>
+      <shelf name="required-reading" count="27"/>
+      <shelf name="art" count="27"/>
+      <shelf name="owned-to-read" count="26"/>
+      <shelf name="e-book" count="25"/>
+      <shelf name="1001-import" count="25"/>
+      <shelf name="audio" count="25"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>164434</id>
+<title>James Joyce</title>
+<title_without_series>James Joyce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/164434.James_Joyce]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>887</num_pages>
+<work>
+<id>2880132</id>
+</work>
+<isbn>0195033817</isbn>
+<isbn13>9780195033816</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>2015</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3572</id>
+<name>Richard Ellmann</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3572.Richard_Ellmann]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>126603</id>
+<title>Studs Lonigan</title>
+<title_without_series>Studs Lonigan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126603.Studs_Lonigan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>121922</id>
+</work>
+<isbn>1931082553</isbn>
+<isbn13>9781931082556</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>1919</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6165</id>
+<name>James T. Farrell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6165.James_T_Farrell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16114</id>
+<title><![CDATA[A Dance to the Music of Time: 3rd Movement (A Dance to the Music of Time, #7-9)]]></title>
+<title_without_series><![CDATA[A Dance to the Music of Time: 3rd Movement]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16114.A_Dance_to_the_Music_of_Time]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>715</num_pages>
+<work>
+<id>17891</id>
+</work>
+<isbn>0226677176</isbn>
+<isbn13>9780226677170</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1140</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>5</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>9947</id>
+<name>Anthony Powell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9947.Anthony_Powell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>126710</id>
+<title><![CDATA[Mountolive (The Alexandria Quartet #3)]]></title>
+<title_without_series>Mountolive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126710.Mountolive]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1849754</id>
+</work>
+<isbn>0140153209</isbn>
+<isbn13>9780140153200</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>1922</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>8166</id>
+<name>Lawrence Durrell</name>
+<link><![CDATA[https://www.goodreads.com/author/show/8166.Lawrence_Durrell]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10543</id>
+<title>Ulysses Annotated</title>
+<title_without_series>Ulysses Annotated</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10543.Ulysses_Annotated]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>698</num_pages>
+<work>
+<id>13227</id>
+</work>
+<isbn>0520067452</isbn>
+<isbn13>9780520067455</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>2649</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>9</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>6925</id>
+<name>Don Gifford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6925.Don_Gifford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>261441</id>
+<title><![CDATA[USA: The 42nd Parallel / 1919 / The Big Money]]></title>
+<title_without_series><![CDATA[USA: The 42nd Parallel / 1919 / The Big Money]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/261441.USA]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1309200622s/261441.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1309200622m/261441.jpg]]></image_url>
+<num_pages>1312</num_pages>
+<work>
+<id>6503267</id>
+</work>
+<isbn>1883011140</isbn>
+<isbn13>9781883011147</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>4043</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>4778</id>
+<name>John Dos Passos</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4778.John_Dos_Passos]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13368</id>
+<title><![CDATA[James Joyce's Ulysses: A Study]]></title>
+<title_without_series><![CDATA[James Joyce's Ulysses: A Study]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13368.James_Joyce_s_Ulysses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>405</num_pages>
+<work>
+<id>15531</id>
+</work>
+<isbn>0394700139</isbn>
+<isbn13>9780394700137</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>1665</ratings_count>
+<publication_year>1955</publication_year>
+<publication_month>1</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>5744</id>
+<name>Stuart Gilbert</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5744.Stuart_Gilbert]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12194</id>
+<title>Lord Jim</title>
+<title_without_series>Lord Jim</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12194.Lord_Jim]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1372366969s/12194.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1372366969m/12194.jpg]]></image_url>
+<num_pages>455</num_pages>
+<work>
+<id>2578988</id>
+</work>
+<isbn>1551111721</isbn>
+<isbn13>9781551111728</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>22723</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>3345</id>
+<name>Joseph Conrad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3345.Joseph_Conrad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>775366</id>
+<title>The Ambassadors</title>
+<title_without_series>The Ambassadors</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/775366.The_Ambassadors]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>528</num_pages>
+<work>
+<id>1395409</id>
+</work>
+<isbn>0140432337</isbn>
+<isbn13>9780140432336</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>9770</ratings_count>
+<publication_year>1987</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>159</id>
+<name>Henry James</name>
+<link><![CDATA[https://www.goodreads.com/author/show/159.Henry_James]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>190576</id>
+<title><![CDATA[Remembrance of Things Past: Volume I - Swann's Way & Within a Budding Grove ]]></title>
+<title_without_series><![CDATA[Remembrance of Things Past: Volume I - Swann's Way & Within a Budding Grove]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/190576.Remembrance_of_Things_Past]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1371343768s/190576.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1371343768m/190576.jpg]]></image_url>
+<num_pages>1056</num_pages>
+<work>
+<id>45683795</id>
+</work>
+<isbn>0394711823</isbn>
+<isbn13>9780394711829</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>2957</ratings_count>
+<publication_year>1982</publication_year>
+<publication_month>8</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>233619</id>
+<name>Marcel Proust</name>
+<link><![CDATA[https://www.goodreads.com/author/show/233619.Marcel_Proust]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7628</id>
+<title>The Good Soldier</title>
+<title_without_series>The Good Soldier</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7628.The_Good_Soldier]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1389213508s/7628.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1389213508m/7628.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>1881188</id>
+</work>
+<isbn>1551113813</isbn>
+<isbn13>9781551113814</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>17636</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>1</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>1209</id>
+<name>Ford Madox Ford</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1209.Ford_Madox_Ford]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>126512</id>
+<title>The Way of All Flesh</title>
+<title_without_series>The Way of All Flesh</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/126512.The_Way_of_All_Flesh]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328864358s/126512.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328864358m/126512.jpg]]></image_url>
+<num_pages>315</num_pages>
+<work>
+<id>575504</id>
+</work>
+<isbn>0486434664</isbn>
+<isbn13>9780486434667</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>6730</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>8</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>72703</id>
+<name>Samuel Butler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72703.Samuel_Butler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>333314</id>
+<title>Murphy</title>
+<title_without_series>Murphy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/333314.Murphy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>288</num_pages>
+<work>
+<id>52684</id>
+</work>
+<isbn>0802150373</isbn>
+<isbn13>9780802150370</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>3730</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>1</publication_month>
+<publication_day>20</publication_day>
+<authors>
+<author>
+<id>1433597</id>
+<name>Samuel Beckett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1433597.Samuel_Beckett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>446103</id>
+<title>Re Joyce</title>
+<title_without_series>Re Joyce</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/446103.Re_Joyce]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>434807</id>
+</work>
+<isbn>0393004457</isbn>
+<isbn13>9780393004458</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>435</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5735</id>
+<name>Anthony Burgess</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5735.Anthony_Burgess]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>80176</id>
+<title>Winesburg, Ohio</title>
+<title_without_series>Winesburg, Ohio</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/80176.Winesburg_Ohio]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>191520</id>
+</work>
+<isbn>0192839772</isbn>
+<isbn13>9780192839770</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>24758</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>11</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>45645</id>
+<name>Sherwood Anderson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/45645.Sherwood_Anderson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>188458</id>
+<title>A High Wind in Jamaica</title>
+<title_without_series>A High Wind in Jamaica</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/188458.A_High_Wind_in_Jamaica]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>279</num_pages>
+<work>
+<id>2166961</id>
+</work>
+<isbn>0940322153</isbn>
+<isbn13>9780940322158</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>6689</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>295289</id>
+<name>Richard Hughes</name>
+<link><![CDATA[https://www.goodreads.com/author/show/295289.Richard_Hughes]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>31072</id>
+<title>Under the Volcano</title>
+<title_without_series>Under the Volcano</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/31072.Under_the_Volcano]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>397</num_pages>
+<work>
+<id>1321805</id>
+</work>
+<isbn>0060955228</isbn>
+<isbn13>9780060955229</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>18011</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>4</publication_month>
+<publication_day>26</publication_day>
+<authors>
+<author>
+<id>17439</id>
+<name>Malcolm Lowry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17439.Malcolm_Lowry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>59642</id>
+<title>The Dalkey Archive</title>
+<title_without_series>The Dalkey Archive</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/59642.The_Dalkey_Archive]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>969591</id>
+</work>
+<isbn>1564781720</isbn>
+<isbn13>9781564781727</isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>1249</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>15248</id>
+<name>Flann O&apos;Brien</name>
+<link><![CDATA[https://www.goodreads.com/author/show/15248.Flann_O_Brien]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

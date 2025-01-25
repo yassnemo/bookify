@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>57605</id>
+  <title>Pat the Bunny</title>
+  <isbn><![CDATA[0307444058]]></isbn>
+  <isbn13><![CDATA[9780307444059]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>15</publication_day>
+  <publisher>Golden Books</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Touch and Feel books enhance a toddler's sensory world with textured materials. The materials are attached to durable pages, and the toddler is asked to feel the material or to look in the provided mirror.]]></description>
+  <work>
+  <id type="integer">56119</id>
+  <books_count type="integer">11</books_count>
+  <best_book_id type="integer">57605</best_book_id>
+  <reviews_count type="integer">24134</reviews_count>
+  <ratings_sum type="integer">80710</ratings_sum>
+  <ratings_count type="integer">19873</ratings_count>
+  <text_reviews_count type="integer">351</text_reviews_count>
+  <original_publication_year type="integer">1940</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Pat the Bunny (Touch and Feel Book)</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9378|4:4483|3:4306|2:1264|1:442|total:19873</rating_dist>
+  <desc_user_id type="integer">-110</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.06</average_rating>
+  <num_pages><![CDATA[18]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[19190]]></ratings_count>
+  <text_reviews_count><![CDATA[330]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/57605.Pat_the_Bunny]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/57605.Pat_the_Bunny]]></link>
+  <authors>
+<author>
+<id>32504</id>
+<name>Dorothy Kunhardt</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32504.Dorothy_Kunhardt]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>20435</ratings_count>
+<text_reviews_count>436</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/57605.Pat_the_Bunny">Pat the Bunny Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0307444058&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/57605.Pat_the_Bunny?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="1554"/>
+      <shelf name="picture-books" count="232"/>
+      <shelf name="childrens" count="223"/>
+      <shelf name="children-s-books" count="213"/>
+      <shelf name="children" count="158"/>
+      <shelf name="00-in-class" count="143"/>
+      <shelf name="children-s" count="142"/>
+      <shelf name="04-babies-and-toddlers" count="92"/>
+      <shelf name="kids" count="79"/>
+      <shelf name="childrens-books" count="73"/>
+      <shelf name="kids-books" count="66"/>
+      <shelf name="fiction" count="56"/>
+      <shelf name="picture-book" count="49"/>
+      <shelf name="classics" count="39"/>
+      <shelf name="favorites" count="36"/>
+      <shelf name="currently-reading" count="35"/>
+      <shelf name="baby-books" count="27"/>
+      <shelf name="board-books" count="25"/>
+      <shelf name="owned" count="25"/>
+      <shelf name="animals" count="22"/>
+      <shelf name="children-s-lit" count="20"/>
+      <shelf name="children-s-literature" count="18"/>
+      <shelf name="children-books" count="17"/>
+      <shelf name="childhood-favorites" count="17"/>
+      <shelf name="in-class" count="16"/>
+      <shelf name="children-s-picture-books" count="16"/>
+      <shelf name="childhood" count="15"/>
+      <shelf name="baby" count="15"/>
+      <shelf name="board-book" count="13"/>
+      <shelf name="babies-and-toddlers" count="12"/>
+      <shelf name="childhood-books" count="12"/>
+      <shelf name="kid-books" count="12"/>
+      <shelf name="childrens-lit" count="12"/>
+      <shelf name="books-i-own" count="12"/>
+      <shelf name="interactive" count="11"/>
+      <shelf name="classic" count="11"/>
+      <shelf name="children-s-book" count="10"/>
+      <shelf name="owned-books" count="9"/>
+      <shelf name="picture" count="9"/>
+      <shelf name="my-childhood" count="8"/>
+      <shelf name="rabbits" count="8"/>
+      <shelf name="1001-childrens-books" count="8"/>
+      <shelf name="picturebooks" count="8"/>
+      <shelf name="kiddos" count="7"/>
+      <shelf name="kid-s-books" count="7"/>
+      <shelf name="babies" count="7"/>
+      <shelf name="books-for-children" count="7"/>
+      <shelf name="touch-and-feel" count="6"/>
+      <shelf name="read-kids" count="6"/>
+      <shelf name="books-we-own" count="6"/>
+      <shelf name="favorite-children-s-books" count="6"/>
+      <shelf name="read-to-kids" count="6"/>
+      <shelf name="for-kids" count="6"/>
+      <shelf name="to-buy" count="6"/>
+      <shelf name="juvenile" count="6"/>
+      <shelf name="shelfari-favorites" count="5"/>
+      <shelf name="children-s-fiction" count="5"/>
+      <shelf name="ch-04-babies-toddlers" count="5"/>
+      <shelf name="default" count="5"/>
+      <shelf name="library" count="5"/>
+      <shelf name="read-childrens" count="5"/>
+      <shelf name="childrens-book" count="5"/>
+      <shelf name="books-from-my-childhood" count="5"/>
+      <shelf name="1001-children-s-books" count="5"/>
+      <shelf name="preschool" count="5"/>
+      <shelf name="list-of-betterment" count="4"/>
+      <shelf name="baby-library" count="4"/>
+      <shelf name="1-000-books-before-kindergarten" count="4"/>
+      <shelf name="interactive-picture-books" count="4"/>
+      <shelf name="read-aloud" count="4"/>
+      <shelf name="classic-picture-books" count="4"/>
+      <shelf name="read-as-a-kid" count="4"/>
+      <shelf name="early-childhood" count="4"/>
+      <shelf name="toddler-books" count="4"/>
+      <shelf name="fantasy" count="4"/>
+      <shelf name="baby-s-books" count="4"/>
+      <shelf name="kids-stuff" count="4"/>
+      <shelf name="kids-books-we-own" count="4"/>
+      <shelf name="1001-children-s-books-you-must-read" count="4"/>
+      <shelf name="toddlers" count="4"/>
+      <shelf name="read-with-kids" count="4"/>
+      <shelf name="kid-stuff" count="4"/>
+      <shelf name="childhood-reads" count="4"/>
+      <shelf name="children-s-books-read" count="4"/>
+      <shelf name="read-more-than-once" count="4"/>
+      <shelf name="kidlit" count="4"/>
+      <shelf name="kid-lit" count="4"/>
+      <shelf name="youth" count="4"/>
+      <shelf name="own-it" count="4"/>
+      <shelf name="books-for-kids" count="4"/>
+      <shelf name="childrensbooks" count="4"/>
+      <shelf name="11-in-class" count="3"/>
+      <shelf name="04-preschoolers" count="3"/>
+      <shelf name="young-at-heart" count="3"/>
+      <shelf name="childrens-board-books" count="3"/>
+      <shelf name="our-library" count="3"/>
+      <shelf name="childrens-picture" count="3"/>
+      <shelf name="childrens-classics" count="3"/>
+      <shelf name="children-s-read" count="3"/>
+      <shelf name="olivia" count="3"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1296603</id>
+<title>Tickle, Tickle</title>
+<title_without_series>Tickle, Tickle</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1296603.Tickle_Tickle]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>10</num_pages>
+<work>
+<id>1285735</id>
+</work>
+<isbn>0689819862</isbn>
+<isbn13>9780689819865</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>517</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>72144</id>
+<name>Helen Oxenbury</name>
+<link><![CDATA[https://www.goodreads.com/author/show/72144.Helen_Oxenbury]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4536416</id>
+<title>Lavender&apos;s Blue</title>
+<title_without_series>Lavender&apos;s Blue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4536416-lavender-s-blue]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1294020323s/4536416.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1294020323m/4536416.jpg]]></image_url>
+<num_pages>180</num_pages>
+<work>
+<id>4585659</id>
+</work>
+<isbn>0192762818</isbn>
+<isbn13>9780192762818</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>172</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>602777</id>
+<name>Kathleen Lines</name>
+<link><![CDATA[https://www.goodreads.com/author/show/602777.Kathleen_Lines]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>805362</id>
+<title>Every Friday</title>
+<title_without_series>Every Friday</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/805362.Every_Friday]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316738420s/805362.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316738420m/805362.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>791314</id>
+</work>
+<isbn>0805077243</isbn>
+<isbn13>9780805077247</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>393</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>44885</id>
+<name>Dan Yaccarino</name>
+<link><![CDATA[https://www.goodreads.com/author/show/44885.Dan_Yaccarino]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2065038</id>
+<title><![CDATA[The Three Railway Engines (The Railway Series, #1)]]></title>
+<title_without_series>The Three Railway Engines</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2065038.The_Three_Railway_Engines]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1331769572s/2065038.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1331769572m/2065038.jpg]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>2070255</id>
+</work>
+<isbn>0434803774</isbn>
+<isbn13>9780434803774</isbn13>
+<average_rating>3.95</average_rating>
+<ratings_count>235</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>9</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>17803</id>
+<name>Wilbert Awdry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/17803.Wilbert_Awdry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>132609</id>
+<title>Where&apos;s Spot?</title>
+<title_without_series>Where&apos;s Spot?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/132609.Where_s_Spot_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>24</num_pages>
+<work>
+<id>783733</id>
+</work>
+<isbn>0140504206</isbn>
+<isbn13>9780140504200</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>13759</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>11208</id>
+<name>Eric Hill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11208.Eric_Hill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>824742</id>
+<title>Good Night, Alfie Atkins</title>
+<title_without_series>Good Night, Alfie Atkins</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/824742.Good_Night_Alfie_Atkins]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312034500s/824742.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312034500m/824742.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>810509</id>
+</work>
+<isbn>9129661544</isbn>
+<isbn13>9789129661545</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>235</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>429885</id>
+<name>Gunilla Bergström</name>
+<link><![CDATA[https://www.goodreads.com/author/show/429885.Gunilla_Bergstr_m]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>820816</id>
+<title><![CDATA[Richard Scarry's Best Word Book Ever]]></title>
+<title_without_series><![CDATA[Richard Scarry's Best Word Book Ever]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/820816.Richard_Scarry_s_Best_Word_Book_Ever]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1333576379s/820816.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1333576379m/820816.jpg]]></image_url>
+<num_pages>72</num_pages>
+<work>
+<id>304233</id>
+</work>
+<isbn>0307155102</isbn>
+<isbn13>9780307155108</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>5652</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>13901</id>
+<name>Richard Scarry</name>
+<link><![CDATA[https://www.goodreads.com/author/show/13901.Richard_Scarry]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6637999</id>
+<title><![CDATA[Maisy Goes to Preschool: A Maisy First Experiences Book]]></title>
+<title_without_series><![CDATA[Maisy Goes to Preschool: A Maisy First Experiences Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6637999-maisy-goes-to-preschool]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320428488s/6637999.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320428488m/6637999.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>6832436</id>
+</work>
+<isbn>0763642541</isbn>
+<isbn13>9780763642549</isbn13>
+<average_rating>3.70</average_rating>
+<ratings_count>643</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>6</publication_month>
+<publication_day>9</publication_day>
+<authors>
+<author>
+<id>30927</id>
+<name>Lucy Cousins</name>
+<link><![CDATA[https://www.goodreads.com/author/show/30927.Lucy_Cousins]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1208498</id>
+<title>The Baby&apos;s Catalogue</title>
+<title_without_series>The Baby&apos;s Catalogue</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1208498.The_Baby_s_Catalogue]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>28</num_pages>
+<work>
+<id>2444709</id>
+</work>
+<isbn>0140503854</isbn>
+<isbn13>9780140503852</isbn13>
+<average_rating>3.89</average_rating>
+<ratings_count>469</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>9</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>49420</id>
+<name>Janet Ahlberg</name>
+<link><![CDATA[https://www.goodreads.com/author/show/49420.Janet_Ahlberg]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>406790</id>
+<title><![CDATA[Good Dog, Carl (Good Dog, Carl #1)]]></title>
+<title_without_series>Good Dog, Carl</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/406790.Good_Dog_Carl]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>2891461</id>
+</work>
+<isbn>0689807481</isbn>
+<isbn13>9780689807480</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>8037</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>40883</id>
+<name>Alexandra Day</name>
+<link><![CDATA[https://www.goodreads.com/author/show/40883.Alexandra_Day]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58922</id>
+<title>The Runaway Bunny</title>
+<title_without_series>The Runaway Bunny</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58922.The_Runaway_Bunny]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1468816103s/58922.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1468816103m/58922.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2039654</id>
+</work>
+<isbn>0060775823</isbn>
+<isbn13>9780060775827</isbn13>
+<average_rating>4.14</average_rating>
+<ratings_count>54291</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>18479</id>
+<name>Margaret Wise Brown</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18479.Margaret_Wise_Brown]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4600</id>
+<title>Moo, Baa, La La La!</title>
+<title_without_series>Moo, Baa, La La La!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4600.Moo_Baa_La_La_La_]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1451996462s/4600.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1451996462m/4600.jpg]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>477124</id>
+</work>
+<isbn>0689861133</isbn>
+<isbn13>9780689861130</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>27432</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>9</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>549217</id>
+<title>Baby Faces</title>
+<title_without_series>Baby Faces</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/549217.Baby_Faces]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>16</num_pages>
+<work>
+<id>536465</id>
+</work>
+<isbn>0789436507</isbn>
+<isbn13>9780789436504</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>295</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>10</publication_month>
+<publication_day>14</publication_day>
+<authors>
+<author>
+<id>85770</id>
+<name>Dawn Sirett</name>
+<link><![CDATA[https://www.goodreads.com/author/show/85770.Dawn_Sirett]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>284665</id>
+<title>Peek-a-Who?</title>
+<title_without_series>Peek-a-Who?</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/284665.Peek_a_Who_]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>276175</id>
+</work>
+<isbn>0811826023</isbn>
+<isbn13>9780811826020</isbn13>
+<average_rating>4.21</average_rating>
+<ratings_count>4959</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>76189</id>
+<name>Nina Laden</name>
+<link><![CDATA[https://www.goodreads.com/author/show/76189.Nina_Laden]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>157051</id>
+<title>Once Upon a Potty: Boy</title>
+<title_without_series>Once Upon a Potty: Boy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/157051.Once_Upon_a_Potty]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>40</num_pages>
+<work>
+<id>151558</id>
+</work>
+<isbn>1554072832</isbn>
+<isbn13>9781554072835</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>772</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>3</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>90839</id>
+<name>Alona Frankel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/90839.Alona_Frankel]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>276553</id>
+<title>Daddy Kisses</title>
+<title_without_series>Daddy Kisses</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/276553.Daddy_Kisses]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>14</num_pages>
+<work>
+<id>268193</id>
+</work>
+<isbn>0811839141</isbn>
+<isbn13>9780811839143</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>484</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>3</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>161142</id>
+<name>Anne Gutman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/161142.Anne_Gutman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>762517</id>
+<title><![CDATA[Open the Barn Door (A Chunky Book(R))]]></title>
+<title_without_series><![CDATA[Open the Barn Door (A Chunky Book]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/762517.Open_the_Barn_Door_A_Chunky_Book]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320511683s/762517.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320511683m/762517.jpg]]></image_url>
+<num_pages>22</num_pages>
+<work>
+<id>748608</id>
+</work>
+<isbn>0679809015</isbn>
+<isbn13>9780679809012</isbn13>
+<average_rating>4.22</average_rating>
+<ratings_count>372</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>4</publication_month>
+<publication_day>6</publication_day>
+<authors>
+<author>
+<id>273671</id>
+<name>Christopher Santoro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/273671.Christopher_Santoro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>833535</id>
+<title>George and Martha</title>
+<title_without_series>George and Martha</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/833535.George_and_Martha]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>48</num_pages>
+<work>
+<id>46151575</id>
+</work>
+<isbn>0395199727</isbn>
+<isbn13>9780395199725</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3696</ratings_count>
+<publication_year>1974</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>27881</id>
+<name>James  Marshall</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27881.James_Marshall]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

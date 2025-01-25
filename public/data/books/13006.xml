@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>13006</id>
+  <title>Julius Caesar</title>
+  <isbn><![CDATA[0198320272]]></isbn>
+  <isbn13><![CDATA[9780198320272]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00A73FO6A]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1354574927m/13006.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1354574927s/13006.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>17</publication_day>
+  <publisher>Oxford University Press, USA</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[The Oxford School Shakespeare has become the preferred introduction to the literary legacy of the greatest playwright in the English language. This exclusive collection of the Bard's best works has been designed specifically for readers new to Shakespeare's rich literary legacy. Each play is presented complete and unabridged, in large print. Every book is well illustrated, and starts with a commentary and character summary. Scene synopses and character summaries clarify confusing plots, while incisive essays explore the historical context and Shakespeare's sources. Each book ends with a complete list of Shakespeare's plays and a brief chronology of the Bard's life. The detailed explanatory notes are written clearly and positioned right next to the text--no more squinting at microscopic footnotes or flipping pages back and forth in search of endnotes! <br />The new edition of the series features new covers and new illustrations, including both new drawings and photos from recent productions of Shakespeare's plays around the globe. In addition, the notes and the introductory material have been completely revised in line with new research and in order to make them clearer and more accessible. Finally, the entire text has been redesigned and reset to enhance readability. The new edition achieves the feat of unprecedented clarity of presentation without any cuts to the original text or the detailed explanations.]]></description>
+  <work>
+  <id type="integer">2796883</id>
+  <books_count type="integer">1130</books_count>
+  <best_book_id type="integer">13006</best_book_id>
+  <reviews_count type="integer">198349</reviews_count>
+  <ratings_sum type="integer">496765</ratings_sum>
+  <ratings_count type="integer">135998</ratings_count>
+  <text_reviews_count type="integer">3047</text_reviews_count>
+  <original_publication_year type="integer">1599</original_publication_year>
+  <original_publication_month type="integer">12</original_publication_month>
+  <original_publication_day type="integer">21</original_publication_day>
+  <original_title>The Tragedy of Julius Caesar</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:30835|4:46778|3:42029|2:13035|1:3321|total:135998</rating_dist>
+  <desc_user_id type="integer">38179635</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.65</average_rating>
+  <num_pages><![CDATA[95]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Oxford School Shakespeare]]></edition_information>
+  <ratings_count><![CDATA[119998]]></ratings_count>
+  <text_reviews_count><![CDATA[2088]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13006.Julius_Caesar]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13006.Julius_Caesar]]></link>
+  <authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>5097983</ratings_count>
+<text_reviews_count>81655</text_reviews_count>
+</author>
+<author>
+<id>235886</id>
+<name>Roma Gill</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1389371265p5/235886.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1389371265p2/235886.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/235886.Roma_Gill]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>141628</ratings_count>
+<text_reviews_count>3004</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/13006.Julius_Caesar">Julius Caesar Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0198320272&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/13006.Julius_Caesar?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="32072"/>
+      <shelf name="classics" count="4654"/>
+      <shelf name="currently-reading" count="2713"/>
+      <shelf name="shakespeare" count="1520"/>
+      <shelf name="drama" count="1081"/>
+      <shelf name="fiction" count="1060"/>
+      <shelf name="classic" count="722"/>
+      <shelf name="school" count="617"/>
+      <shelf name="favorites" count="593"/>
+      <shelf name="historical-fiction" count="528"/>
+      <shelf name="play" count="510"/>
+      <shelf name="books-i-own" count="367"/>
+      <shelf name="literature" count="349"/>
+      <shelf name="read-for-school" count="346"/>
+      <shelf name="owned" count="340"/>
+      <shelf name="for-school" count="246"/>
+      <shelf name="high-school" count="246"/>
+      <shelf name="theatre" count="240"/>
+      <shelf name="poetry" count="215"/>
+      <shelf name="historical" count="209"/>
+      <shelf name="history" count="189"/>
+      <shelf name="school-books" count="187"/>
+      <shelf name="tragedy" count="153"/>
+      <shelf name="classic-literature" count="141"/>
+      <shelf name="british" count="139"/>
+      <shelf name="rory-gilmore-reading-challenge" count="137"/>
+      <shelf name="theater" count="134"/>
+      <shelf name="owned-books" count="107"/>
+      <shelf name="british-literature" count="105"/>
+      <shelf name="read-in-school" count="105"/>
+      <shelf name="school-reads" count="94"/>
+      <shelf name="william-shakespeare" count="89"/>
+      <shelf name="english" count="87"/>
+      <shelf name="required-reading" count="85"/>
+      <shelf name="plays" count="83"/>
+      <shelf name="adult" count="83"/>
+      <shelf name="default" count="82"/>
+      <shelf name="rory-gilmore-challenge" count="82"/>
+      <shelf name="school-reading" count="77"/>
+      <shelf name="english-literature" count="75"/>
+      <shelf name="my-library" count="70"/>
+      <shelf name="16th-century" count="63"/>
+      <shelf name="british-lit" count="61"/>
+      <shelf name="rory-gilmore" count="56"/>
+      <shelf name="favourites" count="55"/>
+      <shelf name="my-books" count="54"/>
+      <shelf name="teatro" count="53"/>
+      <shelf name="classic-lit" count="53"/>
+      <shelf name="library" count="52"/>
+      <shelf name="italy" count="50"/>
+      <shelf name="books-for-school" count="48"/>
+      <shelf name="i-own" count="45"/>
+      <shelf name="gilmore-girls" count="45"/>
+      <shelf name="read-in-high-school" count="45"/>
+      <shelf name="renaissance" count="45"/>
+      <shelf name="my-ebooks" count="44"/>
+      <shelf name="the-classics" count="44"/>
+      <shelf name="rory-gilmore-reading-list" count="43"/>
+      <shelf name="10th-grade" count="43"/>
+      <shelf name="brit-lit" count="43"/>
+      <shelf name="classics-to-read" count="43"/>
+      <shelf name="politics" count="40"/>
+      <shelf name="rome" count="39"/>
+      <shelf name="classic-fiction" count="37"/>
+      <shelf name="read-in-2015" count="36"/>
+      <shelf name="re-read" count="36"/>
+      <shelf name="adult-fiction" count="35"/>
+      <shelf name="to-buy" count="34"/>
+      <shelf name="england" count="32"/>
+      <shelf name="ebook" count="31"/>
+      <shelf name="english-lit" count="31"/>
+      <shelf name="own-it" count="31"/>
+      <shelf name="read-in-2016" count="30"/>
+      <shelf name="books-i-read-for-school" count="30"/>
+      <shelf name="ebooks" count="30"/>
+      <shelf name="europe" count="30"/>
+      <shelf name="poetry-plays" count="30"/>
+      <shelf name="drama-plays" count="30"/>
+      <shelf name="kindle" count="28"/>
+      <shelf name="audiobook" count="28"/>
+      <shelf name="high-school-reading" count="28"/>
+      <shelf name="novels" count="28"/>
+      <shelf name="classics-read" count="28"/>
+      <shelf name="literary" count="28"/>
+      <shelf name="ap-lit" count="27"/>
+      <shelf name="young-adult" count="27"/>
+      <shelf name="audiobooks" count="27"/>
+      <shelf name="to-reread" count="27"/>
+      <shelf name="university" count="26"/>
+      <shelf name="for-class" count="26"/>
+      <shelf name="poetry-and-plays" count="26"/>
+      <shelf name="to-read-classics" count="25"/>
+      <shelf name="home-library" count="25"/>
+      <shelf name="murder" count="25"/>
+      <shelf name="borrowed" count="25"/>
+      <shelf name="lit" count="25"/>
+      <shelf name="sophomore-year" count="24"/>
+      <shelf name="college" count="24"/>
+      <shelf name="4-stars" count="23"/>
+      <shelf name="classical" count="23"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>3799</id>
+        <document_url>
+          http://feedbooks.com/book/2942.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>209186</id>
+<title>Edward II</title>
+<title_without_series>Edward II</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/209186.Edward_II]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>202464</id>
+</work>
+<isbn>1854594109</isbn>
+<isbn13>9781854594105</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>3418</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>12</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>11155</id>
+<name>Christopher Marlowe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/11155.Christopher_Marlowe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>380609</id>
+<title>The Bacchae</title>
+<title_without_series>The Bacchae</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/380609.The_Bacchae]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328704140s/380609.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328704140m/380609.jpg]]></image_url>
+<num_pages>96</num_pages>
+<work>
+<id>1842204</id>
+</work>
+<isbn>1854594117</isbn>
+<isbn13>9781854594112</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>9799</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>4</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>973</id>
+<name>Euripides</name>
+<link><![CDATA[https://www.goodreads.com/author/show/973.Euripides]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>227111</id>
+<title><![CDATA[The Night Thoreau Spent in Jail]]></title>
+<title_without_series><![CDATA[The Night Thoreau Spent in Jail]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/227111.The_Night_Thoreau_Spent_in_Jail]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1417605593s/227111.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1417605593m/227111.jpg]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>651404</id>
+</work>
+<isbn>0809012235</isbn>
+<isbn13>9780809012237</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>1861</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>7</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>41992</id>
+<name>Jerome Lawrence</name>
+<link><![CDATA[https://www.goodreads.com/author/show/41992.Jerome_Lawrence]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>231560</id>
+<title>Uncle Vanya</title>
+<title_without_series>Uncle Vanya</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/231560.Uncle_Vanya]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1443337895s/231560.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1443337895m/231560.jpg]]></image_url>
+<num_pages>76</num_pages>
+<work>
+<id>622687</id>
+</work>
+<isbn>1406507881</isbn>
+<isbn13>9781406507881</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>13346</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5031025</id>
+<name>Anton Chekhov</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5031025.Anton_Chekhov]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1519</id>
+<title><![CDATA[The Oresteia  (Ορέστεια, #1-3)]]></title>
+<title_without_series>The Oresteia</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1519.The_Oresteia]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391822282s/1519.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391822282m/1519.jpg]]></image_url>
+<num_pages>335</num_pages>
+<work>
+<id>2378</id>
+</work>
+<isbn>0140443339</isbn>
+<isbn13>9780140443332</isbn13>
+<average_rating>3.99</average_rating>
+<ratings_count>28193</ratings_count>
+<publication_year>1984</publication_year>
+<publication_month>2</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>990</id>
+<name>Aeschylus</name>
+<link><![CDATA[https://www.goodreads.com/author/show/990.Aeschylus]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>258123</id>
+<title>Samson Agonistes</title>
+<title_without_series>Samson Agonistes</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/258123.Samson_Agonistes]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>170</num_pages>
+<work>
+<id>2325724</id>
+</work>
+<isbn>076618952X</isbn>
+<isbn13>9780766189522</isbn13>
+<average_rating>3.72</average_rating>
+<ratings_count>1709</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>9876</id>
+<name>John Milton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/9876.John_Milton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>494785</id>
+<title>The Duchess of Malfi</title>
+<title_without_series>The Duchess of Malfi</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/494785.The_Duchess_of_Malfi]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>134</num_pages>
+<work>
+<id>1172625</id>
+</work>
+<isbn>0393900916</isbn>
+<isbn13>9780393900910</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>9833</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>12</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>39090</id>
+<name>John Webster</name>
+<link><![CDATA[https://www.goodreads.com/author/show/39090.John_Webster]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>292278</id>
+<title><![CDATA[Four Major Plays, Vol. 1: A Doll House / The Wild Duck / Hedda Gabler / The Master Builder]]></title>
+<title_without_series><![CDATA[Four Major Plays, Vol. 1: A Doll House / The Wild Duck / Hedda Gabler / The Master Builder]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/292278.Four_Major_Plays_Vol_1]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327962390s/292278.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327962390m/292278.jpg]]></image_url>
+<num_pages>384</num_pages>
+<work>
+<id>6566946</id>
+</work>
+<isbn>0451524063</isbn>
+<isbn13>9780451524065</isbn13>
+<average_rating>4.02</average_rating>
+<ratings_count>1300</ratings_count>
+<publication_year>1965</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>2730977</id>
+<name>Henrik Ibsen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2730977.Henrik_Ibsen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2048536</id>
+<title>The Maids Tragedy</title>
+<title_without_series>The Maids Tragedy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2048536.The_Maids_Tragedy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>2053472</id>
+</work>
+<isbn>1434621774</isbn>
+<isbn13>9781434621771</isbn13>
+<average_rating>3.50</average_rating>
+<ratings_count>138</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>5</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>54700</id>
+<name>Francis Beaumont</name>
+<link><![CDATA[https://www.goodreads.com/author/show/54700.Francis_Beaumont]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>85679</id>
+<title><![CDATA[Mother Courage and Her Children]]></title>
+<title_without_series><![CDATA[Mother Courage and Her Children]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/85679.Mother_Courage_and_Her_Children]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>2732306</id>
+</work>
+<isbn>155970361X</isbn>
+<isbn13>9781559703611</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>12090</ratings_count>
+<publication_year>1996</publication_year>
+<publication_month>10</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>26853</id>
+<name>Bertolt Brecht</name>
+<link><![CDATA[https://www.goodreads.com/author/show/26853.Bertolt_Brecht]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12274</id>
+<title>Saint Joan</title>
+<title_without_series>Saint Joan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12274.Saint_Joan]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358725811s/12274.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358725811m/12274.jpg]]></image_url>
+<num_pages>160</num_pages>
+<work>
+<id>1115673</id>
+</work>
+<isbn>0140437916</isbn>
+<isbn13>9780140437911</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>5629</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>1</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>5217</id>
+<name>George Bernard Shaw</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5217.George_Bernard_Shaw]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>148313</id>
+<title><![CDATA[Oedipus at Colonus (The Theban Plays, #2)]]></title>
+<title_without_series>Oedipus at Colonus</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/148313.Oedipus_at_Colonus]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>143129</id>
+</work>
+<isbn>0195135040</isbn>
+<isbn13>9780195135046</isbn13>
+<average_rating>3.77</average_rating>
+<ratings_count>7051</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>12</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>1002</id>
+<name>Sophocles</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1002.Sophocles]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>351605</id>
+<title>The Changeling</title>
+<title_without_series>The Changeling</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/351605.The_Changeling]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>130</num_pages>
+<work>
+<id>341835</id>
+</work>
+<isbn>0393900614</isbn>
+<isbn13>9780393900613</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>1702</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>22584</id>
+<name>Thomas Middleton</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22584.Thomas_Middleton]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>212896</id>
+<title>Mourning Becomes Electra</title>
+<title_without_series>Mourning Becomes Electra</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/212896.Mourning_Becomes_Electra]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>162</num_pages>
+<work>
+<id>1365850</id>
+</work>
+<isbn>185459138X</isbn>
+<isbn13>9781854591388</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>3785</ratings_count>
+<publication_year>1992</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7680</id>
+<name>Eugene O&apos;Neill</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7680.Eugene_O_Neill]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>629931</id>
+<title>The Night of the Iguana</title>
+<title_without_series>The Night of the Iguana</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/629931.The_Night_of_the_Iguana]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391639817s/629931.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391639817m/629931.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>616259</id>
+</work>
+<isbn>0822208237</isbn>
+<isbn13>9780822208235</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>4003</ratings_count>
+<publication_year>1990</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7751</id>
+<name>Tennessee Williams</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7751.Tennessee_Williams]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17905</id>
+<title><![CDATA[Plays 5: Arcadia / The Real Thing / Night and Day / Indian Ink / Hapgood]]></title>
+<title_without_series><![CDATA[Plays 5: Arcadia / The Real Thing / Night and Day / Indian Ink / Hapgood]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17905.Plays_5]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>608</num_pages>
+<work>
+<id>19397</id>
+</work>
+<isbn>0571197515</isbn>
+<isbn13>9780571197514</isbn13>
+<average_rating>4.30</average_rating>
+<ratings_count>494</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>12</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>293</id>
+<name>Tom Stoppard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/293.Tom_Stoppard]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

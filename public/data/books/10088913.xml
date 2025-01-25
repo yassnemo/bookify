@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>10088913</id>
+  <title>مخطوطة بن إسحاق: مدينة الموتى</title>
+  <isbn><![CDATA[]]></isbn>
+  <isbn13><![CDATA[9789776297060]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2009</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>دار اكتب للنشر والتوزيع</publisher>
+  <language_code>ara</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[جلس الأربعة وفي وسطهم شمعة صغيرة إذا ارتفع لهبها إلى سقف الدار كان خادم الجن قد حضر. وجلس الحي بن القصاب بعيدا عنهم. ثم بدأ الأربعة ينطقون الكلمات بصوت واحد حتى انتهوا منها. وفجأة ارتفع صوت الحي بن القصاب وهو يقول :<br />أريقا أريقا فليقا فليقا حليفا حليفا أتوني مستكين مستكين احضروا أينما تكونوا احضروا فإنكم محاطون به من كل جانب سمسائيل الهوام يحاقوف المخلبي سمسائيل الهوام يحاقوف المخلبي ارجعوا يا جنود المارد ارجعوا يا جنود المارد فكوم يا حليق فكوم يا حليق نخدام بهاميم بحق سمسائيل أن تأتيني احضروا يا جنود المارد لتكونوا الجيش الأعظم.. الوحي الوحي.. العجل العجل.. الساعة الساعة.. احضروا بحق مخلبي.. فارتفع لهيب الشمعة إلى سقف الدار]]></description>
+  <work>
+  <id type="integer">14985850</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">10088913</best_book_id>
+  <reviews_count type="integer">18962</reviews_count>
+  <ratings_sum type="integer">32237</ratings_sum>
+  <ratings_count type="integer">8567</ratings_count>
+  <text_reviews_count type="integer">952</text_reviews_count>
+  <original_publication_year type="integer">2009</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>مخطوطة بن إسحاق: مدينة الموتى</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:2626|4:2762|3:2051|2:778|1:350|total:8567</rating_dist>
+  <desc_user_id type="integer">20776100</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.76</average_rating>
+  <num_pages><![CDATA[236]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8108]]></ratings_count>
+  <text_reviews_count><![CDATA[904]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/10088913]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/10088913]]></link>
+  <authors>
+<author>
+<id>3279601</id>
+<name>حسن الجندي</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360260603p5/3279601.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1360260603p2/3279601.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3279601._]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>54585</ratings_count>
+<text_reviews_count>6798</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/10088913">مخطوطة بن إسحاق Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9789776297060&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/10088913?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="4779"/>
+      <shelf name="currently-reading" count="382"/>
+      <shelf name="روايات" count="67"/>
+      <shelf name="حسن-الجندي" count="58"/>
+      <shelf name="favorites" count="52"/>
+      <shelf name="حسن-الجندى" count="45"/>
+      <shelf name="horror" count="41"/>
+      <shelf name="novels" count="41"/>
+      <shelf name="رعب" count="40"/>
+      <shelf name="pdf" count="25"/>
+      <shelf name="owned" count="20"/>
+      <shelf name="روايات-عربية" count="13"/>
+      <shelf name="fiction" count="9"/>
+      <shelf name="arabic" count="9"/>
+      <shelf name="done" count="9"/>
+      <shelf name="to-buy" count="8"/>
+      <shelf name="my-books" count="7"/>
+      <shelf name="مكتبتى" count="7"/>
+      <shelf name="arabic-books" count="6"/>
+      <shelf name="arabic-novels" count="6"/>
+      <shelf name="owned-books" count="5"/>
+      <shelf name="finished" count="5"/>
+      <shelf name="أدب" count="5"/>
+      <shelf name="مكتبتي-الورقية" count="4"/>
+      <shelf name="paranormal" count="4"/>
+      <shelf name="1" count="4"/>
+      <shelf name="أدب-رعب" count="3"/>
+      <shelf name="favorite" count="3"/>
+      <shelf name="مدينه-الموتي" count="3"/>
+      <shelf name="مكتبتي" count="3"/>
+      <shelf name="series" count="3"/>
+      <shelf name="finished-reading" count="3"/>
+      <shelf name="حسن_الجندي" count="3"/>
+      <shelf name="read-in-2014" count="3"/>
+      <shelf name="favourites" count="3"/>
+      <shelf name="books" count="3"/>
+      <shelf name="read-2014" count="3"/>
+      <shelf name="mine" count="3"/>
+      <shelf name="روايات-حسن-الجندي" count="2"/>
+      <shelf name="suspense" count="2"/>
+      <shelf name="fantasy" count="2"/>
+      <shelf name="أدب-عربي" count="2"/>
+      <shelf name="كتب-مسموعة" count="2"/>
+      <shelf name="3-stars" count="2"/>
+      <shelf name="in-arabic" count="2"/>
+      <shelf name="read-in-2016" count="2"/>
+      <shelf name="الأدب-العربي" count="2"/>
+      <shelf name="روايات-رعب" count="2"/>
+      <shelf name="literature" count="2"/>
+      <shelf name="200-to-300-pages" count="2"/>
+      <shelf name="مدينة-الموتى" count="2"/>
+      <shelf name="أدب-الرعب" count="2"/>
+      <shelf name="the-best" count="2"/>
+      <shelf name="ادب-رعب" count="2"/>
+      <shelf name="ادب-الرعب" count="2"/>
+      <shelf name="favourite" count="2"/>
+      <shelf name="book-fair-2015" count="2"/>
+      <shelf name="مصر" count="2"/>
+      <shelf name="in-my-library" count="2"/>
+      <shelf name="hard-copy" count="2"/>
+      <shelf name="رواية" count="2"/>
+      <shelf name="حسن_الجندى" count="2"/>
+      <shelf name="own-it" count="2"/>
+      <shelf name="read-in-2013" count="2"/>
+      <shelf name="shit" count="2"/>
+      <shelf name="نسخ-إلكترونية" count="2"/>
+      <shelf name="to-read-arabic" count="2"/>
+      <shelf name="روايات-عربى" count="2"/>
+      <shelf name="كتب_صوتية" count="1"/>
+      <shelf name="غموض_رعب" count="1"/>
+      <shelf name="روايات_عربية" count="1"/>
+      <shelf name="قصص-رعب" count="1"/>
+      <shelf name="الرعب" count="1"/>
+      <shelf name="my-favorite-books" count="1"/>
+      <shelf name="challenge" count="1"/>
+      <shelf name="stories-and-novels" count="1"/>
+      <shelf name="meh" count="1"/>
+      <shelf name="hassan" count="1"/>
+      <shelf name="عربي" count="1"/>
+      <shelf name="religion" count="1"/>
+      <shelf name="garbage" count="1"/>
+      <shelf name="لن-أقرأ-لهم-ثانية" count="1"/>
+      <shelf name="was-read" count="1"/>
+      <shelf name="roooooufa" count="1"/>
+      <shelf name="read-in-2017" count="1"/>
+      <shelf name="ه" count="1"/>
+      <shelf name="amadoo" count="1"/>
+      <shelf name="روايات-مصرية" count="1"/>
+      <shelf name="أ-أدب-مصري" count="1"/>
+      <shelf name="sold" count="1"/>
+      <shelf name="كتاب-رواية-مستحملتش-اكمله" count="1"/>
+      <shelf name="روائي" count="1"/>
+      <shelf name="audio" count="1"/>
+      <shelf name="audiobooks" count="1"/>
+      <shelf name="supernatural" count="1"/>
+      <shelf name="مدينه-الموتى" count="1"/>
+      <shelf name="كتب-عربية" count="1"/>
+      <shelf name="done-read" count="1"/>
+      <shelf name="completed" count="1"/>
+      <shelf name="روايات-الرعب" count="1"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>471842</id>
+<user_position>1</user_position>
+<series>
+<id>92664</id>
+<title>
+<![CDATA[
+    مخطوطة بن إسحاق
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>7797462</id>
+<title>حكايات الموتى</title>
+<title_without_series>حكايات الموتى</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7797462]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1357669195s/7797462.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1357669195m/7797462.jpg]]></image_url>
+<num_pages>260</num_pages>
+<work>
+<id>10769587</id>
+</work>
+<isbn>9789773515</isbn>
+<isbn13></isbn13>
+<average_rating>3.71</average_rating>
+<ratings_count>2725</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2664359</id>
+<name>تامر إبراهيم</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2664359._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17266736</id>
+<title>النمروذ</title>
+<title_without_series>النمروذ</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17266736]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1358779707s/17266736.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1358779707m/17266736.jpg]]></image_url>
+<num_pages>524</num_pages>
+<work>
+<id>23875650</id>
+</work>
+<isbn></isbn>
+<isbn13>9789776376304</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>958</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>6899061</id>
+<name>أحمد صلاح سابق</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6899061._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6601981</id>
+<title>الآن نفتح الصندوق 2</title>
+<title_without_series>الآن نفتح الصندوق 2</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6601981-2]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>207</num_pages>
+<work>
+<id>14786423</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>2662</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1479015</id>
+<name>أحمد خالد توفيق</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1479015._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13645303</id>
+<title>صندوق الدمى</title>
+<title_without_series>صندوق الدمى</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13645303]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1336761945s/13645303.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1336761945m/13645303.jpg]]></image_url>
+<num_pages>356</num_pages>
+<work>
+<id>19262163</id>
+</work>
+<isbn></isbn>
+<isbn13>9789775153203</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>6391</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>5834109</id>
+<name>شيرين هنائي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5834109._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20419314</id>
+<title>الغرباء</title>
+<title_without_series>الغرباء</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20419314]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388697816s/20419314.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388697816m/20419314.jpg]]></image_url>
+<num_pages>200</num_pages>
+<work>
+<id>29748153</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.46</average_rating>
+<ratings_count>1459</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>6425980</id>
+<name>Amr Algendy - عمرو الجندي</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6425980.Amr_Algendy_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13257343</id>
+<title>خطوات ليلية </title>
+<title_without_series>خطوات ليلية</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13257343]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>18458811</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>96</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3279604</id>
+<name>علاء محمود</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3279604._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20409684</id>
+<title>كايا</title>
+<title_without_series>كايا</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20409684]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388582234s/20409684.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388582234m/20409684.jpg]]></image_url>
+<num_pages>446</num_pages>
+<work>
+<id>29200696</id>
+</work>
+<isbn></isbn>
+<isbn13>9789775153470</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>935</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>7429443</id>
+<name>سونيا بوماد</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7429443._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17832187</id>
+<title>داخل الغرفة الزجاجية</title>
+<title_without_series>داخل الغرفة الزجاجية</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17832187]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1371148601s/17832187.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1371148601m/17832187.jpg]]></image_url>
+<num_pages>188</num_pages>
+<work>
+<id>24949197</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>1348</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7057739</id>
+<name>محمد مجدي مختار</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7057739._]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>20409556</id>
+<title>عقار 24</title>
+<title_without_series>عقار 24</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/20409556-24]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1388579368s/20409556.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1388579368m/20409556.jpg]]></image_url>
+<num_pages>220</num_pages>
+<work>
+<id>29188992</id>
+</work>
+<isbn></isbn>
+<isbn13>9789775153449</isbn13>
+<average_rating>3.49</average_rating>
+<ratings_count>763</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>1</publication_month>
+<publication_day>22</publication_day>
+<authors>
+<author>
+<id>7728601</id>
+<name>Mohab Targam</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7728601.Mohab_Targam]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

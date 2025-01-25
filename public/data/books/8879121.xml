@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>8879121</id>
+  <title><![CDATA[Zita the Spacegirl (Zita the Spacegirl, #1)]]></title>
+  <isbn><![CDATA[1596434465]]></isbn>
+  <isbn13><![CDATA[9781596434462]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B00K48OYAK]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2011</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>First Second</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[A NEW YORK TIMES BESTSELLER<br /><br />Zita's life took a cosmic left turn in the blink of an eye.<br /><br />When her best friend is abducted by an alien doomsday cult, Zita leaps to the rescue and finds herself a stranger on a strange planet. Humanoid chickens and neurotic robots are shocking enough as new experiences go, but Zita is even more surprised to find herself taking on the role of intergalactic hero. Before long, aliens in all shapes and sizes don't even phase her. Neither do ancient prophecies, doomed planets, or even a friendly con man who takes a mysterious interest in Zita's quest.<br /><br />Zita the Spacegirl is a fun, captivating tale of friendship and redemption from Flight veteran Ben Hatke. It also has more whimsical, eye-catching, Miyazaki-esque monsters than you can shake a stick at.]]></description>
+  <work>
+  <id type="integer">13754899</id>
+  <books_count type="integer">8</books_count>
+  <best_book_id type="integer">8879121</best_book_id>
+  <reviews_count type="integer">17287</reviews_count>
+  <ratings_sum type="integer">44634</ratings_sum>
+  <ratings_count type="integer">11051</ratings_count>
+  <text_reviews_count type="integer">942</text_reviews_count>
+  <original_publication_year type="integer">2011</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_title>Zita the Spacegirl</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4637|4:3436|3:2056|2:615|1:307|total:11051</rating_dist>
+  <desc_user_id type="integer">-110</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.04</average_rating>
+  <num_pages><![CDATA[186]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[10839]]></ratings_count>
+  <text_reviews_count><![CDATA[902]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/8879121-zita-the-spacegirl]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/8879121-zita-the-spacegirl]]></link>
+  <authors>
+<author>
+<id>3212743</id>
+<name>Ben Hatke</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309996180p5/3212743.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309996180p2/3212743.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3212743.Ben_Hatke]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>35758</ratings_count>
+<text_reviews_count>3931</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/8879121-zita-the-spacegirl">Zita the Spacegirl Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1596434465&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/8879121-zita-the-spacegirl?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5710"/>
+      <shelf name="graphic-novels" count="627"/>
+      <shelf name="graphic-novel" count="480"/>
+      <shelf name="science-fiction" count="190"/>
+      <shelf name="sci-fi" count="155"/>
+      <shelf name="comics" count="150"/>
+      <shelf name="middle-grade" count="128"/>
+      <shelf name="adventure" count="115"/>
+      <shelf name="childrens" count="111"/>
+      <shelf name="fantasy" count="95"/>
+      <shelf name="kids" count="89"/>
+      <shelf name="fiction" count="76"/>
+      <shelf name="currently-reading" count="68"/>
+      <shelf name="favorites" count="62"/>
+      <shelf name="children" count="58"/>
+      <shelf name="children-s" count="55"/>
+      <shelf name="graphic" count="54"/>
+      <shelf name="juvenile" count="48"/>
+      <shelf name="series" count="45"/>
+      <shelf name="children-s-books" count="38"/>
+      <shelf name="friendship" count="37"/>
+      <shelf name="young-adult" count="31"/>
+      <shelf name="kids-books" count="26"/>
+      <shelf name="comics-graphic-novels" count="26"/>
+      <shelf name="library" count="25"/>
+      <shelf name="graphic-novels-comics" count="24"/>
+      <shelf name="aliens" count="24"/>
+      <shelf name="scifi" count="22"/>
+      <shelf name="space" count="20"/>
+      <shelf name="childrens-books" count="20"/>
+      <shelf name="humor" count="19"/>
+      <shelf name="juvenile-fiction" count="19"/>
+      <shelf name="kid-lit" count="19"/>
+      <shelf name="comic" count="17"/>
+      <shelf name="read-in-2015" count="16"/>
+      <shelf name="comics-and-graphic-novels" count="16"/>
+      <shelf name="read-in-2014" count="15"/>
+      <shelf name="girl-power" count="14"/>
+      <shelf name="children-s-lit" count="13"/>
+      <shelf name="graphicnovels" count="13"/>
+      <shelf name="graphics" count="12"/>
+      <shelf name="robots" count="12"/>
+      <shelf name="children-s-literature" count="12"/>
+      <shelf name="comic-books" count="12"/>
+      <shelf name="ya" count="12"/>
+      <shelf name="superheroes" count="11"/>
+      <shelf name="youth" count="11"/>
+      <shelf name="tween" count="11"/>
+      <shelf name="read-in-2016" count="10"/>
+      <shelf name="graphic-novels-and-comics" count="10"/>
+      <shelf name="middle-school" count="10"/>
+      <shelf name="childrens-lit" count="10"/>
+      <shelf name="sf" count="10"/>
+      <shelf name="graphicnovel" count="10"/>
+      <shelf name="owned" count="10"/>
+      <shelf name="books-i-own" count="9"/>
+      <shelf name="elementary" count="9"/>
+      <shelf name="action" count="9"/>
+      <shelf name="junior" count="9"/>
+      <shelf name="mg" count="9"/>
+      <shelf name="childrens-fiction" count="9"/>
+      <shelf name="first-second" count="9"/>
+      <shelf name="comic-graphic-novel" count="8"/>
+      <shelf name="action-adventure" count="8"/>
+      <shelf name="5th-grade" count="8"/>
+      <shelf name="middle-grades" count="8"/>
+      <shelf name="read-in-2012" count="8"/>
+      <shelf name="children-s-fiction" count="8"/>
+      <shelf name="scifi-fantasy" count="8"/>
+      <shelf name="first-reads" count="8"/>
+      <shelf name="graphic-novel-comic" count="7"/>
+      <shelf name="library-books" count="7"/>
+      <shelf name="for-the-kids" count="7"/>
+      <shelf name="classroom-library" count="7"/>
+      <shelf name="strong-girls" count="7"/>
+      <shelf name="j-fic" count="7"/>
+      <shelf name="middle-readers" count="6"/>
+      <shelf name="kid-books" count="6"/>
+      <shelf name="children-books" count="6"/>
+      <shelf name="kiddos" count="6"/>
+      <shelf name="manga-graphic-novels" count="6"/>
+      <shelf name="favourites" count="6"/>
+      <shelf name="graphic-novels-comic-books" count="6"/>
+      <shelf name="4th-grade" count="6"/>
+      <shelf name="3rd-grade" count="6"/>
+      <shelf name="borrowed" count="6"/>
+      <shelf name="j" count="6"/>
+      <shelf name="girls" count="6"/>
+      <shelf name="fantasy-sci-fi" count="6"/>
+      <shelf name="graphic_novels" count="6"/>
+      <shelf name="chapter-books" count="6"/>
+      <shelf name="read-aloud" count="5"/>
+      <shelf name="wish-list" count="5"/>
+      <shelf name="library-book" count="5"/>
+      <shelf name="feminism" count="5"/>
+      <shelf name="manga-and-graphic-novels" count="5"/>
+      <shelf name="read-2014" count="5"/>
+      <shelf name="space-travel" count="5"/>
+      <shelf name="funny" count="5"/>
+      <shelf name="kids-fiction" count="5"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    <series_work>
+<id>540816</id>
+<user_position>1</user_position>
+<series>
+<id>111689</id>
+<title>
+<![CDATA[
+    Zita the Spacegirl
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>12159923</id>
+<title><![CDATA[Giants Beware! (Chronicles of Claudette, #1)]]></title>
+<title_without_series>Giants Beware!</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12159923-giants-beware]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1317068387s/12159923.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1317068387m/12159923.jpg]]></image_url>
+<num_pages>208</num_pages>
+<work>
+<id>17130936</id>
+</work>
+<isbn>1596435828</isbn>
+<isbn13>9781596435827</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>6378</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>4</publication_month>
+<publication_day>10</publication_day>
+<authors>
+<author>
+<id>3033809</id>
+<name>Jorge Aguirre</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3033809.Jorge_Aguirre]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>18527488</id>
+<title><![CDATA[Target Practice (Cleopatra in Space, #1)]]></title>
+<title_without_series>Target Practice</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/18527488-target-practice]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391342716s/18527488.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391342716m/18527488.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>26232946</id>
+</work>
+<isbn>0545528437</isbn>
+<isbn13>9780545528436</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>3519</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>4</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>4660045</id>
+<name>Mike Maihack</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4660045.Mike_Maihack]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10201529</id>
+<title><![CDATA[Mal and Chad: The Biggest, Bestest Time Ever! (Mal and Chad, #1)]]></title>
+<title_without_series><![CDATA[Mal and Chad: The Biggest, Bestest Time Ever!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10201529-mal-and-chad]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>15100822</id>
+</work>
+<isbn>0399252215</isbn>
+<isbn13>9780399252211</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>1478</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>5</publication_month>
+<publication_day>12</publication_day>
+<authors>
+<author>
+<id>4577067</id>
+<name>Stephen McCranie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4577067.Stephen_McCranie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1803934</id>
+<title>Flight Explorer, Volume 1</title>
+<title_without_series>Flight Explorer, Volume 1</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1803934.Flight_Explorer_Volume_1]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>1803136</id>
+</work>
+<isbn>0345503139</isbn>
+<isbn13>9780345503138</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1379</ratings_count>
+<publication_year>2008</publication_year>
+<publication_month>3</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>27372</id>
+<name>Kazu Kibuishi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/27372.Kazu_Kibuishi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16057353</id>
+<title>Hilda and the Bird Parade</title>
+<title_without_series>Hilda and the Bird Parade</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16057353-hilda-and-the-bird-parade]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1379392943s/16057353.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1379392943m/16057353.jpg]]></image_url>
+<num_pages>44</num_pages>
+<work>
+<id>21843265</id>
+</work>
+<isbn>1909263060</isbn>
+<isbn13>9781909263062</isbn13>
+<average_rating>4.19</average_rating>
+<ratings_count>1938</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>4461106</id>
+<name>Luke Pearson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4461106.Luke_Pearson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8606191</id>
+<title><![CDATA[Tower of Treasure (Three Thieves, #1)]]></title>
+<title_without_series>Tower of Treasure</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8606191-tower-of-treasure]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>112</num_pages>
+<work>
+<id>13476365</id>
+</work>
+<isbn>1554534143</isbn>
+<isbn13>9781554534142</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>1287</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>59606</id>
+<name>Scott Chantler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/59606.Scott_Chantler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9639648</id>
+<title>Sidekicks</title>
+<title_without_series>Sidekicks</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9639648-sidekicks]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1303352163s/9639648.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1303352163m/9639648.jpg]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>14527060</id>
+</work>
+<isbn>0439298199</isbn>
+<isbn13>9780439298193</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>6998</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1251403</id>
+<name>Dan Santat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1251403.Dan_Santat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13414819</id>
+<title><![CDATA[The Secret of the Stone Frog: A TOON Graphic]]></title>
+<title_without_series><![CDATA[The Secret of the Stone Frog: A TOON Graphic]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13414819-the-secret-of-the-stone-frog]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1410978502s/13414819.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1410978502m/13414819.jpg]]></image_url>
+<num_pages>80</num_pages>
+<work>
+<id>18714280</id>
+</work>
+<isbn>1935179187</isbn>
+<isbn13>9781935179184</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>706</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>9</publication_month>
+<publication_day>11</publication_day>
+<authors>
+<author>
+<id>5446909</id>
+<name>David Nytra</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5446909.David_Nytra]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13253341</id>
+<title>Bird &amp; Squirrel on the Run</title>
+<title_without_series>Bird &amp; Squirrel on the Run</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13253341-bird-squirrel-on-the-run]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1330534994s/13253341.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1330534994m/13253341.jpg]]></image_url>
+<num_pages>128</num_pages>
+<work>
+<id>18454484</id>
+</work>
+<isbn>0545312833</isbn>
+<isbn13>9780545312837</isbn13>
+<average_rating>4.13</average_rating>
+<ratings_count>1813</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>3052932</id>
+<name>James Burks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3052932.James_Burks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>9655052</id>
+<title><![CDATA[Astronaut Academy: Zero Gravity]]></title>
+<title_without_series><![CDATA[Astronaut Academy: Zero Gravity]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/9655052-astronaut-academy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1316638918s/9655052.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1316638918m/9655052.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>14542613</id>
+</work>
+<isbn>1596436204</isbn>
+<isbn13>9781596436206</isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1135</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>6</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>266715</id>
+<name>Dave Roman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/266715.Dave_Roman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6348133</id>
+<title>Binky the Space Cat</title>
+<title_without_series>Binky the Space Cat</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6348133-binky-the-space-cat]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>64</num_pages>
+<work>
+<id>6534641</id>
+</work>
+<isbn>1554533090</isbn>
+<isbn13>9781554533091</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>4038</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>755882</id>
+<name>Ashley Spires</name>
+<link><![CDATA[https://www.goodreads.com/author/show/755882.Ashley_Spires]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>22710140</id>
+<title><![CDATA[Phoebe and Her Unicorn (Heavenly Nostrils, #1)]]></title>
+<title_without_series>Phoebe and Her Unicorn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/22710140-phoebe-and-her-unicorn]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>224</num_pages>
+<work>
+<id>42234106</id>
+</work>
+<isbn>1449446205</isbn>
+<isbn13>9781449446208</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>3692</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day>2</publication_day>
+<authors>
+<author>
+<id>7812495</id>
+<name>Dana Simpson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7812495.Dana_Simpson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13591174</id>
+<title><![CDATA[How Mirka Met a Meteorite (Hereville #2)]]></title>
+<title_without_series>How Mirka Met a Meteorite</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13591174-how-mirka-met-a-meteorite]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1424413410s/13591174.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1424413410m/13591174.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>19179208</id>
+</work>
+<isbn>1419703986</isbn>
+<isbn13>9781419703980</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2527</ratings_count>
+<publication_year>2012</publication_year>
+<publication_month>10</publication_month>
+<publication_day>31</publication_day>
+<authors>
+<author>
+<id>4192028</id>
+<name>Barry  Deutsch</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4192028.Barry_Deutsch]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13591161</id>
+<title><![CDATA[Nathan Hale's Hazardous Tales: One Dead Spy (Nathan Hale's Hazardous Tales, #1)]]></title>
+<title_without_series><![CDATA[Nathan Hale's Hazardous Tales: One Dead Spy]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13591161-nathan-hale-s-hazardous-tales]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1343090433s/13591161.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1343090433m/13591161.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>19179194</id>
+</work>
+<isbn>141970396X</isbn>
+<isbn13>9781419703966</isbn13>
+<average_rating>4.10</average_rating>
+<ratings_count>2562</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>556969</id>
+<name>Nathan Hale</name>
+<link><![CDATA[https://www.goodreads.com/author/show/556969.Nathan_Hale]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>16280879</id>
+<title>The Silver Six</title>
+<title_without_series>The Silver Six</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/16280879-the-silver-six]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1375144747s/16280879.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1375144747m/16280879.jpg]]></image_url>
+<num_pages>192</num_pages>
+<work>
+<id>22382605</id>
+</work>
+<isbn>0545370973</isbn>
+<isbn13>9780545370974</isbn13>
+<average_rating>4.08</average_rating>
+<ratings_count>1252</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>6</publication_month>
+<publication_day>25</publication_day>
+<authors>
+<author>
+<id>378216</id>
+<name>A.J. Lieberman</name>
+<link><![CDATA[https://www.goodreads.com/author/show/378216.A_J_Lieberman]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10853145</id>
+<title>Around the World</title>
+<title_without_series>Around the World</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10853145-around-the-world]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320463265s/10853145.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320463265m/10853145.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>15767928</id>
+</work>
+<isbn>0763636193</isbn>
+<isbn13>9780763636197</isbn13>
+<average_rating>3.84</average_rating>
+<ratings_count>2622</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>387985</id>
+<name>Matt Phelan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/387985.Matt_Phelan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10397757</id>
+<title>Nursery Rhyme Comics</title>
+<title_without_series>Nursery Rhyme Comics</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10397757-nursery-rhyme-comics]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312078116s/10397757.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312078116m/10397757.jpg]]></image_url>
+<num_pages>103</num_pages>
+<work>
+<id>15301655</id>
+</work>
+<isbn>159643600X</isbn>
+<isbn13>9781596436008</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>2535</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>197203</id>
+<name>Chris Duffy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/197203.Chris_Duffy]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>2517</id>
+  <title>My Name is Red</title>
+  <isbn><![CDATA[0375706852]]></isbn>
+  <isbn13><![CDATA[9780375706851]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1374015288m/2517.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1374015288s/2517.jpg</small_image_url>
+  <publication_year>2002</publication_year>
+  <publication_month>8</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Vintage</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[At once a fiendishly devious mystery, a beguiling love story, and a brilliant symposium on the power of art, <i>My Name Is Red</i> is a transporting tale set amid the splendor and religious intrigue of sixteenth-century Istanbul, from one of the most prominent contemporary Turkish writers.<br /><br />The Sultan has commissioned a cadre of the most acclaimed artists in the land to create a great book celebrating the glories of his realm. Their task: to illuminate the work in the European style. But because figurative art can be deemed an affront to Islam, this commission is a dangerous proposition indeed. The ruling elite therefore mustn’t know the full scope or nature of the project, and panic erupts when one of the chosen miniaturists disappears. The only clue to the mystery–or crime? –lies in the half-finished illuminations themselves. Part fantasy and part philosophical puzzle, <i>My Name is Red</i> is a kaleidoscopic journey to the intersection of art, religion, love, sex and power.]]></description>
+  <work>
+  <id type="integer">2150886</id>
+  <books_count type="integer">140</books_count>
+  <best_book_id type="integer">2517</best_book_id>
+  <reviews_count type="integer">70423</reviews_count>
+  <ratings_sum type="integer">127253</ratings_sum>
+  <ratings_count type="integer">33249</ratings_count>
+  <text_reviews_count type="integer">3008</text_reviews_count>
+  <original_publication_year type="integer">1998</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Benim Adım Kırmızı</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:9891|4:12306|3:7483|2:2556|1:1013|total:33249</rating_dist>
+  <desc_user_id type="integer">40889078</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.83</average_rating>
+  <num_pages><![CDATA[417]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[27332]]></ratings_count>
+  <text_reviews_count><![CDATA[2210]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2517.My_Name_is_Red]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2517.My_Name_is_Red]]></link>
+  <authors>
+<author>
+<id>1728</id>
+<name>Orhan Pamuk</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423469681p5/1728.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423469681p2/1728.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1728.Orhan_Pamuk]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>136614</ratings_count>
+<text_reviews_count>12901</text_reviews_count>
+</author>
+<author>
+<id>2864594</id>
+<name>Erdağ M. Göknar</name>
+<role>Translator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2864594.Erda_M_G_knar]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>29102</ratings_count>
+<text_reviews_count>2526</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/2517.My_Name_is_Red">My Name is Red Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0375706852&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/2517.My_Name_is_Red?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="27830"/>
+      <shelf name="currently-reading" count="3191"/>
+      <shelf name="fiction" count="893"/>
+      <shelf name="historical-fiction" count="515"/>
+      <shelf name="favorites" count="379"/>
+      <shelf name="mystery" count="233"/>
+      <shelf name="turkey" count="199"/>
+      <shelf name="owned" count="161"/>
+      <shelf name="literature" count="145"/>
+      <shelf name="novels" count="120"/>
+      <shelf name="turkish" count="111"/>
+      <shelf name="turkish-literature" count="101"/>
+      <shelf name="middle-east" count="98"/>
+      <shelf name="historical" count="93"/>
+      <shelf name="art" count="89"/>
+      <shelf name="novel" count="87"/>
+      <shelf name="books-i-own" count="82"/>
+      <shelf name="nobel" count="81"/>
+      <shelf name="nobel-prize" count="79"/>
+      <shelf name="abandoned" count="75"/>
+      <shelf name="contemporary" count="71"/>
+      <shelf name="book-club" count="70"/>
+      <shelf name="history" count="66"/>
+      <shelf name="literary-fiction" count="63"/>
+      <shelf name="owned-books" count="55"/>
+      <shelf name="default" count="54"/>
+      <shelf name="library" count="53"/>
+      <shelf name="unfinished" count="53"/>
+      <shelf name="classics" count="45"/>
+      <shelf name="translated" count="44"/>
+      <shelf name="orhan-pamuk" count="43"/>
+      <shelf name="to-buy" count="42"/>
+      <shelf name="asia" count="42"/>
+      <shelf name="crime" count="34"/>
+      <shelf name="nobel-laureates" count="33"/>
+      <shelf name="my-library" count="32"/>
+      <shelf name="islam" count="31"/>
+      <shelf name="istanbul" count="31"/>
+      <shelf name="did-not-finish" count="31"/>
+      <shelf name="didn-t-finish" count="30"/>
+      <shelf name="wish-list" count="30"/>
+      <shelf name="my-books" count="29"/>
+      <shelf name="translation" count="29"/>
+      <shelf name="literary" count="28"/>
+      <shelf name="favourites" count="28"/>
+      <shelf name="bookclub" count="28"/>
+      <shelf name="ebook" count="27"/>
+      <shelf name="around-the-world" count="25"/>
+      <shelf name="in-translation" count="25"/>
+      <shelf name="world-literature" count="24"/>
+      <shelf name="contemporary-fiction" count="24"/>
+      <shelf name="nobel-prize-winners" count="22"/>
+      <shelf name="gave-up-on" count="21"/>
+      <shelf name="to-read-fiction" count="21"/>
+      <shelf name="i-own" count="21"/>
+      <shelf name="20th-century" count="21"/>
+      <shelf name="kindle" count="21"/>
+      <shelf name="religion" count="21"/>
+      <shelf name="never-finished" count="21"/>
+      <shelf name="16th-century" count="19"/>
+      <shelf name="translations" count="19"/>
+      <shelf name="world-lit" count="19"/>
+      <shelf name="english" count="18"/>
+      <shelf name="philosophy" count="18"/>
+      <shelf name="general-fiction" count="18"/>
+      <shelf name="pamuk" count="17"/>
+      <shelf name="turkish-lit" count="17"/>
+      <shelf name="around-the-world-in-80-books" count="16"/>
+      <shelf name="maybe" count="16"/>
+      <shelf name="books-about-books" count="16"/>
+      <shelf name="roman" count="16"/>
+      <shelf name="1990s" count="16"/>
+      <shelf name="cultural" count="15"/>
+      <shelf name="modern-fiction" count="15"/>
+      <shelf name="thriller" count="14"/>
+      <shelf name="have" count="14"/>
+      <shelf name="audiobook" count="14"/>
+      <shelf name="türk-edebiyatı" count="13"/>
+      <shelf name="mystery-thriller" count="13"/>
+      <shelf name="asian" count="13"/>
+      <shelf name="on-hold" count="13"/>
+      <shelf name="nobel-prize-winner" count="13"/>
+      <shelf name="audio" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="audiobooks" count="13"/>
+      <shelf name="mysteries" count="13"/>
+      <shelf name="lit" count="13"/>
+      <shelf name="shelfari-favorites" count="12"/>
+      <shelf name="classic" count="12"/>
+      <shelf name="ebooks" count="12"/>
+      <shelf name="couldn-t-finish" count="12"/>
+      <shelf name="magical-realism" count="12"/>
+      <shelf name="europe" count="11"/>
+      <shelf name="detective" count="11"/>
+      <shelf name="21st-century" count="11"/>
+      <shelf name="favorite" count="11"/>
+      <shelf name="turkish-authors" count="11"/>
+      <shelf name="ottoman" count="11"/>
+      <shelf name="art-history" count="11"/>
+      <shelf name="nobel-laureate" count="11"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>256754</id>
+<title>Portrait of a Turkish Family</title>
+<title_without_series>Portrait of a Turkish Family</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/256754.Portrait_of_a_Turkish_Family]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>248843</id>
+</work>
+<isbn>0907871828</isbn>
+<isbn13>9780907871828</isbn13>
+<average_rating>4.15</average_rating>
+<ratings_count>1060</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>150089</id>
+<name>Irfan Orga</name>
+<link><![CDATA[https://www.goodreads.com/author/show/150089.Irfan_Orga]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>142822</id>
+<title>One Man&apos;s Bible</title>
+<title_without_series>One Man&apos;s Bible</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/142822.One_Man_s_Bible]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>464</num_pages>
+<work>
+<id>137769</id>
+</work>
+<isbn>0060936266</isbn>
+<isbn13>9780060936266</isbn13>
+<average_rating>3.66</average_rating>
+<ratings_count>781</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>9</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>25708</id>
+<name>Gao Xingjian</name>
+<link><![CDATA[https://www.goodreads.com/author/show/25708.Gao_Xingjian]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>175545</id>
+<title><![CDATA[Memed, My Hawk (İnce Memed, #1)]]></title>
+<title_without_series>Memed, My Hawk</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/175545.Memed_My_Hawk]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1425293055s/175545.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1425293055m/175545.jpg]]></image_url>
+<num_pages>392</num_pages>
+<work>
+<id>1438893</id>
+</work>
+<isbn>159017139X</isbn>
+<isbn13>9781590171394</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>3612</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>6</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>2882570</id>
+<name>Yaşar Kemal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2882570.Ya_ar_Kemal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>230861</id>
+<title>The Land of Green Plums</title>
+<title_without_series>The Land of Green Plums</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/230861.The_Land_of_Green_Plums]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327888203s/230861.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327888203m/230861.jpg]]></image_url>
+<num_pages>242</num_pages>
+<work>
+<id>223593</id>
+</work>
+<isbn>1862072604</isbn>
+<isbn13>9781862072602</isbn13>
+<average_rating>3.64</average_rating>
+<ratings_count>3179</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>11</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>134980</id>
+<name>Herta Müller</name>
+<link><![CDATA[https://www.goodreads.com/author/show/134980.Herta_M_ller]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6850768</id>
+<title>Huzur</title>
+<title_without_series>Huzur</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6850768-huzur]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1458675956s/6850768.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1458675956m/6850768.jpg]]></image_url>
+<num_pages>424</num_pages>
+<work>
+<id>7063595</id>
+</work>
+<isbn></isbn>
+<isbn13>9789759952471</isbn13>
+<average_rating>4.24</average_rating>
+<ratings_count>1985</ratings_count>
+<publication_year>2014</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2936248</id>
+<name>Ahmet Hamdi Tanpınar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2936248.Ahmet_Hamdi_Tanp_nar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>5488</id>
+<title><![CDATA[The Cairo Trilogy: Palace Walk / Palace of Desire / Sugar Street (The Cairo Trilogy #1-3)]]></title>
+<title_without_series><![CDATA[The Cairo Trilogy: Palace Walk / Palace of Desire / Sugar Street]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/5488.The_Cairo_Trilogy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>1313</num_pages>
+<work>
+<id>58820</id>
+</work>
+<isbn>0375413316</isbn>
+<isbn13>9780375413315</isbn13>
+<average_rating>4.45</average_rating>
+<ratings_count>3034</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>10</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>5835922</id>
+<name>Naguib Mahfouz</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5835922.Naguib_Mahfouz]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>3140</id>
+<title>The Bridge on the Drina</title>
+<title_without_series>The Bridge on the Drina</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/3140.The_Bridge_on_the_Drina]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391505254s/3140.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391505254m/3140.jpg]]></image_url>
+<num_pages>318</num_pages>
+<work>
+<id>6989</id>
+</work>
+<isbn>0226020452</isbn>
+<isbn13>9780226020457</isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>9728</ratings_count>
+<publication_year>1977</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2147</id>
+<name>Ivo Andrić</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2147.Ivo_Andri_]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2295821</id>
+<title>Suskunlar</title>
+<title_without_series>Suskunlar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2295821.Suskunlar]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>269</num_pages>
+<work>
+<id>2302130</id>
+</work>
+<isbn></isbn>
+<isbn13></isbn13>
+<average_rating>4.32</average_rating>
+<ratings_count>3183</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>838424</id>
+<name>İhsan Oktay Anar</name>
+<link><![CDATA[https://www.goodreads.com/author/show/838424._hsan_Oktay_Anar]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6562214</id>
+<title><![CDATA[Esir Şehrin İnsanları (Esir Şehir Üçlemesi, #1)]]></title>
+<title_without_series>Esir Şehrin İnsanları</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6562214-esir-ehrin-nsanlar]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1458410601s/6562214.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1458410601m/6562214.jpg]]></image_url>
+<num_pages>448</num_pages>
+<work>
+<id>6755052</id>
+</work>
+<isbn></isbn>
+<isbn13>9789752730760</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>840</ratings_count>
+<publication_year>2015</publication_year>
+<publication_month>8</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>464553</id>
+<name>Kemal Tahir</name>
+<link><![CDATA[https://www.goodreads.com/author/show/464553.Kemal_Tahir]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2768175</id>
+<title>Bir Düğün Gecesi</title>
+<title_without_series>Bir Düğün Gecesi</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2768175-bir-d-n-gecesi]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1351454926s/2768175.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1351454926m/2768175.jpg]]></image_url>
+<num_pages>344</num_pages>
+<work>
+<id>2793898</id>
+</work>
+<isbn></isbn>
+<isbn13>9789754588804</isbn13>
+<average_rating>4.25</average_rating>
+<ratings_count>488</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1208906</id>
+<name>Adalet Ağaoğlu</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1208906.Adalet_A_ao_lu]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1546916</id>
+<title>Sevgili Arsız Ölüm</title>
+<title_without_series>Sevgili Arsız Ölüm</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1546916.Sevgili_Ars_z_l_m]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1385757160s/1546916.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1385757160m/1546916.jpg]]></image_url>
+<num_pages>240</num_pages>
+<work>
+<id>1539220</id>
+</work>
+<isbn></isbn>
+<isbn13>9789750511295</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>1013</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>1</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>185465</id>
+<name>Latife Tekin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/185465.Latife_Tekin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>2152663</id>
+<title>Tehlikeli Oyunlar</title>
+<title_without_series>Tehlikeli Oyunlar</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/2152663.Tehlikeli_Oyunlar]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>479</num_pages>
+<work>
+<id>2158162</id>
+</work>
+<isbn>9754702098</isbn>
+<isbn13>9789754702095</isbn13>
+<average_rating>4.63</average_rating>
+<ratings_count>3038</ratings_count>
+<publication_year>2000</publication_year>
+<publication_month>2</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>139434</id>
+<name>Oğuz Atay</name>
+<link><![CDATA[https://www.goodreads.com/author/show/139434.O_uz_Atay]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>887401</id>
+<title>Wandering Star</title>
+<title_without_series>Wandering Star</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/887401.Wandering_Star]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>316</num_pages>
+<work>
+<id>1810233</id>
+</work>
+<isbn>1931896119</isbn>
+<isbn13>9781931896115</isbn13>
+<average_rating>3.62</average_rating>
+<ratings_count>604</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>65633</id>
+<name>Jean-Marie G. Le Clézio</name>
+<link><![CDATA[https://www.goodreads.com/author/show/65633.Jean_Marie_G_Le_Cl_zio]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>210435</id>
+<title>Waiting for the Mahatma</title>
+<title_without_series>Waiting for the Mahatma</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/210435.Waiting_for_the_Mahatma]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328872381s/210435.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328872381m/210435.jpg]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>1518151</id>
+</work>
+<isbn>0226568288</isbn>
+<isbn13>9780226568287</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>1219</ratings_count>
+<publication_year>1981</publication_year>
+<publication_month>10</publication_month>
+<publication_day>15</publication_day>
+<authors>
+<author>
+<id>1305302</id>
+<name>R.K. Narayan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1305302.R_K_Narayan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>94348</id>
+<title><![CDATA[The Real Life of Alejandro Mayta]]></title>
+<title_without_series><![CDATA[The Real Life of Alejandro Mayta]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/94348.The_Real_Life_of_Alejandro_Mayta]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1348541776s/94348.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1348541776m/94348.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>899140</id>
+</work>
+<isbn>0374525552</isbn>
+<isbn13>9780374525552</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>1058</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>6</publication_month>
+<publication_day>24</publication_day>
+<authors>
+<author>
+<id>22515</id>
+<name>Mario Vargas Llosa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/22515.Mario_Vargas_Llosa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>206644</id>
+<title><![CDATA[Human Landscapes from My Country: An Epic Novel in Verse]]></title>
+<title_without_series><![CDATA[Human Landscapes from My Country: An Epic Novel in Verse]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/206644.Human_Landscapes_from_My_Country]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>466</num_pages>
+<work>
+<id>199998</id>
+</work>
+<isbn>0892552735</isbn>
+<isbn13>9780892552733</isbn13>
+<average_rating>4.58</average_rating>
+<ratings_count>1017</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>5</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>1061015</id>
+<name>Nâzım Hikmet</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1061015.N_z_m_Hikmet]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6922718</id>
+<title>Tol</title>
+<title_without_series>Tol</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6922718-tol]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1329174150s/6922718.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1329174150m/6922718.jpg]]></image_url>
+<num_pages>262</num_pages>
+<work>
+<id>7151305</id>
+</work>
+<isbn>9753423721</isbn>
+<isbn13>9789753423724</isbn13>
+<average_rating>3.91</average_rating>
+<ratings_count>1711</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2478360</id>
+<name>Murat Uyurkulak</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2478360.Murat_Uyurkulak]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>651594</id>
+<title><![CDATA[The Ottoman Cage (Inspector Ikmen, #2)]]></title>
+<title_without_series>The Ottoman Cage</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/651594.The_Ottoman_Cage]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312005794s/651594.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312005794m/651594.jpg]]></image_url>
+<num_pages>320</num_pages>
+<work>
+<id>637723</id>
+</work>
+<isbn>0312337698</isbn>
+<isbn13>9780312337698</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>407</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>2</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>18077</id>
+<name>Barbara Nadel</name>
+<link><![CDATA[https://www.goodreads.com/author/show/18077.Barbara_Nadel]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

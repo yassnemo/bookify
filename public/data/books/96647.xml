@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>96647</id>
+  <title>Scar Tissue</title>
+  <isbn><![CDATA[1401307450]]></isbn>
+  <isbn13><![CDATA[9781401307455]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month>10</publication_month>
+  <publication_day>19</publication_day>
+  <publisher>Hachette Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Now in paperback, the <em>New York Times</em> bestseller by one of rock's most provocative figures <em>Scar Tissue</em> is Anthony Kiedis's searingly honest memoir of a life spent in the fast lane. <br /><br />In 1983, four self-described "knuckleheads" burst out of the mosh-pitted mosaic of the neo-punk rock scene in L.A. with their own unique brand of cosmic hardcore mayhem funk. Over twenty years later, the Red Hot Chili Peppers, against all odds, have become one of the most successful bands in the world. Though the band has gone through many incarnations, Anthony Kiedis, the group's lyricist and dynamic lead singer, has been there for the whole roller-coaster ride. Whether he's recollecting the influence of the beautiful, strong women who have been his muses, or retracing a journey that has included appearances as diverse as a performance before half a million people at Woodstock or an audience of one at the humble compound of the exiled Dalai Lama, Kiedis shares a compelling story about the price of success and excess. <br /><br /><i>Scar Tissue</i> is a story of dedication and debauchery, of intrigue and integrity, of recklessness and redemption--a story that could only have come out of the world of rock.]]></description>
+  <work>
+  <id type="integer">908343</id>
+  <books_count type="integer">47</books_count>
+  <best_book_id type="integer">96647</best_book_id>
+  <reviews_count type="integer">80226</reviews_count>
+  <ratings_sum type="integer">194020</ratings_sum>
+  <ratings_count type="integer">47376</ratings_count>
+  <text_reviews_count type="integer">2080</text_reviews_count>
+  <original_publication_year type="integer">2004</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>Scar Tissue</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:19402|4:16726|3:8410|2:2038|1:800|total:47376</rating_dist>
+  <desc_user_id type="integer">4660203</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[465]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[45248]]></ratings_count>
+  <text_reviews_count><![CDATA[1901]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/96647.Scar_Tissue]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/96647.Scar_Tissue]]></link>
+  <authors>
+<author>
+<id>2955</id>
+<name>Anthony Kiedis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1469342725p5/2955.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1469342725p2/2955.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2955.Anthony_Kiedis]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>47426</ratings_count>
+<text_reviews_count>2081</text_reviews_count>
+</author>
+<author>
+<id>5777662</id>
+<name>Larry Sloman</name>
+<role>Collaborator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1499111096p5/5777662.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1499111096p2/5777662.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5777662.Larry_Sloman]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>52995</ratings_count>
+<text_reviews_count>2820</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/96647.Scar_Tissue">Scar Tissue Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1401307450&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/96647.Scar_Tissue?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="12033"/>
+      <shelf name="currently-reading" count="483"/>
+      <shelf name="non-fiction" count="430"/>
+      <shelf name="favorites" count="413"/>
+      <shelf name="music" count="411"/>
+      <shelf name="biography" count="370"/>
+      <shelf name="biographies" count="141"/>
+      <shelf name="memoir" count="140"/>
+      <shelf name="autobiography" count="105"/>
+      <shelf name="nonfiction" count="99"/>
+      <shelf name="books-i-own" count="80"/>
+      <shelf name="owned" count="78"/>
+      <shelf name="memoirs" count="61"/>
+      <shelf name="bio" count="44"/>
+      <shelf name="owned-books" count="38"/>
+      <shelf name="biography-memoir" count="33"/>
+      <shelf name="to-buy" count="28"/>
+      <shelf name="auto-biography" count="26"/>
+      <shelf name="favourites" count="26"/>
+      <shelf name="autobiographies" count="25"/>
+      <shelf name="bios" count="24"/>
+      <shelf name="addiction" count="21"/>
+      <shelf name="biography-autobiography" count="21"/>
+      <shelf name="drugs" count="20"/>
+      <shelf name="memoir-biography" count="19"/>
+      <shelf name="kindle" count="18"/>
+      <shelf name="default" count="17"/>
+      <shelf name="bio-memoir" count="15"/>
+      <shelf name="i-own" count="14"/>
+      <shelf name="american" count="13"/>
+      <shelf name="library" count="13"/>
+      <shelf name="rock-n-roll" count="12"/>
+      <shelf name="memoirs-biographies" count="12"/>
+      <shelf name="adult" count="12"/>
+      <shelf name="biographical" count="12"/>
+      <shelf name="my-books" count="11"/>
+      <shelf name="books" count="10"/>
+      <shelf name="wish-list" count="10"/>
+      <shelf name="music-related" count="10"/>
+      <shelf name="own-it" count="10"/>
+      <shelf name="biographies-and-memoirs" count="10"/>
+      <shelf name="biographies-autobiographies" count="10"/>
+      <shelf name="book-club" count="9"/>
+      <shelf name="audiobook" count="9"/>
+      <shelf name="drug-addiction" count="9"/>
+      <shelf name="biographies-memoirs" count="9"/>
+      <shelf name="borrowed" count="9"/>
+      <shelf name="entertainment" count="9"/>
+      <shelf name="audible" count="8"/>
+      <shelf name="dnf" count="8"/>
+      <shelf name="21st-century" count="8"/>
+      <shelf name="abandoned" count="8"/>
+      <shelf name="favorite" count="8"/>
+      <shelf name="re-read" count="8"/>
+      <shelf name="bookshelf" count="7"/>
+      <shelf name="contemporary" count="7"/>
+      <shelf name="favorite-books" count="7"/>
+      <shelf name="celebrity" count="7"/>
+      <shelf name="music-biography" count="7"/>
+      <shelf name="my-library" count="7"/>
+      <shelf name="unfinished" count="7"/>
+      <shelf name="auto-biographies" count="7"/>
+      <shelf name="read-in-2016" count="6"/>
+      <shelf name="maybe" count="6"/>
+      <shelf name="on-my-shelf" count="6"/>
+      <shelf name="finished" count="6"/>
+      <shelf name="music-biographies" count="6"/>
+      <shelf name="to-read-non-fiction" count="6"/>
+      <shelf name="have" count="6"/>
+      <shelf name="music-bio" count="6"/>
+      <shelf name="audiobooks" count="6"/>
+      <shelf name="pop-culture" count="6"/>
+      <shelf name="rock" count="6"/>
+      <shelf name="true-story" count="6"/>
+      <shelf name="autobiography-biography" count="6"/>
+      <shelf name="read-in-2015" count="5"/>
+      <shelf name="biografie" count="5"/>
+      <shelf name="want-to-read" count="5"/>
+      <shelf name="audio" count="5"/>
+      <shelf name="anthony-kiedis" count="5"/>
+      <shelf name="music-books" count="5"/>
+      <shelf name="did-not-finish" count="5"/>
+      <shelf name="ebook" count="5"/>
+      <shelf name="memoir-bio" count="5"/>
+      <shelf name="english" count="5"/>
+      <shelf name="my-collection" count="5"/>
+      <shelf name="must-read" count="5"/>
+      <shelf name="memoirs-and-biographies" count="5"/>
+      <shelf name="rock-music" count="5"/>
+      <shelf name="didn-t-finish" count="5"/>
+      <shelf name="read-2016" count="4"/>
+      <shelf name="other" count="4"/>
+      <shelf name="home" count="4"/>
+      <shelf name="real-life" count="4"/>
+      <shelf name="memoirs-bios" count="4"/>
+      <shelf name="biography-and-memoir" count="4"/>
+      <shelf name="own-to-read" count="4"/>
+      <shelf name="5-stars" count="4"/>
+      <shelf name="bio-autobio" count="4"/>
+      <shelf name="autobiography-biography-memoir" count="4"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>1970449</id>
+<title>Slash</title>
+<title_without_series>Slash</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1970449.Slash]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>458</num_pages>
+<work>
+<id>2338187</id>
+</work>
+<isbn>0061351423</isbn>
+<isbn13>9780061351426</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>19289</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>10</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>895069</id>
+<name>Slash</name>
+<link><![CDATA[https://www.goodreads.com/author/show/895069.Slash]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1149440</id>
+<title><![CDATA[Heavier Than Heaven: A Biography of Kurt Cobain]]></title>
+<title_without_series><![CDATA[Heavier Than Heaven: A Biography of Kurt Cobain]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1149440.Heavier_Than_Heaven]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>381</num_pages>
+<work>
+<id>1136908</id>
+</work>
+<isbn>0786865059</isbn>
+<isbn13>9780786865055</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>20231</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>24507</id>
+<name>Charles R. Cross</name>
+<link><![CDATA[https://www.goodreads.com/author/show/24507.Charles_R_Cross]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>10055596</id>
+<title><![CDATA[The Red Hot Chili Peppers: An Oral/Visual History]]></title>
+<title_without_series><![CDATA[The Red Hot Chili Peppers: An Oral/Visual History]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/10055596-the-red-hot-chili-peppers]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>256</num_pages>
+<work>
+<id>14951700</id>
+</work>
+<isbn>0062042564</isbn>
+<isbn13>9780062042569</isbn13>
+<average_rating>4.31</average_rating>
+<ratings_count>333</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>10</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>4041196</id>
+<name>The Red Hot Chili Peppers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4041196.The_Red_Hot_Chili_Peppers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>25378</id>
+<title><![CDATA[The Dirt: Confessions of the World's Most Notorious Rock Band]]></title>
+<title_without_series><![CDATA[The Dirt: Confessions of the World's Most Notorious Rock Band]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/25378.The_Dirt]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>431</num_pages>
+<work>
+<id>26119</id>
+</work>
+<isbn>0060989157</isbn>
+<isbn13>9780060989156</isbn13>
+<average_rating>4.16</average_rating>
+<ratings_count>23928</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>10760</id>
+<name>Tommy Lee</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10760.Tommy_Lee]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1883838</id>
+<title><![CDATA[The Heroin Diaries: A Year In The Life Of A Shattered Rock Star]]></title>
+<title_without_series><![CDATA[The Heroin Diaries: A Year In The Life Of A Shattered Rock Star]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1883838.The_Heroin_Diaries]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1408936840s/1883838.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1408936840m/1883838.jpg]]></image_url>
+<num_pages>413</num_pages>
+<work>
+<id>421308</id>
+</work>
+<isbn>1847371663</isbn>
+<isbn13>9781847371669</isbn13>
+<average_rating>4.12</average_rating>
+<ratings_count>22631</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>9</publication_month>
+<publication_day>18</publication_day>
+<authors>
+<author>
+<id>10758</id>
+<name>Nikki Sixx</name>
+<link><![CDATA[https://www.goodreads.com/author/show/10758.Nikki_Sixx]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>114812</id>
+<title><![CDATA[Don't Try This at Home: A Year in the Life of Dave Navarro]]></title>
+<title_without_series><![CDATA[Don't Try This at Home: A Year in the Life of Dave Navarro]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/114812.Don_t_Try_This_at_Home]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1941210</id>
+</work>
+<isbn>0060988533</isbn>
+<isbn13>9780060988531</isbn13>
+<average_rating>3.47</average_rating>
+<ratings_count>876</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>66465</id>
+<name>Dave Navarro</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66465.Dave_Navarro]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>387218</id>
+<title>Love, Janis</title>
+<title_without_series>Love, Janis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/387218.Love_Janis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>394</num_pages>
+<work>
+<id>376855</id>
+</work>
+<isbn>0060755229</isbn>
+<isbn13>9780060755225</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>2438</ratings_count>
+<publication_year>2005</publication_year>
+<publication_month>8</publication_month>
+<publication_day>16</publication_day>
+<authors>
+<author>
+<id>220134</id>
+<name>Laura Joplin</name>
+<link><![CDATA[https://www.goodreads.com/author/show/220134.Laura_Joplin]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11156963</id>
+<title>It&apos;s So Easy: And Other Lies</title>
+<title_without_series>It&apos;s So Easy: And Other Lies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11156963-it-s-so-easy]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1306787060s/11156963.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1306787060m/11156963.jpg]]></image_url>
+<num_pages>366</num_pages>
+<work>
+<id>16080834</id>
+</work>
+<isbn>145160663X</isbn>
+<isbn13>9781451606638</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>7102</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>10</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>5694283</id>
+<name>Duff McKagan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5694283.Duff_McKagan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>384818</id>
+<title><![CDATA[Jim Morrison: Life, Death, Legend]]></title>
+<title_without_series><![CDATA[Jim Morrison: Life, Death, Legend]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/384818.Jim_Morrison]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>1006358</id>
+</work>
+<isbn>1592400647</isbn>
+<isbn13>9781592400645</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>3054</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>35790</id>
+<name>Stephen Davis</name>
+<link><![CDATA[https://www.goodreads.com/author/show/35790.Stephen_Davis]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6952423</id>
+<title>I Am Ozzy</title>
+<title_without_series>I Am Ozzy</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6952423-i-am-ozzy]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>391</num_pages>
+<work>
+<id>7187129</id>
+</work>
+<isbn>0446569895</isbn>
+<isbn13>9780446569897</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>17969</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>73029</id>
+<name>Ozzy Osbourne</name>
+<link><![CDATA[https://www.goodreads.com/author/show/73029.Ozzy_Osbourne]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>8034497</id>
+<title><![CDATA[My Appetite for Destruction: Sex, and Drugs, and Guns N’ Roses]]></title>
+<title_without_series><![CDATA[My Appetite for Destruction: Sex, and Drugs, and Guns N’ Roses]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/8034497-my-appetite-for-destruction]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>286</num_pages>
+<work>
+<id>12646786</id>
+</work>
+<isbn>0061917117</isbn>
+<isbn13>9780061917110</isbn13>
+<average_rating>3.55</average_rating>
+<ratings_count>3358</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>27</publication_day>
+<authors>
+<author>
+<id>296395</id>
+<name>Steven Adler</name>
+<link><![CDATA[https://www.goodreads.com/author/show/296395.Steven_Adler]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>58547</id>
+<title>Journals</title>
+<title_without_series>Journals</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/58547.Journals]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>304</num_pages>
+<work>
+<id>57016</id>
+</work>
+<isbn>157322359X</isbn>
+<isbn13>9781573223591</isbn13>
+<average_rating>3.98</average_rating>
+<ratings_count>11534</ratings_count>
+<publication_year>2003</publication_year>
+<publication_month>11</publication_month>
+<publication_day>4</publication_day>
+<authors>
+<author>
+<id>33041</id>
+<name>Kurt Cobain</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33041.Kurt_Cobain]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6045961</id>
+<title><![CDATA[Freddie Mercury: His Life in His Own Words]]></title>
+<title_without_series><![CDATA[Freddie Mercury: His Life in His Own Words]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6045961-freddie-mercury]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1328707890s/6045961.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1328707890m/6045961.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>1947773</id>
+</work>
+<isbn>184772650X</isbn>
+<isbn13>9781847726506</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>366</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>7382469</id>
+<name>Greg  Brooks</name>
+<link><![CDATA[https://www.goodreads.com/author/show/7382469.Greg_Brooks]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>37847</id>
+<title><![CDATA[The Long Hard Road Out of Hell]]></title>
+<title_without_series><![CDATA[The Long Hard Road Out of Hell]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/37847.The_Long_Hard_Road_Out_of_Hell]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>275</num_pages>
+<work>
+<id>37641</id>
+</work>
+<isbn>0060987464</isbn>
+<isbn13>9780060987466</isbn13>
+<average_rating>3.88</average_rating>
+<ratings_count>20288</ratings_count>
+<publication_year>1999</publication_year>
+<publication_month>3</publication_month>
+<publication_day>3</publication_day>
+<authors>
+<author>
+<id>14280</id>
+<name>Marilyn Manson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/14280.Marilyn_Manson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1309943</id>
+<title>Neon Angel</title>
+<title_without_series>Neon Angel</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1309943.Neon_Angel]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1299382961s/1309943.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1299382961m/1309943.jpg]]></image_url>
+<num_pages>176</num_pages>
+<work>
+<id>1299214</id>
+</work>
+<isbn>0843123486</isbn>
+<isbn13>9780843123487</isbn13>
+<average_rating>3.93</average_rating>
+<ratings_count>3568</ratings_count>
+<publication_year>1989</publication_year>
+<publication_month>8</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>626995</id>
+<name>Cherie Currie</name>
+<link><![CDATA[https://www.goodreads.com/author/show/626995.Cherie_Currie]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>104961</id>
+<title><![CDATA[Come As You Are: The Story of Nirvana]]></title>
+<title_without_series><![CDATA[Come As You Are: The Story of Nirvana]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/104961.Come_As_You_Are]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1365316660s/104961.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1365316660m/104961.jpg]]></image_url>
+<num_pages>355</num_pages>
+<work>
+<id>101185</id>
+</work>
+<isbn>0385471998</isbn>
+<isbn13>9780385471992</isbn13>
+<average_rating>4.03</average_rating>
+<ratings_count>6872</ratings_count>
+<publication_year>1993</publication_year>
+<publication_month>9</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>16495</id>
+<name>Michael Azerrad</name>
+<link><![CDATA[https://www.goodreads.com/author/show/16495.Michael_Azerrad]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>124771</id>
+<title><![CDATA[Break on Through: The Life and Death of Jim Morrison]]></title>
+<title_without_series><![CDATA[Break on Through: The Life and Death of Jim Morrison]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/124771.Break_on_Through]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1395620938s/124771.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1395620938m/124771.jpg]]></image_url>
+<num_pages>544</num_pages>
+<work>
+<id>120156</id>
+</work>
+<isbn>0688119158</isbn>
+<isbn13>9780688119157</isbn13>
+<average_rating>4.07</average_rating>
+<ratings_count>1210</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>11</publication_month>
+<publication_day>7</publication_day>
+<authors>
+<author>
+<id>5094747</id>
+<name>James Riordan</name>
+<link><![CDATA[https://www.goodreads.com/author/show/5094747.James_Riordan]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>764063</id>
+<title>Wonderful Tonight</title>
+<title_without_series>Wonderful Tonight</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/764063.Wonderful_Tonight]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1320426628s/764063.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1320426628m/764063.jpg]]></image_url>
+<num_pages>321</num_pages>
+<work>
+<id>2128192</id>
+</work>
+<isbn>0307393844</isbn>
+<isbn13>9780307393845</isbn13>
+<average_rating>3.65</average_rating>
+<ratings_count>9455</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>403020</id>
+<name>Pattie Boyd</name>
+<link><![CDATA[https://www.goodreads.com/author/show/403020.Pattie_Boyd]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

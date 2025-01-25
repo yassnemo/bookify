@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>32767</id>
+  <title>At the Mountains of Madness</title>
+  <isbn><![CDATA[0812974417]]></isbn>
+  <isbn13><![CDATA[9780812974416]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[B01M5IA4PC]]></kindle_asin>
+  <marketplace_id><![CDATA[A1F83G8C2ARO7P]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <publication_day>14</publication_day>
+  <publisher>Modern Library</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Long acknowledged as a master of nightmarish vision, H.P. Lovecraft established the genuineness and dignity of his own pioneering fiction in 1931 with his quintessential work of supernatural horror, <i>At the Mountains of Madness</i>. The deliberately told and increasingly chilling recollection of an Antarctic expedition's uncanny discoveries --and their encounter with an untold menace in the ruins of a lost civilization--is a milestone of macabre literature.]]></description>
+  <work>
+  <id type="integer">17342821</id>
+  <books_count type="integer">253</books_count>
+  <best_book_id type="integer">32767</best_book_id>
+  <reviews_count type="integer">34555</reviews_count>
+  <ratings_sum type="integer">79052</ratings_sum>
+  <ratings_count type="integer">20135</ratings_count>
+  <text_reviews_count type="integer">1486</text_reviews_count>
+  <original_publication_year type="integer">1936</original_publication_year>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>At the Mountains of Madness</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:6858|4:7076|3:4426|2:1405|1:370|total:20135</rating_dist>
+  <desc_user_id type="integer">55734545</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.93</average_rating>
+  <num_pages><![CDATA[186]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[definitive]]></edition_information>
+  <ratings_count><![CDATA[16660]]></ratings_count>
+  <text_reviews_count><![CDATA[1060]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/32767.At_the_Mountains_of_Madness]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/32767.At_the_Mountains_of_Madness]]></link>
+  <authors>
+<author>
+<id>9494</id>
+<name>H.P. Lovecraft</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1299165714p5/9494.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1299165714p2/9494.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9494.H_P_Lovecraft]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>369974</ratings_count>
+<text_reviews_count>17380</text_reviews_count>
+</author>
+<author>
+<id>33918</id>
+<name>China Miéville</name>
+<role>Introduction</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243988363p5/33918.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243988363p2/33918.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33918.China_Mi_ville]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>225997</ratings_count>
+<text_reviews_count>22470</text_reviews_count>
+</author>
+<author>
+<id>406026</id>
+<name>S.T. Joshi</name>
+<role>Editor</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371138684p5/406026.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371138684p2/406026.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/406026.S_T_Joshi]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>77003</ratings_count>
+<text_reviews_count>2898</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/32767.At_the_Mountains_of_Madness">At the Mountains of Madness Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0812974417&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/32767.At_the_Mountains_of_Madness?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="11211"/>
+      <shelf name="horror" count="1111"/>
+      <shelf name="currently-reading" count="693"/>
+      <shelf name="fiction" count="334"/>
+      <shelf name="classics" count="287"/>
+      <shelf name="science-fiction" count="278"/>
+      <shelf name="favorites" count="221"/>
+      <shelf name="fantasy" count="215"/>
+      <shelf name="sci-fi" count="160"/>
+      <shelf name="1001-books" count="96"/>
+      <shelf name="1001" count="67"/>
+      <shelf name="audiobook" count="61"/>
+      <shelf name="owned" count="59"/>
+      <shelf name="short-stories" count="58"/>
+      <shelf name="lovecraft" count="55"/>
+      <shelf name="classic" count="53"/>
+      <shelf name="audiobooks" count="49"/>
+      <shelf name="novels" count="38"/>
+      <shelf name="ebook" count="38"/>
+      <shelf name="kindle" count="36"/>
+      <shelf name="terror" count="35"/>
+      <shelf name="audible" count="34"/>
+      <shelf name="weird-fiction" count="34"/>
+      <shelf name="1001-books-to-read-before-you-die" count="33"/>
+      <shelf name="h-p-lovecraft" count="32"/>
+      <shelf name="american" count="32"/>
+      <shelf name="adventure" count="31"/>
+      <shelf name="literature" count="30"/>
+      <shelf name="audio" count="27"/>
+      <shelf name="lovecraftian" count="26"/>
+      <shelf name="antarctica" count="26"/>
+      <shelf name="1001-books-to-read" count="25"/>
+      <shelf name="default" count="24"/>
+      <shelf name="1001-import" count="23"/>
+      <shelf name="sci-fi-fantasy" count="23"/>
+      <shelf name="gothic" count="23"/>
+      <shelf name="book-club" count="23"/>
+      <shelf name="mystery" count="22"/>
+      <shelf name="books-i-own" count="21"/>
+      <shelf name="novella" count="21"/>
+      <shelf name="sf" count="20"/>
+      <shelf name="supernatural" count="20"/>
+      <shelf name="library" count="19"/>
+      <shelf name="weird" count="18"/>
+      <shelf name="speculative-fiction" count="18"/>
+      <shelf name="owned-books" count="17"/>
+      <shelf name="to-buy" count="17"/>
+      <shelf name="ebooks" count="17"/>
+      <shelf name="abandoned" count="16"/>
+      <shelf name="thriller" count="16"/>
+      <shelf name="scifi" count="16"/>
+      <shelf name="20th-century" count="16"/>
+      <shelf name="read-in-2014" count="15"/>
+      <shelf name="books" count="15"/>
+      <shelf name="science-fiction-fantasy" count="15"/>
+      <shelf name="1001-to-read" count="14"/>
+      <shelf name="novellas" count="14"/>
+      <shelf name="american-literature" count="14"/>
+      <shelf name="usa" count="13"/>
+      <shelf name="english" count="13"/>
+      <shelf name="e-book" count="13"/>
+      <shelf name="1001-books-you-must-read-before-you" count="13"/>
+      <shelf name="hp-lovecraft" count="12"/>
+      <shelf name="wish-list" count="12"/>
+      <shelf name="scifi-fantasy" count="12"/>
+      <shelf name="horror-thriller" count="12"/>
+      <shelf name="fantasy-sci-fi" count="12"/>
+      <shelf name="e-books" count="12"/>
+      <shelf name="1930s" count="12"/>
+      <shelf name="read-in-2016" count="11"/>
+      <shelf name="american-lit" count="11"/>
+      <shelf name="cthulhu-mythos" count="11"/>
+      <shelf name="paranormal" count="11"/>
+      <shelf name="cosmic-horror" count="11"/>
+      <shelf name="audio-books" count="11"/>
+      <shelf name="audio-book" count="10"/>
+      <shelf name="reviewed" count="10"/>
+      <shelf name="favourites" count="10"/>
+      <shelf name="unfinished" count="10"/>
+      <shelf name="read-in-2012" count="10"/>
+      <shelf name="suspense" count="10"/>
+      <shelf name="library-books" count="9"/>
+      <shelf name="my-library" count="9"/>
+      <shelf name="dark" count="9"/>
+      <shelf name="mythology" count="9"/>
+      <shelf name="1900s" count="9"/>
+      <shelf name="dnf" count="8"/>
+      <shelf name="listened-to" count="8"/>
+      <shelf name="1001-before-you-die" count="8"/>
+      <shelf name="aliens" count="8"/>
+      <shelf name="creepy" count="8"/>
+      <shelf name="read-in-english" count="8"/>
+      <shelf name="my-books" count="8"/>
+      <shelf name="gothic-horror" count="8"/>
+      <shelf name="classic-horror" count="8"/>
+      <shelf name="adult-fiction" count="8"/>
+      <shelf name="read-2016" count="7"/>
+      <shelf name="read-2014" count="7"/>
+      <shelf name="classic-literature" count="7"/>
+      <shelf name="monsters" count="7"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>320700</id>
+<title>Shadows over Innsmouth</title>
+<title_without_series>Shadows over Innsmouth</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/320700.Shadows_over_Innsmouth]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1293833116s/320700.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1293833116m/320700.jpg]]></image_url>
+<num_pages>468</num_pages>
+<work>
+<id>3077645</id>
+</work>
+<isbn>0345444078</isbn>
+<isbn13>9780345444073</isbn13>
+<average_rating>4.43</average_rating>
+<ratings_count>10733</ratings_count>
+<publication_year>2001</publication_year>
+<publication_month>8</publication_month>
+<publication_day>28</publication_day>
+<authors>
+<author>
+<id>6943</id>
+<name>Stephen Jones</name>
+<link><![CDATA[https://www.goodreads.com/author/show/6943.Stephen_Jones]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>220937</id>
+<title>The House on the Borderland</title>
+<title_without_series>The House on the Borderland</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/220937.The_House_on_the_Borderland]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>3150114</id>
+</work>
+<isbn>1426438281</isbn>
+<isbn13>9781426438288</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>3957</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>51422</id>
+<name>William Hope Hodgson</name>
+<link><![CDATA[https://www.goodreads.com/author/show/51422.William_Hope_Hodgson]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>102084</id>
+<title>The Door to Saturn</title>
+<title_without_series>The Door to Saturn</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/102084.The_Door_to_Saturn]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366659425s/102084.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366659425m/102084.jpg]]></image_url>
+<num_pages>350</num_pages>
+<work>
+<id>98424</id>
+</work>
+<isbn>1597800295</isbn>
+<isbn13>9781597800297</isbn13>
+<average_rating>4.35</average_rating>
+<ratings_count>270</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>57720</id>
+<name>Clark Ashton Smith</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57720.Clark_Ashton_Smith]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>219600</id>
+<title><![CDATA[Grimscribe: His Lives and Works]]></title>
+<title_without_series><![CDATA[Grimscribe: His Lives and Works]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/219600.Grimscribe]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>230</num_pages>
+<work>
+<id>1507025</id>
+</work>
+<isbn>0515114715</isbn>
+<isbn13>9780515114713</isbn13>
+<average_rating>4.17</average_rating>
+<ratings_count>969</ratings_count>
+<publication_year>1994</publication_year>
+<publication_month>10</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>128466</id>
+<name>Thomas Ligotti</name>
+<link><![CDATA[https://www.goodreads.com/author/show/128466.Thomas_Ligotti]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>224740</id>
+<title>One Lonely Night</title>
+<title_without_series>One Lonely Night</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/224740.One_Lonely_Night]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1405015292s/224740.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1405015292m/224740.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2516211</id>
+</work>
+<isbn>0792721055</isbn>
+<isbn13>9780792721055</isbn13>
+<average_rating>3.61</average_rating>
+<ratings_count>492</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>50948</id>
+<name>Mickey Spillane</name>
+<link><![CDATA[https://www.goodreads.com/author/show/50948.Mickey_Spillane]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1886928</id>
+<title>The Mask of Cthulhu</title>
+<title_without_series>The Mask of Cthulhu</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1886928.The_Mask_of_Cthulhu]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>175</num_pages>
+<work>
+<id>1203150</id>
+</work>
+<isbn>0586041397</isbn>
+<isbn13>9780586041390</isbn13>
+<average_rating>3.76</average_rating>
+<ratings_count>819</ratings_count>
+<publication_year>1976</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>20598</id>
+<name>August Derleth</name>
+<link><![CDATA[https://www.goodreads.com/author/show/20598.August_Derleth]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1335601</id>
+<title>The Willows</title>
+<title_without_series>The Willows</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1335601.The_Willows]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>105</num_pages>
+<work>
+<id>2588003</id>
+</work>
+<isbn>1587156520</isbn>
+<isbn13>9781587156526</isbn13>
+<average_rating>4.11</average_rating>
+<ratings_count>4414</ratings_count>
+<publication_year>2002</publication_year>
+<publication_month>6</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>38840</id>
+<name>Algernon Blackwood</name>
+<link><![CDATA[https://www.goodreads.com/author/show/38840.Algernon_Blackwood]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>13806657</id>
+<title><![CDATA[The Case of Charles Dexter Ward: A Graphic Novel]]></title>
+<title_without_series><![CDATA[The Case of Charles Dexter Ward: A Graphic Novel]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/13806657-the-case-of-charles-dexter-ward]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1337282007s/13806657.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1337282007m/13806657.jpg]]></image_url>
+<num_pages>144</num_pages>
+<work>
+<id>25254722</id>
+</work>
+<isbn>1906838356</isbn>
+<isbn13>9781906838355</isbn13>
+<average_rating>3.80</average_rating>
+<ratings_count>609</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2983802</id>
+<name>I.N.J. Culbard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2983802.I_N_J_Culbard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>70925</id>
+<title><![CDATA[The Narrative of Arthur Gordon Pym of Nantucket and Related Tales]]></title>
+<title_without_series><![CDATA[The Narrative of Arthur Gordon Pym of Nantucket and Related Tales]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/70925.The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket_and_Related_Tales]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>336</num_pages>
+<work>
+<id>44929398</id>
+</work>
+<isbn>0192837710</isbn>
+<isbn13>9780192837714</isbn13>
+<average_rating>3.67</average_rating>
+<ratings_count>2332</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>11</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<link><![CDATA[https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>7876300</id>
+<title>Occultation and Other Stories</title>
+<title_without_series>Occultation and Other Stories</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/7876300-occultation-and-other-stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1391343156s/7876300.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1391343156m/7876300.jpg]]></image_url>
+<num_pages>245</num_pages>
+<work>
+<id>11064487</id>
+</work>
+<isbn>1597801925</isbn>
+<isbn13>9781597801928</isbn13>
+<average_rating>4.09</average_rating>
+<ratings_count>1644</ratings_count>
+<publication_year>2010</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>466494</id>
+<name>Laird Barron</name>
+<link><![CDATA[https://www.goodreads.com/author/show/466494.Laird_Barron]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>774846</id>
+<title>The Great God Pan</title>
+<title_without_series>The Great God Pan</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/774846.The_Great_God_Pan]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>82</num_pages>
+<work>
+<id>760887</id>
+</work>
+<isbn>1871592119</isbn>
+<isbn13>9781871592115</isbn13>
+<average_rating>3.79</average_rating>
+<ratings_count>5985</ratings_count>
+<publication_year>1995</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33546</id>
+<name>Arthur Machen</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33546.Arthur_Machen]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>4413273</id>
+<title>The Phoenix on the Sword</title>
+<title_without_series>The Phoenix on the Sword</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/4413273-the-phoenix-on-the-sword]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>432538</id>
+</work>
+<isbn>1406572152</isbn>
+<isbn13>9781406572155</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>520</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>66700</id>
+<name>Robert E. Howard</name>
+<link><![CDATA[https://www.goodreads.com/author/show/66700.Robert_E_Howard]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>129798</id>
+<title><![CDATA[The King in Yellow and Other Horror Stories]]></title>
+<title_without_series><![CDATA[The King in Yellow and Other Horror Stories]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/129798.The_King_in_Yellow_and_Other_Horror_Stories]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1416873291s/129798.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1416873291m/129798.jpg]]></image_url>
+<num_pages>287</num_pages>
+<work>
+<id>954927</id>
+</work>
+<isbn>0486437507</isbn>
+<isbn13>9780486437507</isbn13>
+<average_rating>3.57</average_rating>
+<ratings_count>11982</ratings_count>
+<publication_year>2004</publication_year>
+<publication_month>7</publication_month>
+<publication_day>30</publication_day>
+<authors>
+<author>
+<id>57739</id>
+<name>Robert W. Chambers</name>
+<link><![CDATA[https://www.goodreads.com/author/show/57739.Robert_W_Chambers]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>11251546</id>
+<title>New Cthulhu: The Recent Weird</title>
+<title_without_series>New Cthulhu: The Recent Weird</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/11251546-new-cthulhu]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1327903373s/11251546.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1327903373m/11251546.jpg]]></image_url>
+<num_pages>520</num_pages>
+<work>
+<id>16178063</id>
+</work>
+<isbn>1607012898</isbn>
+<isbn13>9781607012894</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1559</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>11</publication_month>
+<publication_day>23</publication_day>
+<authors>
+<author>
+<id>131337</id>
+<name>Paula Guran</name>
+<link><![CDATA[https://www.goodreads.com/author/show/131337.Paula_Guran]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>757479</id>
+<title>The Ceremonies</title>
+<title_without_series>The Ceremonies</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/757479.The_Ceremonies]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1394205084s/757479.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1394205084m/757479.jpg]]></image_url>
+<num_pages>554</num_pages>
+<work>
+<id>743592</id>
+</work>
+<isbn>0553250558</isbn>
+<isbn13>9780553250558</isbn13>
+<average_rating>3.90</average_rating>
+<ratings_count>1110</ratings_count>
+<publication_year></publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>1141781</id>
+<name>T.E.D. Klein</name>
+<link><![CDATA[https://www.goodreads.com/author/show/1141781.T_E_D_Klein]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>219063</id>
+<title><![CDATA[The Encyclopedia Cthulhiana: A Guide to Lovecraftian Horror]]></title>
+<title_without_series><![CDATA[The Encyclopedia Cthulhiana: A Guide to Lovecraftian Horror]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/219063.The_Encyclopedia_Cthulhiana]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>423</num_pages>
+<work>
+<id>212101</id>
+</work>
+<isbn>1568821190</isbn>
+<isbn13>9781568821191</isbn13>
+<average_rating>4.18</average_rating>
+<ratings_count>952</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>7</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>33303</id>
+<name>Daniel Harms</name>
+<link><![CDATA[https://www.goodreads.com/author/show/33303.Daniel_Harms]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1171727</id>
+<title>Malpertuis</title>
+<title_without_series>Malpertuis</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1171727.Malpertuis]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>171</num_pages>
+<work>
+<id>1159481</id>
+</work>
+<isbn>0947757988</isbn>
+<isbn13>9780947757984</isbn13>
+<average_rating>3.96</average_rating>
+<ratings_count>361</ratings_count>
+<publication_year>1998</publication_year>
+<publication_month>1</publication_month>
+<publication_day>1</publication_day>
+<authors>
+<author>
+<id>111191</id>
+<name>Jean Ray</name>
+<link><![CDATA[https://www.goodreads.com/author/show/111191.Jean_Ray]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>

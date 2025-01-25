@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[all_men_must_serve]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+  <id>1499340</id>
+  <title>5 cm</title>
+  <isbn><![CDATA[9797591514]]></isbn>
+  <isbn13><![CDATA[9789797591519]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <kindle_asin><![CDATA[]]></kindle_asin>
+  <marketplace_id><![CDATA[]]></marketplace_id>
+  <country_code><![CDATA[GB]]></country_code>
+  <image_url>https://images.gr-assets.com/books/1472231689m/1499340.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1472231689s/1499340.jpg</small_image_url>
+  <publication_year>2005</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Grasindo</publisher>
+  <language_code>ind</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Bestseller book di Gramedia Bookstore selama 2 tahun berturut-turut!<br /><br />Lima sahabat telah menjalin persahabatan selama tujuh tahun. Mereka adalah Arial yang paling tampan, Riani sebagai satu-satunya wanita dalam kelompok itu, Zafran yang berlagak seperti seorang penyair, Ian yang paling subur badannya, dan Genta yang dianggap sebagai leader dalam kelompok itu. Kegemaran mereka adalah mengeksekusi hal-hal yang tidak mungkin dan mencoba segala hal, mulai dari kafe paling terkenal di Jakarta, sampai nonton layar tancap. Semuanya penggemar film, dari film Hollywood sampai film yang nggak kelas—kecuali film India karena mereka punya prinsip bahwa semua persoalan di dunia atau masalah pasti ada jalan keluarnya, tapi bukan dalam bentuk joget.<br /><br />Suatu saat, karena terdorong oleh rasa bosan di antara satu dan yang lain, mereka memutuskan untuk tidak saling berkomunikasi dan bertemu satu sama lain selama tiga bulan. Selama tiga bulan berpisah itulah telah terjadi banyak hal yang membuat hati mereka lebih kaya dari sebelumnya. Pertemuan setelah tiga bulan yang penuh dengan rasa kangen akhirnya terjadi dan dirayakan dengan sebuah perjalanan. Sebuah perjalanan yang penuh dengan keyakinan, mimpi, cita-cita, dan cinta. Sebuah perjalanan yang telah mengubah mereka menjadi manusia sesungguhnya, bukan Cuma seonggok daging yang bisa berbicara, berjalan, dan punya nama.<br /><br /><i><b>“Ada yang pernah bilang kalau idealisme adalah kemewahan terakhir yang dimiliki oleh generasi muda….” </b> </i>]]></description>
+  <work>
+  <id type="integer">2001252</id>
+  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">1499340</best_book_id>
+  <reviews_count type="integer">20504</reviews_count>
+  <ratings_sum type="integer">49024</ratings_sum>
+  <ratings_count type="integer">12772</ratings_count>
+  <text_reviews_count type="integer">1441</text_reviews_count>
+  <original_publication_year type="integer">2005</original_publication_year>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_title>5 cm</original_title>
+  <original_language_id type="integer" nil="true"/>
+  <media_type>book</media_type>
+  <rating_dist>5:4268|4:4127|3:2855|2:1089|1:433|total:12772</rating_dist>
+  <desc_user_id type="integer">5044327</desc_user_id>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+</work>
+  <average_rating>3.84</average_rating>
+  <num_pages><![CDATA[381]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[12532]]></ratings_count>
+  <text_reviews_count><![CDATA[1408]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/1499340.5_cm]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/1499340.5_cm]]></link>
+  <authors>
+<author>
+<id>700880</id>
+<name>Donny Dhirgantoro</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1314135884p5/700880.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1314135884p2/700880.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/700880.Donny_Dhirgantoro]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>15089</ratings_count>
+<text_reviews_count>1669</text_reviews_count>
+</author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a rel="nofollow" href="https://www.goodreads.com/book/show/1499340.5_cm">5 cm Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9797591514&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a class="gr_branding" target="_blank" rel="nofollow" href="https://www.goodreads.com/book/show/1499340.5_cm?utm_medium=api&amp;utm_source=reviews_widget">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="5476"/>
+      <shelf name="currently-reading" count="466"/>
+      <shelf name="novel" count="121"/>
+      <shelf name="favorites" count="79"/>
+      <shelf name="indonesian" count="77"/>
+      <shelf name="fiction" count="65"/>
+      <shelf name="indonesia" count="54"/>
+      <shelf name="fiksi" count="31"/>
+      <shelf name="adventure" count="29"/>
+      <shelf name="friendship" count="26"/>
+      <shelf name="romance" count="25"/>
+      <shelf name="owned" count="23"/>
+      <shelf name="novel-indonesia" count="22"/>
+      <shelf name="indonesian-books" count="17"/>
+      <shelf name="travel" count="14"/>
+      <shelf name="favorite" count="14"/>
+      <shelf name="novels" count="14"/>
+      <shelf name="young-adult" count="13"/>
+      <shelf name="fiksi-indonesia" count="13"/>
+      <shelf name="pinjam" count="12"/>
+      <shelf name="punya" count="12"/>
+      <shelf name="indonesian-literature" count="11"/>
+      <shelf name="owned-books" count="11"/>
+      <shelf name="mine" count="10"/>
+      <shelf name="5cm" count="9"/>
+      <shelf name="5-cm" count="9"/>
+      <shelf name="borrowed" count="9"/>
+      <shelf name="inspiring" count="9"/>
+      <shelf name="inspirational" count="8"/>
+      <shelf name="motivation" count="8"/>
+      <shelf name="drama" count="8"/>
+      <shelf name="grasindo" count="7"/>
+      <shelf name="contemporary" count="6"/>
+      <shelf name="books-i-own" count="6"/>
+      <shelf name="travelling" count="6"/>
+      <shelf name="inspiratif" count="6"/>
+      <shelf name="pinjem" count="6"/>
+      <shelf name="unfinished" count="6"/>
+      <shelf name="motivasi" count="6"/>
+      <shelf name="life" count="6"/>
+      <shelf name="local" count="6"/>
+      <shelf name="borrow" count="5"/>
+      <shelf name="love" count="5"/>
+      <shelf name="indonesian-novel" count="5"/>
+      <shelf name="favourite" count="5"/>
+      <shelf name="minjem" count="5"/>
+      <shelf name="lokal" count="5"/>
+      <shelf name="done" count="5"/>
+      <shelf name="indonesia-books" count="4"/>
+      <shelf name="petualangan" count="4"/>
+      <shelf name="novel-motivasi" count="4"/>
+      <shelf name="inspiration" count="4"/>
+      <shelf name="humor" count="4"/>
+      <shelf name="indonesian-author" count="4"/>
+      <shelf name="i-own-a-copy" count="4"/>
+      <shelf name="drama-romance" count="4"/>
+      <shelf name="traveling" count="4"/>
+      <shelf name="sastra-indonesia" count="4"/>
+      <shelf name="pinjeman" count="4"/>
+      <shelf name="sastra" count="4"/>
+      <shelf name="metropop" count="4"/>
+      <shelf name="indo" count="4"/>
+      <shelf name="dnf" count="3"/>
+      <shelf name="realistic-fiction" count="3"/>
+      <shelf name="asian-literature" count="3"/>
+      <shelf name="donny-dhirgantoro" count="3"/>
+      <shelf name="non-fiksi" count="3"/>
+      <shelf name="not-my-cup-of-tea" count="3"/>
+      <shelf name="gramedia" count="3"/>
+      <shelf name="paperback" count="3"/>
+      <shelf name="comedy" count="3"/>
+      <shelf name="finished" count="3"/>
+      <shelf name="overrated" count="3"/>
+      <shelf name="koleksi-pribadi" count="3"/>
+      <shelf name="owned-book" count="3"/>
+      <shelf name="slice-of-life" count="3"/>
+      <shelf name="finish" count="3"/>
+      <shelf name="novel-fiksi" count="3"/>
+      <shelf name="finished-reading" count="3"/>
+      <shelf name="fav" count="3"/>
+      <shelf name="indonesian-literatures" count="3"/>
+      <shelf name="milik-sendiri" count="3"/>
+      <shelf name="buku-indonesia" count="3"/>
+      <shelf name="recommended" count="3"/>
+      <shelf name="fiksi-lokal" count="3"/>
+      <shelf name="penulis-indonesia" count="2"/>
+      <shelf name="bahasa-indonesia" count="2"/>
+      <shelf name="not-owned" count="2"/>
+      <shelf name="indonesia-novel" count="2"/>
+      <shelf name="buku-pinjam" count="2"/>
+      <shelf name="e-book" count="2"/>
+      <shelf name="recommended-book" count="2"/>
+      <shelf name="pinjam-teman" count="2"/>
+      <shelf name="nusantara" count="2"/>
+      <shelf name="1" count="2"/>
+      <shelf name="library" count="2"/>
+      <shelf name="want-to-read" count="2"/>
+      <shelf name="genre-fiction" count="2"/>
+      <shelf name="a" count="2"/>
+      <shelf name="punya-sendiri" count="2"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <buy_links>
+    <buy_link>
+<id>1</id>
+<name>Amazon</name>
+<link>https://www.goodreads.com/book_link/follow/1</link>
+</buy_link>
+<buy_link>
+<id>10</id>
+<name>Audible</name>
+<link>https://www.goodreads.com/book_link/follow/10</link>
+</buy_link>
+<buy_link>
+<id>3</id>
+<name>Barnes &amp; Noble</name>
+<link>https://www.goodreads.com/book_link/follow/3</link>
+</buy_link>
+<buy_link>
+<id>1027</id>
+<name>Kobo</name>
+<link>https://www.goodreads.com/book_link/follow/1027</link>
+</buy_link>
+<buy_link>
+<id>2102</id>
+<name>Apple iBooks</name>
+<link>https://www.goodreads.com/book_link/follow/2102</link>
+</buy_link>
+<buy_link>
+<id>8036</id>
+<name>Google Play</name>
+<link>https://www.goodreads.com/book_link/follow/8036</link>
+</buy_link>
+<buy_link>
+<id>4</id>
+<name>Abebooks</name>
+<link>https://www.goodreads.com/book_link/follow/4</link>
+</buy_link>
+<buy_link>
+<id>882</id>
+<name>Book Depository</name>
+<link>https://www.goodreads.com/book_link/follow/882</link>
+</buy_link>
+<buy_link>
+<id>9</id>
+<name>Indigo</name>
+<link>https://www.goodreads.com/book_link/follow/9</link>
+</buy_link>
+<buy_link>
+<id>2</id>
+<name>Half.com</name>
+<link>https://www.goodreads.com/book_link/follow/2</link>
+</buy_link>
+<buy_link>
+<id>5</id>
+<name>Alibris</name>
+<link>https://www.goodreads.com/book_link/follow/5</link>
+</buy_link>
+<buy_link>
+<id>107</id>
+<name>Better World Books</name>
+<link>https://www.goodreads.com/book_link/follow/107</link>
+</buy_link>
+<buy_link>
+<id>7</id>
+<name>IndieBound</name>
+<link>https://www.goodreads.com/book_link/follow/7</link>
+</buy_link>
+
+  </buy_links>
+  <series_works>
+    
+  </series_works>
+  <similar_books>
+          <book>
+<id>6688121</id>
+<title><![CDATA[Negeri 5 Menara (Negeri 5 Menara, #1)]]></title>
+<title_without_series>Negeri 5 Menara</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6688121-negeri-5-menara]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>432</num_pages>
+<work>
+<id>6883482</id>
+</work>
+<isbn></isbn>
+<isbn13>9789792248616</isbn13>
+<average_rating>4.04</average_rating>
+<ratings_count>10131</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>3012699</id>
+<name>Ahmad Fuadi</name>
+<link><![CDATA[https://www.goodreads.com/author/show/3012699.Ahmad_Fuadi]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1464757</id>
+<title><![CDATA[Edensor (Tetralogi Laskar Pelangi, #3)]]></title>
+<title_without_series>Edensor</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1464757.Edensor]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1489733485s/1464757.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1489733485m/1464757.jpg]]></image_url>
+<num_pages></num_pages>
+<work>
+<id>2490700</id>
+</work>
+<isbn></isbn>
+<isbn13>9789791227025</isbn13>
+<average_rating>4.06</average_rating>
+<ratings_count>12264</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>647438</id>
+<name>Andrea Hirata</name>
+<link><![CDATA[https://www.goodreads.com/author/show/647438.Andrea_Hirata]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6765740</id>
+<title>Perahu Kertas</title>
+<title_without_series>Perahu Kertas</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6765740-perahu-kertas]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1356225544s/6765740.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1356225544m/6765740.jpg]]></image_url>
+<num_pages>456</num_pages>
+<work>
+<id>6964146</id>
+</work>
+<isbn></isbn>
+<isbn13>9789791227780</isbn13>
+<average_rating>3.94</average_rating>
+<ratings_count>14463</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>8</publication_month>
+<publication_day>29</publication_day>
+<authors>
+<author>
+<id>164478</id>
+<name>Dee Lestari</name>
+<link><![CDATA[https://www.goodreads.com/author/show/164478.Dee_Lestari]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1493217</id>
+<title><![CDATA[Travelers' Tale, Belok Kanan: Barcelona! ]]></title>
+<title_without_series><![CDATA[Travelers' Tale, Belok Kanan: Barcelona!]]></title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1493217.Travelers_Tale_Belok_Kanan]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1325225418s/1493217.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1325225418m/1493217.jpg]]></image_url>
+<num_pages>230</num_pages>
+<work>
+<id>1847483</id>
+</work>
+<isbn>9797800946</isbn>
+<isbn13>9789797800949</isbn13>
+<average_rating>3.73</average_rating>
+<ratings_count>3401</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>600299</id>
+<name>Adhitya Mulya</name>
+<link><![CDATA[https://www.goodreads.com/author/show/600299.Adhitya_Mulya]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1376220</id>
+<title>Hafalan Shalat Delisa</title>
+<title_without_series>Hafalan Shalat Delisa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1376220.Hafalan_Shalat_Delisa]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1303475676s/1376220.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1303475676m/1376220.jpg]]></image_url>
+<num_pages>248</num_pages>
+<work>
+<id>1489929</id>
+</work>
+<isbn>9793210605</isbn>
+<isbn13></isbn13>
+<average_rating>4.20</average_rating>
+<ratings_count>7893</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>838768</id>
+<name>Tere Liye</name>
+<link><![CDATA[https://www.goodreads.com/author/show/838768.Tere_Liye]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>6379405</id>
+<title>Negeri van Oranje</title>
+<title_without_series>Negeri van Oranje</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/6379405-negeri-van-oranje]]></link>
+<small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png]]></small_image_url>
+<image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png]]></image_url>
+<num_pages>478</num_pages>
+<work>
+<id>6567284</id>
+</work>
+<isbn></isbn>
+<isbn13>9789791227582</isbn13>
+<average_rating>3.83</average_rating>
+<ratings_count>3028</ratings_count>
+<publication_year>2009</publication_year>
+<publication_month>4</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>2890993</id>
+<name>Wahyuningrat</name>
+<link><![CDATA[https://www.goodreads.com/author/show/2890993.Wahyuningrat]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>969177</id>
+<title>Ayat-Ayat Cinta</title>
+<title_without_series>Ayat-Ayat Cinta</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/969177.Ayat_Ayat_Cinta]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1439347437s/969177.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1439347437m/969177.jpg]]></image_url>
+<num_pages>418</num_pages>
+<work>
+<id>2523438</id>
+</work>
+<isbn>9832672368</isbn>
+<isbn13></isbn13>
+<average_rating>3.82</average_rating>
+<ratings_count>12677</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>489970</id>
+<name>Habiburrahman El-Shirazy</name>
+<link><![CDATA[https://www.goodreads.com/author/show/489970.Habiburrahman_El_Shirazy]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1327076</id>
+<title><![CDATA[Putri Hujan & Ksatria Malam (Hanafiah, #3)]]></title>
+<title_without_series>Putri Hujan &amp; Ksatria Malam</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1327076.Putri_Hujan_Ksatria_Malam]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1394581292s/1327076.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1394581292m/1327076.jpg]]></image_url>
+<num_pages>368</num_pages>
+<work>
+<id>1316512</id>
+</work>
+<isbn>9793750170</isbn>
+<isbn13></isbn13>
+<average_rating>3.85</average_rating>
+<ratings_count>1626</ratings_count>
+<publication_year>2006</publication_year>
+<publication_month>9</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>516784</id>
+<name>Sitta Karina</name>
+<link><![CDATA[https://www.goodreads.com/author/show/516784.Sitta_Karina]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>17844084</id>
+<title>Bangkok: The Journal</title>
+<title_without_series>Bangkok: The Journal</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/17844084-bangkok]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1366811074s/17844084.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1366811074m/17844084.jpg]]></image_url>
+<num_pages>436</num_pages>
+<work>
+<id>24973263</id>
+</work>
+<isbn>9797806294</isbn>
+<isbn13>9789797806293</isbn13>
+<average_rating>4.05</average_rating>
+<ratings_count>1280</ratings_count>
+<publication_year>2013</publication_year>
+<publication_month></publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>814057</id>
+<name>Moemoe Rizal</name>
+<link><![CDATA[https://www.goodreads.com/author/show/814057.Moemoe_Rizal]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>12290008</id>
+<title>Antologi Rasa</title>
+<title_without_series>Antologi Rasa</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/12290008-antologi-rasa]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1312549657s/12290008.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1312549657m/12290008.jpg]]></image_url>
+<num_pages>328</num_pages>
+<work>
+<id>17266563</id>
+</work>
+<isbn></isbn>
+<isbn13>9789792274394</isbn13>
+<average_rating>3.75</average_rating>
+<ratings_count>4953</ratings_count>
+<publication_year>2011</publication_year>
+<publication_month>8</publication_month>
+<publication_day>19</publication_day>
+<authors>
+<author>
+<id>920483</id>
+<name>Ika Natassa</name>
+<link><![CDATA[https://www.goodreads.com/author/show/920483.Ika_Natassa]]></link>
+</author>
+</authors>
+</book>
+
+          <book>
+<id>1644590</id>
+<title>The Naked Traveler</title>
+<title_without_series>The Naked Traveler</title_without_series>
+<link><![CDATA[https://www.goodreads.com/book/show/1644590.The_Naked_Traveler]]></link>
+<small_image_url><![CDATA[https://images.gr-assets.com/books/1407053661s/1644590.jpg]]></small_image_url>
+<image_url><![CDATA[https://images.gr-assets.com/books/1407053661m/1644590.jpg]]></image_url>
+<num_pages>282</num_pages>
+<work>
+<id>1638995</id>
+</work>
+<isbn></isbn>
+<isbn13>9789792439366</isbn13>
+<average_rating>3.78</average_rating>
+<ratings_count>3802</ratings_count>
+<publication_year>2007</publication_year>
+<publication_month>6</publication_month>
+<publication_day></publication_day>
+<authors>
+<author>
+<id>760344</id>
+<name>Trinity</name>
+<link><![CDATA[https://www.goodreads.com/author/show/760344.Trinity]]></link>
+</author>
+</authors>
+</book>
+
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
