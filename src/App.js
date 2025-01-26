@@ -3,31 +3,36 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import BookList from './components/BookList';
 import BookDetails from './components/BookDetails';
+import Browse from './components/Browse';
 import parseXMLBooks from './utils/xmlParser';
-import './styles/global.css';
 
 function App() {
-  const [books, setBooks] = useState([]);
-  const [page, setPage] = useState(1);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+    const [books, setBooks] = useState([]);
+    const [filteredBooks, setFilteredBooks] = useState([]);
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
+    const [currentPage, setCurrentPage] = useState(1);
 
-  useEffect(() => {
-      const loadBooks = async () => {
-          try {
-              const newBooks = await parseXMLBooks(page);
-              setBooks(prev => [...prev, ...newBooks]);
-          } catch (err) {
-              setError('Failed to load books');
-              console.error(err);
-          } finally {
-              setLoading(false);
-          }
-      };
-      
-      loadBooks();
-  }, [page]);
+    useEffect(() => {
+        const loadBooks = async () => {
+            try {
+                const newBooks = await parseXMLBooks(currentPage);
+                setBooks(prev => [...prev, ...newBooks]);
+                setFilteredBooks(prev => [...prev, ...newBooks]);
+            } catch (err) {
+                setError('Failed to load books');
+                console.error(err);
+            } finally {
+                setLoading(false);
+            }
+        };
+        
+        loadBooks();
+    }, [currentPage]);
 
+    const loadMore = () => {
+        setCurrentPage(prev => prev + 1);
+    };
     const handleSearch = (query) => {
         if (!query.trim()) {
             setFilteredBooks(books);
@@ -51,6 +56,7 @@ function App() {
                 <main>
                     <Routes>
                         <Route path="/" element={<BookList books={filteredBooks} />} />
+                        <Route path="/browse" element={<Browse books={books} />} />
                         <Route path="/book/:id" element={<BookDetails />} />
                     </Routes>
                 </main>
